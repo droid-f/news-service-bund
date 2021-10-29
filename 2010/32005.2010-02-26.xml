@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="32005" revoked="no">
+    <version>1</version>
+    <pubdate>2010-02-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="605" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Die Einkommenslandschaft der Schweiz verändert sich</title>
+      <lead>Die Eidgenössische Steuerverwaltung (ESTV) hat ihre thematischen Karten aktualisiert.</lead>
+      <text link="no">&lt;p&gt;Die Eidgenössische Steuerverwaltung (ESTV) hat ihre thematischen Karten aktualisiert, welche die Einkommensverteilung in verschiedenen Regionen der Schweiz zeigen, und erklärt die Einkommensverteilung zwischen den Personen und innerhalb des Landes. Es zeigt sich ein kontrastreiches Bild der Einkommensverteilung in der Schweiz. Ausserdem wird die Entwicklung seit der letzten vergleichbaren Studie der ESTV (basierend auf dem Jahr 2003) beleuchtet.&lt;/p&gt;</text>
+      <contact/>
+      <link id="66591">
+        <title>Kartographische Darstellung der Einkommensverteilung 2006</title>
+        <uri>http://www.estv.admin.ch/dokumentation/00075/00076/00701/index.html?lang=de</uri>
+        <position>Content</position>
+      </link>
+      <link id="66593">
+        <title>Analyse der Einkommensverteilung in der Schweiz (nur französisch)</title>
+        <uri>http://www.estv.admin.ch/dokumentation/00075/00803/index.html?lang=de</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le paysage des revenus se modifie en Suisse</title>
+      <lead>L'Administration fédérale des contributions (AFC) a actualisé ses cartes thématiques.</lead>
+      <text link="no">&lt;p&gt;L'Administration fédérale des contributions (AFC) a actualisé ses cartes thématiques montrant la répartition des revenus dans les différentes entités géopolitiques de la Suisse et analyse la dispersion des revenus entre les personnes et à travers le pays. Il en ressort une image contrastée de la répartition des revenus en Suisse. L'évolution depuis la dernière étude similaire de l'AFC (basée sur l'année 2003) est également illustrée.&lt;/p&gt;</text>
+      <contact/>
+      <link id="66592">
+        <title>Représentation cartographique de la répartition des revenus en 2006</title>
+        <uri>http://www.estv.admin.ch/dokumentation/00075/00076/00701/index.html?lang=fr</uri>
+        <position>Content</position>
+      </link>
+      <link id="66594">
+        <title>Analyse de la répartition des revenus en Suisse</title>
+        <uri>http://www.estv.admin.ch/dokumentation/00075/00803/index.html?lang=fr</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="6" org-id="605">
+        <name lang="de">Direkte Bundessteuer</name>
+        <name lang="fr">Impôt fédéral direct</name>
+        <name lang="it">Imposta federale diretta</name>
+        <name lang="en">Direct Federal Tax</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="130" org-id="605">
+        <name lang="de">Direkte Bundessteuer</name>
+        <name lang="fr">Impôt fédéral direct</name>
+        <name lang="it">Imposta federale diretta</name>
+        <name lang="en">Direct federal tax</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="44">
+        <name lang="de">Steuern</name>
+        <name lang="fr">Impôts</name>
+        <name lang="it">Imposte</name>
+        <name lang="en">Taxation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

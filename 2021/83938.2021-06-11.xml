@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83938" revoked="no">
+    <version>2</version>
+    <pubdate>2021-06-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat will Einreisen in die Schweiz per 28. Juni weiter erleichtern</title>
+      <lead>Die Einreise in die Schweiz soll weiter erleichtert werden. Dies hat der Bundesrat an seiner Sitzung vom 11. Juni 2021 entschieden. Die grenzsanitarischen Massnahmen sollen sich neu auf Einreisende aus Ländern mit einer besorgniserregenden Virusvariante konzentrieren. Für Einreisende aus dem Schengen-Raum soll die Quarantänepflicht aufgehoben werden. Zudem soll das bestehende Einreiseverbot für Besucherinnen und Besucher aus Drittstaaten aufgehoben werden, wenn diese geimpft sind. Damit trägt der Bundesrat der positiven epidemiologischen Entwicklung und der bevorstehenden Ferienzeit Rechnung. Die Vorschläge gehen jetzt in Konsultation, der Bundesrat entscheidet definitiv am 23. Juni.</lead>
+      <text link="no">&lt;p&gt;Angesichts der positiven Entwicklung der epidemiologischen Lage und den Fortschritten bei der Impfung schlägt der Bundesrat vor, die Vorgaben und grenzsanitarischen Massnahmen für Einreisen deutlich zu lockern. &lt;br /&gt;Für Einreisen aus dem Schengen-Raum soll die Quarantänepflicht aufgehoben werden. Eine Testpflicht besteht nur noch für Personen, die nicht geimpft und nicht genesen sind. Die Kontaktdaten werden künftig noch bei der Einreise mit dem Flugzeug verlangt. Bei Reisenden, die im Zug oder Auto in die Schweiz einreisen, wird darauf verzichtet.&lt;/p&gt;&lt;p&gt;Als Nachweis einer Impfung, einer durchgemachten Infektion oder eines negativen Testergebnisses soll in Zukunft auch das Covid-Zertifikat verwendet werden können. Das Schweizer Covid-Zertifikat wird so eingeführt, dass es mit dem EU Digital COVID Certificate kompatibel ist. &lt;/p&gt;&lt;h2&gt;Einreise aus einem Land mit einer besorgniserregenden Virusvariante&lt;/h2&gt;&lt;p&gt;Die bisherige Risikoliste des Bundesamtes für Gesundheit wird reduziert und enthält nur noch Staaten oder Gebiete, in denen für die Schweiz besorgniserregende Virusvarianten zirkulieren. Der Fokus der grenzsanitarischen Massnahmen liegt damit neu bei Personen, die aus einem solchen Staat oder Gebiet einreisen. Geimpfte und genesene Personen können jedoch ohne Test- und Quarantänepflicht einreisen. Wer weder geimpft noch genesen ist, muss einen negativen PCR-Test oder Antigenschnelltest vorweisen und sich nach der Einreise in Quarantäne begeben. Alle, die mit dem Flugzeug einreisen, müssen ihre Kontaktdaten angeben.&lt;br /&gt;Falls neue Virusmutationen auftreten, gegen die die Impfung nicht mehr schützt, kann die Test- und Quarantänepflicht auf geimpfte und genesene Personen ausgedehnt werden.&lt;br /&gt;Mit dieser Massnahme will der Bundesrat ein Instrument zur Hand haben, um die potenzielle Verbreitung neu auftretender besorgniserregenden Virusvarianten in der Schweiz frühzeitig einzudämmen.&lt;/p&gt;&lt;h2&gt;Erleichterte Einreise aus Drittstaaten&lt;/h2&gt;&lt;p&gt;Für Personen aus Drittstaaten ausserhalb des Schengen-Raums gelten seit dem 19. Juni 2020 wegen des Coronavirus spezielle Einreisebeschränkungen, um dessen Ausbreitung zu bremsen. Diese Einreisebeschränkungen wurden seither sukzessive durch den Bundesrat gelockert. Die Europäische Union (EU) will nun – im Rahmen einer Schengen-Weiterentwicklung – die noch bestehenden Einreisebeschränkungen in den Schengen-Raum für Drittstaatsangehörige mit Impfnachweis aufheben. Als assoziierter Schengen-Staat koordiniert die Schweiz seit Anbeginn der Pandemie ihre Reisebeschränkungen soweit möglich mit der EU. &lt;/p&gt;&lt;p&gt;Die Schweiz sieht vor, die noch bestehenden Einreisebeschränkungen für nachweislich geimpfte Drittstaatsangehörige per 28. Juni ebenfalls zu lockern. Zwischen den Schengen-Staaten bestehen aktuell keine Einreisebeschränkungen. Zudem gilt bei freizügigkeitsberechtigten Personen die Personenfreizügigkeit unabhängig davon, aus welchem Staat sie in die Schweiz einreisen.&lt;/p&gt;&lt;p&gt;Der Bundesrat schlägt vor, die Erleichterungen per 28. Juni 2021 in Kraft treten zu lassen. Die Vorschläge des Bundesrats gehen bis 16. Juni zur Konsultation an die Kantone, die Sozialpartner und die zuständigen parlamentarischen Kommissionen. Der Bundesrat wird am 23. Juni entscheiden. &lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92 Staatssekretariat für Migration, Information und Kommunikation: medien@sem.admin.ch</contact>
+      <link id="217448">
+        <title>Coronavirus: Konsultationen Kantone</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral veut faciliter l’entrée en Suisse à partir du 28 juin</title>
+      <lead>L’entrée en Suisse doit être facilitée. Le Conseil fédéral en a décidé ainsi lors de sa séance du 11 juin 2021. Les mesures sanitaires à la frontière doivent désormais se concentrer sur les personnes en provenance de pays dans lesquels un variant préoccupant du virus circule. L’obligation de quarantaine doit être levée pour les personnes de l’espace Schengen. En outre, il convient de lever l’actuelle interdiction d’entrée pour les voyageurs de pays tiers si ces derniers sont vaccinés. Par ces mesures, le Conseil fédéral prend en compte l’évolution positive de l’épidémie ainsi que la période des vacances qui approche. Les propositions font maintenant l’objet d’une consultation. Le Conseil fédéral prendra sa décision définitive le 23 juin.</lead>
+      <text link="no">&lt;p&gt;Compte tenu de l’évolution positive de la situation épidémiologique et des progrès réalisés en matière de vaccination, le Conseil fédéral propose d’assouplir fortement les prescriptions et les mesures sanitaires à la frontière pour les personnes qui entrent en Suisse. &lt;br /&gt;L’obligation de quarantaine doit être levée pour les personnes de l’espace Schengen. Un test reste obligatoire seulement pour les personnes non vaccinées ou dont la guérison n’est pas attestée. Les coordonnées seront encore exigées uniquement en cas d’entrée par avion. Elles ne seront plus demandées aux voyageurs entrant en Suisse en train ou en voiture.&lt;/p&gt;&lt;p&gt;A l’avenir, le certificat COVID doit pouvoir être utilisé pour attester une vaccination, une infection guérie ou un test négatif. Le certificat COVID-19 de la Suisse sera conçu de manière à être compatible avec le certificat COVID numérique de l’Union Européenne (UE). &lt;/p&gt;&lt;h2&gt;Entrée en provenance d’un pays avec un variant préoccupant du virus &lt;/h2&gt;&lt;p&gt;La liste des régions à risque dressée jusqu’ici par l’Office fédéral de la santé publique est réduite et ne contient plus que les pays et les zones dans lesquels circulent des variants du virus préoccupants pour la Suisse. Les mesures sanitaires à la frontière se concentrent donc désormais sur les personnes en provenance de ces pays ou zones. Parmi ces personnes, celles qui sont vaccinées ou guéries peuvent toutefois entrer en Suisse sans obligation de test ni de quarantaine. Toute personne qui n’est ni vaccinée ni guérie doit présenter un résultat négatif de test PCR ou de test rapide antigénique puis se placer en quarantaine. Tous les voyageurs entrant par voie aérienne doivent indiquer leurs coordonnées.&lt;br /&gt;En cas de nouvelles mutations du virus contre lesquelles la vaccination ne protègerait plus, l’obligation de test et de quarantaine pourrait être étendue aux personnes vaccinées et guéries.&lt;br /&gt;Par cette mesure, le Conseil fédéral veut disposer d’un instrument permettant d’endiguer rapidement la propagation possible de nouveaux variants préoccupants du virus en Suisse.&lt;/p&gt;&lt;h2&gt;Entrée facilitée depuis les pays tiers&lt;/h2&gt;&lt;p&gt;Depuis le 19 juin 2020, des restrictions d’entrée spéciales s’appliquent aux personnes de pays tiers hors de l’espace Schengen afin de freiner la propagation du coronavirus. Depuis lors, le Conseil fédéral a progressivement assoupli ces restrictions. L’UE, dans le cadre du développement de l’acquis Schengen, veut désormais lever les restrictions d’entrée qui subsistent encore dans l’espace Schengen pour les personnes de pays tiers qui sont vaccinées. En tant qu’Etat associé à Schengen, la Suisse coordonne depuis le début de la pandémie autant que possible ses restrictions d’entrée avec celles de l’UE. &lt;/p&gt;&lt;p&gt;La Suisse prévoit d’assouplir à partir du 28 juin les restrictions encore en vigueur pour les ressortissants de pays tiers pouvant attester qu’ils sont vaccinés. Actuellement, aucune restriction d’entrée n’a cours entre les Etats Schengen. Par ailleurs, la libre circulation des personnes s’applique à toutes celles qui y ont droit, indépendamment de leur Etat de provenance lorsqu’elles entrent en Suisse.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral propose que les allègements susmentionnés entrent en vigueur le 28 juin 2021. Son projet est mis en consultation jusqu’au 16 juin auprès des cantons, des partenaires sociaux et des commissions parlementaires compétentes. Le Conseil fédéral prendra sa décision le 23 juin. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Infoline coronavirus +41 58 463 00 00 Infoline vaccination COVID-19 +41 58 377 88 92 Secrétariat d'État aux migrations, Information et communication : medien@sem.admin.ch</contact>
+      <link id="217449">
+        <title>Coronavirus : consultations des cantons</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale intende agevolare ulteriormente l’entrata in Svizzera dal 28 giugno 2021</title>
+      <lead>L’entrata in Svizzera sarà ulteriormente agevolata. Lo ha deciso il Consiglio federale nella sua seduta dell’11 giugno 2021. I provvedimenti sanitari di confine dovranno concentrarsi sulle persone che entrano in Svizzera in provenienza da Paesi con una variante preoccupante del virus. Per chi entra nel nostro Paese dallo spazio Schengen dovrà essere abrogato l’obbligo di quarantena. Inoltre, sarà revocato il divieto di entrata per visitatori provenienti da Stati terzi che sono stati vaccinati. In questo modo il Consiglio federale tiene conto dell’evoluzione epidemiologica positiva e dell’imminente periodo delle vacanze. Le proposte sono ora sottoposte a consultazione; il Consiglio federale deciderà definitivamente il 23 giugno.</lead>
+      <text link="no">&lt;p&gt;Alla luce dell’evoluzione epidemiologica positiva e del buon andamento della campagna di vaccinazione, il Consiglio federale propone di allentare sensibilmente le prescrizioni e i provvedimenti sanitari di confine per l’entrata nel nostro Paese.&lt;/p&gt;&lt;p&gt;Per chi entra in Svizzera dallo spazio Schengen sarà abrogato l’obbligo di quarantena. Un obbligo di test rimarrà in essere soltanto per le persone che non sono né vaccinate né guarite dall’infezione. In futuro i dati di contatto saranno richiesti soltanto a chi entra nel nostro Paese in aereo, mentre chi arriva in treno o in auto ne sarà esonerato.&lt;/p&gt;&lt;p&gt;Quale attestato di vaccinazione, di guarigione dall’infezione o di risultato negativo del test potrà essere utilizzato anche il certificato COVID. Il certificato COVID svizzero sarà introdotto in modo da garantirne la compatibilità con il certificato COVID digitale UE. &lt;/p&gt;&lt;h2&gt;Entrata da un Paese con una variante preoccupante del virus&lt;/h2&gt;&lt;p&gt;L’attuale elenco di Paesi a rischio dell’Ufficio federale della sanità pubblica sarà ridotto e conterrà soltanto gli Stati o le regioni nei quali circolano varianti del virus preoccupanti per la Svizzera. Di conseguenza, i provvedimenti sanitari di confine si concentreranno sulle persone che entrano nel nostro Paese da uno di questi Stati o da una di queste regioni. Le persone vaccinate o guarite potranno tuttavia entrare in Svizzera senza sottoporsi al test o mettersi in quarantena. Le persone che non sono né vaccinate né guarite dovranno invece esibire un test PCR o un test antigenico rapido con risultato negativo e mettersi in quarantena dopo l’arrivo nel nostro Paese. Tutte le persone che entreranno in Svizzera in aereo dovranno fornire i propri dati di contatto.&lt;/p&gt;&lt;p&gt;Se compariranno nuove mutazioni del virus contro le quali non si è più protetti con la vaccinazione, l’obbligo di test e di quarantena potrà essere esteso anche alle persone vaccinate e guarite.&lt;/p&gt;&lt;p&gt;Con questa misura il Consiglio federale intende disporre di uno strumento per contenere tempestivamente la diffusione di nuove varianti preoccupanti del virus in Svizzera.&lt;/p&gt;&lt;h2&gt;Entrata agevolata da Stati terzi&lt;/h2&gt;&lt;p&gt;Dal 19 giugno 2020, le persone provenienti da Stati terzi al di fuori dello spazio Schengen soggiacciono a restrizioni di entrata particolari volte a frenare la diffusione del coronavirus. Da allora, queste restrizioni sono state gradualmente allentate dal Consiglio federale. Nell’ambito di uno sviluppo dell’acquis di Schengen, l’UE intende ora abrogare le limitazioni di entrata ancora vigenti nello spazio Schengen per i cittadini di Stati terzi provvisti di attestato di vaccinazione. In quanto Stato associato a Schengen, dall’inizio della pandemia la Svizzera coordina per quanto possibile con l’UE le proprie limitazioni di viaggio. &lt;/p&gt;&lt;p&gt;La Svizzera prevede a sua volta di allentare dal 28 giugno 2021, per i cittadini di Stati terzi muniti di attestato di vaccinazione, le restrizioni di entrata ancora vigenti. Al momento, tra gli Stati Schengen non vigono limitazioni di viaggio. Inoltre, le persone che beneficiano della libera circolazione godono di questo diritto a prescindere dallo Stato dal quale provengono quando entrano in Svizzera.&lt;/p&gt;&lt;p&gt;Il Consiglio federale propone di porre in vigore le agevolazioni il 28 giugno 2021. Le proposte del Consiglio federale saranno sottoposte per consultazione ai Cantoni, ai partner sociali e alle commissioni parlamentari competenti fino al 16 giugno. Il Consiglio federale deciderà il 23 giugno. &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP, Infoline Coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92 Segreteria di Stato della migrazione SEM, Informazione e comunicazione: medien@sem.admin.ch</contact>
+      <link id="217450">
+        <title>Coronavirus : consultations des cantons</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="129" org-id="401">
+        <name lang="de">Pandemie</name>
+        <name lang="fr">Pandémie</name>
+        <name lang="it">Pandemia</name>
+        <name lang="en">Pandemic</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="77186" revoked="no">
+    <version>1</version>
+    <pubdate>2019-11-22</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Software beschleunigt Textilentwicklung - Computermodell berechnet Wärmeverteilung unter Kleidung</title>
+      <lead>Ob beim Sport, bei der Arbeit oder im Wohnzimmer – je nach Tätigkeit und Umgebung haben wir unterschiedliche Ansprüche an unsere Kleidung. Empa-Forschende haben ein Modell entwickelt, das voraussagen kann, wie gut uns ein Kleidungsstück wärmt. Dabei kommt es vor allem auf die Luftpolster zwischen Körper und äusserster Kleidungsschicht an.</lead>
+      <text link="no"> &lt;p&gt;Im Winter kann es draussen noch so sonnig und warm aussehen. Sobald wir dem Wind ausgesetzt sind, frieren wir. Wenn die Kleidung den Bedingungen nicht angepasst ist, fühlt sich das schnell unangenehm an. Die Entwickler von Kleidungsstücken wiederum wollen ihre Produkte möglichst genau den Ansprüchen ihrer Kunden anpassen. Um zu sehen, ob T-Shirts, Jacken oder Schuhe halten, was sie versprechen, waren bis jetzt Tests mit Prototypen nötig. Empa-Forschende haben nun ein Computerprogramm entwickelt, das berechnen kann, wie warm einem Menschen beim Tragen eines Kleidungsstückes wird.&lt;/p&gt; &lt;p&gt;Wie warm sich beispielsweise eine Winterjacke anfühlt, bestimmt nicht in erster Linie der Stoff. «Viel wichtiger sind die Luftschichten zwischen dem Körper und den Stofflagen», erklärt Empa-Forscherin Agnes Psikuta. «Diese bestimmt mehr als 70% der Eigenschaften eines Bekleidungsstücks.» Denn Luft sei ein hervorragender Isolator. Deshalb isoliert Kleidung dann besonders gut, wenn viel Luft zwischen dem Körper und der äussersten Kleidungsschicht ist. Entweicht diese Luft, verliert man Wärme und fängt an zu frieren.&lt;/p&gt;&lt;b&gt; Von der Modebranche abgeschaut &lt;/b&gt;&lt;p&gt;Bis anhin haben sich die meisten wissenschaftlichen Berechnungsmodelle für die Prognose des Wärmeverlusts allein an den Stoffen orientiert. Stoffe fallen aber unterschiedlich, wenn sich ein Körper bewegt. Dadurch verändern sich auch die isolierenden Luftschichten; aber nur eine Schicht, die permanent da ist, isoliert auch gut. Deshalb haben die Forschenden nach Lösungen gesucht, um die Veränderung während der Bewegung zu berechnen. «Wir haben als Grundlage Programme genutzt, die für die Modeindustrie entwickelt wurden. Diese Programme simulieren die Situation auf dem Laufsteg. Designer können so ein virtuelles Model laufen lassen und sehen, wie ihre neu entworfenen Kleider an einem Menschen in Bewegung wirken.» Psikuta und ihr Team stellten fest, dass diese Programme sehr genau vorhersagen können, wie sich Kleidungsstücke am Körper verhalten.&lt;/p&gt;&lt;p&gt; Das Programm, das die Empa-Forschenden entwickelt haben, vereint verschiedene Berechnungsmodelle, die miteinander interagieren. Neben Luftschichten prognostiziert das Programm den thermischen Komfort, den Einfluss von Schwitzen oder bestimmter Bewegungen auf das Kleidungsstück. Aus einem Schnittmuster entsteht schliesslich ein virtuelles Kleidungsstück, das einem Avatar angezogen werden kann.&lt;/p&gt; &lt;p&gt;Das Programm kann beispielsweise aber auch helfen, ein optimales Outfit für das Lauftraining im Herbst zu entwickeln. «Schon bevor Textilien oder Design klar sind, berechnet unser Programm dann, wie entsprechende Kleidung geschnitten sein sollte», erklärt Psikuta. Und all das nicht nur für Normgrössen. «Unser Programm kann die Avatare nach verschiedenen Körpertypen und -grössen formen. Wenn etwas beispielsweise für besonders muskulöse, kurvige oder schmale Menschen entwickelt werden soll, können wir das im Programm entsprechend anpassen und schauen, wie das wirkt.»&lt;/p&gt;&lt;p&gt;&lt;b&gt; Entwicklungszeit um 90 Prozent verkürzt&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Im Endeffekt hilf das Programm, unzählige Prototypen für die Entwicklung neuer Kleidungsstücke zu ersetzen. Weil so auch keine aufwändigen Probandentests mehr nötig sind, verkürzt sich die Entwicklungszeit um bis zu 90 Prozent. «Wie viel Zeit wir damit tatsächlich sparen können, hängt aber stark vom jeweiligen Produkt und dessen Komplexität ab», so Psikuta. «Ein Anzug für die Feuerwehr – von dessen Qualität Gesundheit und Menschenleben abhängig sein können – ist beispielsweise sehr komplex aufgebaut, ein Sport-T-Shirt dagegen erheblich einfacher.»&lt;/p&gt; &lt;p&gt;Die Bedienung des Programms ist allerdings knifflig. Um die Forschungsergebnisse in der Praxis zu testen, arbeitet die Empa mit Industriepartnern zusammen, die beispielsweise Wintersportbekleidung herstellen. «Sie bringen uns ihre Ideen, und wir liefern ihnen die Technologie und helfen ihnen, die Kleider innerhalb kürzester Zeit zu entwickeln», so Psikuta. Zudem präsentieren sie und ihr Team die Software an wissenschaftlichen Konferenzen, um sie gemeinsam mit Forschungspartnern weiterzuentwickeln und dann möglichst vielen Nutzern zugänglich machen zu können.&lt;/p&gt; </text>
+      <contact>Dr. Agnes Psikuta Biomimetic Membranes and Textiles Tel. +41 58 765 76 73 agnes.psikuta@empa.ch Prof. Dr. René Rossi Biomimetic Membranes and Textiles Tel. +41 58 765 77 65 redaktion@empa.ch</contact>
+      <attachment id="195444">
+        <title>Das Computermodell zeigt, wie sich eine Stoffhose beim Gehen bewegt (oben). Die Farbe zeigt die Dicke der Luftschicht zwischen Körper und Hose an (unten). Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>1910</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59238.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Un programme accélère le développement textile - Le modèle informatique calcule la répartition de la chaleur sous les vêtements</title>
+      <lead>Que ce soit pour le sport, au travail ou dans le salon - en fonction de l'activité et de l'environnement, nous avons des exigences différentes pour nos vêtements. Les chercheurs de l'Empa ont mis au point un modèle qui permet de prédire dans quelle mesure un vêtement nous tiendra au chaud. Le facteur le plus important est le coussin d'air entre le corps et la couche extérieure du vêtement.</lead>
+      <text link="no"> &lt;p&gt;En hiver, il peut encore faire aussi beau et chaud dehors. Dès qu'on est exposé au vent, on gèle. Si nos vêtements ne sont pas adaptés aux conditions, on se sent rapidement mal à l'aise. Les développeurs de vêtements, d'autre part, veulent adapter leurs produits au plus près des besoins de leurs clients. Jusqu'à présent, pour voir si les T-shirts, les vestes ou les chaussures tiennent leurs promesses, des tests de prototypage ont été nécessaires. Les chercheurs de l'Empa ont mis au point un programme informatique qui permet de calculer la chaleur qu'une personne ressent lorsqu'elle porte un vêtement.&lt;/p&gt; &lt;p&gt;La sensation de chaleur d'une veste d'hiver, par exemple, n'est pas principalement déterminée par le tissu. "Les couches d'air entre le corps et les couches de tissu sont beaucoup plus importantes", explique Agnes Psikuta, chercheuse à l'Empa, qui détermine plus de 70% des propriétés des vêtements. Parce que l'air est un excellent isolant. C'est pourquoi les vêtements isolent particulièrement bien lorsqu'il y a beaucoup d'air entre le corps et la couche extérieure du vêtement. Si cet air s'échappe, on perd de la chaleur et on commence à geler.&lt;/p&gt; Copié de l'industrie de la mode &lt;p&gt;Jusqu'à présent, la plupart des modèles informatiquespour prédire les pertes de chaleur ont été basés uniquement sur les matériaux. Cependant, les substances bougent différemment lorsqu'un corps est en mouvement. Cela modifie également les couches d'air isolantes, mais seule une couche présente en permanence isole bien. Les chercheurs ont donc cherché des solutions pour calculer le changement pendant le mouvement. "Nous nous sommes basés sur des programmes développés pour l'industrie de la mode. Ces programmes simulent la situation sur le podium. Les designers peuvent utiliser un modèle virtuel et voir à quoi ressemblent leurs nouveaux vêtements sur une personne en mouvement." Agnes Psikuta et son équipe ont découvert que ces programmes peuvent prédire très précisément comment les vêtements se comporteront sur le corps.&lt;/p&gt;&lt;p&gt;Le programme développé par les chercheurs de l'Empa combine différents modèles qui interagissent les uns avec les autres. En plus des couches d'air, le programme prédit le confort, l'influence de la transpiration ou certains mouvements sur le vêtement. Enfin, un prototype de vêtement est transformé en un vêtement virtuel qui peut être mis sur un avatar.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Mais le programme peut aussi aider, par exemple, à développer un équipement optimal pour l'entraînement de course à pied en automne. "Même avant que les textiles ou le design ne soient clairs, notre programme calcule comment les vêtements doivent être coupés ", explique Psikuta. Et tout cela non seulement pour les tailles standard. "Notre programme peut façonner les avatars selon les différents types et tailles de corps. Si, par exemple, quelque chose doit être développé pour des personnes particulièrement musclées, ronde ou fines, nous pouvons adapter le programme en conséquence et voir comment il fonctionne."&lt;/p&gt; Temps de développement réduit de 90 pour cent &lt;p&gt;En fin de compte, le programme aide à remplacer d'innombrables prototypes pour le développement de nouveaux vêtements. Comme il n'est plus nécessaire d'effectuer de longs essais, le temps de développement est réduit jusqu'à 90 %. "Un costume pour les pompiers - dont la qualité de vie et la santé peuvent dépendre - a une structure très complexe, par exemple, tandis qu'un T-shirt de sport, d'un autre côté, est beaucoup plus simple.&lt;/p&gt; &lt;p&gt;Cependant, le fonctionnement du programme est délicat. Afin de tester les résultats de la recherche dans la pratique, l'Empa collabore avec des partenaires industriels qui fabriquent par exemple des vêtements de sports d'hiver. "Ils nous apportent leurs idées, nous leur fournissons la technologie et les aidons à développer les vêtements dans les plus brefs délais ", explique Agnes Psikuta. Elle et son équipe présenteront également le logiciel lors de conférences scientifiques afin de le développer davantage en collaboration avec des partenaires de recherche et de le rendre accessible au plus grand nombre d'utilisateurs possible.&lt;/p&gt;&lt;p&gt; &lt;/p&gt; </text>
+      <contact>Dr. Agnes Psikuta Biomimetic Membranes and Textiles Tél. +41 58 765 76 73 agnes.psikuta@empa.ch Prof. Dr. René Rossi Biomimetic Membranes and Textiles Tél. +41 58 765 77 65 redaktion@empa.ch Rédaction / contact médias</contact>
+      <attachment id="195445">
+        <title>Le modèle informatique montre comment les pantalons en tissu bougent en marchant (en haut). La couleur montre l'épaisseur de la couche d'air entre le corps et le pantalon (bas). Photo: Empa</title>
+        <format>jpg</format>
+        <size-kb>1910</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59239.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Software to speed up clothing development - Computer model calculates heat disipation beneath clothing</title>
+      <lead>Whether for sports, at work or in the living room – depending on activity and environment, our clothing has to meet different demands. Empa scientists have developed a model that predicts how well a given garment will keep us warm. The crucial factor is the air gap between our body and the outermost layer of clothing.</lead>
+      <text link="no">In winter, it can look sunny and warm. But as soon as we are exposed to the wind, we start freezing. If our clothing is not adapted to the conditions, we quickly feel uncomfortable. Garment developers, on the other hand, want to adapt their products as closely as possible to the requirements of their customers. To see whether T-shirts, jackets or shoes deliver what they promise, tests with prototypes have been necessary so far. Empa scientists have now developed a computer program that calculates how warm and cozy a person feels when wearing a piece of clothing. The thermal comfort of, say, a winter jacket is not primarily determined by its fabric. "Much more important are the air layers between the body and the fabric", explains Empa researcher Agnes Psikuta. "Air gaps are responsible for more than 70% of a garment's thermal properties." This is because air is an excellent insulator. Thus, clothing insulates particularly well when there is a lot of air between the body and the outermost layer of clothing. If this air escapes, the insulation suffers and one begins to freeze. Copied from the fashion industry To date, most scientific models for predicting heat loss have been based mainly on the properties of fabric that have been used to manufacture a piece of garment. Fabrics, however, fall very differently when a body moves. This also changes the insulating air layers; but only a permanent layer can insulate well. Researchers have, therefore, looked for solutions to calculate the change in air gap thickness during movement. "We used computer programs developed for the fashion industry as a basis. These programs simulate the situation on a catwalk. Designers can create a virtual model of a garment and see how their newly designed clothes look on a person in motion." It turned out that these computer programs can accurately predict how clothes will drape on the body. The software developed by Agnes Psikuta and her team combines different mathematical models that interact with each other. In addition to air layers, the program predicts the thermal comfort of the wearer as well as the influence of sweating orbody movements on the garment. Finally, a cutting pattern is transformed into a virtual piece of clothing that can be worn by an avatar. The program can also help, for instance, to develop an optimal outfit for running in autumn. "Even before the fabrics or the aestetic design have been determined, our software calculates the necessary clothing should fit," explains Psikuta. And all this not only for standard sizes. "Our program can shape the avatars according to different body types and sizes. If, for example, something is to be developed for particularly muscular, curvy or slender people, we can adapt the program accordingly." Development period cut short by 90 percent In the end, the program helps to replace countless prototypes for the development of new clothing and functional gear. As this also eliminates the need for time-consuming test runs, the development period is reduced by up to 90 percent. "How much time we can actually save depends greatly on the product in question and its complexity", says Psikuta. "For instance, protective clothing for firefighters – ultimately a health- and life-saving piece of equipment – has a very complex structure, while a sports T-shirt, on the other hand, is quite a bit easier." However, operating the computer program is anything but trivial. In order to applie the research results in practice, Empa cooperates with industrial partners who, for example, manufacture functional gear for winter sports. "They come up with new ideas, and we support them with our technology and help them to develop their apparel in the shortest possible time," says Psikuta. She and her team are also presenting the software at scientific conferences, to continuously develop it further with academic partners and then make it accessible to as many users as possible.</text>
+      <contact>Dr. Agnes Psikuta Biomimetic Membranes and Textiles Phone +41 58 765 76 73 agnes.psikuta@empa.ch Prof. Dr. René Rossi Biomimetic Membranes and Textiles Phone +41 58 765 77 65 redaktion@empa.ch</contact>
+      <attachment id="195446">
+        <title>The computer model shows how a pair of pants moves when in motion (top). The colour code shows the thickness of the air layer between the body and the garment (bottom). Picture: Empa</title>
+        <format>jpg</format>
+        <size-kb>1910</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59240.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="37">
+        <name lang="de">Konsum</name>
+        <name lang="fr">Consommation</name>
+        <name lang="it">Consumo</name>
+        <name lang="en">Consumer Affairs</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

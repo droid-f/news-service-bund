@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4941" revoked="no">
+    <version>1</version>
+    <pubdate>2006-05-03</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="606" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Änderung des TIR-Zollabkommens</title>
+      <lead>Der Bundesrat hat heute einer Änderung des TIR-Zollübereinkommens über den internationalen Strassentransport zugestimmt. Das Übereinkommen regelt den Warentransport mit Hilfe eines international genormten Zolldokuments.</lead>
+      <text link="no">Seit seiner Verabschiedung durch das Parlament im Jahre 1977 wird das TIR-Übereinkommen laufend den neusten Zollvorschriften und technischen Normen für Fahrzeuge, mit denen internationale Transporte auf der Strasse durchgeführt werden, angepasst. Die heute angenommene Änderung ordnet erstens den seit langem praktizierten Informationsaustausch zwischen den Vertragsparteien, der eine wirksame Kontrolle des TIR-Verkehrs bezweckt. Vertragsparteien sind die zugelassenen nationalen Verbände (in der Schweiz der ASTAG) und die anerkannte internationale Organisation (Internationale Strassentransportunion, IRU). Zweitens wird im Zuge dieser Änderung die Ermächtigung und Verantwortung der internationalen Organisation hinsichtlich des Drucks und der Verteilung der Carnets TIR geregelt.</text>
+      <contact>Georges-Henri Bauer, Eidg. Zollverwaltung, Tel. 031 322 67 17 Jean-Jacques Amstutz, Eidg. Zollverwaltung, Tel. 031 322 65 32</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Modification de la convention douanière TIR</title>
+      <lead>Le Conseil fédéral a approuvé aujourd'hui une modification de la convention douanière TIR (Transport International Routier) qui règle le transport de marchandises au moyen d'un document douanier standardisé au niveau international.</lead>
+      <text link="no">Depuis son approbation par le Parlement en 1977, la convention TIR a été régulièrement modifiée afin de tenir compte de l'évolution des prescriptions techniques applicables aux véhicules effectuant ce genre de transports et des prescriptions douanières internationales. La modification approuvée aujourd'hui règle, d'une part, les échanges d'informations déjà appliqués depuis de nombreuses années entre les parties contractantes, les associations nationales agréées (en Suisse l'ASTAG) et l'organisation internationale autorisée (Union internationale des transports routiers, IRU) dans le but de contrôler efficacement le trafic TIR. D'autre part, elle règle l'habilitation et la responsabilité de l'organisation internationale en ce qui concerne l'autorisation d'impression et de délivrance des carnets TIR.</text>
+      <contact>Georges-Henri Bauer, Administration fédérale des douanes, tél. 031 322 67 17 Jean-Jacques Amstutz, Administration fédérale des douanes, tél. 031 322 65 32</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="207" org-id="606">
+        <name lang="de">Zoll Diverses</name>
+        <name lang="fr">Douanes: divers</name>
+        <name lang="it">Dogane: diversi</name>
+        <name lang="en">Customs Misc.</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+      <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douanes</name>
+        <name lang="it">Dogane</name>
+        <name lang="en">Customs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

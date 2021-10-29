@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83593" revoked="no">
+    <version>1</version>
+    <pubdate>2021-05-19</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1079" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
+      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="en">Federal Food Safety and Veterinary Office</name>
+      <www lang="de">http://www.blv.admin.ch</www>
+      <www lang="fr">http://www.blv.admin.ch</www>
+      <www lang="it">http://www.blv.admin.ch</www>
+      <www lang="en">http://www.blv.admin.ch</www>
+      <email lang="de">media@blv.admin.ch</email>
+      <email lang="fr">info@blv.admin.ch</email>
+      <email lang="it">info@blv.admin.ch</email>
+      <email lang="en">info@blv.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="705" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat lehnt Massentierhaltungsinitiative ab und beschliesst Gegenentwurf</title>
+      <lead>Der Bundesrat lehnt die Eidgenössische Volksinitiative «Keine Massentierhaltung in der Schweiz» (Massentierhaltungsinitiative) ab und stellt ihr einen direkten Gegenentwurf gegenüber. Darin schlägt er vor, das Wohlergehen für Tiere in der Verfassung zu verankern und auf alle Tiere auszuweiten. Er lehnt die Initiative unter anderem deshalb ab, weil das Tierschutzrecht Massentierhaltung im Sinne der Initiative bereits heute verbietet. Der Bundesrat hat an seiner Sitzung vom 19. Mai 2021 die Botschaft zuhanden des Parlaments verabschiedet.</lead>
+      <text link="no"> &lt;p&gt;Die Initiative hat zum Ziel, dass der Bund die Würde der Tiere in der landwirtschaftlichen Tierhaltung in die Verfassung aufnimmt und Massentierhaltung verbietet. Der Bund soll Kriterien für eine tierfreundliche Unterbringung und Pflege, den Zugang ins Freie, die Schlachtung und die maximale Gruppengrösse je Stall festlegen. &lt;/p&gt; &lt;p&gt;Weiter verlangt die Initiative, dass der Bund für die Einfuhr von Tieren und tierischen Produkten zu Ernährungszwecken Vorschriften erlässt, die dem neuen Verfassungsartikel entsprechen. All diese Vorschriften sollen grundsätzlich mindestens denjenigen der Bio-Suisse-Richtlinien 2018 entsprechen. Übergangsfristen von bis zu 25 Jahren sollen möglich sein. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Der Bundesrat lehnt die Initiative ab &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dem Bundesrat ist das Wohlergehen der Tiere ein wichtiges Anliegen. Er lehnt die Initiative jedoch ab, weil das Tierschutzrecht Massentierhaltung heute schon verbietet. Die Gesetzgebung schützt das Wohlergehen der einzelnen Tiere unabhängig von der Anzahl Tiere. Eine Beschränkung der Grösse der Tierhaltungen bringt keine unmittelbare Verbesserung des Tierwohls. Zudem hat die Schweiz bereits aufgrund der Struktur der Landwirtschaftsbetriebe und der Gesetzgebung im internationalen Vergleich sehr kleine Tierbestände. &lt;/p&gt; &lt;p&gt;Der Bundesrat spricht sich auch dagegen aus, den privaten Standard der Bio-Suisse-Richtlinien in der Verfassung zu verankern. Diese spezifischen Richtlinien aus dem Jahr 2018 wären überholt, wenn sie nach Ablauf der Übergangsfrist von 25 Jahren ihre Wirkung entfalten würden. Zudem bestehen zahlreiche weitere private und staatliche Bio-Standards, die weiterentwickelt werden. So unterstützt der Bund bereits heute «besonders tierfreundliche Stallhaltungssysteme» (BTS) und den regelmässigen Auslauf ins Freie (RAUS) mit Beiträgen. &lt;/p&gt; &lt;p&gt;Die geforderte Importregelung wäre mit den internationalen Verpflichtungen der Schweiz nicht vereinbar und mit aufwendigen und teuren Kontrollen verbunden. Schliesslich könnte die Umsetzung der Initiative auch Mehrkosten für die Landwirtschaft und die Konsumentinnen verursachen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Der Gegenentwurf fordert das Wohlergehen für alle Tiere&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Bundesrat will in einem direkten Gegenentwurf das Anliegen der Initiative aufnehmen. Dazu sollen Kriterien für eine tierfreundliche Unterbringung und Pflege, für regelmässigen Auslauf und eine schonende Schlachtung in der Verfassung aufgenommen werden. Schweine sollen zwingend einen eingestreuten Liegebereich haben. Grundsätzlich sollen alle Nutztiere regelmässigen Auslauf haben. Die Tiere gewinnen so an Lebensqualität, werden widerstandsfähiger gegen Krankheiten und brauchen weniger Medikamente wie Antibiotika. Bei der Schlachtung sollen Schmerzen, Leid und Angst mit allen möglichen und zumutbaren Mitteln vermieden werden. Der Bundesrat anerkennt, dass die Landwirtinnen und Landwirte heute schon bestrebt sind, das Tierwohl zu fördern. Mit verschärften Minimalanforderungen für alle Nutztiere kann das Tierwohl in der landwirtschaftlichen Tierhaltung weiter verbessert werden. &lt;/p&gt;Der Bundesrat will, im Unterschied zur Initiative, den Schutz des Wohlergehens als allgemeiner Grundsatz für alle Tiere in die Verfassung aufnehmen. Damit geht er über die Initiative hinaus. Diese bezieht sich ausschliesslich auf Tiere in der landwirtschaftlichen Tierhaltung. &lt;p&gt;&lt;b&gt;Positive Vernehmlassung und kritische Stimmen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Die Mehrheit der eingegangenen Stellungnahmen in der Vernehmlassung spricht sich für den direkten Gegenentwurf aus, darunter 17 Kantone. Verschiedentlich wird verlangt, dass der Wortlaut des direkten Gegenentwurfs konkretisiert wird (z.B. die Begriffe «tierfreundliche Unterbringung» und «regelmässigen Auslauf»). Gegen die Initiative und den direkten Gegenentwurf wird vorgebracht, die geltenden Bestimmungen seien streng genug. Zudem sei die angestrebte Umstellung für die Landwirtinnen und Landwirte mit hohen Kosten verbunden.&lt;/p&gt; </text>
+      <contact>Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Medienstelle, Tel. 058 463 78 98 media@blv.admin.ch</contact>
+      <attachment id="216118">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>1219</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66677.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral rejette l’initiative sur l’élevage intensif et adopte un contre-projet</title>
+      <lead>Le Conseil fédéral rejette l’initiative populaire fédérale « Non à l’élevage intensif en Suisse (initiative sur l’élevage intensif) » et lui oppose un contre-projet direct, dans lequel il propose d’inscrire le bien-être animal dans la Constitution et de l’étendre à tous les animaux. Ce rejet est notamment motivé par le fait que la législation sur la protection des animaux interdit aujourd’hui déjà l’élevage intensif tel qu’il est présenté dans l’initiative. Lors de sa séance du 19 mai 2021, le Conseil fédéral a approuvé le message à l’intention du Parlement.</lead>
+      <text link="no"> &lt;p&gt;L’initiative sur l’élevage intensif vise à inscrire dans la Constitution la dignité des animaux dans le domaine de la garde d’animaux à des fins agricoles et à interdire l’élevage intensif. Elle prévoit que la Confédération fixe des critères relatifs à un hébergement et à des soins respectueux des animaux, à l’accès à l’extérieur, à l’abattage et à la taille maximale des groupes par étable. &lt;/p&gt; &lt;p&gt;L’initiative demande également à la Confédération d’édicter des dispositions sur l’importation d’animaux et de produits d’origine animale à des fins alimentaires qui tiennent compte du nouvel article constitutionnel. Toutes ces exigences doivent être au moins équivalentes à celles du Cahier des charges 2018 de Bio Suisse. Des délais transitoires allant jusqu’à 25 ans sont en outre prévus. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Le Conseil fédéral rejette l’initiative &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le bien-être animal est une cause importante aux yeux du Conseil fédéral. S’il rejette l’initiative, c’est que la législation sur la protection des animaux interdit aujourd’hui déjà l’élevage intensif. La législation protège le bien-être individuel des animaux et ce, quel que soit leur nombre. De plus, limiter la taille des élevages ne permettrait pas d’améliorer directement le bien-être animal. Du fait de la structure de ses exploitations agricoles et de sa législation, la Suisse dispose déjà, par rapport aux autres pays, de troupeaux de très petite taille.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral s’oppose également à l’inscription dans la Constitution des normes privées énoncées dans le Cahier des charges de Bio Suisse. Ces directives spécifiques datant de 2018 seraient en effet obsolètes lorsqu’elles déploieraient leurs effets à l’expiration du délai de transition de 25 ans. De plus, il existe de nombreuses autres normes biologiques, tant étatiques que privées, qui évoluent. La Confédération soutient d’ailleurs aujourd’hui déjà par des contributions les « systèmes de stabulation particulièrement respectueux des animaux » (SST) et les « sorties régulières en plein air » (SRPA). &lt;/p&gt; &lt;p&gt;Par ailleurs, les règles relatives à l’importation qui sont demandées ne seraient pas compatibles avec les engagements internationaux pris par la Suisse et exigeraient la mise en place de contrôles lourds et coûteux. Enfin, la mise en œuvre des dispositions proposées dans l’initiative pourrait aussi entraîner des coûts supplémentaires pour le secteur agricole et les consommateurs.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Le contre-projet plaide en faveur du bien-être de tous les animaux&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le Conseil fédéral souhaite tenir compte, dans le cadre d’un contre-projet direct, des souhaits exprimés dans l’initiative en inscrivant dans la Constitution des critères relatifs à un hébergement, à des conditions d’abattage et à des soins respectueux des animaux ainsi qu’à des sorties régulières. Ainsi, les porcs devront disposer impérativement d’aires de repos recouvertes de litière et tous les animaux de rente bénéficier de sorties régulières. Les animaux gagneront ainsi en qualité de vie, seront plus résistants aux maladies et auront moins besoin de médicaments comme des antibiotiques. Lors de leur abattage, douleurs, souffrances et anxiété devront être évitées par tous les moyens possibles et raisonnables. Le Conseil fédéral reconnaît que les agriculteurs s’efforcent aujourd’hui déjà de promouvoir le bien-être animal. Ce bien-être pourra encore être accru en appliquant des exigences minimales renforcées à tous les animaux de rente dans les élevages agricoles. &lt;/p&gt;Le Conseil fédéral entend, contrairement à ce que prône l’initiative, inscrire à titre de principe général le bien-être de tous les animaux dans la Constitution. Il va donc au-delà de ce que requiert l’initiative, qui se réfère exclusivement aux animaux détenus à des fins agricoles. &lt;p&gt;&lt;b&gt;Consultation positive et quelques voix critiques&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Les prises de position reçues dans le cadre de la procédure de consultation ont été majoritairement favorables au contre-projet direct, notamment celles de 17 cantons, mais il a été demandé à plusieurs reprises que la formulation du contre-projet direct soit précisée, par ex. les notions d’« hébergement respectueux des animaux » et de « sorties régulières ». Les opposants à l’initiative et au contre-projet direct soulignent en outre que les dispositions en vigueur sont suffisamment strictes et que les modifications souhaitées entraîneraient des coûts élevés pour les agriculteurs.&lt;/p&gt; </text>
+      <contact>Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Service médias, tél. 058 463 78 98 media@blv.admin.ch</contact>
+      <attachment id="216119">
+        <title>Message</title>
+        <format>pdf</format>
+        <size-kb>1297</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66678.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale respinge l’iniziativa sull’allevamento intensivo e adotta un controprogetto diretto</title>
+      <lead>Il Consiglio federale respinge l’iniziativa popolare «No all’allevamento intensivo in Svizzera» (Iniziativa sull’allevamento intensivo) e le contrappone un controprogetto diretto nel quale prevede di inserire la protezione del benessere degli animali nella Costituzione federale e di estenderla a tutte le specie. L’iniziativa è respinta, tra l’altro, perché il vigente diritto in materia di protezione degli animali vieta già l’allevamento intensivo così come inteso dall’iniziativa. Nella sua seduta del 19 maggio 2021, il Consiglio federale ha adottato il messaggio all’attenzione del Parlamento.</lead>
+      <text link="no"> &lt;p&gt;L’iniziativa si prefigge di inserire nella Costituzione federale la tutela della dignità dell’animale nell’ambito della detenzione a scopo agricolo e il divieto dell’allevamento intensivo. La Confederazione dovrebbe stabilire criteri riguardanti il ricovero e la cura rispettosi dell’animale, l’accesso a spazi esterni, la macellazione e le dimensioni massime del gruppo per stalla. &lt;/p&gt; &lt;p&gt;L’iniziativa chiede inoltre che la Confederazione emani prescrizioni sull’importazione di animali e di prodotti animali a fini alimentari che tengano conto del nuovo articolo costituzionale. Tutte queste prescrizioni dovrebbero corrispondere almeno ai requisiti minimi delle direttive Bio Suisse 2018. Sono previsti termini transitori di 25 anni al massimo. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Il Consiglio federale respinge l’iniziativa &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il Consiglio federale considera importante il benessere degli animali, ma respinge l’iniziativa perché già oggi il diritto in materia di protezione degli animali vieta l’allevamento intensivo. La legislazione tutela il benessere dei singoli animali indipendentemente dal loro numero. Limitare le dimensioni degli allevamenti non apporterebbe alcun miglioramento diretto della situazione. In ragione della struttura delle aziende agricole e della legislazione, in Svizzera gli effettivi di animali sono inoltre molto più piccoli che all’estero. &lt;/p&gt; &lt;p&gt;Il Consiglio federale è contrario anche a inserire nella Costituzione federale standard privati di produzione biologica come le direttive Bio Suisse. Dopo la scadenza del termine transitorio di 25 anni, queste direttive specifiche del 2018 risulterebbero superate; vi sono inoltre numerosi altri standard biologici pubblici e privati regolarmente aggiornati. Già oggi la Confederazione sostiene ad esempio i programmi «sistemi di stabulazione particolarmente rispettosi degli animali» (SSRA) e «uscita regolare all’aperto» (URA). &lt;/p&gt; &lt;p&gt;La regolamentazione delle importazioni proposta dall’iniziativa sarebbe incompatibile con gli impegni internazionali della Svizzera e richiederebbe controlli complessi e onerosi. L’attuazione dell’iniziativa potrebbe infine comportare costi aggiuntivi per l’agricoltura e i consumatori.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Il controprogetto promuove il benessere di tutti gli animali&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il Consiglio federale intende riprendere in un controprogetto diretto l’obiettivo di fondo dell’iniziativa. A tale scopo propone di inserire nella Costituzione federale criteri per garantire un ricovero e una cura adeguati alle esigenze degli animali, la possibilità di uscire regolarmente all’aperto e condizioni di macellazione rispettose degli animali. I suini dovranno obbligatoriamente avere a disposizione un’area di riposo con lettiera, e tutti gli animali da reddito dovranno poter uscire regolarmente all’aperto. Ciò contribuirà a migliorare la qualità di vita degli animali, ad aumentare la loro resistenza alle malattie e, di conseguenza, a ridurre l’utilizzo di medicamenti come gli antibiotici. Durante la macellazione si dovrà impedire con ogni mezzo possibile e ragionevolmente esigibile che gli animali provino dolore, soffrano o abbiano paura. Il Consiglio federale riconosce che già oggi gli agricoltori si adoperano a favore del benessere degli animali. Inasprendo i requisiti minimi per tutti gli animali da reddito è possibile accrescerne ulteriormente il benessere nell’ambito della detenzione a scopo agricolo. &lt;/p&gt;Al contrario dell’iniziativa, il Consiglio federale auspica che la protezione del benessere venga inclusa nella Costituzione federale come principio generale per tutti gli animali. In questo modo si spinge oltre l’iniziativa, che si limita agli animali detenuti a scopo agricolo. &lt;p&gt;&lt;b&gt;Procedura di consultazione positiva e voci critiche&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La maggioranza dei pareri pervenuti, tra cui le prese di posizione di 17 Cantoni, è favorevole al controprogetto diretto. Da più parti si chiede di precisare il testo del controprogetto diretto (p. es. le espressioni «ricovero adeguato alle esigenze» e «possibilità di uscire regolarmente all’aperto»). Taluni si oppongono all’iniziativa e al controprogetto diretto perché ritengono che le disposizioni vigenti siano sufficientemente severe e che gli adeguamenti auspicati comporterebbero costi ingenti per gli agricoltori.&lt;/p&gt; </text>
+      <contact>Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Servizio stampa, tel. 058 463 78 98 media@blv.admin.ch</contact>
+      <attachment id="216120">
+        <title>Messaggio</title>
+        <format>pdf</format>
+        <size-kb>1439</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66679.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="37">
+        <name lang="de">Konsum</name>
+        <name lang="fr">Consommation</name>
+        <name lang="it">Consumo</name>
+        <name lang="en">Consumer Affairs</name>
+      </topic>
+      <topic id="38">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="en">Agriculture</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

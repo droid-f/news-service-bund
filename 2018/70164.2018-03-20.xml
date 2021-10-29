@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="70164" revoked="no">
+    <version>2</version>
+    <pubdate>2018-03-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="502" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Absturz einer Drohne der Schweizer Armee</title>
+      <lead>Im Rahmen einer Trainingsmission des Drohnenkommandos 84 kollidierte heute Nachmittag um 15.15 Uhr eine Drohne des Typs ADS-95 mit einem Berg nördlich des Ägerisees.</lead>
+      <text link="no">Das Absturzgebiet ist bewaldet und unbesiedelt. Eine vorläufige Beweisaufnahme durch einen militärischen Untersuchungsrichter sowie eine Flight Safety Investigation wurden eingeleitet.</text>
+      <contact>Daniel Reist Armeesprecher 058 464 48 04</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Accident d’un drone de l’Armée suisse</title>
+      <lead>Dans le cadre d’un entraînement du commandement des drones 84 cet après-midi aux alentours de 15h15, un drone de type ADS-95 de l’Armée suisse s'est écrasé contre une montage au Nord du Lac Aegeri.</lead>
+      <text link="no">&lt;p&gt;L’endroit de l’accident est boisé et inhabité. Une enquête pour compléments de preuves a été ouverte auprès du juge d’instruction militaire ainsi qu’après des spécialistes de la sécurité aérienne de l’armée.&lt;/p&gt;</text>
+      <contact>Daniel Reist Porte-parole de l’armée 058 484 48 08</contact>
+      <revisions>
+        <revision date="2018-03-20 17:31" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Precipitato un drone dell'Esercito svizzero</title>
+      <lead>Durante una missione d'allenamento del comando droni 84, oggi pomeriggio attorno alle ore 15.15 un drone del tipo ADS-95 è precipitato su una montagna a nord dell'Ägerisee.</lead>
+      <text link="no">Il luogo dell'impatto si trova in una zona boscosa e disabitata. È stato dato avvio a un'assunzione preliminare delle prove da parte di un giudice istruttore militare nonché a una Flight Safety Investigation. </text>
+      <contact>Daniel Reist Portavoce dell'esercito 058 464 48 04</contact>
+      <revisions>
+        <revision date="2018-03-20 17:31" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="5160" org-id="505">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5180" org-id="505">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5110" org-id="505">
+        <name lang="de">Feuerwehr / Sanität / Polizei</name>
+        <name lang="fr">Sapeurs-pompiers / Sanitaire / Police</name>
+        <name lang="it">Pompieri / Sanità pubblica / Polizia</name>
+        <name lang="en">Fire Brigade / Medical Service / Police</name>
+      </keyword>
+      <keyword id="5420" org-id="505">
+        <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
+        <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
+        <name lang="it">Eventi straordinari / Incidenti straordinari</name>
+        <name lang="en">Exceptional Incidents / Accidents</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="14755" revoked="no">
+    <version>1</version>
+    <pubdate>2003-11-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="806" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Zivilluftfahrt</name>
+      <name lang="fr">Office fédéral de l'aviation civile</name>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="en">Federal Office of Civil Aviation</name>
+      <www lang="de">http://www.bazl.admin.ch</www>
+      <www lang="fr">http://www.bazl.admin.ch</www>
+      <www lang="it">http://www.bazl.admin.ch</www>
+      <www lang="en">http://www.bazl.admin.ch</www>
+      <email lang="de">info@bazl.admin.ch</email>
+      <email lang="fr">info@bazl.admin.ch</email>
+      <email lang="it">info@bazl.admin.ch</email>
+      <email lang="en">info@bazl.admin.ch</email>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Zum Totalausfall der Darstellung der Radarluftlage im Raume Zürich</title>
+      <lead>Eine erste Auswertung der Radaraufzeichnungen zeigt, dass zu keiner Zeit ein Kollisionsrisiko bestand. Die Untersuchung ist immer noch im Gange und wird aufgrund der Komplexität noch mehrere Wochen in Anspruch nehmen.</lead>
+      <text link="no">Am 11. November 2003 hat um 19:37 Lokalzeit ein Totalausfall der Darstellung der Radarluftlage im Raume Zürich stattgefunden.&lt;br /&gt; Zu dieser Zeit hat ein Fachexperte von skyguide eine Korrekturmassnahme am zentralen Kontroll- und Überwachungsrechner der Flugverkehrsleitung in der An-/Abflug- und Bezirksleitstelle (common IFR room&amp;nbsp;- CIR) ausgeführt.&lt;br /&gt; Aus noch nicht geklärten Gründen sandte dieser Kontroll- und Überwachungsrechner Abschaltbefehle an alle Steuerungsrechner für die Radardarstellung. Dies führte innerhalb weniger Sekunden zu einem Ausfall sämtlicher Radarschirme im CIR.&lt;br /&gt; Der Fachexperte hat unmittelbar darauf zusammen mit dem Systemüberwacher im Kontrollraum die Steuerungsrechner für die Radardarstellung schrittweise wieder in Betrieb gesetzt.&lt;br /&gt; Bereits nach wenigen Minuten waren die ersten Bildschirme wieder in Betrieb und um 19:57 Lokalzeit verfügte die Flugverkehrsleitung wieder über eine vollständige Darstellung der Radarluftlage.&lt;br /&gt; Während dieses Ausfalles von 20 Minuten hat die Bezirksleitstelle einzelne Anflüge direkt dem Kontrollturm übergeben. Die Flugverkehrsleiter im Kontrollturm konnten diese Anflüge mit den 5 betriebseigenen Radarbildschirmen überwachen und leiten. Diese Radarbildschirme arbeiten unabhängig vom Darstellungssystem des CIR. Deshalb waren sie von diesem Ausfall nicht betroffen.&lt;br /&gt; Als Sofortmassnahme wurde die Verkehrsfluss-Steuerungszentrale in Brüssel alarmiert und eine Reduktion der Anzahl Flugbewegungen veranlasst.Während der Zeit des Ausfalles befanden sich ungefähr 20 Flugzeuge in der An- bzw. Abflugphase und es wurden ca. 35 Transitflüge betreut.&lt;br /&gt; Zwecks Identifikation war allen Flugzeugen im Luftraum von Zürich ein Transponder-Code zugeteilt. Zusätzlich verfügten die meisten über ein TCAS-System (traffic collision avoidance system – Kollisionswarnsystem an Bord von Luftfahrzeugen). &lt;br /&gt; Das TCAS-System basiert auf den Transponderantworten der Flugzeuge. Von den betroffenen Flugzeugen wurde kein TCAS-Alarm gemeldet. Eine erste Auswertung der Radaraufzeichnungen zeigt, dass zu keiner Zeit ein Kollisionsrisiko bestand. &lt;p&gt;&lt;br /&gt; Die Untersuchung ist immer noch im Gange und wird aufgrund der Komplexität noch mehrere Wochen in Anspruch nehmen.&lt;/p&gt;</text>
+      <contact/>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="384" org-id="806">
+        <name lang="de">Flughäfen: Zürich</name>
+        <name lang="fr">Aéroports : Zurich</name>
+        <name lang="it">Aeroporti : Zurigo</name>
+        <name lang="en">Airports Zurich</name>
+      </keyword>
+      <keyword id="800" org-id="806">
+        <name lang="de">Luftfahrt: Sicherheit</name>
+        <name lang="fr">Aviation : Sécurité technique</name>
+        <name lang="it">Navigazione aerea: Sicurezza tecnica</name>
+        <name lang="en">Aviation: Safety</name>
+      </keyword>
+      <keyword id="1110" org-id="806">
+        <name lang="de">Skyguide</name>
+        <name lang="fr">Skyguide</name>
+        <name lang="it">Skyguide</name>
+        <name lang="en">Skyguide</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

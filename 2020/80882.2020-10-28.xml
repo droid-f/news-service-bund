@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="80882" revoked="no">
+    <version>12</version>
+    <pubdate>2020-10-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="508" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BASPO - Bundesamt für Sport</name>
+      <name lang="fr">OFSPO - Office fédéral du sport</name>
+      <name lang="it">UFSPO - Ufficio federale dello sport</name>
+      <name lang="en">Federal Office of Sports</name>
+      <www lang="de">http://www.baspo.admin.ch/</www>
+      <www lang="fr">http://www.baspo.admin.ch/</www>
+      <www lang="it">http://www.baspo.admin.ch/</www>
+      <www lang="en">http://www.baspo.admin.ch/</www>
+      <email lang="de">info@baspo.admin.ch</email>
+      <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
+      <email lang="en">info@baspo.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: weitere Massnahmen zur Eindämmung der Epidemie, Einführung von Schnelltests, Reisequarantäne neu geregelt</title>
+      <lead>Der Bundesrat hat an der Sitzung vom 28. Oktober 2020 weitere schweizweite Massnahmen gegen die schnelle Ausbreitung des Coronavirus ergriffen. Ziel ist, die Zahl der Kontakte unter den Menschen stark zu reduzieren. Discos und Tanzlokale werden geschlossen, Bars und Restaurants haben um 23 Uhr zu schliessen. Alle Veranstaltungen mit mehr als 50 Personen sowie sportliche und kulturelle Freizeitaktivitäten mit mehr als 15 Personen sind untersagt. Zudem wird die Maskenpflicht ausgeweitet. Die Massnahmen gelten ab Donnerstag, 29. Oktober, und sind nicht befristet. Ab Montag, 2. November, müssen Hochschulen auf Präsenzunterricht verzichten. Nach Konsultation der Kantone hat der Bundesrat die «Covid-19-Verordnung besondere Lage» entsprechend angepasst. Er hat ausserdem die Regeln für die Reisequarantäne angepasst sowie die Einführung von Schnelltests beschlossen.</lead>
+      <text link="no">&lt;p&gt;Die Fallzahlen sowie die Anzahl Hospitalisationen nehmen drastisch zu. Der Bundesrat will die Ausbreitung von Covid-19 Infektionen eindämmen und die Überlastung der Intensivpflegestationen sowie des Gesundheitspersonals in den Spitälern verhindern. Dazu hat er Massnahmen ergriffen, welche die Zahl der Kontakte unter den Menschen reduzieren. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tanzlokale geschlossen, Verbot von Messen&lt;/strong&gt;&lt;br /&gt;Der Betrieb von Diskotheken und Tanzlokalen ist verboten. Diese bergen ein erhöhtes Risiko für die Verbreitung des Virus. In Restaurants, Bars dürfen höchsten vier Personen an einem Tisch sitzen, ausgenommen Eltern mit Kindern. Es gilt eine Sperrstunde von 23 bis 6 Uhr. &lt;br /&gt;Zudem dürfen neu Messen und Märkte in Innenräumen nicht mehr durchgeführt werden.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verbot von Veranstaltungen mit mehr als 50 Personen&lt;/strong&gt; &lt;br /&gt;Veranstaltungen mit mehr als 50 Personen sind nicht mehr erlaubt. Das betrifft alle religiösen, sportlichen, kulturellen und anderen Veranstaltungen, ausgenommen sind Parlaments- und Gemeindeversammlungen. Weiterhin möglich sind auch politische Demonstrationen sowie Unterschriftensammlungen für Referenden und Initiativen – hier gilt wie bisher eine Maskenpflicht. Weil sich viele Ansteckungen im privaten Rahmen ereignen, wird die Anzahl Personen für Veranstaltungen im Familien- und Freundeskreis im privaten Raum auf 10 eingeschränkt. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Keine sportlichen und kulturellen Freizeitaktivitäten mit mehr als 15 Personen&lt;/strong&gt;&lt;br /&gt;Sportliche und kulturelle Freizeitaktivitäten sind in Innenräumen mit bis zu 15 Personen erlaubt, wenn sowohl genügend Abstand eingehalten werden kann als auch Masken getragen werden. Von einer Maske kann nur abgesehen werden, wenn grosszügige Raumverhältnisse vorherrschen, etwa in Tennishallen oder grossen Sälen. Im Freien, z.B. beim Joggen, muss nur der Abstand eingehalten werden. Kontaktsport im Freizeitbereich ist überall verboten. Von den Regeln ausgenommen sind Kinder unter 16 Jahren, auch in der obligatorischen Schule. &lt;/p&gt;&lt;p&gt;Im professionellen Bereich von Sport und Kultur sind Trainings und Wettkämpfe sowie Proben und Auftritte zulässig. Da beim Singen besonders viele Tröpfchen ausgestossen werden sind alle Anlässe von Laien-Chören verboten, professionellen Chören ist das Proben erlaubt. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verbot von Präsenzunterricht an Hochschulen&lt;/strong&gt;&lt;br /&gt;Hochschulen müssen ab Montag, 2. November, grundsätzlich auf Fernunterricht umstellen. Präsenzunterricht bleibt in den obligatorischen Schulen und den Schulen der Sekundarstufe II (Gymnasien und Berufsbildung) erlaubt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Maskentragpflicht wird weiter ausgedehnt&lt;/strong&gt;&lt;br /&gt;Seit dem 19. Oktober gilt eine Maskenpflicht für alle Personen in öffentlich zugänglichen Innenräumen sowie in Wartebereichen des öffentlichen Verkehrs und in Bahnhöfen und Flughäfen. Neu muss auch in den Aussenbereichen von Einrichtungen und Betrieben eine Maske getragen werden, wie zum Beispiel in Aussenbereichen von Läden und an Veranstaltungsorten, auf Terrassen in Restaurants und Bars und auf Wochen- und Weihnachtsmärkten. Eine Maskenpflicht gilt auch in belebten Fussgängerbereichen, z.B. in Einkaufsstrassen in Innenstädten, und überall dort, wo der erforderliche Abstand im öffentlichen Raum nicht eingehalten werden kann. &lt;/p&gt;&lt;p&gt;Auch in Schulen ab der Sekundarstufe II gilt neu eine Maskentragpflicht. Ebenso gilt eine Maskenpflicht am Arbeitsplatz, es sei denn der Abstand zwischen den Arbeitsplätzen kann eingehalten werden (z.B. Einzelbüros). Die Arbeitgeberinnen und Arbeitgeber sollen soweit möglich Homeoffice ermöglichen und an Arbeitsstätten für den Schutz der Mitarbeitenden sorgen. &lt;br /&gt;Ausgenommen von der Maskentragpflicht sind Kinder bis zu 12 Jahren, Personen, die aus medizinischen Gründen keine Maske tragen können und Gäste in Restaurants undBars, wenn sie am Tisch sitzen. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bundesrat beschliesst Einführung von Schnelltests&lt;/strong&gt;&lt;br /&gt;Um eine Covid-19 Infektion festzustellen, können zusätzlich zu den bereits angewendeten Tests (PCR-Tests) ab dem 2. November 2020 auch Antigen-Schnelltests eingesetzt werden. Dies ermöglicht eine breitere und schnellere Testung der Bevölkerung. Es können mehr positive Fälle in der Bevölkerung rasch nachgewiesen und isoliert werden. &lt;/p&gt;&lt;p&gt;Die Genauigkeit der Schnelltests wurde durch das «Centre national de Référence pour Infections Virales Emergentes» (CRIVE) in Genf evaluiert. Die Schnelltests sind im Vergleich zu den PCR-Test weniger empfindlich. Sie sind vor allem dann einsetzbar, wenn eine Person infektiös ist. Das Bundesamt für Gesundheit (BAG) sieht daher den Einsatz dieser Schnelltests nur bei denjenigen Personen vor, die gemäss den Kriterien des BAG als symptomatisch gelten und nicht zu den besonders gefährdeten Personen gehören. Zudem sollte das Auftreten der Symptome weniger als vier Tage her sein. Auch bei nicht symptomatischen Personen, die eine Meldung der Swiss Covid App erhalten haben, ist der Einsatz dieser Schnelltests möglich. Alle Personen, die mittels eines Schnelltests positiv getestet wurden, sollten sich umgehend in Isolation begeben. &lt;/p&gt;&lt;p&gt;Die Schnelltests werden vom Bund vergütet - allerdings ausschliesslich für diejenigen Personen, auf die die Empfehlungen des BAG zutreffen. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bundesrat definiert neuen Schwellenwert für die Reisequarantäne&lt;/strong&gt; &lt;br /&gt;Der Bundesrat hat zudem den Schwellenwert für die Aufnahme von Staaten und Gebieten auf die Quarantäneliste sowie die Ausnahme von der Quarantänepflicht für Geschäftsreisende angepasst. Die Änderung tritt am 29.10.2020 in Kraft.&lt;/p&gt;&lt;p&gt;Da die Inzidenz der Schweiz verglichen mit dem europäischen Umfeld inzwischen überdurchschnittlich hoch ist, wird der Schwellenwert angehoben. Mit der Verordnungsanpassung kommen nur noch Staaten und Gebiete auf die Quarantäneliste, deren Inzidenz um mehr als 60 höher ist als die Inzidenz der Schweiz. &lt;/p&gt;&lt;p&gt;Angepasst werden auch die Ausnahmebestimmungen für Geschäftsreisende und für Personen, die aus medizinischen Gründen reisen. Die Regel, dass solche Reisen höchstens fünf Tage dauern dürfen, wird aufgehoben. &lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Infoline Coronavirus +41 58 463 00 00 Infoline für einreisende Personen +41 58 464 44 88</contact>
+      <attachment id="207404">
+        <title>Covid-19-Verordnung 3 (Schnelltests)</title>
+        <format>pdf</format>
+        <size-kb>367</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63488.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207405">
+        <title>Covid-19-Verordnung internationaler Personenverkehr</title>
+        <format>pdf</format>
+        <size-kb>362</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63489.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207406">
+        <title>Covid-19-Verordnung besondere Lage</title>
+        <format>pdf</format>
+        <size-kb>408</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63494.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207407">
+        <title>Grafik Massnahmen 28.10.</title>
+        <format>pdf</format>
+        <size-kb>838</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63541.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207408">
+        <title>FAQ Neue Massnahmen</title>
+        <format>pdf</format>
+        <size-kb>61</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63638.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207420">
+        <title>FAQ Reisequarantäne</title>
+        <format>pdf</format>
+        <size-kb>192</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63507.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207424">
+        <title>FAQ Schnelltests</title>
+        <format>pdf</format>
+        <size-kb>35</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63511.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-10-29 16:26" type="R"/>
+        <revision date="2020-10-28 17:32" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : nouvelles mesures visant à endiguer l’épidémie, introduction des tests rapides, nouvelle réglementation des quarantaines liées aux voyages</title>
+      <lead>Lors de sa séance du 28 octobre 2020, le Conseil fédéral a adopté de nouvelles mesures valables dans tout le pays pour contrer la propagation rapide du coronavirus. Il s’agit de réduire fortement les contacts interpersonnels. Les discothèques et les boîtes de nuit sont fermées, alors que les bars et les restaurants doivent fermer leurs portes à 23 h. Toutes les manifestations de plus de 50 personnes et toutes les activités sportives et culturelles non professionnelles de plus de 15 personnes sont interdites. L’obligation de porter un masque est également étendue. Ces mesures entrent en vigueur jeudi 29 octobre pour une durée indéterminée. Par ailleurs, les hautes écoles doivent renoncer à l’enseignement présentiel à partir de lundi 2 novembre. Après consultation des cantons, le Conseil fédéral a adapté en ce sens l’ordonnance COVID-19 situation particulière. Il a également adapté les règles relatives aux quarantaines liées aux voyages et décidé d’introduire les tests rapides.</lead>
+      <text link="no">&lt;p&gt;Le nombre de cas de coronavirus et d’hospitalisations a drastiquement augmenté. Le Conseil fédéral entend endiguer la propagation des infections au COVID-19 afin d’éviter une surcharge des services de soins intensifs et du personnel hospitalier. Il a donc pris des mesures visant à réduire le nombre de contacts interpersonnels. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fermeture des discothèques, interdiction des salons&lt;/strong&gt;&lt;br /&gt;Les discothèques et les boîtes de nuit étant synonymes de risque élevé de contamination, elles doivent fermer leurs portes. Dans les restaurants et les bars, les tables ne peuvent plus accueillir plus de quatre personnes, sauf s’il s’agit de parents avec leurs enfants. Les bars et restaurants devront en outre rester fermés entre 23 h et 6 h. Par ailleurs, les salons et les marchés prévus en intérieur sont eux aussi interdits.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interdiction des manifestations de plus de 50 personnes&lt;/strong&gt; &lt;br /&gt;Les manifestations réunissant plus de 50 personnes ne sont plus autorisées. Cette mesure concerne toutes les manifestations, notamment religieuses, sportives et culturelles, à l’exception des assemblées parlementaires et communales. Sont également autorisées les manifestations et les récoltes de signatures pour les référendums et les initiatives, moyennant le port du masque comme jusqu’à présent. De nombreuses infections ayant lieu dans le cadre privé, les réunions de famille et entre amis dans le cercle privé sont pour leur part limitées à dix personnes. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interdiction des activités sportives et culturelles non professionnelles réunissant plus de 15 personnes&lt;/strong&gt;&lt;br /&gt;Les activités sportives et culturelles non professionnelles ayant lieu à l’intérieur et réunissant 15 personnes au maximum restent autorisées, pour autant que les distances puissent être respectées et que le port du masque soit garanti. Les personnes concernées peuvent uniquement renoncer aux masques dans de grands locaux comme les halles de tennis, et à l’extérieur, par exemple pour la course à pied, lorsque les distances sont respectées. Les sports de loisir impliquant des contacts physiques sont interdits partout. Ces règles ne s’appliquent pas aux enfants de moins de 16 ans, y compris à l’école obligatoire.&lt;/p&gt;&lt;p&gt;Dans le secteur professionnel des sports et de la culture, les entraînements, les compétitions, les répétitions et les spectacles restent autorisés. Pour leur part, toutes les manifestations des chorales d’amateurs sont interdites, car chanter entraîne une émission importante de gouttelettes. Les chorales professionnelles peuvent toutefois continuer à répéter. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interdiction de l’enseignement présentiel dans les hautes écoles&lt;/strong&gt;&lt;br /&gt;Dès lundi 2 novembre, les hautes écoles doivent passer à l’enseignement à distance. Les écoles obligatoires et les écoles du degré secondaire II (gymnases et formation professionnelle) peuvent quant à elles continuer à donner leurs cours en présentiel. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nouvelle extension de l’obligation de porter le masque&lt;/strong&gt;&lt;br /&gt;Depuis le 19 octobre dernier, toutes les personnes se trouvant dans des espaces fermés accessibles au public, dans les zones d’attente des transports publics ainsi que dans les gares et les aéroports doivent porter un masque. Le port du masque est désormais aussi obligatoire dans les espaces extérieurs d’installations et d’établissements, par exemple dans la file d’attente à l’extérieur d’un magasin, à l’extérieur d’un lieu de manifestation, sur la terrasse d’un restaurant ou d’un bar ainsi que sur les marchés et les marchés de Noël. Il faut en outre porter un masque dans les zones piétonnes très fréquentées, par exemple dans les rues commerçantes des villes, et partout où la concentration de personnes ne permet pas de respecter les distances nécessaires. &lt;/p&gt;&lt;p&gt;L’obligation de porter un masque concerne aussi les écoles à partir du degré secondaire II. Au travail, il faut aussi porter un masque partout, sauf lorsque les règles de distance peuvent être observées (bureaux occupés par une seule personne par exemple). Les employeurs doivent par ailleurs permettre à leurs employés de télétravailler autant que possible et veiller à leur sécurité sur le lieu de travail. &lt;/p&gt;&lt;p&gt;Sont exemptés de l’obligation de porter un masque les enfants jusqu’à douze ans, les personnes ne pouvant pas porter de masque pour des raisons médicales ainsi que les clients des restaurants et des bars une fois assis à leur table. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Introduction des tests rapides&lt;/strong&gt;&lt;br /&gt;À partir du 2 novembre 2020, il sera possible d’utiliser, en plus des tests PCR actuellement employés, les tests rapides antigéniques pour déterminer si une personne est infectée par le COVID-19. L’objectif est de permettre un dépistage plus vaste et plus rapide de la population, soit concrètement de détecter et d’isoler plus rapidement davantage de cas positifs. &lt;/p&gt;&lt;p&gt;Le Centre national de référence pour les infections virales émergentes (CRIVE), sis à Genève, est en train d’évaluer la fiabilité de ces tests, qui sont moins sensibles que les tests PCR. Comme ils sont surtout indiqués lorsque les personnes sont contagieuses, l’Office fédéral de la santé publique (OFSP) prévoit de les utiliser uniquement pour les personnes qu’il considère comme symptomatiques et qui ne font pas partie des groupes vulnérables. À noter que l’apparition des symptômes devra remonter à moins de quatre jours. L’utilisation des tests rapides sera aussi possible pour des personnes non symptomatiques, mais qui ont reçu une notification de l’application SwissCovid. Si elles sont positives, elles devront se placer immédiatement en isolement. &lt;/p&gt;&lt;p&gt;Les tests rapides seront remboursés par la Confédération, mais uniquement lorsqu’ils ont été utilisés conformément aux recommandations de l’OFSP. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nouveau seuil pour les quarantaines liées aux voyages&lt;/strong&gt; &lt;br /&gt;Le Conseil fédéral a adapté le seuil qui définit les pays et les territoires à risque et implique une quarantaine pour les voyageurs concernés. Il a également adapté l’obligation de quarantaine en cas de voyage d’affaires. Lesdites adaptations entrent en vigueur le 29 octobre 2020. &lt;/p&gt;&lt;p&gt;L’incidence du COVID-19 en Suisse étant relativement élevée en comparaison avec les pays européens, le seuil précité a été relevé et l’ordonnance adaptée : seuls les pays et les territoires où l’incidence dépasse de plus de 60 l’incidence en Suisse seront placés sur ladite liste. &lt;/p&gt;&lt;p&gt;Enfin, les exceptions relatives aux voyages d’affaires et aux personnes qui voyagent pour des raisons médicales ont également été actualisées : la règle selon laquelle les voyages en question ne peuvent excéder cinq jours a été supprimée. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Infoline coronavirus +41 58 463 00 00 Infoline pour les personnes se rendant en Suisse +41 58 464 44 88</contact>
+      <attachment id="207409">
+        <title>Ordonnance 3 COVID-19 (Tests rapides de l’antigène SARS-CoV-2)</title>
+        <format>pdf</format>
+        <size-kb>418</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63490.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207410">
+        <title>Ordonnance COVID-19 situation particulière</title>
+        <format>pdf</format>
+        <size-kb>480</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63495.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207411">
+        <title>Ordonnance COVID-19 mesures dans le domaine du transportinternational de voyageurs</title>
+        <format>pdf</format>
+        <size-kb>312</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63491.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207412">
+        <title>Graphique Mesures 28.10.</title>
+        <format>pdf</format>
+        <size-kb>842</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63542.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207418">
+        <title>FAQ nouvelles mesures</title>
+        <format>pdf</format>
+        <size-kb>258</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63639.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207421">
+        <title>FAQ Quarantaine pour les voyageurs</title>
+        <format>pdf</format>
+        <size-kb>174</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63508.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207425">
+        <title>FAQ tests rapides</title>
+        <format>pdf</format>
+        <size-kb>223</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63512.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-10-29 16:26" type="R"/>
+        <revision date="2020-10-29 07:44" type="R"/>
+        <revision date="2020-10-28 17:32" type="R"/>
+        <revision date="2020-10-28 16:50" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: ulteriori provvedimenti per contenere l’epidemia, introduzione di test rapidi e nuove disposizioni sulla quarantena per chi viaggia</title>
+      <lead>Nella sua seduta del 28 ottobre 2020, il Consiglio federale ha adottato ulteriori provvedimenti a livello nazionale per frenare la rapida diffusione del coronavirus. L’obiettivo è ridurre considerevolmente i contatti tra le persone. Vengono chiuse le discoteche e le sale da ballo, mentre i bar e i ristoranti possono restare aperti soltanto fino alle 23. Sono vietate tutte le manifestazioni con più di 50 persone e le attività sportive e culturali nel tempo libero con più di 15 persone. L’obbligo della mascherina è ulteriormente esteso. Questi provvedimenti entrano in vigore giovedì 29 ottobre e non sono limitati nel tempo. Da lunedì 2 novembre le scuole universitarie devono rinunciare all’insegnamento presenziale. Il Consiglio federale ha apportato le necessarie modifiche all’ordinanza COVID-19 situazione particolare dopo aver consultato i Cantoni. Ha inoltre adeguato le disposizioni sulla quarantena per chi viaggia e deciso di introdurre i testi rapidi.</lead>
+      <text link="no">&lt;p&gt;Il numero delle nuove infezioni e quello dei ricoveri in ospedale aumentano drasticamente. Il Consiglio federale intende contenere la diffusione della COVID-19 e prevenire il sovraccarico dei reparti di terapia intensiva e del personale ospedaliero. A tal fine ha adottato una serie di provvedimenti per ridurre i contatti tra le persone. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chiusura delle sale da ballo, divieto delle fiere&lt;/strong&gt;&lt;br /&gt;Le discoteche e le sale da ballo, in cui il rischio di diffusione del virus è particolarmente elevato, vengono chiuse. Nei ristoranti e nei bar non possono sedersi più di quattro persone a un tavolo, fatta eccezione per i genitori con figli. Tra le 23.00 e le 6.00 queste strutture devono restare chiuse. È inoltre vietato lo svolgimento di fiere e mercati in luoghi chiusi.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Divieto di manifestazioni con più di 50 persone&lt;/strong&gt; &lt;br /&gt;Sono vietate le manifestazioni, segnatamente quelle religiose, sportive e culturali, con più di 50 persone. Sono escluse dal divieto le assemblee parlamentari e comunali. Continuano a essere ammesse le dimostrazioni politiche e la raccolta di firme per referendum e iniziative, per le quali vige, come finora, l’obbligo della mascherina. Poiché molti contagi avvengono nel contesto privato, viene limitato a dieci il numero delle persone che possono partecipare a un evento nella cerchia degli amici o dei familiari organizzato in un luogo privato. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Niente attività sportive e culturali nel tempo libero con più di 15 persone&lt;/strong&gt;&lt;br /&gt;Le attività sportive e culturali praticate nel tempo libero in luoghi chiusi con fino a 15 persone sono consentite se può essere mantenuta la distanza necessaria e se è indossata la mascherina. È possibile rinunciare all’uso della mascherina soltanto se è a disposizione uno spazio molto grande, per esempio una palestra di tennis o una grande sala. All’esterno, per esempio durante il jogging, deve essere rispettata unicamente la regola del distanziamento. Gli sport con contatto fisico praticati nel tempo libero sono vietati ovunque. Le regole non si applicano ai ragazzi che non hanno ancora compiuto i 16 anni, anche nella scuola dell’obbligo. &lt;/p&gt;&lt;p&gt;Nel settore sportivo e culturale professionale sono ammessi, rispettivamente, gli allenamenti e le competizioni e le prove e le esibizioni. Tutte le attività dei cori amatoriali sono vietate perché con il canto viene emessa una grande quantità di goccioline. Sono per contro consentite le prove dei cori professionali. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Divieto dell’insegnamento presenziale nelle scuole universitarie&lt;/strong&gt;&lt;br /&gt;Da lunedì 2 novembre, le scuole universitarie devono di norma passare all’insegnamento a distanza. Nelle scuole dell’obbligo e del livello secondario II (licei e formazione professionale) le attività presenziali restano ammesse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Estensione dell’obbligo della mascherina&lt;/strong&gt;&lt;br /&gt;Dal 19 ottobre vige l’obbligo della mascherina nei luoghi chiusi accessibili al pubblico, nelle aree di attesa dei trasporti pubblici, nelle stazioni e negli aeroporti. L’obbligo viene ora esteso alle aree esterne di strutture, per esempio a quelle di negozi, ai luoghi in cui si svolgono manifestazioni, alle terrazze di ristoranti e bar e ai mercati settimanali o natalizi. È obbligatorio indossare la mascherina anche nelle aree pedonali molto frequentate, per esempio nelle strade commerciali dei centri urbani, e in generale nello spazio pubblico, se non può essere mantenuta la distanza necessaria. &lt;/p&gt;&lt;p&gt;L’obbligo è introdotto anche nelle scuole a partire dal livello secondario II. La mascherina va inoltre portata sul posto di lavoro, a meno che non possa essere rispettata la distanza necessaria (p. es. negli uffici individuali). I datori di lavoro devono nel limite del possibile permettere il telelavoro e provvedere alla protezione dei dipendenti sul luogo di lavoro.&lt;/p&gt;&lt;p&gt;Sono esentati dall’uso della mascherina i bambini fino al compimento dei 12 anni, le persone dispensate per motivi medici e gli ospiti di ristoranti e bar quando sono seduti al tavolo. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Introduzione di test rapidi&lt;/strong&gt;&lt;br /&gt;Dal 2 novembre, per diagnosticare un’infezione di COVID-19 possono essere effettuati, oltre agli attuali test PCR, anche test antigenici rapidi. In questo modo è possibile testare un maggior numero di persone e, quindi, identificare e isolare rapidamente più casi positivi. &lt;/p&gt;&lt;p&gt;La precisione dei test rapidi è stata valutata dal Centro nazionale di riferimento per le infezioni virali emergenti (CRIVE) di Ginevra. Rispetto ai test PCR, i test rapidi sono meno sensibili e sono indicati soprattutto se una persona è contagiosa. Per questo motivo, l’Ufficio federale della sanità pubblica (UFSP) ne prevede l’impiego soltanto per le persone che, secondo i criteri da esso emanati, sono considerate sintomatiche e non appartengono a un gruppo particolarmente a rischio. La comparsa dei sintomi non deve inoltre risalire a più di quattro giorni. Questi test possono essere effettuati anche su persone che non presentano sintomi, ma che hanno ricevuto una segnalazione dall’app SwissCovid. Chi risulta positivo al test rapido dovrebbe mettersi immediatamente in isolamento. &lt;/p&gt;&lt;p&gt;I test rapidi sono rimborsati dalla Confederazione, ma unicamente se sono stati effettuati in conformità alle raccomandazioni dell’UFSP. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nuovo valore soglia per la quarantena per chi viaggia&lt;/strong&gt; &lt;br /&gt;Il Consiglio federale ha inoltre adeguato il valore soglia che definisce gli Stati e le regioni per i quali vige l’obbligo di quarantena e la deroga a questo obbligo per chi viaggia per motivi professionali. La modifica entra in vigore il 29 ottobre.&lt;/p&gt;&lt;p&gt;Dato che in Svizzera l’incidenza della COVID-19 è superiore alla media rispetto agli altri Paesi europei, il valore soglia viene innalzato. La modifica dell’ordinanza prevede che nell’elenco vengano inseriti soltanto gli Stati e le regioni la cui incidenza è superiore di 60 unità rispetto a quella della Svizzera. &lt;/p&gt;&lt;p&gt;Vengono inoltre adeguate le disposizioni derogatorie per chi viaggia per motivi professionali o medici. La regola che questi viaggi possono durare al massimo cinque giorni è abrogata. &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP, Infoline Coronavirus +41 58 463 00 00 Infoline per persone che vengono in Svizzera +41 58 464 44 88</contact>
+      <attachment id="207413">
+        <title>Ordinanza 3 COVID-19 (Test rapidi dell’antigene SARS-CoV-2)</title>
+        <format>pdf</format>
+        <size-kb>356</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63492.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207414">
+        <title>Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori</title>
+        <format>pdf</format>
+        <size-kb>305</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63493.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207415">
+        <title>Ordinanza COVID-19 situazione particolare</title>
+        <format>pdf</format>
+        <size-kb>453</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63499.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207416">
+        <title>Grafica misure 28.10.</title>
+        <format>pdf</format>
+        <size-kb>837</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63543.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207422">
+        <title>FAQ Quarantena per i viaggiatori</title>
+        <format>pdf</format>
+        <size-kb>153</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63509.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207426">
+        <title>FAQ test rapidi</title>
+        <format>pdf</format>
+        <size-kb>219</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63513.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207428">
+        <title>FAQ Provvedimenti</title>
+        <format>pdf</format>
+        <size-kb>253</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63641.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-10-29 16:26" type="R"/>
+        <revision date="2020-10-28 17:32" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: further measures to contain the epidemic, introduction of rapid testing, new rules on travel quarantine</title>
+      <lead>At its meeting on 28 October, the Federal Council agreed a further series of national measures to combat the rapid spread of the coronavirus. The aim of the measures is to sharply reduce the level of contact between people. Discos and nightclubs will have to shut, while bars and restaurants will close at 11pm. All events with more than 50 people, and recreational sporting and cultural activities with more than 15 people, will be prohibited. Furthermore, the requirement to wear masks will be extended to an additional range of situations. The measures will apply from Thursday, 29 October, for an indefinite period of time. From Monday, 2 November, higher education institutions will have to forgo face-to-face teaching. Following consultations with the cantons, the Federal Council has amended the Special Situation Covid-19 Ordinance accordingly. It has also amended the rules regarding travel quarantine, and approved the introduction of rapid testing.</lead>
+      <text link="no">&lt;p&gt;The number of cases of people infected with the virus and the number of people requiring hospital treatment are rising sharply. The Federal Council wants to curb the spread of the coronavirus and prevent intensive care units and healthcare staff in hospitals from becoming overburdened. It is therefore introducing measures aimed at reducing the level of contact between people.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nightclubs to close, fairs not permitted&lt;/strong&gt;&lt;br /&gt;Discos and nightclubs will be closed. There is an elevated risk of the virus spreading at these establishments. No more than four people will be allowed to sit at a table in restaurants and bars, with the exception of parents with children. All bars and restaurants must close between 11pm and 6am. In addition, markets and fairs in enclosed spaces will no longerbe permitted.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ban on events with more than 50 people&lt;/strong&gt;&lt;br /&gt;Events with more than 50 people will no longer be permitted. This concerns all religious, sporting, cultural and other events. The exceptions to this rule are parliamentary and communal assemblies. It is still permitted to hold political demonstrations and collect signatures for referendums and initiatives – here, as previously, masks must be worn. Given that many people are becoming infected when families and friends meet, the number of people allowed to attend such private gatherings will be limited to 10.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;No recreational sporting or cultural activities with more than 15 people&lt;/strong&gt;&lt;br /&gt;Recreational sporting and cultural activities are only permitted indoors for up to 15 people if a sufficient distance can be maintained and if masks are worn. A mask can only be dispensed with if there is a generous amount of space, such as in tennis halls or large rooms. Outdoors, for example when jogging, it is only necessary to ensure that people keep their distance. Recreational contact sports are prohibited everywhere. These rules do not apply to children under the age of 16, even in compulsory schools.&lt;/p&gt;&lt;p&gt;With regard to professional sporting and cultural activities, practice and training sessions, competitive events, rehearsals and performances are permitted. Due to the fact that a particularly large number of droplets are released while singing, all performances by amateur choirs are prohibited, although professional choirs may continue to practise.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ban on face-to-face teaching at higher education institutions&lt;/strong&gt;&lt;br /&gt;Higher education institutions will basically have to switch to distance learning from Monday, 2 November. Classroom teaching is still permitted at compulsory school level and at upper secondary schools (baccalaureate and vocational schools).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mandatory wearing of masks further extended&lt;/strong&gt;&lt;br /&gt;The wearing of masks has been mandatory since 19 October in publicly accessible indoor spaces as well as in public transport waiting areas and railway stations and airports. Masks must now also be worn outside establishments and facilities, for example in outdoor areas of shops and at event venues, on terraces of restaurants and bars, and at farmers’ and Christmas markets. Masks are also mandatory in busy pedestrian zones, for example shopping streets in town centres, and wherever the required distance cannot be maintained in public spaces.&lt;/p&gt;&lt;p&gt;Wearing a mask is now also mandatory in schools from upper secondary level (level II) upwards. Similarly, masks are now mandatory in the workplace unless the distance between workspaces can be maintained (e.g. in individual offices). Employers should allow staff to work from home where possible and ensure that staff are protected in the workplace.&lt;/p&gt;&lt;p&gt;Children under the age of 12, persons who are unable to wear a mask for medical reasons, and guests in restaurants and bars when seated at a table are not required to wear a mask.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Federal Council to introduce rapid testing&lt;/strong&gt; &lt;br /&gt;From 2 November, rapid antigen tests may also be used to determine a Covid-19 infection, in addition to the PCR tests already in use. This will allow faster and more widespread testing and enable more positive cases among the population to be identified and isolated rapidly. &lt;/p&gt;&lt;p&gt;The accuracy of rapid tests has been evaluated by the Centre national de Référence pour Infections Virales Emergentes (CRIVE) in Geneva. The rapid tests are less sensitive than PCR tests and will mainly be used to test persons who are potentially infectious. The Federal Office of Public Health FOPH therefore only envisages using these rapid tests for certain groups of individuals who are deemed symptomatic according to the FOPH criteria, symptoms having emerged within the previous four days, and who are not classed as being at especially high risk. Rapid tests may also be used for non-symptomatic individuals who have been notified via the SwissCovid app. However, anyone who tests positive following a rapid test should go into isolation immediately.&lt;/p&gt;&lt;p&gt;The cost of the rapid tests will be covered by the Confederation – although only for individuals who fulfil the FOPH criteria for being tested. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Federal Council sets new threshold for travel quarantine&lt;/strong&gt;&lt;br /&gt;The Federal Council has also adapted the threshold for countries and areas to be added to the quarantine list, as well as exceptions to the quarantine requirement for business travellers. The changes come into force on 29 October.&lt;/p&gt;&lt;p&gt;As incidence rates in Switzerland are now above average compared with the rest of Europe, the threshold will be raised. Under the amended provisions, only countries and areas with an incidence rate that is 60 higher than that in Switzerland will now be placed on the quarantine list. &lt;/p&gt;&lt;p&gt;The provisions covering exceptions for business travellers and for people travelling for medical reasons are also to be amended. The rule whereby such trips must not last longer than five days will no longer apply.&lt;/p&gt;</text>
+      <contact>Federal Office of Public Health, Infoline Coronavirus +41 58 463 00 00 Infoline for people travelling to Switzerland +41 58 464 44 88</contact>
+      <attachment id="207417">
+        <title>Graphic measures 28.10.</title>
+        <format>pdf</format>
+        <size-kb>837</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63544.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207419">
+        <title>FAQ new measures</title>
+        <format>pdf</format>
+        <size-kb>160</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63640.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207423">
+        <title>FAQ Quarantine for travellers</title>
+        <format>pdf</format>
+        <size-kb>156</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63510.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207427">
+        <title>FAQ rapid tests</title>
+        <format>pdf</format>
+        <size-kb>217</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63514.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-11-03 09:40" type="R"/>
+        <revision date="2020-10-29 16:26" type="R"/>
+        <revision date="2020-10-28 17:32" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="15">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">sanità</name>
+        <name lang="en">Health</name>
+      </topic>
+      <topic id="18">
+        <name lang="de">Kultur</name>
+        <name lang="fr">Culture</name>
+        <name lang="it">Cultura</name>
+        <name lang="en">Culture</name>
+      </topic>
+      <topic id="22">
+        <name lang="de">Parlament</name>
+        <name lang="fr">Parlement</name>
+        <name lang="it">Parlamento</name>
+        <name lang="en">Parliament</name>
+      </topic>
+      <topic id="23">
+        <name lang="de">Politische Rechte</name>
+        <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="en">Political Rights</name>
+      </topic>
+      <topic id="27">
+        <name lang="de">Reisen und Tourismus</name>
+        <name lang="fr">Voyages et tourisme</name>
+        <name lang="it">Viaggi e turismo</name>
+        <name lang="en">Travel and Tourism</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="42">
+        <name lang="de">Sport</name>
+        <name lang="fr">Sport</name>
+        <name lang="it">Sport</name>
+        <name lang="en">Sport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

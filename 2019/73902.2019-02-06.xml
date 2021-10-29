@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="73902" revoked="no">
+    <version>1</version>
+    <pubdate>2019-02-06</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="101" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Referenden gegen STAF-Vorlage und Waffenrichtlinie zustande gekommen</title>
+      <lead>Die Referenden gegen das Bundesgesetz über die Steuerreform und die AHV-Finanzierung (STAF) und gegen den Bundesbeschluss betreffend die geänderte EU-Waffenrichtlinie (Weiterentwicklung des Schengen-Besitzstands) sind formell zustande gekommen.</lead>
+      <text link="no"> &lt;p&gt;Am 17. Januar 2019 haben die Referendumskomitees 61'381 Unterschriften gegen das Bundesgesetz vom 28. September 2018 über die Steuerreform und die AHV-Finanzierung (STAF) eingereicht. Die Überprüfung durch die Bundeskanzlei hat ergeben, dass davon 60'749 Unterschriften gültig sind.&lt;/p&gt; &lt;p&gt;Ebenfalls am 17. Januar 2019 wurden 125’692 Unterschriften gegen den Bundesbeschluss vom 28. September 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie (Weiterentwicklung des Schengen-Besitzstands) eingereicht. Die Überprüfung durch die Bundeskanzlei hat ergeben, dass davon 125’233 Unterschriften gültig sind.&lt;/p&gt; Damit sind beide Referenden formell zustande gekommen. Gemäss Entscheid des Bundesrates vom 16. Januar 2019 werden diese Vorlagen somit am 19. Mai 2019 zur Abstimmung gelangen.</text>
+      <contact>René Lenzin Bundeskanzlei 058 462 54 93 rene.lenzin@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Aboutissement des référendums contre la RFFA et la directive sur les armes</title>
+      <lead>Les référendums contre la loi fédérale relative à la réforme fiscale et au financement de l’AVS (RFFA) et contre l’arrêté fédéral relatif à la directive modifiée de l’UE sur les armes (Développement de l’acquis de Schengen) ont formellement abouti.</lead>
+      <text link="no"> &lt;p&gt;Le 17 janvier 2019 les comités référendaires ont déposé 61'381 signatures contre la loi fédérale du 28 septembre 2018 relative à la réforme fiscale et au financement de l’AVS (RFFA). La Chancellerie fédérale a constaté, après vérification, que 60'749 signatures déposées sont valables.&lt;/p&gt; &lt;p&gt;Également le 17 janvier 2019, 125'692 signatures ont été déposées contre l’arrêté fédéral du 28 septembre 2018 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes (Développement de l’acquis de Schengen). La Chancellerie fédérale a constaté, après vérification, que 125’233 signatures déposées sont valables. &lt;/p&gt; &lt;p&gt;Les deux référendums ont donc formellement abouti. Conformément à la décision du Conseil fédéral du 16 janvier 2019, les deux objets seront soumis au vote populaire le 19 mai 2019.&lt;/p&gt; </text>
+      <contact>René Lenzin Chancellerie fédérale 058 462 54 93 rene.lenzin@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>RFFA e direttiva sulle armi: referendum riusciti</title>
+      <lead>Il referendum contro la legge federale concernente la riforma fiscale e il finanziamento dell’AVS (RFFA) e il referendum contro il decreto federale relativo alla direttiva modificata dell’UE sulle armi (Sviluppo dell’acquis di Schengen) sono formalmente riusciti.</lead>
+      <text link="no">&lt;p&gt;Il 17 gennaio 2019 i comitati referendari hanno depositato 61'381 firme contro la legge federale del 28 settembre 2018 concernente la riforma fiscale e il finanziamento dell’AVS (RFFA). Dopo aver controllato le firme depositate, la Cancelleria federale ha constatato che 60'749 di queste sono valide.&lt;/p&gt;&lt;p&gt;Sempre il 17 gennaio 2019 sono state depositate 125'692 firme contro il decreto federale del 28 settembre 2018 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento della direttiva (UE) 2017/853 che modifica la direttiva UE sulle armi (Sviluppo dell’acquis di Schengen). Dopo aver controllato le firme depositate, la Cancelleria federale ha constatato che 125'233 di queste sono valide.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Entrambi i referendum sono dunque formalmente riusciti. Questi oggetti saranno sottoposti alla votazione popolare del 19 maggio 2019 conformemente alla decisione del Consiglio federale del 16 gennaio 2019.&lt;/p&gt;</text>
+      <contact>René Lenzin Cancelleria federale 058 462 54 93 rene.lenzin@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="340" org-id="601">
+        <name lang="de">STAF</name>
+        <name lang="fr">RFFA</name>
+        <name lang="it">RFFA</name>
+        <name lang="en">TRAF</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="235" org-id="601">
+        <name lang="de">Internationale Steuerpolitik</name>
+        <name lang="fr">Politique fiscale internationale</name>
+        <name lang="it">Politica fiscale internazionale</name>
+        <name lang="en">International tax policy</name>
+      </keyword>
+      <keyword id="231" org-id="601">
+        <name lang="de">Steuerwettbewerb</name>
+        <name lang="fr">Compétition fiscale</name>
+        <name lang="it">Concorrenza fiscale</name>
+        <name lang="en">Tax competition</name>
+      </keyword>
+      <keyword id="1717" org-id="601">
+        <name lang="de">Steuerreform und AHV-Finanzierung (STAF)</name>
+        <name lang="fr">Réforme fiscale et financement de l'AVS (RFFA)</name>
+        <name lang="it">Riforma fiscale e finanziamento dell’AVS (RFFA)</name>
+        <name lang="en">Tax reform and AHV financing (TRAF)</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="23">
+        <name lang="de">Politische Rechte</name>
+        <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="en">Political Rights</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

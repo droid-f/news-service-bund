@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="12261" revoked="no">
+    <version>1</version>
+    <pubdate>2007-04-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="603" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Staatsrechnung 2006 – Schuldenabbau um über 6 Milliarden Franken</title>
+      <lead>Die Finanzrechnung des Bundes schliesst mit einem Überschuss von 2,5 Milliarden ab. Budgetiert war ein Defizit von 586 Millionen. Zum deutlich besseren Abschluss haben vor allem Mehreinnahmen (+2 755 Mio), aber auch Minderausgaben (-366 Mio) beigetragen. In diesen Zahlen nicht enthalten sind ausserordentliche Einnahmen von 3,2 Milliarden aus dem Verkauf von Swisscom-Aktien, die für den Schuldenabbau verwendet werden. Die Schulden konnten insgesamt um 6,7 auf 123,6 Milliarden abgebaut werden. In den sechs Jahren zuvor waren sie noch kontinuierlich gestiegen.</lead>
+      <text link="no">&lt;p&gt;Ganze Medienmitteilung als PDF-Datei verfügbar&lt;/p&gt;</text>
+      <contact>Fritz Zurbrügg, Eidg. Finanzverwaltung, Tel. 031 322 60 09</contact>
+      <attachment id="26241">
+        <title>Medienmitteilung "Staatsrechnung 2006 – Schuldenabbau um über 6 Milliarden Franken"</title>
+        <format>pdf</format>
+        <size-kb>82</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/8287.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="26243">
+        <title>Rechnung 2006</title>
+        <uri>http://www.efv.admin.ch/d/themen/bundesfinanzen/rechnung/index.php</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Compte d'Etat 2006 – réduction de la dette de plus de 6 milliards de francs</title>
+      <lead>Le compte financier 2006 se solde par un excédent de 2,5 milliards, alors qu’un déficit de 586 millions avait été inscrit au budget. Cette nette amélioration est due avant tout aux surplus de recettes (+2 755 mio), mais aussi aux dépenses plus faibles que prévu (-366 mio). Des recettes extraordinaires de 3,2 milliards provenant de la vente d’actions Swisscom ne sont pas comprises dans ces chiffres; elles ont été affectées à la réduction de la dette. Il a été possible de réduire la dette de 6,7 milliards au total et de la ramener ainsi à 123,6 milliards. Au cours des six années précédentes, elle n'avait fait qu'augmenter.</lead>
+      <text link="no">&lt;p&gt;Communiqué de presse intégral disponible en tant que document pdf&lt;/p&gt;</text>
+      <contact>Fritz Zurbrügg, Administration fédérale des finances, tél.: 031 322 60 09</contact>
+      <attachment id="26242">
+        <title>Communiqué de presse "Compte d'Etat 2006 – réduction de la dette de plus de 6 milliards de francs"</title>
+        <format>pdf</format>
+        <size-kb>78</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/8286.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="26244">
+        <title>Compte 2006</title>
+        <uri>http://www.efv.admin.ch/f/themen/bundesfinanzen/rechnung/index.php</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="2" org-id="603">
+        <name lang="de">Finanzpolitik</name>
+        <name lang="fr">Politique budgétaire</name>
+        <name lang="it">Politica finanziaria</name>
+        <name lang="en">Financial policy</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="102" org-id="603">
+        <name lang="de">Rechnungsabschluss</name>
+        <name lang="fr">Compte d'État</name>
+        <name lang="it">Consuntivo</name>
+        <name lang="en">Financial statements</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

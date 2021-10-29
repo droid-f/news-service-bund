@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="12997" revoked="no">
+    <version>2</version>
+    <pubdate>2007-06-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="322" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Staatssekretariat für Bildung und Forschung (SBF) - ab 1.1.2013 SBFI</name>
+      <name lang="fr">Secrétariat d'Etat à l'éducation et à la recherche (SER) - dès le 1.1.2013 SEFRI</name>
+      <name lang="it">Segreteria di Stato per l'educazione e la ricerca (SER) - a partire dal 1.1.2013 SEFRI</name>
+      <name lang="en">State Secretariat for Education and Research (SER) - as of 1.1.2013 SERI</name>
+      <www lang="de">http://www.sbf.admin.ch</www>
+      <www lang="fr">http://www.sbf.admin.ch</www>
+      <www lang="it">http://www.sbf.admin.ch</www>
+      <www lang="en">http://www.sbf.admin.ch</www>
+      <email lang="de">info@sbf.admin.ch</email>
+      <email lang="fr">info@sbf.admin.ch</email>
+      <email lang="it">info@sbf.admin.ch</email>
+      <email lang="en">info@sbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat genehmigt die Erneuerung des Forschungsabkommens Schweiz-EG</title>
+      <lead>Der Bundesrat hat das erneuerte Forschungsabkommen zwischen der Schweiz und den Europäischen Gemeinschaften genehmigt. Das Abkommen ermöglicht der Schweizer Forschung die integrale Beteiligung an den 7. Forschungsrahmenprogrammen der EU während der Jahre 2007-2013. Die Unterzeichnung durch Bundesrat Pascal Couchepin und Forschungskommissar Janez Potočnik ist für den 25. Juni 2007 in Luxemburg vorgesehen.</lead>
+      <text link="no">&lt;p&gt;Die Rahmenprogramme für Forschung und technologische Entwicklung (FRP) sind das Hauptinstrument der Europäischen Union zur Umsetzung ihrer gemeinschaftlichen Wissenschafts- und Technologiepolitik. Ziel ist die Stärkung des Forschungsstandortes Europa durch eine grenzüberschreitende Vernetzung der Forschungskapazitäten. Die Beteiligung an den FRP ist für die Schweiz aus wissenschafts-, innovations- und wirtschaftspolitischen Gründen von grosser Bedeutung.&lt;br /&gt; Die Schweiz war bereits zwischen 2004 und 2006 an die 6. FRP (2003-2006) assoziiert. Schweizer Forschende konnten sich mit gleichen Rechten wie ihre Partner aus EU-Mitgliedstaaten an Projekten beteiligen und bekamen eine Finanzierung aus Brüssel. Aufgrund der positiven Erfahrungen mit der Assoziation wurden im Hinblick auf die 2007 beginnenden 7. FRP mit der Europäischen Kommission Verhandlungen zur Erneuerung des Forschungsabkommens geführt. Diese konnten am 27. Februar 2007 mit der Paraphierung des Abkommensentwurfs erfolgreich beendet werden.&lt;br /&gt; &lt;br /&gt; Dieses Abkommen wurde vom Bundesrat genehmigt. Die Genehmigung durch den EU-Ministerrat sollte in den nächsten Tagen erfolgen. Die Unterzeichnung des Vertrags durch Bundesrat Pascal Couchepin und EU-Forschungskommissar Janez Potočnik ist für den 25. Juni 2007 vorgesehen. Nach seiner Unterzeichnung wird das Abkommen rückwirkend ab dem 1. Januar 2007 angewandt. Damit kann sich die Schweizer Forschung unter gleichen Bedingungen wie bei den 6. FRP von Beginn weg an den Projektausschreibungen der 7. FRP beteiligen. Die Schweiz behält zudem das Recht, in den Leitungskomitees der spezifischen Programme sowie in diversen Steuerungsausschüssen vertreten zu sein, was einen privilegierten Zugang zu Informationen gewährt und ihr die Möglichkeit eröffnet, an der Durchführung der aktuellen sowie der Ausgestaltung zukünftiger EU-Rahmenprogramme mitzuwirken.&lt;br /&gt; &lt;br /&gt; Das Gesamtbudget für die 7. FRP beträgt insgesamt 54,6 Mia. Euro. Der Beitrag, den die Schweiz daran leistet, ist an das Bruttoinlandprodukt gekoppelt und wird sich auf rund 2,4 Mia. Franken über sieben Jahre belaufen. Der entsprechende Kredit wurde von den Eidgenössischen Räten am 14. Dezember 2006 genehmigt.&lt;br /&gt; &lt;br /&gt; Forschungsbereiche der neuen Rahmenprogramme sind u.a. Informations- und Kommunikationstechnologien, Gesundheit, Energie, Nanotechnologie und Umwelt - Bereiche, in denen die Schweizer Forschung im europäischen Vergleich grosse Kompetenzen besitzt. Neu wird in den 7. FRP mit der Errichtung des Europäischen Forschungsrats die Grundlagenforschung unterstützt. Eine Stärkung im Vergleich zu den Vorgängerprogrammen erfahren die Sozial- und Geisteswissenschaften.&lt;/p&gt;</text>
+      <contact>Paul-Erich Zinsli, stv. Direktor des Staatssekretariats für Bildung und Forschung SBF, Tel. 031 322 96 53</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral approuve le renouvellemnt de l’accord de coopération scientifique Suisse-UE</title>
+      <lead>Le Conseil fédéral a approuvé le renouvellement de l’accord de coopération scientifique et technologique entre la Suisse et les Communautés européennes. L’accord permet aux chercheurs suisses de participer de plein droit aux 7es Programmes-cadres de recherche de l’UE pendant les années 2007 à 2013. La signature de l’accord par le conseiller fédéral Pascal Couchepin et le commissaire européen à la recherche Janez Potočnik est prévue le 25 juin 2007 à Luxembourg.</lead>
+      <text link="no">&lt;p&gt;Les Programmes-cadres de recherche (PCR) sont le principal instrument de l’Union européenne pour la mise en œuvre d’une politique commune de la science et de la technologie. Ils ont pour but de renforcer la recherche européenne en fédérant les capacités au moyen de réseaux transnationaux. La participation aux PCR est un enjeu important pour la politique en matière de recherche, d’innovation et de développement économique de notre pays.&lt;br /&gt; La Suisse avait déjà été associée aux 6es PCR (2003-2006) entre 2004 et 2006. Les chercheurs suisses pouvaient participer aux projets à égalité de droits avec leurs partenaires des pays membres de l’UE et recevaient un financement de Bruxelles. L’expérience positive de l’association a conduit la Suisse à mener des négociations avec la Commission européenne pour renouveler l’accord de coopération scientifique en vue des 7es PCR, qui ont débuté en 2007. Ces négociations ont abouti à un projet d’accord paraphé le 27 février 2007.&lt;br /&gt; &lt;br /&gt; Le Conseil fédéral a aujourd’hui approuvé cet accord. L’approbation par le Conseil des ministres européen est attendue ces prochains jours. La signature officielle de l’accord par le conseiller fédéral Pascal Couchepin le commissaire européen à la recherche Janez Potočnik est prévue le 25 juin 2007. Après sa signature, l’accord entrera en vigueur rétroactivement le 1er janvier 2007. Les chercheurs suisses peuvent ainsi participer d’emblée aux appels à propositions de projet des 7es PCR aux mêmes conditions que dans les 6es PCR. La Suisse obtient en outre le droit d’être représentée dans les comités de direction des programmes thématiques et dans différents comités de pilotage, gage d’un accès privilégié à l’information et garant de la possibilité de participer à la mise en œuvre des programmes actuels et à la conception des futurs programmes-cadres de l’UE.&lt;br /&gt; &amp;nbsp;&lt;br /&gt; Les 7es PCR sont dotés d’un budget global de 54,6 milliards d’euros. La contribution de la Suisse est liée au produit intérieur brut et se monte à quelque 2,4 milliards de francs répartis sur sept ans. Les Chambres fédérales ont ouvert le crédit correspondant le 14 décembre 2006.&lt;br /&gt; &lt;br /&gt; Les nouveaux programmes-cadres couvrent notamment les domaines de recherche des technologies de l’information et de la communication, de la santé, de l’énergie, de la nanotechnologie et de l’environnement – des domaines dans lesquels la recherche suisse possède des compétences de pointe à l’échelle européenne. Une des innovations des 7es PCR est la création du Conseil européen de la recherche qui a pour vocation de soutenir la recherche fondamentale. Par ailleurs, un effort plus important est consacré aux sciences humaines et sociales par rapport aux précédentes générations de programmes.&lt;/p&gt;</text>
+      <contact>Paul-Erich Zinsli, directeur suppléant du Secrétariat d’Etat à l’éducation et à la recherche, tél. 031 322 96 53</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale approva il rinnovo dell’accordo di cooperazione scientifica e tecnologica tra la Svizzera e le CE</title>
+      <lead>Il Consiglio federale ha approvato il rinnovo dell’accordo di cooperazione scientifica e tecnologica tra la Svizzera e le Comunità europee che consente ai ricercatori svizzeri di partecipare integralmente al Settimo programma quadro di ricerca dell’Unione europea ( 2007-2013). La firma dell’accordo da parte del consigliere federale Pascal Couchepin e del commissario europeo per la scienza e la ricerca Janez Potočnik avverrà il 25 giugno 2007 in Lussemburgo.</lead>
+      <text link="no">I programmi quadro di ricerca e sviluppo tecnologico rappresentano il principale strumento dell'Unione europea per attuare la politica comunitaria in materia scientifica e tecnologica. Lo scopo perseguito è quello di rafforzare la ricerca europea mediante il coordinamento sopranazionale. La partecipazione ai programmi quadro riveste particolare importanza per la politica svizzera in materia di scienza, innovazione e sviluppo economico.&lt;br /&gt; &lt;br /&gt; La Svizzera è già stata associata dal 2004 al Sesto programma quadro di ricerca (2003-2006). I ricercatori svizzeri hanno potuto partecipare ai progetti con gli stessi diritti dei loro partner degli Stati membri dell’UE beneficiando di un finanziamento da parte di Bruxelles. Alla luce di questa positiva esperienza, in vista del Settimo programma quadro di ricerca, iniziato nel 2007, è stato negoziato con la Commissione europea il rinnovo dell’accordo di cooperazione. Le trattative si sono concluse il 27 febbraio 2007 con il perfezionamento del testo da sottoporre a ratifica. &lt;br /&gt; L’accordo è stato ufficialmente approvato dal Consiglio federale. La ratifica da parte del Consiglio dei ministri dell’UE dovrebbe avvenire nei prossimi giorni. La firma dell’accordo da parte del consigliere federale Pascal Couchepin e del commissario europeo per la scienza e la ricerca Janez Potocnik è prevista il 25 giugno 2007. Una volta sottoscritto, l’accordo entra in vigore con effetto retroattivo il 1° gennaio 2007. In tal modo i ricercatori svizzeri possono partecipare dall’inizio ai progetti del Settimo programma quadro alle stesse condizioni del programma precedente. La Svizzera ha inoltre diritto a essere rappresentata nei comitati di direzione dei programmi specifici e in diversi organismi di gestione strategica, ciò che consente un accesso privilegiato alle informazioni e di avere voce in capitolo sulle decisioni relative al programma quadro in corso e alla definizione di quelli futuri.&lt;br /&gt; &lt;br /&gt; Il budget globale per il Settimo programma quadro è di 54,6 miliardi di euro. L’importo versato dalla Svizzera è fissato in base al prodotto interno lordo e ammonta a circa 2,4 miliardi di franchi sull’arco di sette anni. Il relativo credito è stato approvato dalle Camere federali il 14 dicembre 2006.&lt;br /&gt; &lt;br /&gt; Tra i campi di ricerca del Settimo programma quadro figurano tra l’altro le tecnologie dell’informazione e della comunicazione, la sanità, l’energia, la nanotecnologia e l’ambiente, campi nei quali la Svizzera vanta notevoli competenze nel confronto europeo. Nel Settimo programma quadro è previsto il sostegno della ricerca fondamentale con l’istituzione di un Consiglio europeo della ricerca. Rispetto alla vecchia generazione di programmi, sono state inoltre rafforzate le scienze sociali e umane.</text>
+      <contact>Paul-Erich Zinsli, direttore supplente della Segreteria di Stato per l’educazione e la ricerca SER, tel. 031 322 96 53</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Federal Council approves renewal of Swiss-EC research agreement</title>
+      <lead>The Federal Council today approved renewal of the research agreement between Switzerland and the European Communities. This agreement will enable Swiss researchers to participate fully in the 7th EU Framework Programmes for Research and Technological Development for the period 2007-2013. Federal Councillor Pascal Couchepin and European Commissioner for Research Janez Potočnik are expected to sign the agreement on 25 June 2007 in Luxemburg.</lead>
+      <text link="no">&lt;p&gt;The framework programmes for research and technological development are the European Union's main instruments for implementing its common scientific and technology policy. The aim is to strengthen Europe's research standing through cross-border networking of research capacities. Participation in these programmes is of great importance to Switzerland for scientific, innovation and economic reasons.&lt;br /&gt; &lt;br /&gt; Between 2004 and 2006, Switzerland was already involved in the FP6 (2003-2006). Enjoying the same rights as partners from EU member states, Swiss researchers were able to take part in projects and receive funding from Brussels. The positive experiences from FP6 led to negotiations with the European Commission to renew the research agreement, thereby enabling Switzerland to take part in FP7, which began in 2007. Negotiations came to a successful close with the initialling of the draft agreement on 27 February 2007.&lt;br /&gt; &lt;br /&gt; The Federal Council approved the agreement. The Council of the European Union is expected to give its approval within the next few days. Signature of the agreement by Federal Councillor Pascal Couchepin and European Commissioner for Research Janez Potočnik is scheduled for 25 June 2007. Once signed, its entry into force will be set retroactively from 1 January 2007, thus allowing Swiss researchers to take part in FP7 calls for proposals from the outset, under the same terms as FP6. Switzerland will also have the right to hold seats on management boards of specific programmes as well as various steering committees. Switzerland will therefore have privileged access to information and will be in a position to help shape current and future EU framework programmes.&lt;br /&gt; A total of EUR 54.6 billion have been allocated to the overall FP7 budget. With each country paying contributions on the basis of their gross domestic product, Switzerland’s contribution will be about CHF 2.4 billion over a seven-year period. The corresponding guarantee credit was approved by the Federal Assembly on 14 December 2006.&lt;br /&gt; &lt;br /&gt; Among other things, research in the new framework programme is focused on information and communication technologies (ICTs), health, energy, nanotechnology and the environment, fields in Swiss researchers have considerable expertise in Europe. With the creation of the European Research Council, FP7 will include fundamental research. Social sciences and humanities will also receive greater funding under FP7 than in the previous framework programmes.&lt;/p&gt;</text>
+      <contact>Paul-Erich Zinsli, Deputy Director of the State Secretariat for Education and Research (SER), Tel. 031 322 96 53</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

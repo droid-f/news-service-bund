@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="65223" revoked="no">
+    <version>6</version>
+    <pubdate>2017-01-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1080" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <www lang="de">http://www.sbfi.admin.ch</www>
+      <www lang="fr">http://www.sbfi.admin.ch</www>
+      <www lang="it">http://www.sbfi.admin.ch</www>
+      <www lang="en">http://www.sbfi.admin.ch</www>
+      <email lang="de">info@sbfi.admin.ch</email>
+      <email lang="fr">info@sbfi.admin.ch</email>
+      <email lang="it">info@sbfi.admin.ch</email>
+      <email lang="en">info@sbfi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="708" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Wohnungswesen</name>
+      <name lang="fr">Office fédéral du logement</name>
+      <name lang="it">Ufficio federale delle abitazioni</name>
+      <name lang="en">Federal Housing Office</name>
+      <www lang="de">http://www.bwo.admin.ch/</www>
+      <www lang="fr">http://www.ofl.admin.ch/</www>
+      <www lang="it">http://www.ufab.admin.ch/</www>
+      <www lang="en">http://www.bwo.admin.ch/</www>
+      <email lang="de">info@bwo.admin.ch</email>
+      <email lang="fr">info@bwo.admin.ch</email>
+      <email lang="it">info@bwo.admin.ch</email>
+      <email lang="en">info@bwo.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat verabschiedet Bericht zu Rahmenbedingungen der digitalen Wirtschaft</title>
+      <lead>Der Bundesrat hat am 11. Januar 2017 den Bericht „Rahmenbedingungen der digitalen Wirtschaft“ verabschiedet. Dieser nimmt innerhalb der Strategie „Digitale Schweiz“ eine Standortbestimmung vor. Der digitale Wandel bietet grosse Chancen für die Schweizer Volkswirtschaft. Der Bundesrat will diese nutzen, um Arbeitsplätze und Wohlstand zu sichern. Grundsätzlich sind dazu die notwendigen Gesetzesgrundlagen vorhanden; es braucht für „Sharing Economy“-Anbieter voraussichtlich keine zusätzlichen Gesetze. Hingegen sind aufgrund des digitalen Wandels nicht mehr nötige Regulierungen punktuell anzupassen und die Rahmenbedingungen weiter zu optimieren. Der Bundesrat erteilt Prüfaufträge unter anderem für Massnahmen in den Bereichen Beherbergungs-Dienstleistungen, Wettbewerbsrecht, Mobilitätsdienstleistungen sowie in der Bildung und Forschung. Eine vertiefte Analyse zum Arbeitsmarkt ist bereits in Erarbeitung. </lead>
+      <text link="no"> &lt;p&gt;Der Bericht liefert für die Schweiz erstmals eine systematische Auslegeordnung in ausgewählten wirtschaftspolitisch wichtigen Themenfeldern. Ziel ist es, ein positives Umfeld für Unternehmen zu schaffen, damit diese die Chancen der Digitalisierung bestmöglich nutzen können. Gleichzeitig gilt es, das Verständnis der Bevölkerung für die Herausforderungen des digitalen Wandels zu stärken. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Voraussichtlich keine neuen Gesetze notwendig&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Bericht kommt zum Schluss, dass unser Land gut aufgestellt ist, um sich im digitalen Strukturwandel zu behaupten. Die bestehende Gesetzgebung bietet grundsätzlich eine geeignete Grundlage. Für neue Angebote der „Sharing Economy“ – etwa im Personentransport oder bei Beherbergungs-Dienstleistungen – braucht es keine zusätzlichen Gesetzesgrundlagen. Hingegen sind bestehende Normen punktuell anzupassen, um das Potenzial der Digitalisierung in Zukunft voll nutzen zu können. Solche Arbeiten hat der Bundesrat beispielsweise im Bereich von berufsmässigem Personentransport wie dem Taxiwesen sowie den digitalen Finanzdienstleitungen bereits angestossen. Aus Sicht des Bundesrates soll für die Entwicklung, Produktion und den Vertrieb neuer digitaler Produkte und Dienstleistungen in der Schweiz möglichst grosser Freiraum bestehen. &lt;/p&gt; &lt;p&gt;Der Bericht richtet ein besonderes Augenmerk auf die Beschäftigung: Der Schweizer Arbeitsmarkt hat es jeweils gut verstanden, die Herausforderungen des Strukturwandels erfolgreich zu bewältigen. Eine solche stellt auch die Digitalisierung dar. Zentrale Erfolgsfaktoren sind das qualitativ hochstehende und arbeitsmarktnahe Bildungssystem sowie die Kombination eines flexiblen Arbeitsmarktes und einer funktionierenden Sozialpartnerschaft. Der Bundesrat wird bis im Herbst 2017 im Bericht als Antwort auf das Postulat Reynard (15.3854) Fragen zum Arbeitsmarkt vertieft abklären. &lt;br /&gt; &lt;br /&gt; &lt;b&gt;Bundesrat beschliesst Prüfaufträge&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Bundesrat beschloss, in verschiedenen Bereichen Massnahmen zu prüfen beziehungsweise die Entwicklung zu verfolgen: &lt;/p&gt; &lt;ol&gt;&lt;li&gt;&lt;b&gt;Beherbergungsplattformen:&lt;/b&gt; Bis Ende 2017 werden Unschärfen im Mietrecht bezüglich den Zustimmungsmodalitäten des Vermieters zur Untermiete geklärt.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Multimodale Dienstleistungen:&lt;/b&gt; Dem Bundesrat wird bis Ende 2017 dargelegt, wie private und öffentliche Mobilitätsdienstleistungen besser vernetzt werden können.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Wettbewerbspolitik:&lt;/b&gt; Ebenfalls bis Ende 2017 wird abgeklärt, ob Fusionen von Internet-Plattformen mit geringen Umsätzen von den Behörden geprüft werden können, indem die Aufgreifschwelle angepasst wird.&lt;/li&gt;&lt;li&gt;&lt;b&gt;„Digitaler Test“:&lt;/b&gt; Gestützt auf Umfragen bei den betroffenen Verbänden und Sozialpartnern wird dem Bundesrat bis Ende 2018 aufgezeigt, welche Gesetzesartikel die Digitalisierung behindern.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bildungs- und Forschungspolitik:&lt;/b&gt; Unter Einbezug der Kantone und der Hochschulkonferenz ist bis Ende Juni 2017 zu prüfen, welche Auswirkungen die Digitalisierung auf den Bildungs- und Forschungsbereich hat und ob Massnahmen notwendig sind.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Internationale Regulierung:&lt;/b&gt; Die internationalen Entwicklungen der wirtschaftspolitischen Regulierungen der Digitalen Wirtschaft sind zu verfolgen und bis Ende 2018 ist allfälliger Handlungsbedarf aufzuzeigen. &lt;/li&gt;&lt;/ol&gt; </text>
+      <contact>Eric Scheidegger, stv. Direktor SECO, Leiter Direktion für Wirtschaftspolitik Tel. +41 58 462 29 59 eric.scheidegger@seco.admin.ch Gregor Haefliger, Vizedirektor SBFI Tel. +41 58 462 96 76 gregor.haefliger@sbfi.admin.ch</contact>
+      <attachment id="162617">
+        <title>Bericht</title>
+        <format>pdf</format>
+        <size-kb>1739</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46892.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162618">
+        <title>Executive Summary</title>
+        <format>pdf</format>
+        <size-kb>95</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46893.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162622">
+        <title>Executive Summary EN</title>
+        <format>pdf</format>
+        <size-kb>91</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="162623">
+        <title>Digitale Wirtschaft (SECO)</title>
+        <uri>https://www.seco.admin.ch/seco/de/home/wirtschaftslage---wirtschaftspolitik/wirschaftspolitik/digitalisierung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral approuve le rapport sur les principales conditions-cadre pour l’économie numérique</title>
+      <lead>Le 11 janvier 2017, le Conseil fédéral a approuvé le rapport sur les principales conditions-cadre pour l’économie numérique, qui dresse un état des lieux dans le cadre de la stratégie «Suisse numérique». Le tournant numérique présente de grandes opportunités pour l’économie suisse, opportunités que le Conseil fédéral entend saisir au service de l’emploi et de la prospérité. Les bases légales nécessaires sont en place: il n’est pas prévu d’édicter de nouvelles lois pour les acteurs de l’économie de partage. En revanche, certaines réglementations, devenues superflues en raison de l’évolution numérique, doivent être ponctuellement adaptées, et les conditions-cadre continuellement optimisées. Le Conseil fédéral a confié des mandats d’examen notamment pour des mesures relevant des prestations d’hébergement, du droit de la concurrence, des prestations de mobilité et de la formation et de la recherche. Une analyse approfondie du marché du travail est en cours. </lead>
+      <text link="no"> &lt;p&gt;Le rapport est le premier à dresser un état des lieux détaillé pour une sélection de domaines-clés de l’économie en Suisse. L’objectif est de créer un environnement positif pour les entreprises, afin que celles-ci puissent exploiter au mieux le potentiel offert par la numérisation. Parallèlement, il s’agit d’améliorer la compréhension de la population eu égard aux défis que pose le tournant numérique. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Aucune nouvelle loi ne s’impose en l’état&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le rapport conclut que notre pays est en bonne position pour profiter de la mutation structurelle induite par le tournant numérique. La législation en vigueur est adéquate: il n’est pas nécessaire d’édicter de nouvelles lois pour les nouvelles offres de l’économie de partage, par exemple dans le transport de personnes ou pour les prestations d’hébergement. Il faudra, en revanche, adapter certaines normes afin de pouvoir exploiter pleinement le potentiel qu’offre la numérisation. Le Conseil fédéral a par exemple déjà lancé ce type de travaux dans le domaine du transport de personnes à titre professionnel, comme les taxis, ou dans le domaine des services financiers numériques. Il est d’avis que le développement, la production et la distribution de nouveaux produits et services numériques doivent bénéficier en Suisse d’une marge de manœuvre aussi grande que possible. &lt;/p&gt; &lt;p&gt;Le rapport accorde une attention particulière à l’emploi: le marché suisse du travail a toujours su relever les défis liés au changement structurel pour en faire un succès. L’ère numérique est une autre de ces mutations structurelles. Le système éducatif de qualité et proche du marché du travail ainsi que la combinaison d’un marché du travail souple avec un partenariat social qui fonctionne bien sont des facteurs de réussite essentiels. Le Conseil fédéral analysera en détail les questions relatives au marché du travail dans le cadre du rapport qu’il présentera d’ici à l’automne 2017 en réponse au postulat 15.3854 Reynard.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Le Conseil fédéral confie des mandats d’examen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dans plusieurs domaines, le Conseil fédéral a décidé d’examiner des mesures ou d’observer l’évolution de la situation: &lt;/p&gt; &lt;ol&gt;&lt;li&gt;&lt;b&gt;Plateformes d’hébergement&lt;/b&gt;: éclaircissement des modalités d’approbation de la sous-location par le bailleur dans le droit du bail d’ici à fin 2017.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prestations multimodales&lt;/b&gt;: le Conseil fédéral se verra exposer, d’ici la fin de 2017, comment mieux coordonner les prestations de mobilité privées et publiques.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Politique de la concurrence&lt;/b&gt;: d’ici à fin 2017 également, analyse de la possibilité, pour les autorités, de contrôler les fusions de plateformes internet dont le chiffre d’affaires est faible en adaptant le seuil d’intervention.&lt;/li&gt;&lt;li&gt;&lt;b&gt;«Test lié à la numérisation»&lt;/b&gt;: sur la base des enquêtes réalisées auprès des associations concernées et des partenaires sociaux, le Conseil fédéral se verra exposer, d’ici la fin de 2018, quelles dispositions légales entravent la numérisation.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Formation et recherche&lt;/b&gt;: d’ici à fin juin 2017, analyse, associant les cantons et la Conférence suisse des hautes écoles, des conséquences de la numérisation sur le domaine de la formation et de la recherche et, le cas échéant, détermination des mesures nécessaires.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Réglementation internationale&lt;/b&gt;: observation de l’évolution internationale de la réglementation de l’économie numérique sur le plan de la politique économique et, le cas échéant, présentation des mesures à prendre d’ici à fin 2018. &lt;/li&gt;&lt;/ol&gt; </text>
+      <contact>Eric Scheidegger, directeur suppléant du SECO, chef de la Direction de la politique économique Tél.: +41 58 462 29 59 eric.scheidegger@seco.admin.ch Josef Widmer, directeur suppléant du SEFRI Tél.: 41 58 463 76 12 josef.widmer@sbfi.admin.ch</contact>
+      <attachment id="162619">
+        <title>Rapport</title>
+        <format>pdf</format>
+        <size-kb>1937</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46894.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162620">
+        <title>Résumé du rapport</title>
+        <format>pdf</format>
+        <size-kb>102</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46895.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162622">
+        <title>Executive Summary EN</title>
+        <format>pdf</format>
+        <size-kb>91</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="162624">
+        <title>Économie numérique (SECO)</title>
+        <uri>https://www.seco.admin.ch/seco/fr/home/wirtschaftslage---wirtschaftspolitik/wirschaftspolitik/digitalisierung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale approva il rapporto sulle condizioni quadro dell’economia digitale</title>
+      <lead>L’11 gennaio 2017 il Consiglio federale ha approvato il rapporto «Condizioni quadro dell’economia digitale», che analizza la situazione relativa alla strategia «Svizzera digitale». La svolta digitale offre valide opportunità all’economia svizzera, e il Consiglio federale intende coglierle per garantire occupazione e benessere. In linea generale esistono già le basi legali necessarie; gli operatori dell’economia della condivisione (la cosiddetta sharing economy) non necessitano di nuove leggi per il momento. Si tratta invece di adeguare alcuni singoli aspetti delle normative esistenti – che la svolta digitale ha reso superflui – e di proseguire l’ottimizzazione delle condizioni quadro. Su incarico del Consiglio federale saranno valutati possibili interventi in diversi settori, tra cui i servizi legati al pernottamento, la legislazione in materia di concorrenza, i servizi legati alla mobilità nonché la formazione e la ricerca, ed è già in corso un’analisi approfondita del mercato del lavoro. </lead>
+      <text link="no"> &lt;p&gt;Per la prima volta nel rapporto viene tracciato un quadro sistematico della situazione in Svizzera relativa ad alcuni ambiti tematici importanti sotto il profilo politico-economico, con l’obiettivo di creare condizioni favorevoli alle imprese affinché possano sfruttare al meglio le opportunità della digitalizzazione. Nel contempo si vuole migliorare il grado di consenso sociale nei confronti delle sfide poste dalla svolta digitale. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Per il momento non sono necessarie nuove leggi&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Stando al rapporto, il nostro Paese ha tutti i requisiti per affrontare la svolta digitale. La legislazione vigente offre una base normativa adeguata. Le nuove offerte dell’economia di condivisione (la cosiddetta &lt;i&gt;sharing economy&lt;/i&gt;) – ad esempio nel settore del trasporto viaggiatori o in quello dei servizi legati al pernottamento – non richiedono ulteriori strumenti di regolamentazione. Occorre invece adeguare alcuni singoli aspetti delle norme vigenti, affinché in futuro si possano sfruttare al meglio le potenzialità della digitalizzazione. Ad esempio, il Consiglio federale è già intervenuto nel settore del trasporto professionale di persone (imprese di taxi) e in quello dei servizi finanziari. Il Consiglio federale ritiene che in Svizzera lo sviluppo, la produzione e la vendita di nuovi beni e servizi digitali dovrebbero godere, per quanto possibile, di ampi margini di libertà. &lt;/p&gt; &lt;p&gt;Il rapporto esamina in particolare la questione dell’occupazione: il mercato del lavoro svizzero è già riuscito a superare le sfide poste da mutamenti strutturali come quello innescato dalla digitalizzazione. Per poter reagire adeguatamente a questi sviluppi, la qualità del sistema formativo, il suo stretto legame con il mercato del lavoro, e la flessibilità occupazionale associata ad una buona intesa tra le parti sociali, svolgono un ruolo centrale. Entro l’autunno del 2017, nel quadro del rapporto elaborato in adempimento del postulato 15.3854, depositato dal consigliere nazionale Reynard, il Consiglio federale approfondirà gli aspetti legati al mercato del lavoro. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Valutazioni su incarico del Consiglio federale&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il Consiglio federale ha deciso di valutare l’attuazione di misure e/o seguire gli sviluppi in atto in diversi settori. In particolare si tratta di: &lt;/p&gt; &lt;ol&gt;&lt;li&gt;&lt;b&gt;Portali specializzati in pernottamenti:&lt;/b&gt; entro la fine del 2017, precisare alcuni aspetti del diritto di locazione concernenti le procedure di approvazione della sublocazione da parte del locatore.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Servizi multimodali:&lt;/b&gt; entro la fine del 2017, proporre al Consiglio federale alcune possibili modalità di interconnessione dei servizi di mobilità privati e pubblici.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Politica della concorrenza:&lt;/b&gt; entro la fine del 2017, chiarire se un abbassamento della soglia di intervento permetta alle autorità preposte di vigilare sulle fusioni di piattaforme Internet a basso fatturato.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esame della legislazione in materia di digitalizzazione&lt;/b&gt;&lt;b&gt;:&lt;/b&gt; entro la fine del 2018, sulla base di sondaggi svolti presso le associazioni e i partner sociali interessati, informare il Consiglio federale sugli ostacoli normativi alla digitalizzazione.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Politica della formazione e della ricerca:&lt;/b&gt; entro la fine di giugno 2017, valutare, congiuntamente con i Cantoni e con la Conferenza svizzera delle scuole universitarie, quali effetti abbia la digitalizzazione sui settori della formazione e della ricerca, definendo le eventuali misure da adottare.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Regolamentazione internazionale:&lt;/b&gt; seguire gli sviluppi in atto a livello internazionale per quanto riguarda la regolamentazione politico-economica dell’economia digitale; entro la fine del 2018, indicare le eventuali necessità di intervento. &lt;/li&gt;&lt;/ol&gt; </text>
+      <contact>Eric Scheidegger direttore supplente SECO capo Direzione politica economica Tel. +41 58 462 29 59 eric.scheidegger@seco.admin.ch Josef Widmer direttore supplente SEFRI Tel. +41 58 46 37612 josef.widmer@sbfi.admin.ch</contact>
+      <attachment id="162619">
+        <title>Rapport</title>
+        <format>pdf</format>
+        <size-kb>1937</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46894.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162621">
+        <title>Riassunto del rapporto</title>
+        <format>pdf</format>
+        <size-kb>108</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46896.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="162622">
+        <title>Executive Summary EN</title>
+        <format>pdf</format>
+        <size-kb>91</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/46897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="162625">
+        <title>Economia digitale (SECO)</title>
+        <uri>https://www.seco.admin.ch/seco/it/home/wirtschaftslage---wirtschaftspolitik/wirschaftspolitik/digitalisierung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="25">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial Planning</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

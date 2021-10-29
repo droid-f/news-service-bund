@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="84497" revoked="no">
+    <version>1</version>
+    <pubdate>2021-07-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Personenwagen: Automobile Klassengesellschaft</title>
+      <lead>Bislang werden Pkw von Experten eines jeden Landes in Kategorien wie Kleinst-, Klein-, Mittel-, obere Mittel-, Gross- und Luxusklasse eingeteilt. Diese altmodische Methode hat jedoch Einschränkungen in Bezug auf die Kompatibilität. Außerdem sind einige Crossover-Fahrzeuge schwer zu kategorisieren. Empa-Wissenschaftler fanden eine Methode, diese Sortierung fair und effizient durchzuführen, indem sie Datenbanken mit Methoden des maschinellen Lernens durchsuchen.</lead>
+      <text link="no">&lt;p&gt;Um Fahrzeuge beispielweise für das Mobility-Pricing korrekt in Klassen einteilen zu können, muss man Mittelklasseautos von der Oberklasse und Kleinwagen von Kompaktfahrzeugen klar unterscheiden können. Doch das wird immer schwerer: Ein Audi A4 sieht auf Fotos fast gleich aus wie ein Audi A6, ein Mini One sieht ähnlich aus wie ein Mini Countryman.&lt;br /&gt;&lt;br /&gt;Bis jetzt werden die Klassen in jedem Land von Experten eingeteilt – zu einem grossen Teil nach eigenem Ermessen. Die Empa-Forscherin Naghmeh Niroomand hat nun ein System entwickelt, das weltweit Autos an Hand der Abmessungen klassifizieren kann. Rein mathematisch und fair. Die bisherige Einteilung durch Experten könnte also bald ein Ende finden. Zugleich wären Auto-Klassen weltweit leichter und objektiver vergleichbar. Denn in Italien ist ein "Mittelklassewagen" etwas Anderes als in den USA.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Literatur&lt;br /&gt;&lt;br /&gt;N Niroomand, C Bach, M Elser; Robust Vehicle Classification Based on Deep Features Learning; IEEE Access (2021), DOI: 10.1109/ACCESS.2021.3094366 &lt;/p&gt;</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies Tel. +41 58 765 46 80 naghmeh.niroomand@empa.ch Christian Bach Automotive Powertrain Technologies Tel. +41 58 765 45 08 Christian.Bach@empa.ch</contact>
+      <attachment id="219093">
+        <title>Bild / Image: alexander-schimmeck / Unsplash</title>
+        <format>jpg</format>
+        <size-kb>1181</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67617.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Voitures particulières: Classe moyenne ou classe supérieure ?</title>
+      <lead>Jusqu'à présent, les voitures particulières sont classées par les experts de chaque pays en catégories telles que les micro, petites, moyennes, moyennes supérieures, grandes et classes de luxe. Mais cette méthode démodée présente des limites en termes de compatibilité. De plus, certains véhicules crossover sont difficiles à catégoriser. Les scientifiques de l'Empa ont trouvé une méthode pour effectuer ce tri de manière équitable et efficace en parcourant les bases de données avec des méthodes d'apprentissage automatique.</lead>
+      <text link="no">&lt;p&gt;Afin de séparer correctement les véhicules en classes, par exemple pour la tarification de la mobilité, il est nécessaire de pouvoir distinguer clairement les voitures de taille moyenne des voitures de classe supérieure et les petites voitures des voitures compactes. Mais cela devient de plus en plus difficile : sur les photos, une Audi A4 ressemble presque à une Audi A6, une Mini One ressemble à une Mini Countryman. À ce jour, il n'existe pas de procédure indépendante pour cela.&lt;br /&gt;&lt;br /&gt;Jusqu'à présent, les classes de chaque pays étaient réparties par des experts - en grande partie à leur propre discrétion. Naghmeh Niroomand, chercheur à l'Empa, a mis au point un système qui permet de séparer les voitures du monde entier en fonction de leurs dimensions. Purement mathématique et équitable. La classification actuelle par des experts pourrait donc bientôt appartenir au passé. Dans le même temps, les classes de voitures seraient plus faciles et plus objectivement comparables dans le monde entier. Après tout, une "voiture de taille moyenne" n'a pas la même signification en Italie qu'aux États-Unis.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Littérature&lt;br /&gt;&lt;br /&gt;N Niroomand, C Bach, M Elser; Robust Vehicle Classification Based on Deep Features Learning; IEEE Access (2021), DOI: 10.1109/ACCESS.2021.3094366 &lt;/p&gt;</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies Tél. +41 58 765 46 80 naghmeh.niroomand@empa.ch Christian Bach Automotive Powertrain Technologies Tél. +41 58 765 45 08 Christian.Bach@empa.ch</contact>
+      <attachment id="219093">
+        <title>Bild / Image: alexander-schimmeck / Unsplash</title>
+        <format>jpg</format>
+        <size-kb>1181</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67617.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Passenger cars: Automobile class society</title>
+      <lead>Up to now passenger cars are classified by experts in each country into categories such as micro, small, middle, upper middle, large and luxury class. But this old fashioned method has limitations in terms of compatibility. Moreover, some crossover vehicles are difficult to categorize. Empa scientists found a method to do this sorting fairly and in an efficient way by browsing databases with machine learning methods.</lead>
+      <text link="no">&lt;p&gt;In order to correctly separate vehicles into classes, for instance for mobility pricing, one must be able to clearly distinguish mid-sized cars from upper class cars or small cars from compact cars. But this is becoming increasingly difficult: On photos, an Audi A4 looks almost the same as an Audi A6, a Mini One looks similar to a Mini Countryman. To date, there is no independent procedure for doing this.&lt;br /&gt;&lt;br /&gt;Thus far, the classes in each country have been determined by experts – to a large extend at their own discretion. Empa researcher Naghmeh Niroomand has now developed a system that can classify cars worldwide based on their dimensions. Purely mathematical and fair. Thanks to it, the current classification by experts could soon be a thing of the past. At the same time, car classes could be compared worldwide in an easier and more objective way. After all, a "mid-size car" is something different in Italy than it is in the US.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Literature&lt;br /&gt;&lt;br /&gt;N Niroomand, C Bach, M Elser; Robust Vehicle Classification Based on Deep Features Learning; IEEE Access (2021), DOI: 10.1109/ACCESS.2021.3094366 &lt;/p&gt;</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies Phone +41 58 765 46 80 naghmeh.niroomand@empa.ch Christian Bach Automotive Powertrain Technologies Phone +41 58 765 45 08 Christian.Bach@empa.ch</contact>
+      <attachment id="219093">
+        <title>Bild / Image: alexander-schimmeck / Unsplash</title>
+        <format>jpg</format>
+        <size-kb>1181</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67617.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

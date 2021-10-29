@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="77967" revoked="no">
+    <version>1</version>
+    <pubdate>2020-01-30</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Selbstlernende Heizungssteuerung spart Energie</title>
+      <lead>Können Gebäude von selbst sparen lernen? Forscher der Empa sind davon überzeugt. In einem Experiment fütterten sie eine neue selbstlernende Heizungssteuerung mit Daten aus dem vergangenen Jahr und mit der aktuellen Wettervorhersage. Daraufhin konnte die «smarte» Steuerung das Verhalten des Gebäudes einschätzen und vorausschauend handeln. Ergebnis: mehr Komfort, weniger Energiekosten.</lead>
+      <text link="no">&lt;p&gt;Fabrikhallen, Flughafenterminals oder Bürohochhäuser werden vielfach schon heute mit automatisierten «vorausschauenden» Heizungen bestückt. Diese arbeiten mit speziell für das Gebäude berechneten, vorprogrammierten Szenarien und sparen den Betreibern eine Menge an Heizenergie. Doch für einzelne Wohnungen und Privathäuser ist eine solche Einzelprogrammierung zu teuer.&lt;/p&gt;&lt;p&gt;Einer Gruppe von Empa-Forschern gelang im letzten Sommer erstmals der Beweis, dass es auch einfacher geht: Die intelligente Heiz- und Kühlsteuerung muss nicht unbedingt programmiert werden, sie kann ebenso gut selbst aus den Daten vergangener Wochen und Monate sparen lernen. Programmierende Fachleute sind nicht mehr nötig. Mit diesem Kniff ist die Spartechnik bald auch für Familien und Singles verfügbar.&lt;/p&gt;&lt;p&gt;Das entscheidende Experiment fand im Empa-Forschungsgebäude NEST statt. Die Forschungsunit «UMAR» (Urban Mining and Recycling) bietet dafür optimale Voraussetzungen: Eine grosse Wohnküche ist symmetrisch von zwei Studentenzimmern eingerahmt. Beide Zimmer sind je 18 Quadratmeter gross. Die gesamte Fensterfront schaut nach Ostsüdost – zur Vormittagssonne – hin. In der UMAR-Unit läuft Wasser durch eine Deckenverkleidung aus Edelstahl und sorgt für die gewünschte Raumtemperatur. Die Heiz- und Kühlleistung lässt sich für die einzelnen Räume über die jeweilige Ventilstellung berechnen.&lt;/p&gt; Schlauer kühlen – dank Wetterbericht&lt;p&gt;Da Projektleiter Felix Bünning und sein Kollege Benjamin Huber nicht auf die Heizperiode warten wollten, starteten sie bereits im Juni 2019 ein Kühl-Experiment. Die Woche vom 20. bis 26. Juni begann mit zwei sonnigen, aber noch relativ kühlen Tagen, dann kam ein bewölkter Tag, zum Schluss brannte die Sonne über Dübendorf und jagte die Aussentemperatur bis knapp an die 40-Grad-Grenze. In den beiden Schlafzimmern sollte die Temperatur tagsüber die Marke von 25 Grad, nachts die Marke von 23 Grad nicht überschreiten. Ein herkömmliches Thermostatventil besorgte die Kühlung in einem Zimmer. Im anderen Zimmer arbeitete die experimentelle Steuerung, die Bünning und Huber mit ihrem Team entworfen hatten. Die künstliche Intelligenz war mit Daten der letzten zehn Monate gefüttert worden – und sie kannte die aktuelle Wettervorhersage von MeteoSchweiz.&lt;/p&gt; Mehr Komfort mit ¼ weniger Energie&lt;p&gt;Das Ergebnis fiel überaus deutlich aus: Die intelligente Heiz- und Kühlsteuerung hielt sich deutlich genauer an die Kom- ­fortvorgaben und brauchte hierfür rund 25 Prozent weniger Energie. Dies lag vor allem daran, dass am Vormittag, wenn die Sonne in die Fenster schien, vorausschauend gekühlt wurde. Das mechanische Thermostat im Zimmer gegenüber reagierte hingegen erst dann, wenn die Temperatur durch die Decke ging. Zu spät, zu hektisch und mit voller Leistung. Im November 2019, in einem kühlen Monat mit wenig Sonne, viel Regen und Wind, wiederholten Bünning und Huber das Experiment. Nun ging es um die Heizenergie in den beiden Zimmern. Bei Redaktionsschluss dieses Heftes lief die Auswertung noch. Doch Bünning ist sicher, dass seine vorhersagende Heizungsregelung auch hier Punkte sammelt.&lt;/p&gt;&lt;p&gt;Er und sein Team haben bereits den nächsten Schritt vorbereitet: «Um das System im realen Umfeld zu testen, haben wir einen grösseren Feldversuch in einem Mehrfamilienhaus mit 60 Wohnungen geplant. Wir werden vier dieser Wohnungen mit unserer intelligenten Heiz- und Kühlsteuerung ausrüsten.» Auf die Ergebnisse ist Bünning schon sehr gespannt. «Ich glaube, dass neue, auf Machine Learning basierende Regler eine riesige Chance sind. Mit dieser Methode können wir mit relativ einfachen Mitteln und den gesammelten Daten eine gute, energiesparende Nachrüstungslösung für bestehende Heizungen konstruieren.»&lt;/p&gt;</text>
+      <contact>Benjamin Huber Urban Energy Systems Tel +41 58 765 4305 benjamin.huber@empa.ch Philipp Heer Urban Energy Systems Tel +41 58 765 4990 philipp.heer@empa.ch Redaktion / Medienkontakt Rainer Klose Kommunikation Tel. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="197613">
+        <title>The “Urban Mining and Recycling” unit in the NEST research building has two student rooms. One of them was equipped with a self-learning heating and cooling control system. Image: Zooey Braun, Stuttgart</title>
+        <format>jpg</format>
+        <size-kb>2120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/60108.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="197614">
+        <title>Empa Medienmitteilung</title>
+        <uri>https://www.empa.ch/web/s604/smart-heat</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Chauffage capable d’auto-apprentissage</title>
+      <lead>Les bâtiments peuvent-ils apprendre tout seuls à économiser de l’énergie? Des chercheurs de l’Empa en sont convaincus. Ils ont transmis à une commande de chauffage capable d’auto-apprentissage les données de l’année précédente ainsi que les prédictions météo du moment. Sur cette base, la commande «intelligente» a pu évaluer les réactions du bâtiment et en anticiper correctement les besoins. Résultat: un confort accru et des économies.</lead>
+      <text link="no">&lt;p&gt;Les halles de fabrication, les terminaux d’aéroport ou les immeubles de bureaux sont fréquemment équipés de chauffages «anticipateurs». Ils fonctionnent sur la base de scénarios préprogrammés et permettent à l’exploitant de réaliser de très sensibles économies. Mais pour ce qui concerne les appartements ou les maisons individuelles, la programmation – nécessairement sur mesure – s’avère trop coûteuse.&lt;/p&gt;&lt;p&gt;L’été dernier, un groupe de chercheurs de l’Empa a montré que les commandes de chauffage et de rafraîchissement pouvaient se passer de scénarios en tirant leurs propres enseignements des données des semaines et des mois précédents. Plus besoin de programmateurs professionnels. Les familles et les célibataires pourront bientôt profiter de cette technique.&lt;/p&gt;&lt;p&gt;L’expérience décisive a été effectuée dans le bâtiment d’essais NEST. C’est l’unité «UMAR» (Urban Mining and Recycling) qui offrait en l’occurrence les meilleures conditions: un vaste séjour/cuisine flanqué à gauche et à droite d’une chambre d’étudiant de 18 m2, le tout orienté est-sud-est, sur le soleil du matin. Pour calculer l’énergie utilisée par chaque pièce, l’expérience s’est basée sur la position des vannes de réglage.&lt;/p&gt; Rafraîchir intelligemment grâce à la météo&lt;p&gt;Ne voulant pas attendre la période chauffée, le chef de projet Felix Bünning et son collègue Benjamin Huber ont lancé une expérience de rafraîchissement dès juin 2019. Selon la consigne, les deux chambres ne devaient pas dépasser 25°C le jour et 23°C la nuit. Une vanne thermostatique habituelle permettait de régler l’une des chambres, alors que l’autre était sous contrôle de la commande expérimentale mise au point par l’équipe de Bünning et Huber. Le logiciel d’intelligence artificielle disposait de données couvrant les dix derniers mois ainsi que les prévisions en cours de MétéoSuisse.&lt;/p&gt; Plus agréable et d’un quart plus économe&lt;p&gt;Le résultat s’est révélé clair et net: le chauffage-rafraîchissement intelligent a mieux respecté la consigne tout en consommant 1/4 d’énergie en moins que le système mécanique. Cela s’explique surtout par le fait que, le matin, lorsque le Soleil brillait à travers les fenêtres, le système enclenchait le rafraîchissement de manière préventive. Le thermostat mécanique de la chambre d’en face, lui, ne réagissait que lorsque la chaleur avait traversé le plafond, trop tard, trop brusquement, trop fort.&lt;/p&gt;&lt;p&gt;En novembre 2019, qui fut froid, peu ensoleillé, pluvieux et venteux, Bünning et Huber ont renouvelé l’expérience. Il ne s’agissait plus de rafraîchir mais de chauffer les deux chambres. A l’heure où nous mettons sous presse, les résultats sont en cours d’évaluation.&lt;/p&gt;&lt;p&gt;Bünning est confiant que cette fois encore, le réglage anticipateur va marquer des points. L’équipe prépare déjà l’étape suivante: «Pour tester le système sur le terrain et en grand, nous avons choisi un immeuble de 60 appartements. Nous équiperons quatre appartements de nos commandes intelligentes de chauffage et rafraîchissement.» Il leur faudra préalablement charger le logiciel – qui tournait sur le cloud – dans un petit bloc de commande local. "Le bloc remplacera le thermostat des appartements test", explique Felix Bünning, impatient de voir les résultats. "Je crois que le réglage par machine learning présente un grand potentiel. Nécessitant peu de moyens et des données faciles à réunir, il peut être monté sur des chauffages existants et leur permettre d’économiser de l’énergie."&lt;/p&gt;</text>
+      <contact>Benjamin Huber Urban Energy Systems Tél +41 58 765 4305 benjamin.huber@empa.ch Philipp Heer Urban Energy Systems Tél +41 58 765 4990 philipp.heer@empa.ch Rédaction / Contact média Rainer Klose Communication Tél. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="197613">
+        <title>The “Urban Mining and Recycling” unit in the NEST research building has two student rooms. One of them was equipped with a self-learning heating and cooling control system. Image: Zooey Braun, Stuttgart</title>
+        <format>jpg</format>
+        <size-kb>2120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/60108.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="197614">
+        <title>Empa Medienmitteilung</title>
+        <uri>https://www.empa.ch/web/s604/smart-heat</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Self-learning heat­ing control system saves energy</title>
+      <lead>Can buildings learn to save all by themselves? Empa researchers think so. In their experiments, they fed a new self-learning heat­ing control system with temperature data from the previous year and the current weather forecast. The “smart” control system was then able to assess the building’s behavior and act with good anticipation. The result: greater comfort, lower energy costs.</lead>
+      <text link="no">Factory halls, airport terminals and high-rise office buildings are often equipped with automated “anticipatory” heating systems. These work with pre-defined scenarios specially calculated for the building and help save building own­ers a great deal of heating energy. However, such an individual programming is too expensive for individual apartments and private homes. Last summer, a group of Empa re­searchers proved for the first time that it could indeed be much simpler than that: Intelligent heating and cooling control does not necessarily have to be programmed, the system can just as easily learn to reduce costs by itself and based on the data of past weeks and months. Programming experts are no longer necessary. With this trick, the cost-saving technology will soon also be available for families and singles. The crucial experiment took place in Empa’s research building NEST. The UMAR unit (“Urban Mining and Recycling”) offers prime conditions for this test: A large eat-in kitchen is framed on both sides by two student rooms. Both rooms are 18 square meters each. The entire window front looks east-southeast towards the morning sun. In the UMAR unit, heated or pre-­cooled water flows through a stainless steel ceiling cladding and ensures the desired room temperature. The energy used for heating and cooling can be calculated for each individual room using the respective valve positions. Clever cooling – thanks to the weather forecast Since project leader Felix Bünning and his colleague Benjamin Huber did not want to wait for the heating period, they started a cooling experiment in June 2019. The week from 20 to 26 June began with two sunny, but still rather cool days, followed by a cloudy day, finally the sun burned over Dübendorf and drove the outside temper­ature to just short of 40 degrees. In the two sleeping rooms, the temperature should not exceed the mark of 25 degrees during the day, at night the limit is set to 23 degrees. A conventional thermostatic valve provided the cooling in one room. In the other room, the experimental control system equipped with artificial intelligence (AI) developed by Bünning and Huber and their team was at work. The AI had been fed with data from the past ten months – and it knew the current weather forecast from MeteoSwiss. Greater comfort with less energy The result was crystal-clear: The smart heating and cooling control system adhered much more closely to the pre-set comfort specifications – while using around 25% less energy. This was mainly because in the morning, when the sun was shining through the windows, the system was cooling the rooms beforehand. The conventional thermostat in the second room, on the other hand, could only react once the temperature went through the ceiling. Too late, too hectic and with full power. In November 2019, a cool month with little sun, lots of rain and cool winds, Bünning and Huber repeated the experiment. Now it was all about heating the two rooms. At the time this issue went to press, the evaluation was still in progress. But Bünning is convinced that his predictive heating control system also collects points here. The Empa team has already prepared the next step: “In order to test the system in a real-world environment, we have planned a larger field test in a building with 60 apartments. We will equip four of these apartments with our intelligent heating and cooling control system”.Bünning is curious about the results. “I think that new controllers based on machine learning offer a huge opportunity. With this method we can construct a good, energy-saving retrofit solution for existing heating systems using relatively simple means and the recorded data.” </text>
+      <contact>Benjamin Huber Urban Energy Systems Phone +41 58 765 4305 benjamin.huber@empa.ch Philipp Heer Urban Energy Systems Phone +41 58 765 4990 philipp.heer@empa.ch Editor / Media contact Rainer Klose Communications Phone +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="197613">
+        <title>The “Urban Mining and Recycling” unit in the NEST research building has two student rooms. One of them was equipped with a self-learning heating and cooling control system. Image: Zooey Braun, Stuttgart</title>
+        <format>jpg</format>
+        <size-kb>2120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/60108.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="197614">
+        <title>Empa Medienmitteilung</title>
+        <uri>https://www.empa.ch/web/s604/smart-heat</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

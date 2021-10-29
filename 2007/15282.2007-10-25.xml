@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="15282" revoked="no">
+    <version>2</version>
+    <pubdate>2007-10-25</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="602" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="404" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="en">Federal Office of Police</name>
+      <www lang="de">http://www.fedpol.admin.ch/fedpol/de/home.html</www>
+      <www lang="fr">http://www.fedpol.admin.ch/fedpol/fr/home.html</www>
+      <www lang="it">http://www.fedpol.admin.ch/fedpol/it/home.html</www>
+      <www lang="en">http://www.fedpol.admin.ch/fedpol/en/home.html</www>
+      <email lang="de">info@fedpol.admin.ch</email>
+      <email lang="fr">info@fedpol.admin.ch</email>
+      <email lang="it">info@fedpol.admin.ch</email>
+      <email lang="en">info@fedpol.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Zur Lage in der Informationssicherung: Fünfter Bericht der Melde- und Analysestelle Informationssicherung</title>
+      <lead>Die Angriffe auf Schweizer Finanzdienste mit dem Ziel der illegalen Bereicherung und die Bedrohung durch gezielte Industriespionage über das Internet stehen im Zentrum des fünften Halbjahresberichts der Melde- und Analysestelle Informationssicherung (MELANI). Der Bericht beurteilt die Lage im ersten Halbjahr 2007. Er ist heute Donnerstag publiziert worden.</lead>
+      <text link="no">&lt;p&gt;Der Bericht führt aus, dass „klassische“ Phishing-Angriffe auf Schweizer Finanzdienste stark abgenommen haben. Bei diesen Angriffen wird der Kunde per Mail aufgefordert, Zugangsdaten für das E-Banking-System einzugeben. Zugenommen haben hingegen erfolgreiche Angriffe mit Malware. Dabei handelt es sich um Software, die schädliche Funktionen ausführt. Malware gelangt meistens per E-Mail mit gefälschtem Absender auf den Computer. Die schädliche Software befindet sich entweder im Anhang der Mails, oder es führt ein Link zu einer präparierten Webseite, von welcher die Malware ohne Zutun des Opfers herunter geladen wird. Sobald ein Kundenrechner mit Malware verseucht ist, bieten auch gut gesicherte E-Banking-Systeme keinen Schutz mehr.&lt;/p&gt; &lt;p&gt;Nicht nur die Betreiber kritischer Infrastrukturen, die Rüstungsindustrie oder staatliche Stellen sind im Visier gezielter Spionage, sondern auch mittelständische Industrieunternehmen sowie Hersteller von Mode- und Luxusartikeln. Die Angriffe erfolgen auch hier meist mit Malware, die per E-Mail mit gefälschtem Absender verteilt wird. Der E-Mail-Versand geschieht jedoch gezielt an einzelne Mitarbeitende. Der Inhalt der E-Mail ist sprachlich und inhaltlich auf die Aufgaben des Opfers abgestimmt, so dass kein Misstrauen entsteht und die entsprechend präparierten Anhänge geöffnet, respektive die in der E-Mail enthaltenen Links angeklickt werden. Meistens kann Antiviren-Software solche Angriffe nicht erkennen, weil diese gezielt erfolgen und dafür speziell für diese Zwecke programmierte Malware eingesetzt wird.&lt;/p&gt; &lt;p&gt;&amp;nbsp;Der vollständige Bericht ist abrufbar unter: www.melani.admin.ch.&lt;/p&gt;</text>
+      <contact>Ruedi Rytz, Informatikstrategieorgan Bund ISB, Leiter der Melde- und Analysestelle Informationssicherung MELANI, Tel. 031 323 45 07</contact>
+      <attachment id="32085">
+        <title>Bericht</title>
+        <format>pdf</format>
+        <size-kb>497</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/9947.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="32088">
+        <title>Website MELANI</title>
+        <uri>http://www.melani.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Situation en matière de sûreté de l'information: cinquième rapport de MELANI</title>
+      <lead>Les attaques lancées dans un dessein d'enrichissement illégitime contre des services financiers suisses et la menace due à l'espionnage industriel ciblé par Internet constituent les thèmes principaux du cinquième rapport semestriel de la Centrale d'enregistrement et d'analyse pour la sûreté de l'information (MELANI). Ce rapport, qui livre un aperçu de la situation durant le premier semestre 2007, sera publié ce jeudi.</lead>
+      <text link="no">&lt;p&gt;Le rapport montre que les attaques classiques basées sur le principe du «phishing» et visant les services financiers suisses ont fortement baissées. Ces attaques sont menées au moyen d'un courriel qui demande au destinataire des données permettant d'accéder au système d'e-banking. Par contre, le nombre d’attaques réussies par maliciel a augmenté. Ces dernières attaques sont fondées sur l’utilisation de logiciels qui introduisent des fonctions dommageables dans l'ordinateur. Les maliciels sont distribués le plus souvent par des courriers électroniques dont le nom de l'expéditeur est falsifié. Soit les logiciels nuisibles se trouvent dans l'annexe au courriel, soit un lien aboutit à un site spécialement préparé, qui télécharge le maliciel sur l'ordinateur de la victime sans que celle-ci ait fait quoi que ce soit. Dès qu'un ordinateur est infecté, un système d’e-banking, même bien sécurisé, n'offre plus aucune protection.&lt;/p&gt; &lt;p&gt;L'espionnage ciblé vise non pas seulement les exploitants d'infrastructures vitales, l'industrie de l'armement ou les administrations publiques, mais également les entreprises d'importance moyenne du secteur industriel ainsi que les fabricants d'articles de luxe ou de mode. Là aussi, la plupart des attaques impliquent le recours à des maliciels envoyés au moyen d'un courriel par un expéditeur dont le nom est falsifié. Ces courriels sont généralement adressés de façon ciblée à des collaborateurs déterminés. La formulation et le contenu se réfèrent aux activités de la victime. Celle-ci n'a donc aucun soupçon et ouvre les annexes truquées ou clique sur le lien figurant dans le courriel. Comme les attaques sont ciblées et qu'elles recourent à des maliciels spécialement créés, les antivirus ne les reconnaissent généralement pas.&lt;/p&gt; &lt;p&gt;Le rapport complet est disponible sous: www.melani.admin.ch.&lt;/p&gt;</text>
+      <contact>Mauro Vignati, analyste de la Centrale d'enregistrement et d'analyse pour la sûreté de l'information MELANI, tél.: 031 324 83 44</contact>
+      <attachment id="32086">
+        <title>Rapport</title>
+        <format>pdf</format>
+        <size-kb>460</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/9948.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="32089">
+        <title>Site Internet MELANI</title>
+        <uri>http://www.melani.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Stato della sicurezza dell’informazione: quinto rapporto della Centrale d’annuncio e d’analisi per la sicurezza dell’informazione</title>
+      <lead>Gli attacchi contro i servizi finanziari svizzeri perpetrati nell’intento di un arricchimento illecito e la minaccia di spionaggio industriale tramite Internet costituiscono il tema centrale del quinto rapporto semestrale della Centrale d’annuncio e d’analisi per la sicurezza dell’informazione (MELANI). Il rapporto valuta la situazione nel corso del primo semestre del 2007. Esso è stato pubblicato in data odierna.</lead>
+      <text link="no">&lt;p&gt;Il rapporto riferisce che gli attacchi «classici» di phishing contro i servizi finanziari svizzeri sono fortemente diminuiti. Nel caso di questi attacchi, il cliente è invitato tramite e-mail a immettere i dati di accesso al sistema di e-banking. Sono invece fortemente aumentati gli attacchi di malware. Si tratta di un software che esegue funzioni nocive. Nella maggior parte dei casi, il malware raggiunge il computer tramite e-mail con un falso mittente. Il software nocivo si trova nell’allegato dell’e-mail oppure quest’ultimo contiene un link verso una pagina Web da cui il malware viene scaricato senza alcun intervento da parte della vittima. Se il computer di un cliente è infettato dal malware, neppure i sistemi di e-banking di provata sicurezza offrono protezione.&lt;/p&gt; &lt;p&gt;Non soltanto gli esercenti di infrastrutture critiche, l’industria d’armamento o i servizi dello Stato, ma anche le piccole e grandi imprese nonché i produttori di articoli di moda e di lusso sono nel mirino dello spionaggio. Anche in questi casi, gli attacchi sono perpetrati perlopiù attraverso l’uso di malware, la cui diffusione avviene via e-mail con un falso mittente. Gli e-mail sono però inviati in maniera mirata a singoli collaboratori. Il contenuto dell’e-mail è adeguato sotto il profilo della lingua e dei contenuti alle caratteristiche della vittima, in modo da non suscitare alcuna diffidenza e da fare aprire gli allegati appositamente predisposti o da fare cliccare sui link degli e-mail. Nella maggior parte dei casi, i software antivirus non riescono a individuare questi attacchi, perché essi sono eseguiti in maniera mirata e con malware programmati appositamente a tale scopo.&lt;/p&gt; Il rapporto integrale è disponibile sul sito: www.melani.admin.ch</text>
+      <contact>Mauro Vignati, analista della Centrale d’annuncio e d’analisi per la sicurezza dell’informazione MELANI, tel. 031 324 83 44</contact>
+      <attachment id="32087">
+        <title>Rapporto</title>
+        <format>pdf</format>
+        <size-kb>527</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/9949.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="32090">
+        <title>Pagina Web MELANI</title>
+        <uri>http://www.melani.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="1" org-id="602">
+        <name lang="de">Informatikstrategieorgan Bund ISB (ab 1.1.2012 Informatiksteuerungsorgan: bitte Abo anpassen)</name>
+        <name lang="fr">Unité de stratégie informatique de la Confédération (depuis le 1.1.2012 unité de pilotage, veuillez adapter votre abonnement)</name>
+        <name lang="it">Organo strategia informatica della Confederazione (OSIC), dal 1° gennaio 2012: Organo direzione informatica della Confederazione (ODIC); adeguare l’abbonamento</name>
+        <name lang="en">Federal Strategy Unit for IT (FSUIT) (starting 1.1.2012 it is a Steering Unit, please adapt your subscription)</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="17">
+        <name lang="de">Kriminalität</name>
+        <name lang="fr">Criminalité</name>
+        <name lang="it">Criminalità</name>
+        <name lang="en">Criminality</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="34601" revoked="no">
+    <version>3</version>
+    <pubdate>2010-08-17</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="704" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Berufsbildung und Technologie (BBT) - ab 1.1.2013 SBFI</name>
+      <name lang="fr">Office fédéral de la formation professionnelle et de la technologie (OFFT) - dès le 1.1.2013 SEFRI</name>
+      <name lang="it">Ufficio federale della formazione professionale e della tecnologia (UFFT) - a partire dal 1.1.2013 SEFRI</name>
+      <name lang="en">Federal Office for Professional Education and Technology (OPET) - as of 1.1.2013 SERI</name>
+      <www lang="de">http://www.bbt.admin.ch/</www>
+      <www lang="fr">http://www.bbt.admin.ch/</www>
+      <www lang="it">http://www.bbt.admin.ch/</www>
+      <www lang="en">http://www.bbt.admin.ch/</www>
+      <email lang="de">info@bbt.admin.ch</email>
+      <email lang="fr">info@bbt.admin.ch</email>
+      <email lang="it">info@bbt.admin.ch</email>
+      <email lang="en">info@bbt.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Internetplattform des Bundes zu Cleantech</title>
+      <teaser>Der Bund hat eine neue Internetplattform zu Cleantech lanciert, die einen Überblick über Aktivitäten und Akteure im Bereich Cleantech in der Schweiz aufzeigt. Die Plattform www.cleantech.admin.ch wurde vom Eidgenössischen Volkswirtschaftsdepartement (EVD) und Eidgenössischen Department für Umwelt, Verkehr, Energie und Kommunikation (UVEK) ins Leben gerufen. Sie soll Wirtschaft, Politik und Öffentlichkeit Zugang zu relevanten Informationen zum Zukunftsmarkt Cleantech bieten.</teaser>
+      <lead>Der Bund hat eine neue Internetplattform zu Cleantech lanciert, die einen Überblick über Aktivitäten und Akteure im Bereich Cleantech in der Schweiz aufzeigt. Die Plattform www.cleantech.admin.ch wurde vom Eidgenössischen Volkswirtschaftsdepartement (EVD) und Eidgenössischen Department für Umwelt, Verkehr, Energie und Kommunikation (UVEK) ins Leben gerufen. Sie soll Wirtschaft, Politik und Öffentlichkeit Zugang zu relevanten Informationen zum Zukunftsmarkt Cleantech bieten.</lead>
+      <text link="no">&lt;p&gt;Welche Forschungsaktivitäten laufen im Bereich Cleantech in der Schweiz? Wo lassen sich entsprechende Aus- und Weiterbildungen absolvieren? Welche Exportunterstützung steht innovativen KMU zur Verfügung? Welche Fördermöglichkeiten gibt es für Cleantech-Projekte? Wer wissen will, was rund um Cleantech in der Schweiz läuft, findet auf www.cleantech.admin.ch die entsprechenden Informationen oder Verweise auf weiterführende Angebote.&lt;/p&gt; &lt;p&gt;Die neue Internetplattform ist Teil der von Bundespräsidentin Doris Leuthard im November 2009 gestarteten nationalen Cleantech-Initiative. Die Webseite wird regelmässig aktualisiert und weiter ausgebaut. Insbesondere sollen hier bis Ende Jahr Resultate des „Masterplans Cleantech Schweiz" einfach zugänglich gemacht werden.&lt;/p&gt; &lt;p&gt;Die Grundidee des „Masterplans Cleantech Schweiz" ist, die positive Entwicklung der Unternehmen mit Cleantech-Anwendungen durch einen Schulterschluss zwischen Wissenschaft, Wirtschaft, Verwaltung und Politik noch mehr zu stärken.&lt;/p&gt; &lt;p&gt;Der Masterplan, den die vier an der interdepartementalen Zusammenarbeit beteiligten Bundesämter - das Bundesamt für Berufsbildung und Technologie BBT, das Staatssekretariat für Wirtschaft SECO, das Bundesamt für Energie BFE, das Bundesamt für Umwelt BAFU - zurzeit erstellen, soll den Beteiligten als umfassende Orientierungshilfe dienen, die staatlichen Unterstützungsangebote sichtbar machen und Zusammenarbeit und Koordination erleichtern. Er umfasst eine Auslegeordnung der bereits bestehenden Aktivitäten des Bundes im Bereich Cleantech und zeigt allfällige Angebotslücken und neue Handlungsfelder auf. Er wird der Politik als Grundlage zur Ausarbeitung von Massnahmen zur Stärkung des Wirtschaftssegments Cleantech in der Schweiz dienen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Infobox:&lt;/b&gt; &lt;b&gt;Was ist Cleantech?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Cleantech ist ein branchenübergreifendes Wirtschaftssegment und vereinigt alle Aktivitäten zum schonenden Umgang mit den natürlichen Ressourcen. Dazu gehören erneuerbare Energien, Energie- und Rohstoffeffizienz, erneuerbare Materialien, Abfallwirtschaft, saubere Produktionsprozesse oder die Wasserwirtschaft.&lt;/p&gt; &lt;p&gt;Cleantech umfasst alle Produkte und Dienstleistungen, die eine positive und nachhaltige Auswirkung auf Umwelt und Klimaschutz haben. Cleantech trägt dazu bei, dass mit den knappen Ressourcen unseres Planeten besser, effizienter und umweltschonender umgegangen wird.&lt;/p&gt; &lt;p&gt;Cleantech umfasst eine Vielzahl von Teilbereichen: erneuerbare Energien, Energieeffizienz, Energiespeicherung, erneuerbare Materialien, Ressourcen- und Materialeffizienz (inkl. Abfallwirtschaft und Recycling), nachhaltige Wasserwirtschaft, nachhaltige Mobilität, nachhaltige Land- und Forstwirtschaft, weisse Biotechnologie, Umwelttechnik im engeren Sinn (inkl. Messtechnik, Altlastensanierung, Filtertechnik).&lt;/p&gt;</text>
+      <contact>Helen Stotzer, Leiterin Kommunikation BBT, Tel: 079 639 02 50 Marianne Zünd, Leiterin Kommunikation BFE, Tel: 079 763 86 11</contact>
+      <link id="72792">
+        <title>Go4Cleantech – eine Initiative des Bundes</title>
+        <uri>http://www.cleantech.admin.ch/index.html?lang=de</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Plateforme Internet Cleantech de la Confédération</title>
+      <teaser>La Confédération a lancé la nouvelle plateforme Internet Cleantech, qui offre une vue d’ensemble des activités et des acteurs dans le domaine des technologies propres en Suisse. La plateforme www.cleantech.admin.ch a été mise sur pied par le Département fédéral de l’économie (DFE) et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC). Elle contient des informations utiles destinées aux milieux politiques et économiques ainsi qu’au grand public concernant le marché porteur que sont les cleantech.</teaser>
+      <lead>La Confédération a lancé la nouvelle plateforme Internet Cleantech, qui offre une vue d’ensemble des activités et des acteurs dans le domaine des technologies propres en Suisse. La plateforme www.cleantech.admin.ch a été mise sur pied par le Département fédéral de l’économie (DFE) et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC). Elle contient des informations utiles destinées aux milieux politiques et économiques ainsi qu’au grand public concernant le marché porteur que sont les cleantech.</lead>
+      <text link="no">&lt;p&gt;Quelles sont les activités de recherche en cours dans le domaine des cleantech en Suisse&amp;nbsp;? Qui propose les formations et les formations continues correspondantes&amp;nbsp;? De quel soutien les PME innovantes disposent-elles pour l'exportation&amp;nbsp;? Quels dispositifs d'encouragement existent pour les projets de cleantech&amp;nbsp;? La plateforme Cleantech (www.cleantech.admin.ch) répond aux questions en rapport avec ce domaine et contient un ensemble d'informations utiles et de liens vers des offres complémentaires.&lt;/p&gt; &lt;p&gt;La nouvelle plateforme Internet fait partie de l'initiative nationale Cleantech lancée en novembre 2009 par Doris Leuthard, présidente de la Confédération. Elle est mise à jour et développée de façon régulière. Y seront notamment accessibles les résultats du «&amp;nbsp;Masterplan Cleantech en Suisse&amp;nbsp;» d'ici à la fin de l'année.&lt;/p&gt; &lt;p&gt;L'idée de base de ce «&amp;nbsp;Masterplan Cleantech en Suisse&amp;nbsp;» est de renforcer davantage le développement positif des entreprises de technologies propres en unissant les forces des milieux scientifiques, économiques, politiques et administratifs.&lt;/p&gt; &lt;p&gt;En cours d'élaboration par les quatre offices fédéraux impliqués dans la collaboration interdépartementale (Office fédéral de la formation professionnelle et de la technologie OFFT, Secrétariat d'Etat à l'économie SECO, Office fédéral de l'énergie OFEN, Office fédéral de l'environnement OFEV), le Masterplan servira de guide aux acteurs concernés, rendra visibles les offres de soutien étatiques et facilitera la collaboration et la coordination. Il dressera un bilan des activités de la Confédération dans le domaine des cleantech et mettra en évidence d'éventuelles lacunes au niveau des offres ainsi que de nouveaux champs d'action. Les politiques pourront s'y référer pour élaborer des mesures visant à consolider le segment économique des cleantech en Suisse.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Encadré - Qu'est-ce que les cleantech ?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Les cleantech constituent un segment économique embrassant toutes les branches et réunissent toutes les activités qui visent à utiliser les ressources naturelles de manière respectueuse de l'environnement. En font notamment partie les énergies et les matériaux renouvelables, l'efficacité de l'énergie et des matières premières, la gestion des déchets, les processus de production propres et la gestion de l'eau.&lt;/p&gt; &lt;p&gt;Les cleantech englobent tous les produits et services qui ont un effet positif durable sur l'environnement et sur la protection du climat. Elles favorisent une gestion des ressources limitées de notre planète qui soit plus efficace et plus respectueuse de l'environnement.&lt;/p&gt; &lt;p&gt;Les cleantech comprennent de nombreux sous-domaines&amp;nbsp;: énergies et matériaux renouvelables, efficacité énergétique, stockage de l'énergie, efficacité des ressources et des matériaux (gestion des déchets et recyclage compris), gestion durable de l'eau, mobilité durable, gestion durable de l'agriculture et de l'exploitation forestière, biotechnologie blanche, technique environnementale au sens strict du terme (technique de mesure, assainissement des sites contaminés et technique des filtres compris).&lt;/p&gt;</text>
+      <contact>Helen Stotzer, responsable de la communication à l’OFFT, tél : 079 639 02 50 Marianne Zünd, responsable de la communication à l’OFEN, tél : 079 763 86 11</contact>
+      <link id="72793">
+        <title>Go4Cleantech – une initiative de la Confédération</title>
+        <uri>http://www.cleantech.admin.ch/index.html?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Portale Internet della Confederazione sulle tecnologie pulite</title>
+      <teaser>La Confederazione ha lanciato un nuovo portale Internet sul tema delle tecnologie pulite (cleantech) che offre una panoramica delle attività e dei responsabili di tale settore in Svizzera. La pagina www.cleantech.admin.ch, avviata dal Dipartimento federale dell’economia (DFE) e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC), è rivolta a economia, politica e pubblico e intende essere un ausilio per accedere alle principali informazioni sul mercato del futuro cleantech.</teaser>
+      <lead>La Confederazione ha lanciato un nuovo portale Internet sul tema delle tecnologie pulite (cleantech) che offre una panoramica delle attività e dei responsabili di tale settore in Svizzera. La pagina www.cleantech.admin.ch, avviata dal Dipartimento federale dell’economia (DFE) e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC), è rivolta a economia, politica e pubblico e intende essere un ausilio per accedere alle principali informazioni sul mercato del futuro cleantech.</lead>
+      <text link="no">&lt;p&gt;Quali attività di ricerca vengono svolte nel settore delle tecnologie pulite in Svizzera? Dove si possono seguire formazioni e formazioni continue nel settore cleantech? Quali misure di sostegno all'esportazione sono disponibili per PMI innovative? Come possono essere promossi i progetti delle tecnologie pulite? Chi vuole conoscere le attività del settore cleantech in Svizzera, trova utili informazioni e indicazioni relative ad altre offerte su www.cleantech.admin.ch.&lt;/p&gt; &lt;p&gt;Il nuovo portale Internet fa parte dell'iniziativa nazionale cleantech avviata dalla presidente della Confederazione Doris Leuthard nel mese di novembre 2009 e sarà regolarmente aggiornato e ampliato. In particolare, entro la fine dell'anno, saranno pubblicati i risultati del «Masterplan Cleantech Svizzera» al fine di renderli facilmente accessibili.&lt;/p&gt; &lt;p&gt;L'idea che sta alla base del «Masterplan Cleantech Svizzera» è rafforzare ancora di più, tramite la collaborazione tra scienza, economia, amministrazione e mondo politico, lo sviluppo efficiente delle imprese che offrono applicazioni cleantech.&lt;/p&gt; &lt;p&gt;Il Masterplan, attualmente in elaborazione nei quattro uffici federali che partecipano alla collaborazione interdipartimentale: l'Ufficio federale della formazione professionale e della tecnologia (UFFT), la Segreteria di Stato dell'economia (SECO), l'Ufficio federale dell'energia (UFE) e l'Ufficio federale dell'ambiente (UFAM), è uno strumento di orientamento completo che rende visibili le offerte di promozione federali e facilita la collaborazione e il coordinamento. Il Masterplan fa il punto delle attività della Confederazione già esistenti nel settore delle tecnologie pulite e identifica le eventuali lacune nelle offerte e i nuovi campi d'attività. A livello politico, fungerà da base per l'elaborazione di misure tese a rafforzare il settore economico delle tecnologie pulite in Svizzera.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Cosa sono le tecnologie pulite?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il settore economico delle tecnologie pulite è intersettoriale e riunisce tutte le attività intese a gestire in modo sostenibile e rispettoso le risorse naturali. Tra queste rientrano le energie rinnovabili, l'efficienza energetica e delle materie prime, i materiali rinnovabili, la gestione dei rifiuti, i procedimenti di produzione «puliti» e la gestione delle acque.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Tale settore comprende tutti i prodotti e i servizi che hanno un impatto positivo e sostenibile sull'ambiente e sulla sua protezione. Le tecnologie pulite contribuiscono alla gestione efficiente e rispettosa delle risorse limitate del nostro pianeta.&lt;/p&gt; &lt;p&gt;Cleantech comprende molti sottosettori: energie rinnovabili, efficienza energetica, immagazzinamento energetico, materiali rinnovabili, efficienza delle risorse e dei materiali (compresi la gestione dei rifiuti e il riciclaggio), gestione sostenibile delle acque, della mobilità, dell'agricoltura e dell'economia forestale, biotecnologia bianca e tecnologie ambientali in senso stretto (comprese le tecniche di misurazione, il risanamento di siti contaminati e i sistemi di filtri).&lt;/p&gt;</text>
+      <contact>Helen Stotzer, responsabile della Comunicazione UFFT, tel. 079 639 02 50 Marianne Zünd, responsabile della Comunicazione UFE, tel. 079 763 86 11</contact>
+      <link id="72794">
+        <title>Go4Cleantech – un’iniziativa della Confederazione</title>
+        <uri>http://www.cleantech.admin.ch/index.html?lang=it</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+      <keyword id="1802" org-id="811">
+        <name lang="de">Wirtschaft und Konsum</name>
+        <name lang="fr">Economie e consommation</name>
+        <name lang="it">Economia e consumo</name>
+        <name lang="en">Economy and consumption</name>
+      </keyword>
+      <keyword id="1806" org-id="811">
+        <name lang="de">Umwelttechnologie</name>
+        <name lang="fr">Technologies environnementales</name>
+        <name lang="it">Tecnologie ambientali</name>
+        <name lang="en">Technology</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

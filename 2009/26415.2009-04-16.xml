@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="26415" revoked="no">
+    <version>2</version>
+    <pubdate>2009-04-16</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1031" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Kommissionen des EDI</name>
+      <name lang="fr">Commissions du DFI</name>
+      <name lang="it">Commissioni del DFI</name>
+      <name lang="en">Commissions of the FDHA</name>
+      <www lang="de"/>
+      <www lang="fr"/>
+      <www lang="it"/>
+      <www lang="en"/>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Familienbesteuerung: Die EKF fordert höhere Kindergutschriften</title>
+      <lead>Die Eidgenössische Kommission für Frauenfragen EKF spricht sich in ihrer Vernehmlassungsstellungnahme zur steuerlichen Entlastung von Familien mit Kindern für deutlich höhere Kindergutschriften aus. Die Streichung der bisherigen steuerlichen Ermässigung für Alleinerziehende lehnt sie zum jetzigen Zeitpunkt jedoch ab.</lead>
+      <text link="no">Die Vernehmlassung wurde&amp;nbsp;am 15. April 2009 abgeschlossen.&amp;nbsp;Sie finden die ausführliche Stellungnahme der EKF auf www.frauenkommission.ch.</text>
+      <contact>Eidgenössische Kommission für Frauenfragen EKF Schwarztorstrasse 51 3003 Bern www.frauenkommission.ch ekf@ebg.admin.ch Elisabeth Keller, Leiterin Sekretariat, Tel. 031 322 92 76 Sekretariat, Tel. 031 322 92 75</contact>
+      <attachment id="53491">
+        <title>Stellungnahme:</title>
+        <format>pdf</format>
+        <size-kb>56</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15462.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="53492">
+        <title>EKF:</title>
+        <uri>http://www.frauenkommission.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2009-04-16 14:42" type="I"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Imposition des familles: la CFQF demande des bonifications pour enfants plus élevées</title>
+      <lead>Dans sa prise de position relative à la procédure de consultation sur le dégrèvement fiscal des familles avec enfants, la Commission fédérale pour les questions féminines se prononce en faveur de bonifications pour enfants nettement plus élevées. Pour l'heure, elle s'oppose à la suppression des dégrèvements fiscaux consentis aux familles monoparentales.</lead>
+      <text link="no">La procédure de consultation s'est terminée le 15 avril 2009.&amp;nbsp;Vous trouverez la prise de position complète de la CFQF sur le site www.comfem.ch. &lt;p&gt;La version française sera disponible en juin.&lt;/p&gt;</text>
+      <contact>Commission fédérale pour les questions féminines CFQF Schwarztorstrasse 51 3003 Berne www.comfem.ch ekf@ebg.admin.ch Elisabeth Keller, responsable secrétariat, Tel. 031 322 92 76 Secrétariat, Tel. 031 322 92 75</contact>
+      <link id="53493">
+        <title>CFQF:</title>
+        <uri>http://www.comfem.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2009-04-16 14:42" type="I"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="en">Legal Affairs</name>
+      </topic>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+      <topic id="44">
+        <name lang="de">Steuern</name>
+        <name lang="fr">Impôts</name>
+        <name lang="it">Imposte</name>
+        <name lang="en">Taxation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

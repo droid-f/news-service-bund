@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="48408" revoked="no">
+    <version>1</version>
+    <pubdate>2013-04-08</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1063" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Paul Scherrer Institut</name>
+      <name lang="fr">Institut Paul Scherrer</name>
+      <name lang="it">Istituto Paul Scherrer</name>
+      <name lang="en">Paul Scherrer Institut</name>
+      <www lang="de"/>
+      <www lang="fr"/>
+      <www lang="it"/>
+      <www lang="en"/>
+      <email lang="de">info@psi.ch</email>
+      <email lang="fr">info@psi.ch</email>
+      <email lang="it">info@psi.ch</email>
+      <email lang="en">info@psi.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Villigen</city>
+      <title>Röntgen-Laser: Auf dem Weg zur Strukturbestimmung von Nanoteilchen</title>
+      <lead>Verfahren zur genauen Auswertung von Messdaten aus Röntgen-Lasern entwickelt An Freie-Elektronen-Röntgen-Lasern wie dem zukünftigen SwissFEL des Paul Scherrer Instituts PSI sollen unter anderem die Strukturen von komplexen Nanoteilchen bis hin zu Biomolekülen untersucht werden. Dabei ist nicht nur die eigentliche Messung eine Herausforderung, sondern auch die Rekonstruktion der Struktur aus den Messdaten. In einem Experiment werden die untersuchten Teilchen mit Licht aus dem Röntgen-Laser durchleuchtet und das dabei gestreute Licht detektiert. Um genügend Information zu erhalten, wird man die Messungen mehrfach wiederholen müssen. Dabei sind typischerweise mehrere, zufällig orientierte Teilchen gleichzeitig im Strahl. Forscher des PSI haben nun einen optimierten mathematischen Weg aufgezeigt, wie man aus so gewonnen Messdaten eine deutlich bessere Auflösung bei der Bestimmung der Struktur eines einzelnen Teilchens erhält als bisher. Das Verfahren wurde an der Synchrotron Lichtquelle Schweiz SLS des PSI mit speziell hergestellten, zweidimensionalen Nanostrukturen erfolgreich getestet. Die Methode kann nun auf echte dreidimensionale Objekte erweitert werden. Hierzu wird man aber weitere Informationen, etwa zur Symmetrie, benötigen. Über ihre Ergebnisse berichten die Forscher in der Online-Fachzeitschrift Nature Communications.</lead>
+      <text link="no">&lt;p&gt;Die dreidimensionale Struktur von Teilchen im Nanometerbereich zu kennen, ist wissenschaftlich von grosser Bedeutung. Das gilt insbesondere für den Aufbau komplexer Biomoleküle, deren Kenntnis für unser Verständnis von lebenswichtigen Prozessen in Organismen genauso wichtig ist wie für die Entwicklung neuer Medikamente. Heutzutage werden solche Molekülstrukturen vornehmlich mit Synchrotronlicht, zum Beispiel an der Synchrotron Lichtquelle Schweiz SLS des Paul Scherrer Instituts PSI, untersucht. Zum Aufbau wichtiger Moleküle werden Untersuchungen an einem Freie-Elektronen-Röntgen-Laser (XFEL), wie dem am PSI im Bau befindlichen SwissFEL, genauere Informationen liefern als die, die man heute gewinnen kann.&lt;/p&gt;&lt;p&gt; &lt;strong&gt;Intensive Lichtpulse zeigen Struktur&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Im Experiment zur Strukturbestimmung wird man einen Strom von Nanoteilchen, die man untersuchen will, erzeugen und mit Röntgenlichtpulsen aus dem XFEL durchleuchten. Diese Pulse werden so intensiv sein, dass die von dem einzelnen Puls beleuchteten Teilchen eine nennenswerte Menge an Licht ablenken und gleichzeitig so kurz, dass sich das einzelne Teilchen während der Belichtung nicht dreht. Doch wird die Information, die die Beleuchtung eines einzelnen Teilchens liefert, nicht reichen, um dessen Struktur zu bestimmen. Die Messung wird mehrmals mit immer wieder neuen Teilchen wiederholt werden müssen, die dabei jedes Mal anders im Raum orientiert sein werden. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Struktur von Einzelteilchen aus Streudaten vieler Teilchen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Aus der Gesamtheit der Streudaten aus aufeinanderfolgenden Messungen die Struktur eines einzelnen Teilchens zu bestimmen, ist eine grosse mathematische Herausforderung, insbesondere wenn die Zahl der Teilchen, die während der einzelnen Messungen beleuchtet wurden, unbekannt ist. Nun haben Forscher des PSI um den Physiker Bill Pedrini einen wichtigen Schritt hin zur Lösung des Problems gemacht. Sie haben ein 1977 vom israelischen Physiker Zvi Kam vorgeschlagenes Verfahren weiterentwickelt. In mathematischer Sprache ausgedrückt, berechnet man dabei die Kreuzkorrelationen der gemessenen Streuintensitäten. Diese erlauben, aus der grossen Menge an experimentellen Daten die für die Strukturbestimmung nötige Information zu extrahieren. „Für die Anwendung dieses Verfahrens ist es entscheidend, dass das einzelne untersuchte Teilchen im Mittel mindestens zwei Lichtteilchen streut, damit man auch die nötigen Korrelationen beobachten kann. Bei Anwendung der sehr intensiven Pulse eines XFEL wären diese Voraussetzungen auch für kleinere Untersuchungsobjekte erreicht", erklärt Pedrini.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;An der SLS getestet&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Getestet wurde das Verfahren in einem Experiment an der cSAXS-Röntgenstrahllinie der SLS. Die Rolle der Teilchen haben hier rund 300 Nanometer grosse, identische, sternartige Testobjekte gespielt, die eigens für dieses Experiment am Labor für Mikro- und Nanotechnologie des PSI hergestellt wurden. Sie waren unregelmässig auf einer Fläche verteilt und zufällig orientiert. „Wir haben diese Proben an verschiedenen Stellen mit einem Strahl aus der SLS durchleuchtet und somit ein Experiment am Röntgenlaser simuliert, in dem bei jeder Aufnahme eine andere Konfiguration von mehreren unbewegten Teilchen beleuchtet wurde", so Pedrini. Mit ihrem Verfahren konnten die Forschenden aus der Gesamtheit der ungefähr 4000 Streubilder die genaue Form des Nanosternchens ermitteln. „Die Rekonstruktion war möglich, ohne dass wir bei den einzelnen Aufnahmen wussten, wie viele Objekte wir im Strahl hatten. Das entspricht der Situation in einem tatsächlichen Experiment", bemerkt Pedrini weiter. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;In Zukunft in 3-D&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Im nächsten Schritt soll das Verfahren auf dreidimensionale Teilchen, zum Beispiel Moleküle, verallgemeinert werden. Auch wenn jetzt schon klar ist, dass man aus prinzipiellen Gründen für eine vollständige 3-D-Strukturbestimmung auf zusätzliche Informationen angewiesen ist, etwa über die Symmetrien des Objektes, bietet die Methode wesentliche Vorteile. Insbesondere macht sie die rechnerisch einfache Auswertung grosser Mengen an Streubildern möglich. Die Testexperimente an der SLS haben zum einen bewiesen, dass das tatsächlich funktioniert. Zum anderen haben sie aber auch weitere Erkenntnisse für zukünftige XFEL-Experimente geliefert. „Wir wissen jetzt zum Beispiel, welche Effekte entstehen, wenn das Licht, das von zwei Objekten gestreut wurde, interferiert. Und wie wichtig es ist zu berücksichtigen, dass der Lichtstrahl nicht im ganzen Strahlquerschnitt gleich intensiv ist", so Pedrini. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Weiterhin verschiedene Verfahren zur Strukturbestimmung &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trotz der intensiven Röntgenstrahlung, die ein XFEL liefern kann, wird das vorgestellte Verfahren keine „atomare Auflösung" liefern, bei der man die Position jedes einzelnen Atoms im Molekül ermitteln kann. Diese erreicht man mit dem Verfahren der Proteinkristallografie, das seit Jahren sehr erfolgreich an der SLS eingesetzt wird. Dafür müssen zahlreiche Exemplare des Moleküls hergestellt und in einer regelmässigen dreidimensionalen Anordnung – einem Kristall – untergebracht werden. Viele wichtige Moleküle, darunter die meisten Membranproteine, können aber nicht kristallisiert werden, sodass nur Streuexperimente an Molekülen möglich sind, die in einer Flüssigkeit gelöst sind. Solche Experimente liefern heutzutage lediglich Information über die äussere Form der Moleküle. Die Kombination von Experimenten an einem XFEL mit der auf Kreuzkorrelationen beruhenden Auswertung verspricht bedeutende Fortschritte – es soll eine Auflösung von wenigen Nanometern erreicht werden, was die Identifizierung von neuen strukturellen Eigenschaften erlauben wird. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Über das PSI &lt;br /&gt;&lt;/strong&gt;Das Paul Scherrer Institut entwickelt, baut und betreibt grosse und komplexe Forschungsanlagen und stellt sie der nationalen und internationalen Forschungsgemeinde zur Verfügung. Eigene Forschungsschwerpunkte sind Materie und Material, Mensch und Gesundheit, sowie Energie und Umwelt. Mit 1500 Mitarbeitenden und einem Jahresbudget von rund 300 Mio. CHF ist es das grösste Forschungsinstitut der Schweiz.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Abbildungen&lt;/strong&gt; sind unter http://psi.ch/Dk61 zum Download verfügbar.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Originalveröffentlichung&lt;/strong&gt;:&lt;br /&gt;Pedrini, B. et al. Two-dimensional structure from random multiparticle X-ray scattering images using cross-correlations. Nat. Commun. 4:1647 (2013)&lt;br /&gt;doi: 10.1038/ncomms2622; http://dx.doi.org/10.1038/ncomms2622 &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Weiterführende Informationen&lt;/strong&gt;:&lt;br /&gt;Der SwissFEL im Überblick: http://www.psi.ch/media/ueberblick-swissfel &lt;br /&gt;Webseite des SwissFEL-Projekts in englischer Sprache: http://www.psi.ch/swissfel/swissfel &lt;/p&gt;</text>
+      <contact>Dr. Bill Pedrini, SwissFEL-Projekt, Paul Scherrer Institut, 5232 Villigen PSI, Schweiz Telefon: +41 56 310 3371; E-Mail: bill.pedrini@psi.ch</contact>
+      <link id="108615">
+        <title>Abbildungen zum Download</title>
+        <uri>http://psi.ch/Dk61</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

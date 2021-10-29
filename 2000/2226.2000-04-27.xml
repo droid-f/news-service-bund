@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="2226" revoked="no">
+    <version>2</version>
+    <pubdate>2000-04-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="806" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Zivilluftfahrt</name>
+      <name lang="fr">Office fédéral de l'aviation civile</name>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="en">Federal Office of Civil Aviation</name>
+      <www lang="de">http://www.bazl.admin.ch</www>
+      <www lang="fr">http://www.bazl.admin.ch</www>
+      <www lang="it">http://www.bazl.admin.ch</www>
+      <www lang="en">http://www.bazl.admin.ch</www>
+      <email lang="de">info@bazl.admin.ch</email>
+      <email lang="fr">info@bazl.admin.ch</email>
+      <email lang="it">info@bazl.admin.ch</email>
+      <email lang="en">info@bazl.admin.ch</email>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>BAZL publiziert Luftfahrzeugregister - HB-... im Internet</title>
+      <lead/>
+      <text link="no">Das Bundesamt für Zivilluftfahrt (BAZL) publiziert erstmals das &lt;u&gt;Luftfahrzeugregister&lt;/u&gt;&amp;nbsp;auf der eigenen Internet-Website &lt;b&gt;http://www.aviation.admin.ch&lt;/b&gt;. Damit sind sämtliche im zivilen Schweizer Register eingetragenen Luftfahrzeuge – vom Heissluftballon über Segelflugzeuge bis hin zu den Grossraumjets – für die breite Öffentlichkeit identifizierbar. Dieses Register gibt Auskunft über Eigentümer und Halter der Luftfahrzeuge und listet zudem die wichtigsten technischen Daten auf. Das Register soll monatlich aktualisiert werden. Die gedruckte Ausgabe bleibt bis auf weiteres erhältlich. &lt;p&gt;Die BAZL-Website bietet umfassende Informationen über die schweizerische Zivilluftfahrt und das Bundesamt für Zivilluftfahrt im speziellen an. Der Internet-Auftritt des BAZL besteht seit Anfang dieses Jahres und wird laufend ausgebaut.&lt;/p&gt;</text>
+      <contact/>
+      <link id="12213">
+        <title>Luftfahrzeugregister</title>
+        <uri>http://www.aviation.admin.ch/fachleute/luftfahrzeugregister/index.html?lang=de</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>L'OFAC publie le registre matricule des aéronefs</title>
+      <lead/>
+      <text link="no">L'Office fédéral de l'aviation civile (OFAC) publie pour la première fois le &lt;u&gt;registre matricule des aéronefs&lt;/u&gt;&amp;nbsp;sur son site Internet &lt;b&gt;http://www.aviation.admin.ch&lt;/b&gt;. Le public est ainsi en mesure d'identifier tous les aéronefs immatriculés au registre civil suisse, aéronefs allant du ballon à air chaud aux avions gros porteurs et aux hélicoptères en passant par les planeurs. Pour chaque aéronef, le registre indique le nom de son propriétaire et celui de son exploitant ainsi que ses données techniques essentielles. Le registre sera mis à jour mensuellement. On peut toujours l'obtenir sous forme imprimée. &lt;p&gt;Le site Internet de l'OFAC offre une large palette d'informations sur l'aviation civile suisse en général et sur l'office en particulier. Présent sur Internet depuis le début de l'année, l'OFAC développe son site en permanence.&lt;/p&gt;</text>
+      <contact/>
+      <link id="12214">
+        <title>Registre matricule des aéronefs</title>
+        <uri>http://www.aviation.admin.ch/fachleute/luftfahrzeugregister/index.html?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="190" org-id="806">
+        <name lang="de">Bundesamt für Zivilluftfahrt (BAZL)</name>
+        <name lang="fr">Office fédéral de l'aviation civile (OFAC)</name>
+        <name lang="it">Ufficio federale dell'aviazione civile (UFAC)</name>
+        <name lang="en">Federal Office for Civil Aviation (FOCA)</name>
+      </keyword>
+      <keyword id="570" org-id="806">
+        <name lang="de">Internet</name>
+        <name lang="fr">Internet</name>
+        <name lang="it">Internet</name>
+        <name lang="en">Internet</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

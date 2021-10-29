@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="77521" revoked="no">
+    <version>2</version>
+    <pubdate>2019-12-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat eröffnet Vernehmlassung zur erweiterten Europäischen Grenz- und Küstenwache</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 13. Dezember 2019 die Vernehmlassung zur Übernahme und Umsetzung der revidierten EU-Verordnung über die Europäische Grenz- und Küstenwache eröffnet. Die Europäische Agentur für die Grenz- und Küstenwache (Frontex) erhält damit eine stärkeres Mandat, um gemeinsam mit den nationalen Behörden die Aussengrenzen besser zu schützen. </lead>
+      <text link="no">&lt;p&gt; Mit der Einrichtung der Europäischen Grenz- und Küstenwache wurden im Jahre 2016 neue Massnahmen zum Schutz der Aussengrenzen vorgesehen. Da jedoch die Entsendung von Personal und die Bereitstellung von Ausrüstung durch die Schengen-Staaten auf freiwilliger Basis erfolgten, kam es zu Engpässen, welche die Wirkung der Einsätze beeinträchtigten. Deshalb erhält Frontex neu ein umfassenderes Mandat zur Unterstützung der Tätigkeiten der Schengen-Staaten im Bereich des Grenzschutzes, der Rückkehr und der Zusammenarbeit mit Drittstaaten. Dazu erhält Frontex mehr Personal und technische Ausrüstung. Die Schengen-Staaten bleiben weiterhin in erster Linie für den Schutz ihrer Aussengrenzen verantwortlich.&lt;/p&gt;&lt;p&gt;Der Ausbau bezweckt eine weitere Verbesserung der Bekämpfung der grenzüberschreitenden Kriminalität und der illegalen Migration an der Aussengrenze, wovon auch die Schweiz profitieren wird. Die Verordnung sieht ebenfalls den Ausbau des Menschenrechtsschutzes durch Frontex zugunsten von Migrantinnen und Migranten vor.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personal&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Um das benötigte Personal zu erhalten, richtet Frontex von 2021 bis 2027 eine ständige Reserve von bis zu 10‘000 Einsatzkräften ein. Diese ständige Reserve ist als Maximalkapazität zu verstehen. Im Rahmen der Verhandlungen zur revidierten Verordnung hatte sich die Schweiz mit Erfolg dafür eingesetzt, dass die Grösse der ständigen Reserve im Jahr 2023 einer Überprüfung unterzogen wird. Die ständige Reserve wird aus Einsatzkräften bestehen, die von Frontex oder den Mitgliedstaaten kurz- oder langfristig abgeordnet werden. Die Schweiz beteiligt sich bereits heute an Frontex-Einsätzen. Voraussichtlich wird sie jährlich bis im Jahr 2027 bis zu 16 Experten für jeweils zwei Jahre und bis zu 59 Experten für Einsätze von jeweils bis zu vier Monaten an die Agentur entsenden. Die Experten sollen sowohl durch die Eidgenössische Zollverwaltung (EZV), das Staatssekretariat für Migration (SEM) sowie die Kantone gestellt werden.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Rückkehr&lt;/b&gt;&lt;/p&gt;&lt;p&gt; Frontex kann die Schengen-Staaten künftig in sämtlichen Aspekten der Rückkehr von Personen unterstützen, die sich illegal im betreffenden Staat aufhalten. Das neue Mandat umfasst die Unterstützung in der freiwilligen Rückkehr sowie die Identifizierung von Drittstaatsangehörigen und die Beschaffung von Reisedokumenten. &lt;/p&gt;&lt;p&gt; &lt;b&gt;Finanzielle Auswirkungen&lt;/b&gt;&lt;/p&gt;&lt;p&gt; Die EU beabsichtigt, Frontex mit einem deutlich höheren Budget auszustatten. Demzufolge werden die Beiträge der Schweiz an Frontex, welche zurzeit rund 14 Millionen Franken pro Jahr betragen, steigen. Gemäss aktuellen Berechnungen werden sich die Beitragszahlungen der Schweiz etappenweise auf bis zu 75 Millionen erhöhen. Eine genaue Bezifferung ist derzeit aber nicht möglich, da der mehrjährige Finanzrahmen 2021 bis 2027 der EU noch nicht abschliessend verhandelt ist und die Ergebnisse der Überprüfung 2023 auch Auswirkungen auf das Budget haben können.&lt;/p&gt;</text>
+      <contact>Mediendienst Eidgenössische Zollverwaltung EZV Tel. 058 462 67 43, medien@ezv.admin.ch Staatssekretariat für Migration SEM Telefon 058 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="196626">
+        <title>Text der EU-Verordnung</title>
+        <format>pdf</format>
+        <size-kb>3214</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59587.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196627">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>584</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59588.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196628">
+        <title>Bundesbeschluss</title>
+        <format>pdf</format>
+        <size-kb>126</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59589.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196629">
+        <title>Asylgesetz</title>
+        <format>pdf</format>
+        <size-kb>107</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59590.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196630">
+        <title>Notenaustausch</title>
+        <format>pdf</format>
+        <size-kb>129</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59591.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196631">
+        <title>Brief an die Kantone</title>
+        <format>pdf</format>
+        <size-kb>382</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59593.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196632">
+        <title>Brief an die Organisationen</title>
+        <format>pdf</format>
+        <size-kb>382</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59595.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196633">
+        <title>Liste der Vernehmlassungsadressaten</title>
+        <format>pdf</format>
+        <size-kb>291</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59724.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral ouvre la consultation sur le corps élargi de garde-frontières et de garde-côtes</title>
+      <lead>Lors de sa séance du 13 décembre 2019, le Conseil fédéral a ouvert la consultation sur la reprise et la mise en œuvre du règlement de l'UE révisé relatif au corps européen de garde-frontières et de garde-côtes. L'Agence européenne de garde-frontières et de garde-côtes (Frontex) se voit ainsi confier un mandat renforcé pour mieux protéger les frontières extérieures en collaboration avec les autorités nationales.</lead>
+      <text link="no"> &lt;p&gt;Avec la mise en place du corps européen de garde-frontières et de garde-côtes, de nouvelles mesures de protection des frontières extérieures ont été prévues en 2016. Étant donné cependant que le détachement de personnel et la mise à disposition d'équipement par les États Schengen reposaient sur une base volontaire, il est arrivé que les ressources disponibles soient insuffisantes, ce qui a nui à l'efficacité des opérations. C'est pourquoi Frontex se voit confier un mandat renforcé pour appuyer les activités des États Schengen dans les domaines de la protection des frontières, du retour et de la coopération avec des États tiers. Il reçoit à cet effet plus de personnel et d'équipement technique. Les États Schengen continueront d'être les principaux responsables de la protection de leurs frontières extérieures. &lt;/p&gt; &lt;p&gt;L'élargissement vise une nouvelle amélioration de la lutte contre la criminalité transfrontalière et la migration illégale à la frontière extérieure, ce qui sera également profitable à la Suisse. L'ordonnance prévoit aussi l'extension de la protection des droits de l'homme par Frontex en faveur des migrants.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Personnel&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Pour bénéficier du personnel nécessaire, Frontex va constituer de 2021 à 2027 un contingent permanent de 10 000 agents opérationnels. Ce contingent permanent doit être compris comme une capacité maximale. Dans le cadre des négociations relatives à l'ordonnance révisée, la Suisse s'est engagée avec succès pour que la taille du contingent permanent soit soumise à un réexamen en 2023. Le contingent permanent sera constitué de personnel opérationnel détaché par Frontex ou par les États membres pour une courte ou une longue durée. La Suisse participe déjà aujourd'hui à des engagements Frontex. Il est prévu qu’elle détache auprès de l'Agence, chaque année jusqu'en 2027, au plus seize experts pour des engagements de deux ans et 59 experts pour des engagements d’une durée maximale de quatre mois. Les experts doivent être mis à disposition tant par l'Administration fédérale des douanes (AFD) que par le Secrétariat d'État aux migrations et les cantons.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Retour&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;À l'avenir, Frontex pourra appuyer les États Schengen dans tous les aspects du retour de personnes qui séjournent illégalement dans l'État concerné. Le nouveau mandat comprend le soutien en matière de retour volontaire, l'identification de ressortissants d'États tiers et l'obtention de documents de voyage. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Conséquences financières&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L'UE envisage d'accroître nettement le budget dont est doté Frontex. En conséquence, les contributions de la Suisse à Frontex, qui s'élèvent actuellement à quelque 14 millions de francs par année, vont augmenter. Selon les derniers calculs, les contributions financières de la Suisse augmenteront de façon échelonnée jusqu'à atteindre 75 millions en 2024. Actuellement, il n’est toutefois pas possible d’articuler un montant précis, car le cadre financier pluriannuel 2021 – 2017 de l'UE n'est pas encore négocié de façon définitive et les résultats du réexamen 2023 peuvent aussi avoir des conséquences sur le budget. &lt;/p&gt; </text>
+      <contact>Service Médias, Administration fédérale des douanes AFD no tél. 058 462 67 43, medien@ezv.admin.ch Secrétariat d'État aux migrations SEM no tél. 058 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="196634">
+        <title>Texte du règlement de l'UE</title>
+        <format>pdf</format>
+        <size-kb>3540</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59603.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196635">
+        <title>Rapport explicatif</title>
+        <format>pdf</format>
+        <size-kb>601</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59604.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196636">
+        <title>Arrêté fédéral</title>
+        <format>pdf</format>
+        <size-kb>125</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59605.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196637">
+        <title>Loi sur l'asile</title>
+        <format>pdf</format>
+        <size-kb>100</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59606.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196638">
+        <title>Échange de notes</title>
+        <format>pdf</format>
+        <size-kb>109</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59607.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196639">
+        <title>Lettre aux cantons</title>
+        <format>pdf</format>
+        <size-kb>386</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59608.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196640">
+        <title>Lettre aux organisations</title>
+        <format>pdf</format>
+        <size-kb>386</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59609.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196641">
+        <title>Liste des destinataires</title>
+        <format>pdf</format>
+        <size-kb>291</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59725.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale avvia la consultazione riguardante l’ampliamento della guardia di frontiera e costiera europea</title>
+      <lead>Nella sua seduta del 13 dicembre 2019, il Consiglio federale ha avviato la consultazione riguardante il recepimento e la trasposizione del rivisto regolamento UE relativo alla guardia di frontiera e costiera europea. Il mandato dell’Agenzia europea della guardia di frontiera e costiera (Frontex) viene così rafforzato, al fine di proteggere meglio le frontiere esterne insieme alle autorità nazionali.</lead>
+      <text link="no"> &lt;p&gt;Con l’istituzione della guardia di frontiera e costiera europea nel 2016 sono state previste nuove misure di protezione delle frontiere esterne. Poiché, tuttavia, il personale e l’equipaggiamento sono stati messi a disposizione da parte degli Stati Schengen su base volontaria, si sono verificate alcune difficoltà che hanno compromesso l’efficacia delle operazioni. A Frontex viene quindi conferito un mandato più completo a sostegno delle attività degli Stati Schengen nei settori della protezione delle frontiere, dei rimpatri e della cooperazione con i Paesi terzi. A tal fine Frontex riceverà più personale e attrezzatura tecnica. Gli Stati Schengen rimarranno i principali responsabili della protezione delle proprie frontiere esterne. &lt;/p&gt; &lt;p&gt;L’ampliamento mira a migliorare ulteriormente la lotta contro la criminalità transfrontaliera e la migrazione illegale alle frontiere esterne, e di ciò beneficerà anche la Svizzera. Il regolamento prevede inoltre il rafforzamento della protezione dei diritti umani da parte di Frontex a favore dei migranti.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Personale&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Al fine di disporre del personale necessario, tra il 2021 e il 2027 Frontex costituirà un corpo permanente di 10 000 membri. Quest’ultimo va inteso come capacità massima. Nel quadro delle trattative sulla revisione del regolamento, la Svizzera si è impegnata con successo affinché le dimensioni del corpo permanente vengano sottoposte a verifica nel 2023. Il corpo sarà composto da personale operativo distaccato da Frontex o dagli Stati membri per impieghi a lungo termine o di breve durata. La Svizzera partecipa già oggi a interventi Frontex. Si prevede che, entro il 2027, essa invierà annualmente all’Agenzia fino a 16 esperti per impieghi di due anni e fino a 59 esperti per impieghi della durata massima di quattro mesi. Gli esperti dovranno essere messi a disposizione sia dall’Amministrazione federale delle dogane e dalla Segreteria di Stato della migrazione che dai Cantoni.&lt;/p&gt; &lt;p&gt;&lt;b&gt;&lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Rimpatri&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;In futuro Frontex potrà assistere gli Stati Schengen per quanto riguarda tutti gli aspetti correlati ai rimpatri di persone che soggiornano illegalmente nello Stato in questione. Il nuovo mandato comprende il sostegno ai rimpatri volontari nonché l’identificazione dei cittadini di Paesi terzi e l’acquisizione dei documenti di viaggio. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Ripercussioni sul piano finanziario&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L’UE intende dotare Frontex di un preventivo nettamente più elevato. Di conseguenza, i contributi della Svizzera a Frontex, che attualmente ammontano a circa 14 milioni di franchi all’anno, aumenteranno. In base ai calcoli attuali, tali contributi registreranno una crescita graduale fino a raggiungere i 75 milioni di franchi nel 2024. Attualmente non è tuttavia possibile fornire cifre esatte, poiché il quadro finanziario pluriennale 2021−2027 dell’UE non è ancora stato negoziato in maniera definitiva e i risultati della verifica nel 2023 potrebbero avere delle ripercussioni sul preventivo. &lt;/p&gt;</text>
+      <contact>Servizio stampa dell’Amministrazione federale delle dogane AFD Tel. 058 462 67 43, medien@ezv.admin.ch Segreteria di Stato della migrazione SEM Tel. 058 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="196642">
+        <title>Testo del regolamento UE</title>
+        <format>pdf</format>
+        <size-kb>3800</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59611.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196643">
+        <title>Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>572</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59612.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196644">
+        <title>Decreto federale</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59613.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196645">
+        <title>Legge sull’asilo</title>
+        <format>pdf</format>
+        <size-kb>98</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59614.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196646">
+        <title>Scambio di note</title>
+        <format>pdf</format>
+        <size-kb>106</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59615.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196647">
+        <title>Lettera ai Cantoni</title>
+        <format>pdf</format>
+        <size-kb>380</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59616.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196648">
+        <title>Lettera alle organizzazioni</title>
+        <format>pdf</format>
+        <size-kb>380</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59617.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196649">
+        <title>Elenco dei destinatari della consultazione</title>
+        <format>pdf</format>
+        <size-kb>291</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59726.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Federal Council initiates consultation on extended European border and coast guard</title>
+      <lead>During its meeting on 13 December 2019, the Federal Council initiated the consultation on the adoption and implementation of the revised EU regulation on the European Border and Coast Guard. The European Border and Coast Guard Agency (Frontex) will thus be given a more robust mandate to work with the national authorities to better protect the external borders.</lead>
+      <text link="no"> &lt;p&gt;New measures to protect the external borders were envisaged with the establishment of the European Border and Coast Guard in 2016. However, as the deployment of personnel and the provision of equipment by the Schengen states were voluntary, bottlenecks occurred and impaired the effectiveness of assignments. Consequently, Frontex is being given a broader mandate to support Schengen states' activities on border protection, return and cooperation with third countries. It is also being strengthened in terms of staff and technical equipment. The Schengen states will retain primary responsibility for the protection of their external borders.&lt;/p&gt; &lt;p&gt;The aim of the expansion is to further improve the fight against cross-border crime and illegal migration at the external border, which will benefit Switzerland too. The regulation likewise provides for the extension of human rights protection by Frontex in favour of migrants.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Staff&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In order to ensure the necessary staffing, Frontex will set up a standing corps of up to 10,000 operational staff between 2021 and 2027. This figure is to be seen as maximum capacity. During the negotiations on the revised regulation, Switzerland successfully advocated that the size of the standing corps be reviewed in 2023. The standing corps will include operational staff members from Frontex and from the member states under long-term secondments or deployed for a short time. Switzerland already participates in Frontex assignments. It will probably deploy up to 16 experts to the Agency each year for two-year periods up to 2027, as well as up to 59 experts for missions of up to four months each. The experts are to be provided by the Federal Customs Administration (FCA), the State Secretariat for Migration (SEM) and the cantons.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Returns&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Frontex will be able to assist the Schengen states with all aspects of the return of persons staying there illegally. The new mandate includes assisted voluntary return and assistance of member states in the identification of third-country nationals and the acquisition of travel documents.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Financial implications&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The EU intends to provide Frontex with a significantly higher budget. This will lead to an increase in Switzerland's contributions to Frontex, which amount to around CHF 14 million per year at present. According to current calculations, Switzerland's contributions will gradually rise to as much as CHF 75 million by 2024. However, it is impossible to obtain exact figures at the moment, as negotiations regarding the EU's multiannual financial framework for 2021 to 2027 have not yet been finalised and the results of the 2023 review may also impact the budget.&lt;/p&gt;</text>
+      <contact>Media Section, Federal Customs Administration FCA Tel. 058 462 67 43, medien@ezv.admin.ch State Secretariat for Migration SEM Tel. 058 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="196650">
+        <title>Text of the EU regulation</title>
+        <format>pdf</format>
+        <size-kb>3214</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59619.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196651">
+        <title>Explanatory report</title>
+        <format>pdf</format>
+        <size-kb>584</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59620.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196652">
+        <title>Federal decree</title>
+        <format>pdf</format>
+        <size-kb>126</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59621.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196653">
+        <title>Asylum Act</title>
+        <format>pdf</format>
+        <size-kb>107</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59622.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196654">
+        <title>Exchange of notes</title>
+        <format>pdf</format>
+        <size-kb>129</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59623.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196655">
+        <title>Letter to the cantons</title>
+        <format>pdf</format>
+        <size-kb>382</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59624.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196656">
+        <title>Letter to the organisations</title>
+        <format>pdf</format>
+        <size-kb>382</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59625.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="196657">
+        <title>List of consultation procedure addressees</title>
+        <format>pdf</format>
+        <size-kb>291</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/59727.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="100" org-id="405">
+        <name lang="de">Sicherheitspolitik</name>
+        <name lang="fr">Politique de sécurité</name>
+        <name lang="it">Politica di sicurezza</name>
+        <name lang="en">Security policy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="17">
+        <name lang="de">Kriminalität</name>
+        <name lang="fr">Criminalité</name>
+        <name lang="it">Criminalità</name>
+        <name lang="en">Criminality</name>
+      </topic>
+      <topic id="20">
+        <name lang="de">Migration</name>
+        <name lang="fr">Migrations</name>
+        <name lang="it">Migrazione</name>
+        <name lang="en">Migration</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douanes</name>
+        <name lang="it">Dogane</name>
+        <name lang="en">Customs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

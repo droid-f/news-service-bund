@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="10115" revoked="no">
+    <version>1</version>
+    <pubdate>2007-01-08</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="1016" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Teilstreitkraft Luftwaffe</name>
+      <name lang="fr">Forces aériennes</name>
+      <name lang="it">Forze aeree</name>
+      <name lang="en">Air Force</name>
+      <www lang="de">http://www.lw.admin.ch</www>
+      <www lang="fr">http://www.lw.admin.ch</www>
+      <www lang="it">http://www.lw.admin.ch</www>
+      <www lang="en">http://www.lw.admin.ch</www>
+      <email lang="de">info.lw@vtg.admin.ch</email>
+      <email lang="fr">info.lw@vtg.admin.ch</email>
+      <email lang="it">info.lw@vtg.admin.ch</email>
+      <email lang="en">info.lw@vtg.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Vorfall bei der Landung einer F/A-18</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Am Montagnachmittag kam es bei der Landung einer F/A-18 auf dem Militärflugplatz Meiringen-Unterbach zu einem Vorfall: Ein von einem Trainingsflug zurückkehrender Jet hat sich nach der Landung auf der Piste gedreht und blieb, halb auf der Piste, halb im angrenzenden Rasen, mit beschädigtem linken Hauptfahrwerk stehen. Dabei wurde niemand verletzt. Die Ursache und die Schadenhöhe wird durch einen militärischen Untersuchungsrichter abgeklärt.&lt;/p&gt;</text>
+      <contact>Jürg Nussbaum Kommunikation Luftwaffe 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Incident lors de l’atterrissage d’un F/A-18</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Lundi après-midi, un incident a eu lieu sur la base aérienne militaire de Meiringen-Unterbach lors de l'atterrissage d'un F/A-18: après avoir atterri sur la piste, un jet rentrant d'un vol d'entraînement a pivoté sur son axe et s'est arrêté à moitié sur l'herbe en bordure de la piste avec le côté gauche du train d'atterrissage endommagé. Heureusement, aucun blessé n'est à déplorer. La cause de cet incident et le montant des dommages sont recherchés dans le cadre d'une enquête menée par un juge d'instruction militaire.&lt;/p&gt;</text>
+      <contact>Jürg Nussbaum Communication des Forces aériennes 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Incidente all'atterraggio di un F/A-18</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Lunedì pomeriggio, al momento dell'atterraggio presso l'aerodromo militare di Meiringen-Unterbach, un F/A-18 ha subito un incidente: un jet che ritornava da un volo di addestramento, dopo l'atterraggio ha effettuato una rotazione sulla pista, fermandosi per metà sulla pista e per metà sul prato laterale, con il carrello principale sinistro danneggiato. Nell'incidente non si registrano feriti. Le cause e l'entità del danno sono in corso di accertamento da parte di un giudice istruttore militare.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</text>
+      <contact>Jürg Nussbaum Comunicazione Forze aeree 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="595" org-id="1016">
+        <name lang="de">Ausbildung</name>
+        <name lang="fr">Instruction</name>
+        <name lang="it">Istruzione</name>
+        <name lang="en">Training</name>
+      </keyword>
+      <keyword id="5420" org-id="1016">
+        <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
+        <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
+        <name lang="it">Eventi straordinari / Incidenti straordinari</name>
+        <name lang="en">Exceptional Incidents / Accidents</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

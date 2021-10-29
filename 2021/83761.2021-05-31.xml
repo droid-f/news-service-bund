@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83761" revoked="no">
+    <version>1</version>
+    <pubdate>2021-05-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="609" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Das Covid-Zertifikat wird öffentlich auf seine Sicherheit getestet</title>
+      <lead>Bis Ende Juni 2021 wird das Covid-Zertifikat mit der Lösung des Bundesamtes für Informatik und Telekommunikation (BIT) realisiert. In einer Pilotphase ab dem 7. Juni werden erste Zertifikate schrittweise in den Kantonen ausgestellt. Bis Ende Juni wird das System schweizweit eingeführt sein. Die Anwendung soll einen sehr hohen Grad an Sicherheit aufweisen und wird deshalb einem breiten Sicherheitstest durch die Öffentlichkeit unterzogen. Für diesen Public Security Test steht ab sofort der Quellcode der ersten Version des Schweizer Covid-Zertifikats zur Verfügung.</lead>
+      <text link="no">&lt;p&gt;Zurzeit laufen die intensiven Arbeiten für das Covid-Zertifikat, das ab 7. Juni schrittweise in den Kantonen eingeführt wird. Zuvor sollen die Funktionalitäten und die Handhabung des gesamten Systems, wie auch die Sicherheit eingehend überprüft werden. Ergänzend zu den vom Nationalen Zentrum für Cybersicherheit (NCSC) begleiteten Sicherheitsanalysen, wird das System nun im Rahmen eines Public Security Tests durch weitere Fachleute und interessierte Personen einem Härtetest unterzogen. Ab sofort steht deshalb der Quellcode des Covid-Zertifikats auch öffentlich zur Verfügung. Die im Rahmen dieser Tests festgestellten Sicherheitslücken werden aufgenommen und fliessen laufend in die Entwicklung ein.&lt;/p&gt;&lt;p&gt;Das NCSC nimmt ab heute die entsprechenden Testergebnisse entgegen, bewertet deren Inhalte, priorisiert diese in Anbetracht ihres Schweregrads und veranlasst notwendige Anpassungen durch das Entwicklungsteam des BIT.&lt;/p&gt;&lt;p&gt;Die Testergebnisse können von allen Teilnehmenden auf der Webseite des NCSC detailliert via Formular erfasst werden. Um den Anspruch des NCSC auf volle Transparenz zu gewährleisten, werden die Rückmeldungen auf der Webseite des NCSC regelmässig aktualisiert und sind öffentlich einsehbar.&lt;/p&gt;&lt;p&gt;Ausführliche Informationen zum Public Security Test sowie das Formular zum Melden von Testergebnissen finden sich auf der Webseite des NCSC:&lt;/p&gt;&lt;p&gt;https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/covid-certificate-pst.html&lt;/p&gt;&lt;p&gt;Über die Einführung, die technische Lösung sowie die Funktionalitäten des Covid-Zertifikats informiert der Bundesrat voraussichtlich am Freitag, 4. Juni 2021.&lt;/p&gt;</text>
+      <contact>Kommunikation BIT Tel. +41 58 463 00 30 info@bit.admin.ch Betreffend Public Security Test: Kommunikation NCSC Tel. +41 58 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <link id="216731">
+        <title>Ausführliche Informationen zum Public Security Test und Formular zum Melden von Testergebnissen</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/covid-certificate-pst.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le certificat COVID fait l'objet d'un test public de sécurité</title>
+      <lead>D'ici à la fin de juin 2021, le certificat COVID sera réalisé avec la solution de l'Office fédéral de l'informatique et de la télécommunication (OFIT). Durant une phase pilote à partir du 7 juin 2021, les premiers certificats seront émis progressivement dans les cantons. Le système sera introduit dans toute la Suisse d'ici à la fin de juin 2021. L'application devant présenter un niveau de sécurité très élevé, elle est soumise à un test public de sécurité à large échelle. Le code source de la première version du certificat COVID suisse est disponible dès maintenant afin de mener ce test public de sécurité (public security test).</lead>
+      <text link="no">&lt;p&gt;Les travaux battent leur plein en ce qui concerne le certificat COVID, qui doit être progressivement introduit dans les cantons à partir du 7 juin 2021. Au préalable, les fonctionnalités, l'utilisation et la sécurité du système dans son ensemble doivent faire l'objet d'un examen approfondi. Outre les analyses de sécurité accompagnées par le Centre national pour la cybersécurité (NCSC), le système sera désormais mis à l’épreuve pas d’autres professionnels et des personnes intéressées dans le cadre d’un test public de sécurité. C'est pourquoi le code source du certificat COVID est mis à la disposition du public dès maintenant. Les lacunes de sécurité découvertes pendant ces tests sont prises en compte dans le cadre des travaux de développement.&lt;/p&gt;&lt;p&gt;Le Centre national pour la cybersécurité (NCSC) réceptionnera les résultats des tests, examinera leur contenu, placera les priorités en fonction du degré de gravité et demandera les adaptations nécessaires à l'équipe de développement de l'OFIT.&lt;/p&gt;&lt;p&gt;Tous les participants peuvent saisir de façon détaillée les résultats de leurs tests dans un formulaire sur le site du NCSC. Pour répondre à son exigence de pleine et entière transparence, le centre rendra ces retours accessibles au grand public et les mettra à jour régulièrement sur son site Internet.&lt;/p&gt;&lt;p&gt;Des informations plus détaillées concernant le test public de sécurité et le formulaire de saisie des résultats sont disponibles sur le site du NCSC:&lt;/p&gt;&lt;p&gt;https://www.ncsc.admin.ch/ncsc/fr/home/dokumentation/covid-certificate-pst.html&lt;/p&gt; &lt;p&gt;Il est prévu que le Conseil fédéral informe sur l'introduction, la solution technique et les fonctions du certificat COVID le vendredi 4 juin 2021.&lt;/p&gt;</text>
+      <contact>Communication OFIT Tél. +41 58 463 00 30 info@bit.admin.ch Concernant le test public de sécurité: Communication NCSC Tél. +41 58 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <link id="216732">
+        <title>Informations plus détaillées concernant le test public de sécurité et formulaire de saisie des résultats</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/fr/home/dokumentation/covid-certificate-pst.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>La sicurezza del certificato COVID viene sottoposta a un test pubblico</title>
+      <lead>Entro la fine di giugno 2021 l’Ufficio federale dell’informatica e della telecomunicazione (UFIT) realizzerà una soluzione per il certificato COVID. In una fase pilota, i primi certificati saranno emessi gradualmente nei Cantoni a partire dal 7 giugno. Entro la fine di giugno il sistema sarà introdotto in tutta la Svizzera. L’applicazione dovrà presentare un livello di sicurezza molto elevato e sarà quindi sottoposta a un test pubblico di valutazione della sicurezza. Per effettuare questo test, è disponibile da subito il codice sorgente della prima versione del certificato COVID svizzero.</lead>
+      <text link="no">&lt;p&gt;Al momento si sta lavorando alacremente alla realizzazione del certificato COVID, che sarà introdotto gradualmente nei Cantoni a partire dal 7 giugno. Prima di questa data, le funzionalità e il funzionamento dell’intero sistema, così come la sua sicurezza, saranno oggetto di una verifica approfondita. Oltre alle analisi di sicurezza accompagnate dal Centro Nazionale di Cibersicurezza (NCSC), il sistema è ora sottoposto a una prova di resistenza da parte di altri esperti e parti interessate nel quadro di un test di sicurezza pubblica. Da subito è quindi disponibile al pubblico anche il codice sorgente del certificato COVID. Le eventuali lacune di sicurezza riscontrate in occasione di questo test saranno prese in considerazione e integrate costantemente nella fase di sviluppo.&lt;/p&gt;&lt;p&gt;Da oggi il Centro nazionale per la cibersicurezza (NCSC) raccoglie i dati del test, ne valuta i contenuti, li classifica in ordine di priorità in base al grado di importanza e dispone gli adeguamenti necessari tramite il team di sviluppo dell’UFIT.&lt;/p&gt;&lt;p&gt;Tutti i partecipanti possono registrare i risultati dettagliati del test sul modulo pubblicato sul sito Internet dell’NCSC. Per garantire la piena trasparenza richiesta dall’NCSC, i risultati registrati sul sito saranno aggiornati regolarmente e resi accessibili al pubblico.&lt;/p&gt;&lt;p&gt;Maggiori informazioni sul test di valutazione della sicurezza e il modulo per notificare i risultati del test sono disponibili sul sito Internet dell’NCSC:&lt;/p&gt;&lt;p&gt;https://www.ncsc.admin.ch/ncsc/it/home/dokumentation/covid-certificate-pst.html &lt;/p&gt;&lt;p&gt;Il Consiglio federale fornirà ulteriori informazioni sull’introduzione, sulla soluzione e sulle funzionalità del certificato COVID presumibilmente venerdì 4 giugno 2021.&lt;/p&gt;</text>
+      <contact>Comunicazione UFIT Tel. +41 58 463 00 30 info@bit.admin.ch Riguardo al test di valutazione della sicurezza: Comunicazione NCSC Tel. +41 58 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <link id="216733">
+        <title>Maggiori informazioni sul test di valutazione della sicurezza e modulo per notificare i risultati del test</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/it/home/dokumentation/covid-certificate-pst.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Public security test for COVID-19 certificate system</title>
+      <lead>Between now and the end of June 2021, the COVID-19 certificate system will be implemented with the solution of the Federal Office of Information Technology, Systems and Telecommunication (FOITT). The first certificates will be issued gradually in the cantons during a pilot phase set to start on 7 June. The system will be rolled out across Switzerland by the end of June. As it is to provide a very high level of security, it will be subjected to a broad public security test. Effective immediately, the source code of the first version of the Swiss COVID-19 certificate system is available for this public security test.</lead>
+      <text link="no">&lt;p&gt;Intensive work is currently under way on the COVID-19 certificate system, which will be gradually introduced in the cantons from 7 June. The functionalities and handling of the entire system, as well as its security, have to be checked thoroughly beforehand. In addition to the security analyses accompanied by the National Cyber Security Centre (NCSC), the system is now being subjected to an endurance test by other experts and interested persons within the framework of a public security test. Therefore, the source code of the COVID-19 certificate system has now been made publicly available. The security vulnerabilities identified in the course of these tests will be recorded and integrated into development on an ongoing basis.&lt;/p&gt;&lt;p&gt;Effective from today, the National Cybersecurity Centre (NCSC) will collect the corresponding test results, evaluate their contents, prioritise them in terms of their severity and initiate necessary adjustments by the FOITT development team.&lt;/p&gt;&lt;p&gt;All participants can use the form on the NCSC website to enter their detailed test results. In order to stay true to the NCSC's desire for full transparency, the feedback will be regularly updated on the NCSC website and will be publicly accessible.&lt;/p&gt;&lt;p&gt;Detailed information on the public security test and the form for reporting test results can be found on the NCSC website:&lt;/p&gt;&lt;p&gt;https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-certificate-pst.html&lt;/p&gt;&lt;p&gt;The Federal Council is expected to provide information on the launch, the technical solution and the functionalities of the COVID-19 certificate system on Friday, 4 June 2021.&lt;/p&gt;</text>
+      <contact>FOITT Communications Tel. +41 58 463 00 30 info@bit.admin.ch Concerning the public security test: NCSC Communications Tel. +41 58 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <link id="216734">
+        <title>Detailed information on the public security test and the form for reporting test results</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-certificate-pst.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

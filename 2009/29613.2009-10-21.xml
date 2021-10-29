@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="29613" revoked="no">
+    <version>1</version>
+    <pubdate>2009-10-21</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="603" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bewilligung im Rahmen der Verlagerung von elektronischen Buchhaltungsdaten</title>
+      <lead>Der Bundesrat hat im Rahmen der Verlagerung von elektronischen Buchhaltungsdaten in einem Pilotfall eine Bewilligung nach Art. 271 StGB erteilt.</lead>
+      <text link="no">&lt;p&gt;Unternehmen mit Sitz in Deutschland können auf Antrag hin ihre elektronische Buchführung ins Ausland verlagern. Voraussetzung dafür ist, dass die elektronische Buchhaltung von Deutschland aus eingesehen werden kann, und dass eine Bewilligung desjenigen Staates, in welchem der entsprechende Server steht, vorliegt. Der Bundesrat hat nun in einem Pilotfall eine Bewilligung nach Art. 271 StGB erteilt, was der betroffenen Gesellschaft die Führung ihrer Bücher bei einer Konzerngesellschaft in der Schweiz ermöglichen wird.&lt;/p&gt;</text>
+      <contact>Dina Beti, Eidg. Finanzverwaltung, Tel 031 322 68 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Transfert de données comptables électroniques: autorisation délivrée</title>
+      <lead>En relation avec un transfert de données comptables électroniques, le Conseil fédéral a délivré, dans une affaire pilote, une autorisation selon l'article 271 du code pénal suisse.</lead>
+      <text link="no">&lt;p&gt;Les entreprises ayant leur siège en Allemagne peuvent, sur demande, transférer leur comptabilité électronique à l'étranger, à condition que celle-ci puisse être consultée à partir de l'Allemagne et qu'une autorisation ait été délivrée par l'Etat dans lequel se trouve le serveur utilisé. Le Conseil fédéral a octroyé une autorisation au sens de l'art. 271 CP dans une affaire pilote, ce qui permettra à la société concernée de confier sa comptabilité à une société du même groupe en Suisse.&lt;/p&gt;</text>
+      <contact>Dina Beti, Administration fédérale des finances, tél. 031 322 68 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Autorizzazione nell'ambito del trasferimento di dati contabili elettronici</title>
+      <lead>Nell'ambito del trasferimento di dati contabili elettronici il Consiglio federale ha concesso in un caso pilota un'autorizzazione secondo l'articolo 271 CP.</lead>
+      <text link="no">&lt;p&gt;Le imprese con sede in Germania che ne fanno richiesta possono trasferire all'estero la propria contabilità elettronica, a condizione che la stessa possa essere consultabile dalla Germania e che esista l'autorizzazione dello Stato in cui si trova il relativo server. Nell'ambito di un caso pilota, il Consiglio federale ha infatti concesso un'autorizzazione secondo l'articolo 271 CP, per cui l'impresa interessata potrà affidare la tenuta della propria contabilità a una società dello stesso gruppo in Svizzera.&lt;/p&gt;</text>
+      <contact>Dina Beti, Amministrazione federale delle finanze, tel. 031 322 68 50</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="3" org-id="603">
+        <name lang="de">Wirtschaft, Währung</name>
+        <name lang="fr">Economie, monnaie</name>
+        <name lang="it">Economia, Moneta</name>
+        <name lang="en">Economic, Monetary affairs</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="128" org-id="603">
+        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
+        <name lang="fr">Politique économique et marchés financiers</name>
+        <name lang="it">Politica economica e mercati finanziari</name>
+        <name lang="en">Economic policy and financial markets</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="2">
+        <name lang="de">Arbeit</name>
+        <name lang="fr">Travail</name>
+        <name lang="it">Lavoro</name>
+        <name lang="en">Labour</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

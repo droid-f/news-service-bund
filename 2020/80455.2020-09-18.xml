@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="80455" revoked="no">
+    <version>1</version>
+    <pubdate>2020-09-18</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="804" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Schweiz und Österreich würdigen krisenfeste Zusammenarbeit beider Länder</title>
+      <lead>Bundespräsidentin Simonetta Sommaruga hat am Freitag, 18. September 2020, den österreichischen Bundeskanzler Sebastian Kurz zu einem offiziellen Besuch in der Schweiz empfangen. Neben der Bundespräsidentin nahmen die Bundesräte Ueli Maurer und Alain Berset an einem Mittagessen mit Bundeskanzler Kurz auf dem Landgut Lohn teil. An den offiziellen Gesprächen waren Bundespräsidentin Sommaruga, Bundesrat Ignazio Cassis und Bundesrätin Karin Keller-Sutter beteiligt.</lead>
+      <text link="no">&lt;p&gt;Im Zentrum der Diskussionen standen der Umgang mit der Corona-Pandemie, Klima- und Umweltfragen, die bilateralen Beziehungen sowie europapolitische und internationale Themen. Beide Seiten würdigten die guten Beziehungen zwischen der Schweiz und Österreich. Diese haben in den schwierigen Frühlingsmonaten eine enge Zusammenarbeit erleichtert. So haben Österreich und die Schweiz einander etwa bei der Repatriierung der im Ausland blockierten Staatsangehörigen unterstützt. &lt;/p&gt;&lt;p&gt;Für die Schweiz bleibt der enge Austausch mit Österreich und den anderen europäischen Partnern bei der Bekämpfung der Corona-Pandemie wichtig. Die Schweiz unterstützt das Bemühen der EU-Ratspräsidentschaft und der EU-Kommission, die Quarantäneregeln auf kontinentaler Ebene besser zu koordinieren. Die gute Zusammenarbeit in der Krisenphase sei eine gute Grundlage für weitere pragmatische Lösungen im Verhältnis zwischen der Schweiz und der EU, betonte die Schweizer Delegation.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Alpenländer sind vom Klimawandel besonders betroffen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Beim Austausch über die Umwelt- und Verkehrspolitik wies Bundespräsidentin Sommaruga auf die Notwendigkeit hin, zum Schutz der Alpen die Verlagerung der Güter von der Strasse auf die Schiene weiter zu stärken. Die Neue Eisenbahn-Alpentransversale (NEAT) mit den drei Basistunneln (Lötschberg, Gotthard, Ceneri) verbessere die Wettbewerbsfähigkeit der Bahn. Bundespräsidentin Sommaruga kündete zudem an, den Vorsitz der Alpenkonvention im nächsten Jahr zu nutzen, um ein Treffen der Verkehrs- und Umweltminister der Alpenländer zu organisieren und den Klima- und Alpenschutz weiter voranzubringen. Österreich und die Schweiz sind als Alpenländer vom Klimawandel besonders betroffen.&lt;/p&gt;&lt;p&gt;Die Mitglieder des Bundesrates erläuterten Bundeskanzler Kurz zudem die anstehenden europapolitischen Entscheide in der Schweiz. Ebenfalls zur Sprache kam die europäische Migrationspolitik. Die beiden Seiten tauschten sich namentlich über die anstehende Reform des Dublin-Systems aus, wobei die Schweiz die von der EU-Kommission geplante Dublin-Reform im Grundsatz unterstützt. &lt;/p&gt;&lt;p&gt;Im Anschluss an das Treffen im Lohn wird der österreichische Bundeskanzler Kurz am Freitagnachmittag für einen Austausch über das Funktionieren föderalistischer Staaten in Krisenlagen mit Bundeskanzler Walter Thurnherr zusammenkommen.&lt;/p&gt;</text>
+      <contact>Annetta Bundi, Presse- und Informationsdienst UVEK, Tel: +41 (0)78 646 38 80, info@gs-uvek.admin.ch</contact>
+      <link id="205418">
+        <title>Bilaterale Beziehungen Schweiz–Österreich (Website EDA)</title>
+        <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/oesterreich/bilatereale-beziehungenschweizoesterreich.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Suisse et l’Autriche se félicitent de leur coopération en temps de crise</title>
+      <lead>La présidente de la Confédération Simonetta Sommaruga a reçu le chancelier autrichien Sebastian Kurz en visite officielle en Suisse vendredi 18 septembre 2020. Les conseillers fédéraux Ueli Maurer et Alain Berset se sont joints à eux à l’occasion du déjeuner qui a eu lieu au domaine du Lohn. La présidente de la Confédération, le conseiller fédéral Ignazio Cassis et la conseillère fédérale Karin Keller-Sutter ont participé aux entretiens officiels. </lead>
+      <text link="no">&lt;p&gt;Les discussions ont notamment porté sur la gestion de la pandémie de coronavirus, le climat, l’environnement, les relations bilatérales, la politique européenne et des questions internationales. Les deux parties se sont félicitées des bonnes relations qu’elles entretiennent. Celles-ci ont grandement facilité leur étroite coopération pendant les mois difficiles du printemps dernier. Les deux pays se sont notamment épaulés pour rapatrier leurs ressortissants bloqués à l’étranger.&lt;/p&gt;&lt;p&gt;La Suisse accorde une grande importance aux échanges avec l’Autriche et ses autres partenaires européens dans la lutte contre le coronavirus. Elle soutient les efforts de la présidence du Conseil de l’Union européenne et de la Commission européenne, qui visent à améliorer la coordination des règles en matière de quarantaine au niveau du continent. La délégation suisse a souligné que la qualité de la coopération pendant la crise était de bon augure pour la recherche de solutions pragmatiques dans les relations entre la Suisse et l’Union européenne.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Les pays alpins sont particulièrement touchés par le changement climatique&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;A l’occasion des échanges sur l’environnement et les transports, la présidente de la Confédération a rappelé la nécessité de développer le transfert du trafic de marchandises de la route au rail afin de protéger les Alpes. La Nouvelle ligne ferroviaire à travers les Alpes (NLFA) et les trois tunnels de base (Lötschberg, Saint-Gothard, Ceneri) sont un atout pour la compétitivité du rail. La présidente de la Confédération a en outre annoncé que l’année prochaine elle utiliserait la présidence de la Convention alpine pour organiser une rencontre des ministres des transports et de l’environnement des pays alpins et aller de l’avant dans la protection du climat et des Alpes. L’Autriche et la Suisse, pays alpins, sont particulièrement touchées par le changement climatique. &lt;/p&gt;&lt;p&gt;Les membres du Conseil fédéral ont exposé au chancelier Kurz les prochaines décisions de la Suisse en matière de politique européenne. La politique migratoire européenne a également été abordée. Les deux parties se sont notamment entretenues de la future réforme du système Dublin prévue par la Commission européenne et dont la Suisse soutient le principe.&lt;/p&gt;&lt;p&gt;Après la rencontre au Lohn, le chancelier Kurz rencontrera vendredi après-midi le chancelier de la Confédération Walter Thurnherr avec lequel il s’entretiendra du fonctionnement des Etats fédéraux en situation de crise.&lt;/p&gt;</text>
+      <contact>Annetta Bundi, service de presse DETEC, tél: +41 (0)78 646 38 80, info@gs-uvek.admin.ch</contact>
+      <link id="205419">
+        <title>Relations bilatérales Suisse–Autriche (site web du DFAE)</title>
+        <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-aux-voyageurs/autriche/suisse-autriche.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Svizzera e Austria riconoscono la loro cooperazione a prova di crisi</title>
+      <lead>Venerdì 18 settembre 2020 la presidente della Confederazione Simonetta Sommaruga ha ricevuto a Berna il cancelliere austriaco Sebastian Kurz per una visita ufficiale in Svizzera. Per il pranzo ufficiale, organizzato presso la residenza del Lohn, si sono aggiunti i consiglieri federali Ueli Maurer e Alain Berset. Ai colloqui ufficiali hanno partecipato la presidente della Confederazione, il consigliere federale Ignazio Cassis e la consigliera federale Karin Keller-Sutter.</lead>
+      <text link="no">&lt;p&gt;Al centro delle discussioni vi sono state la gestione della pandemia causata dal coronavirus, le questioni climatiche e ambientali, le relazioni bilaterali nonché le questioni europee e internazionali. Entrambe le parti hanno riconosciuto le buone relazioni tra la Svizzera e l'Austria che, nei difficili mesi della scorsa primavera, hanno facilitato una stretta cooperazione tra i due Paesi. L’Austria e la Svizzera si sono ad esempio fornite reciproco supporto per i rimpatri dei loro cittadini bloccati all’estero.&lt;/p&gt;&lt;p&gt; La Svizzera continua a ritenere importante lo stretto scambio avuto con l’Austria e gli altri partner europei nell’ambito della lotta contro la pandemia di COVID-19. Il nostro Paese sostiene gli sforzi della presidenza del Consiglio dell’Unione europea e della Commissione europea volti a garantire un miglior coordinamento delle regole concernenti la quarantena a livello continentale. La delegazione svizzera ha sottolineato come una buona cooperazione nella fase di crisi costituisca una base importante per costruire ulteriori soluzioni pragmatiche nelle relazioni tra la Svizzera l’UE. &lt;/p&gt;&lt;p&gt; &lt;strong&gt;I Paesi dell’arco alpino sono particolarmente interessati dai cambiamenti climatici&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; Durante gli scambi avuti in materia di politica ambientale e dei trasporti, la presidente della Confederazione Sommaruga ha ribadito la necessità di aumentare ulteriormente il trasferimento del traffico merci transalpino dalla strada alla rotaia. La nuova ferrovia transalpina (NFTA) con le sue tre gallerie di base (Lötschberg, Gottardo, Ceneri) migliora la concorrenzialità della ferrovia. Sommaruga ha inoltre annunciato di voler sfruttare la presidenza 2021 della Convenzione delle Alpi per organizzare un incontro tra i ministri dei trasporti e dell’ambiente dei Paesi dell’arco alpino e per rafforzare ulteriormente gli sforzi intrapresi finora in ambito di protezione del clima e delle Alpi. In quanto Paesi alpini, l’Austria e la Svizzera sono particolarmente interessate dai cambiamenti climatici.&lt;/p&gt;&lt;p&gt; I membri del Consiglio federale hanno inoltre illustrato al cancelliere austriaco Kurz le decisioni che la Svizzera prenderà prossimamente in ambito di politica europea. Durante l’incontro si è discusso anche della politica migratoria europea. Le due parti si sono occupate in particolare della riforma del sistema di Dublino prevista dalla Commissione europea e che ha il sostegno di massima della Svizzera.&lt;/p&gt;&lt;p&gt; Dopo l’incontro alla residenza del Lohn, venerdì pomeriggio il cancelliere austriaco Kurz incontrerà il cancelliere della Confederazione Walter Thurnherr per uno scambio sul funzionamento degli Stati federali in situazioni di crisi. &lt;/p&gt;</text>
+      <contact>Annetta Bundi, Servizio stampa DATEC , tel: +41 (0)78 646 38 80, info@gs-uvek.admin.ch</contact>
+      <link id="205420">
+        <title>Relazioni bilaterali Svizzera–Austria (sito Internet del DFAE)</title>
+        <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/austria/svizzera-austria.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="1500" org-id="804">
+        <name lang="de">Verkehrspolitik</name>
+        <name lang="fr">Verkehrspolitik</name>
+        <name lang="it">Verkehrspolitik</name>
+        <name lang="en">Verkehrspolitik</name>
+      </keyword>
+      <keyword id="1040" org-id="804">
+        <name lang="de">Schienenverkehr</name>
+        <name lang="fr">Trafic ferroviaire</name>
+        <name lang="it">Traffico su rotaia</name>
+        <name lang="en">Schienenverkehr</name>
+      </keyword>
+      <keyword id="1360" org-id="804">
+        <name lang="de">Verkehrsverlagerung</name>
+        <name lang="fr">Transfert du trafic</name>
+        <name lang="it">Trasferimento del traffico</name>
+        <name lang="en">Verkehrsverlagerung</name>
+      </keyword>
+      <keyword id="1050" org-id="804">
+        <name lang="de">Schienenverkehr: Infrastruktur</name>
+        <name lang="fr">Schienenverkehr: Infrastruktur</name>
+        <name lang="it">Schienenverkehr: Infrastruktur</name>
+        <name lang="en">Schienenverkehr: Infrastruktur</name>
+      </keyword>
+      <keyword id="1600" org-id="804">
+        <name lang="de">Umweltpolitik</name>
+        <name lang="fr">Umweltpolitik</name>
+        <name lang="it">Umweltpolitik</name>
+        <name lang="en">Umweltpolitik</name>
+      </keyword>
+      <keyword id="620" org-id="804">
+        <name lang="de">Klima</name>
+        <name lang="fr">Climat</name>
+        <name lang="it">Clima</name>
+        <name lang="en">Climate</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

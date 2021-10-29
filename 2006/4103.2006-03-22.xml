@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4103" revoked="no">
+    <version>2</version>
+    <pubdate>2006-03-22</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="605" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Änderung des Doppelbesteuerungsabkommens zwischen der Schweiz und Österreich</title>
+      <lead>Ein Protokoll zur Änderung des Doppelbesteuerungsabkommens zwischen der Schweiz und der Republik Österreich vom 30. Januar 1974 ist am 21. März 2006 in Wien unterzeichnet worden.</lead>
+      <text link="no">&lt;p&gt;Die wichtigsten Elemente dieses Protokolls sind die Besteuerung von Grenzgängern am Arbeitsort, die Quellensteuerbefreiung von Lizenzgebühren, der Aufschub der Besteuerung von nicht realisierten Kapitalgewinnen beim Wegzug aus Österreich, die erweiterte Amtshilfe bei Steuerbetrug und bei Holdinggesellschaften sowie eine begrenzte Vollstreckungshilfe für Steuern auf Einkommen aus unselbständiger Erwerbstätigkeit in der Schweiz.&lt;/p&gt; &lt;p&gt;Das Protokoll wird mit einer Botschaft des Bundesrates den eidgenössischen Räten unterbreitet werden und ist vor dem Inkrafttreten durch die zuständigen Instanzen beider Länder zu genehmigen.&lt;/p&gt;</text>
+      <contact>Andreas Kolb, Eidg. Steuerverwaltung, Tel.: 031 322 71 57</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Modification de la convention de double imposition conclue entre la Suisse et l'Autriche</title>
+      <lead>Un protocole modifiant la convention de double imposition conclue le 30 janvier 1974 entre la Suisse et la République d'Autriche a été signé à Vienne le 21 mars 2006.</lead>
+      <text link="no">&lt;p&gt;Ce protocole prévoit notamment une imposition des frontaliers sur le lieu de travail, la fin de l'imposition à la source des redevances de licences, un report de l'imposition des gains en capital non réalisés en cas de départ de l'Autriche, une extension de l'entraide administrative en cas de fraude fiscale et pour les sociétés holding et enfin, une entraide, limitée, en matière d'exécution forcée dans le cadre des impôts sur le revenu provenant d'une activité lucrative dépendante exercée en Suisse.&lt;/p&gt; &lt;p&gt;Ce protocole sera présenté aux Chambres fédérales, accompagné d'un message du Conseil fédéral. Il devra encore être approuvé par les instances compétentes suisses et autrichiennes avant d'entrer en vigueur.&lt;/p&gt;</text>
+      <contact>Andreas Kolb, Administration fédérale des contributions, tél.: 031 322 71 57</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="137" org-id="605">
+        <name lang="de">Internationale Doppelbesteuerung</name>
+        <name lang="fr">Double imposition internationale</name>
+        <name lang="it">Doppia imposizione internazionale</name>
+        <name lang="en">International double taxation</name>
+      </keyword>
+      <keyword id="235" org-id="605">
+        <name lang="de">Internationale Steuerpolitik</name>
+        <name lang="fr">Politique fiscale internationale</name>
+        <name lang="it">Politica fiscale internazionale</name>
+        <name lang="en">International tax policy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="44">
+        <name lang="de">Steuern</name>
+        <name lang="fr">Impôts</name>
+        <name lang="it">Imposte</name>
+        <name lang="en">Taxation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="80971" revoked="no">
+    <version>1</version>
+    <pubdate>2020-11-04</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat beschliesst erneuten Einsatz der Armee zur Unterstützung des Gesundheitswesens</title>
+      <lead>Um die Kantone bei der Bewältigung der steigenden Anzahl Hospitalisierungen und Covid-19-Patienten in Intensivpflege zu unterstützen, hat der Bundesrat an seiner Sitzung vom 4. November 2020 im Grundsatz einen erneuten Assistenzdienst der Armee beschlossen. Er umfasst maximal 2500 Armeeangehörige, die die Spitäler bei der Pflege oder beim Patiententransport unterstützen können. Die Armeeangehörigen kommen zum Einsatz, wenn die Kantone darum ersuchen und die Voraussetzungen für die Subsidiarität erfüllt sind. Dafür soll aufgezeigt werden, dass die zivilen Mittel nicht ausreichen.</lead>
+      <text link="no">&lt;p&gt;Mit der zweiten Welle der Covid-19-Pandemie steigen die Fallzahlen stark an und mit ihnen – um eine bis zwei Wochen verzögert – auch die Anzahl Hospitalisierungen sowie Patientinnen und Patienten auf Intensivpflegestationen. Seit Dienstag, 27. Oktober 2020, haben mehrere Kantone ein Gesuch um Unterstützung durch die Armee gestellt.&lt;/p&gt;&lt;h2&gt;Bis zu 2500 Armeeangehörige&lt;/h2&gt;&lt;p&gt;Der Bundesrat hat beschlossen, das Gesundheitswesen mit bis zu 2500 Armeeangehörige im Assistenzdienst zu unterstützen. Die einzelnen Gesuche werden dann durch den Bund geprüft. Die Leistungen der Armee umfassen folgende Bereiche:&lt;/p&gt;&lt;p&gt;• personelle Unterstützung in den zivilen Spitaleinrichtungen im Bereich der allgemein Grund- und Behandlungspflege (Betreuung von sogenannten "Low-level-care-Patienten"), in der Vordiagnose, dem Screening von Covid-19-Verdachtsfällen und bei den entsprechenden Testabstrichen;&lt;br /&gt;• personelle und materielle Unterstützung der kantonalen Gesundheitseinrichtungen bei der Erweiterung der Kapazitäten von Intensivpflegestationen (z.B. Beatmungsgeräte und Monitoring); besonders geeignetes Sanitätspersonal kann nach einer spezifischen Schulung zur Unterstützung auf Intensivstationen eingesetzt werden (z B. Lagerungsteams);&lt;br /&gt;• Unterstützung von Transporten infektiöser Patientinnen und Patienten mit geeigneten Sanitätstransportfahrzeugen und Fahrern.&lt;/p&gt;&lt;p&gt;Der Beschluss gilt bis längstens am 31. März 2021. Da der Assistenzdienst länger als drei Wochen dauert, muss ihn die Bundesversammlung genehmigen. Der Bundesrat wird dazu eine Botschaft zuhanden des Parlamentes verabschieden.&lt;/p&gt;&lt;h2&gt;Beurteilung der Gesuche nach Kriterien der Subsidiarität&lt;/h2&gt;&lt;p&gt;Die Kantone müssen bei ihren Gesuchen aufzeigen, dass sie sämtliche ihnen zur Verfügung stehenden zivilen Mittel und Instrumente ausgeschöpft haben, um die Voraussetzungen für die Subsidiarität für einen Armeeeinsatz zu erfüllen. Dabei handelt es sich um die Mittel von Zivilschutz, Zivildienst, und Feuerwehr wie auch aus dem privaten Sektor; unter anderem muss der Nachweis erbracht werden, dass auf dem Arbeitsmarkt kein zusätzliches Personal rekrutiert werden kann, dass die Möglichkeit, Arbeitslose anzustellen, ausgeschöpft wurde und dass Studierende der Medizin wie auch Samariter und weitere Freiwillige angefragt wurden und nicht mehr verfügbar sind. Darüber hinaus muss aufgezeigt werden, dass andere Gesundheitseinrichtungen keine Patientinnen und Patienten übernehmen können und medizinisch nicht dringende Eingriffe verschoben werden, insofern dies Kapazitäten freispielt. &lt;/p&gt;&lt;p&gt;Der Bundesstab Bevölkerungsschutz unter Leitung des Bundesamtes für Gesundheit prüft die Einhaltung dieser Bedingungen in Absprache mit der Konferenz der kantonalen Gesundheitsdirektoren. Falls der Bundesstab Bevölkerungsschutz ein Gesuch bewilligt, entscheidet die Sanitätsdienstliche Koordinationsstelle (SANKO) über die Zuteilung der militärischen Mittel in Anbetracht der Gesamtsituation und Prioritäten. Die Armee schliesst anschliessend eine Leistungsvereinbarung für den Umfang und die Dauer der militärischen Leistungen mit der zu unterstützenden zivilen Institution ab. &lt;/p&gt;&lt;h2&gt;Aufgebot und Anrechenbarkeit der Einsatztage&lt;/h2&gt;&lt;p&gt;Die Unterstützungsleistungen der Armee werden von Berufsformationen, Durchdienerinnen und Durchdienern sowie im Dienst stehenden Formationen sowie Freiwilligen erbracht. Je nach dem ist ein Aufgebot zusätzliche Formationen erforderlich, die innerhalb von 96 Stunden ab Auslösung zum Einsatz gebracht werden können. &lt;/p&gt;&lt;p&gt;Analog zum Assistenzdiensteinsatz im Frühjahr 2020 werden den Armeeangehörigen für diesen erneuten Assistenzdiensteinsatz wiederum bis zu maximal 38 Tage (zwei Wiederholungskurse) an die Ausbildungsdienstpflicht angerechnet. &lt;/p&gt;</text>
+      <contact>Daniel Reist Armeesprecher +41 58 464 48 08</contact>
+      <link id="207223">
+        <title>Armee und Corona</title>
+        <uri>https://www.vtg.admin.ch/de/aktuell/coronavirus.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral décide que l’armée pourra à nouveau être engagée en appui du secteur de la santé publique</title>
+      <lead>Afin d’aider les cantons à faire face au nombre croissant d’hospitalisations et de patients COVID-19 en soins intensifs, le Conseil fédéral, lors de sa séance du 4 novembre 2020, a décidé que l’armée pourra à nouveau être engagée en service d’appui des hôpitaux dans le domaine des soins de base ou le transport de patients. Jusqu’à 2500 militaires pourront être déployés, sous réserve que les cantons en fassent la demande et si les conditions de subsidiarité sont remplies, à savoir s’il est démontré que les ressources civiles sont épuisées.</lead>
+      <text link="no">&lt;p&gt;Avec la deuxième vague de la pandémie de COVID-19, le nombre de cas explose et avec lui, après une à deux semaines de latence, le nombre d’hospitalisations et de patients dans les unités de soins intensifs. Depuis le mardi 27 octobre 2020, plusieurs cantons ont demandé le soutien de l’armée. &lt;/p&gt;&lt;h2&gt;Jusqu’à 2500 militaires&lt;/h2&gt;&lt;p&gt;Le Conseil fédéral a décidé de soutenir le secteur de la santé publique en mobilisant jusqu’à 2500 militaires en service d’appui. Les demandes individuelles seront ensuite examinées par la Confédération. Les prestations de l’armée toucheront les domaines suivants :&lt;/p&gt;&lt;p&gt;• soutien des établissements hospitaliers civils dans les soins de base et les traitements généraux, le prédiagnostic, le dépistage des cas suspects de COVID-19 et les tests correspondants ;&lt;br /&gt;• soutien des infrastructures cantonales de santé publique par la mise à disposition de personnel et de matériel pour élever les capacités des unités de soins intensifs (par exemple, avec des respirateurs et de la surveillance) ; après une instruction spécifique, du personnel sanitaire pourra être déployé en soutien des unités de soins intensifs (par exemple, des équipes de positionnement) ;&lt;br /&gt;• mise à disposition de véhicules sanitaires et de chauffeurs militaires pour le transport de patients infectés.&lt;/p&gt;&lt;p&gt;La décision s’appliquera jusqu’au 31 mars 2021 au plus tard, et comme le service d’assistance dure plus de trois semaines, elle devra être approuvée par l’Assemblée fédérale. Le Conseil fédéral adressera un message à ce sujet au Parlement.&lt;/p&gt;&lt;h2&gt;Évaluation des demandes selon les critères de la subsidiarité&lt;/h2&gt;&lt;p&gt;Pour satisfaire aux exigences d’un engagement subsidiaire de l’armée, les cantons doivent démontrer lors du dépôt de leur demande qu’ils ont épuisé toutes leurs ressources en personnel et matériel civils. Cela inclut le recours aux ressources de la protection civile, du service civil, des pompiers et du secteur privé ; les cantons devront donc entre autres prouver qu’aucun personnel supplémentaire ne peut être recruté sur le marché du travail, que la possibilité d’engager des chômeurs a été épuisée et qu’il n’y a plus d’étudiants en médecine, de samaritains et autres volontaires disponibles. En outre, ils doivent également démontrer que la prise en charge de patients ne peut être assurée par d’autres établissements de santé publique et que les interventions non urgentes sur le plan médical doivent être reportées pour libérer des capacités hospitalières. &lt;/p&gt;&lt;p&gt;L’État-major fédéral Protection de la population (EMFP), sous la direction de l’Office fédéral de la santé publique (OFSP), vérifie le respect de ces conditions en concertation avec la Conférence des directrices et directeurs cantonaux de la santé (CDS). Les demandes approuvées par l’EMFP sont mises en œuvre par l’Organe sanitaire de coordination (OSANC) du Service sanitaire coordonné (SSC) ; l’OSANC décide de l’affectation des moyens militaires en fonction de la situation générale et des priorités. L’armée conclut ensuite avec l’institution civile à soutenir une convention de prestations englobant l’étendue et la durée des prestations militaires. &lt;/p&gt;&lt;h2&gt;Mises sur pied et imputation des jours de service&lt;/h2&gt;&lt;p&gt;Le service d’appui de l’Armée suisse est assuré par des formations professionnelles, des militaires en service long, des formations en service et des volontaires. Si la situation exige la mise sur pied de formations supplémentaires, elles pourront être engagées dans les 96 heures suivant le déclenchement de l’engagement. &lt;/p&gt;&lt;p&gt;Comme pour l’engagement du printemps 2020, les militaires impliqués se verront à nouveau imputer jusqu’à un maximum de 38 jours de service (deux cours de répétition) pour ce service d’appui. &lt;/p&gt;</text>
+      <contact>Daniel Reist Porte-parole de l’armée +41 58 464 48 08</contact>
+      <link id="207225">
+        <title>Armée et coronavirus</title>
+        <uri>https://www.vtg.admin.ch/fr/actualite/coronavirus.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale decide un nuovo impiego dell’esercito per appoggiare la sanità pubblica</title>
+      <lead>Per sostenere i Cantoni nella gestione del crescente numero di ospedalizzazioni e pazienti affetti da COVID-19 ricoverati nei reparti di cure intensive, nella sua seduta del 4 novembre 2020 il Consiglio federale ha deciso in linea di principio un nuovo impiego dell’esercito in servizio d’appoggio. Saranno impiegati al massimo 2500 militari che potranno appoggiare gli ospedali nella cura o nel trasporto di pazienti. I militari saranno impiegati su richiesta dei Cantoni e se le condizioni per la sussidiarietà saranno soddisfatte. A tale scopo occorrerà dimostrare che i mezzi civili non sono sufficienti.</lead>
+      <text link="no">&lt;p&gt;Con la seconda ondata della pandemia di COVID-19 il numero dei casi aumenta vertiginosamente e quindi anche – con una o due settimane di ritardo – il numero delle persone ospedalizzate e dei pazienti ricoverati nei reparti di cure intensive. Da martedì 27 ottobre 2020 diversi Cantoni hanno presentato una richiesta di appoggio da parte dell’esercito. &lt;/p&gt;&lt;h2&gt;Fino a 2500 militari&lt;/h2&gt;&lt;p&gt;Il Consiglio federale ha deciso di appoggiare la sanità pubblica con un massimo di 2500 militari in servizio d’appoggio. Le singole richieste saranno esaminate dalla Confederazione. Le prestazioni dell’esercito comprendono i seguenti ambiti:&lt;/p&gt;&lt;p&gt;• supporto sul piano del personale a strutture ospedaliere civili nell’ambito delle cure di base e delle cure mediche generali (assistenza di cosiddetti pazienti «low level care»), della pre-diagnosi, dello screening di casi sospetti di COVID-19 e dei corrispondenti tamponi;&lt;br /&gt;• supporto sul piano del personale e materiale alle strutture sanitarie cantonali nell’ambito dell’ampliamento delle capacità dei reparti di cure intensive (ad es. respiratori e monitoraggio); dopo un’istruzione specifica, personale sanitario particolarmente adeguato potrà essere impiegato in appoggio ai reparti di cure intensive (ad es. team responsabile del posizionamento dei pazienti);&lt;br /&gt;• supporto al trasporto di pazienti infettivi con veicoli appropriati per il trasporto sanitario e conducenti.&lt;/p&gt;&lt;p&gt;Questa decisione è valida al più tardi fino al 31 marzo 2021. Poiché il servizio d’appoggio durerà più di tre settimane, dovrà essere approvato dall’Assemblea federale. Al riguardo il Consiglio federale adotterà un messaggio all’attenzione del Parlamento. &lt;/p&gt;&lt;h2&gt;Valutazione delle richieste in base ai criteri della sussidiarietà &lt;/h2&gt;&lt;p&gt;Al fine di soddisfare il criterio di sussidiarietà per un impiego dell’esercito, in occasione della presentazione delle richieste i Cantoni dovranno dimostrare che tutti i mezzi e strumenti civili a loro disposizione sono stati esauriti. Si tratta dei mezzi della protezione civile, del servizio civile e dei pompieri come anche quelli del settore privato. Occorrerà, tra l’altro, fornire la prova che non è possibile reclutare personale supplementare sul mercato del lavoro, che la possibilità di impiegare disoccupati è stata esaurita e che gli studenti in medicina come pure i samaritani e altri volontari sono stati contattati in merito ma non sono più disponibili. Dovranno inoltre provare che altre strutture ospedaliere non possono più accogliere pazienti e che gli interventi medici non urgenti devono essere rinviati per poter liberare capacità. &lt;/p&gt;&lt;p&gt;Lo Stato maggiore federale Protezione della popolazione, sotto la direzione dell’Ufficio federale della sanità pubblica, verificherà il rispetto di queste condizioni d’intesa con la Conferenza svizzera delle direttrici e dei direttori cantonali della sanità. Qualora lo Stato maggiore federale Protezione della popolazione approvi una richiesta, l’Organo di coordinamento sanitario (OCSAN) deciderà in merito all’assegnazione dei mezzi militari tenendo conto della situazione complessiva e delle priorità. Successivamente l’esercito concluderà con l’istituto civile interessato un accordo sull’entità e sulla durata delle prestazioni militari. &lt;/p&gt;&lt;h2&gt;Chiamata in servizio e computabilità dei giorni di servizio&lt;/h2&gt;&lt;p&gt;Le prestazioni di appoggio dell’esercito saranno fornite da formazioni di professionisti, militari in ferma continuata, formazioni in servizio e volontari. Se necessario, saranno chiamate in servizio formazioni supplementari che potranno essere impiegate entro 96 ore dalla loro mobilitazione. &lt;/p&gt;&lt;p&gt;Analogamente all’impiego in servizio d’appoggio della primavera 2020, per questo nuovo servizio d’appoggio ai militari saranno nuovamente computati sul totale obbligatorio dei giorni di servizio d’istruzione fino a un massimo di 38 giorni di servizio (2 corsi di ripetizione). &lt;/p&gt;</text>
+      <contact>Daniel Reist Portavoce dell’esercito +41 58 464 48 08</contact>
+      <link id="207226">
+        <title>Esercito e coronavirus</title>
+        <uri>https://www.vtg.admin.ch/it/attualita/coronavirus.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="15">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">sanità</name>
+        <name lang="en">Health</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

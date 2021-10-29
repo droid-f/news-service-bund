@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="26863" revoked="no">
+    <version>1</version>
+    <pubdate>2009-05-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="606" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="1007" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Integrationsbüro EDA/EVD (IB) - ab 1.1.2013 im EDA</name>
+      <name lang="fr">Bureau de l'intégration DFAE/DFE (BI) - dès le 1.1.2013 au DFAE</name>
+      <name lang="it">Ufficio dell'integrazione DFAE/DFE (UI) - a partire dal 1.1.2013 nel DFAE</name>
+      <name lang="en">Integration Office FDFA/FDEA (IO) - as of 1.1.2013 in the FDFA</name>
+      <www lang="de">http://www.europa.admin.ch</www>
+      <www lang="fr">http://www.europa.admin.ch</www>
+      <www lang="it">http://www.europa.admin.ch</www>
+      <www lang="en">http://www.europa.admin.ch</www>
+      <email lang="de">europa@ib.admin.ch</email>
+      <email lang="fr">europa@ib.admin.ch</email>
+      <email lang="it">europa@ib.admin.ch</email>
+      <email lang="en">europa@ib.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat beschliesst Unterzeichnung des angepassten Güterverkehrsabkommens Schweiz-EU</title>
+      <lead>Der Bundesrat hat die Änderungen im grenzüberschreitenden Warenverkehr gutgeheissen und die Unterzeichnung des angepassten Güterverkehrs-abkommens Schweiz-EU beschlossen. Die Anpassung basiert auf den neuen EU-Sicherheitsvorschriften im grenzüberschreitenden Warenverkehr. Nach der Unterzeichnung wird das Parlament über die Genehmigung des revidierten Abkommens entscheiden. Es soll unter Vorbehalt der Zustimmung der zuständigen Kommissionen ab dem 1. Juli 2009 vorläufig angewendet werden.</lead>
+      <text link="no">&lt;p&gt;Das angepasste Abkommen sieht vor, dass es im Warenverkehr zwischen der Schweiz und der EU auch nach der Einführung der neuen EU-Sicherheitsvorschriften keine Vorabanmeldung gibt. Dies wird durch die anerkannte Gleichwertigkeit der Sicherheitsstandards beider Vertragspartner ermöglicht. Gleichzeitig soll aber der Warenverkehr zwischen der Schweiz und den Nicht-EU-Staaten den neuen Sicherheitsvorschriften (betreffend Vorabanmeldung und Risikoanalysen) unterstellt werden.&lt;/p&gt; &lt;p&gt;Der Gemischte Ausschuss ist für die Umsetzung der einheitlichen und gemeinsamen Kriterien verantwortlich. Ein Treffen findet im Juli 2009 statt. Voraussetzung für die vorläufige Anwendung ist, dass die zuständige Kommission der Bundesversammlung dieser zustimmt.&lt;/p&gt; &lt;h2&gt;Verfahren zur Weiterentwicklung&lt;/h2&gt; &lt;p&gt;Im Vertrag ist ein Verfahren definiert, das die Anpassung an künftige Rechtsent-wicklungen regelt. Um das gleichwertige Sicherheitsniveau zwischen der Schweiz und der EU aufrecht zu erhalten, müssen die Schweiz und die EU die Regeln gleich interpretieren und die entsprechenden Rechtsentwicklungen zeitgleich übernehmen. Dabei sind die internen, verfassungsmässigen Verfahren zur Genehmigung neuer Rechtsvorschriften in beiden Parteien einzuhalten.&lt;/p&gt; &lt;p&gt;Die Vertragspartner haben vereinbart, dass sich die Schweizer Experten bereits in der Phase der Ausarbeitung von neuen Regeln, die den Sachbereich des Abkommens betreffen, beteiligen. Beschliesst die Schweiz eine Rechtsentwicklung nicht zu übernehmen und ist dadurch die Gleichwertigkeit der zollrechtlichen Sicherheitsmassnahmen nicht mehr gewährleistet, besteht die Möglichkeit, Ausgleichsmassnahmen zu ergreifen. Diese Massnahmen müssen aber verhältnismässig sein und sich auf das Notwendige beschränken. Mit dem Einverständnis beider Parteien kann im Streitfall ein Schiedsgericht angerufen werden, das die Verhältnismässigkeit der getroffenen Ausgleichsmassnahme abschliessend beurteilt.&lt;/p&gt;</text>
+      <contact>Hermann Kästli, Oberzolldirektion, Tel: 031 322 65 03 Sollberger Adrian, Integrationsbüro EDA/EVD, Tel: 031 322 26 40</contact>
+      <attachment id="54450">
+        <title>Abkommen</title>
+        <format>pdf</format>
+        <size-kb>106</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15661.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="54452">
+        <title>Faktenblatt "24-Stunden-Regel: Änderung des Güterverkehrsabkommens"</title>
+        <uri>http://www.efd.admin.ch/dokumentation/zahlen/00579/00611/01229/index.html?lang=de</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral décide de signer l'accord modifié sur le transport des marchandises négocié par la Suisse et l'UE</title>
+      <lead>Approuvant les changements que la Suisse et l'UE ont négociés dans le domaine de la circulation transfrontalière des marchandises, le Conseil fédéral a décidé de signer l'accord modifié sur le transport des marchandises. L'accord a été adapté aux nouvelles prescriptions de sécurité de l'UE en matière de circulation transfrontalière des marchandises. Lorsque le texte sera signé, le Parlement décidera de son adoption. Sous réserve que les commissions compétentes l'approuvent, l'accord révisé sera applicable à titre provisoire dès le 1er juillet 2009.</lead>
+      <text link="no">&lt;p&gt;Le texte modifié de l'accord prévoit qu'aucune déclaration préalable ne sera requise dans le cadre des échanges de marchandises entre la Suisse et l'UE, même après l'entrée en vigueur des nouvelles prescriptions de sécurité de l'UE. Cette solution suppose la reconnaissance de l'équivalence des normes de sécurité appliquées par les deux parties. Les échanges de marchandises entre la Suisse et les Etats non membres de l'UE seront par contre soumis aux nouvelles prescriptions de sécurité (relatives à la déclaration préalable et aux analyses de risques).&lt;/p&gt; &lt;p&gt;Le comté mixte est chargé de l'application de critères uniformes et communs. Une réunion est prévue en juillet 2009. Pour que l'accord puisse être appliqué à titre provisoire, il doit être approuvé par les commissions compétentes de l'Assemblée fédérale.&lt;/p&gt; &lt;h2&gt;Procédure d'actualisation&lt;/h2&gt; &lt;p&gt;L'accord prévoit une procédure réglant son adaptation à l'évolution du droit. Pour que le niveau de sécurité reste équivalent en Suisse et dans l'UE, les deux parties doivent interpréter les règles de la même façon et reprendre simultanément les modifications législatives pertinentes. Les procédures constitutionnelles internes régissant l'approbation de nouvelles prescriptions légales propres aux deux parties doivent toutefois être respectées.&lt;/p&gt; &lt;p&gt;Les parties sont convenues que des experts suisses participeraient à l'élaboration des nouvelles règles concernant les aspects techniques de l'accord. Si la Suisse décide de ne pas adopter une modification législative et si, par conséquent, l'équivalence des mesures douanières de sécurité n'est plus assurée, des mesures de rééquilibrage peuvent être prises. Celles-ci doivent être proportionnelles et limitées au strict nécessaire. En cas de différend quant à la proportionnalité de ces mesures, les deux parties peuvent convenir de faire appel à un tribunal arbitral, qui tranchera la question de manière définitive.&lt;/p&gt;</text>
+      <contact>Hermann Kästli, Direction générale des douanes, tél. 031 322 65 03 Adrian Sollberger, Bureau de l'intégration DFAE/DFE, tél. 031 322 26 40</contact>
+      <attachment id="54451">
+        <title>Accord</title>
+        <format>pdf</format>
+        <size-kb>107</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15662.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="54453">
+        <title>Feille d'information "Règle des 24 heures: modification de l'accord sur le transport des marchandises"</title>
+        <uri>http://www.efd.admin.ch/dokumentation/zahlen/00579/00611/01229/index.html?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale ha deciso di sottoscrivere la modifica dell'accordo sui trasporti di merci tra Svizzera e UE</title>
+      <lead>Il Consiglio federale ha approvato le modifiche nell'ambito del traffico transfrontaliero delle merci e deciso di sottoscrivere l'accordo adeguato sui trasporti di merci tra Svizzera e UE. L'adeguamento si basa sulle nuove prescrizioni in materia di sicurezza dell'UE nel traffico di merci transfrontaliero. Dopo la firma, il Parlamento deciderà in merito all'approvazione dell'accordo riveduto, che sarà applicato provvisoriamente a partire dal 1° luglio 2009, fatta salva l'approvazione delle commissioni competenti.</lead>
+      <text link="no">&lt;p&gt;L'adeguamento dell'accordo prevede che, anche dopo l'entrata in vigore delle nuove prescrizioni in materia di sicurezza, nel traffico delle merci tra la Svizzera e l'UE non sarà necessaria alcuna predichiarazione. Ciò sarà possibile grazie alla riconosciuta equivalenza degli standard di sicurezza di entrambe le Parti contrattuali. Nel contempo, le nuove misure in materia di sicurezza verranno tuttavia applicate al traffico delle merci tra la Svizzera e i Paesi non aderenti all'UE (predichiarazione e analisi dei rischi).&lt;/p&gt; &lt;p&gt;Il comitato congiunto, che si riunirà nel luglio 2009, è responsabile dell'attuazione di criteri uniformi e comuni. L'applicazione provvisoria presuppone l'approvazione della competente Commissione dell'Assemblea federale.&lt;/p&gt; &lt;h2&gt;Procedura relativa agli sviluppi giuridici&lt;/h2&gt; &lt;p&gt;L'accordo definisce una procedura di adeguamento ai futuri sviluppi giuridici. Al fine di mantenere il medesimo livello di sicurezza, la Svizzera e l'UE devono interpretare in egual modo le disposizioni e adottare simultaneamente i relativi sviluppi giuridici. A tal proposito, entrambe le Parti sono tenute a osservare le procedure costituzionali interne, valide in caso di approvazione di nuove disposizioni giuridiche.&lt;/p&gt; Le Parti hanno stabilito che, già nella fase di elaborazione di nuove disposizioni concernenti il settore dell'accordo, parteciperanno anche esperti svizzeri. Se la Svizzera decide di non volere adottare uno sviluppo giuridico e, di conseguenza, l'equivalenza delle misure di sicurezza di diritto doganale non è più garantita, è possibile ricorrere a misure compensative. Tali misure devono però essere proporzionate alla situazione e limitarsi allo stretto necessario. In caso di contestazioni e su consenso di entrambe le Parti è possibile appellarsi al Tribunale arbitrale, il quale giudica in modo definitivo la proporzionalità delle misure compensative adottate.</text>
+      <contact>Hermann Kästli, Direzione generale delle dogane, tel. 031 322 65 03 Sollberger Adrian, Ufficio dell'integrazione DFAE/DFE, tel. 031 322 26 40</contact>
+      <attachment id="54450">
+        <title>Abkommen</title>
+        <format>pdf</format>
+        <size-kb>106</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15661.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="54451">
+        <title>Accord</title>
+        <format>pdf</format>
+        <size-kb>107</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15662.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="54454">
+        <title>Scheda informativa "Regola delle 24 ore: modifica dell'accordo concernente i trasporti di merci"</title>
+        <uri>http://www.efd.admin.ch/dokumentation/zahlen/00579/00611/01229/index.html?lang=it</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Federal Council takes decision to sign amended Agreement on the Carriage of Goods between Switzerland and the EU</title>
+      <lead>The Federal Council has approved the changes in the international movement of goods and has taken the decision to sign the amended Agreement on the Carriage of Goods between Switzerland and the EU. The amendments are based on the new EU security requirements for the international movement of goods. After the signing, parliament will take the decision on approving the revised agreement. Subject to the approval of the committees in charge, it should be implemented provisionally from 1 July 2009.</lead>
+      <text link="no">&lt;p&gt;The amended agreement makes provision for there to be no prior notification requirement in the transfer of goods between Switzerland and the EU even after the introduction of the new EU security regulations. This has been made possible due to the contracting parties recognising the equivalence of their security standards. At the same time, however, goods traffic between Switzerland and non-EU states will be subject to the new security regulations (concerning prior notification and risk analysis).&lt;/p&gt; &lt;p&gt;The Mixed Committee is responsible for implementing the uniform and joint criteria. A meeting will take place in July 2009. Provisional application is subject to the approval of the parliamentary committee in charge.&lt;/p&gt; &lt;h2&gt;Updating procedure&lt;/h2&gt; &lt;p&gt;A procedure is defined in the agreement which regulates adjustments to future legal developments. In order to maintain an equivalent security level between Switzerland and the EU, Switzerland and the EU must interpret the rules in the same way and adopt the corresponding legal developments at the same time. In doing so, the internal, constitutional procedures in both countries on approving new legal regulations should be observed.&lt;/p&gt; &lt;p&gt;The contracting parties agreed to involve the Swiss experts as early as the preparatory phase of new regulations, which concern the technical side of the agreement. Should Switzerland decide not to adopt a legal development and the equivalence of security measures in accordance with customs law is thereby no longer guaranteed, it will be possible for compensatory measures to be taken. However, these measures must be proportionate and kept to a strict minimum. If there is a dispute and both parties agree to this, the matter may be taken to a court of arbitration which will rule on the proportionality of the compensatory measures taken.&lt;/p&gt;</text>
+      <contact>Hermann Kästli, Directorate General of Customs, tel. 031 322 65 03 Adrian Sollberger, Integration Office FDFA/FDEA, tel. 031 322 26 40</contact>
+      <attachment id="54450">
+        <title>Abkommen</title>
+        <format>pdf</format>
+        <size-kb>106</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15661.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="54451">
+        <title>Accord</title>
+        <format>pdf</format>
+        <size-kb>107</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/15662.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="126" org-id="1007">
+        <name lang="de">Bilaterale Abkommen Schweiz-EU</name>
+        <name lang="fr">Accords bilatéraux Suisse-UE</name>
+        <name lang="it">Accordi bilaterali Svizzera-UE</name>
+        <name lang="en">Bilateral Agreements Switzerland-EU</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="1007001" org-id="1007">
+        <name lang="de">Abkommen</name>
+        <name lang="fr">Accords</name>
+        <name lang="it">Accordi</name>
+        <name lang="en">Agreements</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

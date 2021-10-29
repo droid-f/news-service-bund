@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="79355" revoked="no">
+    <version>4</version>
+    <pubdate>2020-06-05</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="410" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Institut für Geistiges Eigentum</name>
+      <name lang="fr">Institut Fédéral de la Propriété Intellectuelle</name>
+      <name lang="it">Istituto Federale della Proprietà Intellettuale</name>
+      <name lang="en">Swiss Federal Institute of Intellectual Property</name>
+      <www lang="de">http://www.ige.ch</www>
+      <www lang="fr">http://www.ige.ch</www>
+      <www lang="it">http://www.ige.ch</www>
+      <www lang="en">http://www.ige.ch</www>
+      <email lang="de">info@ipi.ch</email>
+      <email lang="fr">info@ipi.ch</email>
+      <email lang="it">info@ipi.ch</email>
+      <email lang="en">info@ipi.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Besserer internationaler Schutz für schweizerische geografische Angaben</title>
+      <lead>Schweizer Produzenten sollen künftig geografische Angaben mit einem einfachen Verfahren in zahlreichen Staaten gleichzeitig zum Schutz anmelden können. Der Bundesrat hat an seiner Sitzung vom 5. Juni 2020 die Botschaft zur Genehmigung und Umsetzung (Änderung des Markenrechts) der Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben zuhanden des Parlaments verabschiedet.</lead>
+      <text link="no"> &lt;p&gt;Tête-de-Moine, Zuger bzw. Rigi Kirsch oder Swiss für Uhren: Das Prinzip der geschützten geografischen Angaben hat sich nachhaltig für die Wertschöpfungsketten von Qualitätsprodukten bewährt. In Zeiten zunehmender Marktliberalisierung soll es im internationalen Kontext noch stärker entwickelt werden.&lt;/p&gt; &lt;p&gt;Das Lissabonner Abkommen über den Schutz der Ursprungsbezeichnungen und ihre internationale Registrierung von 1958, dem die Schweiz nicht angehört, wird von der Weltorganisation für geistiges Eigentum (WIPO) verwaltet. Das Abkommen wurde 2015 durch die Verabschiedung der Genfer Akte revidiert, die insbesondere die Erweiterung des Systems auf sämtliche geografischen Angaben (Ursprungsbezeichnungen und geografische Angaben) vorsieht. Die Genfer Akte ist ein eigenständiger völkerrechtlicher Vertrag und trat am 26. Februar 2020 nach dem Beitritt der Europäischen Union in Kraft.&lt;/p&gt; &lt;p&gt;Der Bundesrat beantragt den Beitritt der Schweiz zur Genfer Akte. Der Beitritt wird den Schweizer Begünstigten von Ursprungsbezeichnungen und geografischen Angaben ermöglichen, in allen Mitgliedstaaten der Genfer Akte des Lissabonner Abkommens durch ein unkompliziertes und kostengünstiges internationales Eintragungsverfahren Schutz zu erhalten. Heute müssen Schweizer Produzenten für den Schutz ihrer geografischen Angabe in jedem Land einen separaten Antrag stellen.&lt;/p&gt; </text>
+      <contact>Felix Addor, Eidgenössisches Institut für Geistiges Eigentum, T +41 31 377 72 01</contact>
+      <link id="202192">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202195">
+        <title>Botschaft</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202198">
+        <title>Entwurf</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202201">
+        <title>Genfer Akte</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202204">
+        <title>Gemeinsame Ausführungsordnung zum Lissabonner Abkommen</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202207">
+        <title>Herkunftsangaben in der Weltorganisation für Geistiges Eigentum (WIPO)</title>
+        <uri>https://www.ige.ch/de/recht-und-politik/immaterialgueterrecht-international/ip-organisationen/wipo/herkunftsangaben.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="202210">
+        <title>Main Provisions and Benefits of the Geneva Act of the Lisbon Agreement (2015)</title>
+        <uri>https://www.wipo.int/edocs/pubdocs/en/wipo_lisbon_flyer.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2020-06-05 11:01" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Une meilleure protection internationale pour les indications géographiques suisses</title>
+      <lead>Les producteurs suisses devraient pouvoir à l’avenir enregistrer leurs indications géographiques au moyen d’une procédure simple pour les faire protéger en même temps dans de nombreux pays. Le Conseil fédéral a décidé, lors de sa séance du 5 juin 2020, de transmettre au Parlement le message concernant l’approbation et la mise en œuvre (modification de la loi sur la protection des marques) de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques.</lead>
+      <text link="no"> &lt;p&gt;&lt;i&gt;Tête-de-Moine&lt;/i&gt;, &lt;i&gt;Zuger Kirsch&lt;/i&gt; ou &lt;i&gt;Rigi Kirsch&lt;/i&gt; ou encore &lt;i&gt;Swiss&lt;/i&gt; pour les montres : le principe de la protection des indications géographiques s’est révélé durablement positif pour les filières de produits de qualité. Dans un contexte de libéralisation croissante des marchés, son développement doit encore être renforcé au niveau international.&lt;/p&gt; &lt;p&gt;L’Arrangement de Lisbonne de 1958 concernant la protection des appellations d’origine et leur enregistrement international, que la Suisse n’a pas ratifié, est administré par l’Organisation Mondiale de la Propriété Intellectuelle. Il a été révisé en 2015 par l’adoption de l’Acte de Genève, qui étend notamment la portée du système à l’ensemble des indications géographiques (qui incluent les appellations d’origine). Traité international autonome, l’Acte de Genève est entré en vigueur le 26 février 2020, suite à l’adhésion de l’Union européenne.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral propose l’adhésion de la Suisse à l’Acte de Genève. Celle-ci permettra aux bénéficiaires suisses d’appellations d’origine et d’indications géographiques d’obtenir la protection dans tous les pays membres de l’Acte de Genève de l’Arrangement de Lisbonne au moyen d’une procédure d’enregistrement international simple et avantageuse. Pour protéger leurs indications géographiques, les producteurs suisses doivent aujourd'hui présenter une demande dans chaque pays.&lt;/p&gt; </text>
+      <contact>Felix Addor, Institut fédéral de la Propriété Intellecutelle, T +41 31 377 72 01</contact>
+      <link id="202193">
+        <title>Résultats de la procédure de consultation</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202196">
+        <title>Message</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202199">
+        <title>Projet</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202202">
+        <title>Acte de Genève</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202205">
+        <title>Règlement d’exécution commun à l’Arrangement de Lisbonne</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202208">
+        <title>Les indications de provenance à l'Organisation Mondiale de la Propriété Intellectuelle (OMPI)</title>
+        <uri>https://www.ige.ch/fr/droit-et-politique/evolutions-internationales/organisations-de-pi/ompi/indications-de-provenance.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="202211">
+        <title>Principales dispositions et avantages de l’Acte de Genève de l’Arrangement de Lisbonne (2015)</title>
+        <uri>https://www.wipo.int/edocs/pubdocs/fr/wipo_lisbon_flyer.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2020-06-05 11:01" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Potenziata la protezione internazionale delle indicazioni geografiche svizzere</title>
+      <lead>In futuro i produttori svizzeri potranno chiedere la protezione delle indicazioni geografiche in numerosi Stati con un’unica semplice procedura. Nella seduta del 5°giugno 2020, il Consiglio federale ha adottato il messaggio concernente l’approvazione e la trasposizione dell’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche (modifica della legge sulla protezione dei marchi e delle indicazioni di provenienza) destinato al Parlamento.</lead>
+      <text link="no"> &lt;p&gt;Tête-de-Moine, kirsch di Zugo o del Rigi o l’indicazione "Swiss" per gli orologi: le indicazioni geografiche protette si sono rivelate uno strumento efficace per le catene di valore di prodotti di qualità. Pertanto, in tempi di crescente liberalizzazione dei mercati, questo principio va sviluppato ulteriormente a livello internazionale.&lt;/p&gt; &lt;p&gt;L’Accordo di Lisbona sulla protezione delle denominazioni di origine e sulla loro registrazione internazionale del 1958, che la Svizzera non ha ratificato, è gestito dall’Organizzazione mondiale della proprietà intellettuale (OMPI). L’Accordo è stato rivisto nel 2015 con l’adozione dell’Atto di Ginevra, che prevede in particolare l’estensione del sistema a tutte le indicazioni geografiche (denominazioni d’origine e indicazioni di provenienza). L’Atto di Ginevra è un trattato internazionale a sé stante, entrato in vigore il 26 febbraio 2020 dopo l’adesione dell’Unione europea.&lt;/p&gt; &lt;p&gt;Il Consiglio federale chiede che la Svizzera aderisca all’Atto di Ginevra. L’adesione consentirà ai beneficiari svizzeri di denominazioni d’origine e indicazioni geografiche di ottenerne la protezione in tutti i Paesi membri dell’atto di Ginevra dell’Accordo di Lisbona con una procedura di registrazione internazionale semplice ed economica. Attualmente, per proteggere le loro indicazioni geografiche, i produttori svizzeri devono presentare una domanda separata in ogni Stato.&lt;/p&gt; </text>
+      <contact>Felix Addor, Istituto federale della Proprietà Intellettuale, T +41 31 377 72 01</contact>
+      <link id="202194">
+        <title>Risultati della procedura di consultazione</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202197">
+        <title>Messaggio</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202200">
+        <title>Disegno</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202203">
+        <title>Atto di Ginevra</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202206">
+        <title>Regolamento d’esecuzione comune all’Accordo di Lisbona</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202209">
+        <title>Le indicazioni di provenienza all'Organizzazione mondiale della proprietà intellettuale (OMPI)</title>
+        <uri>https://www.ige.ch/it/diritto-e-politica/sviluppi-internazionali/organizzazioni-pi/ompi/indicazioni-di-provenienza.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="202210">
+        <title>Main Provisions and Benefits of the Geneva Act of the Lisbon Agreement (2015)</title>
+        <uri>https://www.wipo.int/edocs/pubdocs/en/wipo_lisbon_flyer.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202211">
+        <title>Principales dispositions et avantages de l’Acte de Genève de l’Arrangement de Lisbonne (2015)</title>
+        <uri>https://www.wipo.int/edocs/pubdocs/fr/wipo_lisbon_flyer.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Better international protection for Swiss geographical indications</title>
+      <lead>Swiss producers should in future be able to register geographical indications in several states simultaneously via a simple procedure. The Federal Council adopted the dispatch on the approval and implementation (amendment of trade mark law) of the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications for submission to Parliament at its meeting on 5 June 2020.</lead>
+      <text link="no"> &lt;p&gt;Tête-de-Moine, Zuger and Rigi Kirsch, and Swiss for watches – the principle of protected geographical indications has proven to be of lasting benefit to the value chains of quality products. In times of increasing market liberalisation, this principle should be developed further at international level.&lt;/p&gt; &lt;p&gt;The Lisbon Agreement of 1958 for the Protection of Appellations of Origin and their International Registration, of which Switzerland is not a member, is administered by the World Intellectual Property Organization (WIPO). The Agreement was revised in 2015 by the adoption of the Geneva Act, which, in particular, extends the scope of the system to allow the registration of all geographical indications (both appellations of origin and geographical indications). The Geneva Act is an independent international treaty, which came into force on 26 February following the accession of the European Union.&lt;/p&gt; &lt;p&gt;The Federal Council is proposing that Switzerland accedes to the Geneva Act. The accession will enable Swiss beneficiaries of appellations of origin and geographical indications to obtain protection in all member states of the Geneva Act of the Lisbon Agreement through an uncomplicated and inexpensive international registration procedure. Currently, Swiss producers have to submit separate applications in each country to protect their geographical indications. &lt;/p&gt; </text>
+      <contact>Felix Addor, Federal Institute for Intellectual Property, T +41 31 377 72 01</contact>
+      <link id="202192">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202193">
+        <title>Résultats de la procédure de consultation</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202194">
+        <title>Risultati della procedura di consultazione</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/ve-ber.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202195">
+        <title>Botschaft</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202196">
+        <title>Message</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202197">
+        <title>Messaggio</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/bot.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202198">
+        <title>Entwurf</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202199">
+        <title>Projet</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202200">
+        <title>Disegno</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/entw.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202201">
+        <title>Genfer Akte</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202202">
+        <title>Acte de Genève</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202203">
+        <title>Atto di Ginevra</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/abkommen.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202204">
+        <title>Gemeinsame Ausführungsordnung zum Lissabonner Abkommen</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/de/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202205">
+        <title>Règlement d’exécution commun à l’Arrangement de Lisbonne</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/fr/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202206">
+        <title>Regolamento d’esecuzione comune all’Accordo di Lisbona</title>
+        <uri>https://www.ejpd.admin.ch/dam/ejpd/it/data/aktuell/news/2020/2020-06-05/ausfuehrungsordnung.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="202210">
+        <title>Main Provisions and Benefits of the Geneva Act of the Lisbon Agreement (2015)</title>
+        <uri>https://www.wipo.int/edocs/pubdocs/en/wipo_lisbon_flyer.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="44" org-id="401">
+        <name lang="de">Geistiges Eigentum</name>
+        <name lang="fr">Propriété intellectuelle</name>
+        <name lang="it">Proprietà intellettuale</name>
+        <name lang="en">Intellectual property</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

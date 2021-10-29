@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="27897" revoked="no">
+    <version>1</version>
+    <pubdate>2009-07-03</pubdate>
+    <blocking-period>2009-07-03</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="603" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Keine Eidgenössischen Anleihen vom Juli bis Oktober 2009</title>
+      <teaser>Keine Eidgenössischen Anleihen vom Juli bis Oktober 2009</teaser>
+      <lead/>
+      <text link="no">&lt;p&gt;Nach Überprüfung des Finanzierungsbedarfs und aufgrund der weiterhin hohen verfügbaren liquiden Mittel verzichtet die Eidg. Finanzverwaltung auf die gemäss Emissionskalender vom Juli bis Oktober 2009 vorgesehenen Emissionen von Bundesanleihen. Die auf der Eurex-Plattform vorgesehen Tenderauktionen vom 8. Juli, 9. September und 14. Oktober 2009 fallen damit aus. Die nächste Bundesanleihe ist gemäss Emissionskalender am 11. November 2009 vorgesehen. Der voraussichtliche Emissionsbedarf für das Jahr 2010 wird planmässig im Dezember mit dem neuen Emissionskalender bekannt gegeben. Wir bitten um Kenntnisnahme.&lt;/p&gt; &lt;p&gt;EIDG. FINANZVERWALTUNG&lt;/p&gt;</text>
+      <contact>Gregor Valko, Leiter Tresorerie, Eidg. Finanzverwaltung Tel. 031 322 58 52</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Emissions des emprunts de la Confédération de juillet à octobre 2009 annulées</title>
+      <teaser>Emissions des emprunts de la Confédération de juillet à octobre 2009 annulées</teaser>
+      <lead/>
+      <text link="no">&lt;p&gt;Après avoir examiné les besoins de financement et en raison du montant toujours élevé des liquidités, l’Administration fédérale des finances renonce aux émissions des emprunts fédéraux prévues de juillet à octobre 2009 selon le calendrier des émissions pour 2009. Les émissions par le biais de la plateforme électronique de l’Eurex prévues le 8 juillet, le 9 septembre et le 14 octobre 2009 sont dès lors annulées. Selon le calendrier&amp;nbsp;la prochaine émission d’un emprunt fédéral est prévue le 11 novembre 2009. La publication des besoins de financement probables pour l’année 2010 est prévue en décembre avec le nouveau calendrier des émissions. Merci d’en prendre note.&lt;/p&gt; &lt;p&gt;ADMINISTRATION FÉDÉRALE DES FINANCES&lt;/p&gt;</text>
+      <contact>Gregor Valko, Chef section trésorerie, Administration fédérale des finances Tél. 031 322 58 52</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="3" org-id="603">
+        <name lang="de">Wirtschaft, Währung</name>
+        <name lang="fr">Economie, monnaie</name>
+        <name lang="it">Economia, Moneta</name>
+        <name lang="en">Economic, Monetary affairs</name>
+      </offer>
+      <offer id="229" org-id="603">
+        <name lang="de">Bundesanleihen</name>
+        <name lang="fr">Emprunts fédéraux</name>
+        <name lang="it">Prestiti federali</name>
+        <name lang="en">Federal Bond Issues</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="119" org-id="603">
+        <name lang="de">Bundesanleihen</name>
+        <name lang="fr">Emprunts de la Confédération</name>
+        <name lang="it">Prestiti della Confederazione</name>
+        <name lang="en">Confederation bonds</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

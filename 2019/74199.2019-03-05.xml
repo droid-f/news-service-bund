@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="74199" revoked="no">
+    <version>1</version>
+    <pubdate>2019-03-05</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Virtueller Lärm</title>
+      <lead>Eisenbahnlärm stört. Vor allem in der Nähe von Wohngebieten sorgen Züge regelmässig für schlaflose Nächte. Umso wichtiger ist es, Züge und Schienen so zu optimieren, dass Ge-räusche gedämmt werden. Empa-Forschende haben eine Computersimulation entwickelt, die realitätsgetreu aufzeigt, wie Bahnlärm entsteht und welche technischen Massnahmen zielführend sind, ihn zu verhindern.</lead>
+      <text link="no">&lt;p&gt;Der Zug rauscht heran, der Lärmpegel steigt, es dröhnt unangenehm in den Ohren, wenn die Waggons vorbeirattern. Ein paar Sekunden später ist der Spuk vorbei, die Lautstärke nimmt ab, und die Wagons verschwinden am Horizont. Was auf den ersten Blick wirkt wie die gewöhnliche Aufnahme eines vorbeifahrenden Zuges, ist in Wirklichkeit weit mehr. Weder die Geräusche, die man durch Lautsprecher oder Kopfhörer hört, noch die Bilder, die man sieht, sind echt: Alles entstand im Rahmen einer Simulation am Computer.&lt;/p&gt; &lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Lärm: Ein Ensemble aus über hundert Geräuschquellen&lt;/p&gt; &lt;p&gt;«Lärm besteht aus verschiedenen Bestandteilen», erklärt Reto Pieren von der Empa-Abteilung «Akustik und Lärmminderung», verantwortlich für die Programmierung der Simulation, die ein Team von Empa-Forschern in einem Horizon2020-Projekt der EU entwickelte. «Die Räder, die Schienen, die Lüftung, der Motor – alles erzeugt Geräusche und verursacht als Ganzes dann die Lärmemission des Zuges.» In anderen Worten: Pieren hat für die über 100 Geräuschquellen eines fahrenden Zuges einzelne Algorithmen entwickelt. Das ermöglicht es, den Zug als Ganzes «hörbar» zu machen oder aber nur einzelne Komponenten.&lt;/p&gt; &lt;p&gt;Nebst den diversen Geräuschquellen eines fahrenden Zuges integriert er ausserdem Umwelteinflüsse in seine Berechnungen. Dazu gehören Lärmschutzwände, Fahrgeschwindigkeit, Zustand der Gleise, Aussentemperatur und sogar die Beschaffenheit des Bodens. Ziel der Simulation ist es, nicht nur Optimierungspotenzial bestehender Zugkompositionen aufzuzeigen, sondern in Zukunft auch Voraussagen treffen zu können, wie beispielswiese neue Räder oder Bauteile den Lärm einer Bahnlinie verändern würden.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Erschaffen am Computer&lt;/p&gt; &lt;p&gt;Die Simulation der Empa ist einzigartig, denn bisherige Programme verwenden echte Tonaufnahmen. Pieren jedoch hat die einzelnen Geräusche am Computer hergestellt. Dabei wird für jede Zugkomponente unter Berücksichtigung der physikalischen Parameter das entsprechende akustische Signal berechnet. Physikalische Parameter heisst in diesem Fall Eigenschaften wie die Oberflächenbeschaffenheit und das Material der Gleise und der einzelnen Räder. Diese Grundparameter stammen dabei aus eigenen Messungen, Messungen von Fahrzeugherstellern und Simulationsrechnungen und werden in die Simulation eingespeist. Aus diesen Daten berechnet der Algorithmus den abgestrahlten Schalldruck, aus dem wiederum das Geräusch bei einem bestimmten Zuhörerpunkt simuliert wird. &lt;/p&gt; &lt;p&gt;Doch es geht noch komplexer: Beim Rollgeräusch beispielsweise wird das Bremssystem der Wagen mit einberechnet. «Dahinter verbergen sich Datensätze, die die Oberflächenmikrostruktur der Räder beschreiben. So wird für jedes Rad eine individuelle Oberflächenstruktur berechnet», erklärt Pieren. Diese Oberflächenstruktur ist massgeblich an der entstehenden Reibung mit den Geleisen und somit an der Schall- respektive Lärmentwicklung beteiligt. Je weniger Unebenheiten die Oberfläche der Räder und der Gleise aufweisen, umso leiser das Fahrgeräusch. &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Der Schall macht es aus&lt;/p&gt; &lt;p&gt;Ein vorbeifahrender Zug verursacht Lärm, so viel ist klar. Wie ein Anwohner diesen Lärm allerdings wahrnimmt, hängt massgeblich von der lokalen Umgebung und der Schallausbreitung ab. Schall erfährt bei der Ausbreitung diverse Veränderungen. Er wird durch Luft absorbiert, was dazu führt, dass hohe Frequenzen stärker gedämpft werden als tiefe. Ähnliches passiert bei einer Lärmschutzwand: Hohe Frequenzen sind hinter der Wand tatsächlich weniger laut, tiefe Töne werden jedoch über die Wand gebeugt. Diese zentralen Faktoren können in der Simulation ebenfalls nachgestellt werden, ebenso wie der Standort des Zuhörers – von dem die eigentliche akustische Wahrnehmung des Lärms abhängt.&lt;/p&gt; &lt;p&gt;Den künstlich erzeugten Lärm hat Pieren mit Probanden in einem Hörexperiment überprüft. Erfreulicherweise zeigte sich, dass die Probanden die Simulationen und die künstlich generierten Geräusche als sehr plausibel einstuften. Mit der Simulation lassen sich also Auswirkungen von unterschiedlichen Massnahmen «auralisieren», also hörbar machen. Beispielsweise lässt Pieren die Simulation laufen, platziert im Anschluss eine Schallschutzwand und lässt erneut einen Zug vorbeifahren. «Wenn wir sagen, eine Massnahme reduziert den Geräuschpegel um drei Dezibel, können sich die wenigsten vorstellen, was das bedeutet. Wenn ich diese drei Dezibel im direkten Vergleich aber hörbar mache, ist der Effekt sofort klar.»&lt;/p&gt; Die Simulation funktioniert nicht nur im Labor oder mit einem Virtual-Reality-Set. Auch Videos auf YouTube zeigen den Vergleich und machen deutlich, was die Simulation leisten kann. Zukünftig soll sie helfen, wichtige Entscheidungen bezüglich Bau und Ausbau von Bahnlinien und Zügen zu unterstützen. Davon profitieren langfristig Bahnbetreiber, Planer und vor allem die Anwohner.</text>
+      <contact>Dr. Reto Pieren Akustik / Lärmminderung Tel. +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Akustik / Lärmminderung Tel. +41 58 765 47 48 Jean-Marc.Wunderli@empa.ch</contact>
+      <attachment id="187445">
+        <title>Press release</title>
+        <format>jpg</format>
+        <size-kb>183</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/56002.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="187446">
+        <title>Press release</title>
+        <uri>https://www.empa.ch/web/s604/zuglaerm-simulation</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Bruit virtuel</title>
+      <lead>Le bruit ferroviaire est gênant. Les trains provoquent de nombreuses nuits blanches, en particulier à proximité des zones résidentielles. Il est donc d'autant plus important d'optimiser les trains et les voies de manière à atténuer les bruits. Les chercheurs de l'Empa ont mis au point une simulation informa-tique qui montre comment le bruit ferroviaire est créé et quelles mesures techniques sont efficaces pour le prévenir.</lead>
+      <text link="no">&lt;p&gt;Le train se rapproche, le niveau sonore monte, il y a un bruit désagréable lorsque les wagons s'entrechoquent. Quelques secondes plus tard, la dure épreuve est terminée, le bruit s'apaise et les wagons disparaissent au loin. Ce qui, à première vue, peut sembler être un enregistrement normal d'un train qui passe est en fait beaucoup plus que cela. Ni les bruits que vous entendez à travers les haut-parleurs ou les écouteurs, ni les images que vous voyez ne sont réels : tout a été créé dans une simulation informatique.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Bruit : un ensemble de plus d'une centaine de sources sonores&lt;/p&gt; &lt;p&gt;"Le bruit se compose de différents composants", explique Reto Pieren du laboratoire d'acoustique et de lutte contre le bruit de l'Empa, responsable de la programmation de la simulation développée par une équipe de chercheurs de l'Empa dans le cadre du projet EU Horizon2020. "Les roues, les rails, la ventilation, le moteur génèrent des bruits et causent les émissions sonores du train." En d'autres termes : Pieren a développé des algorithmes individuels pour les plus de 100 sources sonores d'un train en mouvement. Cela permet à Pieren et à ses collègues de rendre l'ensemble du train "audible" - ou seulement des composants individuels, par exemple, les roues qui roulent.&lt;/p&gt; &lt;p&gt;Outre les diverses sources sonores d'un train en mouvement, Pieren tient également compte des influences de l'environnement dans ses calculs. Il s'agit notamment des murs antibruit, de l'état des voies, de la température ambiante et même de l'état du sol, ainsi que de la vitesse à laquelle le train circule. L'objectif de la simulation n'est pas seulement de révéler le potentiel d'optimisation des compositions de trains existantes, mais aussi de pouvoir prédire comment de nouvelles roues ou de nouveaux composants (ou toute autre mesure, d'ailleurs) peuvent affecter le bruit perçu d'une ligne ferroviaire.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Créé sur l'ordinateur&lt;/p&gt; &lt;p&gt;La simulation de l'Empa est unique en son genre car les programmes précédents utilisent des enregistrements audio réels. Pieren, cependant, a généré les sons individuels sur l'ordinateur. Le signal acoustique est calculé pour chaque composant du train, en tenant compte des paramètres physiques - propriétés telles que l'état de surface et les matériaux dont sont faites les voies et les roues individuelles. Pieren obtient ces paramètres à partir de ses propres mesures, de celles des constructeurs automobiles et de calculs informatiques, puis les intègre à la simulation. L'algorithme utilise ces données pour calculer le niveau de pression sonore émis, qui à son tour est utilisé pour simuler le son à un point d'écoute donné.&lt;/p&gt; &lt;p&gt;Mais ça devient encore plus compliqué : Pour le bruit de roulement, par exemple, le système de freinage des wagons est compris dans le calcul. "Derrière ces simulations se cachent des ensembles de données qui décrivent la microstructure superficielle des roues. Une structure de surface individuelle est calculée pour chaque roue ", explique Pieren. Cette structure de surface joue un rôle déterminant dans le frottement entre les rails et les roues et donc dans le développement du son et du bruit. Moins il y a d'irrégularités à la surface des roues et des rails, plus le bruit de roulement est doux.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Le bruit fait la différence&lt;/p&gt; &lt;p&gt;Un train qui passe fait du bruit, c'est évident. La façon dont un résident perçoit ce bruit, cependant, dépend en grande partie de l'environnement local et de la propagation du son. Le son subit divers changements au cours de sa propagation. Il est absorbé par l'air, ce qui fait que les fréquences plus élevées sont plus atténuées que les basses. Il en va de même pour les murs antibruit : Alors que les hautes fréquences ne sont en fait pas aussi fortes derrière la barrière, les sons graves sont courbés au-dessus du mur. Tous ces facteurs peuvent être reconstitués dans la simulation, ainsi que l'emplacement spécifique de l'auditeur.&lt;/p&gt; &lt;p&gt;Pieren a testé le bruit généré artificiellement en utilisant des volontaires dans une expérience audio. Heureusement, les volontaires ont jugé les simulations et les sons artificiels très plausibles. Par conséquent, la simulation peut être utilisée pour "audibiliser", c'est-à-dire rendre audible, les effets de diverses mesures. Par exemple, Pieren exécute la simulation, puis place une barrière antibruit et fait passer un autre train. "Si nous disons qu'une mesure spécifique réduit le niveau sonore de trois décibels, presque personne ne peut imaginer ce que cela signifie réellement. Si je rends ces trois décibels audibles par comparaison directe, l'effet devient immédiatement clair."&lt;/p&gt; La simulation ne fonctionne pas seulement en laboratoire ou avec un jeu de réalité virtuelle ; des vidéos sur YouTube affichent également la comparaison et mettent en évidence ce dont la simulation est capable. A l'avenir, elle devrait soutenir le processus de prise de décision concernant la construction et l'extension des lignes de chemin de fer et la composition des trains. A long terme, les opérateurs ferroviaires, les planificateurs et surtout la population en bénéficieront. </text>
+      <contact>Dr. Reto Pieren Acustics / Noise control Tél. +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Acoustics/Noise Control Tél. +41 58 765 47 48 Jean-Marc.Wunderli@empa.ch</contact>
+      <attachment id="187445">
+        <title>Press release</title>
+        <format>jpg</format>
+        <size-kb>183</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/56002.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="187446">
+        <title>Press release</title>
+        <uri>https://www.empa.ch/web/s604/zuglaerm-simulation</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Virtual noise</title>
+      <lead>Railway noise is annoying. Trains cause numerous sleepless nights, especially in the vicinity of residential areas. This makes it all the more important to optimize trains and tracks in such a way as to dampen sounds. Empa researchers have devised a computer simulation that demonstrates how railway noise is created in the first place and which technical measures are effective in preventing it.</lead>
+      <text link="no">The train whooshes closer, the noise level rises, there is an unpleasant booming in the ears as the coaches clatter past. A few seconds later, the ordeal is over; the noise subsides and the coaches vanish in the distance. What at first glance might seem like a normal recording of a passing train is actually much more. Neither the noises you hear through the speakers or headphones nor the images you see are real: It was all created in a computer simulation. Noise: an ensemble of over one hundred sound sources “Noise consists of various components,” explains Reto Pieren from Empa’s Acoustics/Noise Control lab, who is in charge of programming the simulation developed by a team of Empa researchers in an EU Horizon2020 project. “The wheels, the tracks, the ventilation, the engine – they all generate sounds and together cause the train’s noise emissions.” In other words: Pieren developed individual algorithms for the more than 100 sound sources of a moving train. This allows Pieren and his colleagues to render the entire train “audible” – or just individual components, say, the rolling wheels. Besides the diverse sound sources of a moving train, Pieren also factors environmental influences into his calculations. These include noise barriers, the speed, at which the train is traveling, the state of the tracks, the ambient temperature and even ground conditions. The goal of the simulation is not only to reveal optimization potential for existing train compositions, but also to be able to predict how new wheels or new components (or any other measure, for that matter) might affect the perceived noise of a railway line. Created on the computer Empa’s simulation is unique as previous programs use real audio recordings. Pieren, however, generated the individual sounds on the computer. The acoustic signal is calculated for every train component, taking into account the physical parameters – properties such as the surface condition and the materials the tracks and the individual wheels are made of. Pieren obtains these parameters from his own measurements, from measurements from vehicle manufacturers and from computer calculations, and then feeds them back into the simulation. The algorithm uses this data to calculate the emitted sound pressure level, which in turn is used to simulate the sound at any given listening point. But it gets even more complicated: For the rolling sound, for instance, the brake system of the carriages is factored in. “Hidden behind it are datasets that describe the surface microstructure of the wheels. An individual surface structure is calculated for each wheel,” explains Pieren. This surface structure is instrumental in the friction between tracks and wheels and thus the development of sound and noise. The fewer irregularities on the surface of the wheels and the tracks, the quieter the traveling sound. The sound makes the difference A passing train creates noise; that much is obvious. How a resident perceives this noise, however, depends largely on the local environment and the propagation of the sound. Sound undergoes diverse changes during propagation. It is absorbed by air, which causes higher frequencies to be dampened more than low ones. It is a similar story with noise barriers: While high frequencies are actually not as loud behind the barrier, low sounds are bent over the wall. All these factors can be reconstructed in the simulation, along with the specific location of the listener. Pieren verified the artificially generated noise using volunteers in an audio experiment. Fortunately, the volunteers rated the simulations and the artificial sounds as highly plausible. Therefore, the simulation can be used to “auralize”, i.e. render audible, the effects of various measures. For instance, Pieren runs the simulation, then places a noise barrier and makes another train pass. “If we say a specific measure reduces the noise level by three decibels, hardly anyone can imagine what that actually means. If I render these three decibels audible by direct comparison, however, the effect immediately becomes clear.” The simulation does not just work in the lab or with a virtual reality set; Videos on YouTube also display the comparison and highlight what the simulation is capable of. In future, it should support the decision making process regarding the construction and expansion of railway lines and train compositions. In the long run, railway operators, planners and above all residents stand to benefit. </text>
+      <contact>Dr. Reto Pieren Acustics / Noise control Phone +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Acoustics/Noise Control Phone +41 58 765 47 48 Jean-Marc.Wunderli@empa.ch</contact>
+      <attachment id="187445">
+        <title>Press release</title>
+        <format>jpg</format>
+        <size-kb>183</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/56002.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="187446">
+        <title>Press release</title>
+        <uri>https://www.empa.ch/web/s604/zuglaerm-simulation</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

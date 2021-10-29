@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83260" revoked="no">
+    <version>1</version>
+    <pubdate>2021-04-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Sehtest für autonome Autos</title>
+      <lead>Autos, die autonom von A nach B navigieren, sollen in einigen Jahren Alltag sein. Doch der Weg zu einer Strassenzulassung ist noch weit. Ein wichtiger Aspekt: Wie lässt sich erkennen, ob ein selbstfahrendes Auto mit zunehmendem Alter «blind» geworden ist, die Sensoren also ausgetauscht werden müssten? Eine Empa-Forscherin sucht mit ihrem Team nach einer Lösung.</lead>
+      <text link="no">Der fünf Meter lange Lexus RX-450h führt an der Empa ein eher beschauliches Leben. Grosse Reisen sind ihm nicht vergönnt. Stattdessen dreht das SUV brav seine Runden auf einem nur 180 Meter langen Spezialparcours in einem abgetrennten Hinterhof des Empa-Campus. Besonders spektakulär ist die Szenerie nicht: Die Mobileye-Camera hinter der Frontscheibe sieht frisch aufgemalte Fahrbahnmarkierungen auf altersschwachem Beton; das Velodyne-Lidar scannt bei jeder Runde die Fensterfront des immer gleichen Laborgebäudes, und das Delphi-Radar hinter dem Kühlergrill des Lexus misst routiniert den Abstand zu fünf blechernen Abfallmulden, die links und rechts des Parcours aufgestellt sind. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Zur gleichen Zeit, in Kalifornien…&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Tausende Meilen weiter westlich, an der US-amerikanischen Pazifikküste, sieht alles etwas dramatischer aus. «Wow, ich hätte nicht gedacht, dass das Auto das kann», sagt Sam Altman. Er ist Chef der Firma OpenAI, die künstliche Intelligenz entwickelt und an der Elon Musk und Microsoft beteiligt sind. Altman sieht sich zusammen mit Kyle Vogt ein Video an. Vogt ist CTO und Mitgründer der Firma Cruise LLC, die heute zu General Motors gehört. Das Video ist auch auf Youtube zu sehen und zeigt, wie ein Versuchsfahrzeug von Cruise 75 Minuten lang durch San Francisco fährt und mit nur ganz wenigen Eingriffen von Programmierern alle innerstädtischen Fahrsituationen meistert. Es überholt stehende Müllwagen, auch wenn Gegenverkehr bereits in Sicht ist, und kann an kleinen Kreuzungen selbständig links abbiegen, selbst wenn Fussgänger zur gleichen Zeit die Fahrbahn queren wollen. &lt;br /&gt;&lt;br /&gt;Auch die Tesla-Fangemeinde veröffentlichet Ende Oktober 2020 euphorische Videos. Einige Beta-Tester der Tesla- Software haben eine Vorab-Version erhalten, mit der das Auto autonom durch Wohngebiete navigieren kann. Ein Youtuber namens TeslaRaj unterlegt sein schwärmerisches Video mit Violinenmusik und zeigt, wie sein Auto an roten Ampeln stoppt, Geschwindigkeitslimiten strikt einhält und geparkte Autos selbständig umkurvt.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Vertrauen ist gut, Kontrolle ist besser&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Wenn die Kalifornier schon so weit sind, welchen Sinn macht es dann in einem Hinterhof in Dübendorf herumzukurven? Miriam Elser kann das erläutern. Sie arbeitet im Empa-Labor für Fahrzeugantriebssysteme und leitet das Projekt mit dem Lexus. Damit betritt die Empa Neuland: Bisher hatte sie sich mit Antrieben, erneuerbaren Treibstoffen und Abgasreinigung, aber auch mit dem Betrieb von Fahrzeugen beschäftigt. Nun geht es erstmals um selbstfahrende Autos.&lt;br /&gt;&lt;br /&gt;«Wir untersuchen, wie diese Sensoren bei unterschiedlichen Umgebungsbedingungen arbeiten, welche Daten sie sammeln und wann sie Fehler machen oder gar ausfallen», sagt die Forscherin. «Jeder menschliche Fahrer muss einen Sehtest bestehen, bevor er eine Fahrerlaubnis erhält. Berufsfahrer müssen diesen Test regelmässig wiederholen. Wir wollen einen Sehtest für autonome Fahrzeuge entwickeln, damit man ihnen auch dann noch trauen kann, wenn sie schon mehrere Jahre alt sind und tausende Kilometer auf dem Buckel haben.»&lt;br /&gt;&lt;br /&gt;Das Thema ist bislang recht stiefmütterlich behandelt worden: Unter mehr als 1‘000 öffentlichen Forschungsarbeiten zum Thema autonomes Fahren, die in den vergangenen fünf Jahren erschienen sind, beschäftigen sich nur rund 20 mit der Qualität der Sensordaten.&lt;br /&gt;&lt;br /&gt;Die Verarbeitung der Daten geschieht buchstäblich in einer «Black Box». Das Knowhow ist viel Geld wert und wird sorgfältig gehütet von Google, Apple, Tesla, Cruise LLC und den anderen grossen Herstellern, die an autonomen Fahrzeugen forschen. Sie lassen sich nicht in die Karten schauen.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Die Nadel im Daten-Heuhaufen&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Die Sensorqualität spielt für eine spätere Zulassung autonom fahrender Autos im öffentlichen Verkehr eine wichtige Rolle. Die Betriebssicherheit solcher Autos fällt in den Zuständigkeitsbereich des Bundesamts für Strassen (ASTRA), das die Forschungsarbeit finanziell unterstützt. Das ASTRA will die Funktionsfähigkeit der autonomen Systeme in regelmässigen Abständen beurteilen können – und zwar unabhängig von den Herstellern. Die Experten der Behörde möchten zudem auch eine Art «Zeugenbefragung» möglich machen, wenn ein autonom fahrendes Auto in einen Unfall verwickelt war. Das Problem dabei: Die Sensoren sammeln enorme Datenmengen pro Sekunde. Diese Flut an Rohdaten zu analysieren wäre unzumutbar für Unfallermittlungsbehörden. Irgendwann in Zukunft muss also per Gesetz festgelegt werden, welche Daten im Auto gespeichert und für Ermittlungen zugänglich gemacht werden müssen.&lt;br /&gt;&lt;br /&gt;Dazu kommt: Das ASTRA bereitet sich auf die Genehmigung von Feldversuchen mit selbstfahrenden Fahrzeugen auf öffentlichen Strassen vor. Doch wie lässt sich beurteilen, ab wann es gefährlich wird? Wo versagen Sensoren, und wo machen sie solch gravierende Fehler, dass der Versuch abgebrochen oder modifiziert werden müsste? Bereits fürs Monitoring solcher Feldversuche ist es nötig, die «Sehkraft und Urteilsfähigkeit» autonom fahrender Autos rasch und genau einschätzen zu können.&lt;br /&gt;&lt;br /&gt;Das Projekt ist Teil einer Digitalisierungsinitiative des Schweizerischen Kompetenzzentrums für Energieforschung im Bereich Mobilität (SCCER Mobility), mitfinanziert von der Innosuisse, vom Bundesamt für Strassen (ASTRA) und von Wirtschaftspartnern. Während die Empa handelsübliche Sensoren im praktischen Einsatz untersucht, analysiert das Eidgenössische Institut für Metrologie (METAS) die gleichen Sensoren in einer Laborumgebung. Die kommende Generation von Fahrzeugsensoren ist ebenfalls bereits Gegenstand der Forschung. Diesen Projektteil übernimmt das Institut für dynamische Systeme und Regelungstechnik der ETH Zürich.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Unfälle vermeiden&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Für die Entwicklung von Grundlagen für Bewertungsmethoden autonom fahrender Autos bleibt nicht mehr viel Zeit. Der Wettbewerb rund um selbstfahrende Autos ist enorm, und die Automobilindustrie könnte ihre Fahrzeuge bereits bald dafür ausrüsten.&lt;br /&gt;&lt;br /&gt;Ob selbstfahrende Autos Unfälle und Verkehr vermeiden können, ist Gegenstand vieler Untersuchungen. Entscheidend sind gute gesetzlichen Rahmenbedingungen. Der Trend, dass die Fahrzeugsoftware das Fahren zunehmend unterstützt, ist aber unaufhaltsam.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Mehr Informationen zum Thema finden Sie unter: www.empa.ch/web/s504&lt;/i&gt;</text>
+      <contact>Dr. Miriam Elser Automotive Powertrain Technologies Tel. +41 58 765 47 74 Miriam.Elser@empa.ch</contact>
+      <attachment id="215131">
+        <title>Was sieht ein Auto? Laserscan der Empa-Teststrecke / Que voit une voiture ? Balayage laser de la piste d'essai de l'Empa. / What does a car see? Laser scan of the Empa test track</title>
+        <format>jpg</format>
+        <size-kb>1652</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66292.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="215132">
+        <title>Miriam Elser mit dem radar- und laserbestückten Lexus auf dem Empa-Campus. / Miriam Elser avec la Lexus équipée d'un radar et d'un laser sur le campus de l'Empa. / Miriam Elser with the radar- and laser-equipped Lexus.</title>
+        <format>jpg</format>
+        <size-kb>1400</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66293.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="215133">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/eq70-autonomes-fahren</uri>
+        <position>Context</position>
+      </link>
+      <link id="215134">
+        <title>Zusätzliche Informationen</title>
+        <uri>https://www.empa.ch/web/s504</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Test oculaire pour les voitures autonomes</title>
+      <lead>Les voitures qui naviguent de manière autonome de A à B devraient être banalisées dans quelques années. Mais la route vers l'homologation est encore longue. Un aspect important : comment pouvons-nous dire si une voiture à moteur est devenue "aveugle" avec l'âge, c'est-à-dire si les capteurs doivent être remplacés ? Une chercheuse de l'Empa et son équipe cherchent une solution.</lead>
+      <text link="no">La Lexus RX-450h, longue de cinq mètres, mène une vie plutôt paisible à l'Empa. Elle n'est pas autorisée à faire de longs trajets. Au lieu de cela, le SUV fait consciencieusement sa ronde sur une piste spéciale de 180 mètres de long dans une cour séparée du campus de l'Empa. Le paysage n'est pas particulièrement spectaculaire : la caméra Mobileye derrière le pare-brise voit des marques de voie fraîchement peintes sur du béton décrépit ; le lidar Velodyne balaie la façade de la fenêtre du même bâtiment de laboratoire à chaque tour ; et le radar Delphi derrière la calandre de la Lexus mesure régulièrement la distance qui le sépare des cinq poubelles en fer blanc installées à gauche et à droite du parcours. &lt;br /&gt;&lt;br /&gt;Au même moment, en Californie...&lt;br /&gt;&lt;br /&gt;A des milliers de kilomètres à l'ouest, sur la côte Pacifique des Etats-Unis, les choses semblent un peu plus dramatiques. "Wow, je ne pensais pas que la voiture pouvait faire ça", dit Sam Altman. Il est le directeur général d'OpenAI, une société d'intelligence artificielle dans laquelle Elon Musk et Microsoft sont impliqués. Altman regarde une vidéo avec Kyle Vogt. Kyle Vogt est directeur technique et co-fondateur de Cruise LLC, qui fait maintenant partie de General Motors. La vidéo est également disponible sur Youtube et montre comment un véhicule d'essai de Cruise traverse San Francisco pendant 75 minutes et maîtrise toutes les situations de conduite en ville avec très peu d'intervention des programmateurs. Il dépasse les camions à ordures immobiles même lorsque le trafic en sens inverse est déjà en vue, et peut tourner à gauche de manière indépendante aux petits carrefours même lorsque les piétons veulent traverser la voie en même temps. &lt;br /&gt;&lt;br /&gt;La communauté des fans de Tesla a également publié des vidéos euphoriques à la fin du mois d'octobre 2020. Certains bêta-testeurs du logiciel de Tesla ont reçu une version pré-livrée qui permet à la voiture de naviguer de manière autonome dans les zones résidentielles. Un Youtuber nommé TeslaRaj ponctue sa vidéo enthousiaste de musique de violon et montre comment sa voiture s'arrête aux feux rouges, respecte strictement les limites de vitesse et manœuvre de manière autonome autour des voitures garées.&lt;br /&gt;&lt;br /&gt;La confiance, c'est bien, le contrôle, c'est mieux&lt;br /&gt;&lt;br /&gt;Si les Californiens sont déjà si avancés, quel sens cela a-t-il de se promener dans une arrière-cour de Dübendorf ? Miriam Elser peut vous l'expliquer. Elle travaille dans le laboratoire des systèmes de propulsion des véhicules de l'Empa et est responsable du projet Lexus. Avec ce projet, l'Empa innove : jusqu'à présent, elle travaillait sur les groupes motopropulseurs, les carburants renouvelables et l'épuration des gaz d'échappement ainsi que sur l'exploitation des véhicules. Maintenant, pour la première fois, elle s'intéresse aux voitures qui se conduisent de manière autonome.&lt;br /&gt;&lt;br /&gt;"Nous étudions comment ces capteurs fonctionnent dans différentes conditions environnementales, quelles données ils collectent et quand ils font des erreurs ou même échouent", explique la chercheuse. "Tout conducteur humain doit passer un examen de la vue avant de pouvoir obtenir un permis de conduire. Les conducteurs professionnels doivent répéter ce test régulièrement. Nous voulons développer un test visuel pour les véhicules autonomes afin qu'ils soient fiables même lorsqu'ils ont plusieurs années et des milliers de kilomètres au compteur". &lt;br /&gt;&lt;br /&gt;Le sujet a été traité jusqu'à présent de manière assez magistrale : Parmi plus de 1 000 documents de recherche publics sur la conduite autonome publiés au cours des cinq dernières années, seule une vingtaine traite de la qualité des données des capteurs.&lt;br /&gt;&lt;br /&gt;Le traitement des données se fait littéralement dans une "boîte noire". Le savoir-faire vaut beaucoup d'argent et est soigneusement gardé par Google, Apple, Tesla, Cruise LLC et les autres grands constructeurs qui font des recherches sur les véhicules autonomes. Ils ne baissent pas leur garde.&lt;br /&gt;&lt;br /&gt;L'aiguille dans la botte de foin des données&lt;br /&gt;&lt;br /&gt;La qualité des capteurs joue un rôle important dans l'homologation éventuelle des voitures à conduite autonome pour les transports publics. La sécurité de fonctionnement de ces voitures relève de la compétence de l'Office fédéral des routes (OFROU), qui soutient financièrement les travaux de recherche. L'OFROU veut pouvoir évaluer la fonctionnalité des systèmes autonomes à intervalles réguliers - et indépendamment des fabricants. Les experts de l'autorité veulent également permettre de mener une sorte d'"audition de témoins" si une voiture à conduite autonome a été impliquée dans un accident. Le problème ici est que les capteurs collectent d'énormes quantités de données par seconde. L'analyse de ce flot de données brutes serait déraisonnable pour les enquêteurs sur les accidents. La loi devra donc, à un moment donné, préciser quelles données doivent être stockées dans la voiture et rendues accessibles pour les enquêtes.&lt;br /&gt;&lt;br /&gt;De plus, l'OFROU se prépare à approuver des essais sur le terrain avec des véhicules à conduite autonome sur la voie publique. Mais comment juger quand cela devient dangereux ? Où les capteurs échouent-ils et où commettent-ils des erreurs si graves que le test doit être interrompu ou modifié ? Même pour le suivi de ces essais sur le terrain, il est nécessaire de pouvoir évaluer rapidement et précisément la "vue et le jugement" de la conduite autonome des voitures.&lt;br /&gt;&lt;br /&gt;Le projet fait partie d'une initiative de numérisation du Centre suisse de compétence pour la recherche énergétique dans le domaine de la mobilité (CSRE Mobilité), cofinancée par Innosuisse, l'Office fédéral des routes (OFROU) et des partenaires commerciaux. Tandis que l'Empa étudie les capteurs disponibles dans le commerce et utilisés dans la pratique, l'Institut fédéral de métrologie (METAS) analyse les mêmes capteurs en laboratoire. La prochaine génération de capteurs pour véhicules fait également déjà l'objet de recherches. Cette partie du projet est réalisée par l'Institut des systèmes dynamiques et de la technique de commande de l'ETH Zurich.&lt;br /&gt;&lt;br /&gt;La prévention des accidents&lt;br /&gt;&lt;br /&gt;Il ne reste pas beaucoup de temps pour développer des méthodes d'évaluation de base pour les voitures à conduite autonome. La concurrence autour des voitures particulières est énorme, et l'industrie automobile pourrait bientôt équiper ses véhicules à cette fin.&lt;br /&gt;&lt;br /&gt;La question de savoir si les voitures qui se conduisent seules peuvent éviter les accidents et la circulation fait l'objet de nombreuses recherches. De bons cadres réglementaires sont essentiels. Mais la tendance des logiciels automobiles à soutenir de plus en plus la conduite est irréversible.&lt;br /&gt;</text>
+      <contact>Dr. Miriam Elser Automotive Powertrain Technologies Tél. +41 58 765 47 74 Miriam.Elser@empa.ch</contact>
+      <attachment id="215131">
+        <title>Was sieht ein Auto? Laserscan der Empa-Teststrecke / Que voit une voiture ? Balayage laser de la piste d'essai de l'Empa. / What does a car see? Laser scan of the Empa test track</title>
+        <format>jpg</format>
+        <size-kb>1652</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66292.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="215132">
+        <title>Miriam Elser mit dem radar- und laserbestückten Lexus auf dem Empa-Campus. / Miriam Elser avec la Lexus équipée d'un radar et d'un laser sur le campus de l'Empa. / Miriam Elser with the radar- and laser-equipped Lexus.</title>
+        <format>jpg</format>
+        <size-kb>1400</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66293.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="215133">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/eq70-autonomes-fahren</uri>
+        <position>Context</position>
+      </link>
+      <link id="215134">
+        <title>Zusätzliche Informationen</title>
+        <uri>https://www.empa.ch/web/s504</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Vision test for autonomous cars</title>
+      <lead>Cars that autonomously navigate from A to B are expected to be a common sight in a few years from now. But road approval is still a long way off. One important aspect: How can we tell a self-driving car has become "blind" with age, i.e., its sensors would need to be replaced? An Empa team is looking for a solution.</lead>
+      <text link="no">The five meter-long Lexus RX-450h leads a rather contemplative life at Empa. It never takes long trips. Instead, the SUV dutifully makes its rounds on a special track just 180 meters long in a secluded backyard of the Empa campus. The scenery is not particularly spectacular: The Mobileye camera behind the windshield sees freshly painted lane markings on aging concrete; the Velodyne lidar scans the window front of always the same lab building at every turn, and the Delphi radar behind the Lexus' radiator grille routinely measures the distance to five tin trash cans set up to either side of the course.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;At the same time, in California ...&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Thousands of miles to the west, on the U.S. Pacific coast, things look a bit more dramatic. "Wow, I didn't think the car could do that," says Sam Altman. He's the head of OpenAI, an artificial intelligence company, in which Elon Musk and Microsoft have stakes. Altman watches a video with Kyle Vogt. Vogt is CTO and co-founder of Cruise LLC, which is now part of General Motors. The video is also available on Youtube and shows how a Cruise test vehicle drives through San Francisco for 75 minutes, mastering all inner-city driving situations with very little intervention from programmers. It overtakes waiting garbage trucks even when oncoming traffic is already in sight, and can turn left independently at small intersections even when pedestrians want to cross the lane at the same time.&lt;br /&gt;&lt;br /&gt;The Tesla fan community also published euphoric videos in late October 2020. Some beta testers of the Tesla software have received a pre-release version that allows the car to navigate autonomously through residential areas. A Youtuber named TeslaRaj underpins his enthusiastic video with violin music and shows how his car stops at red lights, strictly obeys speed limits and autonomously maneuvers around parked cars.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Trust is good, control is better&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;If the Californians have already come this far, what sense does it make to drive around in a backyard in Dübendorf? Miriam Elser explains why. She works in Empa's Automotive Powertrain Technologies lab and is leading the project with the Lexus.&lt;br /&gt;&lt;br /&gt;Empa is breaking new ground with this project: Previously, she and her colleagues had been working on powertrains, renewable fuels and exhaust gas purification, as well as vehicle operation. Now, for the first time, the Empa team is also looking at self-driving cars.&lt;br /&gt;&lt;br /&gt;"We are investigating how these sensors work in different environmental conditions, what data they collect and when they make mistakes or even fail," says the researcher. "Every human driver has to pass a vision test before getting a driver's license. Professional drivers must repeat this test on a regular basis. We want to develop a vision test for autonomous vehicles so they can be trusted even when they're several years old and have thousands of miles on the clock."&lt;br /&gt;&lt;br /&gt;The topic has not received a lot of attention so far: Among the more than 1,000 research papers published on autonomous driving in the past five years, only about 20 deal with the quality of sensor data.&lt;br /&gt;&lt;br /&gt;The processing of the data literally happens in a black box. The knowhow is worth a lot of money and is carefully kept by Google, Apple, Tesla, Cruise LLC and the other major manufacturers developing autonomous vehicles. They don't let anyone look into their cards.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The needle in the data haystack&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Sensor quality plays an important role in the eventual approval of autonomous cars for public transportation. The operational safety of such vehicles falls within the remit of the Swiss Federal Roads Office (FEDRO), which is providing financial support for the research at Empa. FEDRO wants to be able to assess the functionality of autonomous systems at regular intervals - and independently of the manufacturers. The authority's experts also want to make it possible to conduct a kind of "witness interview" if an autonomous car has been involved in an accident. The problem is that each second the sensors collect enormous amounts of data. Analyzing this flood of raw data would be unreasonable for accident investigation authorities. At some point in the future, therefore, the law will have to specify which data must be stored in the car and made accessible for investigations.&lt;br /&gt;&lt;br /&gt;Moreover, FEDRO is preparing the approval of field tests with self-driving vehicles on public roads. But how can we judge if and when it becomes dangerous? When do sensors fail, and when do they make serious mistakes so that the test would have to be aborted or modified? Even for monitoring such field trials, it is necessary to be able to quickly and accurately assess the vision and the "judgment" of autonomous cars.&lt;br /&gt;&lt;br /&gt;The project is part of a digitalization initiative of the Swiss Competence Center for Energy Research – Efficient Technologies and Systems for Mobility (SCCER Mobility), co-funded by Innosuisse, FEDRO and industry partners. While Empa is investigating commercially available sensors in practical use, the Swiss Federal Institute of Metrology (METAS) is analyzing the same sensors in a laboratory environment. The next generation of vehicle sensors is also already the subject of research. This part of the project is being undertaken by the Institute for Dynamic Systems and Control Engineering at ETH Zurich.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avoiding accidents&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;There is not much time left to develop the scientific basis for evaluating and assessing autonomous cars. The competition around self-driving cars is enormous, and the automotive industry could soon be equipping its vehicles for this purpose.&lt;br /&gt;&lt;br /&gt;Whether self-driving cars will in future be able to avoid accidents and traffic is the subject of ongoing research. An appropriate legal framework is crucial. But the trend toward vehicle software that increasingly supports driving is unstoppable.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;More Information also on: www.empa.ch/web/s504&lt;/i&gt;</text>
+      <contact>Dr. Miriam Elser Automotive Powertrain Technologies Phone +41 58 765 47 74 Miriam.Elser@empa.ch</contact>
+      <attachment id="215131">
+        <title>Was sieht ein Auto? Laserscan der Empa-Teststrecke / Que voit une voiture ? Balayage laser de la piste d'essai de l'Empa. / What does a car see? Laser scan of the Empa test track</title>
+        <format>jpg</format>
+        <size-kb>1652</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66292.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="215132">
+        <title>Miriam Elser mit dem radar- und laserbestückten Lexus auf dem Empa-Campus. / Miriam Elser avec la Lexus équipée d'un radar et d'un laser sur le campus de l'Empa. / Miriam Elser with the radar- and laser-equipped Lexus.</title>
+        <format>jpg</format>
+        <size-kb>1400</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66293.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="215133">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/eq70-autonomes-fahren</uri>
+        <position>Context</position>
+      </link>
+      <link id="215134">
+        <title>Zusätzliche Informationen</title>
+        <uri>https://www.empa.ch/web/s504</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

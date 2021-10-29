@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="18098" revoked="no">
+    <version>4</version>
+    <pubdate>2008-04-03</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="811" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Luchs im Kanton St.Gallen freigelassen</title>
+      <lead>Am Mittwoch wurde im Kanton St.Gallen im Rahmen des Luchsumsiedlungsprojektes Luno ein Luchsweibchen aus dem Solothurner Jura freigelassen.</lead>
+      <text link="no">Die Freilassung des Luchsweibchens Alma vom 2. April 2008&amp;nbsp;soll dazu beitragen, die seit 2001 angesiedelte Luchspopulation in der Nordostschweiz zu stützen, teilte der Kanton St.Gallen mit.</text>
+      <contact/>
+      <link id="38991">
+        <title>Medienmitteilung des Kantons St.Gallen vom 03.04.2008</title>
+        <uri>http://www.sg.ch/news/1/2008/04/luchs_im_kanton_st.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="38992">
+        <title>Umsiedlung von zwei Luchsen in die Nordostschweiz. Medienmitteilung des BAFU vom 26.02.2008</title>
+        <uri>http://www.bafu.admin.ch/dokumentation/medieninformation/00962/index.html?lang=de&amp;msg-id=17478</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2008-04-03 09:34" type="R"/>
+        <revision date="2008-04-03 09:28" type="R"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="50" org-id="811">
+        <name lang="de">Biodiversität</name>
+        <name lang="fr">Biodiversité</name>
+        <name lang="it">Biodiversità</name>
+        <name lang="en">Biodiversity</name>
+      </keyword>
+      <keyword id="1280" org-id="811">
+        <name lang="de">Tiere</name>
+        <name lang="fr">Faune</name>
+        <name lang="it">Fauna</name>
+        <name lang="en">Faune</name>
+      </keyword>
+      <keyword id="590" org-id="811">
+        <name lang="de">Jagd und Wildtiere</name>
+        <name lang="fr">Chasse et faune sauvage</name>
+        <name lang="it">Caccia e fauna selvatica</name>
+        <name lang="en">Game and Hunting</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

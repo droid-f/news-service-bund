@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="23944" revoked="no">
+    <version>1</version>
+    <pubdate>2008-12-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="1007" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Integrationsbüro EDA/EVD (IB) - ab 1.1.2013 im EDA</name>
+      <name lang="fr">Bureau de l'intégration DFAE/DFE (BI) - dès le 1.1.2013 au DFAE</name>
+      <name lang="it">Ufficio dell'integrazione DFAE/DFE (UI) - a partire dal 1.1.2013 nel DFAE</name>
+      <name lang="en">Integration Office FDFA/FDEA (IO) - as of 1.1.2013 in the FDFA</name>
+      <www lang="de">http://www.europa.admin.ch</www>
+      <www lang="fr">http://www.europa.admin.ch</www>
+      <www lang="it">http://www.europa.admin.ch</www>
+      <www lang="en">http://www.europa.admin.ch</www>
+      <email lang="de">europa@ib.admin.ch</email>
+      <email lang="fr">europa@ib.admin.ch</email>
+      <email lang="it">europa@ib.admin.ch</email>
+      <email lang="en">europa@ib.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Europapolitik der Schweiz: Treffen zwischen Bund und Kantonen</title>
+      <teaser>Die Vorsteherinnen des Departements für auswärtige Angelegenheiten, Micheline Calmy-Rey, des Volkswirtschaftsdepartements, Doris Leuthard, und des Justiz- und Polizeidepartements, Eveline Widmer-Schlumpf, haben heute Donnerstag, 11. Dezember 2008 in Bern eine Delegation der Konferenz der Kantonsregierungen (KdK) getroffen. Bund und Kantone waren sich einig, dass die Schweiz ihre seit Jahren mit der Europäischen Union verfolgte aktive Interessenpolitik fortsetzen soll. Erste Priorität liegt bei der Weiterführung und Ausdehnung der Personenfreizügigkeit, die am 8. Februar 2009 der Bevölkerung vorgelegt wird. In dieser Abstimmung entscheidet das Volk gleichzeitig über das gesamte Paket der Bilateralen I.</teaser>
+      <lead>Die Vorsteherinnen des Departements für auswärtige Angelegenheiten, Micheline Calmy-Rey, des Volkswirtschaftsdepartements, Doris Leuthard, und des Justiz- und Polizeidepartements, Eveline Widmer-Schlumpf, haben heute Donnerstag, 11. Dezember 2008 in Bern eine Delegation der Konferenz der Kantonsregierungen (KdK) getroffen. Bund und Kantone waren sich einig, dass die Schweiz ihre seit Jahren mit der Europäischen Union verfolgte aktive Interessenpolitik fortsetzen soll. Erste Priorität liegt bei der Weiterführung und Ausdehnung der Personenfreizügigkeit, die am 8. Februar 2009 der Bevölkerung vorgelegt wird. In dieser Abstimmung entscheidet das Volk gleichzeitig über das gesamte Paket der Bilateralen I.</lead>
+      <text link="no">&lt;p&gt;Im Sinne einer klaren und kohärenten Europapolitik ist es wichtig, dass Bund und Kantone dieselbe Strategie verfolgen und mit einer gemeinsamen Stimme sprechen. An dem Treffen haben die drei Bundesrätinnen die Leitlinien der Europapolitik der Schweiz bekräftigt. Für den Bundesrat und für die Kantone liegt die Priorität in der Konsolidierung aller bestehenden Abkommen, und insbesondere in der Bestätigung der Personenfreizügigkeit. Diese ist eine Voraussetzung für den Fortbestand des Pakets der Bilateralen Abkommen I.&lt;/p&gt; &lt;p&gt;Die Delegationen des Bundesrates und der KdK haben auch weitere aktuelle europapolitische Themen erörtert, wie die Kontroverse um die kantonalen Steuerregime sowie die institutionelle Frage der Anpassung der bilateralen Abkommen an allfällige Entwicklungen des EU-Rechts. Bund und Kantone sind sich einig, dass die kantonalen Steuerfragen nicht Gegenstand von Verhandlungen mit der EU sein können und dass ein Automatismus bei der Übernahme des Besitzstandes für einen souveränen Drittstaat nicht annehmbar ist.&lt;/p&gt;</text>
+      <contact>Adrian Sollberger, Integrationsbüro EDA/EVD, Tel. 031 322 26 40 Roland Mayer, Konferenz der Kantonsregierungen, Leiter Bereich Aussenpolitik, Tel. 031 320 30 12</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Politique européenne de la Suisse : Rencontre entre Confédération et cantons</title>
+      <teaser>Les cheffes des trois Départements fédéraux des affaires étrangères, Micheline Calmy-Rey, de l’économie, Doris Leuthard, et de justice et police, Eveline Widmer-Schlumpf ont rencontré une délégation de la Conférence des Gouvernements cantonaux (CdC) à Berne, ce jeudi 11 décembre 2008. Cantons et Confédération se sont entendus sur le fait que la Suisse doit poursuivre la politique d’intérêts active qu’elle mène depuis des années avec l’Union européenne. A l’heure actuelle, la priorité va à la reconduction et l’extension de la libre circulation des personnes, objet qui sera soumis en votation le 8 février prochain. S’il dit oui à cet accord, le peuple suisse consolide du même coup tout le paquet des Bilatérales I.</teaser>
+      <lead>Les cheffes des trois Départements fédéraux des affaires étrangères, Micheline Calmy-Rey, de l’économie, Doris Leuthard, et de justice et police, Eveline Widmer-Schlumpf ont rencontré une délégation de la Conférence des Gouvernements cantonaux (CdC) à Berne, ce jeudi 11 décembre 2008. Cantons et Confédération se sont entendus sur le fait que la Suisse doit poursuivre la politique d’intérêts active qu’elle mène depuis des années avec l’Union européenne. A l’heure actuelle, la priorité va à la reconduction et l’extension de la libre circulation des personnes, objet qui sera soumis en votation le 8 février prochain. S’il dit oui à cet accord, le peuple suisse consolide du même coup tout le paquet des Bilatérales I.</lead>
+      <text link="no">&lt;p&gt;Pour mener une politique européenne claire et cohérente, il est important que Confédération et cantons aient la même approche et parlent d'une seule voix. Lors de la rencontre, les trois conseillères fédérales ont réaffirmé les lignes directrices de la politique européenne suivie par la Suisse. Pour le Conseil fédéral et pour les Cantons, la priorité va, à l'heure actuelle, à la consolidation de tous les accords existants, à commencer par la libre circulation des personnes, condition pour maintenir le paquet des Accords bilatéraux I.&lt;/p&gt; &lt;p&gt;Les délégations du Conseil fédéral et de la CdC ont aussi abordé d'autres points de politique européenne, comme la controverse sur les régimes fiscaux ou la question institutionnelle de l'adaptation des accords bilatéraux aux développements de la législation de l'UE. Cantons et Confédération sont d'accords pour affirmer que les questions fiscales cantonales ne peuvent pas faire l'objet de négociation avec l'UE et qu'un automatisme dans la reprise de l'acquis n'est pas acceptable pour un État tiers souverain.&lt;/p&gt;</text>
+      <contact>Adrian Sollberger, Bureau de l’Intégration DFAE/DFE, tél. 031 322 26 40 Roland Mayer, Conférence des Gouvernements cantonaux, Chef du Service des affaires exterieures, tél. 031 320 30 12</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Politica europea della Svizzera: incontro tra Confederazione e Cantoni</title>
+      <teaser>Giovedì 11 dicembre i capi dei Dipartimenti federali degli Affari esteri, Micheline Calmy-Rey, dell’Economia, Doris Leuthard, e di Giustizia e polizia, Eveline Widmer Schlumpf, hanno incontrato a Berna una delegazione della Conferenza dei governi Cantonali (CdC). Confederazione e Cantoni sono stati unanimi nel ribadire che la Svizzera deve proseguire con la politica di interessi attiva, che già da anni ha istaurato con l'Unione europea. La priorità va accordata al proseguimento e all’estensione della libera circolazione delle persone, che sarà oggetto di votazione popolare l’8 febbraio 2009, quando i cittadini svizzeri saranno chiamati a esprimersi anche in merito all’intero pacchetto degli Accordi bilaterali I.</teaser>
+      <lead>Giovedì 11 dicembre i capi dei Dipartimenti federali degli Affari esteri, Micheline Calmy-Rey, dell’Economia, Doris Leuthard, e di Giustizia e polizia, Eveline Widmer Schlumpf, hanno incontrato a Berna una delegazione della Conferenza dei governi Cantonali (CdC). Confederazione e Cantoni sono stati unanimi nel ribadire che la Svizzera deve proseguire con la politica di interessi attiva, che già da anni ha istaurato con l'Unione europea. La priorità va accordata al proseguimento e all’estensione della libera circolazione delle persone, che sarà oggetto di votazione popolare l’8 febbraio 2009, quando i cittadini svizzeri saranno chiamati a esprimersi anche in merito all’intero pacchetto degli Accordi bilaterali I.</lead>
+      <text link="no">&lt;p&gt;Per una politica europea chiara e coerente, sono necessari unanimità e accordo tra la Confederazione e i Cantoni. In occasione dell'incontro, le tre consigliere federali hanno ribadito le linee guida della politica europea adottata dalla Svizzera: per il Consiglio federale e i Cantoni la priorità assoluta va accordata al consolidamento degli accordi esistenti, in particolare alla conferma della libera circolazione delle persone, condizione indispensabile per poter salvaguardare l'intero pacchetto degli Accordi bilaterali I.&lt;/p&gt; &lt;p&gt;Le delegazioni del Consiglio federale e della CdC hanno affrontato anche altri temi attuali di politica europea, come le controversie relative ai regimi fiscali cantonali e le questioni di natura istituzionale, relative all'adeguamento degli accordi bilaterali agli eventuali sviluppi dell'diritto comunitario europeo. Confederazione e Cantoni sono unanimi nell'affermare che le questioni relative alla fiscalità cantonale non possono essere oggetto di negoziato con l'UE e che l'adozione automatica dell'acquis non è accettabile per uno Stato terzo sovrano.&lt;/p&gt;</text>
+      <contact>Adrian Sollberger, Ufficio dell’integrazione DFAE/DFE, tel. 031 322 26 40 Roland Mayer, Conferenza dei Governi cantonali, capo del Servizio degli Affari esteri, tel. 031 320 30 12.</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="125" org-id="1007">
+        <name lang="de">Schweizerische Europapolitik</name>
+        <name lang="fr">Politique européenne de la Suisse</name>
+        <name lang="it">Politica europea della Svizzera</name>
+        <name lang="en">Swiss European Policy</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="1007001" org-id="1007">
+        <name lang="de">Abkommen</name>
+        <name lang="fr">Accords</name>
+        <name lang="it">Accordi</name>
+        <name lang="en">Agreements</name>
+      </keyword>
+      <keyword id="1007050" org-id="1007">
+        <name lang="de">Europäische Union</name>
+        <name lang="fr">Union européenne</name>
+        <name lang="it">Unione europea</name>
+        <name lang="en">European Union</name>
+      </keyword>
+      <keyword id="1007055" org-id="1007">
+        <name lang="de">Europapolitik</name>
+        <name lang="fr">Politique européenne</name>
+        <name lang="it">Politica europea</name>
+        <name lang="en">European Policy</name>
+      </keyword>
+      <keyword id="1007130" org-id="1007">
+        <name lang="de">Personenfreizügigkeit</name>
+        <name lang="fr">Libre circulation des personnes</name>
+        <name lang="it">Libera circolazione delle persone</name>
+        <name lang="en">Free movement of persons</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

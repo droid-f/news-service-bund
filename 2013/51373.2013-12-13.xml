@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="51373" revoked="no">
+    <version>1</version>
+    <pubdate>2013-12-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="403" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="en">Federal Office of Justice</name>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="en">http://www.bj.admin.ch</www>
+      <email lang="de">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="101" lead="no" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Volksinitiativen, Völkerrecht und Verfassung: Suche nach Auflösung des Spannungsfeldes</title>
+      <lead>Für die Frage, wie mit dem Spannungsfeld zwischen Volksinitiativen, Völkerrecht und Verfassung umzugehen ist, will der Bundesrat neue Lösungsansätze erarbeiten. Er hat das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, dies in Zusammenarbeit mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und der Bundeskanzlei (BK) zu tun. Die bisherigen Vorschläge haben in der Vernehmlassung keine Zustimmung gefunden. Sie werden deshalb nicht weiter verfolgt. </lead>
+      <text link="no">&lt;p&gt;In einem Bericht über das Verhältnis von Völkerrecht und Landesrecht hatte der Bundesrat 2010 auf die Probleme hingewiesen, die entstehen, wenn eidgenössische Volksinitiativen dem Völkerrecht widersprechen. Zwei Jahre später wurde er mit zwei Motionen vom Parlament beauftragt, eine konkrete Verfassungs- und Gesetzesvorlage zur Entschärfung der Problematik auszuarbeiten. In seiner Vernehmlassungsvorlage schlug der Bundesrat in der Folge zwei Massnahmen vor. Zum einen sollte der Inhalt einer Volksinitiative bereits vor der Unterschriftensammlung auf seine Vereinbarkeit mit dem Völkerrecht überprüft werden. Zum anderen sollte die Bundesversammlung eine Volksinitiative nicht nur dann für ungültig erklären, wenn sie die zwingenden Bestimmungen des Völkerrechts, sondern neu auch wenn sie die Kerngehalte der Grundrechte der Bundesverfassung verletzt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verzicht auf Botschaft&lt;br /&gt;&lt;/strong&gt;In der Vernehmlassung lehnte knapp die Hälfte der Teilnehmer beide vorgeschlagenen Massnahmen ab. Insbesondere die Parteien und Verbände stehen der Vorlage kritisch gegenüber. Nur wenige Teilnehmer unterstützten die Vorlage vorbehaltlos. Zweifel wurden insbesondere an der Wirksamkeit der Massnahmen und an der Vereinbarkeit mit der Wahl- und Abstimmungsfreiheit geäussert. Zahlreiche Vernehmlassungsteilnehmer unterbreiteten zwar Alternativvorschläge. Sie zeigten allerdings keine klare Richtung auf, wie die Vernehmlassungsvorlage zur Erhöhung der politischen Akzeptanz überarbeitet werden könnte. Der Bundesrat beschloss deshalb, die Vorlage nicht weiterzuverfolgen. Bis Ende Februar 2014 wird er dem Parlament einen Bericht zur Abschreibung der beiden Motionen unterbreiten.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Frage bleibt bedeutsam&lt;br /&gt;&lt;/strong&gt;Die Frage der Vereinbarkeit des Landesrechts (insbesondere von Volksinitiativen) mit dem Völkerrecht hat nach Ansicht des Bundesrates in jüngster Zeit wieder an Bedeutung gewonnen. Insbesondere die Ausschaffungsinitiative, die Masseneinwanderungsinitiative, die Ecopop-Initiative und die Durchsetzungsinitiative sowie verschiedene kantonale Initiativen werfen grundsätzliche Fragen des Verhältnisses zum Völkerrecht auf. &lt;/p&gt;&lt;p&gt;Er hat deshalb das EJPD beauftragt, zusammen mit dem EDA und der BK weitere Überlegungen zur besseren Vereinbarkeit von Landesrecht und Völkerrecht anzustellen. Die beiden Departemente und die BK werden dem Bundesrat ein Aussprachepapier mit politisch aussichtsreichen Lösungsmöglichkeiten unterbreiten. Zudem wird sich der Bundesrat zu parlamentarischen Vorstössen zu diesem Thema zu äussern haben. So hat er an seiner heutigen Sitzung beschlossen, dem Parlament die Annahme des Postulats 13.3805 (Klares Verhältnis zwischen Völkerrecht und Landesrecht) zu beantragen. &lt;/p&gt;</text>
+      <contact>Luzius Mader, Bundesamt für Justiz, T +41 31 322 41 02</contact>
+      <link id="117528">
+        <title>Die Dokumente zu dieser Medienmitteilung finden Sie auf der Website des EJPD</title>
+        <uri>http://www.ejpd.admin.ch/content/ejpd/de/home/dokumentation/mi/2013/2013-12-133.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Initiatives populaires, droit international et Constitution : vers de nouvelles solutions pour assurer une meilleure compatibilité</title>
+      <lead>Le Conseil fédéral veut explorer de nouvelles pistes pour éviter les problèmes de compatibilité qui peuvent se présenter entre des initiatives populaires, le droit international et la Constitution fédérale. Il a chargé le Département fédéral de justice et police de rechercher de nouvelles solutions en collaboration avec le Département fédéral des affaires étrangères et la Chancellerie fédérale. Les mesures élaborées précédemment n’ont pas rencontré d’écho favorable durant la consultation et ne seront dès lors pas poursuivies.</lead>
+      <text link="no">&lt;p&gt;En 2010, dans son rapport sur la relation entre droit international et droit interne, le Conseil fédéral avait soulevé la question des initiatives populaires contraires au droit international. Deux années plus tard, deux motions ont été déposées au Parlement chargeant le gouvernement d'élaborer des dispositions constitutionnelles et législatives afin de résoudre les problèmes qui en découlent. Dans le projet qu'il a envoyé en consultation, le Conseil fédéral proposait d'une part que l'on examine les initiatives populaires avant même la récolte des signatures, afin de déterminer si elles sont compatibles avec le droit international, et d'autre part que l'Assemblée fédérale déclare nulles non seulement celles qui violent les règles impératives du droit international, comme elle le fait aujourd'hui, mais aussi celles qui enfreignent l'essence des droits fondamentaux constitutionnels.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Le &lt;/b&gt;&lt;b&gt;Conseil fédéral&lt;/b&gt;&lt;b&gt; ne présentera pas de message&lt;br /&gt;&lt;/b&gt;Une petite moitié des participants à la consultation a rejeté l'une et l'autre mesure. Les partis politiques et les associations, en particulier, sont opposés au projet. Seuls quelques intervenants l'ont soutenu sans réserve. Des doutes ont été exprimés quant à l'efficacité des mesures et à leur compatibilité avec la liberté de vote. Certes, de nombreux participants à la consultation ont fait des propositions, mais il ne s'en dégage pas de ligne générale que le Conseil fédéral puisse adopter pour améliorer les chances de consensus politique autour du projet. Le gouvernement a donc décidé de ne pas poursuivre sur cette voie. Il soumettra au Parlement, pour la fin février 2014, un rapport sur le classement des deux motions à l'origine de ces travaux.&lt;/p&gt;&lt;p&gt;&lt;b&gt;La question n'a rien perdu de son acuité&lt;br /&gt;&lt;/b&gt;Selon le Conseil fédéral, la question de la compatibilité du droit interne (et surtout des initiatives populaires) avec le droit international n'a rien perdu de son acuité ces derniers temps, au contraire. Notamment, l'initiative sur le renvoi des criminels étrangers, l'initiative contre l'immigration de masse, l'initiative d'Ecopop ou l'initiative de mise en œuvre, ainsi que diverses initiatives cantonales, suscitent des interrogations quant à leur relation avec le droit international. &lt;/p&gt;&lt;p&gt;Le Conseil fédéral a donc chargé le Département fédéral de justice et police de mener, conjointement avec le Département fédéral des affaires étrangères et la Chancellerie fédérale, une nouvelle réflexion sur les moyens d'améliorer la compatibilité entre le droit interne et le droit international. Le gouvernement est également appelé à se prononcer sur des interventions parlementaires à ce sujet. Lors de sa séance de ce jour, il a proposé au Parlement d'accepter le postulat 13.3805 "Établir un rapport clair entre le droit international et le droit suisse".&lt;/p&gt;</text>
+      <contact>Luzius Mader, Office fédéral de la justice, T +41 31 322 41 02</contact>
+      <link id="117530">
+        <title>Vous trouverez les documents relatifs à ce communiqué de presse sur le site internet du DFJP</title>
+        <uri>http://www.ejpd.admin.ch/content/ejpd/fr/home/dokumentation/mi/2013/2013-12-133.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Nuove soluzioni per risolvere gli attriti tra iniziative popolari, diritto internazionale e Costituzione</title>
+      <lead>Il Consiglio federale intende cercare nuove soluzioni per risolvere gli attriti tra iniziative popolari, diritto internazionale e Costituzione federale. Ha incaricato il Dipartimento federale di giustizia e polizia (DFGP) di farlo in collaborazione con il Dipartimento federale degli affari esteri (DFAE) e la Cancelleria federale (CaF). Le proposte dell’avamprogetto posto in consultazione non hanno trovato il consenso dei partecipanti e pertanto non saranno portate avanti.</lead>
+      <text link="no">&lt;p&gt;Nel 2010, in un rapporto sulla relazione tra diritto internazionale e diritto nazionale, il Consiglio federale aveva illustrato i problemi che crea un'iniziativa popolare contraria al diritto internazionale. Due anni dopo due mozioni del Parlamento lo hanno incaricato di elaborare un progetto costituzionale e legislativo concreto per attenuare tali problemi. Nell'avamprogetto posto in consultazione il Consiglio federale ha proposto due misure: un esame della compatibilità di un'iniziativa popolare con il diritto internazionale prima della raccolta delle firme e la dichiarazione di nullità da parte dell'Assemblea federale non soltanto se l'iniziativa popolare viola le disposizioni cogenti del diritto internazionale, ma anche se è contraria all'essenza dei diritti fondamentali della Costituzione federale.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rinuncia al messaggio&lt;br /&gt;&lt;/strong&gt;In sede di consultazione, quasi la metà dei partecipanti ha respinto entrambe le misure. L'avamprogetto è stato criticato soprattutto dai partiti e dalle associazioni e solo pochi partecipanti sostengono il progetto senza riserve. Gli interpellati hanno espresso dubbi soprattutto in merito all'efficacia delle misure e alla loro compatibilità con la libertà di voto. Numerosi partecipanti hanno presentato proposte alternative, che tuttavia non mostrano un orientamento univoco su come modificare l'avamprogetto affinché ottenga un maggiore consenso politico. Il Consiglio federale ha pertanto deciso di non portare avanti il progetto Entro fine febbraio 2014 sottoporrà al Parlamento un rapporto sullo stralcio delle due mozioni.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Questione resta importante&lt;br /&gt;&lt;/strong&gt;Secondo il Consiglio federale, recentemente la questione della compatibilità del diritto nazionale (in particolare delle iniziative popolari) con il diritto internazionale ha acquistato maggiore importanza. Soprattutto l'iniziativa espulsione, l'iniziativa sull'immigrazione di massa, l'iniziativa Ecopop e l'iniziativa sull'attuazione, come pure diverse iniziative cantonali sollevano questioni di principio in merito al rapporto con il diritto internazionale. &lt;/p&gt;&lt;p&gt;Il Consiglio federale ha pertanto incaricato il DFGP di analizzare, insieme al DFAE e alla CaF, le possibilità di migliorare la compatibilità tra diritto nazionale e diritto internazionale. I due dipartimenti e la CaF sottoporranno all'Esecutivo un documento interlocutorio con soluzioni capaci di ottenere il consenso politico. Inoltre, il Consiglio federale dovrà esprimersi sugli interventi parlamentari che trattano questo argomento. Nella sua riunione odierna ha deciso di proporre al Parlamento di accogliere il postulato 13.3805 (Rapporto chiaro tra diritto internazionale e nazionale).&lt;/p&gt;</text>
+      <contact>Luzius Mader, Ufficio federale di giustizia, T +41 31 322 41 02</contact>
+      <link id="117531">
+        <title>I documenti relativi al presente comunicato stampa sono reperibili sul sito del DFGP</title>
+        <uri>http://www.ejpd.admin.ch/content/ejpd/it/home/dokumentation/mi/2013/2013-12-133.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="59" org-id="403">
+        <name lang="de">Internationales Recht</name>
+        <name lang="fr">Droit international</name>
+        <name lang="it">Diritto internazionale</name>
+        <name lang="en">International law</name>
+      </keyword>
+      <keyword id="119" org-id="403">
+        <name lang="de">Volksrechte</name>
+        <name lang="fr">Droits populaires</name>
+        <name lang="it">Diritti popolari</name>
+        <name lang="en">Civic rights</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="23">
+        <name lang="de">Politische Rechte</name>
+        <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="en">Political Rights</name>
+      </topic>
+      <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="en">Legal Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

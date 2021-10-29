@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="34848" revoked="no">
+    <version>1</version>
+    <pubdate>2010-08-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="319" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>BVG-Kommission empfiehlt dem Bundesrat Beibehaltung des geltenden Mindestzinssatzes</title>
+      <lead>Die Eidgenössische Kommission für berufliche Vorsorge (BVG-Kommission) empfiehlt dem Bundesrat mit grosser Mehrheit, den Mindestzinssatz für das nächste Jahr unverändert bei 2% zu belassen.</lead>
+      <text link="no">&lt;p&gt;Ausgangspunkt der Diskussion sind verschiedene mathematische Formeln, welche als Indikation für die Festlegung des Mindestzinssatzes dienen. Dabei wird die Rendite marktgängiger Anlagen, insbesondere der Bundesobligationen, sowie zusätzlich der Aktien, Anleihen und Liegenschaften berücksichtigt.&lt;/p&gt; &lt;p&gt;Die Mitglieder der Eidgenössischen Kommission für die berufliche Vorsorge sprachen sich für die Beibehaltung des geltenden Mindestzinssatzes aus. Im Herbst wird der Bundesrat über eine allfällige Änderung des Mindestzinssatzes entscheiden.&lt;/p&gt;</text>
+      <contact>079 250 70 00, Claude Frey, alt Nationalrat, Präsident der Eidg. BVG-Kommission</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Commission LPP recommande au Conseil fédéral de maintenir le taux d’intérêt minimal au niveau actuel</title>
+      <lead>La Commission fédérale de la prévoyance professionnelle (Commission LPP) recommande au Conseil fédéral à une large majorité de fixer le taux d’intérêt minimal pour l’année prochaine à 2 %, soit de maintenir le taux actuellement en vigueur.</lead>
+      <text link="no">&lt;p&gt;Les membres de la Commission se sont basés sur diverses formules mathématiques dans le cadre de leur discussion. Ces formules sont des indicateurs pour la fixation du taux d’intérêt minimal qui doit être déterminé en fonction de l’évolution du rendement des placements usuels du marché, en particulier des obligations de la Confédération, mais aussi des actions, des autres obligations et de l’immobilier.&lt;/p&gt; &lt;p&gt;Les membres de la commission fédérale de la prévoyance professionnelle se sont prononcés en faveur du maintien du taux en vigueur. Le Conseil décidera dans le courant de l’automne si le taux d’intérêt minimal doit être ou non modifié.&lt;/p&gt;</text>
+      <contact>079 250 70 00, Claude Frey, ancien conseiller national, Président de la Commission fédérale LPP</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="34" org-id="319">
+        <name lang="de">Berufliche Vorsorge</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+        <name lang="it">Previdenza professionale</name>
+        <name lang="en">Occupational Benefit Plan</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="318.4" org-id="319">
+        <name lang="de">Berufliche Vorsorge</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+        <name lang="it">Previdenza professionale</name>
+        <name lang="en">Occupational Benefit Plan</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

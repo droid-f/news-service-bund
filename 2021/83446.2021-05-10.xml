@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83446" revoked="no">
+    <version>2</version>
+    <pubdate>2021-05-10</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="601" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Erstes Bug Bounty-Programm in der Bundesverwaltung</title>
+      <lead>Die Bundesverwaltung und Bug Bounty Switzerland GmbH starten am 10. Mai 2021 ein gemeinsames Pilotprojekt. Unter der Leitung des Nationalen Zentrums für Cybersicherheit (NCSC) sollen mit dem auf zwei Wochen angelegten Test erste Erfahrungen mit Bug Bounty-Programmen gesammelt und der künftige Einsatz hinsichtlich der Sicherheit von Infrastrukturen bei Verwaltungen und Unternehmen geprüft werden.</lead>
+      <text link="no">&lt;p&gt;Die Bundesverwaltung will die Möglichkeiten von Bug Bounty-Programmen nutzen und dabei abklären, inwiefern diese einen strategischen Beitrag zur Sicherheit von Infrastrukturen bei Verwaltungen und Unternehmen leisten können.&lt;/p&gt;&lt;h2&gt;Pilotprojekt gestartet &lt;/h2&gt;&lt;p&gt;Dazu führt das Nationale Zentrum für Cybersicherheit (NCSC) gemeinsam mit Bug Bounty Switzerland GmbH (BBS) erstmals ein entsprechendes Pilotprojekt in der Bundesverwaltung durch. Der Test beginnt am 10. Mai 2021 und dauert zwei Wochen. Im Rahmen von Bug Bounty-Programmen werden «ethische Hacker» – Hacker, welche in einem definierten Rahmen legal nach Schwachstellen suchen – dazu aufgerufen, Schwachstellen in den IT-Systemen einer Organisation aufzuspüren. Für jede gefundene und bestätigte Schwachstelle (Bug) erhält der erfolgreiche Hacker eine Belohnung (Bounty), abgestuft nach Schweregrad der gefundenen Schwachstelle.&lt;/p&gt;&lt;h2&gt;Klar eingegrenzter Projektumfang&lt;/h2&gt;&lt;p&gt;Das Pilotprojekt des Bundes ist in seinem Umfang klar eingegrenzt. Als Ziele wurden zwei IT-Systeme des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) sowie eines der Parlamentsdienste ausgewählt. Zudem ist der Kreis der Bug Bounty-Jäger in diesem ersten Test auf ethische Hacker eingeschränkt, welche BBS oder dem NSCS bekannt sind und sich bereits in anderen Projekten bewährt haben. Da die Bundesverwaltung – wie auch andere regulierte Branchen – strenge Anforderungen an den Datenschutz stellen und einen Datenstandort in der Schweiz fordern, hat BBS in den letzten Monaten mit technischer Hilfe von Microsoft Schweiz eine eigene Bug Bounty-Plattform entwickelt, die vollständig in der Schweiz betrieben wird. Diese Plattform basiert auf modernsten Cloud-Technologien und erfüllt die Bedürfnisse von Bund und anderen regulierten Branchen wie beispielsweise von kritischen Infrastrukturen.&lt;/p&gt;&lt;p&gt;Die Durchführung des Bug Bounty-Programms obliegt BBS, wird aber durch das NCSC sowie Vertreter des EDA und der Parlamentsdienste eng begleitet. Mit dem Test soll die Grundlage für eine Diskussion zum weiteren Vorgehen zur Nutzung von Bug Bounty-Programmen geschaffen werden.&lt;/p&gt;&lt;h2&gt;Bug Bounty Switzerland gewährt Einblick&lt;/h2&gt;&lt;p&gt;In Absprache mit den beteiligten Bundesstellen gewährt BBS interessierten Journalistinnen und Journalisten am Donnerstag, 20. Mai 2021, vor Ort in Bern Einblick in das Pilotprojekt. Interessierte wenden sich hierzu an: Bug Bounty Switzerland GmbH , hello@bugbounty.ch oder +41 79 701 43 41.&lt;/p&gt;</text>
+      <contact>Kommunikation NCSC Nationales Zentrum für Cybersicherheit NCSC Tel. 058 463 45 07, ncsc-media@gs-efd.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Premier programme de primes aux bogues au sein de l'administration fédérale</title>
+      <lead>L'administration fédérale et la société Bug Bounty Switzerland GmbH (BBS) lancent un projet pilote commun le 10 mai 2021. Mené sous la houlette du Centre national pour la cybersécurité (NCSC), ce projet vise à acquérir, sous la forme d'un test de deux semaines, une première expérience en matière de programmes de primes aux bogues (Bug Bounty, aussi appelés chasse aux bogues) qui permettra d'analyser les possibilités que leur future utilisation pourrait offrir pour assurer la sécurité des infrastructures des administrations et des entreprises.</lead>
+      <text link="no">&lt;p&gt;L'administration fédérale entend exploiter les possibilités offertes par les programmes de chasse aux bogues et préciser dans quelle mesure ceux-ci peuvent apporter une contribution stratégique à la sécurité des infrastructures des administrations et des entreprises.&lt;/p&gt;&lt;h2&gt;Lancement d'un projet pilote &lt;/h2&gt;&lt;p&gt;Dans ce but, le NCSC, en collaboration avec la société BBS, mène pour la première fois un tel projet pilote au sein de l'administration fédérale. Le test commencera le 10 mai 2021 et durera deux semaines. Les programmes de chasse aux bogues font appel au «piratage éthique», donc à des pirates informatiques qui recherchent des failles dans un cadre déterminé, pour détecter les lacunes de sécurité présentes dans les systèmes informatiques d'une organisation. Pour chaque bogue confirmé qu'il a découvert, le pirate reçoit une prime (bounty), dont le montant est fixé en fonction de la gravité de la faille découverte. &lt;/p&gt;&lt;h2&gt;Projet à portée clairement définie&lt;/h2&gt;&lt;p&gt;La portée du projet pilote de la Confédération est clairement délimitée. Deux systèmes informatiques du Département fédéral des affaires étrangères (DFAE) et un système utilisé par les Services du Parlement ont été choisis comme cibles. Par ailleurs, seuls les pirates éthiques ayant fait leurs preuves dans d'autres projets et connus de BBS ou du NCSC pourront participer à ce premier test. L'administration fédérale, tout comme d'autres secteurs réglementés, ayant des exigences strictes en matière de protection des données et demandant une localisation des données en Suisse, BBS a développé au cours des derniers mois, avec l'assistance technique de Microsoft Suisse, sa propre plateforme de primes aux bogues entièrement exploitée en Suisse. Cette plateforme est basée sur les dernières technologies en nuage et répond aux besoins de la Confédération et des autres secteurs réglementés tels que les infrastructures critiques.&lt;/p&gt;&lt;p&gt;La mise en œuvre du programme de primes aux bogues relève de la responsabilité de BBS, mais est étroitement suivie par le NCSC et par des représentants du DFAE et des services du Parlement. Le test vise à fonder sur de solides bases le débat sur l'utilisation future de tels programmes. &lt;/p&gt;&lt;h2&gt;BBS informe&lt;/h2&gt;&lt;p&gt;En concertation avec les offices fédéraux concernés, BBS donnera aux journalistes intéressés un aperçu du projet pilote à Berne le jeudi 20 mai 2021. Les journalistes intéressés sont priés de s'adresser à Bug Bounty Switzerland GmbH, soit à l'adresse hello@bugbounty.ch, soit au numéro +41 79 701 43 41.&lt;/p&gt;</text>
+      <contact>Communication du Centre national pour la cybersécurité NCSC no tél. 058 463 45 07, ncsc-media@gs-efd.admin.ch</contact>
+      <revisions>
+        <revision date="2021-05-10 10:26" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Primo programma bug bounty nell’Amministrazione federale</title>
+      <lead>Il 10 maggio 2021 l’Amministrazione federale e la società Bug Bounty Switzerland Sagl lanciano un progetto pilota congiunto. Nelle prossime due settimane verrà svolto un test sotto la guida del Centro nazionale per la cibersicurezza (NCSC) allo scopo di acquisire una prima esperienza con i programmi bug bounty e valutare il futuro utilizzo delle infrastrutture di amministrazioni pubbliche e imprese sotto il profilo della sicurezza.</lead>
+      <text link="no">&lt;p&gt;L’Amministrazione federale intende sfruttare le possibilità offerte dai programmi bug bounty e capire come essi possano fornire un contributo decisivo alla sicurezza delle infrastrutture di amministrazioni pubbliche e imprese.&lt;/p&gt;&lt;h2&gt;Avvio del progetto pilota&lt;/h2&gt;&lt;p&gt;Per questo motivo l’NSCS e la società Bug Bounty Switzerland Sagl (BBS) avviano un progetto pilota congiunto, il primo in questo ambito nell’Amministrazione federale. Il test inizia il 10 maggio 2021 e durerà due settimane. Nei programmi bug bounty, i cosiddetti «hacker etici» – che operano in un quadro definito e nel rispetto della legge – sono incaricati di individuare eventuali vulnerabilità nei sistemi informatici di un’organizzazione. Per ciascuna vulnerabilità trovata e convalidata («bug») vengono ricompensati («bounty») in base alla gravità della vulnerabilità trovata.&lt;/p&gt;&lt;h2&gt;Progetto chiaramente delimitato&lt;/h2&gt;&lt;p&gt;Il progetto pilota della Confederazione è stato chiaramente delimitato definendo alcuni capisaldi. In primo luogo, il test verrà svolto su due sistemi del Dipartimento federale degli affari esteri (DFAE) e un sistema dei Servizi del Parlamento. In secondo luogo, per questo primo test il gruppo di hacker etici è stato circoscritto a professionisti noti all’NCSC o alla BBS che si sono già distinti in altri progetti. Poiché l’Amministrazione federale, come altri settori regolamentati, deve soddisfare requisiti severi in termini di protezione dei dati ed esige che i dati siano conservati su server in Svizzera, negli ultimi mesi BBS ha sviluppato, con il supporto tecnico di Microsoft Svizzera, una propria piattaforma di bug bounty completamente gestita sul territorio svizzero. La piattaforma si basa sulle più avanzate tecnologie cloud e soddisfa i requisiti della Confederazione e di altri settori regolamentati, come quello delle infrastrutture critiche.&lt;/p&gt;&lt;p&gt;L’attuazione del programma bug bounty è affidata a BBS e sarà seguita costantemente dall’NCSC nonché da rappresentanti del DFAE e dei Servizi del Parlamento. Il test servirà a gettare le basi per una discussione su come procedere nell’utilizzo dei programmi bug bounty.&lt;/p&gt;&lt;h2&gt;BBS informa sul progetto pilota&lt;/h2&gt;&lt;p&gt;D’intesa con i servizi della Confederazione coinvolti, giovedì 20 maggio a Berna BBS fornirà informazioni sul progetto pilota ai giornalisti interessati. Per maggiori dettagli rivolgersi a Bug Bounty Switzerland Sagl, hello@bugbounty.ch, +41 79 701 43 41.&lt;/p&gt;</text>
+      <contact>Comunicazione NCSC Centro nazionale per la cibersicurezza NCSC Tel. 058 463 45 07, ncsc-media@gs-efd.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>First bug bounty programme in the Federal Administration</title>
+      <lead>On 10 May 2021, the Federal Administration and Bug Bounty Switzerland GmbH will launch a joint pilot project. The aim of the two-week test, which will be overseen by the National Cybersecurity Centre (NCSC), is to gather initial experience with bug bounty programmes and assess their future use in relation to the security of infrastructures in administrations and companies.</lead>
+      <text link="no">&lt;p&gt;The Federal Administration wants to use the possibilities offered by bug bounty programmes while investigating the extent to which they can deliver a strategic contribution to the security of infrastructures in administrations and companies.&lt;/p&gt;&lt;h2&gt;Pilot project launched&lt;/h2&gt;&lt;p&gt;Accordingly, the National Cybersecurity Centre (NCSC) is carrying out its first joint project in the Federal Administration with Bug Bounty Switzerland GmbH (BBS). The test begins on 10 May 2021 and will run for two weeks. Under the bug bounty programme, "ethical hackers" – hackers who, legally and within clearly defined boundaries, search for vulnerabilities – are invited by an organisation to seek out the weak points (bugs) in its IT systems. For every confirmed bug they find, the successful hacker receives a reward (bounty), graded according to the severity of the bug.&lt;/p&gt;&lt;h2&gt;Clearly defined project parameters&lt;/h2&gt;&lt;p&gt;The federal pilot project has clearly defined parameters. Two IT systems in the Federal Department of Foreign Affairs (FDFA) and one in Parliamentary Services have been chosen as targets. Moreover, in this first test the circle of bug bounty hunters has been limited to ethical hackers who are known to BBS or the NCSC and have already proved their worth in other projects. Since the Federal Administration – like other regulated industries – has strict requirements on data protection and requires a data location in Switzerland, over the past few months BBS, with the technical assistance of Microsoft Switzerland, has developed a bug bounty platform that is run entirely within Switzerland. This platform is based on state-of-the-art cloud technology and meets the requirements of the Confederation and other regulated industries such as critical infrastructures.&lt;/p&gt;&lt;p&gt;The bug bounty programme will be run by BBS, although it will be closely monitored by the NCSC and representatives from the FDFA and Parliamentary Services. The test should provide a basis for discussing the future use of bug bounty programmes.&lt;/p&gt;&lt;h2&gt;Presentation by Bug Bounty Switzerland&lt;/h2&gt;&lt;p&gt;In consultation with the participating federal offices, BBS will present the project to interested journalists on Thursday, 20 May 2021, in Bern. Those interested should contact: Bug Bounty Switzerland GmbH at hello@bugbounty.ch or +41 79 701 43 41.&lt;/p&gt;</text>
+      <contact>NCSC Communications National Cybersecurity Centre NCSC Tel. 058 463 45 07, ncsc-media@gs-efd.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="345" org-id="601">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+      <offer id="350" org-id="601">
+        <name lang="de">NCSC - Nationales Zentrum für Cybersicherheit</name>
+        <name lang="fr">NCSC - Centre national pour la cybersécurité</name>
+        <name lang="it">NCSC - Centro nazionale per la cibersicurezza</name>
+        <name lang="en">NCSC - National Cyber Security Centre</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="176" org-id="601">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-government</name>
+        <name lang="en">e-government</name>
+      </keyword>
+      <keyword id="175" org-id="601">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+      <keyword id="298" org-id="601">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

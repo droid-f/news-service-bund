@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="84304" revoked="no">
+    <version>1</version>
+    <pubdate>2021-07-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="601" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Erfolgreiches Bug Bounty-Pilotprojekt in der Bundesverwaltung</title>
+      <lead>Vom 10. bis 21. Mai 2021 hat das Nationale Zentrum für Cybersicherheit (NCSC) in Zusammenarbeit mit der Bug Bounty Switzerland GmbH, dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und den Parlamentsdiensten (PD) ein Bug Bounty-Pilotprojekt durchgeführt. Das Projekt verlief sehr erfolgreich und die gewonnenen Erkenntnisse sollen in die Durchführung weiterer Bug Bounty-Programme in der Bundesverwaltung einfliessen.</lead>
+      <text link="no">&lt;p&gt;Bug Bounty-Programme dienen dazu, in Zusammenarbeit mit ethischen Hackern allfällige Verwundbarkeiten in IT-Systemen und in Anwendungen zu identifizieren, zu dokumentieren und zu beheben. Insgesamt nahmen 15 durch den Bund beauftragte ethische Hacker an diesem Pilotprojekt teil.&lt;/p&gt;&lt;h2&gt;Zehn Sicherheitslücken entdeckt&lt;/h2&gt;&lt;p&gt;Für die Durchführung des Pilotprojekts wurden insgesamt sechs IT-Systeme des EDA und der Parlamentsdienste von ethischen Hackern auf allfällige Sicherheitslücken durchsucht. Gesamthaft wurden dem NCSC zehn Sicherheitslücken gemeldet. Davon stellte sich eine Lücke als «critical» heraus, sieben Schwachstellen wurden als «medium» und zwei als «low» klassifiziert. Sämtliche Lücken wurden durch die zuständigen Leistungserbringer unverzüglich geschlossen. Die erfolgreiche Schliessung der Lücken konnte im Anschluss durch die ethischen Hacker verifiziert und bestätigt werden.&lt;/p&gt;&lt;h2&gt;Positives Fazit&lt;/h2&gt;&lt;p&gt;Das Pilotprojekt hat gezeigt, dass mittels Bug Bounty-Programmen Schwachstellen in IT-Systemen und Anwendungen effizient identifiziert und behoben werden können. Der «Return on Investment» wurde als hoch identifiziert. Ein Bug Bounty-Programm für die Bundesverwaltung, betrieben durch das NCSC, leistet einen wichtigen Beitrag zur Reduktion des Cyberrisikos des Bundes.&lt;/p&gt;&lt;p&gt;Durch die gewonnenen Erfahrungen mit dem Piloten und den Erkenntnissen aller Beteiligten sieht das NCSC vor, das Bug Bounty-Programm kontinuierlich auf möglichst viele Systeme der Bundesverwaltung auszuweiten.&lt;/p&gt;&lt;p&gt;Der Beschaffungsprozess soll deshalb möglichst rasch gestartet werden. Mittlerweile bieten neben der Bug Bounty Switzerland GmbH auch weitere Unternehmen in der Schweiz Bug Bounty-Programme an. Um bei der Beschaffung die Neutralität zu gewährleisten, zieht sich Florian Schütz, der Delegierte des Bundes für Cybersicherheit, deshalb aus dem Advisory Board von Bug Bounty Switzerland zurück.&lt;/p&gt;</text>
+      <contact>Kommunikation NCSC ncsc-media@gs-efd.admin.ch Tel. 058 46 50 464</contact>
+      <attachment id="218538">
+        <title>Pilotprojekt «Bug Bounty-Programm der Bundesverwaltung» - Abschlussbericht</title>
+        <format>pdf</format>
+        <size-kb>207</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67503.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Projet pilote de primes aux bogues mené avec succès au sein de l'administration fédérale</title>
+      <lead>Du 10 au 21 mai 2021, le Centre national pour la cybersécurité (NCSC) a mené un projet pilote de primes aux bogues, en collaboration avec la société Bug Bounty Switzerland, le Département fédéral des affaires étrangères (DFAE) et les Services du Parlement. Ce projet a donné de très bons résultats, et les enseignements qu'il a livrés permettront d'éclairer la réalisation de futurs programmes du même genre au sein de l'administration fédérale.</lead>
+      <text link="no">&lt;p&gt;Les programmes de primes aux bogues visent à repérer, à consigner et à corriger les éventuelles vulnérabilités de systèmes et applications informatiques avec l'aide de pirates éthiques. En tout, quinze pirates ont participé au projet, sur mandat de la Confédération.&lt;/p&gt;&lt;h2&gt;Dix failles de sécurité découvertes&lt;/h2&gt;&lt;p&gt;Dans le cadre du projet, les pirates éthiques ont exploré six systèmes informatiques du DFAE et des Services du Parlement à la recherche d'éventuelles failles de sécurité. Dix failles ont été signalées au NCSC: une était de gravité «critique», sept de gravité «modérée» et deux de «faible» gravité. Elles ont immédiatement été comblées par les fournisseurs de prestations concernés. Les pirates ont ensuite procédé à des vérifications pour confirmer que l'opération avait bien fonctionné.&lt;/p&gt;&lt;h2&gt;Bilan positif&lt;/h2&gt;&lt;p&gt;Comme l'a montré le projet, les programmes de primes aux bogues sont efficaces pour détecter et corriger les failles présentes dans les systèmes et applications informatiques. Le retour sur investissement a été estimé comme étant élevé. Le programme de primes aux bogues que le NCSC met en œuvre au sein de l'administration fédérale contribue grandement à réduire les cyberrisques auxquels la Confédération est exposée.&lt;/p&gt;&lt;p&gt;Compte tenu des enseignements et données d'expérience qu'il a retirés du projet, le NCSC compte étendre continuellement et aussi largement que possible le programme de primes à d'autres systèmes informatiques de l'administration fédérale.&lt;/p&gt;&lt;p&gt;C'est pourquoi il faut que la procédure de passation de marché démarre au plus tôt. Outre Bug Bounty Switzerland, d'autres entreprises proposent des programmes de primes aux bogues en Suisse. Afin que la neutralité de la procédure soit garantie, Florian Schütz, délégué fédéral à la cybersécurité, entend se retirer du conseil consultatif de Bug Bounty Switzerland.&lt;/p&gt;</text>
+      <contact>Communication NCSC ncsc-media@gs-efd.admin.ch no tél. 058 46 50 464</contact>
+      <attachment id="218539">
+        <title>Programme de primes aux bogues au sein de l’administration fédérale – projet pilote - Rapport final</title>
+        <format>pdf</format>
+        <size-kb>245</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67504.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il progetto pilota bug bounty nell’Amministrazione federale si è concluso con successo</title>
+      <lead>Dal 10 al 21 maggio 2021 il Centro nazionale per la cibersicurezza (NCSC) ha realizzato il progetto pilota bug bounty in collaborazione con la società Bug Bounty Switzerland Sagl (BBS), il Dipartimento federale degli affari esteri (DFAE) e i Servizi del Parlamento. Il progetto ha portato ottimi risultati e le conoscenze acquisite serviranno a eseguire ulteriori programmi di questo genere nell’Amministrazione federale.</lead>
+      <text link="no">&lt;p&gt;Lo scopo dei programmi bug bounty è collaborare con hacker etici per individuare, documentare ed eliminare eventuali vulnerabilità nei sistemi informatici e nelle applicazioni. Al progetto pilota hanno partecipato in totale 15 hacker etici incaricati dalla Confederazione.&lt;/p&gt;&lt;h2&gt;Scoperte dieci falle di sicurezza&lt;/h2&gt;&lt;p&gt;Per l’esecuzione del progetto pilota gli hacker etici hanno cercato falle di sicurezza in sei sistemi del DFAE e dei Servizi del Parlamento. Nel complesso sono state segnalate all’NCSC dieci falle di sicurezza, di cui una classificata di livello «critico», sette di livello «medio» e due di livello «basso». Tutte le vulnerabilità sono state immediatamente eliminate dai fornitori di prestazioni responsabili. Gli hacker etici hanno successivamente verificato e confermato la corretta rimozione delle vulnerabilità.&lt;/p&gt;&lt;h2&gt;Bilancio positivo&lt;/h2&gt;&lt;p&gt;Il progetto pilota ha mostrato che i programmi bug bounty permettono di individuare ed eliminare in modo efficiente le vulnerabilità nei sistemi informatici e nelle applicazioni. Secondo le valutazioni effettuate il ritorno sull’investimento («return on invest») è da considerarsi elevato. L’esecuzione di un programma bug bounty per l’Amministrazione federale da parte dell’NCSC contribuisce in modo significativo alla riduzione dei ciber-rischi della Confederazione.&lt;/p&gt;&lt;p&gt;Sulla base delle esperienze e delle conoscenze acquisite con il progetto pilota, l’NCSC prevede di eseguire programmi bug bounty in maniera continuativa e sul maggior numero possibile di sistemi dell’Amministrazione federale. &lt;/p&gt;&lt;p&gt;Pertanto occorre avviare al più presto il processo di appalto. Oltre a BBS, ora anche altre aziende in Svizzera offrono programmi bug bounty. Per garantire la dovuta neutralità nel processo di appalto, Florian Schütz, delegato federale alla cibersicurezza, esce dal comitato consultivo di BBS.&lt;/p&gt;</text>
+      <contact>Communicazione NCSC ncsc-media@gs-efd.admin.ch Tel. 058 46 50 464</contact>
+      <attachment id="218540">
+        <title>Progetto pilota «Programma bug bounty dell’Amministrazione federale» - Rapporto finale</title>
+        <format>pdf</format>
+        <size-kb>203</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Successful bug bounty pilot project in Federal Administration</title>
+      <lead>From 10 to 21 May 2021, the National Cybersecurity Centre (NCSC) conducted a bug bounty pilot project in collaboration with Bug Bounty Switzerland GmbH, the Federal Department of Foreign Affairs (FDFA) and Parliamentary Services (PS). The project was very successful and the lessons learned are to be incorporated into the implementation of further bug bounty programmes in the Federal Administration.</lead>
+      <text link="no">&lt;p&gt;The purpose of bug bounty programmes is to identify, document and remedy any vulnerabilities in IT systems and applications in cooperation with ethical hackers. A total of 15 ethical hackers commissioned by the Confederation took part in this pilot project.&lt;/p&gt;&lt;h2&gt;Ten security vulnerabilities discovered&lt;/h2&gt;&lt;p&gt;For the pilot project, ethical hackers scanned a total of six IT systems of the FDFA and Parliamentary Services for any security vulnerabilities. Overall, ten security vulnerabilities were reported to the NCSC. One of these turned out to be critical, seven were classified as medium and two as low. All of the vulnerabilities were immediately eliminated by the competent providers. The ethical hackers then verified and confirmed the successful elimination of the vulnerabilities.&lt;/p&gt;&lt;h2&gt;Positive conclusion&lt;/h2&gt;&lt;p&gt;The pilot project demonstrated that vulnerabilities in IT systems and applications can be efficiently identified and remedied by means of bug bounty programmes. The return on investment was found to be high. A bug bounty programme for the Federal Administration, operated by the NCSC, makes an important contribution to reducing the Confederation's cyber-risk exposure.&lt;/p&gt;&lt;p&gt;Based on the experience gained with the pilot project and the lessons learned by all those involved, the NCSC intends to continuously expand the bug bounty programme to as many Federal Administration systems as possible.&lt;/p&gt;&lt;p&gt;Consequently, the procurement process is to be launched as soon as possible. In the meantime, several other companies in Switzerland also offer bug bounty programmes in addition to Bug Bounty Switzerland GmbH. In order to ensure neutrality in the procurement process, Florian Schütz, the Federal Cybersecurity Delegate, is thus stepping down from the Advisory Board of Bug Bounty Switzerland.&lt;/p&gt;</text>
+      <contact>NCSC Communications ncsc-media@gs-efd.admin.ch Tel. 058 46 50 464</contact>
+      <attachment id="218538">
+        <title>Pilotprojekt «Bug Bounty-Programm der Bundesverwaltung» - Abschlussbericht</title>
+        <format>pdf</format>
+        <size-kb>207</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/67503.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="176" org-id="602">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-government</name>
+      </keyword>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

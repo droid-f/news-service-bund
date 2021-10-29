@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="69896" revoked="no">
+    <version>1</version>
+    <pubdate>2018-02-23</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="502" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="506" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Schutz vor Cyber Angriffen auf GPS</title>
+      <lead>Der Kompetenzbereich Wissenschaft und Technologie (W+T) der armasuisse entwirft in Zusammenarbeit mit einem internationalen Forscherteam ein neuartiges System, um den globalen Luftraum gegen Cyber-Angriffe auf das Satellitennavigationssystem GPS zu schützen. </lead>
+      <text link="no">&lt;p&gt;In den vergangenen Jahren wurden zunehmend Cyber-Angriffe auf das Satelliten-navigationssystem GPS (Global Positioning System) bekannt. Insbesondere in der Luftfahrt, wo sich Flugzeuge, Helikopter und Drohnen mit Hilfe von GPS-Signalen orientieren, stellen solche kriminellen Angriffe eine grosse Bedrohung dar. So wurde beispielsweise versucht mit Störsignalen oder Täuschungssignalen Flugzeuge von ihrem Kurs abzubringen oder die Kontrolle über Drohnen zu übernehmen. Prinzipiell sind im zivilen Bereich alle Geräte, die GPS-Signale empfangen, verwundbar und gegen solche Manipulationen ungeschützt.&lt;/p&gt;&lt;p&gt;Der Kompetenzbereich Wissenschaft und Technologie (W+T) der armasuisse hat zusammen mit Forschern der ETH Zürich, der TU Kaiserslautern, der Ruhr-Universität Bochum und der New York University Abu Dhabi eine Lösung gefunden. Ein neuartiges System namens Crowd-GPS-Sec überwacht kontinuierlich den Luftraum anhand digitaler Flugverkehrs-Signalen von Flugzeugen und Drohnen. Mit neuartigen Algorithmen konnten die Forscher demonstrieren, wie falsche GPS-Signale innerhalb von wenigen Sekunden detektiert werden. Spätestens nach 15 Minuten kann der Angreifer sogar auf wenige Meter geortet werden. Das Besondere an der Lösung ist, dass die Flugverkehrs-Signale der Flugzeuge durch eine Gruppe freiwilliger Personen über das Internet überwacht werden (Crowdsourcing). Dank Crowdsourcing können deshalb betroffene Organisationen bereits heute von der Lösung profitieren ohne eine eigene Überwachungsinfrastruktur aufzubauen, oder die GPS-Empfänger in Flugzeugen oder Drohnen ändern zu müssen.&lt;/p&gt;&lt;p&gt;Das System liegt zur Zeit noch als Prototyp vor und wird im Mai 2018 in San Francisco (USA) am IEEE Symposium on Security and Privacy (S&amp;P) präsentiert. Das S&amp;P Symposium wurde vor 39 Jahren ins Leben gerufen und wird vom Institute of Electrical and Electronics Engineers (IEEE) organisiert. Es gilt als weltweit führende Konferenz im Bereich der Cyber-Sicherheit. Jedes Jahr treffen sich dort Experten aus der Wissenschaft, Industrie und staatlichen Behörden, um sich über ihre Forschungsergebnisse auszutauschen. Die Arbeit unterstützt die nationale Strategie zum Schutz der Schweiz vor Cyber Risiken (NCS).&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri Stv. Leiterin Kommunikation armasuisse Tel. +41 58 464 60 42</contact>
+      <link id="175342">
+        <title>Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks</title>
+        <uri>http://www.lenders.ch/publications/conferences/sp18_2.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Protection de récepteurs GPS contre des cyberattaques</title>
+      <lead>En collaboration avec une équipe internationale de chercheurs, le domaine de compétences Sciences et technologies (W+T) d’armasuisse développe un système d’un type nouveau pour protéger l’espace aérien global contre les cyberattaques visant le système de navigation par satellites GPS.</lead>
+      <text link="no">&lt;p&gt;Ces années passées, les annonces de cyberattaques visant le système de navigation par satellite GPS (Global Positioning System) se sont multipliées. Ces attaques criminelles constituent une menace particulièrement importante pour l’aviation, puisque les avions, hélicoptères et drones utilisent les signaux du GPS pour la navigation. Ainsi, il y a par exemple eu des tentatives de faire dévier de leur cap des avions ou de prendre le contrôle de drones en émettant des signaux destinés à perturber ou à leurrer les systèmes. Fondamentalement, dans les applications civiles, tous les récepteurs de signaux GPS sont vulnérables et ne disposent d’aucune protection face à de telles manipulations.&lt;/p&gt;&lt;p&gt;Le domaine de compétences Sciences et technologies (W+T) d’armasuisse a développé une solution à cet effet en collaboration avec des chercheurs de l’Ecole polytechnique fédérale de Zurich, de l’Université technique de Kaiserslautern, de l’Université Ruhr-Bochum et de la New York University Abu Dhabi. Un système d’un type nouveau, appelé Crowd-GPS-Sec, surveille en permanence l’espace aérien à l’aide de signaux numériques relatifs à la navigation aérienne émis par des avions et des drones. Les chercheurs ont pu démontrer à l’aide d’algorithmes d’un nouveau type comment de faux signaux GPS ont pu être détectées en quelques secondes. Il est même possible de localiser l’attaquant à quelques mètres près dans un délai de 15 minutes au maximum. Cette solution a ceci de particulier que les signaux d’un avion relatifs à la navigation aérienne peuvent être surveillés via l’Internet par un groupe de volontaires (Crowdsourcing). Le Crowdsourcing permet aujourd’hui déjà aux organisations concernées de profiter de cette solution sans devoir mettre en place leur propre infrastructure de surveillance, ni devoir modifier les récepteurs GPS des aéronefs.&lt;/p&gt;&lt;p&gt;Le système en est encore à l’état de prototype et sera présenté en mai 2018 à San Francisco (USA), au IEEE Symposium on Security and Privacy (S&amp;P). Institué il y a 39 ans, le S&amp;P Symposium est organisé par l’Institute of Electrical and Electronics Engineers (IEEE). Ce symposium est considéré au niveau mondial comme la principale conférence consacrée à la cybersécurité. Des experts du monde scientifique, de l’industrie et des autorités s’y rencontrent chaque année pour échanger les résultats de la recherche. Ce travail soutient la Stratégie nationale de protection de la Suisse contre les cyberrisques (SNPC).&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri Rempl. du chef de la communication d'armasuisse Tél. : +41 58 464 60 42</contact>
+      <link id="175342">
+        <title>Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks</title>
+        <uri>http://www.lenders.ch/publications/conferences/sp18_2.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Protezione contro i cyber attacchi per il GPS</title>
+      <lead>Il settore di competenza Scienza e tecnologia (S+T) di armasuisse, in collaborazione con un gruppo internazionale di ricercatori, propone un sistema innovativo per proteggere lo spazio aereo globale contro i cyber attacchi al sistema di navigazione satellitare GPS.</lead>
+      <text link="no">&lt;p&gt;Negli anni passati si è registrato un numero crescente di cyber attacchi rivolti contro il sistema di navigazione satellitare GPS (Global Positioning System). Questo tipo di attacchi criminali rappresenta una grave minaccia in particolare nel settore dell’aeronautica, poiché velivoli, elicotteri e droni si orientano con l’aiuto di segnali GPS. Alcuni aggressori hanno tentato ad esempio, per mezzo di segnali di disturbo o di inganno, di deviare velivoli dalla loro rotta o di impossessarsi del controllo di droni. Di principio, nel settore civile tutti gli apparecchi che ricevono segnali GPS sono vulnerabili a questo tipo di manipolazioni e non dispongono di alcuna protezione.&lt;/p&gt;&lt;p&gt;Il settore di competenza Scienza e tecnologia (S+T) di armasuisse ha trovato una soluzione in collaborazione con un gruppo di ricercatori del Politecnico federale di Zurigo, della Technische Universität di Kaiserslautern, della Ruhr-Universität di Bochum e della New York University di Abu Dhabi. Un sistema innovativo denominato Crowd-GPS-Sec sorveglia costantemente lo spazio aereo servendosi dei segnali di navigazione provenienti da velivoli e droni. Utilizzando un nuovo tipo di algoritmi, i ricercatori hanno dimostrato che il sistema è in grado di smascherare falsi segnali GPS nel giro di pochi secondi. Al più tardi entro 15 minuti, l’aggressore viene localizzato addirittura con una precisione di pochi metri. La particolarità di questa soluzione consiste nel fatto che i segnali di navigazione dei velivoli vengono monitorati tramite Internet da un gruppo di volontari (crowdsourcing). Grazie al crowdsourcing, dunque, le organizzazioni interessate possono approfittare già sin d’ora di questo sistema, senza necessità di creare una propria infrastruttura di sorveglianza o di modificare i ricevitori GPS di velivoli o droni.&lt;/p&gt;&lt;p&gt;Il sistema, che attualmente è ancora allo stadio di prototipo, sarà presentato nel maggio 2018 negli Stati Uniti all’IEEE Symposium on Security and Privacy (S&amp;P) di San Francisco. Il Symposium on Security and Privacy si tiene da ormai 39 anni ed è organizzato dall’Institute of Electrical and Electronics Engineers (IEEE). Il simposio è considerato la più importante conferenza a livello mondiale nel campo della cyber sicurezza. Ogni anno esso riunisce esperti degli ambienti scientifici e industriali e della pubblica &lt;br /&gt;amministrazione, che si scambiano informazioni sui risultati delle rispettive ricerche. Questo progetto segue gli auspici della Strategia nazionale per la protezione della Svizzera contro i cyber-rischi.&lt;br /&gt; &lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri sost. resp. Comunicazione armasuisse Tel. : +41 58 464 60 42</contact>
+      <link id="175342">
+        <title>Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks</title>
+        <uri>http://www.lenders.ch/publications/conferences/sp18_2.pdf</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5360" org-id="506">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologie / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+      <keyword id="506" org-id="506">
+        <name lang="de">Kooperation</name>
+        <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
+        <name lang="en">Cooperation</name>
+      </keyword>
+      <keyword id="5160" org-id="506">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5480" org-id="506">
+        <name lang="de">Material / Ausrüstung</name>
+        <name lang="fr">Matériel / Équipement</name>
+        <name lang="it">Materiale / Equipaggiamento</name>
+        <name lang="en">material / equipment</name>
+      </keyword>
+      <keyword id="5610" org-id="506">
+        <name lang="de">Entwicklung / Planung / Reform</name>
+        <name lang="fr">Développement / Planification / Réforme</name>
+        <name lang="it">Sviluppo / Pianificazione / Riforma</name>
+        <name lang="en">development / planning / reform</name>
+      </keyword>
+      <keyword id="5700" org-id="506">
+        <name lang="de">Elektronische Kriegsführung</name>
+        <name lang="fr">Conduite de la guerre électronique</name>
+        <name lang="it">Guerra elettronica</name>
+        <name lang="en">electronic warfare</name>
+      </keyword>
+      <keyword id="5930" org-id="506">
+        <name lang="de">Internationale Beziehungen</name>
+        <name lang="fr">Relations internationales</name>
+        <name lang="it">Relazioni internazionali</name>
+        <name lang="en">international relations</name>
+      </keyword>
+      <keyword id="5980" org-id="506">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="24">
+        <name lang="de">Öffentliche Beschaffungen</name>
+        <name lang="fr">Marchés publics</name>
+        <name lang="it">Acquisti pubblici</name>
+        <name lang="en">Public Procurement</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

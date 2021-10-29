@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="47676" revoked="no">
+    <version>1</version>
+    <pubdate>2013-02-07</pubdate>
+    <blocking-period>2013-02-06</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1063" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Paul Scherrer Institut</name>
+      <name lang="fr">Institut Paul Scherrer</name>
+      <name lang="it">Istituto Paul Scherrer</name>
+      <name lang="en">Paul Scherrer Institut</name>
+      <www lang="de"/>
+      <www lang="fr"/>
+      <www lang="it"/>
+      <www lang="en"/>
+      <email lang="de">info@psi.ch</email>
+      <email lang="fr">info@psi.ch</email>
+      <email lang="it">info@psi.ch</email>
+      <email lang="en">info@psi.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Villigen</city>
+      <title>Fluktuationen mit Röntgenmikroskop sichtbar gemacht</title>
+      <lead>Röntgenstrahlen bieten Einsichten in Strukturen, die mit Lichtmikroskopie nicht abgebildet werden können. Mit ihnen kann die Nanostruktur von so unterschiedlichen Objekten untersucht werden wie einzelne Zellen oder magnetische Datenträger. Hochauflösende Bilder sind jedoch nur möglich, wenn sowohl Mikroskop als auch das Untersuchungsobjekt extrem stabil sind. Forscher der Technischen Universität München und des Paul Scherrer Instituts in Villigen, Schweiz, zeigten nun, wie man diese Bedingungen lockern kann, ohne die Bildqualität zu beeinträchtigen. Auch hochdynamische Systeme, wie z.B. magnetische Fluktuationen, wie sie die Lebensdauer von Daten auf Festplatten einschränken, können mit der neuen Methodik untersucht werden. Die Forscher demonstrierten ihre Methode mit einem Experiment an der Synchrotron Lichtquelle Schweiz (SLS) und anhand von Computersimulationen. Die Ergebnisse wurden in der Fachzeitschrift Nature veröffentlicht.</lead>
+      <text link="no">&lt;p&gt;Sowohl in den Lebens- als auch in den Materialwissenschaften bietet Mikroskopie mit Röntgenstrahlen einzigartige Einblicke. Um jedoch Nanostrukturen wie den Aufbau biologischer Zellen, die poröse Struktur von Zement oder Speicherfelder von magnetischen Datenträgern abzubilden, müssen Röntgenmikroskope möglichst vibrationsarm sein. Zusätzlich müssen Röntgenfilter aus der ankommenden Röntgenstrahlung den Anteil mit den richtigen Eigenschaften auswählen – zum Beispiel der richtigen Wellenlänge. „Das Röntgenlicht, das wir verwenden“, erklärt Andreas Menzel, Wissenschaftler am Paul Scherrer Institut, „muss selbst sehr gut charakterisiert sein. Ansonsten können wir nicht garantieren, dass unsere Bilder genau das wiedergeben, was wir untersuchen.“ &lt;/p&gt;&lt;p&gt;&lt;b&gt;Beiträge verschiedener Wellenlängen getrennt&lt;/b&gt; &lt;/p&gt;&lt;p&gt;Menzel und Pierre Thibault von der Technischen Universität München haben nun eine Analysemethode entwickelt, die trotz Vibrationen oder Fluktuationen zuverlässige Bilder produziert. Die Methode basiert auf einer Technik namens „Ptychographie“, die in den 1960er Jahren für die Elektronenmikroskopie erfunden wurde. Sie wurde in den letzten Jahren weiterentwickelt und wird inzwischen auch für hochauflösende Mikroskopie sowohl mit sichtbarem als auch mit Röntgenlicht angewendet. Die neuen Ergebnisse ermöglichen es nun beispielsweise, in einem Bild Effekte voneinander zu unterscheiden, die von Lichtanteilen mit verschiedenen Wellenlängen stammen. „Neben dem Einsatz in bildgebenden Verfahren“, erläutert Pierre Thibault, „hat unsere Analyse eine grundlegende Verwandtschaft zu anderen Fachbereichen offenbart. Mikroskopie und Wissenschaftsdisziplinen, wie z.B. Quanteninformatik, die bisher als denkbar unabhängig galten, können voneinander profitieren.” &lt;/p&gt;&lt;p&gt;&lt;b&gt;Fluktuationen sichtbar gemacht&lt;/b&gt; &lt;/p&gt;&lt;p&gt;Das wahrscheinlich bedeutsamste Ergebnis der Arbeit ist, dass nun eine ganze Klasse von Objekten abgebildet werden kann, die man bisher nicht gut hat untersuchen können. „Wir können nicht nur Vibrationen im Mikroskop kompensieren“, sagt Andreas Menzel, „Auch wenn sie viel zu schnell sind, als dass wir sie mit einzelnen Momentaufnahmen festhalten könnten, können wir Fluktuationen der Probe selber charakterisieren.“ Eine mögliche Anwendung besteht darin, die wechselnde Magnetisierung einzelner Bits in magnetischen Speichermedien mit hoher Speicherdichte zu untersuchen. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Computersimulation als Test&lt;/b&gt; &lt;/p&gt;&lt;p&gt;„Um uns zu vergewissern, dass die Bilder, die wir produzierten, tatsächlich die Proben und ihre Dynamik genau wiedergaben“, so Pierre Thibault, „führten wir zudem Computersimulationen durch. Sie bestätigten, dass sowohl Effekte des Instruments als auch der Proben selbst, wie z.B. Ströme, Schaltvorgänge oder bestimmte Quantenzustände, charakterisiert werden können.“ Die neue Analyse verbindet die Charakterisierung dynamischer Zustände mit hochauflösender Mikroskopie. Anwendungen werden erwartet z.B. in der Erforschung der Wechselwirkung einzelner magnetischer Bits oder auch ihrer thermischen Fluktuationen, wie sie letztlich die Lebensdauer magnetischer Datenspeicherung bestimmen. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;b&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Originalveröffentlichung:&lt;/strong&gt;&lt;strong&gt;Reconstructing state mixtures from diffraction measurements&lt;/strong&gt; &lt;br /&gt;Pierre Thibault &amp; Andreas Menzel &lt;br /&gt;&lt;em&gt;Nature, 7. February 2013, DOI: &lt;/em&gt;&lt;em&gt;10.1038/nature11806&lt;/em&gt;&lt;/p&gt;&lt;/b&gt;</text>
+      <contact>Dr. Andreas Menzel; Labor für Makromoleküle und Bioimaging, Paul Scherrer Institut, 5232 Villigen PSI, Schweiz Telefon: +41 56 310 3711 E-Mail: andreas.menzel@psi.ch (deutsch, englisch) Dr. Pierre Thibault; Physikdepartment; Technische Universität München 85748 Garching, Deutschland, Telefon +49 (0)89 289 14397; E-Mail: pierre.thibault@tum.de (französisch, englisch)</contact>
+      <link id="106156">
+        <title>Twitter</title>
+        <uri>https://twitter.com/psich_de</uri>
+        <position>Context</position>
+      </link>
+      <link id="106157">
+        <title>Bildmaterial und Volldarstellung</title>
+        <uri>http://psi.ch/B13r</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Villigen</city>
+      <title>Imager des échantillons qui fluctuent à l'aide de rayons X</title>
+      <lead>Les rayons X permettent d'observer l'intérieur de structures autrement inaccessibles à l'aide de lumière visible. Ils sont notamment utilisés pour inspecter à l'échelle nanométrique des échantillons divers tels que la structure de cellules biologiques et l'organisation de domaines magnétiques de disques durs. Malgré ses succès, l'imagerie par rayons X à haute résolution impose des contraintes énormes sur le microscope ainsi que sur les échantillons d'intérêt. Des chercheurs à la Technische Universität München, Allemagne, et à l'institut Paul Scherrer, Suisse, ont récemment découvert comment relaxer ces contraintes sans réduction de qualité des images. Ils ont de plus démontré comment peuvent être imagées les fluctuations rapides à l'intérieur de certains objets, tels l'inversion spontanée de domaines dans les dispositifs à mémoire magnétique. Ils ont démontré leur méthode grâce à des mesures prises au synchrotron suisse SLS et à l'aide de simulations numériques. Ces résultats ont été publiés dans le journal scientifique « Nature ».</lead>
+      <text link="no">&lt;p&gt;La microscopie par rayons X est un outils prisé pour les sciences de la vie et des matériaux. Que ce soit pour observer l'architecture de cellules biologiques, étudier la porosité du béton, ou observer les domaines magnétique de dispositifs de stockage d'information, ils offrent un point de vue tridimensionnel unique. Toutefois, des conditions expérimentales extrêmes sont souvent requises pour l'imagerie à l'échelle nanométrique. L'une des conséquences de ces contraintes est la nécessité de filtrer les rayons X produits par une source de rayonnement synchrotron, pour n'en conserver qu'une minuscule fraction. « Encore plus important », ajoute Andreas Menzel, chercheur à l'institut Paul Scherrer, « si on ne parvient pas à extraire les rayons X qui ont exactement les propriétés nécessaires pour la mesure, les images obtenues ne révèlent pas fidèlement l'objet sous investigation. »&lt;/p&gt; &lt;b&gt;Démêler les différentes composantes de la lumière. &lt;/b&gt; &lt;p&gt;Menzel et Pierre Thibault, de la Technische Universität München, ont développé une méthode d'analyse qui permet l'imagerie à très haute précision en dépit des fluctuations et de vibrations qui sont souvent inévitables à l'échelle du nanomètre. Leur méthode est basée sur une technique appelée « ptychographie », inventée dans les années 60 pour la microscopie électronique et de nos jours communément appliquée en radiation X et visible. Leurs nouveaux résultats permettent désormais de démêler précisément les parties de la lumière qui ont des propriétés légèrement différentes, comme leur longueur d'onde ou leur direction de propagation. « En plus des effets immédiats sur les applications en imageries », explique Pierre Thibault, « notre analyse révèle de profondes connexions avec d'autres domaines de la physique. Ce qui a pour résultat que certaines disciplines qui étaient jusqu'à maintenant considérées comme indépendantes de l'imagerie, comme l'informatique quantique, peuvent s'enrichir mutuellement. »&lt;/p&gt; &lt;b&gt;Imager des fluctuations et des mélanges statistiques.&lt;/b&gt; &lt;p&gt;L'aspect probablement le plus intriguant de la nouvelle méthode est la possibilité d'imager toute une nouvelle famille d'objets. « En plus de l'appareil utilisé pour l'imagerie, nous pouvons maintenant laisser l'échantillon lui-même fluctuer, » ajoute Andreas Menzel. « Ainsi, les fluctuations trop rapides pour être résolues dans le temps peuvent néanmoins être inspectées. » Une idée est d'étudier la fluctuation rapide de la magnétisation de domaines dans les matériaux magnétiques. &lt;/p&gt; &lt;b&gt;Confirmation par ordinateur&lt;/b&gt; &lt;p&gt;« Nous devions nous convaincre que les images produites pouvait effectivement représenter fidèlement l'échantillon et caractériser ses propriétés dynamiques, » élabore Pierre Thibault. « À cette fin, nous avons utilisé des simulations numériques qui démontrent que notre méthode fonctionne aussi bien pour les fluctuations qui proviennent de l'instrument que celle qui proviennent de l'échantillon. » Les résultats présentés dans leur article combinent l'imagerie à haute résolution aux techniques de caractérisation dynamique. Ces résultats pourraient faciliter l'étude de phénomènes fondamentaux comme l'interaction entre les bits voisins d'un disque dur, ou les fluctuations thermiques qui limitent la durée de vie de tels dispositifs.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Publication originale&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;Reconstructing state mixtures from diffraction measurements&lt;/strong&gt; &lt;br /&gt;Pierre Thibault &amp; Andreas Menzel &lt;br /&gt;&lt;em&gt;Nature, 7. February 2013, DOI: &lt;/em&gt;&lt;em&gt;10.1038/nature11806&lt;/em&gt; &lt;p&gt; &lt;/p&gt;&lt;/p&gt;</text>
+      <contact>Andreas Menzel; Laboratoire Macromolecules et bio-imagerie Institut Paul Scherrer, 5232 Villigen PSI, Suisse Tél. +41 56 310 3711; e-mail: andreas.menzel@psi.ch [allemand, anglais] Pierre Thibault; Physikdepartment; Technische Universität München, 85748 Garching, Allemagne Tél. +49 (0)89 289 14397; e-mail: pierre.thibault@tum.de [français, anglais]</contact>
+      <link id="106156">
+        <title>Twitter</title>
+        <uri>https://twitter.com/psich_de</uri>
+        <position>Context</position>
+      </link>
+      <link id="106158">
+        <title>Photos à haute résolution</title>
+        <uri>http://psi.ch/44vU</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

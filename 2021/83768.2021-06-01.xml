@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83768" revoked="no">
+    <version>1</version>
+    <pubdate>2021-06-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Personalisierte Medizin: Der simulierte Patient</title>
+      <lead>Wo herkömmliche Therapien ungenau und kaum steuerbar sind, wären digitale Zwillinge eine erstrebenswerte Lösung. Mit Hilfe des in silico-Gegenübers liesse sich etwa die Schmerzbehandlung verbessern, indem er eine präzise und vorausschauende Dosierung ermöglicht. Empa-Forschende haben nun mehrere hundert solcher Avatare auf der Basis von realen Menschen modelliert und experimentell behandelt. Erstmals erhielten die digitalen Zwillinge dabei Rückmeldungen von echten Patientinnen und Patienten, dank derer die Empa-Forschenden die Therapie dann weiter optimieren konnten.</lead>
+      <text link="no">Die enormen Fortschritte in der modernen Medizin erlauben uns, Patientinnen und Patienten selbst während schwerer Erkrankungen eine verbesserte Lebensqualität zu ermöglichen. Mit synthetischen Opiaten beispielsweise lassen sich selbst starke Schmerzen während einer Krebserkrankung kontrollieren. Die exakte Dosierung stellt allerdings noch immer eine Herausforderung dar. Die Schmerzmittel, etwa Fentanyl, müssen präzise verabreicht werden, damit sie wirksam sind, ohne die Betroffenen mit teils lebensgefährlichen Nebenwirkungen zu schaden. Derzeit werden derartige Schmerzmittel unter anderem durch ein Medikamentenpflaster über die Haut verabreicht – eine schonende Methode, die dabei hilft, den Patienten die Rückkehr in den Alltag zu ermöglichen. Allerdings lässt sich die passende Dosierung lediglich ausprobieren. So sind die Reaktionen auf eine Unter- oder Überdosierung immer erst im Nachhinein feststellbar, wenn das Medikament das Pflaster längst verlassen hat.&lt;br /&gt;Das soll nun anders werden: Damit die Schmerzmitteldosierung im Sinne einer personalisierten Medizin für jeden einzelnen Patienten ermittelt und konstant gehalten werden kann, nutzen Empa-Forschende zusammen mit einem Team der Universität Bern das innovative Forschungsfeld der Computer- und Datenwissenschaften. Das Team um Thijs Defraeye vom «Biomimetic Membranes and Textiles» Labor der Empa in St. Gallen entwickelt mit multiphysikalischen Modellierungen einen digitalen Zwilling des menschlichen Körpers, der die Steuerung und Vorhersage des Therapieverlaufs erlaubt.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bereits mehrere Hundert Avatare behandelt&lt;/b&gt;&lt;br /&gt;In den mathematischen Modellen, auf denen der komplexe digitale Doppelgänger basiert, haben die Forschenden eine Vielzahl von Variablen von realen Menschen wie etwa Alter und Lebensstil berücksichtigt. Denn die Wirkung eines Medikaments wird von einer Fülle an körperlichen Parametern beeinflusst, die individuell sehr unterschiedlich sein können. «Wir berücksichtigen bei der Erstellung eines Avatars beispielsweise, wie das Medikament bei der Behandlung im lebenden Körper verstoffwechselt wird und wieviel letztlich im Schmerzzentrum im Gehirn des Menschen eintrifft», erklärt Empa-Forscher Defraeye.&lt;br /&gt;Damit die Dosierung aber nicht nur sicher ist, sondern auch den gewünschten Effekt erzielt, kann der in silico-Zwilling zudem physiologische und psychologische Rückmeldungen von realen Patienten erhalten. Hierzu gibt der Mensch beispielsweise Auskunft, ob und in welcher Intensität er den Schmerz weiterhin wahrnimmt. Von besonderem Interesse ist hierbei die Länge der schmerzfreien Zeit. Und weil nicht jeder Tag ein guter Tag ist, und das Leben voll von unvorhergesehenen Ereignissen, variiert auch die effektive Schmerzempfindung der Betroffenen viel stärker, als dass ein Arztbesuch alle zwei Wochen darauf eingehen könnte. «Mit diesem Feedback des Menschen kann der Avatar die Therapie dynamisch anpassen und den Verlauf sogar vorhersagen», sagt Empa-Forscherin Flora Bahrami. Künftig sollen Sensoren auch weitere physiologische Parameter wie Herzschlag oder Atmungsfrequenz in Echtzeit messen und an den Avatar zurückmelden.&lt;br /&gt;In Testphasen wurden bisher mehrere Hundert derartig personalisierte Avatare geschaffen und individuelle Therapieabläufen gemeinsam mit dem Kantonsspital St. Gallen virtuell getestet. «Wir konnten bereits zeigen, dass sich die optimalen Behandlungsprogramme für Frauen und Männer sowie für jüngere und ältere Menschen deutlich voneinander unterscheiden», so Bahrami.&lt;br /&gt;Die Schmerztherapie durch transdermal wirkende Pflaster ist hierbei erst der Anfang der Avatar-assistierten Behandlung: In Zusammenarbeit mit Kliniken und Spitälern wollen die Empa-Forschenden nun weitere Therapien wie die Insulingabe bei Diabetes durch digitale Zwillinge optimieren.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Digitalisierung gegen Food-Waste&lt;/b&gt;&lt;br /&gt;Digitalisierung kann nicht nur in der Medizin grosse Fortschritte ermöglichen, sondern auch in anderen Bereichen – etwa in der Lebensmitteltechnologie. Erst kürzlich wurde das Empa-Team um Thijs Defraeye mit einem Preis der «Inclusive Growth and Recovery Challenge» von data.org ausgezeichnet. Die hochdotierte Auszeichnung wird von der «Rockefeller Foundation», und dem «Mastercard Center for Inclusive Growth» gestiftet. Ziel des gemeinsamen Projekts mit der Stiftung BASE («Basel Agency for Sustainable Energy»): Über Computermodelle und mobile Apps eine nachhaltige Landwirtschaft fördern und die ökologische und ökonomische Situation für landwirtschaftliche Kleinbetriebe in Entwicklungsländern verbessern. Entscheidend ist hier die Datenverarbeitung und -modellierung von Parametern aus der Landwirtschaft, Technik und den aktuellen ökonomischen Gegebenheiten, um Kleinbetriebe in Echtzeit zu einem vorausschauenden Umgang mit ihren Produkten zu befähigen. Denn derzeit müssen in Entwicklungsländern bis zu 60% der Ernten derartiger Betriebe entsorgt werden, da Früchte und Gemüse verderben, bevor sie den Markt erreicht haben. Diesem immensen Food-Waste wollen die Forschenden entgegentreten. «Am Ende dieser Technologieentwicklung soll eine Anwendung für Mobiltelefone stehen, die einen nachhaltigen Umgang mit den Ressourcen während der Lagerung, Kühlung und dem Verkauf der Ware unterstützt», sagt Empa-Forscherin Seraina Schudel. Das Grossprojekt stellt für die Empa-Forschenden auch eine exzellente Grundlage dar, um das Gebiet der Computer- und Datenwissenschaften und besonders der digitalen Zwillinge für diverse Anwendungen weiterzuentwickeln.</text>
+      <contact>Informationen Prof. Dr. Thijs Defraeye Multiphysics Hub Tel. +41 58 765 47 90 Thijs.Defraeye@empa.ch</contact>
+      <attachment id="216766">
+        <title>Datenforscher Thijs Defraeye erzeugt digitale Zwillinge / Spécialiste des données Thijs Defraeye crée des jumeaux numériques / Data researcher Thijs Defraeye creates digital twins based on complex mathematical models.</title>
+        <format>jpg</format>
+        <size-kb>2831</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216767">
+        <title>Empa-Forscherin Seraina Schudel und der «Fruchtspion» / La chercheuse de l'Empa Seraina Schudel et l'"espion des fruits" / Empa researcher Seraina Schudel and the "fruit spy"</title>
+        <format>jpg</format>
+        <size-kb>5325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66876.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216768">
+        <title>Empa-Forschende haben beispielsweise einen Avatar einer Mango entwickelt. / Les chercheurs de l'Empa ont également développé l'avatar d'une mangue. / Empa researchers have also developed an avatar of a mango.</title>
+        <format>png</format>
+        <size-kb>1205</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66877.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="216765">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/personalized-medicine</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Médecine personnalisée: Le patient simulé</title>
+      <lead>Les jumeaux numériques permettent des thérapies médicales sur mesure. Les chercheurs de l'Empa ont maintenant modélisé plusieurs centaines de ces avatars sur la base de personnes réelles et les ont traités expérimentalement. Pour la première fois, les jumeaux numériques ont reçu des commentaires de vrais patients.</lead>
+      <text link="no">Les énormes progrès de la médecine moderne nous permettent d'offrir aux patients une meilleure qualité de vie, même en cas de maladie grave. Les opiacés synthétiques, par exemple, peuvent être utilisés pour contrôler la douleur, même sévère, lors d'un cancer. Cependant, le dosage exact reste un défi. Les analgésiques, tels que le fentanyl, doivent être administrés précisément pour être efficaces sans nuire aux personnes qui en souffrent, avec des effets secondaires parfois mortels. Actuellement, l'un des moyens d'administration de ces analgésiques est un patch cutané contenant le médicament- une méthode douce qui permet aux patients de reprendre leur vie quotidienne. Cependant, le dosage approprié ne peut être qu'éprouvé. Les réactions à un sous-dosage ou à un surdosage ne peuvent être déterminées qu'a posteriori, lorsque le médicament a quitté le patch depuis longtemps.&lt;br /&gt;Il faut maintenant que cela change : Afin de pouvoir déterminer le dosage des analgésiques et le maintenir constant pour chaque patient dans le sens d'une médecine personnalisée, les chercheurs de l'Empa, en collaboration avec une équipe de l'Université de Berne, utilisent le domaine de recherche novateur des sciences informatiques et des données. L'équipe dirigée par Thijs Defraeye du laboratoire "Membranes et textiles biomimétiques" de l'Empa à St-Gall utilise la modélisation multiphysique pour développer un jumeau numérique du corps humain, qui permet de contrôler et de prévoir le déroulement de la thérapie.&lt;br /&gt;&lt;b&gt;Déjà 100 avatars traités&lt;/b&gt;&lt;br /&gt;Dans les modèles mathématiques sur lesquels repose le jumeau numérique complexe, les chercheurs ont pris en compte un grand nombre de variables provenant de personnes réelles, telles que l'âge et le mode de vie. En effet, l'effet d'une drogue est influencé par une multitude de paramètres physiques qui peuvent varier considérablement d'un individu à l'autre. "Lorsque nous créons un avatar, nous prenons en compte, par exemple, la manière dont le médicament est métabolisé dans le corps vivant pendant le traitement et la quantité qui arrive finalement au centre de la douleur dans le cerveau de la personne", explique le chercheur de l'Empa, Thijs Defraeye.&lt;br /&gt;Pour garantir que le dosage est non seulement sûr, mais qu'il permet également d'obtenir l'effet souhaité, le jumeau in silico peut également recevoir un retour d'information physiologique et psychologique de la part de vrais patients. Par exemple, les humains fournissent des informations sur le fait de savoir s'ils continuent à percevoir la douleur et à quelle intensité. La durée de la période sans douleur est particulièrement intéressante à cet égard. Tous les jours ne sont pas bons et la vie est pleine d'imprévus, la perception effective de la douleur par la personne concernée varie donc également beaucoup, ce qu'une visite chez le médecin toutes les deux semaines ne peut pas régler. "Grâce à ce retour de l'humain, l'avatar peut ajuster dynamiquement la thérapie et même en prédire le déroulement", explique Flora Bahrami, chercheuse à l'Empa. À l'avenir, les capteurs mesureront également d'autres paramètres physiologiques tels que le rythme cardiaque ou respiratoire en temps réel et en feront rapport à l'avatar.&lt;br /&gt;Plusieurs centaines d'avatars personnalisés de ce type ont été créés jusqu'à présent et des procédures de thérapie individuelle ont été testées virtuellement en collaboration avec l'hôpital cantonal de Saint-Gall. "Nous avons déjà pu montrer que les programmes de traitement optimal pour les femmes et les hommes, ainsi que pour les jeunes et les personnes âgées, diffèrent de manière significative", explique Flora Bahrami.&lt;br /&gt;Ici, la thérapie de la douleur par patchs transdermiques n'est que le début du traitement assisté par l'avatar : En collaboration avec des cliniques et des hôpitaux, les chercheurs de l'Empa veulent maintenant optimiser d'autres thérapies comme l'administration d'insuline pour le diabète en utilisant des jumeaux numériques.&lt;br /&gt;&lt;b&gt;La numérisation contre le gaspillage alimentaire&lt;/b&gt;&lt;br /&gt;La numérisation peut permettre des avancées majeures non seulement en médecine, mais aussi dans d'autres domaines - comme la technologie alimentaire. Tout récemment, l'équipe de l'Empa dirigée par Thijs Defraeye a reçu un prix dans le cadre du défi "Inclusive Growth and Recovery Challenge" de data.org. Ce prix prestigieux est parrainé par la Fondation Rockefeller et le Mastercard Center for Inclusive Growth. L'objectif du projet conjoint avec la Fondation BASE (Agence de Bâle pour l'énergie durable) est d'utiliser des modèles informatiques et des applications mobiles pour promouvoir l'agriculture durable et améliorer la situation écologique et économique des petites exploitations agricoles dans les pays en développement. Le facteur décisif est ici le traitement des données et la modélisation des paramètres de l'agriculture, de la technologie et des conditions économiques actuelles afin de permettre aux petites exploitations agricoles de gérer leurs produits avec prévoyance et en temps réel. En effet, dans les pays en développement, jusqu'à 60 % des récoltes de ces exploitations doivent être éliminées car les fruits et légumes pourrissent avant d'arriver sur le marché. Les chercheurs veulent contrer cet immense gaspillage alimentaire. "A la fin de ce développement technologique, il devrait y avoir une application pour les téléphones portables qui soutient l'utilisation durable des ressources pendant le stockage, la réfrigération et la vente des marchandises", déclare la chercheuse de l'Empa Seraina Schudel. Ce projet de grande envergure fournit aussi aux chercheurs de l'Empa une excellente base pour développer le domaine des sciences informatiques et des données, et en particulier les jumeaux numériques, pour diverses applications.</text>
+      <contact>Informations Prof. Dr. Thijs Defraeye Multiphysics Hub Tél. +41 58 765 47 90 Thijs.Defraeye@empa.ch</contact>
+      <attachment id="216766">
+        <title>Datenforscher Thijs Defraeye erzeugt digitale Zwillinge / Spécialiste des données Thijs Defraeye crée des jumeaux numériques / Data researcher Thijs Defraeye creates digital twins based on complex mathematical models.</title>
+        <format>jpg</format>
+        <size-kb>2831</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216767">
+        <title>Empa-Forscherin Seraina Schudel und der «Fruchtspion» / La chercheuse de l'Empa Seraina Schudel et l'"espion des fruits" / Empa researcher Seraina Schudel and the "fruit spy"</title>
+        <format>jpg</format>
+        <size-kb>5325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66876.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216768">
+        <title>Empa-Forschende haben beispielsweise einen Avatar einer Mango entwickelt. / Les chercheurs de l'Empa ont également développé l'avatar d'une mangue. / Empa researchers have also developed an avatar of a mango.</title>
+        <format>png</format>
+        <size-kb>1205</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66877.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="216765">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/personalized-medicine</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Personalized medicine: The simulated patient</title>
+      <lead>Digital twins enable customized medical therapies. Empa researchers have now modeled several hundred such avatars based on real people and treated them experimentally. For the first time, the digital twins received feedback from real patients.</lead>
+      <text link="no">The enormous advances in modern medicine allow us to provide patients with an improved quality of life even during severe illnesses. Synthetic opiates, for example, can be used to control severe pain caused by cancer. However, the exact dosage is still a challenge. Painkillers, such as fentanyl, must be administered precisely to be effective without harming patients with sometimes life-threatening side effects. Currently, such painkillers are administered through the skin by means of a drug patch, among other methods – a gentle method that helps enable patients to return to their daily lives. However, the appropriate dosage can only be determined by trial-and-error. Reactions to an under- or overdose are only seen in retrospect, when the medication has long since left the drug patch. This is now set to change: To ensure that the correct drug dosage can be determined and kept constant for each individual patient in the sense of personalized medicine, Empa researchers, together with a team from the University of Bern, are using computer and data sciences. The team led by Thijs Defraeye from Empa's "Biomimetic Membranes and Textiles" lab in St. Gallen is using multiphysics modeling to develop a digital twin of the human body that allows to control and predict the course of therapy. Already 100s of avatars treated In the mathematical models, on which the complex digital twin is based, the researchers have taken into account a variety of variables from real people, such as age and lifestyle. This is because the effect of a drug is influenced by a plethora of physical parameters that can vary greatly from person to person. "When creating an avatar, we take into account, for example, how the drug is metabolized in the body during treatment and how much ultimately gets to the pain center in the person's brain," explains Empa researcher Defraeye. To ensure that the dosage is not only safe but also effective, the in silico twin can also receive physiological and psychological feedback from real patients. For example, humans provide information on whether and to what extent they continue to perceive pain. Of particular interest here is the length of pain-free periods. And since not every day is a good day, and life is full of unpredictable events, the effective pain perception of those affected also varies much more than a doctor's visit every other week could address. "With this feedback from humans, the avatar can dynamically adjust the therapy and even predict the course," explains Empa researcher Flora Bahrami. In future, sensors will also measure other physiological parameters such as heartbeat or respiration rate in real time and report back to the avatar. Thus far, several hundred personalized avatars have been created and individual therapies been tested virtually in cooperation with the Cantonal Hospital of St. Gallen. "We have already been able to show that the optimal treatment regime for women and men, as well as for younger and older people, differ significantly," Bahrami says. Pain therapy using transdermal patches is just the beginning of avatar-assisted treatment, though. In collaboration with clinics and hospitals, Empa researchers have already turned their attention to other therapies such as insulin administration for diabetes using digital twins. Digitalization against food waste Digitization can enable major advances not only in medicine, but also in other areas – such as food technology. Just recently, the Empa team led by Thijs Defraeye was awarded a prize in data.org's Inclusive Growth and Recovery Challenge. The highly endowed award is sponsored by the Rockefeller Foundation and the Mastercard Center for Inclusive Growth. The goal of the joint project with the BASE Foundation (Basel Agency for Sustainable Energy) is to use computer models and mobile apps to promote sustainable agriculture and improve the ecological and economic situation for small farms in developing countries. Data processing and the modeling of parameters from agriculture, technology and current economic conditions are key to enable small farms to manage their products with foresight in real time. This is because currently, up to 60% of such farms' harvests have to be disposed of in developing countries, as fruits and vegetables spoil before they reach the market due to lack of access to cold chains. The researchers want to counter this immense food waste. "At the end of this technology development, there should be an app for cell phones that supports the sustainable use of resources during storage, refrigeration and sale of the goods," says Empa researcher Seraina Schudel. The large-scale project also provides Empa researchers with an excellent basis for further developing the field of computer and data sciences, and digital twins in particular, for numerous applications. </text>
+      <contact>Further information Prof. Dr. Thijs Defraeye Multiphysics Hub Phone +41 58 765 47 90 Thijs.Defraeye@empa.ch</contact>
+      <attachment id="216766">
+        <title>Datenforscher Thijs Defraeye erzeugt digitale Zwillinge / Spécialiste des données Thijs Defraeye crée des jumeaux numériques / Data researcher Thijs Defraeye creates digital twins based on complex mathematical models.</title>
+        <format>jpg</format>
+        <size-kb>2831</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216767">
+        <title>Empa-Forscherin Seraina Schudel und der «Fruchtspion» / La chercheuse de l'Empa Seraina Schudel et l'"espion des fruits" / Empa researcher Seraina Schudel and the "fruit spy"</title>
+        <format>jpg</format>
+        <size-kb>5325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66876.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="216768">
+        <title>Empa-Forschende haben beispielsweise einen Avatar einer Mango entwickelt. / Les chercheurs de l'Empa ont également développé l'avatar d'une mangue. / Empa researchers have also developed an avatar of a mango.</title>
+        <format>png</format>
+        <size-kb>1205</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66877.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="216765">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/personalized-medicine</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

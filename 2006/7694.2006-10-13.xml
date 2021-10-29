@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="7694" revoked="no">
+    <version>1</version>
+    <pubdate>2006-10-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="107" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter</name>
+      <name lang="fr">Préposé fédéral à la protection des données et à la transparence</name>
+      <name lang="it">Incaricato federale della protezione dei dati e per la trasparenza</name>
+      <name lang="en">Federal Data Protection and Information Commissioner</name>
+      <www lang="de">http://www.edoeb.admin.ch/</www>
+      <www lang="fr">http://www.edoeb.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.edoeb.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.edoeb.admin.ch/index.html?lang=en</www>
+      <email lang="de">info@edoeb.admin.ch</email>
+      <email lang="fr">info@edoeb.admin.ch</email>
+      <email lang="it">info@edoeb.admin.ch</email>
+      <email lang="en">info@edoeb.admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Der Zugriff auf Transaktionsdaten der SWIFT – Stellungnahme des EDÖB</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Im Juni dieses Jahres wurde in den Medien gemeldet, dass die US-Administration im Rahmen ihrer Anstrengungen zur Terrorbekämpfung Zugriff auf die Transaktionsdaten der Society for Worldwide Interbank Telecommunication (SWIFT) hat. Da die SWIFT in Belgien domiziliert ist, hat die dort zuständige Commission de la protection de la vie privée die Vorgänge untersucht und die Resultate ihrer Arbeit am 27.9.2006 veröffentlicht.&lt;/p&gt; &lt;p&gt;Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) hat nach Kenntnisnahme der Vorgänge durch die Presse bei den wichtigsten Akteuren des schweizerischen Bankensektors Informationen eingeholt. Basierend auf der Grundlage der so erlangten Kenntnisse, des Berichtes aus Belgien sowie der Stellungnahme des Bundesrates zuhanden der Geschäftsprüfungskommission des Nationalrates vom 4.7.2006 hat der EDÖB eine Stellungnahme verfasst. Sie finden sie unter folgendem Link:&lt;/p&gt;</text>
+      <contact/>
+      <link id="13513">
+        <title>Der Zugriff auf Transaktionsdaten der SWIFT – Stellungnahme des EDÖB</title>
+        <uri>http://www.edoeb.admin.ch/aktuell/index.html?lang=de</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>L'accès aux données des transactions bancaires du réseau mondial SWIFT - Avis du PFPDT</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Au mois de juin 2006, la presse a rendu public l’information selon laquelle les autorités américaines de lutte contre le terrorisme avaient accès aux données des transactions bancaires du réseau mondial SWIFT. Du fait que le siège de la société SWIFT se trouve en Belgique, la commission belge de la protection de la vie privée a ouvert une enquête, dont les résultats ont été publiés le 27 septembre dernier.&lt;/p&gt; &lt;p&gt;Le préposé fédéral à la protection des données et à la transparence (PFPDT) a pour sa part procéder à des éclaircissements auprès des principaux acteurs du secteur bancaire en Suisse. Sur la base des informations reçues, du rapport de la commission belge et de la prise de position du Conseil fédéral du 4 juillet 2006 à l’adresse de la Commission de gestion du Conseil national, le PFPDT a émis un avis. Vous trouvez la version allemande sous le lien suivant (la version en français sera publiée prochainement):&lt;/p&gt;</text>
+      <contact/>
+      <link id="13514">
+        <title>L'accès aux données des transactions bancaires du réseau mondial SWIFT - Avis du PFPDT</title>
+        <uri>http://www.edoeb.admin.ch/aktuell/index.html?lang=fr</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="en">Legal Affairs</name>
+      </topic>
+      <topic id="35">
+        <name lang="de">Finanzplatz</name>
+        <name lang="fr">Place financière</name>
+        <name lang="it">Piazza finanziaria</name>
+        <name lang="en">Financial Centre</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

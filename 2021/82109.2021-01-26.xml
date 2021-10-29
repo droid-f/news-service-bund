@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="82109" revoked="no">
+    <version>1</version>
+    <pubdate>2021-01-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Teilen von Fahrzeugen für eine energieeffiziente Mobilität: sharedmobility.ch zeigt Standorte und Verfügbarkeit in Echtzeit</title>
+      <lead>Die neue interaktive Anwendung www.sharedmobility.ch zeigt die Verfügbarkeit und Standorte von Shared Mobility-Fahrzeugen in der Schweiz in Echtzeit an. Die Daten können von Mobilitätsanbietern kostenlos in ihren eigenen Systemen und Apps eingebunden werden. www.sharedmobility.ch wird vom Bundesamt für Energie (BFE), dem Programm EnergieSchweiz und Shared Mobility-Anbietern betrieben.</lead>
+      <text link="no">&lt;p&gt;Unter Shared Mobility (geteilte Mobilität) versteht man die gemeinsame, geteilte Nutzung von Verkehrsmitteln wie Autos, Velos, E-Bikes, Scooter oder E-Trottis. Diese werden dabei nicht mehr als individuelle, sondern als gemeinschaftliche Besitzgüter verstanden, auf die man je nach Bedarf zugreifen kann. So wird Mobilität zur Dienstleistung. Die zentrale und neutrale Plattform www.sharedmobility.ch soll die weitere Verbreitung der geteilten Mobilität unterstützen.&lt;/p&gt;&lt;h2&gt;Offene Daten: Mobilitätsanbieter können die Daten in ihren eigenen Apps nutzen&lt;/h2&gt;&lt;p&gt;Die Plattform wird über Echtzeit-Schnittstellen zu den Sharing-Anbietern gespeist. Mobilitätsanbieter können diese Daten in ihren eigenen Apps nutzen, ohne mit jedem Sharing-Anbieter eine eigene Datenschnittstelle vereinbaren zu müssen. Die Daten können beispielsweise für multimodale Routenplaner von ÖV-Anbietern genutzt werden. Sie sind als Open Data unter der Nutzungslizenz «O-By» verwendbar. Das bedeutet, dass sie frei verwendet werden dürfen, sofern die Quelle angegeben wird.&lt;/p&gt;&lt;h2&gt;Weitere Shared Mobility-Anbieter sollen sich anschliessen&lt;/h2&gt;&lt;p&gt;Aktuell zeigt www.sharedmobility.ch die Verfügbarkeit und Standorte folgender Shared Mobility-Anbieter: AirBie, Bird, BOND, Carvelo2go, Donkey Republic, edrive carsharing, Mobility, Nextbike, Pick-e-Bike, PubliBike, Rent a Bike, TIER, VOI und Zisch.&lt;/p&gt;&lt;p&gt;Weitere interessierte Anbieter von Shared Mobility können sich laufend anschliessen (Kontakt siehe unten). Ziel ist, auf der Plattform möglichst rasch alle Angebote in der Schweiz verfügbar zu machen.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Leiterin Medien + Politik BFE, 058 462 56 75, marianne.zuend@bfe.admin.ch Technische Fragen: Fragen zum Anschluss an das Projekt oder zur Datennutzung bitte an Nico Rohrbach (Projektleiter Daten): nico.rohrbach@bfe.admin.ch.</contact>
+      <link id="211376">
+        <title>www.sharedmobility.ch</title>
+        <uri>https://map.geo.admin.ch/?lang=de&amp;topic=energie&amp;bgLayer=ch.swisstopo.pixelkarte-grau&amp;zoom=0&amp;catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206&amp;layers=ch.bfe.shared-mobility</uri>
+        <position>Context</position>
+      </link>
+      <link id="211377">
+        <title>Daten auf opendata.swiss</title>
+        <uri>http://uvek-gis.admin.ch/BFE/redirect/20210126_sharedmobility_de.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="211378">
+        <title>Informationen zur Datenverwendung</title>
+        <uri>https://github.com/SFOE/sharedmobility</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le partage de véhicules au service de l’efficacité énergétique dans la mobilité: les possibilités en temps réel sur sharedmobility.ch</title>
+      <lead>La nouvelle application interactive www.sharedmobility.ch affiche en temps réel les sites de mobilité partagée et les véhicules disponibles en Suisse. Les prestataires de mobilité peuvent intégrer gratuitement ces données dans leurs propres systèmes et applications. La plateforme www.sharedmobility.ch est gérée par l’Office fédéral de l’énergie (OFEN), le programme SuisseEnergie et divers prestataires de mobilité partagée.</lead>
+      <text link="no">&lt;p&gt;La mobilité partagée (shared mobility) désigne le partage de véhicules tels que les voitures, les vélos (électriques), les scooters ou les trottinettes électriques. Ceux-ci n'ont pas de propriétaires proprement dits; ils peuvent être utilisés tour à tour par différentes personnes au moment où elles en ont besoin. La mobilité devient ainsi un service. La nouvelle plateforme centralisée et neutre www.sharedmobility.ch vise à soutenir le développement de la mobilité partagée.&lt;/p&gt;&lt;h2&gt;Données ouvertes: les prestataires de mobilité peuvent utiliser les données dans leurs propres applications&lt;/h2&gt;&lt;p&gt;La plateforme est alimentée via des interfaces fonctionnant en temps réel qui sont reliées aux applications des fournisseurs d'offres de partage. Les prestataires de mobilité peuvent utiliser ces données ouvertes dans leurs propres applications sans avoir à définir d'interface de données avec chaque fournisseur d'offre de partage. Les entreprises de transports publics notamment peuvent s'en servir dans leurs calculateurs d'itinéraire multimodal. Ces données ouvertes sont exploitables avec la licence d'utilisation «O-By». Il est possible de les utiliser librement à condition d'indiquer leur source.&lt;/p&gt;&lt;h2&gt;D'autres prestataires de mobilité partagée peuvent encore rejoindre la plateforme&lt;/h2&gt;&lt;p&gt;Actuellement, www.sharedmobility.ch indique les sites et les offres disponibles des prestataires de mobilité partagée suivants: AirBie, Bird, BOND, Carvelo2go, Donkey Republic, edrive carsharing, Mobility, Nextbike, Pick-e-Bike, PubliBike, Rent a Bike, TIER, VOI et Zisch.&lt;/p&gt;&lt;p&gt;Il est possible de participer à ce projet en tout temps (interlocuteur cité ci-dessous). L'objectif est de mettre à la disposition du public l'ensemble des offres existantes en Suisse.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, responsable Médias et politique à l’OFEN, 058 462 56 75, marianne.zuend@bfe.admin.ch Veuillez adresser vos questions d’ordre technique concernant la participation au projet ou l’utilisation des données à M. Nico Rohrbach (Responsable du projet Données): nico.rohrbach@bfe.admin.ch.</contact>
+      <link id="211379">
+        <title>www.sharedmobility.ch</title>
+        <uri>https://map.geo.admin.ch/?lang=fr&amp;topic=energie&amp;bgLayer=ch.swisstopo.pixelkarte-grau&amp;zoom=0&amp;layers=ch.bfe.shared-mobility&amp;catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206</uri>
+        <position>Context</position>
+      </link>
+      <link id="211380">
+        <title>Données sur opendata.swiss</title>
+        <uri>http://uvek-gis.admin.ch/BFE/redirect/20210126_sharedmobility_fr.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="211381">
+        <title>Informations concernant l’utilisation des données</title>
+        <uri>https://github.com/SFOE/sharedmobility</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Condivisione di veicoli per una mobilità efficiente: sharedmobility.ch punti di noleggio e disponibilità in tempo reale</title>
+      <lead>La nuova applicazione interattiva www.sharedmobility.ch mostra in tempo reale i punti di noleggio e la disponibilità dei veicoli shared mobility in Svizzera. I fornitori della shared mobility potranno accedere gratuitamente ai dati tramite i loro sistemi o le loro app. La piattaforma www.sharedmobility.ch è gestita dall'Ufficio federale dell'energia (UFE), dal programma SvizzeraEnergia e dai fornitori della shared mobility.</lead>
+      <text link="no">&lt;p&gt;Con il termine shared mobility (mobilità condivisa) si intende l'utilizzo comune e condiviso di mezzi di trasporto quali automobili, biciclette, e-bike, monopattini elettrici. Tali mezzi non sono più intesi come proprietà individuale, ma come proprietà collettiva alla quale si può accedere in base alle necessità. In questo modo la mobilità diventa un servizio. La piattaforma centralizzata www.sharedmobility.ch sosterrà l'ulteriore diffusione della mobilità condivisa.&lt;/p&gt;&lt;h2&gt;Open data: i fornitori di mobilità possono utilizzare i dati sulle proprie app&lt;/h2&gt;&lt;p&gt;La piattaforma viene alimentata tramite interfacce in tempo reale e messa a disposizione ai fornitori di mobilità condivisa. I fornitori di mobilità possono utilizzare questi dati nelle loro app senza dover concordare con ogni fornitore di shared mobility una propria interfaccia dati. I dati possono per esempio essere utilizzati per il calcolatore di itinerario multimodale degli operatori dei trasporti pubblici. I dati sono utilizzabili come open data (dati aperti), regolati dalla licenza «O-By». Ciò significa che possono essere utilizzati liberamente a condizione che venga indicata la fonte.&lt;/p&gt;&lt;h2&gt;È necessaria l'adesione di altri fornitori di shared mobility&lt;/h2&gt;&lt;p&gt;Attualmente la piattaforma http://www.sharedmobility.ch mostra i punti di noleggio e la disponibilità delle offerte dei seguenti fornitori di shared mobility: AirBie, Bird, BOND, Carvelo2go, Donkey Republic, edrive carsharing, Mobility, Nextbike, Pick-e-Bike, PubliBike, Rent a Bike, TIER, VOI e Zisch.&lt;/p&gt;&lt;p&gt;Altri fornitori interessati possono unirsi in ogni momento (cfr. contatti). L'obiettivo è rendere disponibili sulla piattaforma tutte le offerte di shared mobility svizzere il più velocemente possibile.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Capo Media e politica UFE, tel. 058 462 56 75, marianne.zuend@bfe.admin.ch Per domande tecniche sulla partecipazione al progetto o sull'utilizzo dei dati rivolgersi al sig. Nico Rohrbach (Responsabile del progetto dati): nico.rohrbach@bfe.admin.ch</contact>
+      <link id="211382">
+        <title>www.sharedmobility.ch</title>
+        <uri>https://map.geo.admin.ch/?lang=it&amp;topic=energie&amp;bgLayer=ch.swisstopo.pixelkarte-grau&amp;zoom=0&amp;layers=ch.bfe.shared-mobility&amp;catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206</uri>
+        <position>Context</position>
+      </link>
+      <link id="211383">
+        <title>Dati su opendata.swiss</title>
+        <uri>http://uvek-gis.admin.ch/BFE/redirect/20210126_sharedmobility_it.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="211384">
+        <title>Informazioni sull’utilizzo dei dati</title>
+        <uri>https://github.com/SFOE/sharedmobility</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="300" org-id="808">
+        <name lang="de">Energieffizienz</name>
+        <name lang="fr">Efficacité énergétique</name>
+        <name lang="it">Efficienza energetica</name>
+        <name lang="en">Energy Efficiency</name>
+      </keyword>
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="en">Energy Policy</name>
+      </keyword>
+      <keyword id="1430" org-id="808">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="fr">Consommation énergétique</name>
+        <name lang="it">Consumo energetico</name>
+        <name lang="en">Energy Consumption</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

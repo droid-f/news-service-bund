@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4630" revoked="no">
+    <version>2</version>
+    <pubdate>2006-04-12</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="315" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Schweizerisches Bundesarchiv</name>
+      <name lang="fr">Archives fédérales suisses</name>
+      <name lang="it">Archivio federale svizzero</name>
+      <name lang="en">Swiss Federal Archives</name>
+      <www lang="de">http://www.bar.admin.ch</www>
+      <www lang="fr">http://www.bar.admin.ch</www>
+      <www lang="it">http://www.bar.admin.ch</www>
+      <www lang="en">http://www.bar.admin.ch</www>
+      <email lang="de">bundesarchiv@bar.admin.ch</email>
+      <email lang="fr">bundesarchiv@bar.admin.ch</email>
+      <email lang="it">bundesarchiv@bar.admin.ch</email>
+      <email lang="en">bundesarchiv@bar.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Das Gedächtnis der Schweiz online auf www.bar.admin.ch</title>
+      <lead>Das Schweizerische Bundesarchiv hat seinen Internetauftritt überarbeitet und informiert auf www.bar.admin.ch umfassend über nachhaltiges Informationsmanagement in der Bundesverwaltung.</lead>
+      <text link="no">&lt;p&gt;Als historische Fachstelle des Bundes bewertet, sichert, erschliesst und vermittelt das Bundesarchiv archivwürdige Unterlagen der Schweizerischen Eidgenossenschaft. Mit seiner Website www.bar.admin.ch unterstützt es die Verwaltung beim effizienten und nachhaltigen Informationsmanagement. Zahlreiche Arbeitshilfen, Downloads und Links informieren über Dokumentenführung und –verwaltung und bieten Hand bei der Suche und Einsichtnahme in die rund 50 Kilometer umfassenden Unterlagen.&lt;/p&gt;</text>
+      <contact>bundesarchiv@bar.admin.ch</contact>
+      <link id="8193">
+        <title>www.bar.admin.ch</title>
+        <uri>http://www.bar.admin.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-04-13 10:30" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La mémoire de la Suisse est en ligne, à l’adresse www.bar.admin.ch</title>
+      <lead>Les Archives fédérales suisses ont remanié leur site Internet en profondeur et proposent à l’adresse www.bar.admin.ch des informations exhaustives sur la gestion durable de l’information au sein de l’administration fédérale.</lead>
+      <text link="no">Service historique national, les Archives fédérales évaluent, prennent en charge, mettent en valeur et communiquent les documents de la Confédération suisse présentant une valeur archivistique. Par le biais de leur site Internet www.bar.admin.ch, elles offrent également leur soutien à l’administration dans le domaine de la gestion efficace et durable de l’information. Auxiliaires de travail, documents à télécharger et autres liens renseignent sur la gestion des documents et facilitent les recherches et la consultation des quelque 50 kilomètres de documents des Archives fédérales.</text>
+      <contact>bundesarchiv@bar.admin.ch</contact>
+      <link id="8193">
+        <title>www.bar.admin.ch</title>
+        <uri>http://www.bar.admin.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-04-13 10:30" type="R"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="1">
+        <name lang="de">Amtliche Veröffentlichungen</name>
+        <name lang="fr">Publications officielles</name>
+        <name lang="it">Pubblicazioni ufficiali</name>
+        <name lang="en">Official Publications</name>
+      </topic>
+      <topic id="7">
+        <name lang="de">Bibliotheken und Archive</name>
+        <name lang="fr">Bibliothèques et archives</name>
+        <name lang="it">Biblioteche e archivi</name>
+        <name lang="en">Libraries and Archives</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

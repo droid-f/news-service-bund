@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="85360" revoked="no">
+    <version>1</version>
+    <pubdate>2021-10-05</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Mit Datenwissenschaft gegen Armut</title>
+      <lead>Im Januar 2021 waren die Empa und BASE («Basel Agency for Sustainable Energy») unter den Preisträgern der prestigeträchtigen «Inclusive Growth and Recovery Challenge» von data.org, einer Plattform, die sich für den Einsatz von Datenwissenschaften zu sozialen Zwecken einsetzt. In ihrem Projekt entwickelt das Team eine mobile App, die Kleinbauern im ländlichen Indien berät, wie sie ihre frischen Lebensmittel optimal lagern und wann sie sie verkaufen sollen. Acht Monate nach Beginn des Projekts hat das Team Partnerschaften mit Anbietern von Kühllösungen geschlossen, Open-Source-Daten für Indien gesammelt und digitale Zwillinge für Lebensmittel entwickelt.</lead>
+      <text link="no">&lt;p&gt;Indien ist einer der grössten Lebensmittelproduzenten der Welt. Unzureichende Kühlmöglichkeiten und andere Engpässe in der Lieferkette führen jedoch dazu, dass bis zu einem Drittel der produzierten Lebensmittel verschwendet werden – ein geschätzter Verlust in Milliardenhöhe. Nur 6% der Lebensmittel durchlaufen die Kühlkette, verglichen mit etwa 60% in Industrieländern. Besonders problematisch ist die Situation für Kleinbauern, die einen grossen Anteil an der Nahrungsmittelproduktion in Indien haben. Finanzielle, technologische und fachliche Hürden hindern diese Landwirte am Zugang zu nachhaltigen Kühllösungen, um Lebensmittel zu retten – und ihre Existenz zu sichern.&lt;/p&gt;&lt;p&gt;Um diese Herausforderung zu meistern, entwickeln Empa und BASE eine frei zugängliche, datenwissenschaftlich gestützte mobile App, die Kleinbauern und -bäuerinnen Zugang zu nachhaltigen Kühlanlagen, zu Fachwissen vor und nach der Ernte und zu Marktinformationen ermöglicht. Die App «Your Virtual Cold-Chain Assistant» (YourVCCA) enthält verschiedene Dateneingaben wie Wetter- und Klimadaten, Satellitenbilder, geografische Standortdaten, Erträge von Frischprodukten, Daten von hygrothermischen Kühlhaussensoren, prognostizierte Resthaltbarkeit von Produkten und Marktpreise in Echtzeit. Durch die Ausstattung der Kleinbauern mit geeigneten Daten will das Projekt die Ernährungssicherheit verbessern, die Einkommen der Kleinbauern erhöhen, Lebensmittelverluste verringern und die Auswirkungen der Lebensmittelproduktion auf das globale Klima minimieren.&lt;/p&gt;&lt;h3&gt; Zugang zu Kühlräumen und Daten&lt;/h3&gt;&lt;p&gt;Ein entscheidender Weg, um den Zugang von Kleinbauern zu Kühlanlagen zu verbessern, ist die Gründung von Partnerschaften mit Anbietern von Kühllösungen. Einer der lokalen Partner bietet Kühlungsdienste auf einem Markt an, der von rund 500 Kleinbauern besucht wird. Im Rahmen dieses Projekts, das als Pilotprojekt für die YourVCCA-App dient, werden hygrothermische Daten und Nutzungsdaten gesammelt, die Aufschluss über die optimalen Lagerbedingungen und die voraussichtliche Haltbarkeitsdauer der Erzeugnisse geben. Ziel des Projektteams ist es, Daten zu sammeln und diese in einer mehrschichtigen Karte Indiens zusammenzufassen, auf der die vielversprechendsten Kühlraumlager im Land verzeichnet sind.&lt;/p&gt;&lt;p&gt;Gleichzeitig wird die Wirksamkeit von YourVCCA getestet, einschliesslich eines bildbasierten maschinellen Lernmodells zur Bewertung von Früchten nach der Ernte. Darüber hinaus entwickelt das Projektteam visuelle, physikbasierte Zwillinge, die in Echtzeit die voraussichtliche Haltbarkeit der gelagerten Früchte vorhersagen. «An der Empa können wir bereits voraussagen, wie lange man ein Produkt lagern kann und wie Kleinbauern und -bäuerinnen diese Produkte lagern sollten, damit sie möglichst lange haltbar sind», sagt Empa-Forscher Thijs Defraeye. Diese digitalen Zwillinge werden Landwirten und Kühldienstleistern demnächst über eine webbasierte Plattform oder über eine mobile Version zur Verfügung gestellt. In YourVCCA werden diese digitalen Zwillinge und ihre Haltbarkeitsvorhersagen mit Marktpreisprognosen kombiniert, um den Landwirten zu empfehlen, wann sie ihre Ware am besten verkaufen sollten. «Wir haben YourVCCA als eine Art virtuellen Coach konzipiert, der den Nutzern rät, wie sie ihre Produkte lagern sollen, wie viel von der Qualität noch vorhanden ist und wann sie verkaufen sollten», fügt Defraeye hinzu.&lt;/p&gt;Derzeit arbeitet das Projektteam an der Architektur der Benutzeroberfläche für YourVCCA. Die Benutzerfreundlichkeit sowohl für Kleinbauern als auch für Betreiber von Kühlsystemen wird in den kommenden Monaten getestet. «Die Fortschritte sind vielversprechend», so Defraeye, «wenn wir die Daten nutzen können, können wir viel mehr Lebensmittel vor dem Verderb retten, was sowohl den lokalen Produzenten als auch dem Klima zugutekäme. Wir alle wissen, dass die Technologie dafür vorhanden ist, aber derzeit sind die Lösungen nicht auf Kleinbauern zugeschnitten, da der finanzielle Anreiz dafür einfach geringer ist als bei grösseren Agrarunternehmen.»</text>
+      <contact>Prof. Dr. Thijs Defraeye Biomimetic Membranes and Textiles Tel. +41 58 765 47 90 Thijs.Defraeye@empa.ch Redaktion / Medienkontakt Amanda Caracas Kommunikation Tel. +41 58 765 60 59 redaktion@empa.ch</contact>
+      <attachment id="221741">
+        <title>Die mobile App «YourVCCA», die derzeit von Empa und BASE entwickelt wird, soll Kleinbauern im ländlichen Indien Zugang zum Kühlkettenmarkt verschaffen. Bild: BASE</title>
+        <format>jpg</format>
+        <size-kb>73</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68451.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221744">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/food-waste</uri>
+        <position>Context</position>
+      </link>
+      <link id="221745">
+        <title>Project website</title>
+        <uri>https://energy-base.org/projects/your-virtual-cold-chain-assistant/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Utiliser la science des données pour lutter contre la pauvreté</title>
+      <lead>En janvier 2021, l'Empa et BASE (Basel Agency for Sustainable Energy) ont fait partie des lauréats du prestigieux Inclusive Growth and Recovery Challenge de data.org, une plateforme de partenariats qui s'engage à développer le domaine de la science des données pour un impact social. Dans le cadre de leur projet, l'équipe développe une application mobile qui vise à donner aux petits exploitants agricoles des zones rurales de l'Inde des conseils sur la façon de mieux stocker leurs aliments frais et sur le moment idéal pour les vendre. Huit mois après le début du projet, l'équipe a noué des partenariats avec des fournisseurs de solutions de refroidissement, collecté des données en "open source" pour l'Inde et développé des jumeaux numériques des aliments.</lead>
+      <text link="no">&lt;p&gt;L'Inde est l'un des plus grands producteurs de denrées alimentaires au monde. Cependant, les possibilités insuffisantes de réfrigération et d'autres goulets d'étranglement dans la chaîne d'approvisionnement entraî-nent un gaspillage allant jusqu'à un tiers de la nourriture produite - une perte estimée à un milliard de dollars. Seuls 6% des aliments passent par la chaîne du froid, contre environ 60% dans les pays développés. La situa-tion est particulièrement problématique pour les petits exploitants agricoles, qui contribuent largement à la production alimentaire en Inde. Les barrières financières, technologiques et de connaissances empêchent ces agriculteurs d'accéder à des solutions de refroidissement durables pour sauver les aliments - et assurer leurs moyens de subsistance.&lt;/p&gt;&lt;p&gt;Pour relever ce défi, l'Empa et BASE développent une application mobile en libre accès, basée sur la science des données, pour permettre aux petits exploitants d'accéder à des installations de refroidissement durables, à une expertise avant et après récolte et à des informations sur le marché. L'application, Your Virtual Cold-Chain Assistant (YourVCCA), comprend diverses données telles que des données météorologiques et clima-tiques, des images satellites, des données de localisation géographique, des rendements de produits frais, des données de capteurs de froid hygrothermiques, la durée de conservation restante prévue des produits et les prix du marché en temps réel. En dotant les petits exploitants de données appropriées, le projet vise à améliorer la sécurité alimentaire, à augmenter les revenus des petits exploitants, à réduire les pertes de nour-riture et à minimiser l'impact de la production alimentaire sur le climat mondial.&lt;/p&gt;&lt;h3&gt; Accès aux installations de refroidissement et aux données&lt;/h3&gt;&lt;p&gt;Une façon décisive de s'attaquer à l'accès des petits exploitants aux installations de refroidissement consiste à lancer des partenariats avec des fournisseurs de solutions de refroidissement. L'un de ces partenaires fournit des services de refroidissement sur un marché fréquenté par quelque 500 petits exploitants. Ce projet, qui sert de pilote à YourVCCA, permettra de collecter des données hygrothermiques et d'utilisation et fournira des indications sur les conditions de stockage optimales et la durée de conservation prévue des cultures. L'équipe du projet a pour objectif de collecter des ensembles de données et de les consolider dans une carte multicouche de l'Inde, affichant les sites de stockage en chambre froide les plus prometteurs du pays.&lt;/p&gt;&lt;p&gt;Dans le même temps, l'efficacité de YourVCCA sera testée, y compris un modèle d'apprentissage automatique basé sur l'image pour classer les fruits après la récolte. En outre, l'équipe du projet développe des jumeaux numérique des aliments, basés sur la physique, qui prédisent en temps réel la durée de conservation des fruits stockés. "À l'Empa, nous prédisons réellement la durée de conservation d'un produit et la manière dont les petits exploitants agricoles devraient stocker ces produits pour qu'ils durent le plus longtemps possible", explique Thijs Defraeye, chercheur à l'Empa. Ces jumeaux alimentaires sont sur le point d'être mis à la dispo-sition des agriculteurs et des prestataires de services de refroidissement via une plateforme basée sur le web ou via une version exécutable pouvant fonctionner sur des appareils mobiles. Dans YourVCCA, ces jumeaux alimentaires et leurs prévisions de durée de conservation sont associés aux prévisions de prix du marché pour indiquer aux agriculteurs le meilleur moment pour vendre leurs produits. "Nous avons conçu YourVCCA comme une sorte de coach virtuel qui conseille les utilisateurs sur la manière de stocker leurs produits, sur la qualité qu'ils ont encore et sur le moment où ils doivent les vendre", ajoute Thijs Defraeye.&lt;/p&gt;&lt;p&gt;Actuellement, l'équipe du projet travaille sur une architecture préliminaire de l'interface utilisateur de Your-VCCA. Sa convivialité, tant pour les petits exploitants agricoles que pour les fournisseurs de systèmes de re-froidissement, sera testée dans les mois à venir. "Les progrès sont très prometteurs", affirme Thijs Defraeye. "Si nous parvenons à exploiter les données, nous pourrons économiser beaucoup plus de nourriture, ce qui profiterait à la fois aux communautés locales et au climat. Nous savons tous que la technologie est là, mais actuellement les solutions ne sont pas adaptées pour servir les petits exploitants agricoles, car l'incitation fi-nancière à le faire est tout simplement plus faible que pour les grandes entreprises agricoles."&lt;/p&gt;</text>
+      <contact>Prof. Dr. Thijs Defraeye Biomimetic Membranes and Textiles Tél. +41 58 765 47 90 Thijs.Defraeye@empa.ch Rédaction / Contact médias Amanda Caracas Communication Tél. +41 58 765 60 59 redaktion@empa.ch</contact>
+      <attachment id="221742">
+        <title>L'application mobile YourVCCA, actuellement développée par l'Empa et BASE, vise à donner aux petits exploitants agricoles de l'Inde rurale un accès au marché de la chaîne du froid. Image: BASE</title>
+        <format>jpg</format>
+        <size-kb>73</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68452.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221744">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/food-waste</uri>
+        <position>Context</position>
+      </link>
+      <link id="221745">
+        <title>Project website</title>
+        <uri>https://energy-base.org/projects/your-virtual-cold-chain-assistant/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Using data science to combat poverty</title>
+      <lead>In January 2021, Empa and BASE (Basel Agency for Sustainable Energy) were among the winners of the prestigious Inclusive Growth and Recovery Challenge by data.org, a platform for partnerships committed to build the field of data science for social impact. In their project, the team is developing a mobile app that aims to give smallholder farmers in rural India advice on how to better store their fresh foods and when to sell them. Eight months into the project, the team has forged partnerships with cooling solution providers, collected open-source data for India, and developed digital food twins.</lead>
+      <text link="no">India is one of the world's largest food producers. However, insufficient refrigeration possibilities and other bottlenecks in the supply chain result in a waste of up to a third of the food produced – an estimated billion-dollar loss. Only 6% of the food moves through the cold chain, compared to about 60% in developed countries. The situation is especially problematic for smallholder farmers, which are major contributors to food production in India. Financial, technological, and knowledge barriers prevent these farmers from accessing sustainable cooling solutions to save food – and secure their livelihoods. To tackle this challenge, Empa and BASE are developing an open-access, data-science based mobile app to give smallholders access to sustainable cooling facilities, pre- and post-harvest expertise, and market intelligence. The app, Your Virtual Cold-Chain Assistant (YourVCCA), includes various data inputs such as weather and climate data, satellite images, geographic location data, fresh-produce yields, hygrothermal cold-storage sensor data, forecasted remaining shelf life of produce, and real-time market prices. By equipping smallholders with appropriate data, the project aims to improve food security, increase smallholder incomes, reduce food loss, and minimize the impact of food production on the global climate. - Access to cooling facilities and data - A decisive way to tackle smallholders' access to cooling facilities is by launching partnerships with cooling solution providers. One of the partners provides cooling services in a market visited by some 500 smallholder farmers. This project, which serves as a pilot for YourVCCA, will collect hygrothermal and usage data and provide insights on optimal storage conditions and the expected shelf life of crops. The project team aims to collect datasets and consolidate them into a multi-layer map of India, displaying the most promising cold room storage sites in the country. At the same time, the effectiveness of YourVCCA will be tested, including an image-based machine-learning model to grade fruits after harvest. Moreover, the project team is developing visual, physics-based food twins that predict the expected shelf life of the stored fruit in real time. "At Empa, we actually predict how long you can store a product and how smallholder farmers should store these products in order for them to last as long as possible", says Empa researcher Thijs Defraeye. These food twins are about to be made available to farmers and cooling service providers via a web-based platform or via an executable version that can run on mobile devices. In YourVCCA, these food twins and their shelf life predictions are combined with market price forecasts to instruct farmers when to best sell their produce. "We have designed YourVCCA as a kind of virtual coach that advises users how to store their products, how much of the quality is still there, and when they should sell", adds Defraeye. Currently, the project team is working on a preliminary architecture of the user interface for YourVCCA. Its user friendliness for both smallholder farmers and cooling system providers will be tested in the coming months. "The progress is very promising", claims Defraeye. "If we can harness the data, we can save much more food, and this would benefit both the local communities and the climate. We all know that the technology is there, but currently the solutions are not tailored to serve smallholder farmers, as the financial incentive to do so is just lower than with larger agricultural companies."</text>
+      <contact>Prof. Dr. Thijs Defraeye Biomimetic Membranes and Textiles Phone +41 58 765 47 90 Thijs.Defraeye@empa.ch Editor / Media contact Amanda Caracas Communication Phone +41 58 765 60 59 redaktion@empa.ch</contact>
+      <attachment id="221743">
+        <title>The mobile app YourVCCA, developed by Empa and BASE, aims to give smallholder farmers in rural India access to the cold chain market. Image: BASE</title>
+        <format>jpg</format>
+        <size-kb>73</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68453.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221744">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/food-waste</uri>
+        <position>Context</position>
+      </link>
+      <link id="221745">
+        <title>Project website</title>
+        <uri>https://energy-base.org/projects/your-virtual-cold-chain-assistant/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="38">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="en">Agriculture</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

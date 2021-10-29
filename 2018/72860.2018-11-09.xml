@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="72860" revoked="no">
+    <version>1</version>
+    <pubdate>2018-11-09</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="317" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1079" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
+      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="en">Federal Food Safety and Veterinary Office</name>
+      <www lang="de">http://www.blv.admin.ch</www>
+      <www lang="fr">http://www.blv.admin.ch</www>
+      <www lang="it">http://www.blv.admin.ch</www>
+      <www lang="en">http://www.blv.admin.ch</www>
+      <email lang="de">media@blv.admin.ch</email>
+      <email lang="fr">info@blv.admin.ch</email>
+      <email lang="it">info@blv.admin.ch</email>
+      <email lang="en">info@blv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="705" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>«Nutze sie richtig, es ist wichtig» - Bund startet Kampagne zum Umgang mit Antibiotika</title>
+      <lead>«Nutze sie richtig, es ist wichtig» - Die Wirksamkeit von Antibiotika für Mensch und Tier erhalten und Resistenzen vermindern: Das sind die beiden wichtigsten Ziele der nationalen Strategie Antibiotikaresistenzen StAR. Die Strategie wird vom Bund gemeinsam mit Ärzten, Apothekerinnen, Tierärztinnen und Landwirten umgesetzt. Lanciert im Jahre 2015 zeigen sich erste Erfolge: So konnte der Verbrauch von Antibiotika in der Tiermedizin um die Hälfte reduziert werden. In der Humanmedizin gelten schweizweit einheitliche Verschreibungsrichtlinien. Mit einer Informationskampagne will der Bund die breite Bevölkerung nun noch stärker für das Thema sensibilisieren; dies mit dem Slogan «Antibiotika: Nutze sie richtig, es ist wichtig».</lead>
+      <text link="no">&lt;p&gt;Die Entwicklung von Antibiotika gehört zu den bedeutendsten Errungenschaften der modernen Medizin. Dank dieser Medikamente ist es möglich, gefährliche Krankheiten wie Lungenentzündungen oder Blutvergiftungen zu heilen, die früher oft tödlich verlaufen sind. Werden Antibiotika aber zu oft oder falsch eingenommen, werden Bakterien resistent und die Antibiotika verlieren ihre Wirkung. Damit steigt die Gefahr, dass gewisse Infektionen bei Menschen oder Tieren nur noch schwer oder überhaupt nicht mehr behandelt werden können. &lt;/p&gt;&lt;p&gt;Um die Wirksamkeit der Antibiotika zu erhalten, braucht es nicht nur das Engagement der Fachleute. Auch die Patientinnen und Patienten und die Tierhalterinnen und Tierhalter sollen verantwortungsvoll mit diesen Medikamenten umgehen. Umfragen haben gezeigt, dass in der Bevölkerung noch Wissenslücken bestehen. Mit einer breit angelegten Kampagne will der Bund deshalb über die Bedeutung der Antibiotika, über die Risiken resistenter Bakterien und über die korrekte Anwendung dieser Medikamente bei Mensch und Tier informieren. &lt;/p&gt;&lt;p&gt;Die Kampagne wird mit TV-Spots, Plakaten, Online-Werbung und einer Kampagnenwebsite schweizweit gestartet und soll voraussichtlich während vier Jahren laufen. Animierte Figuren informieren unter dem Slogan «Antibiotika: Nutze sie richtig, es ist wichtig» über den sorgfältigen Umgang mit diesen Medikamenten und über die Folgen, die resistent gewordene Bakterien für Mensch, Tier, Landwirtschaft und Umwelt haben können. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Nationale Strategie Antibiotikaresistenzen StAR&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Die Kampagne ist Teil der nationalen Strategie gegen Antibiotikaresistenzen StAR, die der Bundesrat 2015 lanciert hat. Sie wird von den vier Bundesämtern für Gesundheit BAG, Lebensmittelsicherheit und Veterinärwesen BLV, Landwirtschaft BLW und Umwelt BAFU gemeinsam mit den betroffenen Akteuren umgesetzt. Insgesamt 35 Massnahmen wurden seither in Angriff genommen und dabei wichtige Fortschritte gemacht.&lt;br /&gt; &lt;br /&gt;In der Tiermedizin konnte die Menge der verkauften Antibiotika dank verschiedenster Massnahmen in den letzten zehn Jahren um die Hälfte reduziert werden. So wurde die Abgabe bestimmter Antibiotika eingeschränkt, und es wurden Therapieleitfäden und Informationsmaterial erarbeitet. Damit wurde das Problembewusstsein der Tierärztinnen und Tierärzte und der Tierhalterinnen und Tierhalter in den letzten Jahren weiter erhöht. Ein nationales Informationssystem zur Erfassung von Antibiotikaverschreibungen (IS ABV) in der Tiermedizin soll zudem ab 2019 schrittweise ermöglichen, einen genaueren Überblick über die Anwendung von Antibiotika zu erhalten. &lt;/p&gt;&lt;p&gt;Auch in der Landwirtschaft sind die bäuerlichen Tierhalterinnen und Tierhalter sensibilisiert. Mehrere landwirtschaftliche Branchen haben zusammen mit den Tierärzten und Bauern Präventionsprogramme zur Verbesserung der Tiergesundheit gestartet, denn gesunde Tiere brauchen keine Antibiotika. Diese Präventionsprogramme werden vom Bundesamt für Landwirtschaft finanziell unterstützt. Die Anstrengungen der Landwirtschaft zeigen sich im sinkenden Antibiotikaverbrauch seit 2008.&lt;/p&gt;&lt;p&gt;Im Humanbereich haben die zuständigen medizinischen Fachgesellschaften einheitliche, schweizweit geltende Verschreibungsrichtlinien formuliert. Die Ärzteschaft (Haus- und Fachärzte) ist aufgefordert, diese Richtlinien bei ihren Therapieentscheiden anzuwenden. Die Richtlinien definieren, wann Antibiotika eingesetzt werden sollen, und sie enthalten Angaben zur Wahl des geeigneten Antibiotikums, zur Dosierung und zur Therapiedauer. Eine neue Online-Plattform gibt den Ärztinnen und Ärzten zudem einen Überblick über die aktuellsten regionalen Resistenzdaten (www.infect.info). &lt;/p&gt;&lt;p&gt;Der zweijährliche Swiss Antibiotic Resistance Report zeigt auf, dass der Antibiotikaverbrauch gemessen an der Gesamtbevölkerung im Vergleich zur letzten Berichtsperiode leicht abgenommen hat. Im ambulanten Bereich sank der Verbrauch um rund 5 Prozent, im stationären Bereich um rund 10 Prozent. Gemäss einer Studie unter Hausärztinnen und Hausärzten wurden 2017 in 29 von 1'000 Konsultationen Antibiotika verschrieben. Dies ist deutlich weniger als in den Jahren 2006 bis 2013 mit jährlich 34-40 Verschreibungen pro 1000 Konsultationen. &lt;/p&gt;&lt;p&gt;In den Schweizer Gewässern sind vereinzelt antibiotikaresistente Bakterien nachgewiesen worden. Ein Teil dieser Bakterien kommt natürlicherweise dort vor. Der andere Teil gelangt mit dem Abwasser in die Seen und Flüsse. Die Kläranlagen eliminieren schon heute bis zu 99 Prozent dieser Mikroorganismen. Der laufende Ausbau ausgewählter Kläranlagen mit zusätzlichen Reinigungsstufen sorgt zudem dafür, dass diese Organismen weiter reduziert werden können. &lt;/p&gt;&lt;p&gt;Um Fachleute und interessierte Bevölkerung auf die Gefahren zunehmender Resistenzen bei Bakterien hinzuweisen und das Bewusstsein für einen umsichtigen Einsatz von Antibiotika zu schärfen, findet auch dieses Jahr die „World Antibiotic Awareness Week“ der Weltgesundheitsorganisation (WHO) statt. In der Schweiz organisieren verschiedene Akteure zwischen dem 12.-18. November 2018 Podiumsdiskussionen, Weiterbildungen, Betriebsbesichtigungen oder Standaktionen (siehe Link „star“).&lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit BAG, Kommunikation, Tel. 058 462 95 05 oder media@bag.admin.ch Bundesamt für Landwirtschaft BLW, Kommunikation, Tel. 058 462 81 28 oder info@blw.admin.ch Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV, Kommunikation, Tel. 058 463 78 98 oder media@blv.admin.ch Bundesamt für Umwelt BAFU, Kommunikation, Tel. 058 462 90 00 oder medien@bafu.admin.ch</contact>
+      <attachment id="183319">
+        <title>Faktenblatt - Swiss Antibiotic Resistance Report 2018</title>
+        <format>pdf</format>
+        <size-kb>1135</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/54420.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="183311">
+        <title>StAR - Nationale Strategie Antibiotikaresistenzen</title>
+        <uri>http://www.star.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="183315">
+        <title>Die Kampagnenwebsite</title>
+        <uri>http://www.richtig-ist-wichtig.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Confédération lance la campagne « Antibiotiques : quand il faut, comme il faut »</title>
+      <lead>La stratégie nationale Antibiorésistance (StAR) a pour objectif principal de garantir l’efficacité des antibiotiques pour la santé humaine et animale, et de réduire les résistances à ces substances. Lancée en 2015 et mise en œuvre par la Confédération en collaboration avec des médecins, des pharmaciens, des vétérinaires et des agriculteurs, la stratégie StAR porte ses premiers fruits : le recours aux antibiotiques a été réduit de moitié en médecine vétérinaire, et des directives en matière de prescription harmonisées au plan national sont appliquées en médecine humaine. Avec une campagne d’information et un slogan « quand il faut, comme il faut », la Confédération souhaite sensibiliser encore davantage la population.</lead>
+      <text link="no">&lt;p&gt;Le développement des antibiotiques constitue l’une des plus grandes avancées de la médecine moderne. Grâce à ces médicaments, il est possible de traiter des pathologies graves, comme la pneumonie ou la septicémie, dont l’issue se révélait auparavant souvent fatale. Leur utilisation excessive ou inappropriée entraîne cependant une résistance des bactéries et une perte de leur efficacité. Ce qui accroît le risque que certaines infections développées par les hommes ou les animaux deviennent difficiles, voire impossibles, à traiter. &lt;/p&gt;&lt;p&gt;L’engagement des experts ne suffit pas à lui seul pour garantir l’efficacité des antibiotiques : les patients ainsi que les éleveurs doivent également utiliser ces médicaments de manière responsable. Des enquêtes ont montré qu’il existe encore des lacunes à ce sujet au sein de la population. En lançant cette campagne à grande échelle, la Confédération entend donc informer sur l’importance des antibiotiques, sur les risques liés aux bactéries résistantes ainsi que sur l’utilisation correcte de ces médicaments dans les domaines humain et animal. &lt;/p&gt;&lt;p&gt;Prévue pour quatre ans, la campagne sera diffusée à l’échelle nationale via des spots TV, des affiches, de la publicité en ligne et un site Internet. Sous le slogan « Antibiotiques : quand il faut, comme il faut », des figures animées fournissent des informations concernant l’utilisation consciencieuse de ces médicaments et sur les conséquences que des bactéries devenues résistantes peuvent avoir pour l’homme, l’animal, l’agriculture et l’environnement. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stratégie nationale Antibiorésistance (StAR)&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;S’inscrivant dans la stratégie StAR lancée en 2015 par le Conseil fédéral, la campagne est mise en œuvre par les quatre offices fédéraux de la santé publique (OFSP), de la sécurité alimentaire et des affaires vétérinaires (OSAV), de l’agriculture (OFAG) et de l’environnement (OFEV) ainsi que par les acteurs concernés. 35 mesures ont déjà été réalisées avec d’importants progrès à la clé.&lt;br /&gt; &lt;br /&gt;Grâce aux différentes dispositions prises ces dix dernières années, la quantité d’antibiotiques vendus en médecine vétérinaire a pu être réduite de moitié. Ainsi, la remise de certaines substances a diminué, et des guides thérapeutiques ainsi que du matériel d’information ont été élaborés. La prise de conscience des vétérinaires et des éleveurs, entamée ces dernières années, se poursuit. Un système d’information national visant à enregistrer les prescriptions d’antibiotiques (SI ABV) en médecine vétérinaire permettra progressivement, dès 2019, d’avoir une vue d’ensemble plus précise de l’utilisation de ces médicaments antibiotiques. &lt;/p&gt;&lt;p&gt;Dans le secteur agricole, les éleveurs de bétail sont également sensibilisés au problème. Conjointement avec les vétérinaires et les paysans, plusieurs branches ont lancé des programmes de prévention soutenus financièrement par l’OFAG, qui visent à améliorer la santé animale ; en effet, des animaux en bonne santé n’ont pas besoin d’antibiotiques. Ces efforts se traduisent par une baisse de l’utilisation des antibiotiques depuis 2008.&lt;/p&gt;&lt;p&gt;Dans le domaine humain, les sociétés de discipline médicale concernées ont formulé des directives en matière de prescription harmonisées, valables pour toute la Suisse. Le corps médical (médecins de famille et spécialistes) est invité à les appliquer lors des décisions thérapeutiques. Elles définissent à quel moment il faut utiliser des antibiotiques et comportent aussi des informations permettant de préciser le choix du médicament, son dosage ainsi que la durée du traitement. Une nouvelle plateforme en ligne donne en outre aux médecins une vue d’ensemble des données régionales les plus récentes sur la résistance (www.infect.info). &lt;/p&gt;&lt;p&gt;Le Swiss Antibiotic Resistance Report, qui paraît tous les deux ans, souligne que l’usage des antibiotiques rapporté à l’ensemble de la population a légèrement diminué par rapport à la précédente période sous revue. Dans les domaines ambulatoire et stationnaire, la consommation a baissé de respectivement 5 % et 10 %. Selon une étude réalisée auprès des médecins de famille, ces derniers ont prescrit des antibiotiques dans 29 consultations sur 1000 en 2017. C’est nettement moins que les 34 à 40 prescriptions (toujours sur un total de 1000 consultations) effectuées chaque année entre 2006 et 2013. &lt;/p&gt;&lt;p&gt;Des bactéries antibiorésistantes ont été détectées ici et là dans les eaux suisses. Si une partie s’y trouve à l’état naturel, l’autre y parvient par le biais des eaux usées déversées dans les lacs et les rivières. Les stations d’épuration éliminent aujourd’hui déjà jusqu’à 99 % de ces microorganismes. Certaines stations prévoient actuellement des étapes de traitement supplémentaires dans le but de réduire encore davantage ces organismes. &lt;/p&gt;&lt;p&gt;Afin d’informer les spécialistes et la population intéressée aux dangers liés à l’augmentation de l’antibiorésistance et de les sensibiliser davantage à l’importance d’utiliser les antibiotiques avec prudence, l’Organisation mondiale de la santé (OMS) met sur pied, comme chaque année, la Semaine mondiale pour un bon usage des antibiotiques. En Suisse, différents acteurs organiseront, entre les 12 et 18 novembre 2018, des podiums de discussion, des formations continues, des visites d’entreprises ou des stands d’information (voir lien « star »). &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique (OFSP), Communication, tél. 058 462 95 05 ou media@bag.admin.ch Office fédéral de l’agriculture (OFAG), Communication,tél. 058 462 81 28 ou info@blw.admin.ch Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), Service média, tél. 058 463 78 98 ou media@blv.admin.ch Office fédéral de l’environnement (OFEV), Communication,tél. 058 462 90 00 ou info@blw.admin.ch</contact>
+      <attachment id="183320">
+        <title>Fiche d'information - Swiss Antibiotic Resistance Report 2018</title>
+        <format>pdf</format>
+        <size-kb>1215</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/54421.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="183312">
+        <title>StAR - Stratégie nationale Antibiorésistance</title>
+        <uri>https://www.star.admin.ch/star/fr/home.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="183316">
+        <title>Le site Internet de la campagne</title>
+        <uri>http://www.quand-il-faut-comme-il-faut.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>La Confederazione avvia la campagna sull’impiego degli antibiotici: «Quando serve, quanto serve»</title>
+      <lead>Conservare l’efficacia degli antibiotici per l’essere umano e gli animali e ridurre le resistenze: sono questi i due obiettivi più importanti della Strategia nazionale contro le resistenze agli antibiotici StAR. La strategia è attuata dalla Confederazione in collaborazione con medici, farmacisti, veterinari e agricoltori. Avviata nel 2015, ha fatto registrare i primi successi: nella medicina veterinaria è stato possibile dimezzare il consumo di antibiotici. Per la medicina umana vigono linee guida per la prescrizione uniformi per tutta la Svizzera. Ora la Confederazione intende sensibilizzare ulteriormente la popolazione sull’argomento con una campagna d’informazione all’insegna dello slogan: «Antibiotici: quando serve, quanto serve».</lead>
+      <text link="no">&lt;p&gt;Lo sviluppo di antibiotici rientra tra i progressi più significativi della medicina moderna. Questi medicamenti permettono di curare malattie pericolose come polmoniti o setticemie, che in precedenza avevano spesso un decorso letale. Tuttavia, se vengono assunti troppo spesso o in modo errato, perdono la loro efficacia perché i batteri divengono resistenti. Aumenta così il rischio che determinate infezioni nell’essere umano e negli animali non possano più essere curate o possano esserlo soltanto con difficoltà. &lt;/p&gt;&lt;p&gt;Per conservare l’efficacia degli antibiotici l’impegno degli specialisti non basta. Anche i pazienti e i detentori di animali devono utilizzare responsabilmente questi medicamenti. I sondaggi hanno evidenziato che nella popolazione vi sono ancora lacune informative. Con una campagna di ampio respiro, la Confederazione intende quindi informare sull’importanza degli antibiotici, sui rischi dei batteri resistenti e sull’impiego corretto dei medicamenti nell’essere umano e negli animali. &lt;/p&gt;&lt;p&gt;La campagna sarà avviata in tutta la Svizzera con spot televisivi, cartelloni, pubblicità online e un apposito sito web, con una durata prevista di quattro anni. All’insegna dello slogan «Antibiotici: quando serve, quanto serve», personaggi animati informeranno sull’uso responsabile di questi medicamenti e sulle conseguenze che i batteri divenuti resistenti possono avere per l’essere umano, gli animali, l’agricoltura e l’ambiente. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Strategia contro le resistenze agli antibiotici (StAR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;La campagna fa parte della Strategia nazionale contro le resistenze agli antibiotici StAR, avviata dal Consiglio federale nel 2015. La strategia è attuata dai quattro Uffici federali della sanità pubblica UFSP, della sicurezza alimentare e di veterinaria USAV, dell’agricoltura UFAG e dell’ambiente UFAM insieme agli attori interessati. Da allora sono state adottate 35 misure e ottenuti importanti progressi.&lt;br /&gt; &lt;br /&gt;Negli ultimi dieci anni, grazie a queste misure, nella medicina veterinaria è stato possibile ridurre della metà la quantità di antibiotici venduti. È stata limitata la consegna di determinati antibiotici e sono state elaborate linee guida per la terapia e materiale informativo. Negli ultimi anni è stata così ulteriormente incrementata la consapevolezza del problema presso i veterinari e i detentori di animali. Inoltre dal 2019 un sistema d’informazione nazionale per la rilevazione delle prescrizioni di antibiotici (SI AMV) nella medicina veterinaria dovrà consentire di ottenere progressivamente un quadro più preciso dell’impiego di antibiotici. &lt;/p&gt;&lt;p&gt;Anche gli agricoltori che detengono animali sono sensibilizzati. Numerosi settori agricoli hanno avviato insieme ai veterinari e agli agricoltori programmi di prevenzione per il miglioramento della salute degli animali, perché gli animali sani non hanno bisogno di antibiotici. Questi programmi di prevenzione sono sovvenzionati dall’UFAG. Gli sforzi compiuti dal settore agricolo si riflettono nel calo del consumo di antibiotici dal 2008.&lt;/p&gt;&lt;p&gt;Nella medicina umana le competenti associazioni specialistiche di medici hanno formulato linee guida uniformi per la prescrizione vigenti in tutta la Svizzera. I medici (di famiglia e specialisti) sono invitati ad applicare queste linee guida nelle loro decisioni terapeutiche. Le linee guida definiscono quando devono essere impiegati gli antibiotici e contengono indicazioni per la scelta dell’antibiotico adatto, il dosaggio e la durata della terapia. Inoltre una nuova piattaforma online fornisce ai medici una panoramica dei dati regionali più recenti sulla resistenza (www.infect.info). &lt;/p&gt;&lt;p&gt;Il rapporto biennale Swiss Antibiotic Resistance Report indica che, rispetto al periodo preso in esame dal rapporto precedente, il consumo di antibiotici della popolazione generale è leggermente diminuito, del 5 per cento nel settore ambulatoriale e del 10 per cento in quello stazionario. Secondo uno studio condotto tra i medici di famiglia, nel 2017 sono stati prescritti antibiotici in 29 casi ogni 1000 pazienti visitati, un dato decisamente inferiore a quello degli anni dal 2006 al 2013, con 34-40 prescrizioni ogni 1000 visite. &lt;/p&gt;&lt;p&gt;Nelle acque svizzere sono stati rinvenuti sporadicamente batteri resistenti agli antibiotici. Una parte di questi batteri è presente naturalmente, il resto giunge nei laghi e nei fiumi con le acque reflue. Già oggi gli impianti di depurazione eliminano fino al 99 per cento di questi microrganismi. L’ampliamento in corso di impianti di depurazione selezionati con ulteriori stadi di depurazione fa in modo che la quantità di questi organismi possa essere ulteriormente ridotta. &lt;/p&gt;&lt;p&gt;Per ricordare agli specialisti e alla popolazione interessata i pericoli dell’aumento della resistenza nei batteri e aumentare la consapevolezza per un impiego prudente degli antibiotici, anche quest’anno si svolgerà la «Settimana mondiale per l’uso prudente degli antibiotici» dell’Organizzazione mondiale della sanità (OMS). In Svizzera, dal 12 al 18 novembre 2018 diversi attori organizzeranno conferenze, corsi di perfezionamento, visite a stabilimenti o stand pubblici (vedi link “star”). &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP, Comunicazione, tel. 058 462 95 05 o media@bag.admin.ch Ufficio federale dell’agricoltura UFAG, Comunicazione, tel. 058 462 81 28 o info@blw.admin.ch Ufficio federale della sicurezza alimentare e di veterinaria USAV, Comunicazione, tel. 058 463 78 98 o media@blv.admin.ch Ufficio federale dell’ambiente UFAM, Comunicazione, tel. 058 462 90 00 o medien@bafu.admin.ch</contact>
+      <attachment id="183321">
+        <title>Scheda informativa - Swiss Antibiotic Resistance Report 2018</title>
+        <format>pdf</format>
+        <size-kb>1200</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/54422.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="183313">
+        <title>StAR - Strategia nazionale contro le resistenze agli antibiotici</title>
+        <uri>https://www.star.admin.ch/star/it/home.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="183317">
+        <title>Sito web della campagna</title>
+        <uri>http://www.quando-serve-quanto-serve.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Federal authorities launch a campaign to promote appropriate use of antibiotics</title>
+      <lead>Maintaining the effectiveness of antibiotics for humans and animals, and combating resistance – these are the two main objectives of the national Strategy on Antibiotic Resistance (StAR) which is being implemented by the federal authorities in partnership with physicians, pharmacists, veterinarians and farmers. Launched in 2015, the strategy is already producing results: for example, the use of antibiotics in veterinary medicine has been halved. In human medicine, uniform prescribing guidelines are now in force throughout Switzerland. With a public information campaign, the federal authorities aim to further raise awareness of the importance of using antibiotics correctly.</lead>
+      <text link="no">&lt;p&gt;The development of antibiotics is among the most significant achievements of modern medicine. Thanks to these drugs, conditions such as pneumonia or septicaemia which in the past were often fatal can now be effectively treated. However, if antibiotics are overused or misused, bacteria develop resistance and the drugs lose their effectiveness. This increases the risk that certain infections in humans or animals could become difficult to treat or even untreatable.&lt;/p&gt;&lt;p&gt;If the effectiveness of antibiotics is to be maintained, not only are efforts required on the part of professionals, but patients and animal owners also need to use these drugs responsibly. Surveys have shown that gaps remain in the public’s knowledge. With a nationwide campaign, the federal authorities therefore intend to inform the public about the importance of antibiotics, the risks of bacterial resistance, and the correct use of these drugs in humans and animals.&lt;/p&gt;&lt;p&gt;The campaign – expected to run for four years – is being launched across Switzerland with TV ads, posters, online advertising and a campaign website. With slogans in three of the national languages, animated figures explain the importance of using antibiotics carefully – and the potential consequences of resistant bacteria for humans, animals, agriculture and the environment.&lt;/p&gt;&lt;p&gt; &lt;br /&gt;&lt;strong&gt;Strategy on Antibiotic Resistance (StAR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The campaign is part of the national Strategy on Antibiotic Resistance (StAR) launched by the Federal Council in 2015. It is being implemented by the four federal offices responsible for public health (FOPH), food safety and veterinary medicine (FSVO), agriculture (FOAG) and the environment (FOEN) in partnership with stakeholders. A total of 35 measures have been adopted to date, and significant progress has been made.&lt;/p&gt;&lt;p&gt;In veterinary medicine, the volume of antibiotics sold is now half what it was ten years ago, thanks to a variety of measures; for example, dispensing of certain antibiotics has been restricted, and treatment guidelines and information materials have been prepared. As a result, awareness of this issue among veterinarians and domestic animal owners has been further increased in recent years. In addition, from 2019, a national information system to record antibiotic prescribing in veterinary medicine should gradually make it possible to gain a more precise overview of the use of antibiotics.&lt;/p&gt;&lt;p&gt;In the agricultural sector, awareness has also been raised among livestock farmers. A number of agricultural associations, together with veterinarians and farmers, have launched prevention programmes to improve animal health, since healthy animals do not require antibiotics. These prevention programmes are being financially supported by the Federal Office for Agriculture. Efforts in this sector are reflected by the fact that antibiotic consumption has declined since 2008.&lt;/p&gt;&lt;p&gt;As regards human use, the responsible medical societies have produced uniform national prescribing guidelines. The medical profession (GPs and specialists) are called on to apply these guidelines in their treatment decisions. The guidelines define when antibiotics should be used and include information on selection of the appropriate drug, as well as the recommended dosage and duration of treatment. In addition, a new website (www.infect.info) gives physicians an overview of the latest regional susceptibility data.&lt;/p&gt;&lt;p&gt;The Swiss Antibiotic Resistance Report, covering a two-year period, shows that antibiotic consumption for the population as a whole has decreased slightly compared to the previous reporting period. Consumption decreased by around 5 per cent in outpatient care and around 10 per cent in hospital care. According to a survey of GPs, antibiotics were prescribed in 29 of 1000 consultations in 2017 – a substantial reduction compared to the period 2006–2013, where the annual figures ranged from 34 to 40 prescriptions per 1000 consultations. &lt;/p&gt;&lt;p&gt;In Swiss surface waters, antibiotic-resistant bacteria have been detected in isolated cases. While some of these bacteria occur naturally in this environment, the rest enter lakes and rivers with wastewater. Today, wastewater treatment plants already eliminate up to 99 per cent of these microorganisms. In addition, the ongoing programme to upgrade selected plants with additional treatment steps will ensure that releases of these organisms can be further reduced.&lt;/p&gt;&lt;p&gt;This year, to focus the attention of professionals and the public on the risks of growing bacterial resistance and the importance of careful use, another World Antibiotic Awareness Week is being held by the World Health Organization (12–18 November); in Switzerland, various stakeholders are organising panel discussions, training events, guided tours or booth activities.&lt;/p&gt;</text>
+      <contact>Federal Office of Public Health FOPH, Communication, Tel. 058 462 95 05 or media@bag.admin.ch Federal Office for Agriculture FOAG, Communication, Tel. 058 462 81 28 or info@blw.admin.ch Federal Food Safety and Veterinary Office FSVO, Communication, Tel. 058 463 78 98 or media@blv.admin.ch Federal Office for the Environment FOEN, Communication, Tel. 058 462 90 00 or medien@bafu.admin.ch</contact>
+      <link id="183314">
+        <title>StAR - National Strategy on Antibiotic Resistance</title>
+        <uri>https://www.star.admin.ch/star/en/home.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="183318">
+        <title>Campaign website</title>
+        <uri>http://www.richtig-ist-wichtig.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="650" org-id="811">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="en">Agriculture</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+      <keyword id="1111" org-id="811">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">Salute</name>
+        <name lang="en">Health</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

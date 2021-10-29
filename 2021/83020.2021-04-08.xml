@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83020" revoked="no">
+    <version>1</version>
+    <pubdate>2021-04-08</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>bfe.admin.ch/stromproduktion zeigt über 110’000 Elektrizitätsproduktionsanlagen in der Schweiz</title>
+      <lead>Mit einem Klick zur räumlichen Übersicht über nahezu alle Stromproduktionsanlagen der Schweiz. Dies ist ab sofort möglich. Denn erstmals publiziert das Bundesamt für Energie umfangreiche Daten zu praktisch allen Schweizerischen Elektrizitätsproduktionsanlagen. Die Standortdaten, Technologie, Leistung sowie weitere Parameter von über 110'000 Anlagen sind auf bfe.admin.ch/stromproduktion zugänglich und stehen auch als Open Government Data zur freien Nutzung zur Verfügung.</lead>
+      <text link="no">&lt;p&gt;Die Energiestrategie 2050 sieht einen schrittweisen Umbau des Schweizer Energiesystems vor. Einer der Hauptpfeiler ist dabei der Ausbau der erneuerbaren Energien. Dieser kann nun anhand der Geobasisdaten «Elektrizitätsproduktionsanlagen» transparent dargestellt und räumlich analysiert werden. Die Daten zeigen neben dem Standort der Anlage auch die Leistung in Kilowatt (kW) sowie das Datum der Inbetriebnahme. So können heute beispielsweise die Daten von über 100'000 Photovoltaikanlagen abgerufen werden.&lt;/p&gt;&lt;p&gt;Gemeinde und Kantone können mit den Geobasisdaten den lokalen Zubau im Vergleich zu ihrem Potenzial verfolgen und gegebenenfalls Massnahmen ergreifen, um diesen zu beschleunigen.&lt;/p&gt;&lt;p&gt;Die rechtliche Grundlage für diesen neuen Geobasisdatensatz bilden die per 1.1.2021 revidierte Energieverordnung (EnV) und Geoinformationsverordnung (GeoIV). Datenbasis sind alle Elektrizitätsproduktionsanlagen, die im von der Pronovo AG betriebenen schweizerischen Herkunftsnachweissystem registriert sind. Darunter fallen alle Anlagen mit einer Leistung grösser 30 Kilovoltampere (kVA) sowie Kleinanlagen (ab 2 kW), die freiwillig für die Ausstellung von Herkunftsnachweisen (HKN) registriert worden sind. Weiter enthält der Datenbestand Anlagen, die durch eine Einspeisevergütung, Einmalvergütung, Mehrkostenfinanzierung oder einen Investitionsbeitrag gefördert werden. Publiziert werden nur Elektrizitätsproduktionsanlagen, die in Betrieb sind. Die Daten werden laufend aktualisiert und stehen als Open Government Data zur Verfügung.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Leiterin Medien und Politik BFE, 058 462 56 75</contact>
+      <link id="214419">
+        <title>www.bfe.admin.ch/stromproduktion</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/</uri>
+        <position>Context</position>
+      </link>
+      <link id="214420">
+        <title>Daten-Download auf opendata.swiss</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/redirect/20210408_opendataswiss_eprod_de.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Plus de 110 000 installations de production d’électricité suisses répertoriées sur bfe.admin.ch/productionelectrique</title>
+      <lead>Il est désormais possible d’obtenir en seul clic une vue d’ensemble géographique de pratiquement toutes les installations de production d’électricité suisses. En effet, l’Office fédéral de l’énergie publie pour la première fois des données détaillées sur ces installations. Des informations concernant l’emplacement, la technologie, la puissance et d’autres paramètres sont disponibles en accès libre pour plus de 110 000 installations sur bfe.admin.ch/energieproduktion et peuvent également être utilisées en tant que données publiques ouvertes (Open Government Data).</lead>
+      <text link="no">&lt;p&gt;La Stratégie énergétique 2050 prévoit la transformation progressive du système énergétique suisse. Le développement des énergies renouvelables constitue l'un des piliers de cette Stratégie. Les géodonnées de base concernant les installations de production d'électricité sont indispensables pour pouvoir représenter ce développement de manière transparente et l'analyser d'un point de vue géographique. Les données indiquent l'emplacement des installations, ainsi que leur puissance en kilowatt (kW) et leur date de mise en service. À l'heure actuelle, il est par exemple possible de consulter les données de quelque 100 000 installations photovoltaïques.&lt;/p&gt;&lt;p&gt;Les géodonnées de base permettent aux communes et aux cantons de suivre le développement au niveau local par rapport au potentiel disponible et de prendre éventuellement des mesures pour l'accélérer.&lt;/p&gt;&lt;p&gt;L'ordonnance sur l'énergie (OEne) et l'ordonnance sur la géoinformation (OGéo), dont les versions révisées sont entrées en vigueur le 1er janvier 2021, constituent la base légale de ce nouveau jeu de géodonnées de base. La base de données utilisée en l'occurrence comprend toutes les installations de production d'électricité enregistrées dans le système suisse des garanties d'origine, géré par Pronovo SA. Sont donc concernées d'une part les installations d'une puissance supérieure à 30 kilovoltampères (kVA) et les petites installations (à partir de 2 kW) qui se sont enregistrées sur le système des garanties d'origine sur une base volontaire. La base de données comprend également les installations encouragées par une rétribution de l'injection, une rétribution unique, un financement des frais supplémentaires ou une contribution d'investissement. Seules les installations de production d'électricité en service sont publiées sur le site. Les données sont mises à jour régulièrement et sont disponibles en libre accès en tant que données publiques ouvertes.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, cheffe de la division Médias et politique OFEN, 058 462 56 75</contact>
+      <link id="214421">
+        <title>www.bfe.admin.ch/productionelectrique</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <link id="214422">
+        <title>Téléchargement des donnes sur opendata.swiss</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/redirect/20210408_opendataswiss_eprod_fr.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Oltre 110 000 impianti di produzione di energia elettrica in Svizzera sul sito bfe.admin.ch/produzioneelettrica</title>
+      <lead>Da oggi è possibile con un click conoscere la distribuzione sul territorio nazionale degli impianti di produzione di energia elettrica. Per la prima volta l'Ufficio federale dell'energia pubblica dati completi su quasi tutti gli impianti in Svizzera. Sono disponibili i dati relativi a ubicazione, tecnologia, potenza e altri parametri di oltre 110 000 impianti. I dati sono liberamente accessibili anche come Open Government Data.</lead>
+      <text link="no">&lt;p&gt;La Strategia energetica 2050 prevede un riassetto graduale del sistema energetico svizzero. Uno dei pilastri principali della Strategia è il potenziamento delle energie rinnovabili, che da oggi può essere rappresentato in modo trasparente e analizzato sul territorio grazie ai geodati di base relativi agli impianti di produzione dell'energia elettrica. Oltre all'ubicazione dell'impianto, i dati mostrano anche la potenza in kilowatt (kW) e la data della messa in funzione. Oggi, ad esempio, è così possibile accedere ai dati di 100 000 impianti fotovoltaici.&lt;/p&gt;&lt;p&gt;I Comuni e i Cantoni possono utilizzare questi geodati di base per monitorare il potenziamento della produzione di energia elettrica da fonti rinnovabili a livello locale rispetto al proprio potenziale e, se necessario, prendere le misure per accelerarlo.&lt;/p&gt;&lt;p&gt;La base giuridica di questo nuovo set di geodati di base sono la revisione dell'ordinanza sull'energia (OEL), entrata in vigore il 1.1.2021, e l'ordinanza sulla geoinformazione (OGI). La base di dati è costituita da tutti gli impianti registrati nel sistema svizzero delle garanzie d'origine, gestito da Pronovo SA. Tra questi figurano tutti gli impianti con una potenza superiore a 30 kilovoltampere (KVA) e gli impianti di dimensioni minori (a partire da 2 kW) che sono stati iscritti su base volontaria per ottenere le garanzie d'origine. I dati comprendono inoltre anche gli impianti che beneficiano di una rimunerazione per l'immissione di elettricità, di una rimunerazione unica, di un finanziamento dei costi supplementari o di un contributo d'investimento. Vengono pubblicati solo gli impianti di produzione di energia elettrica che sono in esercizio. I dati vengono continuamente aggiornati e sono disponibili come Open Government Data.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Capo Media e politica UFE, tel. 058 462 56 75</contact>
+      <link id="214423">
+        <title>www.bfe.admin.ch/produzioneelettrica</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/?lang=it</uri>
+        <position>Context</position>
+      </link>
+      <link id="214424">
+        <title>Download dati su opendata.swiss</title>
+        <uri>https://www.uvek-gis.admin.ch/BFE/redirect/20210408_opendataswiss_eprod_it.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="270" org-id="808">
+        <name lang="de">Elektrizitätsversorgung</name>
+        <name lang="fr">Approvisionnement en electricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="en">Electricity Supply</name>
+      </keyword>
+      <keyword id="330" org-id="808">
+        <name lang="de">Energie: Netze</name>
+        <name lang="fr">Energie: Réseaux</name>
+        <name lang="it">Energie: Reti</name>
+        <name lang="en">Energy: Grids</name>
+      </keyword>
+      <keyword id="320" org-id="808">
+        <name lang="de">Energieversorgung</name>
+        <name lang="fr">Approvisionnement énergétique</name>
+        <name lang="it">Approvvigionamento energetico</name>
+        <name lang="en">Energy Supply</name>
+      </keyword>
+      <keyword id="271" org-id="808">
+        <name lang="de">Elektrizität</name>
+        <name lang="fr">Electricté</name>
+        <name lang="it">Elettricità</name>
+        <name lang="en">Electricity</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

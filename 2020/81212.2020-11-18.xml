@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="81212" revoked="no">
+    <version>2</version>
+    <pubdate>2020-11-18</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="508" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BASPO - Bundesamt für Sport</name>
+      <name lang="fr">OFSPO - Office fédéral du sport</name>
+      <name lang="it">UFSPO - Ufficio federale dello sport</name>
+      <name lang="en">Federal Office of Sports</name>
+      <www lang="de">http://www.baspo.admin.ch/</www>
+      <www lang="fr">http://www.baspo.admin.ch/</www>
+      <www lang="it">http://www.baspo.admin.ch/</www>
+      <www lang="en">http://www.baspo.admin.ch/</www>
+      <email lang="de">info@baspo.admin.ch</email>
+      <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
+      <email lang="en">info@baspo.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat passt Covid-Unterstützungshilfen der zweiten Welle an</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 18. November 2020 beschlossen, dem Parlament für eine dringliche Beratung in der Wintersession punktuelle Anpassungen am Covid-19-Gesetz vorzuschlagen. Damit könnte besser auf die aktuellen Entwicklungen der zweiten Welle der Covid-Pandemie reagiert werden. Der Vorschlag beinhaltet eine Aufstockung des Härtefallprogramms auf insgesamt eine Milliarde und eine Erhöhung des Anteils des Bundes auf rund zwei Drittel. Ergänzend sollen die Leistungen im Bereich der Kurzarbeit erweitert werden. Im Sport sollen professionelle und semiprofessionelle Klubs auch mit à-fonds-perdu-Beiträgen unterstützt werden können.</lead>
+      <text link="no">&lt;p&gt;Der Bundesrat erachtet das bisherige Massnahmendispositiv zur Abfederung der Folgen der Pandemie als grundsätzlich ausreichend. Mit punktuellen Anpassungen möchte er jedoch die Grundlage schaffen, um besser auf die Entwicklungen der zweiten Welle reagieren zu können. Der Bundesrat unterbreitet dem Parlament daher eine Botschaft zu Änderungen des Covid-19-Gesetzes und des Covid-19-Solidarbürgschaftsgesetzes. Im Covid-19-Gesetz sollen insbesondere die Artikel zu den Härtefällen (Art. 12), zum Sport (Art. 13 und neu Art. 12b) sowie zur Arbeitslosenversicherung (Art. 17) angepasst werden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Härtefälle&lt;/b&gt;: Die Gesamtsumme der Unterstützung von Bund und Kantonen soll auf 1 Milliarde erhöht werden. Der Anteil des Bundes an diesen Kosten beträgt bis 400 Millionen 50 Prozent (d.h. 200 Mio.) und danach 80 Prozent (480 Mio.). Damit übernimmt der Bund rund zwei Drittel und die Kantone ein Drittel der anfallenden Kosten. Die Details werden in der Verordnung geregelt, die voraussichtlich in der kommenden Bundesratssitzung verabschiedet und auf den 1. Dezember in Kraft treten wird. Der Bundesrat will den Kantonen zudem mit Erleichterungen im Vollzug sowie mit einem vereinfachten Zugang zu den Daten der Unternehmen entgegenkommen.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Kurzarbeitsentschädigungen&lt;/b&gt;: Um Arbeitsplätze zu sichern und Covid-bedingte Entlassungen zu vermeiden, sollen die Leistungen der Arbeitslosenversicherung (ALV) im Bereich der Kurzarbeitsentschädigung wieder gezielt erweitert werden. Es sollen mehrere im Frühjahr unter Notrecht erlassene Massnahmen der ALV in das Covid-19-Gesetz überführt werden. Insbesondere soll der Anspruch auf Kurzarbeitsentschädigung auf befristete Arbeitsverhältnisse ausgedehnt und die Karenzfrist aufgehoben werden.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sport&lt;/b&gt;: In Ergänzung zu den bisherigen Stabilisierungsmassnahmen sollen professionelle und semiprofessionelle Klubs nebst Darlehen neu auch à-fonds-perdu-Beiträge erhalten können. Damit sollen die Grundstrukturen des schweizerischen Leistungs- und Breitensports sowie des Trainings- und Wettkampfbetriebs gesichert werden. Der Bundesrat will den Klubs, basierend auf den Zahlen aus der Saison 18/19, bis zu zwei Drittel der entgangenen Einnahmen aus dem Ticketverkauf entschädigen. Im Gegenzug müssen die Klubs strenge Auflagen erfüllen, namentlich nachhaltige Kürzungen der Spitzenlöhne und einen Dividendenverzicht, die Weiterführung der Junioren- und Frauenförderung mindestens auf dem bisherigen Niveau sowie eine vollständige Transparenz über die Verwendung der Gelder. Von den für das Jahr 2021 für Darlehen eingestellten Mitteln in der Höhe von 175 Millionen Franken sollen bis zu 115 Millionen als à-fonds-perdu-Beiträge eingesetzt werden können. Es besteht auch weiterhin die Möglichkeit, Darlehen zu gewähren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Bundesrat hat zudem eine Diskussion über eine &lt;b&gt;Reaktivierung des Covid-19-Kreditprogramms&lt;/b&gt; geführt. Diese Kredite hatten im Frühling den Charakter einer Nothilfe zur Überbrückung der Liquiditätsprobleme in den ersten Monaten der Pandemie. Die aktuelle Lage ist nicht vergleichbar mit der ersten Welle. So sind bereits bedeutende staatliche Unterstützungsmassnahmen am Laufen und bei der Vergabe von ordentlichen Geschäftskrediten durch die Banken ist kein Marktversagen erkennbar. Die Härtefallhilfe ist nach Ansicht des Bundesrates daher aktuell das beste Instrument für eine rasche und gezielte Abfederung der negativen Folgen von Covid-19 bei schwer betroffenen Unternehmen. Um dennoch rasch auf eine allfällige Kreditklemme reagieren zu können, beantragt der Bundesrat dem Parlament eine Delegationsnorm zur Errichtung eines neuen Kreditprogramms. So könnte der Bundesrat bei einer deutlichen Verschlechterung der Situation und im Fall, dass die Kreditversorgung nicht mehr ausreichend funktioniert, auf Verordnungsstufe ein neues Solidarbürgschaftssystem errichten.&lt;/p&gt;&lt;p&gt;Zudem beantragt der Bundesrat im Rahmen des Covid-19-Gesetzes eine Änderung des Ordnungsbussengesetzes. Geringfügige Übertretungen des Epidemiengesetzes (EpG) wie z.B. Verstösse gegen die Pflicht zum Tragen einer Gesichtsmaske sollen neu ebenfalls im Ordnungsbussenverfahren geahndet werden können.&lt;/p&gt;&lt;p&gt;Der Bundesrat unterbreitet dem Parlament den Gesetzesentwurf mit Bitte um dringliche Beratung in der Wintersession.&lt;/p&gt;</text>
+      <contact>Härtefälle: Kommunikation EFD Tel. +41 (0)58 462 60 33, info@gs-efd.admin.ch Kurzarbeit: Kommunikation WBF Tel. +41 (0) 58 462 20 07, info@gs-wbf.admin.ch Sport: Kommunikation BASPO Tel. +41 (0)58 467 61 33, info@baspo.admin.ch</contact>
+      <attachment id="208261">
+        <title>Botschaft zur Änderung des Covid-19-Gesetzes</title>
+        <format>pdf</format>
+        <size-kb>643</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63899.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208262">
+        <title>Covid-19-Gesetz</title>
+        <format>pdf</format>
+        <size-kb>396</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208267">
+        <title>Anträge des Bundesrates zum Entwurf des Bundesgesetzes über Kredite mit Solidarbürgschaft infolge des Coronavirus (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG1) gemäss Botschaft vom 18. September 2020</title>
+        <format>pdf</format>
+        <size-kb>438</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63906.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus: le Conseil fédéral adapte à la deuxième vague les mesures de soutien COVID-19</title>
+      <lead>Lors de sa séance du 18 novembre 2020, le Conseil fédéral a décidé de soumettre au Parlement des modifications de la loi COVID-19 pour délibération urgente pendant la session d’hiver. Ces modifications devraient permettre de mieux réagir à l’évolution actuelle de la deuxième vague de pandémie de coronavirus. Le Conseil fédéral prévoit ainsi d’augmenter le montant des mesures pour les cas de rigueur à un milliard de francs au total et de porter la participation financière de la Confédération à environ deux tiers. De plus, les prestations versées en cas de réduction de l’horaire de travail seront étendues. Dans le domaine du sport, les clubs professionnels et semi-professionnels seront soutenus au moyen de contributions à fonds perdu.</lead>
+      <text link="no">&lt;p&gt;De manière générale, le Conseil fédéral juge suffisant le train de mesures actuel visant à atténuer les conséquences de la pandémie. En apportant des modifications ponctuelles à la loi, il souhaite toutefois créer les bases permettant de mieux réagir à l’évolution de la deuxième vague. C’est pourquoi le Conseil fédéral soumet au Parlement un message relatif aux modifications de la loi COVID-19 et de la loi sur les cautionnements solidaires liés au COVID-19. En ce qui concerne la loi COVID-19, les modifications portent en particulier sur les articles relatifs aux mesures pour les cas de rigueur (art. 12), au sport (art. 13 et nouvel art. 12b) et à l’assurance-chômage (art. 17).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Mesures pour les cas de rigueur&lt;/b&gt;: le montant total de l’aide financière fournie par la Confédération et les cantons est augmenté à 1 milliard. La participation de la Confédération aux dépenses à ce titre est de 50 % pour le montant de 400 millions prévu pour la première tranche (soit 200 millions), puis de 80 % pour la seconde tranche (soit 480 millions). La Confédération assume ainsi environ deux tiers, et les cantons un tiers des coûts liés aux mesures pour les cas de rigueur. Les détails seront réglés dans l’ordonnance, que le Conseil fédéral adoptera au cours de sa prochaine séance et qui entrera en vigueur le 1er décembre. Le Conseil fédéral souhaite, en outre, aider les cantons en proposant de simplifier les modalités d’exécution et de faciliter l’accès aux données des entreprises.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Indemnités en cas de réduction de l’horaire de travail&lt;/b&gt;: afin de préserver des emplois et d’éviter des licenciements dus à la pandémie, les prestations de l’assurance-chômage (AC) feront l’objet d’extensions ciblées en ce qui concerne l’indemnité en cas de réduction de l’horaire de travail. Plusieurs des mesures concernant l’AC prises au printemps dernier dans le cadre du droit de nécessité seront intégrées dans la loi COVID-19. Il s’agira, en particulier, d’étendre aux rapports de travail de durée déterminée le droit à l’indemnité en cas de réduction de l’horaire de travail et de suspendre le délai de carence. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sport&lt;/b&gt;: en complément des mesures de stabilisation prises jusqu’à présent, les clubs professionnels et semi-professionnels doivent pouvoir, en plus de l’obtention de prêts, recevoir des contributions à fonds perdu. Cette mesure doit permettre de sauvegarder les structures de base du sport de performance et du sport populaire en Suisse, et de maintenir le championnat et les matches. En se fondant sur les recettes de la saison 2018/2019, le Conseil fédéral entend verser aux clubs des indemnités allant jusqu’à deux tiers du montant des pertes en matière de billetterie. En contrepartie, les clubs doivent satisfaire à des exigences strictes: ils doivent notamment réduire durablement les très hauts salaires et renoncer à la distribution de dividendes, poursuivre le travail d’encouragement de la relève et de la promotion des femmes dans la même mesure que pour la saison 2018/2019 et utiliser les fonds de manière totalement transparente. Sur les 175 millions de francs débloqués pour l’octroi de prêts en 2021, un montant de 115 millions doit pouvoir être alloué au versement de contributions à fonds perdu. Il est toujours possible d’octroyer des prêts.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Par ailleurs, le Conseil fédéral a mené une discussion en vue de &lt;b&gt;réactiver le programme des crédits COVID-19&lt;/b&gt;. Au printemps dernier, ces crédits constituaient une aide d’urgence destinée à parer aux problèmes de liquidités subis au cours des premiers mois de la pandémie. La situation actuelle n’est toutefois pas comparable à celle de la première vague. En effet, de vastes programmes de soutien étatiques sont déjà en cours et aucune défaillance du marché n’est à noter en ce qui concerne l’octroi de prêts commerciaux ordinaires par les banques. De l’avis du Conseil fédéral, les mesures pour les cas de rigueur constituent donc actuellement le meilleur instrument permettant d’atténuer de façon rapide et ciblée les conséquences négatives de la pandémie pour les entreprises gravement affectées. Toutefois, afin de pouvoir réagir rapidement à une nette détérioration de la situation sur les marchés du crédit, le Conseil fédéral propose au Parlement l’adoption d’une norme de délégation habilitant le gouvernement à mettre sur pied un nouveau programme de crédits. Si l’évolution sur les marchés du crédit devait nettement se détériorer et au cas où l’approvisionnement en crédits devenait insuffisant, le Conseil fédéral pourrait ainsi mettre en place un nouveau système de cautionnement solidaire par voie d’ordonnance.&lt;/p&gt;&lt;p&gt;En outre, le Conseil fédéral propose d’apporter, dans le cadre de la loi COVID-19, une modification à la loi sur les amendes d’ordre. Les contraventions mineures à la loi sur les épidémies telles que la violation de l’obligation de porter un masque facial devront pouvoir être punies par l’intermédiaire de la procédure de l’amende d’ordre.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral soumet au Parlement le projet de loi en vue de son examen urgent au cours de la session d’hiver.&lt;/p&gt;</text>
+      <contact>Mesures pour les cas de rigueur: Communication du DFF n° tél. +41 (0)58 462 60 33, info@gs-efd.admin.ch Réduction de l’horaire de travail: Communication du DEFR n° tél. +41 (0)58 462 20 07, info@gs-wbf.admin.ch Sport: Communication de l’OFSPO n° tél. +41 (0)58 467 61 33, info@baspo.admin.ch</contact>
+      <attachment id="208263">
+        <title>Message sur la modification de la loi COVID-19</title>
+        <format>pdf</format>
+        <size-kb>641</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63900.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208264">
+        <title>Loi COVID-19</title>
+        <format>pdf</format>
+        <size-kb>390</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63901.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208268">
+        <title>Propositions du Conseil fédéral concernant le projet de loi fédérale sur les crédits garantis par un cautionnement solidaire à la suite du coronavirus (LCaS-COVID-191) présenté avec le message du 18 septembre 2020</title>
+        <format>pdf</format>
+        <size-kb>433</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63907.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale adegua i provvedimenti di sostegno per affrontare la seconda ondata</title>
+      <lead>Nella sua seduta del 18 novembre 2020 il Consiglio federale ha deciso di proporre al Parlamento adeguamenti mirati della legge COVID-19 da sottoporre con urgenza al dibattito parlamentare nella sessione invernale. In tal modo sarà possibile reagire meglio agli sviluppi attuali della seconda ondata della pandemia. La proposta di modifica prevede di incrementare gli aiuti finanziari del programma per i casi di rigore fino a un importo complessivo di 1 miliardo di franchi e di aumentare la quota della Confederazione a circa due terzi. In aggiunta il Consiglio federale propone di estendere le prestazioni nell’ambito del lavoro ridotto. Nel settore dello sport intende sostenere i club di livello professionistico e semiprofessionistico anche con contributi a fondo perduto.</lead>
+      <text link="no">&lt;p&gt;In Consiglio federale ritiene che, nel complesso, l’attuale pacchetto di provvedimenti sia sufficiente per attenuare le conseguenze della pandemia. Tuttavia, mediante adeguamenti mirati intende porre le basi per potere reagire meglio agli sviluppi della seconda ondata di COVID-19. Per questa ragione il Consiglio federale sottopone per approvazione al Parlamento una modifica della legge federale sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all’epidemia di COVID-19 (legge COVID-19) e della legge federale concernente i crediti garantiti da una fideiussione solidale in seguito al coronavirus (legge sulle fideiussioni solidali COVID-19, LFis-COVID-19). In particolare nella legge COVID-19 devono essere adeguati gli articoli concernenti i casi di rigore (art. 12), lo sport (art. 13 e il nuovo art. 12b) e l’assicurazione contro la disoccupazione (art. 17):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;casi di rigore&lt;/b&gt;: l’importo complessivo dei provvedimenti di sostegno di Confederazione e Cantoni deve essere aumentato a 1 miliardo di franchi. La quota della Confederazione a questi costi ammonta al 50 per cento per i primi 400 milioni di franchi (ovvero 200 mio.) e all’80 per cento per la somma restante (480 mio.). Complessivamente la Confederazione si assume così circa due terzi delle uscite, mentre i Cantoni un terzo. I dettagli saranno disciplinati nell’ordinanza, che sarà approvata presumibilmente nella prossima seduta del Consiglio federale e posta in vigore il 1° dicembre 2020. Inoltre, per venire incontro ai Cantoni, il Consiglio federale desidera semplificare l’esecuzione e agevolare loro l’accesso ai dati delle imprese;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;indennità per lavoro ridotto&lt;/b&gt;: al fine di salvaguardare i posti di lavoro ed evitare i licenziamenti dovuti alla pandemia, le prestazioni dell’assicurazione contro la disoccupazione (AD) nell’ambito dell’indennità per lavoro ridotto dovranno nuovamente essere estese in modo mirato. Diverse misure dell’AD emanate in primavera e basate sul diritto di necessità devono essere trasposte nella legge COVID-19. In particolare la modifica proposta intende estendere il diritto alle indennità per lavoro ridotto ai rapporti di lavoro di durata determinata ed eliminare il periodo d’attesa se si percepiscono indennità per lavoro ridotto;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;sport&lt;/b&gt;: a complemento dei provvedimenti di stabilizzazione già adottati, i club di livello professionistico e semiprofessionistico devono poter ricevere, oltre a mutui, anche contributi a fondo perduto. Il loro scopo è garantire l’esistenza delle strutture di base dello sport di competizione e di massa della Svizzera come pure degli allenamenti e delle competizioni. Sulla base delle cifre relative alla stagione 2018/2019, il Consiglio federale intende indennizzare i club fino a due terzi delle mancate entrate derivanti dalla vendita dei biglietti. In contropartita, i club devono rispettare condizioni più severe, ossia ridurre in modo durevole gli stipendi eccessivi e rinunciare alla distribuzione di dividendi, proseguire l’attuazione delle misure di promozione dei giovani e delle donne almeno nella stessa misura della stagione 2018/2019 e garantire la massima trasparenza sull’utilizzo dei fondi. Dei 175 milioni di franchi stanziati nel preventivo 2021 per i mutui, dovranno poter essere utilizzati al massimo 115 milioni di franchi a titolo di contributi a fondo perduto. I mutui potranno essere concessi anche in futuro.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il Consiglio federale ha inoltre discusso della &lt;b&gt;riattivazione dei crediti COVID-19&lt;/b&gt;. In primavera, questi crediti costituivano un aiuto d’emergenza per far fronte ai problemi di liquidità durante i primi mesi della pandemia. La situazione attuale non è paragonabile a quella della prima ondata. Sono infatti già in atto importanti provvedimenti di sostegno statali e finora non si riscontra alcun fallimento del mercato nell’assegnazione dei crediti commerciali ordinari da parte delle banche. Il Consiglio federale è pertanto dell’avviso che gli aiuti previsti dal programma per i casi di rigore siano attualmente lo strumento più efficace per attenuare velocemente e in maniera mirata le conseguenze negative del COVID-19 sulle imprese fortemente colpite. Tuttavia, per poter reagire rapidamente a un’eventuale stretta creditizia, il Governo chiede al Parlamento di adottare una norma di delega per l’istituzione di un nuovo programma di credito. Di conseguenza, se la situazione sul mercato dei crediti peggiorasse in modo netto e l’approvvigionamento creditizio non fosse più sufficiente, il Consiglio federale potrebbe istituire un nuovo sistema di fideiussioni solidali a livello di ordinanza.&lt;/p&gt;&lt;p&gt;Inoltre, nel quadro della legge COVID-19 il Consiglio federale propone una modifica della legge sulle multe disciplinari (LMD). Le contravvenzioni di lieve entità della legge sulle epidemie (LEp), come le violazioni dell’obbligo di portare una mascherina facciale, devono poter essere punite anche nella procedura della multa disciplinare.&lt;/p&gt;&lt;p&gt;Il Consiglio federale sottopone i disegni di legge al Parlamento con la richiesta di entrare urgentemente nel merito nella sessione invernale.&lt;/p&gt;</text>
+      <contact>Casi di rigore: Comunicazione DFF Tel. +41 (0)58 462 60 33, info@gs-efd.admin.ch Lavoro ridotto: Comunicazione DEFR Tel. +41 (0) 58 462 20 07, info@gs-wbf.admin.ch Sport: Comunicazione UFSPO Tel. +41 (0)58 467 61 33, info@baspo.admin.ch</contact>
+      <attachment id="208265">
+        <title>Messaggio concernente le modifiche della legge COVID-19 e della legge sulle fideiussioni solidali COVID-19</title>
+        <format>pdf</format>
+        <size-kb>642</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63902.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208266">
+        <title>Legge COVID-19</title>
+        <format>pdf</format>
+        <size-kb>568</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63903.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208269">
+        <title>Proposte del Consiglio federale relative al disegno di legge federale concernente i crediti garantiti da una fideiussione solidale in seguito al coronavirus (LFis-COVID-191), presentato con il messaggio del 18 settembre 2020</title>
+        <format>pdf</format>
+        <size-kb>438</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63908.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Federal Council adjusts COVID-19 support measures to second wave</title>
+      <lead>During its meeting on 18 November 2020, the Federal Council decided to propose that the winter session of Parliament urgently debate ad hoc adjustments to the COVID-19 Act. This would enable a swifter reaction to ongoing developments during the second wave of the COVID-19 pandemic. The proposal includes an expansion of the hardship support programme to CHF 1 billion in total and an increase of the Confederation's share to around two thirds. In addition, short-time working compensation payments should be extended. In sport, professional and semi-professional clubs should be able to receive support in the form of non-repayable contributions.</lead>
+      <text link="no">&lt;p&gt;The Federal Council considers that the existing package of measures to cushion the impact of the pandemic is generally sufficient. However, it would like to use ad hoc adjustments to create the basis for better reacting to developments during the second wave. The Federal Council is therefore submitting a dispatch to Parliament on amendments to the COVID-19 Act and the COVID-19 Joint and Several Guarantee Act. In the COVID-19 Act, the provisions on cases of hardship (Art. 12), sport (Art. 13 and a new Art. 12b) and unemployment insurance (Art. 17), in particular, are to be amended:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Cases of hardship&lt;/b&gt;: The total amount of support from the Confederation and cantons should be increased to CHF 1 billion. The Confederation's share in these costs would be 50% up to CHF 400 million (i.e. CHF 200 million) and 80% thereafter (CHF 480 million). The Confederation would thus bear around two thirds of the costs incurred, and the cantons one third. The details are regulated in the Ordinance, which is due to be approved at the forthcoming Federal Council meeting and enter into force on 1 December. In addition, the Federal Council wants to accommodate the cantons by relaxing enforcement and simplifying access to company data.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Short-time working compensation&lt;/b&gt;: To secure jobs and avoid COVID-related redundancies, a renewed, targeted expansion of unemployment benefits should take place in the area of short-time working compensation. A number of the unemployment insurance-related measures introduced in spring under emergency law should be transferred into the COVID-19 Act. In particular, the entitlement to short-time working compensation should be extended to cover fixed-term employment relationships, and the grace period should be abolished.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sport&lt;/b&gt;: As a supplement to the existing stabilisation measures, professional and semi-professional clubs should be able to receive non-repayable contributions as well as loans. This should secure the core structure of Swiss performance and grassroots sport, training activities and sporting competitions. The Federal Council wants to compensate clubs for up to two thirds of their lost ticket sales revenue, based on the figures for the 2018/2019 season. In return, the clubs must meet strict requirements, specifically by permanently reducing top salaries, forgoing dividend payments, continuing to promote youth and women's sport to at least the same level as hitherto, and being completely transparent on the use of funds. Of the CHF 175 million in funds set aside for loans in 2021, it should be possible for up to CHF 115 million to take the form of non-repayable contributions. The option of granting loans continues to exist.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In addition, the Federal Council has led a discussion on&lt;b&gt; reactivating the COVID-19 credit programme&lt;/b&gt;. In spring, these credits were in the form of emergency assistance to bridge liquidity problems in the first few months of the pandemic, but the current situation is not comparable with that during the first wave. For example, major state support measures are already in place and no market failure has been observed in the granting of ordinary business loans by the banks. In the Federal Council's view, at the moment hardship assistance is therefore the best instrument for cushioning COVID-19's negative consequences rapidly and in a targeted manner. However, in order to be able to react quickly to a potential credit crunch, the Federal Council is asking Parliament for a delegation norm to create a new loan programme. This would allow the Federal Council to set up a new system of joint and several guarantees at ordinance level in the event that the situation deteriorates sharply and credit provision no longer functions correctly.&lt;/p&gt;&lt;p&gt;Furthermore, the Federal Council is proposing an amendment to the Fixed Penalties Act within the framework of the COVID-19 Act. Minor infringements of the Epidemics Act (EpidA), e.g. violations of the obligation to wear a facemask, should likewise be punishable under the fixed penalty procedure.&lt;/p&gt;&lt;p&gt;The Federal Council is submitting the bill to Parliament with the request to debate it urgently during the winter session.&lt;/p&gt;</text>
+      <contact>Cases of hardship: FDF Communications Tel. +41 58 462 60 33, info@gs-efd.admin.ch Short-time working: EAER Communications Tel. +41 58 462 20 07, info@gs-wbf.admin.ch Sport: FOSPO Communications Tel. +41 58 467 61 33, info@baspo.admin.ch</contact>
+      <attachment id="208261">
+        <title>Botschaft zur Änderung des Covid-19-Gesetzes</title>
+        <format>pdf</format>
+        <size-kb>643</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63899.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208262">
+        <title>Covid-19-Gesetz</title>
+        <format>pdf</format>
+        <size-kb>396</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="208267">
+        <title>Anträge des Bundesrates zum Entwurf des Bundesgesetzes über Kredite mit Solidarbürgschaft infolge des Coronavirus (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG1) gemäss Botschaft vom 18. September 2020</title>
+        <format>pdf</format>
+        <size-kb>438</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63906.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="101" org-id="603">
+        <name lang="de">Budget</name>
+        <name lang="fr">Budget</name>
+        <name lang="it">Consuntivo</name>
+        <name lang="en">Budget</name>
+      </keyword>
+      <keyword id="128" org-id="603">
+        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
+        <name lang="fr">Politique économique et marchés financiers</name>
+        <name lang="it">Politica economica e mercati finanziari</name>
+        <name lang="en">Economic policy and financial markets</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

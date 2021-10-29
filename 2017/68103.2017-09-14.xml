@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="68103" revoked="no">
+    <version>4</version>
+    <pubdate>2017-09-14</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="317" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1079" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
+      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="en">Federal Food Safety and Veterinary Office</name>
+      <www lang="de">http://www.blv.admin.ch</www>
+      <www lang="fr">http://www.blv.admin.ch</www>
+      <www lang="it">http://www.blv.admin.ch</www>
+      <www lang="en">http://www.blv.admin.ch</www>
+      <email lang="de">media@blv.admin.ch</email>
+      <email lang="fr">info@blv.admin.ch</email>
+      <email lang="it">info@blv.admin.ch</email>
+      <email lang="en">info@blv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="705" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Antibiotikaresistenzen nehmen zu - Antibiotika Awareness Woche zeigt die Risiken auf</title>
+      <lead>Der Kampf gegen Antibiotikaresistenzen wird weltweit intensiviert. Die Weltgesundheitsorganisation WHO hat eine Antibiotika Awareness Woche lanciert, die zum ersten Mal auch in der Schweiz vom 13. bis 19. November 2017 durchgeführt wird. Die Fachwelt, aber auch die Bevölkerung soll noch besser verstehen können, wie gravierend die Folgen von Antibiotikaresistenzen sind. Betroffen sind Mensch, Tier, Landwirtschaft und Umwelt gleichermassen. Zahlreiche Verbände und Organisationen unterstützen die Awareness Woche landesweit mit eigenen Aktivitäten und Aktionen.</lead>
+      <text link="no">&lt;p&gt;Die Zahl der Antibiotikaresistenzen nimmt weltweit zu und verstärkt das Risiko, dass Infektionskrankheiten nur schwer oder nicht mehr behandelt werden können und Menschen oder Tiere sterben. Auch in der Schweiz werden jedes Jahr Menschen und Tiere durch Bakterien infiziert, gegen die Antibiotika nichts mehr ausrichten können. Mit der internationalen Antibiotika Awareness Woche will die Weltgesundheitsorganisation WHO die Problematik einem breiten Publikum bewusst machen. In der Schweiz wird an der nationalen Antibiotika Awareness Woche (13. - 19. November 2017) gemeinsam mit den Akteuren aus den Bereichen Humanmedizin, Veterinärmedizin, Landwirtschaft und Umwelt über das Thema Antibiotikaresistenzen informiert und diskutiert. &lt;/p&gt;&lt;p&gt;Geplant sind diverse Anlässe, Publikationen und Informationsveranstaltungen. Koordiniert wird die Woche durch die Bundesämter für Gesundheit (BAG), Lebensmittelsicherheit und Veterinärwesen (BLV), Landwirtschaft (BLW) und Umwelt (BAFU). Universitäten, Expertinnen und Experten, Branchenorganisationen, Verbände, Forschungsstätten, Gesundheitseinrichtungen, Apotheken, Konsumentenverbände und andere interessierte Akteure beteiligen sich mit eigenen Anlässen und Aktionen. Zahlreiche Aktivitäten und Aktionen wie beispielsweise Symposien für Ärzte an Universitäten und Spitälern oder Referate für Laien, Ausstellungen und Schulungen an landwirtschaftlichen Hochschulen und Forschungsstätten sind bereits geplant. &lt;/p&gt;&lt;p&gt;Ein öffentliches Symposium von Public Health Schweiz bietet in Bern einen breiten Überblick über die aktuellen Entwicklungen im Bereich der Antibiotikaresistenzen, über die Gefahren und Risiken, aber auch über mögliche Lösungsansätze. Weiter finden spezielle Tagungen, Fachveranstaltungen und Info-Anlässe sowie Vorträge und Führungen statt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Strategie Antibiotikaresistenzen (StAR)&lt;/strong&gt;&lt;br /&gt;Dank Antibiotika - einer der bedeutendsten Fortschritte in der Medizin - ist es möglich, gefährliche Krankheiten wie Lungenentzündungen oder Blutvergiftungen zu heilen, die früher oft tödlich verlaufen sind. Der übermässige und teils unsachgemässe Einsatz von Antibiotika führt jedoch dazu, dass immer mehr Bakterien gegen Antibiotika resistent werden. Die Konsequenzen sind dramatisch und betreffen Mensch, Tier, Landwirtschaft und Umwelt gleichermassen. Der Bundesrat hat deshalb 2015 seine nationale Strategie Antibiotikaresistenzen (StAR) verabschiedet, um das Problem zunehmender Resistenzen koordiniert anzugehen.&lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit BAG, Kommunikation, Tel. 058 462 95 05 oder media@bag.admin.ch Bundesamt für Landwirtschaft BLW, Kommunikation, Tel. 058 462 81 28 oder info@blw.admin.ch Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV, Kommunikation, Tel. 058 463 78 98 oder media@blv.admin.ch Bundesamt für Umwelt BAFU, Kommunikation, Tel. 058 462 90 00 oder medien@bafu.admin.ch</contact>
+      <link id="170707">
+        <title>StAR</title>
+        <uri>https://www.star.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2017-09-14 14:41" type="R"/>
+        <revision date="2017-09-14 14:24" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La résistance aux antibiotiques augmente - La Suisse s’engage lors de la semaine mondiale pour un bon usage des antibiotiques 2017</title>
+      <lead>Fer de lance de la lutte contre l’antibiorésistance, l’Organisation Mondiale de la Santé (OMS) a lancé la «Semaine pour un bon usage des antibiotiques». Pour la première fois, la Suisse rejoint le mouvement du 13 au 19 novembre 2017. Le grand public et les spécialistes doivent prendre conscience que la résistance aux antibiotiques a de lourdes conséquences et que le phénomène s'aggrave. Les êtres humains, les animaux, l’agriculture et l’environnement sont tous concernés. De nombreuses associations et organisations suisses s’associent à cette action par le biais de leurs propres activités et manifestations.</lead>
+      <text link="no">&lt;p&gt;Partout dans le monde, les résistances aux antibiotiques se multiplient. Le risque que des maladies infectieuses ne puissent plus être soignées ou ne le soient que difficilement s’accroît et menace de nombreuses vies humaines et animales. La Suisse n’est pas épargnée: chaque année, des personnes et des animaux meurent des suites d’infections bactériennes contre lesquelles les antibiotiques n’ont plus aucun effet. Par le biais de la «Semaine pour un bon usage des antibiotiques», l’Organisation Mondiale de la Santé (OMS) souhaite sensibiliser un large public à cette problématique. L’échange d’informations sur le thème de l’antibiorésistance sera au cœur de l’édition nationale qui se déroulera du 13 au 19 novembre 2017. Des débats seront également organisés en collaboration avec des acteurs des secteurs de la médecine humaine, des sciences vétérinaires, de l’agriculture et de l’environnement.&lt;/p&gt;&lt;p&gt;Divers évènements, publications et séances d’information sont annoncés. Les offices fédéraux de la santé publique (OFSP), de la sécurité alimentaire et des affaires vétérinaires (OSAV), de l’agriculture (OFAG) et de l’environnement (OFEV) se chargeront de coordonner les activités programmées durant la semaine. Universités, experts, organisations professionnelles, fédérations, centres de recherche, institutions de santé, pharmacies, associations de consommateurs et autres acteurs concernés participent par le biais de leurs propres actions. De nombreuses activités et manifestations telles que les colloques pour les médecins dans les universités et les hôpitaux, les conférences ciblant les non-spécialistes, les expositions et les formations dans les hautes écoles et les établissements de recherche en agriculture sont déjà prévues. Un symposium ouvert à tous organisé par Santé publique Suisse à Berne fournira un vaste aperçu des développements actuels en matière de résistances aux antibiotiques. Il identifiera leurs dangers et leurs risques, mais aussi des ébauches de solution. D’autres conférences, manifestations spécialisées, réunions d’information, exposés et visites guidées figurent aussi au programme.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stratégie Antibiorésistance (StAR)&lt;/strong&gt;&lt;br /&gt;Grâce aux antibiotiques – l’une des avancées les plus significatives de la médecine –, il est possible de soigner des maladies dangereuses telles que les infections pulmonaires ou les septicémies, qui jadis pouvaient avoir une issue mortelle. Cependant, en raison de la consommation excessive et parfois inadéquate d’antibiotiques, de plus en plus de bactéries deviennent résistantes à ces médicaments. Les conséquences sont dramatiques et concernent aussi bien les êtres humains que les animaux, l’agriculture et l’environnement. Pour faire face de manière coordonnée au problème de la recrudescence des résistances, le Conseil fédéral a adopté en 2015 la stratégie nationale Antibiorésistance (StAR).&lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique (OFSP), Communication, tél. 058 462 95 05 ou media@bag.admin.ch Office fédéral de l’agriculture (OFAG), Communication, tél. 058 462 81 28 ou info@blw.admin.ch Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), Communi-cation, tél. 058 463 78 98 ou media@blv.admin.ch Office fédéral de l’environnement (OFEV), Communication, tél. 058 462 90 00 ou medien@bafu.admin.ch</contact>
+      <link id="170707">
+        <title>StAR</title>
+        <uri>https://www.star.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2017-09-14 14:41" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Lotta alle resistenze agli antibiotici - La Settimana mondiale per l'uso prudente di antibiotici mette in luce i rischi</title>
+      <lead>La lotta alle resistenze agli antibiotici si sta intensificando in tutto il mondo. L'Organizzazione Mondiale della Sanità OMS ha lanciato una Settimana mondiale per l'uso prudente di antibiotici, che per la prima volta si terrà anche in Svizzera dal 13 al 19 novembre 2017. Gli ambienti scientifici, ma soprattutto la popolazione, devono trasmettere ovvero recepire ancora meglio che le gravi conseguenze delle resistenze agli antibiotici continuano a crescere. Ne sono coinvolti in egual misura le persone, gli animali, l'agricoltura e l'ambiente. Numerose associazioni e organizzazioni sostengono la Settimana mondiale per l'uso prudente di antibiotici in tutto il territorio con proprie attività e interventi. </lead>
+      <text link="no">&lt;p&gt;Il numero di resistenze agli antibiotici aumenta in tutto il mondo, e accresce il rischio di non riuscire a trattare le malattie infettive, o di riuscirvi solo con difficoltà, con la possibilità che muoiano esseri umani e animali. Anche in Svizzera, ogni anno persone e animali vengono colpiti da infezioni batteriche contro le quali gli antibiotici non possono fare più nulla. Con la Settimana mondiale per l'uso prudente di antibiotici, l'Organizzazione Mondiale della Sanità OMS vuole che un vasto pubblico venga a conoscenza della tematica. In Svizzera, alla Settimana nazionale per l'uso prudente di antibiotici (13 - 19 novembre 2017) si forniranno informazioni e si discuterà sul tema delle resistenze agli antibiotici insieme a partecipanti attivi provenienti dai settori di medicina umana, medicina veterinaria, agricoltura e ambiente. &lt;/p&gt;&lt;p&gt;Sono in programma diversi eventi, pubblicazioni e manifestazioni informative. La setti-mana sarà coordinata dall'Ufficio federale della sanità pubblica (UFSP), l'Ufficio federale della sicurezza alimentare e di veterinaria (USAV), l'Ufficio federale dell'agricoltura (UFAG) e dell'ambiente (UFAM). Università, esperti, organizzazioni di settore, associazioni, centri di ricerca, strutture sanitarie, farmacie, associazioni di consumatori e altri partecipanti attivi interessati prenderanno parte alla Settimana mondiale per l'uso prudente di antibiotici con propri eventi e iniziative. Sono già in programma numerose attività e iniziative, tra le quali simposi per medici presso università e ospedali o conferenze per il grande pubblico, esposizioni e attività formative in centri di ricerca e istituti di formazione agraria. &lt;/p&gt;&lt;p&gt;Un simposio pubblico di Public Health Schweiz a Berna offrirà una vasta panoramica sugli attuali sviluppi nel settore delle resistenze agli antibiotici, sui pericoli e i rischi, ma anche sui possibili approcci risolutivi. Inoltre, si terranno speciali convegni, eventi settoriali e manifestazioni informative, oltre a conferenze e visite guidate.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Strategia nazionale contro le resistenze agli antibiotici (StAR)&lt;/strong&gt;&lt;br /&gt;Grazie agli antibiotici - tra i più importanti progressi della medicina - è possibile guarire malattie pericolose quali le polmoniti o le setticemie, che in passato avevano spesso un decorso mortale. Tuttavia, l'eccessivo e in parte inappropriato impiego di antibiotici ha fatto sorgere il problema di un crescente numero di batteri resistenti agli antibiotici. Le conseguenze sono drammatiche e coinvolgono in egual misura l'uomo, gli animali, l'agricoltura e l'ambiente. Pertanto, nel 2015 il Consiglio federale ha varato la Strategia nazionale contro le resistenze agli antibiotici (StAR), in modo da affrontare in modo coordinato il problema dell'aumento delle resistenze. &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP, Comunicazione, tel. 058 462 95 05 o media@bag.admin.ch Ufficio federale dell'agricoltura UFAG, Comunicazione, tel. 058 462 81 28 o info@blw.admin.ch Ufficio federale della sicurezza alimentare e di veterinaria USAV, Comunicazione, tel. 058 463 78 98 o media@blv.admin.ch Ufficio federale dell'ambiente UFAM, Comunicazione, tel. 058 462 90 00 o media@bafu.admin.ch</contact>
+      <link id="170707">
+        <title>StAR</title>
+        <uri>https://www.star.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2017-09-14 14:41" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Increase of antibiotic resistance - Antibiotic Awareness Week highlights the risks</title>
+      <lead>The global fight against antibiotic resistance is ramping up. The World Health Organization has launched an Antibiotic Awareness Week, which will be running for the first time in Switzerland from 13 to 19 November 2017. The professional world and wider public especially are to better communicate and understand that the severe consequences of antibiotic resistance are on the rise. Humans, animals, agriculture and the environment are affected in equal measure. Numerous associations and organisations across Switzerland are supporting the Awareness Week with their own activities and campaigns. </lead>
+      <text link="no">&lt;p&gt;The number of cases of antibiotic resistance is increasing globally and with it the risk that infectious diseases will now be very difficult or impossible to treat, meaning humans and animals will die. Every year in Switzerland too, people and animals are infected with bacteria which antibiotics are powerless to treat. With its International Antibiotic Awareness Week, the WHO aims to raise public awareness about the issue. National Antibiotic Awareness Week in Switzerland (13 to 19 November 2017) will be an opportunity to learn more about and discuss the issue of antibiotic resistance together with people working in human medicine, veterinary medicine, agriculture and the environment. &lt;/p&gt;&lt;p&gt;Various events, publications and information days are planned. The week is being coordinated by the Swiss Federal Office of Public Health (FOPH), the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN). Universities, experts, industry organisations, associations, research institutes, health centres, pharmacies, consumer associations and other interested parties will be taking part in the Antibiotic Awareness Week by running their own events and campaigns. Numerous activities and campaigns are already in the pipeline, including various symposia for doctors at universities and hospitals and talks for the general public, exhibitions and training sessions at colleges of agriculture and research institutes. &lt;/p&gt;&lt;p&gt;In Bern, an open symposium by Public Health Schweiz is offering a broad overview of the current developments in antibiotic resistance, the dangers and risks involved and potential solutions. Special conferences, specialist events and information days will be held in addition to presentations and tours.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Strategy on Antibiotic Resistance (StAR)&lt;/strong&gt;&lt;br /&gt;One of the most significant advances in medicine, antibiotics allow us to treat dangerous diseases such as pneumonia or blood poisoning, which often used to prove fatal. However, the excessive and sometimes improper use of antibiotics has resulted in more and more bacteria becoming resistant to antibiotics. The consequences are dramatic and affect humans, animals, agriculture and the environment in equal measure. In response, the Swiss Federal Council concluded its national Strategy on Antibiotic Resistance (StaAR) in 2015 as a means of addressing the increasing level of resistance in a coordinated way. &lt;/p&gt;</text>
+      <contact>Federal Office of Public Health FOPH, Communications, Tel. +41 (0)58 462 95 05 or media@bag.admin.ch Federal Office for Agriculture FOAG, Communications, Tel. +41 (0)58 462 81 28 or info@blw.admin.ch Federal Food Safety and Veterinary Office FSVO, Communications, Tel. +41 (0)58 463 78 98 or media@blv.admin.ch Federal Office for the Environment FOEN, Communications, Tel. +41 (0)58 462 90 00 or medien@bafu.admin.ch</contact>
+      <link id="170707">
+        <title>StAR</title>
+        <uri>https://www.star.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2017-09-14 14:41" type="R"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="560" org-id="811">
+        <name lang="de">Internationales</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="it">Affari Internazionali</name>
+        <name lang="en">International Affairs</name>
+      </keyword>
+      <keyword id="1390" org-id="811">
+        <name lang="de">Wasser</name>
+        <name lang="fr">Eaux</name>
+        <name lang="it">Acqua</name>
+        <name lang="en">Water</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

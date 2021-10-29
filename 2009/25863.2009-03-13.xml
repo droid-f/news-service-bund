@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="25863" revoked="no">
+    <version>5</version>
+    <pubdate>2009-03-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="101" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="605" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Die Schweiz will den OECD-Standard bei der Amtshilfe in Steuersachen übernehmen</title>
+      <lead>Der Bundesrat hat heute Freitag beschlossen, dass die Schweiz den OECD-Standard bei der Amtshilfe in Steuersachen gemäss Art. 26 des OECD-Musterabkommens übernehmen will. Das erlaubt, den Informationsaustausch im Einzelfall auf konkrete und begründete Anfrage mit anderen Ländern auszubauen. Der Bundesrat hat entschieden, den entsprechenden Vorbehalt zum OECD-Musterabkommen zurückzuziehen und Verhandlungen zur Revision von Doppelbesteuerungsabkommen aufzunehmen. Das Bankgeheimnis bleibt bestehen.</lead>
+      <text link="no">&lt;p&gt;Durch die Übernahme des OECD-Standards bei der Amtshilfe in Steuersachen gemäss Art. 26 des OECD-Musterabkommens, ändert sich für in der Schweiz ansässige Steuerpflichtige nichts. Die Zugriffsmöglichkeiten der schweizerischen Steuerbehörden auf Bankdaten werden im internen Recht mit diesem Entscheid nicht geändert.&lt;/p&gt; &lt;p&gt;Der Bundesrat anerkennt, dass der Wunsch nach einem angemessenen Schutz der Privatsphäre des Bürgers in der Schweizer Bevölkerung nach wie vor tief verankert ist. Er hält deshalb am Bankgeheimnis fest und lehnt einen automatischen Informationsaustausch entschieden ab. Die Privatsphäre der Kunden wird weiterhin vor unberechtigten Einblicken in die Vermögensverhältnisse geschützt.&lt;/p&gt; &lt;p&gt;Das Bankgeheimnis schützt jedoch keine Steuerdelikte. Im Zuge der Globalisierung der Finanzmärkte und insbesondere vor dem Hintergrund der Finanzkrise hat die internationale Zusammenarbeit im Steuerbereich an Bedeutung gewonnen. Der Bundesrat wird die diesbezüglichen Bemühungen weiterhin unterstützen.&lt;/p&gt; &lt;p&gt;Die Umsetzung des heutigen Beschlusses des Bundesrates soll im Rahmen von bilateralen Doppelbesteuerungsabkommen erfolgen. Der erweiterte Informationsaustausch wird erst mit dem Inkrafttreten dieser neu zu verhandelnden Abkommen Wirkung entfalten. Zudem muss im Verhältnis zur EU eine Anpassung des Zinsbesteuerungsabkommens folgen. Im Weiteren sind für die Schweiz eine Verbesserung des Marktzutritts für grenzüberschreitende Finanzdienstleistungen und gleich lange Spiesse bei der Informationsbereitschaft und bei der Informationsqualität von zentraler Bedeutung.&lt;/p&gt; &lt;p&gt;Für den Bundesrat sind folgende Elemente für seine künftige Amtshilfepolitik in Steuersachen unverzichtbar:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Wahrung des Verfahrensschutzes&lt;/li&gt; &lt;li&gt;Begrenzung der Amtshilfe auf den Einzelfall (keine „fishing-expeditions")&lt;/li&gt; &lt;li&gt;faire Übergangslösungen&lt;/li&gt; &lt;li&gt;Beschränkung auf Steuern, die unter das Abkommen fallen&lt;/li&gt; &lt;li&gt;Subsidiaritätsprinzip gemäss OECD-Musterabkommen&lt;/li&gt; &lt;li&gt;Bereitschaft zur Beseitigung von Diskriminierungen&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Der Bundesrat wird sich auch in Zukunft dafür einsetzen, dass die grenzüberschreitende Zusammenarbeit in Steuerfragen ausschliesslich im Rahmen vertraglich festgelegter Kanäle stattfindet.&lt;/p&gt; &lt;p&gt;Der Bundesrat ist überzeugt, dass der Entscheid, den OECD-Standard bei der Amtshilfe in Steuersachen zu übernehmen, sowohl die Akzeptanz der rechtlichen Rahmenbedingungen des Finanzplatzes Schweiz bei den wichtigsten Partnern des Landes wie auch die Rechtssicherheit für die Kunden der Schweizer Banken erhöht. Dieser Schritt wird zum Erhalt der Wettbewerbsfähigkeit und der internationalen Bedeutung des Finanzplatzes Schweiz beitragen. Das stärkt auch den Werkplatz und sichert Arbeitsplätze in der Schweiz.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+      <contact>Tanja Kocher, Leiterin Kommunikation EFD, 031 322 63 01</contact>
+      <link id="66311">
+        <title>Video - Pressekonferenz des Bundesrates vom 13.03.2009</title>
+        <uri>http://www.tv.admin.ch/de/archiv?video_id=86</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Suisse entend reprendre les standards de l'OCDE relatifs à l'assistance administrative en matière fiscale</title>
+      <lead>Le Conseil fédéral a décidé aujourd'hui que la Suisse reprendrait les standards de l'OCDE relatifs à l'assistance administrative en matière fiscale, conformément à l'art. 26 du Modèle de convention de l'OCDE. La Suisse pourra ainsi développer les échanges de renseignements, au cas par cas, en réponse aux demandes concrètes et fondées d'autres pays. Le Conseil fédéral a décidé de retirer la réserve formulée par la Suisse à l'égard de l'art. 26 du Modèle de convention de l'OCDE et d’engager des négociations en vue de réviser les conventions contre la double imposition. Le secret bancaire suisse est maintenu.</lead>
+      <text link="no">&lt;p&gt;La décision du Conseil fédéral de reprendre les standards de l'OCDE relatifs à l'assistance administrative en matière fiscale, conformément à l'art. 26 du Modèle de convention de l'OCDE, n'entraîne aucun changement pour les contribuables résidant en Suisse. Les possibilités d'accès des autorités fiscales suisses aux informations bancaires, telles que définies dans le droit interne, ne sont en rien modifiées par cette décision.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral reconnaît que le souhait de protéger adéquatement la sphère privée des citoyens est toujours fortement ancré dans la population suisse. C'est pourquoi il tient à maintenir le secret bancaire et rejette fermement l'échange automatique de renseignements. La protection de la sphère privée des clients contre la consultation injustifiée d'informations relatives à leur situation patrimoniale est toujours garantie.&lt;/p&gt; &lt;p&gt;Le secret bancaire ne protège cependant pas les auteurs de délits fiscaux. Dans un contexte de globalisation des marchés financiers et surtout de crise financière, la coopération internationale en matière fiscale revêt une importance accrue. Le Conseil fédéral continuera de soutenir les efforts déployés dans ce domaine.&lt;/p&gt; &lt;p&gt;L'application de la décision prise aujourd'hui par le Conseil fédéral interviendra dans le cadre de conventions bilatérales contre la double imposition. Ce n'est qu'après l'entrée en vigueur des conventions renégociées que le développement des échanges de renseignements sera effectif. Par ailleurs, l'accord sur la fiscalité de l'épargne avec l'UE devra être adapté. Aux yeux de la Suisse, il est en outre essentiel d'améliorer l'accès aux marchés des services financiers transfrontaliers et d'assurer une juste réciprocité en ce qui concerne la disposition à fournir des informations et la qualité des renseignements fournis.&lt;/p&gt; &lt;p&gt;Pour le Conseil fédéral, la future politique d'assistance administrative en matière fiscale doit impérativement intégrer les éléments ci-après :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Protection des droits de procédure&lt;/li&gt; &lt;li&gt;Assistance administrative limitée au cas par cas (pas de «&amp;nbsp;fishing expeditions&amp;nbsp;»)&lt;/li&gt; &lt;li&gt;Solutions transitoires équitables&lt;/li&gt; &lt;li&gt;Restriction aux impôts tombant sous le coup de la convention&lt;/li&gt; &lt;li&gt;Principe de subsidiarité selon le Modèle de convention de l'OCDE&lt;/li&gt; &lt;li&gt;Disposition à éliminer les traitements discriminatoires&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Le Conseil fédéral mettra tout en œuvre pour qu'à l'avenir également la coopération transfrontalière en matière fiscale emprunte exclusivement des canaux définis par voie conventionnelle.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral est convaincu que la décision de reprendre les standards de l'OCDE relatifs à l'assistance administrative en matière fiscale favorisera une meilleure acceptation par nos principaux partenaires des conditions-cadres juridiques de notre place financière et renforcera la sécurité du droit pour les clients de nos banques. Cette décision contribuera à préserver la compétitivité et le positionnement international de la place financière suisse. Elle permettra en outre de renforcer le pôle économique suisse et de garantir les emplois dans notre pays.&lt;/p&gt;</text>
+      <contact>Tanja Kocher, responsable de la communication du DFF, tél. 031 322 63 01</contact>
+      <link id="66312">
+        <title>Video - Conférence de presse du Conseil fédéral du 13.03.2009</title>
+        <uri>http://www.tv.admin.ch/fr/archiv?video_id=86</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>La Svizzera intende riprendere lo standard OCSE nell'assistenza amministrativa in materia fiscale</title>
+      <lead>In data odierna il Consiglio federale ha stabilito che la Svizzera intende riprendere lo standard OCSE nell'assistenza amministrativa in materia fiscale, in conformità con l'articolo 26 del modello di Convenzione dell'OCSE. Questo consentirà di sviluppare, su richiesta concreta e motivata, in singoli casi, lo scambio d'informazioni con altri Paesi. Il Consiglio federale ha deciso di revocare la relativa riserva riguardo alla Convenzione ed è disposto ad avviare negoziati sulla revisione di convenzioni contro la doppia imposizione. Il segreto bancario svizzero è mantenuto.</lead>
+      <text link="no">&lt;p&gt;La decisione del Consiglio federale di riprendere lo standard OCSE nell'assistenza amministrativa in materia fiscale, in conformità con l'articolo 26 del modello di Convenzione dell'OCSE non ha alcuna conseguenza per i contribuenti residenti in Svizzera. Essa non muta neppure, nel diritto interno, le possibilità delle autorità fiscali svizzere di accedere a dati bancari.&lt;/p&gt; &lt;p&gt;Il Consiglio federale riconosce che il desiderio di un'adeguata protezione della sfera privata del cittadino rimane profondamente radicato nella popolazione svizzera. È perciò deciso a mantenere il segreto bancario e respinge fermamente uno scambio di informazioni automatico. La sfera privata dei clienti continuerà a essere protetta da tentativi non autorizzati di conoscere le situazioni patrimoniali.&lt;/p&gt; &lt;p&gt;Il segreto bancario non copre tuttavia i reati fiscali. Sulla scia della globalizzazione dei mercati finanziari e in particolare alla luce della crisi finanziaria, la cooperazione internazionale in ambito fiscale ha assunto maggiore importanza. Il Consiglio federale continuerà a sostenere attivamente gli sforzi in tal senso.&lt;/p&gt; &lt;p&gt;L'attuazione dell'odierna decisione del Consiglio federale dovrebbe avvenire nel quadro di convenzioni bilaterali di doppia imposizione. Lo scambio d'informazioni ampliato avrà ripercussioni pratiche solamente con l'entrata in vigore di tali convenzioni, da rinegoziare. Inoltre, nelle relazioni con l'UE, dovrà seguire un adeguamento dell'Accordo sulla fiscalità del risparmio. Inoltre, per la Svizzera sono di importanza basilare il miglioramento dell'accesso al mercato per le prestazioni di servizio finanziarie transfrontaliere e condizioni analoghe nella disponibilità a fornire informazioni e nella qualità di queste ultime.&lt;/p&gt; &lt;p&gt;Per il Consiglio federale, i seguenti elementi sono irrinunciabili per la sua futura politica in materia di assistenza amministrativa nelle questioni fiscali:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;salvaguardia della certezza del diritto;&lt;/li&gt; &lt;li&gt;assistenza amministrativa nelle questioni fiscali limitata a casi singoli (sono escluse le «fishing expeditions»);&lt;/li&gt; &lt;li&gt;soluzioni transitorie eque;&lt;/li&gt; &lt;li&gt;limitazione alle imposte considerate dalla Convenzione;&lt;/li&gt; &lt;li&gt;principio di sussidiarietà conformemente al modello di Convenzione dell'OCSE;&lt;/li&gt; &lt;li&gt;disponibilità a eliminare le discriminazioni.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Il Consiglio federale si adopererà anche in futuro affinché la cooperazione transfrontaliera nelle questioni fiscali si svolga esclusivamente seguendo i canali previsti dai trattati.&lt;/p&gt; &lt;p&gt;Il Consiglio federale è persuaso che la decisione di riprendere lo standard OCSE nell'assistenza amministrativa in materia fiscale accrescerà sia l'accettazione delle condizioni quadro legali della nostra piazza finanziaria presso i nostri principali partner, sia la certezza del diritto per i clienti delle nostre banche. Questo passo preserverà la concorrenzialità e l'importanza internazionale della piazza finanziaria svizzera, ciò che rafforzerà parimenti l'intero comparto finanziario svizzero e garantirà posti di lavoro in Svizzera.&lt;/p&gt;</text>
+      <contact>Tanja Kocher, capo della Comunicazione DFF, 031 322 63 01</contact>
+      <link id="66310">
+        <title>Video - Conferenza stampa del Consiglio federale del 13.03.2009</title>
+        <uri>http://www.tv.admin.ch/it/archiv?video_id=86</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Switzerland to adopt OECD standard on administrative assistance in fiscal matters</title>
+      <lead>The Federal Council has announced today that Switzerland intends to adopt the OECD standard on administrative assistance in tax matters in accordance with Art. 26 of the OECD Model Tax Convention. The decision will permit the exchange of information with other countries in individual cases where a specific and justified request has been made. The Federal Council has decided to withdraw the corresponding reservation to the OECD Model Tax Convention and to enter into negotiations on revising double taxation agreements. Swiss banking secrecy remains intact.</lead>
+      <text link="no">&lt;p&gt;The adoption of the OECD standard on administrative assistance in taxation matters in accordance with Art. 26 of the OECD Model Tax Convention will have no impact on the situation for taxpayers resident in Switzerland. The right of the Swiss tax authorities to access bank data under Swiss domestic law is not affected by the decision.&lt;/p&gt; &lt;p&gt;The Federal Council acknowledges that the wish of the people of Switzerland for appropriate protection of personal privacy is still firmly entrenched. For this reason, it fully endorses banking secrecy and resolutely rejects any form of automatic exchange of information. The privacy of customers will continue to be protected from unauthorised access to information concerning private assets.&lt;/p&gt; &lt;p&gt;Banking secrecy, however, does not protect any form of tax offence. With the globalisation of financial markets and in particular the current financial crisis, international cooperation in tax matters has become increasingly important. The Federal Council will actively continue to support efforts in this regard.&lt;/p&gt; &lt;p&gt;The decision that the Federal Council made today will be implemented within the framework of bilateral double taxation agreements. The greater scope for exchange of information will only have practical effects when the renegotiated agreements come into force. In addition, adjustments must be made to the agreement with the EU on the taxation of savings income . Furthermore, Switzerland regards improved market access for international financial services and equal treatment with regard to the supply and quality of information as matters of great importance.&lt;/p&gt; &lt;p&gt;For the Federal Council, the following aspects are indispensable for its future policy on administrative assistance in tax matters:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Respect for established administrative assistance procedures&lt;/li&gt; &lt;li&gt;Restriction of administrative assistance to individual cases (no fishing expeditions)&lt;/li&gt; &lt;li&gt;Fair transitional solutions&lt;/li&gt; &lt;li&gt;Limitation to taxes covered by the OECD Model Tax Convention&lt;/li&gt; &lt;li&gt;The principle of subsidiarity in accordance with the Model Tax Convention&lt;/li&gt; &lt;li&gt;Willingness to eliminate discrimination.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;In the future, the Federal Council will endeavour to ensure that international cooperation in tax matters is carried out exclusively within the framework of contractually agreed channels.&lt;/p&gt; &lt;p&gt;The Federal Council is convinced that its decision to adopt the OECD standard on administrative assistance in tax matters will both lead to greater acceptance of the legal framework conditions of the Swiss financial centre among Switzerland's most important partners and increase legal certainty for customers of Swiss banks. This step will help safeguard the competitiveness and the international importance of the Swiss financial centre. It will also strengthen Switzerland as a workplace and safeguard jobs.&lt;/p&gt;</text>
+      <contact>Tanja Kocher, Head of FDF Communications, tel. 031 322 63 01</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="137" org-id="605">
+        <name lang="de">Internationale Doppelbesteuerung</name>
+        <name lang="fr">Double imposition internationale</name>
+        <name lang="it">Doppia imposizione internazionale</name>
+        <name lang="en">International double taxation</name>
+      </keyword>
+      <keyword id="133" org-id="605">
+        <name lang="de">Zinsbesteuerung</name>
+        <name lang="fr">Imposition des intérêts</name>
+        <name lang="it">Imposizione dei redditi da interessi</name>
+        <name lang="en">Taxation of savings income</name>
+      </keyword>
+      <keyword id="117" org-id="605">
+        <name lang="de">Bankgeheimnis</name>
+        <name lang="fr">Secret bancaire</name>
+        <name lang="it">Segreto bancario</name>
+        <name lang="en">Banking secrecy</name>
+      </keyword>
+      <keyword id="126" org-id="605">
+        <name lang="de">Finanzplatz Schweiz</name>
+        <name lang="fr">Place financière suisse</name>
+        <name lang="it">Piazza finanziaria svizzera</name>
+        <name lang="en">Switzerland as a financial centre</name>
+      </keyword>
+      <keyword id="235" org-id="605">
+        <name lang="de">Internationale Steuerpolitik</name>
+        <name lang="fr">Politique fiscale internationale</name>
+        <name lang="it">Politica fiscale internazionale</name>
+        <name lang="en">International tax policy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

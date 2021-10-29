@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="58086" revoked="no">
+    <version>1</version>
+    <pubdate>2015-07-10</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="404" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="en">Federal Office of Police</name>
+      <www lang="de">http://www.fedpol.admin.ch/fedpol/de/home.html</www>
+      <www lang="fr">http://www.fedpol.admin.ch/fedpol/fr/home.html</www>
+      <www lang="it">http://www.fedpol.admin.ch/fedpol/it/home.html</www>
+      <www lang="en">http://www.fedpol.admin.ch/fedpol/en/home.html</www>
+      <email lang="de">info@fedpol.admin.ch</email>
+      <email lang="fr">info@fedpol.admin.ch</email>
+      <email lang="it">info@fedpol.admin.ch</email>
+      <email lang="en">info@fedpol.admin.ch</email>
+    </originator>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Vorsicht Malware: Mails mit Absender fedpol</title>
+      <lead>Seit einigen Tagen werden von Kriminellen E-Mails mit dem angeblichen Absender „Bundesamt für Polizei“ verbreitet. Eine erste Welle an Mails wurde letzte Woche versendet, eine zweite folgte diese Woche. Weitere solcher E-Mail-Wellen im Laufe des Sommers können nicht ausgeschlossen werden. fedpol empfiehlt, den im E-Mail enthaltenen Link niemals zu öffnen, das Mail zu löschen und mittels des Formulars auf der Webseite von fedpol eine Meldung zu machen.</lead>
+      <text link="no"> &lt;p&gt;In den von den Kriminellen versendeten E-Mails werden die Empfänger darüber informiert, dass angeblich ein Verfahren gegen sie eröffnet wurde. Die Empfänger der Mails werden aufgefordert, auf einer Webseite alle für den Prozess notwendigen Informationen und Dokumente herunterzuladen. Ansonsten werde das Gericht ohne Rücksprache mit dem Beschuldigten urteilen. Der Link führt auf eine sehr gute Fälschung der Internetseite des Bundesamtes für Polizei (fedpol).&lt;/p&gt; &lt;h3&gt;Angriff mit Malware&lt;/h3&gt; &lt;p&gt;Auf der verlinkten Webseite muss der Benutzer ein Captcha eingeben, um angeblich sämtliche Informationen betreffend des Prozesses herunterladen zu können. In Wirklichkeit laden die Betroffenen damit jedoch eine gefürchtete Version der Malware CryptoLocker herunter.&lt;/p&gt; &lt;p&gt;Nachdem letzte Woche eine erste Welle an Mails mit vermeintlichem Absender fedpol versendet wurde, konnte KOBIK die Löschung der betrügerischen Seite auf einem ausländischen Server erwirken. Diese Woche wurde eine zweite, massive Welle an fast identischen Mails versendet, welche auf neue und noch aktive gefälschte Internetseiten von fedpol verweisen.&lt;/p&gt; &lt;h3&gt;Weitere Wellen solcher E-Mails möglich&lt;/h3&gt; &lt;p&gt;Der Versuch auf diesem Wege die Malware zu verbreiten hält an. Häufig werden verschiedene Wellen solcher E-Mails verbreitet, weshalb davon auszugehen ist, dass weitere im Laufe dieses Sommers folgen werden. Das richtige Verhalten ist einfach:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nicht auf die in E-Mails angegebene Links klicken, wenn man sich bezüglich des Absenders nicht sicher ist. Dabei auch bedenken, dass ein Absender gefälscht sein kann. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;E-Mail löschen.&lt;/li&gt;&lt;li&gt;Virenschutz-Software regelmässig aktualisieren.&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Kommunikation und Medien fedpol, T +41 58 463 13 10</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Alerte au logiciel malveillant : envoi de courriel au nom de fedpol</title>
+      <lead>Depuis plusieurs jours, des cybercriminels envoient des courriels au nom de l’Office fédéral de la police. Une première vague a eu lieu la semaine dernière, une deuxième cette semaine. De nouvelles vagues de courriels durant l’été ne sont pas exclues. fedpol recommande de ne jamais cliquer sur les liens contenus dans le mail, d’effacer le mail et de signaler ces cas au moyen du formulaire d’annonce sur le site internet de fedpol.</lead>
+      <text link="no"> &lt;p&gt;Les mails envoyés par les criminels informent les destinataires qu'une procédure juridique a été ouverte à leur encontre. Les victimes sont appelées à se rendre sur un site Internet dont le lien est indiqué dans le message afin de fournir toutes les informations nécessaires au procès, faute de quoi le tribunal se prononcera sans l'avis du soi-disant prévenu.&lt;/p&gt; &lt;h3&gt;Derrière l'attaque, un logiciel malveillant&lt;/h3&gt;&lt;p&gt;&lt;b&gt; &lt;/b&gt;Sur le site Internet indiqué, l'utilisateur doit résoudre un captcha pour, aux dires des criminels, télécharger toutes les informations sur le cas qui le concerne. En réalité, les victimes téléchargent une version du redoutable malware CryptoLocker.&lt;/p&gt; &lt;p&gt;Suite à une première vague de courriels provenant prétendument de fedpol enregistrée la semaine passée, fedpol a fait supprimer la page frauduleuse qui se trouvait sur un serveur basé à l'étranger. Cette semaine, une seconde vague massive de courriels presque identiques aux précédents est en circulation. Des liens renvoient à des fausses pages de fedpol.&lt;/p&gt; &lt;h3&gt;De nouvelles vagues possibles&lt;/h3&gt;&lt;p&gt;&lt;b&gt; &lt;/b&gt;Ce genre d'arnaque par courriels est courant. Souvent, plusieurs vagues de courriels sont envoyés, c'est pourquoi il faut s'attendre à de nouvelles vagues pendant l'été. Les comportements à suivre sont simples :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ne jamais cliquer sur des liens en cas d'incertitude sur l'expéditeur ou l'authenticité du contenu, l'adresse d'envoi d'un courriel pouvant être falsifiée ;&lt;/li&gt;&lt;li&gt;effacer le message ;&lt;/li&gt;&lt;li&gt;maintenir systématiquement son antivirus à jour afin qu'il puisse reconnaître les dernières menaces et avertir en conséquence. &lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Communication et médias fedpol, T +41 58 463 13 10</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Attenzione al malware: invio di e-mail a nome di fedpol</title>
+      <lead>Da qualche giorno, ignoti cibercriminali inviano degli e-mail a nome dell’Ufficio federale di polizia. Una prima ondata è stata registrata settimana scorsa, una seconda la settimana odierna. Delle nuove ondate durante l’estate non sono da escludere. fedpol raccomanda di non cliccare mai sui link contenuti nell’e-mail, di cancellarlo e segnalare il caso tramite il modulo di contatto del sito Internet di fedpol.</lead>
+      <text link="no"> &lt;p&gt;I messaggi inviati dai criminali comunicano ai destinatari che un provvedimento giuridico è stato aperto nei loro confronti. Le vittime sono chiamate a recarsi su un sito Internet il cui link è fornito nel messaggio al fine di fornire tutte le informazioni necessarie al processo. Qualora i destinatari non ottemperassero a questa richiesta, i truffatori affermano che il tribunale sentenzierà senza la loro udienza.&lt;/p&gt; &lt;h3&gt;Dietro l'attacco, un malware&lt;/h3&gt; &lt;p&gt;Sul sito indicato, l'internauta deve risolvere un captcha che permetterà, a dire dei criminali, di scaricare le informazioni relative al provvedimento che lo riguarda. In realtà, le vittime scaricano una versione del famoso e deleterio malware CryptoLocker.&lt;/p&gt; &lt;p&gt;A seguito della prima ondata di e-mail registrata la scorsa settimana, lo SCOCI è pervenuto a far cancellare la copia della pagina Internet della polizia federale da un server ubicato all'estero. Apparentemente questa settimana è in corso une seconda importante ondata di e-mail praticamente identici i cui collegamenti ipertestuali conducono a delle nuove pagine di fedpol falsificate.&lt;/p&gt; &lt;h3&gt;Nuove ondate possibili&lt;/h3&gt; &lt;p&gt;Questo genere di truffa via e-mail è frequente. Spesso, sono inviate più ondate di messaggi fraudolenti; non è da escludere l'invio massivo di nuovi e-mail di questo tipo durante l'estate. I comportamenti da adottare nei loro confronti sono semplici:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;non cliccare mai su dei collegamenti ipertestuali per i quali sussistono dei dubbi sulla veridicità del mittente;&lt;/li&gt;&lt;li&gt;eliminare il messaggio;&lt;/li&gt;&lt;li&gt;Aggiornare costantemente il software antivirus affinché sia in grado di identificare le minacce attuali &lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Comunicazione e media fedpol, T +41 58 463 13 10</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="17">
+        <name lang="de">Kriminalität</name>
+        <name lang="fr">Criminalité</name>
+        <name lang="it">Criminalità</name>
+        <name lang="en">Criminality</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

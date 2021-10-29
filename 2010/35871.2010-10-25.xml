@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="35871" revoked="no">
+    <version>1</version>
+    <pubdate>2010-10-25</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="609" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Richtigstellung zu Medienartikel</title>
+      <lead>In der Tagespresse vom 25. Oktober 2010 (identische Artikel in Tages-Anzeiger, Berner Zeitung, Der Bund und Basler Zeitung) werden Sachverhalte falsch dargestellt, Zitate aus dem Kontext gerissen und im Ergebnis über ein konkretes Informatik-Vorhaben falsch informiert. Soweit das Bundesamt für Informatik und Telekommunikation BIT unmittelbar angesprochen wird, stellt es diese Informationen im Folgenden richtig bzw. in den richtigen Zusammenhang.</lead>
+      <text link="no">&lt;p&gt;Tages-Anzeiger (TA): „Das Bundesamt für Informatik hat für die Arbeitsvermittlung ein fehlerhaftes EDV-System gebaut. Nun braucht es einen Nachtragskredit. Szenen einer IT-Schlacht zwischen Bund, Kantonen und Zulieferern. Die Einführung des neuen Informationssystems Avam sorgt seit mehreren Jahren für Ärger."&lt;/p&gt; &lt;p&gt;Fakt ist: Gemeint ist hier die Neukonzeption des elektronischen Informationssystems für die Arbeitsvermittlung und Arbeitsmarktstatistik (NK AVAM). &amp;nbsp;Das Informationssystem ist seit dem Sommer 2007 (Realisierungseinheit 1) und seit 8. Juni 2009 (Realisierungseinheit 2) produktiv im Einsatz und hat rund 4000 Benutzer in der Bundesverwaltung und bei den Kantonen einschliesslich RAV. Der vom SECO beantragte Nachtragskredit über 4.4 Mio. Franken soll dem Ausbau der Infrastruktur dienen. Zum heutigen Tag weist das System eine hohe Verfügbarkeit aus (gemäss Service Level Agreement: mehr als 99.8%/24h zugesichert und bisher auch eingehalten) und hat keine wesentlichen Fehler oder Mängel mehr. Ein kausaler Zusammenhang zwischen den vermeintlichen Fehlern und dem Kreditantrag besteht nicht. Von einer IT-Schlacht kann keine Rede sein. Kantone, SECO und BIT arbeiten eng zusammen.&lt;/p&gt; &lt;p&gt;TA: „Bereits nach der Vergabe eines grossen Teilauftrags zur Programmierung leitete das Finanzdepartement eine Administrativuntersuchung beim Bundesamt für Informatik und Telekommunikation (BIT) ein. Der externe Gutachter stellte fest, dass zwei BIT-Mitarbeiter «enge Beziehungen zur Gewinnerin» hatten und dass bei der Auftragsvergabe «zahlreiche Fehler» gemacht worden seien. Weil strafrechtlich aber nichts vorlag, erhielt die fragliche Firma den Auftrag dennoch."&lt;/p&gt; &lt;p&gt;Fakt ist: Auf Antrag von Marius Redli, Direktor BIT, leitete das EFD eine Administrativuntersuchung durch einen externen Gutachter ein, um den rechtskräftigen und von Konkurrenten nicht angefochtenen Zuschlag in einer öffentlichen Ausschreibung nach WTO überprüfen zu lassen. Die Administrativuntersuchung wies auf Verbesserungspotential bei Informatikbeschaffungen hin, worauf die Geschäftsleitung BIT eine Reihe von organisatorischen Massnahmen beschloss. Der Bericht stellte fest: „Strafrechtlich relevante Handlungen und namentlich Informationslecks konnten nicht eruiert werden; hinreichende Anhaltspunkte für strafbares Verhalten liegen nicht vor."&lt;/p&gt; &lt;p&gt;TA: „Doch schon der Einführungstermin platzte."&lt;/p&gt; &lt;p&gt;Fakt ist: Der ursprüngliche Einführungstermin wurde verschoben, weil sich die Datenübernahme im Bereich arbeitsmarktliche Massnahmen als komplexer und somit aufwändiger als geplant erwies. Zudem erreichten die Gesamttests noch nicht den notwendigen Stand. Der Nachweis der Performance und Stabilität des extern eingekauften Dokumenten-Managementsystems war noch nicht erbracht. Das AVAM (inkl. Dokumenten-Managementsystem, DMS) konnte schliesslich 9 Monate später erfolgreich eingeführt werden.&lt;/p&gt; &lt;p&gt;TA: „Wöchentliche Totalabstürze - Kurz, nachdem Avam im Juni 2009 schliesslich eingeführt wurde, ging teilweise gar nichts mehr. ... Das System ist teils wöchentlich für längere Zeit abgestürzt. ... Doch ist das System weiter fragil."&lt;/p&gt; &lt;p&gt;Fakt ist: Zum Zeitpunkt der Einführung im Juni 2009 war das System stabil und performant. Trotz gründlicher Planung seitens des SECO und der kantonalen Stellen wurde das System nach der Einführung erheblich stärker genutzt als ursprünglich geplant; z.B erfolgen heute über 1 Million Transaktionen pro Tag und werden pro Monat 700‘000 Dossiers bearbeitet. Dadurch wuchs das Datenvolumen wesentlich rascher als prognostiziert, so dass das BIT bereits ab September 2009, wenige Monate nach der produktiven Einführung, die Infrastruktur ausbauen musste. Diese Ausbauarbeiten beeinträchtigten im Herbst 2009 vorübergehend die Stabilität und die Performance des Systems. Von „Totalabstürzen" des Systems kann aber nicht die Rede sein. Die damals eingeleiteten Korrekturmassnahmen führten schliesslich bezüglich Stabilität, Performance und Zuverlässigkeit des Gesamtsystems &amp;nbsp;zu einer hohen Nutzerzufriedenheit. Heute wird AVAM inkl. DMS von den Nutzern zu 80% mit gut beurteilt.&lt;/p&gt; &lt;p&gt;TA: „System musste ausgebaut werden - Am 1. Oktober musste das SECO einen Nachtragskredit von 4,4 Millionen Franken beantragen, womit die Kosten für das Projekt auf über 60 Millionen steigen. Im formellen Antrag für den Nachtragskredit heisst es ..., dass das ... System so intensiv genutzt worden sei, dass man Ausbauten von Systemressourcen habe vornehmen müssen, um die Stabilität zu garantieren."&lt;/p&gt; &lt;p&gt;Fakt ist: Der ursprünglich geplante Projektkredit für die Entwicklung von AVAM und DMS betrug 57 Millionen Franken. Effektiv gebraucht wurden 54 Millionen Franken. Der Nachtragskredit von 4.4 Millionen Franken war für die Deckung der höheren Betriebskosten nötig. Diese entstanden, weil die Infrastruktur an das effektive Nutzerverhalten im neuen System angepasst und ausgebaut werden musste. Bei den auszubauenden Ressourcen ging es vor allem um Arbeitsspeicher (RAM) und Rechenleistung auf dem Grossrechner. &amp;nbsp;Das damit konfrontierte SECO liess die gesamten Betriebskosten von NK AVAM durch eine externe Firma auditieren. Dieses Audit ergab, dass der NK AVAM Betrieb in der Produktivität 3% besser und die Kosten 11% tiefer sind als jene von vergleichbar komplexen Anwendungen. Erst daraufhin akzeptierte das SECO die erhöhten Kostenforderung und stellte den entsprechenden Antrag für einen Nachtragskredit.&lt;/p&gt; &lt;p&gt;TA: „Über 100 Fehler programmiert"&lt;/p&gt; &lt;p&gt;Fakt ist: Es geht nicht primär um Fehler sondern um Verbesserungswünsche seitens der Anwender. Bei einem so komplexen System wie AVAM ist der Einbezug aller Beteiligten von grosser Bedeutung. Eine Arbeitsgruppe mit Vertretern des SECO, der Kantone und des BIT wertet laufend die Erfahrungen im praktischen Einsatz des Systems aus und formuliert entsprechend diese neuen Anforderungen und Verbesserungswünsche. Angesichts der Tatsache, dass NK AVAM fast eine Million programmierte Java-Codezeilen und fast 4000 Anwender aufweist, wird jeder Informatik-Spezialist bestätigen, dass die Zahl von lediglich rund 100 Verbesserungswünschen durchaus Ausdruck einer Entwicklungsarbeit auf relativ hohem Niveau ist.&lt;/p&gt; &lt;p&gt;TA: „Weitere Beschaffung gestoppt - ... Wie die Arbeitsvermittlungszentren sollen auch sämtliche Kassen ein Datenmanagementsystem auf der Basis von Filenet erhalten. Die acht Kassen wollen aber ihre alte Groupdoc-Software behalten.„&lt;/p&gt; &lt;p&gt;Fakt ist: Hierbei geht es um das elektronische Auszahlungssystem der Arbeitslosenversicherung (ASAL). ASAL wurde weder vom BIT entwickelt noch betrieben. Die Groupdoc-Software ist ein im Jahr 2003 seitens eines Kantons beschafftes Dokumenten-Managementsystem, das heute im Zusammenhang mit ASAL in den meisten westschweizer Kantonen verwendet wird. Die Aufsichtskommission der Arbeitslosenversicherung hat bereits vor Jahren beschlossen, für ASAL und AVAM mit Filenet das gleiche Dokumenten-Managementsystem zu verwenden.&lt;/p&gt;</text>
+      <contact>Claudio Frigerio, Leiter Recht, Information und Revision, Bundesamt für Informatik und Telekommunikation BIT, +41 31 325 93 81</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="123456" org-id="609">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatik (fr)</name>
+        <name lang="it">Informatik (it)</name>
+        <name lang="en">Informatik (en)</name>
+      </keyword>
+      <keyword id="208" org-id="609">
+        <name lang="de">Informatik und E-Government: Diverses</name>
+        <name lang="fr">Informatique et cyberadministration: divers</name>
+        <name lang="it">Informatica e Governo elettronico: diversi</name>
+        <name lang="en">IT and E-government Misc.</name>
+      </keyword>
+      <keyword id="176" org-id="609">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-Government</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="2">
+        <name lang="de">Arbeit</name>
+        <name lang="fr">Travail</name>
+        <name lang="it">Lavoro</name>
+        <name lang="en">Labour</name>
+      </topic>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+      <topic id="24">
+        <name lang="de">Öffentliche Beschaffungen</name>
+        <name lang="fr">Marchés publics</name>
+        <name lang="it">Acquisti pubblici</name>
+        <name lang="en">Public Procurement</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="44080" revoked="no">
+    <version>5</version>
+    <pubdate>2012-04-10</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="101" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Studie zu verifizierbaren Vote électronique-Systemen</title>
+      <lead>Im Jahr 2011 hat die Bundeskanzlei der Berner Fachhochschule (BFH) den Auftrag erteilt, eine Studie zu verifizierbaren Vote électronique-Systemen zu erarbeiten. Die Bundeskanzlei hat die Studie heute veröffentlicht. Die Vorschläge der BFH, welche aufgrund der aktuellen Rahmenbedingungen nur längerfristig umgesetzt werden können, werden in die laufende Weiterentwicklung von Vote électronique einfliessen.</lead>
+      <text link="no">&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Im Februar 2011 hat die Bundeskanzlei der BFH den Auftrag erteilt, die Möglichkeit der Entwicklung eines verifizierbaren Vote électronique-Systems für Wahlen und Abstimmungen zu prüfen. Im August 2011 hat das Forschungsteam rund um Prof. Dr. Eric Dubuis und Prof. Dr. Rolf Haenni der Bundeskanzlei die Studie „Konzept und Implikationen eines verifizierbaren Vote électronique-Systems" unterbreitet. Nach einer Bundeskanzlei-internen Evaluation der Studie wurde bis Ende Januar 2012 auch noch eine Vernehmlassung bei den Kantonen durchgeführt. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Das Konzept&lt;br /&gt;&lt;/b&gt;Die BFH hat ein umfassendes Konzept für ein sicheres und verifizierbares Vote électronique-System vorgelegt. Im Zentrum des Konzepts steht ein kryptographisches Wahlprotokoll, das darauf ausgelegt ist, die kritischen Sicherheitsanforderungen zu erfüllen und die Verifizierung bei gleichzeitiger Aufrechterhaltung des Stimmgeheimnisses zu ermöglichen (Kernelemente der Studie vgl. S. 2). &lt;/p&gt;&lt;p&gt;&lt;b&gt;Perspektiven zur Weiterentwicklung von Vote électronique&lt;br /&gt;&lt;/b&gt;Nach Einschätzung der Bundeskanzlei stellt der Vorschlag der BFH eine längerfristige Perspektive dar. Kurz- bis mittelfristig kann er aus logistischen, finanziellen und politischen Gründen nicht umgesetzt werden. Er dient dennoch der aktuellen Weiterentwicklung von Vote électronique: Bund und Kantone arbeiten bereits heute an Konzepten zur Umsetzung der Verifizierbarkeit in den bestehenden Systemen. Die Studie der BFH hilft dabei als Referenz. &lt;/p&gt;&lt;p&gt;Die Ergebnisse der Studie werden im Rahmen des dritten Berichtes des Bundesrates zu Vote électronique - vorgesehen für Sommer 2013 - vertieft erörtert. Dabei werden auch ihre Auswirkungen auf die Zukunft der elektronischen Stimmabgabe über das Internet untersucht.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;br /&gt;&lt;strong&gt;Verifizierbarkeit: Eine Definition&lt;br /&gt;&lt;/strong&gt;Verifizierbare Systeme sollen es den Stimmberechtigten ermöglichen, die Korrektheit des Abstimmungs- bzw. Wahlergebnisses nachzuvollziehen. Dies erlaubt den Stimmberechtigten zu überprüfen, ob die eigene Stimme im Sinne ihrer Abgabe im Ergebnis enthalten ist. Andererseits sollen sie nachvollziehen können, dass das Ergebnis alle abgegebenen gültigen Stimmen berücksichtigt.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Das Konzept der BFH in Kürze&lt;/strong&gt;&lt;br /&gt;Gemäss dem Konzept sollen für die Verifizierung sämtliche im Stimmabgabe- und Auszählungsprozess anfallenden Daten veröffentlicht werden. Die einzelnen Schritte könnten somit von einer beliebigen Person oder Stelle nachvollzogen und überprüft werden. Zur Wahrung des Stimmgeheimnisses sieht das System sogenannte Treuhänder (Institutionen bzw. Einzelpersonen) vor. Ihre Aufgabe besteht darin, geheime Informationen vertraulich zu halten, so dass die Stimmen nur bei aktiver Zusammenarbeit aller Treuhänder entschlüsselt werden könnten. Eine sichere Plattform bildet im Konzept der BFH die Grundvoraussetzung für die Einführung der Verifizierbarkeit. Die am häufigsten eingesetzten Plattformen (PCs, Smartphones, etc.) gelten allgemein als anfällig. Mit dem Einsatz eines vertrauenswürdigen Wahlgeräts, mit dem die eigentliche Wahlhandlung durchgeführt wird, würde das Problem der unsicheren Plattformen umgangen. Dies würde Wahlen und Abstimmungen gemäss BFH noch sicherer machen.&lt;/p&gt;</text>
+      <contact>Kommunikation Bundeshaus West CH-3003 Bern +41 58 462 37 91</contact>
+      <link id="177801">
+        <title>Link zur Studie</title>
+        <uri>https://www.bk.admin.ch/dam/bk-intra/de/dokumente/pore/politische_rechte/konzept_berner_fachhochschule.pdf.download.pdf/konzept_berner_fachhochschule.pdf</uri>
+        <position>Content</position>
+      </link>
+      <revisions>
+        <revision date="2012-12-06 16:15" type="R"/>
+        <revision date="2012-04-10 14:20" type="R"/>
+        <revision date="2012-04-10 14:06" type="R"/>
+        <revision date="2018-05-17 09:51" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Etude sur les systèmes de vote électronique vérifiables</title>
+      <lead>En 2011, la Chancellerie fédérale a chargé la Haute école spécialisée bernoise (HESB) de réaliser une étude sur les systèmes de vote électronique vérifiables. C’est chose faite et la Chancellerie fédérale a aujourd’hui publié ladite étude. Du fait du contexte général actuel, les propositions de la HESB ne se prêtent qu’à une mise en œuvre à long terme, ce qui n’empêche toutefois pas de les intégrer dès maintenant aux travaux courants de perfectionnement du vote électronique.</lead>
+      <text link="no">&lt;p&gt;En février 2011, la Chancellerie fédérale a chargé la HESB d'examiner la possibilité de réaliser un système de vote électronique vérifiable en vue des élections et des votations.&lt;b&gt; &lt;/b&gt;Au mois d'août de la même année, l'équipe dirigée par MM. Eric Dubuis et Rolf Haenni a remis à la Chancellerie fédérale l'étude «Konzept und Implikationen eines verifizierbaren Vote électronique-Systems» (Système de vote électronique vérifiable: projet et implications). Après une évaluation interne, la Chancellerie a mis l'étude en consultation auprès des cantons qui ont eu la possibilité de se prononcer jusqu'à la fin du mois de janvier 2012. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Le projet&lt;br /&gt;&lt;/b&gt;La HESB a présenté un projet exhaustif de système de vote électronique sûr et vérifiable. Le projet s'articule autour d'un protocole de vote cryptographique conçu de manière à satisfaire aux exigences élevées en matière de sécurité et à permettre la vérifiabilité tout en préservant le secret du vote (voir les éléments clés de l'étude, p. 2). &lt;/p&gt;&lt;p&gt;&lt;b&gt;Perspectives&lt;br /&gt;&lt;/b&gt;De l'avis de la Chancellerie fédérale, les propositions de la HESB s'inscrivent dans une perspective à long terme: pour des raisons d'ordre logistique, financier et politique, il n'est pas possible de les mettre en œuvre à court ou moyen terme. Elles sont néanmoins utiles pour le développement courant du vote électronique: la Confédération et les cantons élaborent déjà des projets visant à intégrer le principe de vérifiabilité dans les systèmes actuels; ils se réfèrent ce faisant à l'étude de la HESB. &lt;/p&gt;&lt;p&gt;Les résultats de l'étude seront exposés de manière approfondie dans le cadre du troisième rapport du Conseil fédéral sur le vote électronique, dont la parution est prévue pour l'été 2013. Le rapport examinera aussi leur impact sur l'avenir du vote par Internet.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Qu'est-ce que la vérifiabilité ?&lt;/strong&gt;&lt;br /&gt;Les systèmes vérifiables ont pour but de permettre aux électeurs de retracer les différentes étapes du processus de vote et de constater l'exactitude du résultat d'un scrutin. Chaque électeur peut vérifier si le suffrage pris en compte dans le résultat du scrutin correspond bien au suffrage qu'il a donné. Il peut d'autre part vérifier si le résultat du scrutin est bien le reflet de l'ensemble des suffrages valables donnés.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Le projet de la HESB en bref&lt;br /&gt;&lt;/strong&gt;Le projet prévoit la publication de l'ensemble des données issues du processus de vote et de dépouillement. Le but est de permettre à tout un chacun de retracer les différentes étapes à des fins de vérification. Pour préserver le secret du vote, le système prévoit des personnes de confiance (institutions ou particuliers), dont la tâche consistera à assurer la confidentialité des données secrètes de telle sorte que les suffrages ne pourront être déchiffrés qu'au prix d'une collaboration active de toutes les personnes de confiance. Selon le projet de la HESB, l'utilisation d'une plate-forme sûre constitue la condition sine qua non à l'introduction de la vérifiabilité. Or les plates-formes les plus fréquemment utilisées (ordinateurs personnels, téléphones multimédias, etc.) sont aussi les moins sûres. L'utilisation d'un appareil de vote fiable, au moyen duquel le suffrage sera donné, permettrait de résoudre ce problème. De l'avis de la HESB, la sécurité des élections et des votations s'en trouverait renforcée.&lt;/p&gt;</text>
+      <contact>Communication Bundeshaus West CH-3003 Bern +41 58 462 37 91</contact>
+      <link id="177802">
+        <title>Lien vers l’étude:</title>
+        <uri>https://www.bk.admin.ch/dam/bk-intra/fr/dokumente/pore/konzept_berner_fachhochschule.pdf.download.pdf/concept_haute_ecolespecialisebernoise.pdf</uri>
+        <position>Content</position>
+      </link>
+      <revisions>
+        <revision date="2012-12-06 16:15" type="R"/>
+        <revision date="2012-04-10 14:20" type="R"/>
+        <revision date="2012-04-10 14:06" type="R"/>
+        <revision date="2018-05-17 09:51" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Studio sui sistemi di voto elettronico verificabili</title>
+      <lead>Nel 2011 la Cancelleria federale ha incaricato la Scuola universitaria professionale bernese (BFH) di realizzare uno studio sui sistemi di voto elettronico verificabili. La Cancelleria federale pubblica oggi questa ricerca. Nelle condizioni quadro attuali le proposte della BFH potranno essere realizzate soltanto in tempi lunghi, nondimeno saranno integrate sin da ora nei lavori in corso per perfezionare il voto elettronico.</lead>
+      <text link="no">&lt;p&gt;Nel febbraio del 2011 la Cancelleria federale (CaF) ha incaricato la BFH di esaminare la possibilità di realizzare un sistema di voto elettronico verificabile per le elezioni e le votazioni. Nel mese di agosto dello stesso anno, il team diretto da Eric Dubuis e Rolf Haenni ha consegnato alla CaF lo studio «Sistema di voto elettronico verificabile: progetto e implicazioni». Dopo una valutazione interna la Cancelleria ha anche posto lo studio in procedura di consultazione - fino alla fine del mese di gennaio 2012 - presso i Cantoni. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Il progetto&lt;br /&gt;&lt;/b&gt;La BFH ha presentato un progetto esaustivo di sistema di voto elettronico sicuro e verificabile. Il fondamento del progetto è costituito da un protocollo di voto criptografico concepito per soddisfare le elevate esigenze in materia di sicurezza e per permettere la verificabilità senza pregiudicare la segretezza del voto (cfr. gli elementi chiave dello studio, pag. 2).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Le prospettive&lt;br /&gt;&lt;/b&gt;Secondo la Cancelleria federale le proposte della BFH s'iscrivono in una prospettiva a lungo termine: per ragioni di ordine logistico, finanziario e politico non è possibile metterle in atto nell'immediato. Sono comunque utili per lo sviluppo in corso del voto elettronico: la Confederazione e i Cantoni già elaborano progetti volti a integrare il principio di verificabilità nei sistemi attuali e lo studio della BFH costituisce in questo contesto un utile riferimento.&lt;/p&gt;&lt;p&gt;I risultati dello studio saranno presentati in modo approfondito nel quadro del terzo rapporto del Consiglio federale sul voto elettronico, la cui pubblicazione è prevista per l'estate del 2013. Il rapporto esaminerà anche il loro impatto sul futuro del voto per Internet.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Che cos'è la verificabilità?&lt;br /&gt;&lt;/strong&gt;I sistemi verificabili consentono agli elettori di rilevare le differenti fasi del processo di voto e di verificare l'esattezza del risultato dello scrutinio. Ogni elettore può verificare se il proprio voto è stato contabilizzato correttamente. Può inoltre verificare se il risultato dello scrutinio rispecchia effettivamente l'insieme dei voti validi espressi.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Il progetto della BFH in breve&lt;br /&gt;&lt;/strong&gt;Il progetto prevede la pubblicazione dell'insieme dei dati del processo di voto e di spoglio. Lo scopo è di permettere a qualsiasi persona o ente di rilevare le differenti fasi per verificarne la correttezza. Per preservare la segretezza del voto, il sistema prevede persone di fiducia (istituzioni o singole persone) incaricate di assicurare la confidenzialità dei dati segreti in modo tale che i suffragi non possano essere decifrati, se non con la partecipazione attiva di tutte le persone di fiducia. Secondo il progetto della BFH l'impiego di una piattaforma sicura costituisce la condizione irrinunciabile all'introduzione della verificabilità. Le piattaforme maggiormente utilizzate (PC, smartphone ecc.) sono però le meno sicure. L'impiego di apparecchi di voto affidabili mediante i quali esprimere il voto consentirebbe di risolvere questo problema. Secondo la BFH la sicurezza delle elezioni e delle votazioni ne sarebbe rafforzata.&lt;/p&gt;</text>
+      <contact>Comunicazione Bundeshaus West CH-3003 Bern +41 58 462 37 91</contact>
+      <link id="177803">
+        <title>Link verso lo studio:</title>
+        <uri>https://www.bk.admin.ch/dam/bk-intra/it/dokumente/pore/konzept_berner_fachhochschule.pdf.download.pdf/concetto_alta_scuolabernesespecializzata.pdf</uri>
+        <position>Content</position>
+      </link>
+      <revisions>
+        <revision date="2012-12-06 16:15" type="R"/>
+        <revision date="2012-04-10 14:20" type="R"/>
+        <revision date="2012-04-10 14:06" type="R"/>
+        <revision date="2018-05-17 09:51" type="R"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="23">
+        <name lang="de">Politische Rechte</name>
+        <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="en">Political Rights</name>
+      </topic>
+      <topic id="28">
+        <name lang="de">Telekommunikation</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="it">Telecomunicazione</name>
+        <name lang="en">Telecommunications</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

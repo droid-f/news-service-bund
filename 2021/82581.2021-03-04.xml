@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="82581" revoked="no">
+    <version>1</version>
+    <pubdate>2021-03-04</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="505" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Lernplattform der Armee: Sicherheitslücke behoben</title>
+      <lead>Im Learning Management System (LMS) der Schweizer Armee ist eine Sicherheitslücke gemeldet und mit Unterstützung der Herstellerfirma sofort geschlossen worden. Die Lernplattform steht Angehörigen der Armee sowie den Mitarbeitenden des Bundes für Ausbildungen, Kurse und virtuelle Sitzungen zur Verfügung.</lead>
+      <text link="no">&lt;p&gt;Ein registrierter Nutzer der Plattform hat der Datenschutzstelle des Bundes Ende Februar gemeldet, dass er im LMS VBS eine Möglichkeit gefunden hatte, Daten wie beispielsweise Mailadressen oder Personalnummern von im LMS registrierten Benutzerinnen und Benutzern einzusehen. Der Betreiber hat zusammen mit der Herstellerfirma umgehend Massnahmen zur Behebung der Schwachstelle getroffen. &lt;/p&gt;&lt;p&gt;Die Lücke, welche durch den Nutzer nur aufgrund seiner funktionsbedingt vorhandenen internen Kenntnissen auszumachen war, wurde im Bereich einer Schnittstelle zwischen einer alten, noch aktiven Version der Lernplattform und der aktuellen Benutzeroberfläche lokalisiert. Aufgrund der getroffenen Massnahmen konnte diese Lücke mittlerweile geschlossen werden.&lt;/p&gt;&lt;p&gt;Eine Auswertung der Zugriffe auf das System durch die Herstellerfirma hat ergeben, dass keine unberechtigten Nutzer Einsicht auf Daten anderer Benutzerinnen und Benutzern der Lernplattform hatten. &lt;/p&gt;&lt;p&gt;Damit das LMS System zukünftig sicher bleibt, werden fortlaufend Sicherheitstests durchgeführt.&lt;/p&gt;</text>
+      <contact>Stefan Hofer Armeesprecher +41 58 463 37 41</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Plateforme d’apprentissage de l’armée: vulnérabilité corrigée</title>
+      <lead>Une faille de sécurité a été identifiée dans le Learning Management System (LMS) de l’Armée suisse. Elle a été immédiatement corrigée avec l’aide de l’éditeur de la plateforme d’apprentissage. Les militaires ainsi que les collaboratrices et collaborateurs de la Confédération ont accès à cette plateforme pour participer à des formations, des cours et des séances virtuelles.</lead>
+      <text link="no">&lt;p&gt;Un utilisateur enregistré sur la plateforme a signalé fin février à l’autorité de protection des données de la Confédération qu’il avait trouvé le moyen, sur le LMS du DDPS, d’accéder à des données d’autres utilisatrices et utilisateurs enregistrés sur la plateforme comme des adresses électroniques et des numéros personnels. L’exploitant et la société éditrice de la plateforme ont immédiatement joint leurs forces pour corriger cette vulnérabilité. &lt;/p&gt;&lt;p&gt;La faille que l’utilisateur a identifiée uniquement grâce à ses connaissances internes liées à sa fonction se trouvait au niveau d’une interface entre l’ancienne version de la plateforme, encore active, et l’interface utilisateur actuelle. Les mesures prises ont d’ores et déjà permis de corriger cette vulnérabilité.&lt;/p&gt;&lt;p&gt;La société éditrice a procédé à une évaluation des accès au système. Celle-ci a montré qu’aucune personne non autorisée n’avait pu avoir accès aux données d’autres utilisatrices et utilisateurs. &lt;/p&gt;&lt;p&gt;Pour que le système LMS reste sûr à l’avenir aussi, des tests de sécurité seront effectués régulièrement.&lt;/p&gt;</text>
+      <contact>Stefan Hofer Porte-parole de l’armée +41 58 463 37 41</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Piattaforma d’apprendimento dell’esercito: eliminata falla di sicurezza</title>
+      <lead>Nel Learning Management System (LMS) dell’Esercito svizzero è stata notificata una falla di sicurezza, eliminata immediatamente con il supporto della ditta produttrice. La piattaforma d’apprendimento è a disposizione dei militari nonché dei collaboratori della Confederazione per formazioni, corsi e sedute virtuali.</lead>
+      <text link="no">&lt;p&gt;A fine febbraio un utente registrato della piattaforma ha notificato all’organo federale incaricato della protezione dei dati di aver trovato in LMS DDPS una possibilità di consultare dati quali per esempio indirizzi e-mail o numeri personali di utenti registrati in LMS. Il gestore, assieme alla ditta produttrice, ha adottato immediatamente le misure volte a eliminare il punto debole.&lt;/p&gt;&lt;p&gt;La falla di sicurezza, che l’utente poteva individuare grazie alle conoscenze interne inerenti alla sua funzione, è stata localizzata nell’ambito di un collegamento tra una vecchia versione della piattaforma d’apprendimento ancora attiva e l’interfaccia utenti attuale. Grazie alle misure adottate, nel frattempo è stato possibile eliminare questa falla.&lt;/p&gt;&lt;p&gt;Da una valutazione degli accessi al sistema effettuata dalla ditta produttrice, è emerso che nessun utente non autorizzato ha potuto consultare dati di altri utenti della piattaforma d’apprendimento. &lt;/p&gt;&lt;p&gt;Affinché in futuro il sistema LMS rimanga sicuro, vengono costantemente effettuati test di sicurezza.&lt;/p&gt;</text>
+      <contact>Stefan Hofer Portavoce dell’esercito +41 58 463 37 41</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5160" org-id="502">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5180" org-id="502">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5360" org-id="502">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologies / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+      <keyword id="5480" org-id="502">
+        <name lang="de">Material / Ausrüstung</name>
+        <name lang="fr">Matériel / Équipement</name>
+        <name lang="it">Materiale / Equipaggiamento</name>
+        <name lang="en">material / equipment</name>
+      </keyword>
+      <keyword id="5510" org-id="502">
+        <name lang="de">Information / Kommunikation</name>
+        <name lang="fr">Information / Communication</name>
+        <name lang="it">Informazione / Comunicazione</name>
+        <name lang="en">information / communication</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

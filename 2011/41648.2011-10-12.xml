@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="41648" revoked="no">
+    <version>2</version>
+    <pubdate>2011-10-12</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="606" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>e-dec</title>
+      <lead>Aktualisierung, Historisierung der Plausibilitätsregeln</lead>
+      <text link="no">&lt;p&gt;Das Dokument "Historisierung der Plausibilitätsregeln Import/Export" wurde aktualisiert. &lt;/p&gt;Ihr Helpdesk e-dec &lt;p&gt; &lt;/p&gt;</text>
+      <contact>Mediendienst Eidgenössische Zollverwaltung EZV Tel. +41 58 462 67 43 , medien@ezv.admin.ch</contact>
+      <link id="89237">
+        <title>Historisierung der Plausibilitätsregeln Import/Export</title>
+        <uri>http://www.ezv.admin.ch/themen/00476/02544/02669/index.html?lang=de</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-10-12 10:51" type="I"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>e-dec</title>
+      <lead>mise à jour, Historisation des règles de plausibilité</lead>
+      <text link="no">&lt;p&gt;Le document " &lt;u&gt;Historisation des règles de plausibilité importation/exportation (en allemand)&lt;/u&gt;" a été actualisé.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;Helpdesk e-dec &lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Service Médias, Administration fédérale des douanes AFD no tél. +41 58 462 67 43, medien@ezv.admin.ch</contact>
+      <link id="89238">
+        <title>Historisation des règles de plausibilité importation/exportation (en allemand)</title>
+        <uri>http://www.ezv.admin.ch/themen/00476/02544/02669/index.html?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-10-12 10:51" type="I"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>e-dec</title>
+      <lead>Aggiornamento, Cronistoria delle regole di plausibilità</lead>
+      <text link="no">&lt;p&gt;Il documento „ Cronistoria delle regole di plausibilità importazione/esportazione (in tedesco)” e stato attualizzato. &lt;/p&gt;&lt;p&gt;Il vostro Helpdesk e-dec &lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Servizio stampa dell’Amministrazione federale delle dogane AFD Tel. +41 58 462 67 43, medien@ezv.admin.ch</contact>
+      <link id="89239">
+        <title>Cronistoria delle regole di plausibilità importazione/esportazione (in tedesco)</title>
+        <uri>http://www.ezv.admin.ch/themen/00476/02544/02669/index.html?lang=it</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-10-12 10:51" type="I"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="13" org-id="606">
+        <name lang="de">e-dec Import</name>
+        <name lang="fr">e-dec Importation</name>
+        <name lang="it">e-dec Importazione</name>
+        <name lang="en">e-Dec Import</name>
+      </offer>
+      <offer id="200" org-id="606">
+        <name lang="de">e-dec Export</name>
+        <name lang="fr">e-dec Exportation</name>
+        <name lang="it">e-dec Esportazione</name>
+        <name lang="en">e-Dec Export</name>
+      </offer>
+    </offers>
+    <topics>
+      <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douanes</name>
+        <name lang="it">Dogane</name>
+        <name lang="en">Customs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

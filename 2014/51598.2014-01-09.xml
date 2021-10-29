@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="51598" revoked="no">
+    <version>3</version>
+    <pubdate>2014-01-09</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="201" lead="yes" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="801" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Staatsbesuch der koreanischen Präsidentin Park Geun-Hye vom 20. und 21. Januar 2014</title>
+      <lead>Auf Einladung des Bundesrats wird die Präsidentin der Republik Korea der Schweiz am 20. und 21. Januar 2014 einen Staatsbesuch abstatten. An den offiziellen Gesprächen werden die politische, wirtschaftliche und wissenschaftliche Kooperation sowie Themen von internationaler Aktualität wie zum Beispiel Klima und Nachhaltige Entwicklung im Vordergrund stehen. Es werden verschiedene Dokumente, die zur Vertiefung der bilateralen Beziehungen beitragen, zur Unterzeichnung gelangen.</lead>
+      <text link="no">&lt;p&gt;Am 20. Januar 2014 wird die Präsidentin der Republik Korea vom Gesamtbundesrat mit militärischen Ehren in Bern empfangen. An den offiziellen Gesprächen unter der Leitung von Bundespräsident Didier Burkhalter, Vorsteher des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA), und der Präsidentin Koreas nehmen auch Bundesrätin Doris Leuthard, Vorsteherin des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK), Bundesrat Johann N. Schneider-Ammann, Vorsteher des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), und Bundesrat Alain Berset, Vorsteher des Eidgenössischen Departementes des Innern (EDI), teil. Am Abend lädt der Gesamtbundesrat zu einem Galadiner.&lt;/p&gt;&lt;p&gt;Am folgenden Tag wird der Bundespräsident seinen Gast zu einer Führung in die Gewerblich-Industrielle Berufsschule Bern (gibb) begleiten, um der koreanischen Präsidentin das duale Berufsbildungssystem der Schweiz vorzustellen. Die gibb ist eine kantonale Institution der beruflichen Grund- und Weiterbildung. &lt;/p&gt;&lt;p&gt;Südkorea und die Schweiz feierten 2013 fünfzig Jahre offizielle bilaterale Beziehungen. Das Land ist einer der wichtigsten politischen und wirtschaftlichen Partner der Schweiz in Asien. Der Staatsbesuch wird eine ausgezeichnete Gelegenheit bieten, sowohl die freundschaftliche Verbundenheit zwischen der Schweiz und Südkorea zu vertiefen wie auch die gemeinsamen Interessen und Kooperationsmöglichkeiten zu identifizieren. &lt;/p&gt;&lt;p&gt;Präsidentin Park weilt vom 18.-21.1.2014 in der Schweiz.&lt;/p&gt;</text>
+      <contact>Kommunikation EDA Bundeshaus West CH-3003 Bern Tel. Kommunikationsservice: +41 58 462 31 53 Tel. Medienstelle: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
+      <attachment id="118241">
+        <title>Lebenslauf Park Geun-Hye (en)</title>
+        <format>pdf</format>
+        <size-kb>1952</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/33376.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="118239">
+        <title>Bilaterale Beziehungen Schweiz – Südkorea</title>
+        <uri>http://www.eda.admin.ch/eda/de/home/reps/asia/vkor/bilkor.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="118240">
+        <title>Anlassseite: Staatsbesuch der koreanischen Präsidentin Park Geun-Hye</title>
+        <uri>http://www.eda.admin.ch/eda/de/home/dfa/head/hoeven/korea.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Visite d’Etat de la présidente coréenne Park Geun-hye les 20 et 21 janvier 2014</title>
+      <lead>Répondant à l’invitation du Conseil fédéral, la présidente de la République de Corée effectuera une visite d’Etat en Suisse les 20 et 21 janvier 2014. Les entretiens officiels porteront non seulement sur la coopération politique, économique et scientifique mais aussi sur des thèmes liés à l’actualité internationale, comme le climat et le développement durable. Divers documents susceptibles de contribuer au renforcement des relations bilatérales seront signés par les deux pays.</lead>
+      <text link="no">&lt;p&gt;Le 20 janvier 2014, la présidente de la République de Corée sera reçue à Berne avec les honneurs militaires par le Conseil fédéral in corpore. Les entretiens officiels seront dirigés par le président de la Confédération Didier Burkhalter, chef du Département fédéral des affaires étrangères (DFAE), et par la présidente coréenne. La conseillère fédérale Doris Leuthard, cheffe du Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC), le conseiller fédéral Johann N. Schneider-Ammann, chef du Département fédéral de l'économie, de la formation et de la recherche (DEFR) et le conseiller fédéral Alain Berset, chef du Département fédéral de l’intérieur (DFI), y prendront également part. Le soir, le Conseil fédéral donnera un dîner de gala.&lt;/p&gt;&lt;p&gt;Le deuxième jour, le président de la Confédération accompagnera son hôte lors d’une visite de l’école professionnelle et industrielle artisanale de Berne (Gewerblich-Industrielle Berufsschule Bern, gibb) pour lui présenter le système dual de formation professionnelle appliqué en Suisse. L’école gibb est une institution cantonale proposant une formation professionnelle de base et une formation continue. &lt;/p&gt;&lt;p&gt;En 2013, la Corée du Sud et la Suisse ont célébré les 50 ans de leurs relations bilatérales. La Corée du Sud est l’un des principaux partenaires politiques et économiques de la Suisse en Asie. Cette visite d’Etat sera une excellente occasion de resserrer les liens d’amitié entre les deux pays et d’identifier les questions d’intérêt commun et les éventuels domaines de coopération. &lt;/p&gt;&lt;p&gt;La présidente coréenne sera en Suisse du 18 au 21 janvier.&lt;/p&gt;</text>
+      <contact>Communication DFAE Palais fédéral ouest CH-3003 Berne Tél. Service de communication: +41 58 462 31 53 Tél. Service de presse: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
+      <attachment id="118244">
+        <title>Curriculum Vitae de la présidente coréenne Park Geun-Hye (en)</title>
+        <format>pdf</format>
+        <size-kb>1952</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/33377.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="118242">
+        <title>Relations bilatérales Suisse – Corée du Sud</title>
+        <uri>http://www.eda.admin.ch/eda/fr/home/reps/asia/vkor/bilkor.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="118243">
+        <title>Pour plus d’informations: Visite d’Etat de la présidente coréenne Park Geun-Hye</title>
+        <uri>http://www.eda.admin.ch/eda/fr/home/dfa/head/hoeven/korea.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Visita di Stato della presidente coreana Park Geun-Hye il 20 e il 21 gennaio 2014</title>
+      <lead>Su invito del Consiglio federale, la presidente della Repubblica di Corea effettuerà una visita di Stato in Svizzera il 20 e il 21 gennaio 2014. I colloqui ufficiali verteranno in particolare sulla cooperazione politica, economica e scientifica e su temi di attualità internazionale come il clima e lo sviluppo sostenibile. È inoltre prevista la firma di vari documenti volti ad approfondire le relazioni bilaterali tra i due Paesi.</lead>
+      <text link="no">&lt;p&gt;Il 20 gennaio 2014 la presidente coreana sarà accolta a Berna dal Consiglio federale in corpore con gli onori militari. Ai colloqui ufficiali, condotti da Didier Burkhalter, presidente della Confederazione e capo del Dipartimento federale degli affari esteri (DFAE), e dalla presidente della Corea, parteciperanno anche la consigliera federale Doris Leuthard, capo del Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni (DATEC), il consigliere federale Johann N. Schneider-Ammann, capo del Dipartimento federale dell'economia, della formazione e della ricerca (DEFR) e il consigliere federale Alain Berset, capo del Dipartimento federale dell'interno (DFI). In serata avrà luogo una cena di gala su invito del Consiglio federale in corpore.&lt;/p&gt;&lt;p&gt;Il giorno successivo il presidente della Confederazione accompagnerà la presidente coreana a una visita guidata presso la Scuola professionale artigianale e industriale di Berna (Gewerblich-Industrielle Berufsschule Bern, gibb), un'istituzione cantonale per la formazione professionale di base e continua, al fine di illustrarle il sistema di formazione professionale duale svizzero. &lt;/p&gt;&lt;p&gt;Nel 2013 la Corea del Sud e la Svizzera hanno festeggiato 50 anni di relazioni bilaterali ufficiali. La Repubblica di Corea è uno dei principali partner politici ed economici della Svizzera in Asia e questa visita di Stato sarà un'ottima occasione per approfondire il legame di amicizia tra i due Paesi, individuare gli interessi comuni e definire le possibilità di cooperazione. &lt;/p&gt;&lt;p&gt;La presidente coreana sarà in Svizzera dal 18 fino al 21 di gennaio.&lt;/p&gt;</text>
+      <contact>Comunicazione DFAE Palazzo federale ovest CH-3003 Berna Tel. Servizio di comunicazione: +41 58 462 31 53 Tel. Servizio stampa: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
+      <attachment id="118247">
+        <title>Corso della vita della presidente coreana Park Geun-Hye (en)</title>
+        <format>pdf</format>
+        <size-kb>1952</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/33378.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="118245">
+        <title>Relazioni bilaterali Svizzera – Corea del Sud</title>
+        <uri>http://www.eda.admin.ch/eda/it/home/reps/asia/vkor/bilkor.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="118246">
+        <title>Ulteriori informazioni: Visita di Stato della presidente coreana Park Geun-Hye</title>
+        <uri>http://www.eda.admin.ch/eda/it/home/dfa/head/hoeven/korea.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>State visit by South Korean president Park Geun-Hye from 20 to 21 January 2014</title>
+      <lead>On invitation by the Federal Council, the president of the Republic of Korea will pay a state visit to Switzerland from 20 to 21 January 2014. Talks will centre on political, economic and scientific cooperation, as well as current international issues such as climate change and sustainable development. Various documents aimed at deepening bilateral relations will also be signed.</lead>
+      <text link="no">&lt;p&gt;On 20 January 2014, the South Korean president will be welcomed by the entire Federal Council with military honours in Bern. The official talks will be led by Didier Burkhalter, president of the Swiss Confederation and head of the Federal Department of Foreign Affairs (FDFA), and the South Korean president. Federal Councillor Doris Leuthard, head of the Federal Department of the Environment, Transport, Energy and Communications (DETEC), Federal Councillor Johann N. Schneider-Ammann, head of the Federal Department of Economic Affairs, Education and Research (EAER), and Federal Councillor Alain Berset, head of the Federal Department of Home Affairs (FDHA), will also take part in the talks. A gala dinner will be held in the evening.&lt;/p&gt;&lt;p&gt;The following day, the president of the Swiss Confederation will take his guest on a tour of the Bern High School for Vocational Education in Trade and Industry gibb to introduce Switzerland's dual vocational and professional education and training system to the South Korean president. The gibb is a cantonal institution for basic and further education and vocational training. &lt;/p&gt;&lt;p&gt;In 2013, Switzerland and the Republic of Korea celebrated 50 years of official bilateral relations. The country is one of Switzerland's most important political and economic partners in Asia. The official visit will afford an excellent opportunity to deepen the friendly relations between Switzerland and the Republic of Korea, and to identify common interests and possibilities for cooperation. &lt;/p&gt;&lt;p&gt;President Park will stay in Switzerland from 18 to 21 January 2014.&lt;/p&gt;</text>
+      <contact>FDFA Communication Federal Palace West Wing CH-3003 Bern, Switzerland Tel. Communication service: +41 58 462 31 53 Tel. Press service: +41 58 460 55 55 E-mail: kommunikation@eda.admin.ch Twitter: @SwissMFA</contact>
+      <attachment id="118250">
+        <title>Curriculum vitae of the South Korean president Park Geun-Hye</title>
+        <format>pdf</format>
+        <size-kb>1952</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/33379.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="118248">
+        <title>Bilateral relations between Switzerland and South Korea</title>
+        <uri>http://www.eda.admin.ch/eda/en/home/reps/asia/vkor/bilkor.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="118249">
+        <title>For more information: Official visit of the South Korean president Park Geun-Hye</title>
+        <uri>http://www.eda.admin.ch/eda/en/home/dfa/head/hoeven/korea.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions>
+        <revision date="2014-01-09 14:58" type="R"/>
+        <revision date="2014-01-09 16:37" type="R"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="81966" revoked="no">
+    <version>6</version>
+    <pubdate>2021-01-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bund baut Unterstützung über das Härtefallprogramm aus</title>
+      <lead>Der Bundesrat hat am 13. Januar 2021 die Bedingungen gelockert, die ein Unternehmen erfüllen muss, um Härtefallhilfe zu erhalten. Unter anderem gelten Betriebe, die seit dem 1. November 2020 insgesamt während mindestens 40 Kalendertagen behördlich geschlossen werden, neu ohne Nachweis eines Umsatzrückgangs als Härtefall. Zudem können neu auch 2021 erfolgte Umsatzrückgänge geltend gemacht werden. Die Obergrenzen für A-fonds-perdu-Beiträge werden auf 20 Prozent des Umsatzes bzw. 750'000 Franken je Unternehmen erhöht. Die Verordnungsänderung erlaubt es, Härtefälle auf breiter Front zu unterstützen. Mehr als die Hälfte der Kantone zahlt bereits im Januar Härtefallhilfen aus, im Februar dürften fast alle Kantone bereit sein. </lead>
+      <text link="no"> &lt;p&gt; Der Bund hat seit Ausbruch der Corona-Pandemie umfangreiche Massnahmen beschlossen, um die wirtschaftlichen Folgen abzufedern. Die Kurzarbeitsentschädigung und der Corona-Erwerbsersatz decken je nach Branche zwischen der Hälfte und zwei Drittel der Umsatzausfälle abzüglich Vorleistungen ab. Beide Massnahmen wurden in der Wintersession noch substanziell verstärkt. Mit dem Covid-19-Kreditprogramm konnten Unternehmen im Frühjahr vom Bund verbürgte Darlehen von insgesamt über 17 Milliarden Franken aufnehmen. &lt;/p&gt;&lt;p&gt;In den Kantonen sind zudem Härtefallprogramme angelaufen, für die insgesamt rund 2,5 Milliarden Franken zur Verfügung stehen, wovon der Bund gut drei Viertel trägt (1,9 Mrd.). In mehr als der Hälfte der Kantone werden bereits im laufenden Monat erste Härtefallhilfen ausbezahlt. Im Februar werden bis auf wenige Ausnahmen alle Kantone in der Lage sein, über das Härtefallprogramm Beiträge auszuzahlen. Die kantonalen Programme eignen sich somit gut, um den Betrieben, die von Covid-19 besonders stark betroffen sind, rasch zu helfen. &lt;/p&gt;&lt;p&gt;Angesichts der durch sanitarische Massnahmen verursachten wirtschaftlichen Einbussen hat der Bund die Bedingungen, unter welchen ein Unternehmen Anrecht auf Härtefallgeld hat, noch einmal gelockert und die Bemessung der Hilfen angepasst. Die Verordnungsänderung erlaubt es den Kantonen, Härtefälle auf breiter Front zu unterstützen. Die Änderungen wurden im Austausch mit den Kantonen erarbeitet. So unterstützt der Bund die Kantone bei der raschen Umsetzung ihrer Programme. Die wichtigsten Punkte:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Bei Schliessung kein Nachweis des Umsatzrückgangs mehr nötig:&lt;/b&gt; Jene Unternehmen, die seit dem 1. November 2020 während mindestens 40 Kalendertagen behördlich geschlossen wurden (insbesondere Restaurants, Bars und Discotheken sowie Freizeit- und Unterhaltungsbetriebe) gelten neu automatisch als Härtefälle. Sie müssen den Nachweis der Umsatzeinbusse von 40 Prozent nicht mehr erbringen. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Berücksichtigung von Umsatzrückgängen 2021:&lt;/b&gt; Unternehmen, die in den Monaten Januar 2021 bis Juni 2021 in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie Umsatzrückgänge erleiden, können neu als Bemessungsgrundlage den Umsatz der letzten 12 Monate anstelle des Jahresumsatzes 2020 verwenden. Sollte die Wintersaison schlecht ausfallen, dürften damit viele Tourismusunternehmen in den Berggebieten ebenfalls unter die Härtefallregelung fallen. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dividendenverbot verkürzt:&lt;/b&gt; Weiter wird das Verbot, Dividenden oder Tantiemen zu bezahlen oder Kapitaleinlagen von Eigentümern zurückzubezahlen, auf 3 Jahre oder bis zur Rückzahlung der erhaltenen Hilfen verkürzt. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Administrative Erleichterungen:&lt;/b&gt; Geschlossene Unternehmen müssen weniger Nachweise erbringen als «normale» Härtefälle.&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Obergrenzen für A-fonds-perdu-Beiträge erhöht:&lt;/b&gt; Neu können Kantone für alle Unternehmen Beiträge von bis zu 20 Prozent des Jahresumsatzes (bisher 10 %) und bis zu 750'000 Franken je Unternehmung (bisher: 500'000 Fr.) leisten. Damit sollen Unternehmen mit hohen Fixkosten besser berücksichtigt werden können. Auch lässt sich damit eine allfällige Verlängerung der Schliessungen über Ende Februar 2021 hinaus abdecken. Die Kantone können die absolute Obergrenze der Hilfe sogar auf 1,5 Million Franken erhöhen, sofern die Eigentümer mindestens in gleichem Umfang frisches Eigenkapital einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Bundesrat hat entschieden, die 750 Millionen «Bundesratsreserve», welche das Parlament im Covid-19-Gesetz vorsieht, auch für die kantonalen Härtefallprogramme einzusetzen und damit die ersten drei Mitteltranchen zu ergänzen. Über die Aufteilung auf die Kantone will er aber erst später entscheiden. &lt;/p&gt;&lt;p&gt; Zudem wird der Bundesrat im Sinne einer Eventualplanung prüfen, ob es sinnvoll wäre, die Covid-Solidarbürgschaften im Falle einer dritten Welle mit einer starken Verschlechterung der Wirtschaftslage zur Sicherung der Liquidität und zur Stützung der Wirtschaft zu reaktivieren, und wie ein solches Programm auszugestalten wäre. &lt;/p&gt;&lt;p&gt;Um den Aufschwung nach der Krise zu unterstützen, verfügt der Bund über eine Reihe von Instrumenten, etwa arbeitsmarktliche Massnahmen oder diverse Programme zur Innovationsförderung. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Wo kann ich ein Gesuch für Härtefallhilfe einreichen?&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Die konkrete Ausgestaltung der Härtefallhilfe liegt in der Verantwortung der Kantone. Sie prüfen auch die Gesuche im Einzelfall. Fragen zur Abwicklung eines Gesuchs sind entsprechend an den Kanton, in welchem das Unternehmen am 1. Oktober 2020 seinen Sitz hatte, zu richten. Sie finden die kantonalen Kontaktdaten auf covid19.easygov.swiss. Die Verordnung des Bundes regelt, wie die Mittel des Bundes auf die Kantone verteilt werden und welche Bedingungen erfüllt sein müssen, damit sich der Bund an den Kosten der kantonalen Härtefallregelungen beteiligt. &lt;br /&gt;&lt;/p&gt; </text>
+      <contact>Kommunikation Eidgenössisches Finanzdepartement Tel. 058 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="211423">
+        <title>Covid-19-Härtefallverordnung</title>
+        <format>pdf</format>
+        <size-kb>378</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64851.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211426">
+        <title>Erläuterungen zur Covid-19-Härtefallverordnung (20.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>451</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64990.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211429">
+        <title>Erläuterungen zu den Änderungen der Covid-19-Härtefallverordnung (13.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>326</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65001.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211432">
+        <title>Grafik Massnahmen Bund</title>
+        <format>pdf</format>
+        <size-kb>772</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64889.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211435">
+        <title>Grafik Anpassungen Härtefallverordnung</title>
+        <format>pdf</format>
+        <size-kb>41</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65046.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-21 08:50" type="R"/>
+        <revision date="2021-01-20 15:33" type="R"/>
+        <revision date="2021-01-14 07:43" type="R"/>
+        <revision date="2021-01-13 16:01" type="R"/>
+        <revision date="2021-01-27 07:29" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus: la Confédération accroît l'aide fournie dans le cadre du programme pour les cas de rigueur</title>
+      <lead>Le Conseil fédéral a décidé, le 13 janvier 2021, d'assouplir les conditions qu'une entreprise doit remplir pour avoir droit à une aide au titre des cas de rigueur. Entre autres, les entreprises fermées par les autorités pendant au moins 40 jours civils depuis le 1er novembre 2020 seront considérées comme des cas de rigueur sans qu'elles ne doivent prouver le recul de leur chiffre d'affaires. De plus, les entreprises pourront également faire valoir les pertes de chiffre d'affaires subies en 2021. La limite supérieure des contributions à fonds perdu passera à 20 % du chiffre d'affaires ou à 750 000 francs par entreprise. La modification de l'ordonnance permettra d'apporter une aide pour cas de rigueur à un large cercle de bénéficiaires. Plus de la moitié des cantons fournissent déjà une aide à ce titre en ce mois de janvier et presque tous devraient être en mesure de le faire en février.</lead>
+      <text link="no"> &lt;p&gt;Depuis le début de la pandémie de coronavirus, la Confédération a pris de vastes mesures destinées à en atténuer les conséquences économiques. En fonction du secteur concerné, l'indemnité en cas de réduction de l’horaire de travail et l'allocation pour perte de gain due au coronavirus couvrent entre la moitié et les deux tiers du recul du chiffre d'affaires, après déduction des prestations préalables. Au cours de la session d'hiver, ces deux mesures ont encore été considérablement renforcées. Grâce au programme de crédit COVID-19, les entreprises ont pu, au printemps, contracter des emprunts cautionnés par la Confédération pour un total de plus de 17 milliards. &lt;/p&gt; &lt;p&gt;En outre, les cantons ont mis sur pied des programmes d'aide aux cas de rigueur pour un montant total de 2,5 milliards, assumé aux trois quarts par la Confédération (1,9 milliard). Plus de la moitié des cantons versent les premières aides à ce titre déjà en ce mois de janvier. En février, tous les cantons, à quelques rares exceptions près, seront en mesure de fournir des aides issues du programme pour les cas de rigueur. Ces programmes cantonaux constituent ainsi un instrument adéquat pour apporter rapidement un soutien aux entreprises particulièrement touchées par les conséquences de la pandémie. &lt;/p&gt; &lt;p&gt;Compte tenu des pertes économiques causées par les mesures sanitaires décidées, la Confédération a de nouveau assoupli les conditions requises pour qu'une entreprise ait droit à une aide pour cas de rigueur et modifié le calcul du montant de ces aides. La modification de l'ordonnance permettra aux cantons de fournir une aide pour cas de rigueur à un large cercle de bénéficiaires. Les cantons ont participé à la mise au point des nouveautés. En modifiant l'ordonnance, la Confédération soutient les cantons dans la mise en œuvre rapide de leurs programmes pour cas de rigueur. Les principales nouveautés sont les suivantes: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;b&gt;L'obligation d'établir la preuve du recul du chiffre d'affaires est supprimée pour les entreprises fermées:&lt;/b&gt; les entreprises fermées par les autorités pendant au moins 40 jours civils depuis le 1er novembre 2020 (en particulier les restaurants, les bars, les discothèques ainsi que les établissements de loisirs et de divertissement) seront dorénavant considérées automatiquement comme des cas de rigueur. Elles ne devront plus fournir la preuve qu'elles ont perdu 40 % de leur chiffre d'affaires. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prise en compte des pertes de chiffre d'affaires subies en 2021:&lt;/b&gt; les entreprises qui auront subi un recul de leur chiffre d'affaires entre janvier 2021 et juin 2021 en lien avec les mesures prises par les autorités pour lutter contre l'épidémie de coronavirus pourront calculer leurs pertes en se fondant sur le chiffre d'affaires réalisé au cours des douze derniers mois et non plus sur le chiffre d'affaires de l'année 2020. En cas de mauvaise saison d'hiver, de nombreuses entreprises sises dans les régions de montagne et actives dans le domaine du tourisme pourraient alors bénéficier également des mesures pour cas de rigueur. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Réduction de la durée de l'interdiction de verser des dividendes:&lt;/b&gt; en plus, la durée de l'interdiction de distribuer des dividendes ou des tantièmes et de rembourser les apports de capital par le propriétaire est limitée à trois ans ou jusqu’au remboursement de l'aide reçue. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Allégements administratifs:&lt;/b&gt; les entreprises fermées doivent présenter moins de justificatifs que les cas de rigueur dits «ordinaires». &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Relèvement des plafonds applicables aux contributions à fonds perdu:&lt;/b&gt; les cantons pourront octroyer à toutes les entreprises des contributions s'élevant au plus à 20 % du chiffre d'affaires annuel (10 % jusqu'ici) et à 750 000 francs par entreprise (500 000 francs jusqu'ici). Cette mesure vise une meilleure prise en compte des entreprises qui ont des coûts fixes élevés. En outre, elle permet de couvrir une éventuelle prolongation des fermetures après la fin de février 2021. Les cantons peuvent augmenter le plafond en termes absolus à 1,5 million, pour autant que les propriétaires apportent des fonds propres frais d'un montant équivalent ou que les bailleurs de fonds abandonnent leurs créances. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Le Conseil fédéral a décidé que la «réserve du Conseil fédéral» d’un montant de 750 millions (prévue par le Parlement dans la loi COVID-19) sera aussi consacrée au financement des mesures cantonales pour les cas de rigueur et complétera par conséquent les trois premières tranches d'aide. La répartition de ce montant entre les cantons sera toutefois fixée à une date ultérieure. &lt;/p&gt; &lt;p&gt;À titre de planification prévisionnelle, le Conseil fédéral examinera par ailleurs si, dans le cas d'une troisième vague épidémique et d'une forte détérioration subséquente de la situation économique, il faudrait réactiver le programme de cautionnements solidaires pour garantir les liquidités et soutenir l'économie, et comment celui-ci devrait être structuré. &lt;/p&gt; &lt;p&gt;La Confédération dispose d'une série d'instruments pour favoriser la reprise au terme de la crise, notamment les mesures relatives au marché du travail et divers programmes visant à encourager l'innovation. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Comment déposer une demande d’aide pour les cas de rigueur?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Étant donné qu’il incombe aux cantons de déterminer la forme précise des aides pour les cas de rigueur, ce sont eux qui examineront les demandes. Les questions relatives au traitement d’une demande doivent donc être adressées au canton dans lequel l’entreprise avait son siège le 1er octobre 2020. Les coordonnées des cantons se trouvent sur le portail covid19.easygov.swiss. L’ordonnance de la Confédération règle la manière dont les fonds fédéraux sont répartis entre les cantons et fixe les conditions à remplir pour que la Confédération participe aux coûts des mesures cantonales pour les cas de rigueur. &lt;br /&gt;&lt;/p&gt; </text>
+      <contact>Communication du Département fédéral des finances n° tél. +41 58 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="211424">
+        <title>Ordonnance COVID-19 cas de rigueur</title>
+        <format>pdf</format>
+        <size-kb>379</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64852.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211427">
+        <title>Commentaires de l’Ordonnance COVID-19 cas de rigueur (20.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>381</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64991.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211430">
+        <title>Commentaires des modifications de l'ordonnance COVID-19 cas de rigueur (13.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65002.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211433">
+        <title>Graphique: mesures de la Confédération</title>
+        <format>pdf</format>
+        <size-kb>769</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64890.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211436">
+        <title>Graphique: modification de l'ordonnance COVID-19 cas de rigueur</title>
+        <format>pdf</format>
+        <size-kb>41</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65047.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-21 08:50" type="R"/>
+        <revision date="2021-01-20 15:33" type="R"/>
+        <revision date="2021-01-14 07:43" type="R"/>
+        <revision date="2021-01-13 16:01" type="R"/>
+        <revision date="2021-01-27 07:29" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: la Confederazione estende il sostegno fornito con i programmi per i casi di rigore</title>
+      <lead>Il 13 gennaio 2021 il Consiglio federale ha allentato le condizioni che un’impresa deve soddisfare per percepire gli aiuti destinati ai casi di rigore. Ora le imprese che a partire dal 1° novembre 2020 hanno dovuto chiudere la loro attività per almeno 40 giorni su ordine delle autorità, sono da considerarsi casi di rigore senza dovere dare prova di un calo della cifra d’affari. Inoltre si può tenere conto anche del calo della cifra d’affari registrato nel 2021. Il limite massimo per i contributi a fondo perduto viene aumentato al 20 per cento della cifra d’affari o a 750 000 franchi per impresa. La modifica dell’ordinanza consente di sostenere i casi di rigore su larga scala. Già nel mese di gennaio più della metà dei Cantoni versa aiuti per i casi di rigore, in febbraio quasi tutti i Cantoni dovrebbero essere in grado di fornire questo tipo di sostegno.</lead>
+      <text link="no"> &lt;p&gt;Dall’inizio della pandemia di coronavirus il Consiglio federale ha deciso una serie di provvedimenti di ampia portata per attenuare le conseguenze economiche. L’indennità per lavoro ridotto e l’indennità di perdita di guadagno coprono, a seconda del settore, tra la metà e i due terzi delle perdite della cifra d’affari, detratte le prestazioni preliminari. Nella sessione invernale, entrambi i provvedimenti sono stati rafforzati in modo sostanziale. Con il programma di crediti COVID-19, in primavera la Confederazione ha concesso alle imprese mutui garantiti da fideiussioni per un valore complessivo di 17 miliardi di franchi. &lt;/p&gt; &lt;p&gt;Nei Cantoni sono stati avviati programmi che mettono a disposizione dei casi di rigore complessivamente circa 2,5 miliardi di franchi, a cui la Confederazione partecipa per ben due terzi (1,9 mia.). Già nel mese in corso più della metà dei Cantoni versa i primi aiuti per i casi di rigore. In febbraio, tutti i Cantoni, con poche eccezioni, saranno in grado di concedere contributi tramite un programma per i casi di rigore. I programmi cantonali sono pertanto adatti a fornire un rapido aiuto alle imprese particolarmente colpite dalla pandemia di COVID-19. &lt;/p&gt; &lt;p&gt;In considerazione dei danni economici causati dai provvedimenti sanitari, il Consiglio federale ha ulteriormente allentato le condizioni che le imprese devono soddisfare per avere diritto ai fondi destinati ai casi di rigore e ha adeguato il calcolo degli aiuti. La modifica dell’ordinanza consente ai Cantoni di sostenere i casi di rigore su larga scala. Le modifiche sono state elaborate d’intesa con i Cantoni. In tal modo la Confederazione sostiene i Cantoni nella rapida attuazione dei loro programmi. I punti principali delle modifiche sono i seguenti:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;b&gt;in caso di chiusura dell’attività non è più necessario provare il calo della cifra d’affari:&lt;/b&gt; tutte le imprese che a partire dal 1° novembre 2020 hanno dovuto chiudere la loro attività per almeno 40 giorni a causa di provvedimenti adottati dalle autorità (segnatamente ristoranti, bar, discoteche, strutture per il tempo libero e imprese d’intrattenimento) sono ora considerate automaticamente casi di rigore e non dovranno più fornire la prova di aver subito un calo della cifra d’affari del 40 per cento;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;è preso in considerazione il calo della cifra d’affari del 2021:&lt;/b&gt; le imprese che nel periodo compreso tra i mesi di gennaio 2021 e giugno 2021 registrano un calo della cifra d’affari correlato ai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19 possono ora utilizzare come base di calcolo la cifra d’affari degli ultimi 12 mesi anziché la cifra d’affari del 2020. In tal modo, se la stagione invernale dovesse andare male, a molte imprese turistiche attive nelle regioni di montagna si potrebbe applicare la regolamentazione sui casi di rigore; &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;riduzione della durata del divieto di distribuzione dei dividendi:&lt;/b&gt; la durata del divieto di distribuire dividendi o tantièmes e di restituire gli apporti di capitale dei proprietari è ridotta a 3 anni o fino al rimborso degli aiuti percepiti;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;sgravi amministrativi&lt;/b&gt;: le imprese cui viene ordinata la chiusura della loro attività devono presentare meno giustificativi rispetto alle imprese che rientrano nei «normali» casi di rigore;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;aumento dei limiti massimi per i contributi a fondo perduto:&lt;/b&gt; i Cantoni possono ora versare a tutte le imprese contributi fino al 20 per cento della cifra d’affari annuale (finora 10 %) e fino a 750 000 franchi (finora: 500 000 fr.). Questo aumento è inteso a considerare meglio le imprese con una quota elevata di costi fissi. In tal modo è pure possibile coprire un’eventuale proroga delle chiusure oltre la fine di febbraio 2021. I Cantoni possono addirittura aumentare il limite massimo assoluto degli aiuti fino a 1,5 milione di franchi, a condizione che i proprietari apportino almeno in ugual misura capitale proprio supplementare o i finanziatori rinuncino ai loro crediti.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;L’Esecutivo ha deciso di utilizzare la «riserva del Consiglio federale» di 750 milioni di franchi prevista dal Parlamento nella legge COVID-19 anche per i programmi cantonali sui casi di rigore e quindi di completare le prime tre tranche dei fondi. Tuttavia, intende decidere in un secondo momento la ripartizione tra i Cantoni. &lt;/p&gt; &lt;p&gt;Inoltre, al fine di garantire la liquidità e sostenere l’economia, il Consiglio federale valuterà sotto forma di una pianificazione previsionale se sia opportuno riattivare il programma di fideiussioni COVID-19 nel caso di una terza ondata che implica un netto peggioramento della situazione economica e come impostare tale programma. &lt;/p&gt; &lt;p&gt;Per favorire la ripresa dopo la crisi, la Confederazione dispone di una serie di strumenti come i provvedimenti inerenti al mercato del lavoro o vari programmi di promozione dell’innovazione.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;A chi posso inviare una richiesta di aiuti finanziari per casi di rigore?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;L’impostazione concreta degli aiuti finanziari nei casi di rigore è di responsabilità dei Cantoni, che esaminano anche le richieste nei singoli casi. Le domande relative alla presentazione delle richieste devono essere rivolte al Cantone nel quale l’impresa aveva la propria sede il 1° ottobre 2020. I dati di contatto dei servizi cantonali sono disponibili su covid19.easygov.swiss. L’ordinanza federale disciplina le modalità di ripartizione dei fondi della Confederazione ai Cantoni nonché le condizioni che devono essere adempiute affinché la Confederazione partecipi ai costi delle regolamentazioni cantonali sui casi di rigore. &lt;br /&gt;&lt;/p&gt; </text>
+      <contact>Comunicazione, Dipartimento federale delle finanze Tel. 058 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="211425">
+        <title>Ordinanza COVID-19 casi di rigore</title>
+        <format>pdf</format>
+        <size-kb>381</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64853.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211428">
+        <title>Spiegazioni sull’Ordinanza COVID-19 casi di rigore (20.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>373</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64992.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211431">
+        <title>Spiegazioni riguardanti le modifiche dell’ordinanza COVID-19 casi di rigore (13.01.2021)</title>
+        <format>pdf</format>
+        <size-kb>318</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65003.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211434">
+        <title>Grafico con i provvedimenti della Confederazione</title>
+        <format>pdf</format>
+        <size-kb>767</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64891.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="211437">
+        <title>Grafico con gli adeguamenti dell’ordinanza</title>
+        <format>pdf</format>
+        <size-kb>40</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65048.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-21 08:50" type="R"/>
+        <revision date="2021-01-20 15:33" type="R"/>
+        <revision date="2021-01-14 07:43" type="R"/>
+        <revision date="2021-01-13 16:01" type="R"/>
+        <revision date="2021-01-27 07:29" type="R"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="2" org-id="603">
+        <name lang="de">Finanzpolitik</name>
+        <name lang="fr">Politique budgétaire</name>
+        <name lang="it">Politica finanziaria</name>
+        <name lang="en">Financial policy</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="110" org-id="603">
+        <name lang="de">Finanzen von Bund, Kantonen und Gemeinden</name>
+        <name lang="fr">Finances de la Confédération / cantons / communes</name>
+        <name lang="it">Finanze di Confederazione, Cantoni e Comuni</name>
+        <name lang="en">Finances of the Confederation / cantons / communes</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

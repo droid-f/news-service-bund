@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4204" revoked="no">
+    <version>1</version>
+    <pubdate>1999-11-30</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Transporte von abgebrannten Brennelementen</title>
+      <teaser>Im Dezember sind weitere Transporte von abgebrannten Brennelementen aus den Kernkraftwerken Beznau und Gösgen nach La Hague (F) vorgesehen.</teaser>
+      <lead>Im Dezember sind weitere Transporte von abgebrannten Brennelementen aus den Kernkraftwerken Beznau und Gösgen nach La Hague (F) vorgesehen.</lead>
+      <text link="no">&lt;p&gt;Am 5. August 1999 hat die Nordostschweizerische Kraftwerk AG ein Gesuch für den Transport von 48 Brennelementen vom KKW Beznau nach La Hague eingereicht. Das BFE hat dieses Gesuch am 20. Oktober 1999 bewilligt. Ein erster Abtransport von 12 abgebrannten Brennelementen ist Anfang Dezember vorgesehen.&lt;/p&gt; &lt;p&gt;In diesem Jahr erfolgten bereits zwei Transporte von abgebrannten Brennelementen aus dem KKW Gösgen. Dabei sind keine Kontaminationen aufgetreten. Ein dritter Transport von Gösgen nach La Hague soll ebenfalls noch in diesem Jahr stattfinden.&lt;/p&gt;</text>
+      <contact/>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Transport d’éléments combustibles usés</title>
+      <teaser>De nouveaux transports d’éléments combustibles usés sont prévus au mois de décembre au départ des centrales nucléaires de Beznau et de Gösgen à destination de La Hague (F).</teaser>
+      <lead>De nouveaux transports d’éléments combustibles usés sont prévus au mois de décembre au départ des centrales nucléaires de Beznau et de Gösgen à destination de La Hague (F).</lead>
+      <text link="no">&lt;p&gt;La SA Nordostschweizerische Kraftwerke (NOK) a demandé le 5 août 1999 une autorisation de transport pour 48 éléments combustibles de la centrale nucléaire de Beznau vers La Hague. L’OFEN a donné suite à cette demande le 20 octobre. Un premier convoi de 12 éléments usés est prévu au début de décembre.&lt;/p&gt; &lt;p&gt;Deux transports de ce genre ont déjà eu lieu cette année au départ de Gösgen. Aucune contamination ne s’est produite. Un troisième transport de Gösgen vers La Hague est prévu cette année encore.&lt;/p&gt;</text>
+      <contact/>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="610" org-id="808">
+        <name lang="de">Kernenergie</name>
+        <name lang="fr">Energie nucléaire</name>
+        <name lang="it">Energia nucleare</name>
+        <name lang="en">Nuclear energy</name>
+      </keyword>
+      <keyword id="611" org-id="808">
+        <name lang="de">Kernenergie: Entsorgung</name>
+        <name lang="fr">Energie nucléaire: Gestion des déchets</name>
+        <name lang="it">Energia nucleare: Gestione delle scorie</name>
+        <name lang="en">Nuclear energy: Waste disposal</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

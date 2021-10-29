@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="83837" revoked="no">
+    <version>1</version>
+    <pubdate>2021-06-04</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="609" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat verabschiedet Verordnung über Covid-Zertifikate</title>
+      <lead>Die Ausstellung des Covid-Zertifikats für geimpfte, genesene und getestete Personen startet planmässig im Juni. Der Bundesrat hat an seiner Sitzung vom 4. Juni 2021 die Verordnung über die Covid-Zertifikate verabschiedet. Sie bildet die rechtliche Grundlage für die Ausstellung von Zertifikaten. Neben deren Form und Inhalt regelt sie auch die Zuständigkeiten von Bund und Kantonen bei der Ausstellung, die Vorgaben für die Überprüfung und die Kompatibilität der Zertifikate mit dem «EU Digital COVID Certificate». Die Verordnung tritt am 7. Juni 2021 in Kraft.</lead>
+      <text link="no"> &lt;p&gt;Das Bundesamt für Informatik und Telekommunikation (BIT) erstellt ein System zur Ausstellung und Überprüfung von Covid-Zertifikaten. Mit der Verordnung über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate) schafft der Bundesrat die rechtliche Grundlage für die Ausstellung solcher Nachweise. Die Zertifikate werden sowohl in Papier- als auch in elektronischer Form ausgestellt. Beide Varianten enthalten die Zertifikatsangaben in lesbarer Form sowie fälschungssicher in einem QR-Code, versehen mit einer elektronischen Signatur des Bundes. Diese erlaubt eine sichere Überprüfung des Zertifikats, ohne dass dabei Personendaten übermittelt oder gespeichert werden. Damit die Systeme für die Covid-Zertifikate einen hohen Grad an Sicherheit aufweisen, werden diese zurzeit im Rahmen eines Public Security Tests durch Fachleute und interessierte Personen einem Härtetest unterzogen. Die ersten Zertifikate sollen ab dem 7. Juni 2021 schrittweise ausgestellt werden und spätestens Ende Juni der Bevölkerung zur Verfügung stehen. &lt;/p&gt; &lt;h2&gt;Enge Zusammenarbeit zwischen Bund und Kantonen&lt;/h2&gt; &lt;p&gt;Die Kantone definieren, welche Institutionen des Gesundheitswesens Covid-Zertifikate ausstellen dürfen. Sie bezeichnen Fachpersonen (aus Impfzentren, Testzentren, Spitälern, Arztpraxen, Apotheken etc.) als Ausstellerinnen und Aussteller, die geimpften, genesenen und negativ getesteten Personen auf Antrag ein Zertifikat ausstellen. Der Bund stellt ein System für die Ausstellung, die Überprüfung und den Widerruf von Covid-Zertifikaten zur Verfügung. Dieses System ermöglicht die Anbindung bestehender IT-Systeme (z. B. Impf- und Testsysteme), so dass auch eine digitale Ausstellung möglich ist. Er begleitet die Kantone bei der Einführung der Lösung und den damit verbundenen organisatorischen Anpassungen. &lt;/p&gt; &lt;h2&gt;Aufbewahrung und Prüfung von Covid-Zertifikaten&lt;/h2&gt; &lt;p&gt;Das System beinhaltet unter anderem eine Aufbewahrungs-App, die «COVID Certificate App», und eine Prüf-App, die «COVID Certificate Check App». Beide Apps werden in den offiziellen App Stores von Google und Apple kostenlos zur Verfügung stehen. In der «COVID Certificate»-App können Inhaberinnen und Inhaber ihr Covid-Zertifikat digital mitführen und vorweisen. Das Covid-Zertifikat in der App ist dem Papierzertifikat gleichgestellt. Mit der «COVID Certificate Check»-App lassen sich Covid-Zertifikate auf Papier oder in der «COVID Certificate»-App prüfen: Dabei sieht die prüfende Person lediglich den Namen, Vornamen, das Geburtsdatum und die Gültigkeit des Covid-Zertifikats. &lt;/p&gt; &lt;h2&gt;Datenschutz und EU-Kompatibilität &lt;/h2&gt; &lt;p&gt;Das vom BIT zur Verfügung gestellte Zertifikatssystem trägt den Anliegen des Datenschutzes Rechnung. Personendaten werden nicht zentral bei der Bundesverwaltung gespeichert. Die für die Signierung des Zertifikates benötigten persönlichen Daten werden vom System des Bundes gelöscht, sobald das Zertifikat generiert und übermittelt wurde. Die Lösung des Bundes ist zudem mit dem von der EU vorgesehenen System «EU Digital COVID Certificate» kompatibel und ermöglicht die gegenseitige Anerkennung der Zertifikate. &lt;/p&gt; &lt;h2&gt;Schrittweise Einführung ab dem 7. Juni 2021&lt;/h2&gt; &lt;p&gt;Die Covid-19-Verordnung Zertifikate tritt am 7. Juni 2021 in Kraft. Ab diesem Zeitpunkt wird das System schrittweise eingeführt und steht bis Ende Juni 2021 schweizweit bereit. Die Grundlage für die Verordnung bildet der Artikel 6a des Covid-19-Gesetzes, der dem Bundesrat die Kompetenz gibt, die Anforderungen an den Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses festzulegen. Nicht Gegenstand der Verordnung ist, unter welchen Umständen ein Covid-Zertifikat vorgewiesen werden muss, um beispielsweise eine Veranstaltung zu besuchen, sowie die gegebenenfalls damit verbundene Aufhebung von Einschränkungen. Die Kantone wurden zum Verordnungsentwurf konsultiert und bereits vor der Konsultation über die technischen Aspekte von Covid-Zertifikaten informiert.&lt;/p&gt; </text>
+      <contact>Kommunikation, Bundesamt für Informatik und Telekommunikation BIT Tel. +41 58 463 00 30, info@bit.admin.ch</contact>
+      <attachment id="217126">
+        <title>Verordnung über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66990.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="217028">
+        <title>Erläuterungen zur Verordnung über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)</title>
+        <format>pdf</format>
+        <size-kb>792</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66985.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="217030">
+        <title>Covid-Zertifikate (EFD)</title>
+        <uri>https://www.efd.admin.ch/efd/de/home/digitalisierung/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="217034">
+        <title>Weiterführende Informationen: Covid-Zertifikat (BAG))</title>
+        <uri>https://www.bag.admin.ch/covid-zertifikat</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus: le Conseil fédéral adopte l'ordonnance sur les certificats COVID</title>
+      <lead>Les certificats COVID pour les personnes vaccinées, guéries ou testées pourront être établis comme prévu à partir de juin. Lors de sa séance du 4 juin 2021, le Conseil fédéral a adopté l'ordonnance sur les certificats COVID. Cette ordonnance constitue la base légale pour l'établissement des certificats. Elle règle la forme et le contenu de ceux-ci, mais aussi les compétences de la Confédération et des cantons concernant l'établissement des certificats, les prescriptions concernant leur vérification et la compatibilité des certificats avec le certificat COVID numérique de l'UE. L'ordonnance entre en vigueur le 7 juin 2021.</lead>
+      <text link="no"> &lt;p&gt;L'Office fédéral de l'informatique et de la télécommunication (OFIT) crée un système permettant d'établir et de vérifier des certificats COVID. Avec l'ordonnance sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d'un test de dépistage du COVID-19 (ordonnance COVID-19 certificats), le Conseil fédéral crée la base légale requise pour l'établissement de ces certificats. Les certificats seront établis sous forme papier et sous forme électronique. Ces deux formes seront, tant dans leur version lisible par l'homme que dans leur version infalsifiable de code QR, dotées d'une signature électronique de la Confédération. Les certificats pourront donc être vérifiés en toute sécurité, sans transmission ni stockage de données personnelles. Pour s'assurer que les systèmes traitant les certificats COVID présentent un haut niveau de sécurité, ils sont actuellement mis à l'épreuve par des professionnels et des personnes intéressées dans le cadre d'un test public de sécurité. Les premiers certificats seront établis par étapes à partir du 7 juin 2021 et ils seront à la disposition de la population au plus tard à la fin du mois de juin. &lt;/p&gt; &lt;h2&gt;Étroite collaboration entre la Confédération et les cantons&lt;/h2&gt; &lt;p&gt;Les cantons définissent quelles institutions de santé peuvent établir des certificats COVID. Ils désignent des spécialistes (dans les centres de vaccination, les centres de test, les hôpitaux, les cabinets médicaux, les pharmacies, etc.) comme émetteurs des certificats demandés par des personnes vaccinées, guéries ou testées négatives. La Confédération fournit un système permettant d'établir, de vérifier et de révoquer des certificats COVID. Ce système permet le raccordement aux systèmes informatiques existants (par ex., les systèmes utilisés pour la vaccination et les tests), de sorte qu'il est aussi possible d'établir des certificats numériques. La Confédération apporte son soutien aux cantons lors de l'introduction de la solution et pour les adaptations qui en découlent en matière d'organisation. &lt;/p&gt; &lt;h2&gt;Stockage et vérification des certificats COVID&lt;/h2&gt; &lt;p&gt;Le système comprend notamment une application de stockage (COVID Certificate) et une application de vérification (COVID Certificate Check). Les deux applications seront disponibles gratuitement dans l'App Store d'Apple ou sur Google Play. L'application «COVID Certificate» permet aux titulaires d'un certificat COVID d'avoir sa version numérique avec eux et de la présenter en tout temps. Le certificat COVID dans l'application est équivalent au certificat papier. Avec l'application «COVID Certificate Check», il est possible de contrôler les certificats COVID sur papier ou dans l'application «COVID Certificate»: la personne qui vérifie le certificat ne voit que le nom, le prénom, la date de naissance de son titulaire et la validité du certificat COVID. &lt;/p&gt; &lt;h2&gt;Protection des données et compatibilité avec l'UE &lt;/h2&gt; &lt;p&gt;Le système d'établissement des certificats fourni par l'OFIT tient compte des exigences relatives à la protection des données. Les données personnelles ne sont pas stockées de manière centralisée par l'administration fédérale. Celles qui sont nécessaires pour la signature du certificat sont supprimées du système de la Confédération dès le certificat généré et transmis. En outre, la solution de la Confédération est compatible avec le système prévu de certificat COVID numérique de l'UE et permet la reconnaissance mutuelle des certificats. &lt;/p&gt; &lt;h2&gt;Introduction par étapes à partir du 7 juin 2021&lt;/h2&gt; &lt;p&gt;L'ordonnance COVID-19 certificats entre en vigueur le 7 juin 2021. À partir de cette date, le système sera mis en place progressivement et il sera prêt à être utilisé dans toute la Suisse à la fin du mois de juin 2021. L'ordonnance se fonde sur l'art. 6&lt;i&gt;a&lt;/i&gt; de la loi COVID-19, qui habilite le Conseil fédéral à définir les exigences applicables au document prouvant que son titulaire a été vacciné contre le COVID-19, qu'il en est guéri ou qu'il dispose d'un résultat de test du dépistage du COVID-19. En revanche, les circonstances dans lesquelles un certificat COVID-19 doit être présenté, par exemple pour accéder à une manifestation, et l'éventuelle exemption de restrictions qui pourrait en découler ne font pas l'objet de cette ordonnance. Les cantons ont été consultés sur le projet d'ordonnance et ils ont déjà été informés des aspects techniques des certificats COVID avant la consultation.&lt;/p&gt; </text>
+      <contact>Communication, Office fédéral de l'informatique et de la télécommunication OFIT tél. +41 58 463 00 30, info@bit.admin.ch</contact>
+      <attachment id="217127">
+        <title>Ordonnance sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d'un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)</title>
+        <format>pdf</format>
+        <size-kb>485</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66991.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="217029">
+        <title>Commentaire concernant l'ordonnance sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d'un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)</title>
+        <format>pdf</format>
+        <size-kb>661</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66986.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="217031">
+        <title>Certificats COVID (DFF)</title>
+        <uri>https://www.efd.admin.ch/efd/fr/home/digitalisierung/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="217035">
+        <title>Informations complémentaires: Certificat COVID (OFSP)</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale adotta l’ordinanza sui certificati COVID</title>
+      <lead>I primi certificati COVID per le persone vaccinate, guarite o testate saranno emessi come previsto nel mese di giugno. Nella seduta del 4 giugno 2021 il Consiglio federale ha adottato l’ordinanza sui certificati COVID, che costituisce la base legale per l’emissione degli stessi. Oltre alla forma e al contenuto dei certificati, disciplina le competenze della Confederazione e dei Cantoni relative all’emissione, le direttive per la loro verifica nonché la compatibilità con il «certificato digitale COVID dell’UE». L’ordinanza entra in vigore il 7 giugno 2021.</lead>
+      <text link="no"> &lt;p&gt;L’Ufficio federale dell’informatica e della telecomunicazione (UFIT) istituisce un sistema per l’emissione e la verifica dei certificati COVID. Con l’ordinanza concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (ordinanza sui certificati COVID-19), il Consiglio federale crea la base legale per l’emissione di tali documenti. I certificati saranno emessi in formato cartaceo ed elettronico. Entrambe le varianti contengono le informazioni necessarie sotto forma sia di testo leggibile senza mezzi ausiliari sia di codice QR al fine di impedire la loro falsificazione. Sono inoltre corredate di una firma elettronica della Confederazione, che consente una verifica sicura del certificato, durante la quale non vengono trasmessi né salvati dati personali. Affinché presentino un elevato livello di sicurezza, i sistemi per i certificati COVID sono attualmente sottoposti, nell’ambito di un test pubblico di valutazione della sicurezza, a un test di robustezza eseguito da esperti e persone interessate. I primi certificati saranno emessi a tappe a partire dal 7 giugno 2021 e messi a disposizione della popolazione al più tardi entro la fine di giugno.&lt;/p&gt; &lt;h2&gt;Stretta collaborazione tra la Confederazione e i Cantoni&lt;/h2&gt; &lt;p&gt;I Cantoni definiscono le istituzioni del settore sanitario che potranno emettere certificati COVID. Designano come emittenti personale specializzato (nei centri di vaccinazione e centri di test, negli ospedali e studi medici, nelle farmacie ecc.) che provvederà all’emissione dei certificati su richiesta delle persone vaccinate, guarite o testate e risultate negative. La Confederazione mette a disposizione un sistema per l’emissione, la verifica e la revoca dei certificati COVID, che permette la connessione ai sistemi informatici esistenti (ad es. i sistemi usati nell’ambito della vaccinazione e dei test) in modo che sia possibile anche emettere certificati digitali. Essa coadiuva i Cantoni nell’introduzione della soluzione e dei relativi adeguamenti a livello organizzativo.&lt;/p&gt; &lt;h2&gt;Conservazione e verifica dei certificati COVID &lt;/h2&gt;&lt;p&gt; Il sistema comprende in particolare l’applicazione «COVID Certificate» per la conservazione e l’applicazione «COVID Certificate Check» per la verifica dei certificati. Entrambe saranno messe gratuitamente a disposizione negli app store ufficiali di Google e Apple. Grazie all’applicazione «COVID Certificate», i titolari di un certificato COVID possono portare con sé la versione digitale ed esibirla in qualsiasi momento. Il certificato COVID che si trova nell’applicazione è equiparato a quello in formato cartaceo. Con l’applicazione «COVID Certificate Check» è possibile verificare i certificati COVID detenuti su carta o nell’applicazione «COVID Certificate»: la persona che effettua la verifica può visualizzare soltanto il nome, il cognome, la data di nascita e l’indicazione della validità del certificato COVID.&lt;/p&gt; &lt;h2&gt;Protezione dei dati e compatibilità con l’UE&lt;/h2&gt; &lt;p&gt;Il sistema per l’emissione di certificati che l’UFIT mette a disposizione tiene conto degli aspetti legati alla protezione dei dati. I dati personali non sono salvati a livello centrale dall’Amministrazione federale e quelli necessari per la firma elettronica del certificato vengono cancellati dal sistema della Confederazione non appena il certificato è stato generato e trasmesso. Inoltre, la soluzione della Confederazione è compatibile con il sistema previsto dall’UE, ovvero il «certificato digitale COVID dell’UE», e permette il riconoscimento reciproco dei certificati.&lt;/p&gt; &lt;h2&gt;Introduzione a tappe a partire dal 7 giugno 2021&lt;/h2&gt; &lt;p&gt;L’ordinanza sui certificati COVID-19 entra in vigore il 7 giugno 2021. A partire da questa data il sistema di certificazione sarà introdotto gradualmente ed entro fine giugno sarà operativo in tutta la Svizzera. L’ordinanza si basa sull’articolo 6&lt;i&gt;a&lt;/i&gt; della legge COVID-19, che attribuisce al Consiglio federale la competenza di stabilire i requisiti del documento che certifica l’avvenuta vaccinazione anti-COVID-19, la guarigione da un’infezione da cororavirus o il risultato negativo del test COVID-19. Non costituiscono oggetto dell’ordinanza le circostanze in cui deve essere esibito un certificato COVID, ad esempio per partecipare a una manifestazione, né la conseguente eventuale revoca di restrizioni. I Cantoni sono stati consultati sul progetto di ordinanza e informati degli aspetti tecnici dei certificati COVID già prima della consultazione.&lt;/p&gt; </text>
+      <contact>Comunicazione, Ufficio federale dell’informatica e della telecomunicazione UFIT Tel. +41 58 463 00 30, info@bit.admin.ch</contact>
+      <attachment id="217135">
+        <title>Ordinanza concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66992.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="217029">
+        <title>Commentaire concernant l'ordonnance sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d'un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)</title>
+        <format>pdf</format>
+        <size-kb>661</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66986.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="217032">
+        <title>Certificati COVID (DFF)</title>
+        <uri>https://www.efd.admin.ch/efd/it/home/digitalisierung/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="217036">
+        <title>Ulteriori informazioni: Certificato COVID (UFSP)</title>
+        <uri>https://www.bag.admin.ch/bag/it/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>COVID-19: Federal Council adopts ordinance on COVID-19 certificates</title>
+      <lead>The issuance of COVID-19 certificates for people who have been vaccinated, or who have tested negative or recovered from COVID-19 is starting according to plan in June. During its meeting on 4 June 2021, the Federal Council adopted the ordinance on COVID-19 certificates. It forms the legal basis for the issuance of certificates. Aside from their form and content, it also regulates the responsibilities of the Confederation and the cantons in issuing them, the requirements for checking them and the certificates' compatibility with the EU Digital COVID Certificate. The ordinance will enter into force on 7 June 2021.</lead>
+      <text link="no"> &lt;p&gt;The Federal Office of Information Technology, Systems and Telecommunication (FOITT) is creating a system for issuing and checking COVID-19 certificates. With the ordinance on certificates to prove COVID-19 vaccination, COVID-19 recovery or a COVID-19 test result (COVID-19 Certificates Ordinance), the Federal Council is creating the legal basis for the issuance of such evidence. The certificates are issued in both hard copy and electronic format. Both types contain the certificate details in readable format, as well as a forgery-proof QR code equipped with an electronic signature of the Confederation. This makes it possible to securely check the certificate without personal data being transmitted or saved in the process. To ensure that the systems for COVID-19 certificates have a high level of security, they are currently being subjected to an endurance test by experts and stakeholders within the framework of a public security test. The first certificates are to be issued gradually from 7 June 2021, and they will be available to the general public by the end of June at the latest.&lt;/p&gt; &lt;h2&gt;Close cooperation between Confederation and cantons&lt;/h2&gt; &lt;p&gt;The cantons define which healthcare institutions may issue COVID-19 certificates. They designate specialists (at vaccination centres, test centres, hospitals, doctors' surgeries, pharmacies, etc.) as issuers, and these then issue certificates, upon request, to people who have been vaccinated, or who have tested negative or recovered from COVID-19. The Confederation provides a system for issuing, checking and revoking COVID-19 certificates. This enables the connection of existing IT systems (e.g. vaccination and test systems), which means that digital issuance is also possible. It accompanies the cantons during the introduction of the solution and the associated organisational adjustments. &lt;/p&gt; &lt;h2&gt;Storage and checking of COVID-19 certificates&lt;/h2&gt; &lt;p&gt;The system includes, among other things, a storage app, COVID Certificate, and a checking app, COVID Certificate Check. Both apps will be available free of charge in the official app stores of Google and Apple. Users can store and present their COVID-19 certificate digitally in the COVID Certificate app. The COVID-19 certificate in the app is equivalent to the paper certificate. The COVID Certificate Check app can be used to check COVID-19 certificates on paper or in the COVID Certificate app: when doing so, the checker sees only the full name, date of birth and validity of the COVID-19 certificate.&lt;/p&gt; &lt;h2&gt;Data protection and EU compatibility&lt;/h2&gt; &lt;p&gt;The certificate system provided by the FOITT takes data protection concerns into account. Personal data is not stored centrally by the Federal Administration. The personal data needed for signing the certificate is deleted from the Confederation's system as soon as the certificate has been generated and transmitted. The Confederation's solution is also compatible with the EU Digital COVID Certificate system envisaged by the EU and allows for the mutual recognition of certificates.&lt;/p&gt; &lt;h2&gt;Gradual introduction from 7 June 2021&lt;/h2&gt; &lt;p&gt;The ordinance on COVID-19 certificates will enter into force on 7 June 2021. Thereafter, the system will be introduced gradually and will be ready throughout Switzerland by the end of June 2021. The ordinance is based on Article 6a of the COVID-19 Act, which gives the Federal Council the power to define the requirements for proof of COVID-19 vaccination, COVID-19 recovery or a COVID-19 test result. The ordinance does not deal with the circumstances under which a COVID-19 certificate has to be presented in order to attend an event, for example, nor with the lifting of restrictions that may be associated with this. The cantons were consulted on the draft ordinance and informed about the technical aspects of COVID-19 certificates before the consultation.&lt;/p&gt; </text>
+      <contact>Communications Federal Office of Information Technology, Systems and Telecommunication FOITT Tel. +41 58 463 00 30, info@bit.admin.ch</contact>
+      <attachment id="217126">
+        <title>Verordnung über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66990.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="217028">
+        <title>Erläuterungen zur Verordnung über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)</title>
+        <format>pdf</format>
+        <size-kb>792</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/66985.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="217030">
+        <title>Covid-Zertifikate (EFD)</title>
+        <uri>https://www.efd.admin.ch/efd/de/home/digitalisierung/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="217037">
+        <title>Further information: COVID certificate (FOPH)</title>
+        <uri>https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="176" org-id="609">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-Government</name>
+      </keyword>
+      <keyword id="175" org-id="609">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="15">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">sanità</name>
+        <name lang="en">Health</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+    <catalogueElements>
+      <catalogueElement id="110">
+        <name lang="de">Covid-19</name>
+        <name lang="fr">Covid-19</name>
+        <name lang="it">Covid-19</name>
+        <name lang="en">Covid-19</name>
+      </catalogueElement>
+    </catalogueElements>
+  </message>
+</messages>

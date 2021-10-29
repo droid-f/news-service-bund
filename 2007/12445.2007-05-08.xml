@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="12445" revoked="no">
+    <version>1</version>
+    <pubdate>2007-05-08</pubdate>
+    <blocking-period>2007-05-08</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="318" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Statistik</name>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="en">Federal Statistical Office</name>
+      <www lang="de">http://www.statistik.admin.ch</www>
+      <www lang="fr">http://www.statistique.admin.ch</www>
+      <www lang="it">http://www.statistica.admin.ch</www>
+      <www lang="en">http://www.statistics.admin.ch</www>
+      <email lang="de">info@bfs.admin.ch</email>
+      <email lang="fr">info@bfs.admin.ch</email>
+      <email lang="it">info@bfs.admin.ch</email>
+      <email lang="en">info@bfs.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Neuchâtel</city>
+      <title>Medienkonferenz : Register statt Formulare - Der Beitrag der Statistik zum eGovernment</title>
+      <lead>Das Bundesamt für Statistik (BFS) modernisiert die Statistikproduktion weiter: Wo Daten bereits vorhanden sind, werden diese benutzt und nicht mehr mit Formularen erhoben. Ein Ergebnis dieser Anstrengungen ist die medienbruchfreie Datenübermittlung zwischen Einwohnerregistern untereinander und zwischen Einwohnerregistern und dem BFS.</lead>
+      <text link="no">Ganze Medienmitteilung als pdf-Datei verfügbar (siehe rechte Spalte)</text>
+      <contact>Silvia Kubli, Kommunikationschefin BFS, Tel.: +41 32 71 36129</contact>
+      <link id="26512">
+        <title>Register statt Formulare - Der Beitrag der Statistik zum eGovernment (PDF, 106 KB)</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/de/index/news/medienmitteilungen.Document.90683.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="26514">
+        <title>Link zum Portal Statistik Schweiz des BFS</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/de/index.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Neuchâtel</city>
+      <title>Conférence de presse – Registres au lieu de formulaires: la contribution de la statistique à l'eGovernment</title>
+      <lead>L'Office fédéral de la statistique (OFS) modernise ses méthodes de production statistique: il ne réalisera plus à l'avenir d'enquête par questionnaire là où il pourra utiliser des données existantes. Cette modernisation permettra d'assurer une transmission de données sans rupture entre les divers registres des habitants ainsi qu'entre ces registres et l'OFS.</lead>
+      <text link="no">Communiqué intégral disponible en tant que document pdf (voir menu à droite)</text>
+      <contact>Silvia Kubli, Chef de la communication OFS, tél.: +41 32 71 36129</contact>
+      <link id="26513">
+        <title>Registres au lieu de formulaires: la contribution de la statistique à l'eGovernment (PDF, 70 KB)</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/fr/index/news/medienmitteilungen.Document.90684.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="26515">
+        <title>Lien vers le portail Statistique Suisse de l'OFS</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/fr/index.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="317" org-id="318">
+        <name lang="de">Statistische Grundlagen und Übersichten (Statistische Grundlagen)</name>
+        <name lang="fr">Bases statistiques et produits généraux (Bases statistiques)</name>
+        <name lang="it">Basi statistiche e presentazioni generali (Basi statistiche)</name>
+        <name lang="en">Statistical basis and overviews (Statistical basis)</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

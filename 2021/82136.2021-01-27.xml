@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="82136" revoked="no">
+    <version>8</version>
+    <pubdate>2021-01-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bund übernimmt Testkosten für Personen ohne Symptome und passt Quarantäneregeln an</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 27. Januar 2021 eine Reihe von Beschlüssen zur Eindämmung und Bewältigung der Corona-Epidemie gefasst. Der Bund übernimmt neu die Kosten für Tests an Personen ohne Symptome, um besonders gefährdete Menschen besser zu schützen und lokale Infektionsausbrüche frühzeitig zu bekämpfen. Zudem passt er die bisherige Quarantäneregelung an: Die zehntägige Quarantäne kann verkürzt werden, falls sich die betroffene Person nach sieben Tagen testen lässt und das Resultat negativ ist. Ausserdem regelte der Bundesrat, dass Ordnungsbussen verhängt werden können, wenn bestimmte Massnahmen nicht eingehalten werden. Damit Impfungen auch in Apotheken möglich sind, übernimmt der Bund auch dort die Kosten. </lead>
+      <text link="no">&lt;p&gt;Mehr als die Hälfte der Covid-19-Übertragungen dürfte durch Personen ohne Symptome stattfinden, die gar nicht merken, dass sie infiziert sind. Der Bund hat deshalb Mitte Dezember das Testen von Personen ohne Symptome im Rahmen von Schutzkonzepten, etwa in Alters- und Pflegeheimen, Hotels oder am Arbeitsplatz zugelassen. Um den Anreiz für solche Tests zu erhöhen, übernimmt der Bund neu die Kosten dafür. Die Tests können vom Personal selbst vor Ort vorgenommen und negative Resultate dieser Schnelltests müssen nicht gemeldet werden. Wird jemand positiv getestet, muss ein PCR-Test durchgeführt und das Resultat gemeldet werden.&lt;/p&gt;&lt;p&gt;Die erweiterte Teststrategie soll auch dazu beitragen, lokale Infektionsausbrüche frühzeitig zu erkennen und einzudämmen, etwa in Schulen. Dies nicht zuletzt auch, weil sich die neuen, ansteckenderen Varianten des Coronavirus in der Schweiz weiter verbreiten. Der Bund übernimmt auch in diesen Fällen die Kosten für die Testung von Personen ohne Symptome. Der Kanton muss dem BAG ein Konzept vorlegen, etwa dazu wo, wer und wie oft getestet wird sowie welche Tests verwendet werden.&lt;/p&gt;&lt;p&gt;Die Testkriterien des Bundesamts für Gesundheit werden entsprechend angepasst. Die erweiterte Teststrategie erfordert eine Änderung der Covid-19-Verordnung 3, die morgen Donnerstag, 28.1.2021 in Kraft tritt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quarantäneregel angepasst&lt;br /&gt;&lt;/strong&gt;Die bisherige Regelung der Kontaktquarantäne wird durch eine Test- und Freigabestrategie ergänzt. Gemäss der bis anhin geltenden Regelung muss sich eine Person ab dem letzten Kontakt mit einer infizierten Person in eine 10-tägige Quarantäne begeben. Neu kann die Quarantäne mit Zustimmung der zuständigen kantonalen Behörde vorzeitig beendet werden, wenn die betroffene Person ab dem 7. Tag einen Antigen-Schnelltest oder eine molekularbiologische Analyse (PCR-Test) durchführt und das Resultat negativ ist. Die Testkosten muss die Person selber tragen. Bis zum eigentlichen Ablauf der Quarantäne (10. Tag) muss die Person jederzeit eine Gesichtsmaske tragen und den Abstand von 1.5 Metern gegenüber anderen Personen einhalten, ausser sie hält sich in der eigenen Wohnung oder Unterkunft (z.B. Ferienwohnung, Hotel) auf. Bei einem positiven Test muss sich die Person unverzüglich in Isolation begeben. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verkürzte Reisequarantäne&lt;br /&gt;&lt;/strong&gt;Die neue Test- und Freigabestrategie gilt auch für Einreisende aus Staaten oder Gebieten mit einem erhöhten Ansteckungsrisiko. Sie müssen künftig bei ihrer Einreise einen negativen PCR-Test vorweisen, der nicht älter als 72 Stunden ist. Anschliessend begeben sie sich wie bisher in eine 10-tägige Quarantäne. Sie können diese jedoch ab dem 7. Tag verlassen, falls ein negatives Resultat eines Antigen-Schnelltests oder PCR-Tests vorliegt. Bei Flugreisen aus Ländern, die nicht zu den Risikogebieten zählen, ist ebenfalls ein negatives PCR-Testresultat vorzuweisen. Die Kontrolle erfolgt vor dem Einsteigen ins Flugzeug.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Breitere Erfassung der Kontaktdaten&lt;br /&gt;&lt;/strong&gt;Bisher werden nur die Kontaktdaten von Personen aus Risikostaaten oder -gebieten bei ihrer Einreise in die Schweiz erfasst. In Zukunft müssen auch Einreisende aus Staaten oder Gebieten ohne erhöhtes Ansteckungsrisiko ihre Kontaktdaten angeben, falls sie per Flugzeug, Schiff, Bus oder Zug einreisen. Sämtliche Kontaktdaten werden neu mittels eines elektronischen Einreiseformulars erfasst. Dadurch können Ansteckungen einfacher und schneller zurückverfolgt und Infektionsketten frühzeitig unterbrochen werden. &lt;/p&gt;&lt;p&gt;Die vom Bundesrat beschlossenen Quarantäne- und Einreiseregeln erfordern eine Anpassung der betreffenden Covid-19-Verordnungen. Sie treten am 8. Februar 2021 in Kraft. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ordnungsbussen: Straftatbestände explizit aufgeführt.&lt;br /&gt;&lt;/strong&gt;Ab dem 1. Februar 2021 werden Widerhandlungen gegen Massnahmen zur Bekämpfung der Epidemie explizit als Straftatbestände aufgeführt und können teilweise mit Ordnungsbussen bestraft werden. Die Höhe der Busse beträgt je nach Delikt zwischen 50 und 200 Franken. Mit einer Ordnungsbusse gebüsst werden kann etwa, wer im öffentlichen Verkehr sowie in den Bahnhöfen und an den Haltestellen oder in und vor öffentlich zugänglichen Einrichtungen keine Maske trägt. Ordnungsbussen sind zudem möglich für Teilnahme an unzulässigen Veranstaltungen oder die Durchführung einer verbotenen privaten Veranstaltung. Die unmittelbare und rasche Bestrafung mit einer Ordnungsbusse soll die Einhaltung der Massnahmen in der Gesellschaft fördern und die Strafverfolgungsbehörden entlasten.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bund übernimmt Kosten für Impfung in Apotheken&lt;br /&gt;&lt;/strong&gt;Der Bund übernimmt ab dem 1. Februar auch die Kosten für Impfungen durch Apothekerinnen und Apotheker und zwar zu denselben Bedingungen wie für Impfungen in Impfzentren. Dies erlaubt den Kantonen, die Apotheken in ihre Impforganisation zu integrieren.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Prüfung von Atemschutzmasken&lt;br /&gt;&lt;/strong&gt;Atemschutzmasken mit möglicherweise ungenügendem Sicherheitsnachweis in Lagerbeständen des Bundes oder der Kantone, sollen nachträglich geprüft werden können. Erfüllen diese Atemschutzmasken die nachträgliche Prüfung nicht, dürfen diese nicht benutzt werden. Der Bundesrat hat heute die Covid-19-Verordnung 3 entsprechend geändert. Zu Beginn der Covid-19-Pandemie wurden wegen des hohen Bedarfs beim Gesundheitspersonal in grossen Mengen Atemschutzmasken mit möglicherweise ungenügendem Sicherheitsnachweis eingekauft.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nur langsame Abnahme der Fallzahlen&lt;br /&gt;&lt;/strong&gt;Die epidemiologische Lage entspannt sich in der Schweiz nur langsam, insbesondere bei der Zahl der Neuansteckungen. Deutlicher ist die Abnahme bei den Hospitalisationen und den Todesfällen. Auf den Intensivstationen bleibt die Belastung allerdings unverändert hoch. Der Anteil der neuen Virusvarianten verdoppelt sich nach wie vor jede Woche. Der Bundesrat verfolgt diese Entwicklung mit Sorge. Sein Ziel bleibt eine rasche und deutliche Abnahme der Fallzahlen.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ausfallentschädigung für Kulturschaffende &lt;br /&gt;&lt;/strong&gt;Der Bundesrat hat zudem heute entschieden, dem Parlament zu beantragen, dass Kulturschaffende rückwirkend auf den 1. November 2020 Ausfallentschädigungen erhalten sollen. Dadurch soll eine Unterstützungslücke vermieden werden. Kulturschaffende können ihr Gesuche einreichen, sobald die gesetzlichen Grundlagen in den für die Umsetzung zuständigen Kantonen bestehen.&lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Kommunikation Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92</contact>
+      <attachment id="211855">
+        <title>FAQ – Erweiterung der Teststrategie</title>
+        <format>pdf</format>
+        <size-kb>125</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65157.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211859">
+        <title>Verordnung Kontaktquarantäne und Absonderung)</title>
+        <format>pdf</format>
+        <size-kb>436</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65057.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211863">
+        <title>Verordnung Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens</title>
+        <format>pdf</format>
+        <size-kb>452</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65061.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211867">
+        <title>Epidemienverordnung, EpV</title>
+        <format>pdf</format>
+        <size-kb>393</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65065.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211871">
+        <title>Verordnung 3 Tests auf Sars-CoV-2 und Atemschutzmasken</title>
+        <format>pdf</format>
+        <size-kb>526</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65069.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211875">
+        <title>Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs</title>
+        <format>pdf</format>
+        <size-kb>443</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65073.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211879">
+        <title>FAQ - Quarantäne</title>
+        <format>pdf</format>
+        <size-kb>46</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65083.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-27 14:18" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : la Confédération prend en charge le coût du dépistage des personnes non symptomatiques et adapte les règles relatives à la quarantaine</title>
+      <lead>Lors de sa séance du 27 janvier 2021, le Conseil fédéral a pris plusieurs décisions visant à freiner et à endiguer l’épidémie de coronavirus. La Confédération prendra désormais en charge le coût du dépistage des personnes non symptomatiques afin de mieux protéger les personnes vulnérables et de combattre le plus tôt possible les foyers locaux d’infection. Il a par ailleurs décidé d’adapter les règles relatives aux quarantaines. La quarantaine de dix jours peut être raccourcie si la personne se fait tester après sept jours et que le résultat est négatif. Le Conseil fédéral a par ailleurs décidé qu’il était possible d’infliger des amendes d’ordre en cas de non-respect de certaines mesures. Enfin, la Confédération assumera également le coût des vaccinations en pharmacie. </lead>
+      <text link="no">&lt;p&gt;On estime que plus de la moitié des contaminations au COVID-19 sont le fait de personnes asymptomatiques, qui ne savent donc pas qu'elles sont infectées. Mi-décembre, la Confédération a donc autorisé le dépistage des personnes non symptomatiques dans le cadre de plans de protection, par exemple dans les EMS, les hôtels ou au travail. Afin de renforcer cette pratique, elle prendra désormais en charge le coût de ces tests, qui peuvent être effectués sur place par le personnel lui-même. Les résultats négatifs de ces tests rapides ne devront pas être déclarés. Si le résultat est positif, la personne doit effectuer un test PCR et, dans ce cas, le résultat doit faire l'objet d'une déclaration. &lt;/p&gt;&lt;p&gt;La stratégie de dépistage élargie doit aussi permettre d'identifier et d'endiguer les foyers locaux d'infection, notamment dans les écoles, ce qui est d'autant plus important que les nouvelles variantes plus contagieuses de coronavirus se propagent en Suisse. Dans ce cas aussi, la Confédération prend en charge les coûts du dépistage des personnes non symptomatiques. Il suffit que le canton concerné présente à l'Office fédéral de la santé publique (OFSP) un plan précisant notamment qui sera testé et où, à quelle fréquence et avec quels tests. &lt;/p&gt;&lt;p&gt;Les critères de dépistage de l'OFSP seront adaptés en conséquence. Il faut en outre adapter l'ordonnance 3 COVID-19, dont la modification entrera en vigueur jeudi 28 janvier 2021. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adaptation des règles relatives aux quarantaines&lt;br /&gt;&lt;/strong&gt;La réglementation qui prévaut actuellement en matière de quarantaine pour les personnes de contact sera complétée par le biais d'une stratégie de dépistage et de sortie de quarantaine. Jusqu'à présent, une personne ayant été en contact avec une personne infectée devait se mettre en quarantaine pendant dix jours. Désormais, la personne pourra sortir de quarantaine plus tôt que prévu moyennant l'approbation de l'autorité cantonale compétente en faisant un test PCR ou un test antigénique rapide à partir du 7e jour de quarantaine et que le résultat est négatif. C'est à elle de prendre en charge les coûts du dépistage. De plus, elle doit, jusqu'à la fin de la quarantaine prévue (10e jour), porter systématiquement un masque facial et maintenir une distance de 1,5 m avec les autres personnes, sauf lorsqu'elle se trouve dans son logement ou son lieu d'hébergement (hôtel, appartement de vacances). Si le résultat du test est positif, la personne doit immédiatement se placer en isolement. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Une quarantaine raccourcie pour les voyageurs&lt;br /&gt;&lt;/strong&gt;La nouvelle stratégie de dépistage et de sortie de quarantaine s'applique aussi aux personnes entrant en Suisse depuis un Etat ou zone présentant un risque élevé d'infection. Ces personnes doivent désormais présenter un test PCR négatif datant de moins de 72 h à leur entrée, puis se mettre en quarantaine pour dix jours comme c'était le cas jusqu'à présent. Elles peuvent toutefois en sortir après sept jours en faisant un test antigénique rapide ou un test PCR et que le résultat est négatif. Les personnes entrant en Suisse par les airs en provenance d'un Etat ou zone ne présentant pas un risque élevé d'infection doivent également présenter un test PCR négatif. Les voyageurs seront contrôlés avant de monter dans l'avion. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Recensement plus large des coordonnées&lt;br /&gt;&lt;/strong&gt;Jusqu'à présent, seules les coordonnées de personnes en provenance d'un Etat ou zone à risque étaient enregistrées. Désormais, cela sera aussi le cas des autres voyageurs arrivant par avion, bateau, bus ou train. Les données correspondantes seront désormais recensées par le biais d'un formulaire électronique d'entrée sur le territoire, ce qui permettra d'accélérer et de simplifier le traçage des contaminations et d'interrompre plus rapidement les chaînes de transmission. &lt;/p&gt;&lt;p&gt;Les décisions concernant les quarantaines et l'entrée sur le territoire prises par le Conseil fédéral appellent une adaptation des ordonnances COVID-19 concernées. Les modifications entreront en vigueur le 8 février 2021. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amendes d'ordre : les délits mentionnés explicitement&lt;br /&gt;&lt;/strong&gt;A partir du 1er février 2021, les violations de certaines mesures de lutte contre l'épidémie seront explicitement inscrites comme des délits et pourront ainsi être sanctionnées par des amendes d'ordre. Les amendes oscilleront entre 50 et 200 francs selon le délit et permettront de sanctionner les personnes qui, par exemple, ne portent pas de masque dans les transports publics, dans les gares, aux arrêts ainsi que devant et dans les établissements et installations accessibles au public. La participation à des manifestations non autorisées ou l'organisation d'une manifestation privée interdite pourront également être punies. Pouvoir infliger sans attendre une amende d'ordre en cas de violation des mesures doit promouvoir leur respect et décharger les autorités de poursuites pénales. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;La Confédération prend en charge le coût de la vaccination en pharmacie&lt;br /&gt;&lt;/strong&gt;Dès le 1er février, la Confédération prendra aussi en charge le coût de la vaccination en pharmacie aux mêmes conditions que pour les vaccinations en centre. Les cantons pourront ainsi intégrer les pharmacies dans leur dispositif de vaccination. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Contrôle des masques de protection&lt;br /&gt;&lt;/strong&gt;Les masques de protection susceptibles de présenter un défaut de sécurité qui sont stockés par la Confédération ou les cantons doivent pouvoir être contrôlés a posteriori. S'ils ne répondent pas aux exigences posées, ils ne doivent plus pouvoir être utilisés. Le Conseil fédéral a modifié l'ordonnance 3 COVID-19 dans ce sens. Au début de la pandémie de COVID-19, les besoins du personnel de santé en masques respiratoires étaient élevés et la Suisse a acheté de grandes quantités de masques qui pourraient présenter un défaut de sécurité. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Le nombre de cas ne baisse que lentement&lt;br /&gt;&lt;/strong&gt;La situation épidémiologique ne se détend que lentement en Suisse, notamment pour ce qui concerne le nombre de nouvelles infections. La baisse du nombre d'hospitalisations et de décès est quant à elle plus marquée, même si la pression sur les soins intensifs reste élevée. La part des nouvelles variantes dans les résultats positifs continue de doubler chaque semaine. Le Conseil fédéral suit cette évolution avec préoccupation et continue de viser une baisse rapide et significative du nombre de cas.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Acteurs culturels : des indemnités rétroactives&lt;br /&gt;&lt;/strong&gt;Afin d'éviter un défaut de couverture, le Conseil fédéral a par ailleurs décidé de demander au Parlement que les acteurs culturels reçoivent rétroactivement des indemnités pour pertes financières à partir du 1er novembre 2020. Lesdits acteurs pourront déposer leur demande dès que les cantons, qui sont compétents en la matière, se seront dotés des bases légales nécessaires.&lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Médias et communication Infoline coronavirus +41 58 463 00 00 Infoline sur la vaccination COVID-19 +41 58 377 88 92</contact>
+      <attachment id="211856">
+        <title>FAQ - élargissement de la stratégie de test</title>
+        <format>pdf</format>
+        <size-kb>223</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65161.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211860">
+        <title>Ordonnance Quarantaine-contact et isolement</title>
+        <format>pdf</format>
+        <size-kb>436</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65058.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211864">
+        <title>Ordonnance Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre</title>
+        <format>pdf</format>
+        <size-kb>439</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65062.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211868">
+        <title>Ordonnance sur les épidémies, OEp</title>
+        <format>pdf</format>
+        <size-kb>389</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65066.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211872">
+        <title>Ordonnance 3 Tests pour le SARS-CoV-2 et masques de protection respiratoire</title>
+        <format>pdf</format>
+        <size-kb>538</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65070.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211876">
+        <title>Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs</title>
+        <format>pdf</format>
+        <size-kb>455</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65074.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211880">
+        <title>FAQ - Quarantaine</title>
+        <format>pdf</format>
+        <size-kb>230</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65084.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-27 14:18" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: la Confederazione assume i costi dei test sulle persone senza sintomi e adatta le regole sulla quarantena</title>
+      <lead>Nella seduta del 27 gennaio 2021, il Consiglio federale ha preso diverse decisioni per far fronte alla pandemia e contenerne la diffusione. Per proteggere meglio le persone particolarmente a rischio e combattere per tempo i focolai locali, la Confederazione assume i costi dei test sulle persone senza sintomi. Sono inoltre adeguate le regole sulla quarantena, che potrà durare meno degli attuali dieci giorni se dopo sette giorni la persona interessata si sottopone a un test e risulta negativa. Il Consiglio federale ha per altro deciso che possono essere inflitte multe disciplinari a chi non rispetta determinati provvedimenti. Affinché le vaccinazioni possano essere eseguite anche nelle farmacie, la Confederazione ne assumerà i costi. </lead>
+      <text link="no">&lt;p&gt;Molto probabilmente, in oltre la metà dei casi il coronavirus è trasmesso da persone senza sintomi che non sanno di essere contagiate. Per questo, a metà dicembre il Consiglio federale aveva consentito lo svolgimento di test su persone senza sintomi nel quadro dei piani di protezione, per esempio nelle case per anziani o di cura, negli alberghi e sul posto di lavoro. Per incentivare maggiormente questi test rapidi, dal 1° febbraio la Confederazione ne assumerà i costi. I test potranno essere eseguiti sul posto dal personale stesso e i risultati negativi non dovranno essere notificati. Chi risulta positivo dovrà sottoporsi a un test PCR il cui risultato dovrà invece essere notificato.&lt;/p&gt;&lt;p&gt;L'estensione della strategia di test ha anche lo scopo di contribuire a identificare e contenere per tempo i focolai locali, per esempio nelle scuole. Non da ultimo perché le nuove varianti del coronavirus, più infettive, si stanno ulteriormente diffondendo in Svizzera. La Confederazione assume i costi dei test sulle persone senza sintomi anche in questi casi. Il Cantone deve presentare all'Ufficio federale della sanità pubblica (UFSP) un piano che riporti dove sono eseguiti, su chi e con che frequenza e il tipo di test impiegato.&lt;/p&gt;&lt;p&gt;I criteri di test dell'UFSP sono adeguati di conseguenza. L'estensione della strategia richiede una modifica dell'ordinanza 3 COVID-19, che entrerà in vigore domani giovedì 28 gennaio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adeguate le disposizioni sulla quarantena&lt;br /&gt;&lt;/strong&gt;Le disposizioni sulla quarantena dopo un contatto stretto sono integrate da una strategia di «test e rilascio». Secondo le regole vigenti, bisogna stare in quarantena per dieci giorni a decorrere dall'ultimo contatto con una persona contagiata. D'ora in poi, con il consenso dell'autorità cantonale competente, la quarantena potrà essere terminata prima, a condizione che la persona interessata risulti negativa a un test antigenico rapido o a un'analisi biomolecolare (test PCR) eseguiti al più presto il settimo giorno. I costi del test sono a carico della persona interessata. Fino al termine ordinario della quarantena (dieci giorni), la persona interessata deve continuare a indossare una mascherina facciale e tenersi a una distanza di 1,5 metri dalle altre persone, salvo che si trovi nella propria abitazione o nel proprio alloggio (p. es. casa di vacanza, albergo). In caso di test positivo, la persona interessata deve mettersi immediatamente in isolamento. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ridotta la quarantena per chi viaggia&lt;br /&gt;&lt;/strong&gt;La nuova strategia di «test e rilascio» vale anche per chi entra in Svizzera in provenienza da uno Stato o una regione con rischio elevato di contagio. All'entrata in Svizzera queste persone dovranno presentare un test PCR negativo eseguito non più di 72 ore prima. Dopodiché si dovranno mettere in quarantena per dieci giorni, come finora. Possono però concludere la quarantena a partire dal settimo giorno se risultano negative a un test antigenico rapido o a un test PCR. Anche chi giunge in aereo da Paesi o regioni non considerati a rischio deve presentare un test PCR negativo. Il controllo è eseguito prima dell'imbarco.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Registrazione più ampia dei dati di contatto&lt;br /&gt;&lt;/strong&gt;Attualmente vengono registrati soltanto i dati di contatto delle persone in provenienza da un Paese o da una regione a rischio. In futuro, anche chi giunge in Svizzera in aereo, battello, autobus o treno da un Paese o una regione che non presenta un rischio elevato di contagio dovrà fornire i propri dati di contatto. Questi dati saranno registrati mediante un modulo di entrata elettronico. In questo modo si potranno tracciare più facilmente e rapidamente i contagi e interrompere tempestivamente le catene di infezione. &lt;/p&gt;&lt;p&gt;Le regole di quarantena e di entrata in Svizzera decise dal Consiglio federale rendono necessario un adeguamento delle pertinenti ordinanze COVID-19. Le nuove disposizioni entreranno in vigore l'8 febbraio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Multe disciplinari: specificate esplicitamente le infrazioni&lt;br /&gt;&lt;/strong&gt;Dal 1° febbraio le violazioni dei provvedimenti per combattere l'epidemia saranno esplicitamente considerate come infrazioni e in alcuni casi potranno essere sanzionate con multe disciplinari. L'importo della multa sarà compreso tra 50 e 200 franchi, a seconda della gravità dell'infrazione. Può per esempio essere multato chi non porta una mascherina sui mezzi pubblici e alle fermate, nelle stazioni oppure all'interno o nelle aree esterne di strutture accessibili al pubblico. Sono inoltre previste multe disciplinari per chi partecipa o svolge manifestazioni private vietate. Lo scopo della punizione immediata e rapida mediante multa è di promuovere il rispetto dei provvedimenti nella società e di sgravare le autorità di perseguimento penale.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;La Confederazione assume i costi della vaccinazione in farmacia&lt;br /&gt;&lt;/strong&gt;Dal 1° febbraio la Confederazione assume anche i costi delle vaccinazioni effettuate dai farmacisti, alle stesse condizioni previste per le vaccinazioni nei centri di vaccinazione. Questo consente ai Cantoni di integrare le farmacie nel proprio piano vaccinale.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Controllo delle mascherine di protezione delle vie respiratorie&lt;br /&gt;&lt;/strong&gt;Le mascherine di protezione delle vie respiratorie che si trovano nei depositi federali o cantonali la cui sicurezza non è sufficientemente provata devono poter essere controllate a posteriori. Se non soddisfano i criteri stabiliti, non possono essere utilizzate. Il Consiglio federale ha modificato in tale senso l'ordinanza 3 COVID-19. Per rispondere all'elevata domanda da parte del personale sanitario, all'inizio della pandemia&lt;br /&gt;sono state acquistate grandi quantità di mascherine di protezione delle vie respiratorie che forse non offrono una protezione sufficiente.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Il numero delle nuove infezioni cala soltanto lentamente&lt;br /&gt;&lt;/strong&gt;La situazione epidemiologica in Svizzera migliora soltanto lentamente, soprattutto per quanto riguarda il numero delle nuove infezioni. Più marcata, per contro, la diminuzione del numero di ricoveri e decessi. La pressione sui reparti di terapia intensiva rimane tuttavia elevata. La percentuale di infezioni con le nuove varianti del virus continua a raddoppiare ogni settimana. Il Consiglio federale segue con preoccupazione questo sviluppo. L'obiettivo resto quello di ridurre rapidamente e in misura significativa il numero di casi. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Indennità di perdita di guadagno per operatori culturali &lt;br /&gt;&lt;/strong&gt;Nella sua seduta odierna, il Consiglio federale ha inoltre deciso di chiedere al Parlamento che gli operatori culturali possano beneficiare retroattivamente dal 1° novembre 2020 di indennità di perdita di guadagno. In questo modo si intende garantire la continuità del sostegno. Gli&lt;br /&gt;operatori culturali potranno presentare domanda non appena i Cantoni, cui compete l'attuazione, avranno introdotto le necessarie basi legali.&lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica, Comunicazione Infoline Coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92</contact>
+      <attachment id="211857">
+        <title>FAQ - Estensione della strategia di test</title>
+        <format>pdf</format>
+        <size-kb>217</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65159.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211861">
+        <title>Ordinanza Quarantena dei contatti e isolamento</title>
+        <format>pdf</format>
+        <size-kb>435</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65059.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211865">
+        <title>Ordinanza Ampliamento delle disposizioni penali e introduzione della procedura della multa disciplinare</title>
+        <format>pdf</format>
+        <size-kb>378</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65064.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211869">
+        <title>Ordinanza sulle epidemie, OEp</title>
+        <format>pdf</format>
+        <size-kb>381</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65068.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211873">
+        <title>Ordinanza 3 Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie</title>
+        <format>pdf</format>
+        <size-kb>449</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65072.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211877">
+        <title>Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)</title>
+        <format>pdf</format>
+        <size-kb>510</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65076.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211881">
+        <title>FAQ - Quarantena</title>
+        <format>pdf</format>
+        <size-kb>222</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65085.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-27 14:18" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Federal government to cover costs of tests for persons without symptoms and modify quarantine rules</title>
+      <lead>At its meeting on 27 January, the Federal Council took a range of decisions to further contain and overcome the coronavirus pandemic. The federal government will now pay for persons without symptoms to be tested so that those who are particularly vulnerable can be better protected and local outbreaks of infection can be contained early on. The quarantine rules have also been modified: with a negative test result a person may now come out of quarantine after seven rather than the full ten days. The Federal Council has also decided that fines can be imposed if certain measures are not respected. Furthermore, the federal government will now cover the cost of pharmacies carrying out vaccinations.</lead>
+      <text link="no">&lt;p&gt;It is believed that more than half of COVID-19 infections are transmitted by people who do not display symptoms and are unaware that they actually have the virus. The federal government has therefore permitted the testing of asymptomatic persons from mid-December as a further precautionary measure, e.g. in care homes, hotels and in the workplace. It will now assume the costs in order to encourage such institutions to conduct rapid tests, and this can be done by their own staff. Negative test results do not have to be reported; if a person tests positive to a rapid test, they must undergo a PCR test and the result must be reported.&lt;/p&gt;&lt;p&gt;By extending the testing strategy, the government hopes that local outbreaks of the virus, for example in schools, can be identified and contained at an early stage. This is particularly important in view of the fact that new, more infectious strains of the coronavirus are currently spreading in Switzerland. In such cases, the federal government will now also assume the cost of testing people who do not display symptoms. The local canton must present a test plan to the Federal Office of Public Health (FOPH) containing details of where testing will take place, who will be tested, how often and the type of test to be used.&lt;/p&gt;&lt;p&gt;The FOPH testing criteria are to be amended accordingly. The extended testing strategy requires an amendment to COVID-19 Ordinance 3, which enters into force tomorrow, Thursday 28th January.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quarantine rules modified&lt;br /&gt;&lt;/strong&gt;The current quarantine rules are to be adapted to include a test-and-release strategy. Until now anyone who has come into contact with an infected person has had to go into quarantine for ten days. Under the new rules, a person may leave quarantine after seven days if after this time they have a negative result from an antigen rapid test or a PCR test (molecular biological analysis), and are authorised to do so by the local cantonal authorities. The person must pay for the test themselves and must wear a mask and continue to socially distance until the full ten days' quarantine is over, unless they remain at home (or in the place they are quarantining - holiday apartment, hotel etc.). If their test result is positive, they must isolate immediately.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Reduced travel quarantine&lt;br /&gt;&lt;/strong&gt;The new test-and-release strategy also applies to persons arriving in Switzerland from a country or region with a high risk of infection. On arrival, these travellers must present valid proof of a negative PCR test result that is no more than 72 hours old. They then have to quarantine for ten days; they can leave quarantine after seven days if they again test negative (antigen rapid test or PCR test). All persons arriving by air even from a country that is not considered high risk must be able to show a negative PCR test result before boarding the plane.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contact tracing extended&lt;br /&gt;&lt;/strong&gt;Until now, only the contact details of people arriving in Switzerland from a high-risk country or region have been recorded. From now on, all persons arriving from abroad by air, boat, bus or train must complete an online form on arrival. With this information, cases of infection can be identified more easily and transmission chains broken more rapidly.&lt;/p&gt;&lt;p&gt;As a result of the Federal Council's new quarantine and travel rules, amendments are required to the relevant COVID-19 ordinances. These will apply from 8 February. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fixed penalties: breaking the rules is an offence &lt;br /&gt;&lt;/strong&gt;From 1 February anyone contravening the measures to fight the epidemic will be committing an offence; persons who fail to comply with the rules may be fined between 50 and 200 francs, depending on the offence. For example, anyone who does not wear a mask on public transport, in stations, at a bus or tram stop or in and immediately outside publicly accessible buildings may be fined. A fixed penalty may also be issued to persons attending banned events or holding an unpermitted private event. It is hoped that the threat of being issued with an immediate and rapid fixed penalty will encourage people to respect the rules and that this system will reduce pressure on the courts. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Federal government to cover cost of vaccinations in pharmacies&lt;br /&gt;&lt;/strong&gt;From 1 February the federal government will also assume the cost of vaccinations carried out by pharmacists, on the same conditions as in vaccination centres. This means that the cantons can include pharmacies in their vaccination programmes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Testing of FFP masks&lt;br /&gt;&lt;/strong&gt;FFP masks in federal or cantonal stocks that may not meet safety standards are to be retested; if they are found not to be up to standard, they may no longer be used. Today the Federal Council amended COVID-19 Ordinance 3 to reflect this new requirement. At the beginning of the pandemic, large numbers of FFP masks were purchased to equip health workers, and some of these masks may not meet the required safety standards.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Slow decline in case numbers&lt;br /&gt;&lt;/strong&gt;The epidemiological situation in Switzerland is improving only slowly; there is just a slight decline in the number of new infections. The drop in the number of hospitalisations and deaths is clearer. However, the pressure on intensive care units remains high. The number of cases of the new virus strains continues to double each week. The Federal Council is greatly concerned by this trend; its objective remains to achieve a clear and rapid drop in case numbers. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Compensation for creative artists&lt;br /&gt;&lt;/strong&gt;The Federal Council also decided today to call on Parliament to grant compensation for loss of earnings to creative artists retroactively to 1 November 2020. This will close a loophole in the support measures on offer. Creative artists can apply for compensation as soon as the cantons, which are responsible for making the payments, have adapted their legislation accordingly.&lt;/p&gt;</text>
+      <contact>Federal Office of Public Health, Communication Infoline Coronavirus +41 58 463 00 00 COVID-19 vaccination infoline +41 58 377 88 92</contact>
+      <attachment id="211858">
+        <title>FAQ - extension of the testing strategy</title>
+        <format>pdf</format>
+        <size-kb>219</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65160.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211862">
+        <title>Ordonnance Quarantaine-contact et isolement (French)</title>
+        <format>pdf</format>
+        <size-kb>436</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65060.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211866">
+        <title>Ordonnance Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre (French)</title>
+        <format>pdf</format>
+        <size-kb>439</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65063.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211870">
+        <title>Ordonnance sur les épidémies, OEp (French)</title>
+        <format>pdf</format>
+        <size-kb>389</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65067.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211874">
+        <title>Ordonnance 3 Tests pour le SARS-CoV-2 et masques de protection respiratoire (French)</title>
+        <format>pdf</format>
+        <size-kb>538</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65071.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211878">
+        <title>Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs (French)</title>
+        <format>pdf</format>
+        <size-kb>455</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65075.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="211882">
+        <title>FAQ - Quarantine</title>
+        <format>pdf</format>
+        <size-kb>227</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/65089.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2021-01-27 14:18" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

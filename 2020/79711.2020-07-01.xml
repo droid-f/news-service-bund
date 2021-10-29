@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="79711" revoked="no">
+    <version>13</version>
+    <pubdate>2020-07-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Maskenpflicht im öffentlichen Verkehr, Quarantäne für Einreisende aus Risikogebieten, Aufhebung gewisser Einreisebeschränkungen ab dem 20. Juli</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 1. Juli 2020 verschiedene Massnahmen getroffen, um eine erneute Ausbreitung des Coronavirus zu verhindern. Angesichts des zunehmenden Reiseverkehrs und der seit Mitte Juni ansteigenden Zahl der Neuansteckungen hat er entschieden, für den öffentlichen Verkehr ab Montag, 6. Juli schweizweit eine Maskenpflicht einzuführen. Zudem müssen sich Einreisende aus gewissen Gebieten in Quarantäne begeben. Die Aufhebung von Einreisebeschränkungen für erste Drittstaaten ist für den 20. Juli vorgesehen.</lead>
+      <text link="no">&lt;p&gt;Nachdem der Bundesrat die Massnahmen zur Bekämpfung der Coronavirusepidemie weitgehend aufgehoben hat, sind wieder mehr Menschen mit dem öffentlichen Verkehr unterwegs. Dabei kann der empfohlene Abstand oft nicht eingehalten werden. Angesichts des zunehmenden Reiseverkehrs und der seit Mitte Juni steigenden Fallzahlen verstärkt der Bundesrat die Schutzmassnahmen und beschliesst in einem Grundsatzentscheid eine durchgehende Maskenpflicht in allen öffentlichen Transportmitteln. Personen ab 12 Jahren müssen ab Montag, 6. Juli, in Zügen, Trams und Bussen ebenso wie in Bergbahnen, Seilbahnen oder auf Schiffen eine Maske tragen. Die angepasste Verordnung wird morgen verabschiedet und publiziert. &lt;/p&gt;&lt;p&gt;Bisher galt im öffentlichen Verkehr die dringende Empfehlung, zu Stosszeiten eine Maske zu tragen. Diese wurde aber wenig befolgt. Mit seinem Entscheid reagiert der Bundesrat auch auf Empfehlungen von Experten und auf den Wunsch einiger Kantone. Die Weltgesundheitsorganisation (WHO) und das European Centre for Disease Prevention and Control (ECDC) empfehlen ebenfalls das Tragen einer Maske, wenn der nötige Abstand nicht eingehalten werden kann. &lt;/p&gt;&lt;h2&gt;Quarantäne für Reisende aus gewissen Gebieten&lt;/h2&gt;&lt;p&gt;Seit Mitte Juni ist es wiederholt zu einer Ausbreitung des neuen Coronavirus in der Schweiz gekommen, nachdem infizierte Personen aus Ländern des Schengenraums und aus Nicht-Schengen-Staaten eingereist sind. Deshalb muss sich ab Montag, 6. Juli, für zehn Tage in Quarantäne begeben, wer aus gewissen Gebieten in die Schweiz einreist. Das BAG führt eine entsprechende Liste, die regelmässig angepasst wird. Die betroffenen Personen werden gezielt im Flugzeug, im Reisebus und an den Grenzübergängen informiert. Sie müssen sich nach der Einreise bei den kantonalen Behörden melden. Die neue Verordnung wird morgen verabschiedet und publiziert. Die Flug- und Reisebusgesellschaften werden zudem angewiesen, kranke Passagiere nicht zu transportieren. &lt;/p&gt;&lt;h2&gt;Einreisebeschränkungen bis am 20. Juli aufrechterhalten&lt;/h2&gt;&lt;p&gt;Der Bundesrat hat zudem in seiner Sitzung vom 1. Juli 2020 von den Empfehlungen des Rates der EU, die coronabedingte Einreisebeschränkungen ab dem 1. Juli 2020 für 15 Staaten aufzuheben, Kenntnis genommen. Die Schweiz wird diesen Empfehlungen voraussichtlich folgen, jedoch erst per 20. Juli 2020 und mit Ausnahme von Serbien. Das EJPD beabsichtigt demnach auf dieses Datum hin Algerien, Australien, Kanada, Georgien, Japan, Marokko, Montenegro, Neuseeland, Ruanda, Südkorea, Thailand, Tunesien und Uruguay sowie die EU-Staaten ausserhalb des Schengen-Raums (Bulgarien, Irland, Kroatien, Rumänien und Zypern) von der Liste der Risikoländer zu streichen. China soll in Umsetzung der EU-Empfehlung ebenfalls von der Liste gestrichen werden, sofern die Reziprozität für Einreisende aus der Schweiz gewährleistet ist.&lt;/p&gt;</text>
+      <contact>Maskenpflicht und Grenzsanitarische Massnahmen: Bundesamt für Gesundheit, Infoline Coronavirus +41 58 463 00 00 Infoline für einreisende Personen +41 58 464 44 88 Aufhebung der Einreisebeschränkungen: Staatssekretariat für Migration +41 58 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="203588">
+        <title>FAQ Maskenpflicht im öffentlichen Verkehr</title>
+        <format>pdf</format>
+        <size-kb>37</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62028.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203592">
+        <title>FAQ Quarantäne</title>
+        <format>pdf</format>
+        <size-kb>173</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62124.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203596">
+        <title>Verordnung Personenverkehrs</title>
+        <format>pdf</format>
+        <size-kb>393</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62087.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203599">
+        <title>Verordnung besondere Lage</title>
+        <format>pdf</format>
+        <size-kb>367</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62090.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-07-22 09:46" type="I"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : masque obligatoire dans les transports publics, quarantaine pour les personnes provenant des régions à risque et levée de certaines restrictions d’entrée à compter du 20 juillet</title>
+      <lead>Le Conseil fédéral a adopté diverses mesures afin d’éviter une nouvelle propagation du coronavirus lors de sa séance du 1er juillet 2020. Au vu de la fréquentation en hausse des transports publics et de l’augmentation des cas depuis mi-juin, il a décidé de rendre le port du masque obligatoire dans les transports publics, une mesure qui s’appliquera dans toute la Suisse à compter du lundi 6 juillet. Par ailleurs, les personnes entrant en Suisse en provenance de certaines régions doivent se mettre en quarantaine. Enfin, les restrictions d’entrée seront levées dès le 20 juillet pour certains pays tiers.</lead>
+      <text link="no">&lt;p&gt;Depuis que le Conseil fédéral a levé la plupart des mesures visant à lutter contre le coronavirus, la fréquentation des transports publics a pris l'ascenseur. Dès lors, il est souvent difficile d'y respecter la distance prescrite. Compte tenu de cette fréquentation en hausse et de l'augmentation des cas de coronavirus depuis mi-juin, le Conseil fédéral a décidé de renforcer les mesures de protection et pris la décision de principe d'introduire l'obligation générale de porter le masque dans tous les transports publics. Ainsi, à compter du lundi 6 juillet, les personnes de 12 ans et plus devront porter un masque dans les trains, les trams et les bus, ainsi que dans les remontées mécaniques, les téléphériques et les bateaux. L'ordonnance actualisée sera adoptée et publiée demain. &lt;/p&gt;&lt;p&gt;À l'heure actuelle, le port du masque dans les transports publics est vivement recommandé aux heures de pointe, mais cette prescription n'est guère suivie. La décision du Conseil fédéral répond aux recommandations des spécialistes et aux souhaits de plusieurs cantons. L'Organisation mondiale de la santé (OMS) et le Centre européen de prévention et de contrôle des maladies (ECDC) recommandent également de porter un masque lorsque la distance nécessaire ne peut être respectée. &lt;/p&gt;&lt;h2&gt;Quarantaine pour les personnes en provenance de certaines régions &lt;/h2&gt;&lt;p&gt;Depuis mi-juin, le nouveau coronavirus a connu une recrudescence en Suisse après que des personnes infectées sont entrées dans le pays en provenance d'États de l'espace Schengen et hors Schengen. Par conséquent, à compter du lundi 6 juillet, toute personne franchissant la frontière depuis certaines régions doit se mettre en quarantaine durant dix jours. L'OFSP tient une liste des régions en question, qu'il actualise régulièrement. Les personnes concernées seront informées de façon ciblée dans les avions, les autocars et aux frontières. Une fois entrées en Suisse, elles doivent s'annoncer auprès des autorités cantonales. La nouvelle ordonnance sera adoptée et publiée demain. Par ailleurs, les compagnies d'aviation et d'autocars sont tenues de refuser d'embarquer les voyageurs malades. &lt;/p&gt;&lt;h2&gt;Maintien des restrictions d'entrée jusqu'au 20 juillet &lt;/h2&gt;&lt;p&gt;Le Conseil fédéral a également pris acte des recommandations du Conseil de l'UE relatives à la levée des restrictions d'entrée dues au coronavirus pour 15 États dès le 1er juillet 2020. La Suisse devrait suivre ces recommandations à compter du 20 juillet pour l'ensemble des pays concernés, à l'exception de la Serbie. En conséquence, le DFJP entend retirer l'Algérie, l'Australie, le Canada, la Corée du Sud, la Géorgie, le Japon, le Maroc, le Monténégro, la Nouvelle-Zélande, le Rwanda, la Thaïlande, la Tunisie et l'Uruguay ainsi que les États de l'UE n'appartenant pas à l'espace Schengen (Bulgarie, Chypre, Croatie, Irlande et Roumanie) de la liste des pays à risque. La Chine sera également retirée de la liste en application des recommandations de l'UE, à condition que la réciprocité soit garantie pour les personnes en provenance de Suisse. &lt;/p&gt;</text>
+      <contact>Obligation de porter le masque et mesures sanitaires aux frontières : Office fédéral de la santé publique, Infoline coronavirus +41 58 463 00 00 Infoline pour les personnes se rendant en Suisse +41 58 464 44 88 Levée des restrictions d’entrée : Secrétariat d’État aux migrations +41 58 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="203589">
+        <title>FAQ Port du masque obligatoire dans les transports publics</title>
+        <format>pdf</format>
+        <size-kb>156</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62029.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203593">
+        <title>FAQ Quarantaine</title>
+        <format>pdf</format>
+        <size-kb>166</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62132.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203597">
+        <title>Ordonnance transport international de voyageurs</title>
+        <format>pdf</format>
+        <size-kb>393</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62088.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203600">
+        <title>Ordonnance situation particulière</title>
+        <format>pdf</format>
+        <size-kb>362</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62091.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-07-22 09:46" type="I"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: obbligo della mascherina sui mezzi pubblici, quarantena per i viaggiatori provenienti da regioni a rischio, revoca di determinate restrizioni d’entrata dal 20 luglio</title>
+      <lead>Nella sua seduta del 1° luglio 2020, il Consiglio federale ha adottato diversi provvedimenti per prevenire l’insorgenza di nuovi focolai di coronavirus. Visto l’aumento del traffico passeggeri e, dalla metà di giugno, anche dei nuovi casi d’infezione, ha deciso d’introdurre in tutta la Svizzera l’obbligo della mascherina sui mezzi pubblici da lunedì 6 luglio. I viaggiatori in provenienza da determinate regioni devono inoltre mettersi in quarantena. La revoca delle restrizioni d’entrata in Svizzera per un primo gruppo di Stati terzi è prevista il 20 luglio prossimo.</lead>
+      <text link="no">&lt;p&gt;Dopo che quasi tutti i provvedimenti ordinati dal Governo per combattere l'epidemia di COVID-19 sono stati allentati si constata un aumento delle persone in circolazione sui mezzi pubblici, dove spesso la distanza raccomandata non può essere rispettata. In considerazione dell'aumento del traffico passeggeri e, dalla metà di giugno, anche dei nuovi casi d'infezione, il Consiglio rafforza, in una decisione di principio, i provvedimenti di protezione contro il coronavirus introducendo l'obbligo generalizzato della mascherina sui mezzi di trasporto pubblico. Da lunedì prossimo, 6 luglio 2020, gli utenti a partire dai 12 anni dovranno indossare la mascherina sul treno, sul tram e sull'autobus, nonché a bordo degli impianti di risalita e dei battelli. L'ordinanza modificata sarà adottata e pubblicata domani. &lt;/p&gt;&lt;p&gt;Finora sui mezzi pubblici l'uso della mascherina era fortemente raccomandato, in particolare nelle ore di punta. Questo invito non è però stato seguito nella misura auspicata. Con la sua decisione, il Consiglio federale reagisce alle raccomandazioni di esperti e alle richieste di alcuni Cantoni, tanto più che anche l'Organizzazione mondiale della sanità (OMS) e il Centro europeo per la prevenzione e il controllo delle malattie (ECDC) raccomandano l'uso della mascherina ogniqualvolta non è possibile rispettare la distanza necessaria.&lt;/p&gt;&lt;h2&gt;Quarantena per i viaggiatori in provenienza da determinate regioni&lt;/h2&gt;&lt;p&gt;Dalla metà di giugno si sono registrati a più riprese nuovi focolai di coronavirus dopo che persone contagiate sono giunte in Svizzera da Paesi dell'area Schengen e non Schengen. Per questo motivo, dal 6 luglio prossimo, chi entra in Svizzera in provenienza da determinate regioni deve mettersi in quarantena per dieci giorni. L'Ufficio federale della sanità pubblica (UFSP) tiene un elenco costantemente aggiornato. Le persone interessate vengono informate in modo mirato sull'aereo, sull'autobus e alle frontiere e sono tenute a notificare la loro entrata all'autorità cantonale competente. La nuova ordinanza sarà adottata e pubblicata domani. Le compagnie aeree e le imprese di trasporto in autobus sono inoltre avvertite di non trasportare passeggeri malati. &lt;/p&gt;&lt;h2&gt;Restrizioni d'entrata in Svizzera in vigore sino al 20 luglio&lt;/h2&gt;&lt;p&gt;Nella sua seduta odierna, il Consiglio federale ha inoltre preso atto delle raccomandazioni del Consiglio dell'Unione europea sulla revoca, dal 1° luglio, delle restrizioni d'entrata per 15 Stati emanate per contrastare la diffusione del coronavirus. È previsto che la Svizzera si allinei a queste raccomandazioni, ma soltanto dal 20 luglio 2020 e facendo un'eccezione per la Serbia. Il Dipartimento federale di giustizia e polizia (DFGP) prevede di conseguenza di togliere dall'elenco dei Paesi a rischio, da quella data, i seguenti Stati: Algeria, Australia, Canada, Corea del Sud, Georgia, Giappone, Marocco, Montenegro, Nuova Zelanda, Ruanda, Thailandia, Tunisia, Uruguay e i Paesi UE non Schengen (Bulgaria, Cipro, Croazia, Irlanda e Romania). In applicazione delle raccomandazioni UE, è previsto che anche la Cina sia tolta dall'elenco, a condizione che sia garantita la reciprocità dei diritti d'entrata per i cittadini svizzeri.&lt;/p&gt;</text>
+      <contact>Obbligo della mascherina e provvedimenti sanitari di confine: Ufficio federale della sanità pubblica UFSP, Infoline Coronavirus +41 58 463 00 00 Infoline per persone che vengono in Svizzera +41 58 464 44 88 Revoca delle restrizioni d’entrata in Svizzera: Segreteria di Stato della migrazione SEM, Informazione e comunicazione +41 58 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="203590">
+        <title>FAQ Obbligo della mascherina sui mezzi pubblici</title>
+        <format>pdf</format>
+        <size-kb>228</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62030.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203594">
+        <title>FAQ Quarantena</title>
+        <format>pdf</format>
+        <size-kb>184</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62126.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203598">
+        <title>Ordinanza traffico internazionale viaggiatori</title>
+        <format>pdf</format>
+        <size-kb>387</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62089.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="203601">
+        <title>Ordinanza situazione particolare</title>
+        <format>pdf</format>
+        <size-kb>364</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62092.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-07-22 09:46" type="I"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Masks compulsory on public transport; quarantine for travellers from high-risk regions; lifting of certain entry restrictions from 20 July</title>
+      <lead>At its meeting on 1 July, the Federal Council took decisions on various measures to prevent the renewed spread of the coronavirus. In view of the increasing volume of people travelling and the rising number of new infections since mid-June, it has decided to make masks compulsory on public transport throughout the country from Monday, 6 July. In addition, travellers from certain regions will have to go into quarantine. Entry restrictions are expected to be lifted for an initial group of third countries from 20 July.</lead>
+      <text link="no"> &lt;p&gt;More people are travelling on public transport since the Federal Council largely lifted measures to fight the coronavirus epidemic. As a result, it is often not possible to respect the recommended distance. In view of the increasing volume of people travelling, and the rising number of new infections since mid-June, the Federal Council is reinforcing its protective measures and has subsequently taken a fundamental decision to make the wearing of masks compulsory in all forms of public transport nationwide. From Monday, 6 July, persons over the age of 12 will have to wear a mask in trains, trams and buses, as well as on mountain rail and cableways and on lake and river boats. The amended ordinance will be adopted and published tomorrow. &lt;/p&gt;&lt;p&gt;An urgent recommendation is already in place to wear a mask when travelling on public transport at peak times. However, few people are heeding this advice. Today’s decision by the Federal Council also comes in response to expert recommendations and at the request of certain cantons. The World health Organization (WHO) and the European Centre for Disease Prevention and Control (ECDC) also recommend that masks be worn if it is not possible to respect the necessary distance. &lt;/p&gt; &lt;h2&gt;Quarantine for travellers from certain areas&lt;/h2&gt;&lt;p&gt;Since mid-June, the number of new cases of coronavirus has been rising in Switzerland as infected persons have entered the country from countries within the Schengen area and from non-Schengen countries. Consequently, with effect from Monday, 6 July, travellers entering Switzerland from certain regions will have to go into quarantine for ten days. The FOPH has a list of the countries concerned, which it updates regularly. Travellers affected will be notified during the flight, on board coaches and at border crossings. They will have to register with the cantonal authorities on arrival. The new ordinance will be adopted and published tomorrow. Airlines and travel companies will also be instructed not to transport sick passengers. &lt;/p&gt; &lt;h2&gt;Entry restrictions to remain in place until 20 July&lt;/h2&gt;&lt;p&gt;At its meeting on 1 July 2020, the Federal Council took note of the EU Council recommendations on lifting the entry restrictions that will apply to 15 specific countries from 1 July. Switzerland is expected to follow these recommendations, but from 20 July and with the exception of Serbia. On 20 July, the Federal Department of Justice and Police FDJP intends to remove Algeria, Australia, Canada, Georgia, Japan, Morocco, Montenegro, New Zealand, Rwanda, South Korea, Thailand, Tunisia and Uruguay and the EU states outside the Schengen area (Bulgaria, Ireland, Croatia, Romania and Cyprus) from the list of high-risk countries. China is also expected to be removed from the list in line with the EU recommendations, provided it guarantees reciprocal rights of entry to people travelling from Switzerland.&lt;/p&gt; </text>
+      <contact>Requirement to wear masks and border health checks: Federal Office of Public Health, Infoline Coronavirus +41 58 463 00 00 Infoline for people travelling to Switzerland +41 58 464 44 88 Lifting of entry restrictions: State Secretariat for Migration +41 58 465 78 44, medien@sem.admin.ch</contact>
+      <attachment id="203591">
+        <title>Masks compulsory on public transport</title>
+        <format>pdf</format>
+        <size-kb>228</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62061.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="203595">
+        <title>FAQ Quarantine</title>
+        <format>pdf</format>
+        <size-kb>150</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/62127.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-07-14 21:24" type="R"/>
+        <revision date="2020-07-02 09:41" type="R"/>
+        <revision date="2020-07-22 09:46" type="I"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

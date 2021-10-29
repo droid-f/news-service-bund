@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="3504" revoked="no">
+    <version>2</version>
+    <pubdate>2006-03-03</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1004" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Schweizerische Nationalbibliothek</name>
+      <name lang="fr">Bibliothèque nationale suisse</name>
+      <name lang="it">Biblioteca nazionale svizzera</name>
+      <name lang="en">Swiss National Library</name>
+      <www lang="de">http://www.nb.admin.ch</www>
+      <www lang="fr">http://www.nb.admin.ch</www>
+      <www lang="it">http://www.nb.admin.ch</www>
+      <www lang="en">http://www.nb.admin.ch</www>
+      <email lang="de">info@nb.admin.ch</email>
+      <email lang="fr">info@nb.admin.ch</email>
+      <email lang="it">info@nb.admin.ch</email>
+      <email lang="en">info@nb.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Europa auf dem Weg zur digitalen Bibliothek</title>
+      <lead>Gestern hat die europäische Kommission ihren Plan zur Förderung der Europäischen digitalen Bibliothek vorgelegt. Die Konferenz der europäischen Nationalbibliothekare, der auch die Schweizerische Landesbibliothek angehört, begrüsst dieses Vorhaben. Die Schweizerische Landesbibliothek wird die Europäische digitale Bibliothek mitentwickeln.</lead>
+      <text link="no">&lt;p&gt;Gemäss der europäischen Kommission soll die Europäische Digitale Bibliothek bis 2010 mindestens 6 Millionen Bücher, Dokumente und andere kulturelle Werke via Internet erschliessen. Die Kommission will dafür die Schaffung eines Netzes von Digitalisierungszentren finanziell fördern und einen verbindlichen Rahmen für den Umgang mit Urheberrechten setzen. Die digitale Aufbereitung der Bestände selbst soll durch die einzelnen Staaten finanziert werden.&lt;/p&gt; &lt;p&gt;Technische Basis der europäischen digitalen Bibliothek bildet The European Library. Das Portal erlaubt es, die Kataloge von vielen europäischen Nationalbibliotheken gleichzeitig zu durchsuchen. Ausserdem bietet es Zugang zu den digitalisierten Beständen dieser Bibliotheken. So kann zum Beispiel die Schweizerische Plakatsammlung, ein Gemeinschaftswerk verschiedener Schweizer Bibliotheken und Museen, abgerufen werden.&lt;/p&gt; &lt;p&gt;The European Library kam auf Initiative der Konferenz der europäischen Nationalbibliothekare zu Stande .Die Schweizerische Landesbibliothek gehört zu den Gründungsmitgliedern von The European Library und wird auch die Europäische digitale Bibliothek mitgestalten. Die Schweizer Inhalte werden in Absprache mit den europäischen und schweizerischen Partnern – vor allem den Kantons- und Universitätsbiblitoheken – festgelegt. Für die Finanzierung werden sowohl öffentliche als auch private Gelder gesucht.&lt;/p&gt;</text>
+      <contact>Marie-Christine Doffey, Direktorin der Schweizerischen Landesbibliothek Tel. 031 322 89 01, marie-christine.doffey@slb.admin.ch</contact>
+      <attachment id="6345">
+        <title>Conference of European National Librarians welcomes...</title>
+        <format>pdf</format>
+        <size-kb>46</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2115.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="6344">
+        <title>Kommisson forciert Realisierung der Europäischen Digitalen Bibliothek...</title>
+        <format>pdf</format>
+        <size-kb>102</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2116.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="6346">
+        <title>The European Library Website</title>
+        <uri>http://www.theeuropeanlibrary.org</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-03-03 11:30" type="I"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="7">
+        <name lang="de">Bibliotheken und Archive</name>
+        <name lang="fr">Bibliothèques et archives</name>
+        <name lang="it">Biblioteche e archivi</name>
+        <name lang="en">Libraries and Archives</name>
+      </topic>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="18">
+        <name lang="de">Kultur</name>
+        <name lang="fr">Culture</name>
+        <name lang="it">Cultura</name>
+        <name lang="en">Culture</name>
+      </topic>
+      <topic id="19">
+        <name lang="de">Medien</name>
+        <name lang="fr">Médias</name>
+        <name lang="it">Media</name>
+        <name lang="en">Media</name>
+      </topic>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

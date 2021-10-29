@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="7493" revoked="no">
+    <version>1</version>
+    <pubdate>2006-09-25</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="405" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern-Wabern</city>
+      <title>Asylstatistik August 2006</title>
+      <lead/>
+      <text link="no">Anbei erhalten Sie die neue Asylstatistik August 2006 als pdf-Datei.</text>
+      <contact/>
+      <attachment id="13145">
+        <title>2006-08-d</title>
+        <format>pdf</format>
+        <size-kb>297</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/3947.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne-Wabern</city>
+      <title>Statistique en matière d'asile août 2006</title>
+      <lead/>
+      <text link="no">Veuillez trouver ci-joint la nouvelle statistique en matière d'asile août 2006 en format pdf.</text>
+      <contact/>
+      <attachment id="13146">
+        <title>2006-08-f</title>
+        <format>pdf</format>
+        <size-kb>301</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/3948.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="20">
+        <name lang="de">Migration</name>
+        <name lang="fr">Migrations</name>
+        <name lang="it">Migrazione</name>
+        <name lang="en">Migration</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="41116" revoked="no">
+    <version>2</version>
+    <pubdate>2011-09-13</pubdate>
+    <blocking-period>2011-09-13</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="1016" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Teilstreitkraft Luftwaffe</name>
+      <name lang="fr">Forces aériennes</name>
+      <name lang="it">Forze aeree</name>
+      <name lang="en">Air Force</name>
+      <www lang="de">http://www.lw.admin.ch</www>
+      <www lang="fr">http://www.lw.admin.ch</www>
+      <www lang="it">http://www.lw.admin.ch</www>
+      <www lang="en">http://www.lw.admin.ch</www>
+      <email lang="de">info.lw@vtg.admin.ch</email>
+      <email lang="fr">info.lw@vtg.admin.ch</email>
+      <email lang="it">info.lw@vtg.admin.ch</email>
+      <email lang="en">info.lw@vtg.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Drohnenabsturz auf Flugpiste Militärflugplatz Emmen</title>
+      <lead/>
+      <text link="no">Aufgrund eines technischen Defekts ist heute Morgen eine Drohne der Schweizer Luftwaffe auf die Start- und Landepiste des Militärflugplatzes Emmen gestürzt. Wegen eines Motorenproblems gewann die Drohne nach dem Start keine Höhe, so, dass in der Folge beabsichtigt über sicherem Gelände der Rettungsschirm ausgelöst wurde. Da die Drohe beim Auslösen des Rettungsschirms zu geringe Höhe hatte, konnte sich der Rettungsschirm nicht ganz entfalten. Die Drohne stürzte auf die Betonpiste des Militärflugplatzes Emmen und erlitt Totalschaden. Personen kamen keine zu Schaden.</text>
+      <contact>Jürg Nussbaum Chef Kommunikation Luftwaffe 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Chute d’un drone sur la piste de la base aérienne d’Emmen</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Suite à une défaillance technique, un drone des Forces aériennes suisses s'est écrasé ce matin sur la piste de décollage et d'atterrissage de la base militaire d'Emmen. En raison d'un problème de moteur, le drone n'a pas pu prendre de l'altitude après le décollage. Il a par conséquent été décidé de déclencher le parachute de secours au-dessus d'un terrain sécurisé. Comme le drone n'avait pas l'altitude suffisante lors du déclenchement du parachute, ce dernier n'a pas pu se déployer entièrement. Le drone s'est écrasé sur une piste en béton de la base aérienne d'Emmen, subissant un dommage total. Aucune personne n'a été blessée.&lt;/p&gt;</text>
+      <contact>Jürg Nussbaum Chef Communication Forces aériennes 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Caduta di un drone sulla pista dell'aerodromo di Emmen</title>
+      <lead/>
+      <text link="no">&lt;p&gt;A causa di un difetto tecnico, stamattina un drone delle Forze aeree svizzere è precipitato sulla pista di decollo e d'atterraggio dell'aerodromo militare di Emmen. Per un problema al motore, dopo il decollo il drone non è riuscito a prendere quota, per cui si è resa necessaria l'attivazione del paracadute d'emergenza sopra un territorio sicuro. Quando è stato attivato il paracadute d'emergenza, il drone si trovava a una quota troppo bassa, di modo che lo stesso non si è aperto completamente. Il drone è quindi precipitato sulla pista in cemento dell'aerodromo militare di Emmen ed è andato completamente distrutto. Non si registrano danni a persone.&lt;/p&gt;</text>
+      <contact>Jürg Nussbaum Capo Comunicazione Forze aeree Tel. 031 324 15 50</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="530" org-id="1016">
+        <name lang="de">Luftraumsicherung</name>
+        <name lang="fr">Sécurité de l'espace aérien</name>
+        <name lang="it">Sicurezza dello spazio aereo</name>
+        <name lang="en">Air Policing</name>
+      </keyword>
+      <keyword id="5160" org-id="1016">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5180" org-id="1016">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="75871" revoked="no">
+    <version>1</version>
+    <pubdate>2019-07-23</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Für Heim und Netz</title>
+      <lead>Solaranlagen auf den Dächern von Wohnhäusern produzieren oft genau dann Energie, wenn die Bewohner sie nicht nutzen können. Stationäre Batterien erlauben es, diese Energie erst abends, nachts oder an einem Regentag zu nutzen. Ein Forschungsprojekt an der Empa untersucht, ob der Einsatz stationärer Batterien für die Verbraucher wirtschaftlich sinnvoll ist – und gleichzeitig Vorteile für die Energieversorger bieten kann.</lead>
+      <text link="no"> &lt;p&gt;Auf immer mehr Schweizer Dächern finden sich Solaranlagen. Das stellt die Netzbetreiber vor Herausforderungen. Denn an einem sonnigen Tag können plötzlich grosse Mengen Strom ins Netz strömen. Falls es nicht dafür ausgelegt ist, bricht es schlimmstenfalls sogar zusammen. Eine Möglichkeit, einem solchen Blackout vorzubeugen, wäre, die Netzinfrastruktur für viel grössere Maximallasten auszubauen. Dies führt aber zu deutlich höheren Kosten.&lt;/p&gt; &lt;p&gt;Eine Alternative ist, zu verhindern, dass das Netz mit grossen Strommengen geflutet wird. Der lokal produzierte «Überschussstrom» müsste also lokal zwischengespeichert werden. Doch lohnt sich das für die Betreiber der Dachanlagen? Welche Speichermöglichkeiten bieten sich an? Und lässt sich so das Stromnetz tatsächlich stabilisieren?&lt;/p&gt; &lt;p&gt;Diesen Fragen ist Empa-Forscher Philipp Heer nachgegangen. Er nutzte für sein Projekt reale Messdaten des lokalen Dübendorfer Energie-und-Wärme-Versorgers Glattwerk und untersuchte zwei Batterietypen: Lithium-Ionen-Batterien sowie Flüssigsalzbatterien des Typs Natrium-Nickelchlorid, ZEBRA-Batterie genannt (siehe Kasten). In Computersimulationen rechnete Heer 160 verschiedene Szenarien durch und variierte dabei Batteriegrössen und Systeme, die auf einem zentralen oder aber mehreren dezentralen Batteriespeichern basieren können.&lt;/p&gt; &lt;h3&gt;Prosumer und Verteiler&lt;/h3&gt; &lt;p&gt;Es gibt zwei Parteien mit unterschiedlichen Interessen. Zum einen die Netzbetreiber: Mit Stromnetzen im Mittel- und Niederspannungsbereich verteilen sie Strom an die Endkunden. In der Schweiz gibt es rund 650 Netzbetreiber, die zusammen ein Netz von rund 200 000 Kilometer betreuen. Ihr Ziel ist es, das Ausfallrisiko im Netz zu minimieren, ohne die Infrastruktur auf eine selten zu erwartende Maximallast ausbauen zu müssen.&lt;/p&gt; &lt;p&gt;Auf der anderen Seite stehen die Konsumenten, die gleichzeitig selbst Strom erzeugen – die sogenannten Prosumer. Ihr Ziel ist es, ihre Energiekosten zu minimieren. Das bedeutet: der selbst produzierte Strom soll dann konsumiert werden, wenn die Energiekosten hoch sind. Da zurzeit die Einspeisetarife im Vergleich zu den Bezugstarifen sehr niedrig ausfallen, lohnt es sich für die Prosumer kaum, den erzeugten Strom ins Netz einzuspeisen.&lt;/p&gt; &lt;p&gt;Wie kann man nun stationäre Batterien so einsetzen, dass beiden Seiten davon einen Nutzen haben? Betrachten wir einen sonnigen Tag: Die Photo­voltaik­anlagen liefern während des Tages Strom, wenn viele Bewohner nicht zu Hause sind. Speisen sie den Strom zum tiefen Einspeisetarif ins Netz ein, entstehen Nachteile – und zwar für beide Seiten: Die Konsumenten müssen den Strom am Abend zum höheren Bezugspreis wieder einkaufen, und die Netzbetreiber müssen ihr Netz ausbauen, um tagsüber die hohe Strommenge aufnehmen zu können. Wird der selbst erzeugte Strom hingegen in lokalen Batterien zwischengespeichert, kann er am Abend von den Erzeugern selbst konsumiert werden – und das Netz wird entlastet.&lt;/p&gt; &lt;h3&gt;Sharing economy für Batterien&lt;/h3&gt; &lt;p&gt;Natürlich haben auch Batterien nicht nur Vorteile. Ihre Effizienz liegt nicht bei 100%. Insgesamt steigt also der durchschnittliche Energieverbrauch im Gesamtnetz, wenn Batteriespeicher eingesetzt werden. Um die Nützlichkeit der Batterie für alle Beteiligten zu erhöhen, wäre es daher sinnvoll, die Batteriesteuerung auf die unterschiedlichen Interessen der Stakeholder zu optimieren, anstatt etwa nur die Kostenersparnis für den einzelnen Prosumer zu maximieren. Im ungünstigsten Fall würden nämlich alle Prosumer ihre Batterien mit überschüssigem PV-Strom füllen, bis sie zum Beispiel am Mittag voll sind – und dann plötzlich alle gleichzeitig den Strom ins Netz einspeisen. Dadurch entstünde den Netzbetreibern wieder ein Peak an eingespeister Energie.&lt;/p&gt; &lt;p&gt;Eine optimierte Batteriesteuerung würde die Batterie genau dann laden, wenn dem Netz mehr Strom zugeführt als daraus verbraucht wird. Und das rechnet sich: «Die Simulationen zeigen, dass Batterien, die auf die kombinierten Steuerziele hin optimiert werden, eine bis zu 15% höhere durchschnittliche Rendite erzielen als solche, die nur auf einen einzelnen Stakeholder hin optimiert sind», erklärt Heer. Bereits kleine, dezentrale Batterien können sich also für beide Seiten lohnen – doch grössere, geteilte Speicher könnten noch grössere Vorteile bringen.&lt;/p&gt; &lt;h3&gt;Simulationen verifizieren&lt;/h3&gt; &lt;p&gt;Um zu sehen, ob sich die Resultate der Simulation bewahrheiten, planen Heer und sein Team nun, eine derart optimierte Batteriesteuerung in einem realen System zu testen. Dafür nutzen sie den Energiedemonstrator der Empa, den «Energy Hub», kurz ehub. Die verschiedenen Units des NEST funktionieren dabei als aktive Prosumer, die verschiedene Mengen an Energie produzieren und verbrauchen. Sowohl eine Flüssigsalz- als auch eine Lithium-Ionen-Batterie stehen für die Tests zur Verfügung. «Bewähren sich die Simulationsresultate in der Realität, könnte das analysierte Dübendorfer Verteilnetz als Pilotprojekt dienen», so Heer.&lt;/p&gt; </text>
+      <contact>Informationen Philipp Heer Group Leader ehub Telefon: +41 58 765 49 90 philipp.heer@empa.ch Redaktion / Medienkontakt Karin Weinmann Kommunikation Tel. +41 58 765 47 08 redaktion@empa.ch</contact>
+      <attachment id="191959">
+        <title>Win-win for home and grid</title>
+        <format>jpg</format>
+        <size-kb>822</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/57838.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="191958">
+        <title>press release</title>
+        <uri>https://www.empa.ch/web/s604/batterien-im-quartier</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Pour la maison et le réseau</title>
+      <lead>Les capteurs solaires installés sur les toits produisent fréquemment de l'énergie au moment où les habitants n'en ont pas besoin. Des batteries fixes permettent de l'utiliser le soir, la nuit ou par temps de pluie. Mais cela présente-il un intérêt économique pour les utilisateurs? Et pour les fournisseurs d'électricité? La question fait l'objet d'un projet de recherche à l'Empa.</lead>
+      <text link="no"> &lt;p&gt;La multiplication des installations solaires sur les toits suisses place les exploitants du réseau électrique face à un problème. Par de belles journées ensoleillées, il peut arriver que de grandes quantités de courant affluent soudainement dans le réseau. Si ce dernier n'a pas été dimensionné en conséquence, il peut, dans le pire des cas, s'effondrer. Pour prévenir ce type de blackout, on pourrait par exemple redimensionner le réseau en lui fixant une charge maximale très supérieure. Le coût de l'opération serait considérable.&lt;/p&gt; &lt;p&gt;Autre approche possible: prévenir le déferlement de courant excédentaire dans le réseau en le stockant provisoirement sur place. Mais le détenteur de l'installation y verra-t-il un avantage? Quelles sont les possibilités réalistes de stockage? Et cela permet-il réellement de stabiliser le réseau?&lt;/p&gt; &lt;p&gt;Autant de questions que Philip Heer, chercheur de l'Empa, s'est posées. Pour y répondre, il a exploité les données des services industriels Glattwerk de Dübendorf et étudié deux types de batteries: les batteries lithium-ion et les batteries salines du type sodium-chlorure de nickel, également nommées batteries ZEBRA (voir encadré). Il a simulé sur ordinateur 160 scénarios en variant la taille des batteries et en optant pour des systèmes centralisés ou distribués.&lt;/p&gt; &lt;h3&gt;«Prosommateurs» et distributeurs&lt;/h3&gt; &lt;p&gt;Nous avons deux parties en présence, chacune avec ses propres intérêts. D'un côté, les gestionnaires de réseaux de distribution: leurs entreprises gèrent les réseaux électriques de moyenne et basse tension qui fournissent les consommateurs finaux en courant. En Suisse, on en compte environ 650 totalisant un réseau de quelque 200'000 km. Principale préoccupation: réduire au minimum les risques de panne du réseau sans pour autant dimensionner les infrastructures sur la charge maximale possible, laquelle ne s'observe que rarement.&lt;/p&gt; &lt;p&gt;De l'autre côté, les consommateurs qui produisent également du courant, les «prosommateurs». Il peut s'agir d'un simple bâtiment ou d'une communauté de voisins clients du distributeur, qui consomment du courant soit prélevé sur le réseau, soit produit par leurs propres installations solaires. Leur objectif: réduire leurs dépenses, ce qui signifie consommer leur propre courant quand l'électricité du réseau est plus chère. Actuellement, la différence de prix entre le courant injecté et le courant prélevé est très faible, si bien que le prosommateur n'a que peu d'intérêt à injecter son courant dans le réseau.&lt;/p&gt; &lt;p&gt;Comment alors mettre en œuvre des batteries fixes de manière que les deux parties y trouvent leur compte? Prenons une journée bien ensoleillée. Les installations solaires produisent du courant pendant qu'il fait jour, alors que bien des habitants ne sont pas chez eux. Mais si les installations injectent le courant produit dans le réseau alors que le tarif est au plus bas, les deux côtés y perdent: les consommateurs doivent ré-acheter du courant le soir, quand il est plus cher, et les gestionnaires de réseau doivent renforcer leur réseau pour qu'il puisse transporter de plus grandes quantités de courant. En revanche, si le courant autoproduit est stocké sur place en batteries, il peut être consommé le soir par ses producteurs et le réseau échappe à la surcharge.&lt;/p&gt; &lt;h3&gt;L'économie du partage appliquée aux batteries&lt;/h3&gt; &lt;p&gt;Les batteries ne présentent cependant pas que des avantages. Leur rendement n'est pas de 100%. Si bien que la consommation moyenne d'énergie de l'ensemble du réseau augmente lorsqu'on l'épaule par des batteries. Si l'on veut que l'usage de batteries bénéficie aux deux parties, il faut pouvoir les piloter de manière à optimiser l'ensemble des intérêts en jeu, et non pas seulement à maximiser celui des prosommateurs individuels. Faute de quoi on s'expose par exemple à une situation où, par beau temps, tous les prosommateurs chargent leurs batteries à capacité et, quand toutes sont pleines mettons vers midi, basculent simultanément leur courant dans le réseau. Les exploitants se retrouveraient face à un pic de courant.&lt;/p&gt; &lt;p&gt;Une régulation bien conçue chargerait les batteries lorsque le réseau se voit offrir plus de courant qu'il ne doit en fournir. Il est possible de le calculer: «Les simulations montrent que les batteries dont la charge est optimisée compte tenu des différents objectifs à satisfaire ont un rendement financier moyen jusqu'à 15% supérieur à celui des batteries optimisées pour l'une des parties seulement», explique Heer. Les deux parties peuvent déjà tirer profit de petites batteries décentralisées. Les batteries plus importantes desservant des groupes de prosommateurs sont encore plus favorables.&lt;/p&gt; &lt;h3&gt;Vérifier les simulations&lt;/h3&gt; &lt;p&gt;Il s'agit maintenant de valider le résultat de ces simulations en grandeur réelle. Heer et son équipe mettent actuellement au point une commande optimisée qui régulera un système de batteries intégré au démonstrateur «Energy Hub» de l'Empa. Les différentes unités de NEST en seront les prosommateurs, fournissant et consommant différentes quantités de courant. Les tests utiliseront deux types de batteries: salines et lithium-ion. «Si nos simulations sont confirmées par les faits, nous pourrions utiliser le réseau déjà analysé de Dübendorf comme projet-pilote», remarque Heer.&lt;/p&gt; </text>
+      <contact>Informations Philipp Heer Group Leader ehub Tél. +41 58 765 49 90 philipp.heer@empa.ch Rédaction / Contact médias Karin Weinmann Communication Tél. +41 58 765 47 08 redaktion@empa.ch</contact>
+      <attachment id="191959">
+        <title>Win-win for home and grid</title>
+        <format>jpg</format>
+        <size-kb>822</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/57838.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="191958">
+        <title>press release</title>
+        <uri>https://www.empa.ch/web/s604/batterien-im-quartier</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Win-win for home and grid</title>
+      <lead>Solar systems on the roofs of residential buildings often produce energy precisely when the residents can’t actually use it. Stationary batteries enable this energy to be utilized in the evening, at night or on a rainy day. A research project at Empa is investigating whether the use of stationary batteries makes economic sense for the consumer while at the same time offering advantages for energy suppliers.</lead>
+      <text link="no">An increasing number of Swiss roofs have solar panels on them. This poses challenges for grid operators. After all, on a sunny day vast amounts of electricity can suddenly flow into the grid. If the grid is not built to withstand this surge, in the worst-case scenario it can even collapse. One possibility to prevent this kind of blackout would be to expand the grid infrastructure to withstand far greater maximum loads. However, this leads to considerably higher costs. One alternative would be to prevent the grid from being inundated with large amounts of electricity. This would mean temporarily storing “surplus electricity” that had been produced locally. But is it worth the effort for the operators of the roof systems? What are the storage options? And can the power grid actually be stabilized in this way? Empa researcher Philipp Heer set about exploring these questions. For his project, he used real measurement data from the local power and heat supplier Glattwerk in Dübendorf and studied two battery types: lithium ion batteries and salt water batteries of the sodium nickel chloride type, also known as ZEBRA battery (see box). In computer simulations, Heer calculated 160 different scenarios, varying both battery sizes as well as the entire system, which may be based on one central or several decentralized battery storage devices. Prosumers and distributors There are two parties with different interests. On the one hand, the grid operators: These companies run power grids in the mid and low-voltage range in order to distribute electricity to the consumers. In Switzerland, there are around 650 grid operators, which, taken together, maintain a grid covering around 200,000 kilometers. Their goal is to minimize the risk of a blackout on the grid, without having to expand the grid to accommodate a maximum load that can only be expected from time to time. On the other hand, there are the consumers who simultaneously produce electricity themselves – referred to as prosumers. Their objective is to minimize their energy costs. This means that the self-produced electricity is supposed to be consumed when energy costs are high. As the feed-in tariffs are currently very low compared to the reference tariffs, it is hardly worth it for the prosumer to feed the generated electricity into the grid. How can stationary batteries now be used in such a way that both sides stand to benefit? Imagine a sunny day: The photovoltaic systems provide power during daytime, i.e. when many residents are not at home. Feeding the electricity into the grid has drawbacks – for both sides: Consumers need to purchase the electricity in the evening again at a higher price, and grid operators have to expand their network to be able to accommodate the surge of electricity. If the self-produced electricity is stored temporarily in local batteries, on the other hand, prosumers can consume it in the evening "for free" – thereby relieving the pressure on the grid. Sharing economy for batteries Of course, batteries are not without disadvantages. Their efficiency is not 100%. Overall, the average energy consumption on the entire grid, therefore, increases if battery storage devices are being used. In order to increase the battery’s usefulness for all parties, it would thus make sense to optimize the battery controls to accommodate the different interests of the stakeholders, instead of merely maximizing cost savings for the individual prosumer. In the worst-case scenario, all prosumers would fill their batteries with surplus PV electricity until they are fully charged at midday, for instance – and then suddenly all feed the electricity into the grid at the same time. The grid operators would then experience another peak in fed-in energy. Optimized battery controls would charge the battery precisely when more power is added to the grid than is drawn from it. And this pays off: “Our simulations reveal that batteries that are optimized to accommodate the combined control objectives achieve a yield that is 15% higher than those, which are only optimized in favor of a single stakeholder,” explains Heer. Small, decentralized batteries can already be worth it for both parties – but larger, shared storage systems could carry even greater advantages. Verifying simulations In order to see whether the results of the simulation also prove to be true in reality, Heer and his team are now planning on testing battery controls that have been optimized in this way in a real system. To this end, they use Empa’s energy demonstrator, the Energy Hub, or ehub for short. The different NEST units act as prosumers, which produce and consume differing quantities of energy. Both a salt water and a lithium ion battery are on hand for the tests. “If the simulation results prove themselves in reality, the local grid in Dübendorf could also serve as a pilot project,” says Heer. </text>
+      <contact>Further information Philipp Heer Group Leader ehub Phone +41 58 765 49 90 philipp.heer@empa.ch Editor / Media contact Karin Weinmann Communication Phone +41 58 765 47 08 redaktion@empa.ch</contact>
+      <attachment id="191959">
+        <title>Win-win for home and grid</title>
+        <format>jpg</format>
+        <size-kb>822</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/57838.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="191958">
+        <title>press release</title>
+        <uri>https://www.empa.ch/web/s604/batterien-im-quartier</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

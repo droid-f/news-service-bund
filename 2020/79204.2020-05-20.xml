@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="79204" revoked="no">
+    <version>2</version>
+    <pubdate>2020-05-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="501" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Gottesdienste wieder möglich, gesetzliche Grundlage für SwissCovid-App</title>
+      <lead>Gottesdienste können ab dem 28. Mai 2020 wieder stattfinden. Die Glaubensgemeinschaften müssen dazu Schutzkonzepte erarbeiten. Dies hat der Bundesrat an seiner Sitzung vom 20. Mai 2020 entschieden. Er hat zudem als gesetzliche Grundlage für die SwissCovid-App eine dringliche Änderung des Epidemiengesetzes zuhanden des Parlaments verabschiedet. Ausserdem hat er das Eidgenössische Departement des Innern (EDI) damit beauftragt, frühzeitig einen Zugang zu Impfstoffen zu sichern.</lead>
+      <text link="no">&lt;p&gt;Glaubensgemeinschaften sollen ihr gemeinsames religiöses Leben wieder aufnehmen können. Ab dem 28. Mai 2020 sind sämtliche Gottesdienste und Feiern aller Religionen wieder erlaubt. Die Glaubensgemeinschaften haben eine Woche Zeit, um Schutzkonzepte zu erarbeiten und die Nachverfolgung von Infektionsketten sicherzustellen. Das Bundesamt für Gesundheit (BAG) hat ein Rahmenschutzkonzept erstellt. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Gesetzliche Grundlage für SwissCovid-App&lt;br /&gt;&lt;/strong&gt;Der Bundesrat hat zudem die gesetzliche Grundlage für die neue SwissCovid-App verabschiedet. Mit dem geänderten Epidemiengesetz erhält das BAG die Möglichkeit, ein Proximity-Tracing-System zu betreiben, mit dem die Weiterverbreitung des Virus eingedämmt werden kann. Die in der SwissCovid-App bearbeiteten Daten dienen alleine dem Zweck, die teilnehmenden Personen zu benachrichtigen, wenn sie möglicherweise dem Coronavirus ausgesetzt waren. Die App ergänzt das herkömmliche Contact Tracing der Kantone, also die Nachverfolgung und Unterbrechung der Infektionsketten. &lt;/p&gt;&lt;p&gt;Die Nutzung der App ist freiwillig und die Teilnahme oder Nicht-Teilnahme darf keine Benachteiligungen oder Vorteile zur Folge haben. Der Datenschutz ist jederzeit gewahrt. Die Daten werden dezentral gespeichert und das System erfasst keine Standortdaten. Die technischen Details und der Quellcode sind öffentlich. Der Bundesrat wird das System ausser Betrieb nehmen, sobald es für die Bekämpfung des Coronavirus nicht mehr erforderlich ist.&lt;/p&gt;&lt;p&gt;Die Vorlage soll vom Parlament in der Sommersession im Juni beraten werden. Stimmt es der Gesetzesänderung zu, kann die SwissCovid-App noch vor Ende Juni schweizweit eingeführt werden. In den kommenden Wochen wird die App in einer Pilotphase getestet. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Zugang zu Impfstoffen sichern&lt;br /&gt;&lt;/strong&gt;Der Bundesrat will die Erforschung und Entwicklung eines Impfstoffes beschleunigen und damit den schnellstmöglichen Zugang für die Schweizer Bevölkerung zu einem sicheren und wirksamen Impfstoff gewährleisten. Gleichzeitig soll ein Beitrag für einen fairen Zugang aller Länder zu einem solchen Impfstoff geleistet werden. Der Bundesrat geht davon aus, dass der immunologische Schutz in der Schweiz, wie auch in anderen Ländern nach Abklingen der ersten epidemischen Welle tief sein wird. Entsprechend gross wird der weltweite Bedarf an Impfstoffen sein.&lt;/p&gt;&lt;p&gt;Der Bundesrat hat dem EDI den Auftrag erteilt, zusammen mit dem Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) Vertragsverhandlungen mit Impfstoffherstellern aufzunehmen. Der Bundesrat rechnet mit Kosten von rund 300 Millionen Franken für die erforderlichen Impfdosen und die Absicherung der Verfügbarkeit des Impfstoffes. Dieser Betrag kann voraussichtlich aus bereits für die Bekämpfung des Coronavirus bewilligten Krediten bezahlt werden.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Für Spitalpersonal gelten wieder die üblichen Arbeits- und Ruhezeiten&lt;br /&gt;&lt;/strong&gt;Ab Anfang Juni gelten ausserdem für das Spitalpersonal wieder die gesetzlich festgelegten Arbeits- und Ruhezeiten, da sich die Situation in den meisten Spitalabteilungen inzwischen normalisiert hat.&lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Kommunikation +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201281">
+        <title>Neues Coronavirus: Lockerung der Massnahmen</title>
+        <format>pdf</format>
+        <size-kb>909</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61411.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201284">
+        <title>Lockerung der Massnahmen und mögliche nächste Schritte</title>
+        <format>pdf</format>
+        <size-kb>200</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61414.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201287">
+        <title>Verordnung</title>
+        <format>pdf</format>
+        <size-kb>314</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61417.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201290">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>267</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61420.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201293">
+        <title>Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61423.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : reprise des célébrations religieuses et adoption d’une base légale pour l’application de traçage</title>
+      <lead>Les offices religieux pourront reprendre à partir du 28 mai 2020, à condition que les communautés religieuses élaborent d’ici là des plans de protection. C’est ce qu’a décidé le Conseil fédéral lors de sa séance du 20 mai 2020. Dans le même temps, il a également adopté à l’intention du Parlement une modification urgente de la loi sur les épidémies qui doit servir de base légale à l’introduction de l’application suisse de traçage de proximité (application SwissCovid). Enfin, il a chargé le Département fédéral de l’intérieur (DFI) de garantir un accès rapide aux vaccins.</lead>
+      <text link="no">&lt;p&gt;Les communautés religieuses pourront reprendre leur vie communautaire et rassembler leurs fidèles. En effet, à partir du 28 mai 2020, les offices et célébrations de toutes les confessions seront de nouveau autorisés. Les communautés religieuses ont une semaine pour préparer des plans de protection et garantir le traçage des chaînes de transmission. À cet effet, l'Office fédéral de la santé publique (OFSP) a élaboré un modèle de plan de protection. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Base légale régissant l'application SwissCovid&lt;br /&gt;&lt;/strong&gt;Le Conseil fédéral a également adopté la base légale régissant la nouvelle application SwissCovid. Concrètement, il propose de modifier la loi sur les épidémies afin de permettre à l'OFSP d'exploiter un système de traçage de proximité visant à endiguer la propagation du virus. Les données traitées par l'application auront pour seul objectif d'informer les personnes potentiellement exposées au virus. L'application complète le traçage traditionnel des contacts effectué par les cantons, qui consiste à reconstituer les chaînes de transmission pour mieux les interrompre. &lt;br /&gt;&lt;br /&gt;L'utilisation de l'application sera facultative et personne ne doit être favorisé ou désavantagé en raison de sa participation ou de sa non-participation au système de traçage. La protection des données sera en tout temps garantie. Celles-ci seront stockées de manière décentralisée et le système n'enregistrera aucune donnée de géolocalisation. Les spécifications techniques et le code source seront accessibles au public. Le Conseil fédéral désactivera le système dès qu'il ne sera plus requis pour lutter contre le coronavirus.&lt;/p&gt;&lt;p&gt;Le projet de modification de loi sera traité par le Parlement lors de la session d'été, au mois de juin. Si ce dernier l'approuve, l'application pourra être mise en service dans tout le pays avant la fin du mois de juin. Ces prochaines semaines, l'application sera soumise à une phase de test. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Garantir l'accès aux vaccins&lt;br /&gt;&lt;/strong&gt;Le Conseil fédéral souhaite accélérer la recherche et le développement d'un vaccin sûr et efficace afin de le mettre à la disposition de la population suisse aussi rapidement que possible. Parallèlement, il s'agit de contribuer à garantir un accès équitable à ce vaccin pour tous les pays. Le Conseil fédéral part du principe que la protection immunologique en Suisse, tout comme dans d'autres pays, sera encore faible après la première vague épidémique. Par conséquent, la demande de vaccins sera importante au niveau mondial.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral a chargé le DFI d'entamer, en partenariat avec le Département de la défense, de la protection de la population et des sports, des négociations contractuelles avec les fabricants de vaccins. Il prévoit des coûts d'environ 300 millions de francs pour obtenir les doses de vaccin nécessaires et assurer l'approvisionnement. Ce montant pourra vraisemblablement être couvert par les crédits déjà approuvés pour lutter contre le coronavirus.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Retour à des conditions de travail normales pour le personnel hospitalier&lt;br /&gt;&lt;/strong&gt;En outre, à partir de début juin, le personnel hospitalier sera de nouveau soumis aux horaires de travail et aux périodes de repos prévus par la loi, la situation dans la plupart des services hospitaliers s'étant désormais normalisée.&lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Communication +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201282">
+        <title>Nouveau coronavirus: assouplissement des mesures</title>
+        <format>pdf</format>
+        <size-kb>918</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61412.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201285">
+        <title>Assouplissement des mesures et prochaines étapes possibles</title>
+        <format>pdf</format>
+        <size-kb>199</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61415.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201288">
+        <title>Ordonnance</title>
+        <format>pdf</format>
+        <size-kb>309</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61418.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201291">
+        <title>Message</title>
+        <format>pdf</format>
+        <size-kb>262</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61421.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201294">
+        <title>Loi fédérale sur la lutte contre les maladies transmissibles de l'homme</title>
+        <format>pdf</format>
+        <size-kb>125</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61424.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: funzioni religiose nuovamente consentite e base legale dell’app SwissCovid</title>
+      <lead>Nella sua seduta del 20 maggio 2020, il Consiglio federale ha deciso che dal prossimo 28 maggio potranno riprendere le funzioni religiose, a condizione che le comunità dei credenti dispongano di piani di protezione. Ha inoltre adottato e trasmesso al Parlamento una modifica urgente della legge sulle epidemie che costituirà la base legale dell’app SwissCovid. Infine, ha incaricato il Dipartimento federale dell’interno di fare il necessario per assicurare tempestivamente alla Svizzera l’accesso al vaccino.</lead>
+      <text link="no">&lt;p&gt;Le comunità dei credenti devono poter riprendere a praticare insieme la loro religione. Dal prossimo 28 maggio sono quindi nuovamente consentiti i servizi e le celebrazioni di tutte le religioni. Le comunità dei credenti hanno una settimana di tempo per dotarsi di piani di protezione e per garantire la ricostruzione delle catene d'infezione. L'Ufficio federale della sanità pubblica ha elaborato un piano generale di protezione per questo settore.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Base legale dell'app SwissCovid&lt;br /&gt;&lt;/strong&gt;Il Consiglio federale ha inoltre adottato la base legale della nuova app SwissCovid: la modifica della legge sulle epidemie conferisce all'Ufficio federale della sanità pubblica la facoltà di gestire un sistema per il tracciamento di prossimità che consentirà di contenere la diffusione del virus. I dati trattati nell'app serviranno unicamente a informare le persone che partecipano al sistema sull'eventualità che siano state esposte al coronavirus. L'app integra il tracciamento tradizionale dei contatti svolto dai Cantoni per ricostruire e interrompere le catene d'infezione. &lt;/p&gt;&lt;p&gt;L'uso dell'app è volontario e la partecipazione o non partecipazione al sistema di tracciamento di prossimità non deve comportare né vantaggi né svantaggi di sorta. La protezione dei dati è garantita in ogni momento, in quanto i dati sono salvati in modo decentralizzato e il sistema non rileva la posizione dei partecipanti. Le specifiche tecniche e il codice sorgente sono pubblici. Non appena il sistema non sarà più necessario alla lotta contro il coronavirus, il Consiglio federale ne sospenderà l'esercizio.&lt;/p&gt;&lt;p&gt;Il disegno di legge sarà discusso in Parlamento nel mese di giugno, durante la sessione estiva: se sarà adottato, l'app SwissCovid potrà essere introdotta in tutta la Svizzera ancora prima della fine di giugno. Nelle prossime settimane sarà sottoposta a un test pilota.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Assicurare l'accesso al vaccino&lt;br /&gt;&lt;/strong&gt;Affinché la popolazione svizzera possa disporre il più rapidamente possibile di un vaccino sicuro ed efficace, il Consiglio federale intende accelerarne la ricerca e lo sviluppo. Occorrerà inoltre contribuire ad assicurare un accesso equo a tutti i Paesi. Presumendo infatti che la protezione immunitaria in Svizzera, come altrove, sarà bassa dopo la prima ondata epidemica, il Consiglio federale stima che la domanda mondiale di un vaccino sarà molto elevata. &lt;/p&gt;&lt;p&gt;Il Consiglio federale ha incaricato il Dipartimento federale dell'interno di avviare, insieme al Dipartimento federale della difesa, della protezione della popolazione e dello sport, negoziati con i produttori di vaccini. I costi per le dosi vaccinali necessarie e per le misure atte a garantirne la disponibilità sono stimati a circa 300 milioni di franchi, che potranno presumibilmente essere attinti dai crediti già approvati per la lotta contro il coronavirus.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Personale ospedaliero: ripristinate le normali ore di lavoro e di riposo &lt;br /&gt;&lt;/strong&gt;Dato che nella maggior parte dei reparti degli ospedali la situazione è nel frattempo ritornata alla normalità, dall'inizio di giugno saranno ripristinate per il personale ospedaliero le ore di lavoro e di riposo stabilite dalla legge.&lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP, Comunicazione +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201283">
+        <title>Nuovo coronavirus: allentamento dei provvedimenti</title>
+        <format>pdf</format>
+        <size-kb>910</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61413.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201286">
+        <title>Allentamento dei provvedimenti e possibili fasi successive</title>
+        <format>pdf</format>
+        <size-kb>195</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61416.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201289">
+        <title>Ordinanza</title>
+        <format>pdf</format>
+        <size-kb>307</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61419.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201292">
+        <title>Messaggio</title>
+        <format>pdf</format>
+        <size-kb>253</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61422.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201295">
+        <title>Legge federale sulla lotta contro le malattie trasmissibili dell’essere umano</title>
+        <format>pdf</format>
+        <size-kb>121</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61425.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: religious services possible again, legal basis for SwissCovid app</title>
+      <lead>Religious services can take place again as of the 28th May 2020. In order to achieve this, the various faith communities must develop protection concepts. This decision was taken by the Federal Council at its meeting on 20th May 2020. It also approved an urgent amendment to the Epidemics Act for the attention of parliament as the legal basis for the SwissCovid App. Furthermore, it instructed the Federal Department of Home Affairs (FDHA) to ensure early access to vaccines.</lead>
+      <text link="no">&lt;p&gt;Faith communities should be able to resume their common religious life. From the 28th of May 2020, all services and celebrations of all faiths will once again be permitted. The religious communities have one week to work out protection concepts and to ensure the tracing of possible chains of infection. A framework protection concept has been drawn up by the Federal Office of Public Health (FOPH). &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Legal basis for SwissCovid-App&lt;br /&gt;&lt;/strong&gt;In addition, the Federal Council has approved the legal basis for the new SwissCovid app. The amended Epidemics Act gives the FOPH the right to operate a proximity tracing system to contain the spread of the virus. The data processed in the SwissCovid app is used solely to notify the participating persons if they were potentially exposed to the corona virus. The Swiss-Covid app supplements the traditional contact tracing of the cantons, i.e. the tracing and interruption of infection chains.&lt;/p&gt;&lt;p&gt;The use of the app is voluntary and participation or non-participation does not result in any disadvantages or advantages. Data protection is guaranteed at all times. The data is stored decentrally and the system does not collect location data. The technical details and source code are public. As soon as the system is no longer required to combat the coronavirus, the Federal Council will take it out of service.&lt;/p&gt;&lt;p&gt;The bill is to be debated by parliament in the summer session in June. If the amendment is approved, the SwissCovid app can be introduced throughout Switzerland before the end of June. In the coming weeks the app will be tested in a pilot phase. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Securing access to vaccines&lt;br /&gt;&lt;/strong&gt;The Federal Council wants to ensure that the research and development of a vaccine is accelerated and that the Swiss population has the fastest possible access to a safe and effective vaccine. At the same time, Switzerland wants to contribute to fair access to such a vaccine for all countries. The Federal Council expects that immunological protection in Switzerland, as in other countries, is likely to be low after the first epidemic wave has subsided. The worldwide demand for vaccines will therefore be correspondingly high. &lt;/p&gt;&lt;p&gt;The Federal Council has instructed the FDHA, together with the Department of Defence, Civil Protection and Sport (DDPS), to start contract negotiations with vaccine manufacturers. The Federal Council is expecting costs of around 300 million Swiss francs for the necessary vaccine doses and to ensure their availability. It is expected that this amount be covered by credits already approved for the fight against coronavirus. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Normal working and rest periods will again apply for hospital staff&lt;br /&gt;&lt;/strong&gt;In addition, the statutory working hours and rest periods for hospital staff will again apply from the beginning of June, as the situation in most hospital departments has now normalised. &lt;/p&gt;</text>
+      <contact>Federal Office of Public Health, Communication +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201296">
+        <title>New coronavirus: gradual easing of measures</title>
+        <format>pdf</format>
+        <size-kb>911</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61432.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201297">
+        <title>Assouplissement des mesures et prochaines étapes possibles (French)</title>
+        <format>pdf</format>
+        <size-kb>199</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61433.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201298">
+        <title>Ordinance (French)</title>
+        <format>pdf</format>
+        <size-kb>309</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61434.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201299">
+        <title>Message (French)</title>
+        <format>pdf</format>
+        <size-kb>262</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61435.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201300">
+        <title>Loi fédérale sur la lutte contre les maladies transmissibles de l'homme (French)</title>
+        <format>pdf</format>
+        <size-kb>125</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61436.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

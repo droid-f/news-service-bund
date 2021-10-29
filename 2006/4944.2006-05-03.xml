@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4944" revoked="no">
+    <version>2</version>
+    <pubdate>2006-05-03</pubdate>
+    <blocking-period>2006-05-03</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="318" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Statistik</name>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="en">Federal Statistical Office</name>
+      <www lang="de">http://www.statistik.admin.ch</www>
+      <www lang="fr">http://www.statistique.admin.ch</www>
+      <www lang="it">http://www.statistica.admin.ch</www>
+      <www lang="en">http://www.statistics.admin.ch</www>
+      <email lang="de">info@bfs.admin.ch</email>
+      <email lang="fr">info@bfs.admin.ch</email>
+      <email lang="it">info@bfs.admin.ch</email>
+      <email lang="en">info@bfs.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Neuchâtel</city>
+      <title>Resultate der Sozialhilfestatistik für den Kanton St. Gallen – 11'000 Sozialhilfebezügerinnen und –bezüger im Kanton St. Gallen</title>
+      <lead>Im Jahr 2004 wurden im Kanton St. Gallen rund 11'000 Personen mit Sozialhilfe unterstützt. Dies entspricht einer Sozialhilfequote von 2,4 Prozent, wie die Auswertungen des Bundesamts für Statistik (BFS) zur schweizerischen Sozialhilfestatistik zeigen. Besonders häufig auf Sozialhilfe angewiesen sind nach wie vor Kinder und Jugendliche bis 17 Jahre, junge Erwachsene (18-25 Jahre), Geschiedene und Alleinerziehende sowie Ausländerinnen und Ausländer.</lead>
+      <text link="no">Ganze Medienmitteilung als pdf-Datei verfügbar (siehe rechte Spalte)</text>
+      <contact>Bundesamt für Statistik Robert Fluder, BFS, Sektion Soziale Sicherheit, Tel.: 032 713 65 78 Kanton St. Gallen lic.phil. Kathrin Hilber, Vorsteherin des Departements des Innern des Kantons St.Gallen, Tel.: 071 229 33 08 Kaspar Sprenger, Leiter des Amtes für Soziales des Kantons St. Gallen, Tel.: 071 229 24 53 Anmerkung: ergänzende Auskünfte erteilen Frau Hilber und Herr Sprenger am Mittwoch, 3. Mai 2006, zwischen 11.30 und 12.30 Uhr</contact>
+      <link id="8592">
+        <title>– Link zum Portal Statistik Schweiz des BFS</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/de/index/themen/soziale_sicherheit.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="8591">
+        <title>– Resultate der Sozialhilfestatistik für den Kanton St. Gallen (PDF, 63 KB)</title>
+        <uri>http://www.bfs.admin.ch/bfs/portal/de/index/news/medienmitteilungen.Document.76776.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-05-03 11:32" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="317.14" org-id="318">
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="fr">Protection sociale</name>
+        <name lang="it">Sicurezza sociale</name>
+        <name lang="en">Social security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

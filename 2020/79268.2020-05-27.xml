@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="79268" revoked="no">
+    <version>5</version>
+    <pubdate>2020-05-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="508" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BASPO - Bundesamt für Sport</name>
+      <name lang="fr">OFSPO - Office fédéral du sport</name>
+      <name lang="it">UFSPO - Ufficio federale dello sport</name>
+      <name lang="en">Federal Office of Sports</name>
+      <www lang="de">http://www.baspo.admin.ch/</www>
+      <www lang="fr">http://www.baspo.admin.ch/</www>
+      <www lang="it">http://www.baspo.admin.ch/</www>
+      <www lang="en">http://www.baspo.admin.ch/</www>
+      <email lang="de">info@baspo.admin.ch</email>
+      <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
+      <email lang="en">info@baspo.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat beschliesst weitgehende Lockerungen per 6. Juni</title>
+      <lead>Ab dem 6. Juni 2020 werden die Massnahmen zur Bekämpfung des neuen Coronavirus weitgehend gelockert. Dies hat der Bundesrat aufgrund der positiven epidemiologischen Entwicklung an seiner Sitzung vom 27. Mai 2020 beschlossen. Alle Veranstaltungen mit bis zu 300 Personen können wieder durchgeführt werden und neu sind spontane Versammlungen von maximal 30 Personen erlaubt. Alle Freizeitbetriebe und touristischen Angebote können wieder öffnen. Der Bundesrat hat zudem entschieden, die ausserordentliche Lage gemäss Epidemiengesetz auf den 19. Juni 2020 zu beenden.</lead>
+      <text link="no">&lt;p&gt;Der Bundesrat hat per 27. April und 11. Mai 2020 Lockerungen der Massnahmen zum Schutz der Bevölkerung vor COVID-19 beschlossen. Diese beiden Lockerungsschritte hatten keinen Anstieg der epidemiologischen Indikatoren zur Folge. Die Zahl der Neuinfektionen ist seit ein paar Wochen auf tiefem Niveau stabil, ebenso die Zahl der Hospitalisationen und der Todesfälle. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Die Nachverfolgung enger Kontakte muss sichergestellt sein&lt;br /&gt;&lt;/strong&gt;Der Bundesrat lockert deshalb die verbliebenen Einschränkungen per 6. Juni 2020 weitgehend. Bedingung ist, dass für alle Einrichtungen und Veranstaltungen Schutzkonzepte vorhanden sind. Die Hygiene- und Abstandsregeln müssen weiterhin eingehalten werden. Können die Distanzregeln nicht eingehalten werden, muss die Nachverfolgung enger Personenkontakte (Contact Tracing) sichergestellt sein, etwa mit Präsenzlisten.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Versammlungsverbot: 30 statt 5 Personen&lt;br /&gt;&lt;/strong&gt;Das Versammlungsverbot im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen wird gelockert: Die Obergrenze wird per 30. Mai 2020 von bisher fünf auf 30 Personen erhöht. &lt;/p&gt;&lt;p&gt;Unterschriftensammlungen im öffentlichen Raum sind mit entsprechendem Schutzkonzept ab dem 1. Juni wieder zulässig. Den Initiativ- und Referendumskomitees steht ein Standard-Schutzkonzept zur Verfügung. Bis Ende Mai gilt noch der Fristenstillstand bei eidgenössischen Volksbegehren.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Veranstaltungen mit bis zu 300 Personen erlaubt&lt;br /&gt;&lt;/strong&gt;Ab dem 6. Juni sind private und öffentliche Veranstaltungen mit bis zu 300 Personen erlaubt. Dazu gehören etwa Familienanlässe, Messen, Konzerte, Theatervorstellungen oder Filmvorführungen, aber auch politische und zivilgesellschaftliche Kundgebungen.&lt;br /&gt;&lt;br /&gt;Der Bundesrat wird am 24. Juni 2020 über das weitere Vorgehen bei Veranstaltungen mit bis zu 1000 Personen und weitere Lockerungen beschliessen. Grossveranstaltungen mit mehr als 1000 Personen bleiben bis am 31. August 2020 untersagt. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Sportveranstaltungen wieder möglich&lt;br /&gt;&lt;/strong&gt;Für Sportveranstaltungen gelten dieselben Regeln wie für alle anderen Veranstaltungen. Wettkämpfe in Sportarten mit ständigem, engem Körperkontakt, wie Schwingen, Judo, Boxen oder Paartanz sind voraussichtlich bis am 6. Juli 2020 untersagt. Der Trainingsbetrieb ist für alle Sportarten ab dem 6. Juni ohne Einschränkung der Gruppengrösse wieder erlaubt. Dies gilt auch für Sportaktivitäten, in denen es zu engem Körperkontakt kommt. In diesen Sportarten müssen die Trainings aber in beständigen Teams stattfinden und Präsenzlisten geführt werden. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ferienlager für Kinder und Jugendliche möglich&lt;br /&gt;&lt;/strong&gt;Im Sommer finden zahlreiche Lager mit Kindern und Jugendlichen statt. Viele Gemeinden organisieren zudem während den Ferien Tagesstrukturen. Diese Angebote sind ab dem 6. Juni mit den entsprechenden Schutzkonzepten möglich. Kinder und Jugendliche sollen die Tage möglichst in gleichbleibenden Gruppen verbringen. Für Lager gilt eine Obergrenze von 300 Teilnehmenden, zudem müssen Präsenzlisten geführt werden. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bergbahnen, Campings, Zoos und Schwimmbäder wieder offen&lt;br /&gt;&lt;/strong&gt;Am dem 6. Juni können Bergbahnen, Campingplätze und touristische Angebote wie Rodelbahnen oder Seilparks wieder geöffnet werden. In Bergbahnen gelten die gleichen Hygiene- und Abstandsregeln wie im öffentlichen Verkehr. Alle Unterhaltungs- und Freizeitbetriebe wie Casinos, Freizeitparks, Zoos und botanische Gärten können wieder öffnen, ebenso Schwimmbäder und Wellnessanlagen. Ab dem 6. Juni können auch Erotikbetriebe und Angebote der Prostitution wieder öffnen. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Restaurationsbetriebe: grössere Gruppen erlaubt&lt;br /&gt;&lt;/strong&gt;In Restaurationsbetrieben wird ab dem 6. Juni die Beschränkung der Gruppengrösse auf vier Personen aufgehoben, und Aktivitäten wie Billard oder Live-Musik sind wieder möglich. Die Betriebe sollen die Nachverfolgung von Kontakten sicherstellen, bei Gruppen von mehr als vier Personen sind sie verpflichtet, die Kontaktdaten eines Gastes pro Tisch aufzunehmen. Die Konsumation erfolgt weiterhin ausschliesslich sitzend. Alle Lokale müssen um Mitternacht schliessen. Dies gilt auch für Discos und Nachtclubs. Sie müssen zudem Präsenzlisten führen und pro Abend sind nicht mehr als 300 Eintritte möglich. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Präsenzunterricht in den Mittel-, Berufs- und Hochschulen &lt;br /&gt;&lt;/strong&gt;Präsenzunterricht in Mittel-, Berufs- und Hochschulen (Sekundarstufe II, Tertiärstufe und Weiterbildung) ist ab dem 6. Juni 2020 wieder erlaubt. Wie der Unterricht vor Ort wieder aufgenommen wird, entscheiden die Kantone oder die Bildungsinstitutionen. Diese können den Unterricht flexibel gestalten und die Möglichkeiten von Fernunterricht weiter nutzen. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Empfehlungen zu Home-Office bleiben bestehen&lt;br /&gt;&lt;/strong&gt;Die Unternehmen haben eingehend Erfahrungen mit Home-Office gesammelt. Gestützt darauf, entscheiden sie selber über die Rückkehr an den Arbeitsplatz. Der Bundesrat empfiehlt weiterhin, wo möglich im Home-Office zu arbeiten, auch um Spitzenauslastungen im öffentlichen Verkehr zu vermeiden. Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmern bleiben geschützt. Der Arbeitgeber bleibt in der Pflicht, besonders gefährdete Personen von zu Hause aus arbeiten zu lassen. Ist die Präsenz vor Ort unabdingbar, muss er die betreffende Person schützen, indem er die Abläufe oder den Arbeitsplatz entsprechend anpasst. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ausserordentliche Lage endet am 19. Juni 2020&lt;br /&gt;&lt;/strong&gt;Der Bundesrat hat angesichts der epidemiologischen Entwicklung auch entschieden, die ausserordentliche Lage nach Epidemiengesetz per 19. Juni 2020 zu beenden. Ab dann gilt wieder die besondere Lage. Parallel dazu bereitet der Bundesrat die Überführung der relevanten Covid- Bestimmungen in ein dringliches und befristetes Covid-19-Gesetz vor, das voraussichtlich am 19. Juni 2020 in die Vernehmlassung geschickt werden soll. &lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Kommunikation +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201818">
+        <title>Faktenblatt</title>
+        <format>pdf</format>
+        <size-kb>164</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61489.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201821">
+        <title>Faktenblatt Monitoring der epidemiologischen Entwicklung</title>
+        <format>pdf</format>
+        <size-kb>381</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61581.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201824">
+        <title>FAQ Lockerungsschritte per 6.6.2020</title>
+        <format>pdf</format>
+        <size-kb>141</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61495.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201830">
+        <title>Neues Coronavirus: Lockerung der Massnahmen</title>
+        <format>pdf</format>
+        <size-kb>919</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61501.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201834">
+        <title>Tabelle Lockerung der Massnahmen und mögliche nächste Schritte</title>
+        <format>pdf</format>
+        <size-kb>187</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61505.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral décide un large assouplissement pour le 6 juin</title>
+      <lead>À compter du 6 juin 2020, les mesures de lutte contre le coronavirus seront largement assouplies. Le Conseil fédéral a pris cette décision lors de sa séance du 27 mai 2020 en se fondant sur l’évolution épidémiologique positive. Il est à nouveau possible d’organiser des manifestations réunissant jusqu’à 300 personnes. Quant aux rassemblements spontanés, ils sont aussi à nouveau autorisés jusqu’à 30 personnes. Les établissements de loisirs et les autres attractions touristiques peuvent rouvrir leurs portes. Le Conseil fédéral a également décidé de ne plus considérer la situation comme extraordinaire au sens de la loi sur les épidémies à compter du 19 juin 2020.</lead>
+      <text link="no">&lt;p&gt;Le Conseil fédéral avait déjà assoupli les mesures prises pour protéger la population contre le coronavirus les 27 avril et 11 mai 2020. Ces deux étapes n'ont pas entraîné de hausse des indicateurs épidémiologiques : ces dernières semaines, le nombre des nouvelles infections est resté stable et à un bas niveau, de même que le nombre des hospitalisations et des décès. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Le traçage des contacts rapprochés doit être garanti&lt;br /&gt;&lt;/strong&gt;Fort de ce constat, le Conseil fédéral décide un large assouplissement des mesures à compter du 6 juin 2020. À une condition : des plans de protection doivent être appliqués pour tous les établissements et manifestations concernés. Les règles d'hygiène et de distance restent impératives. Si les règles de distance ne peuvent pas être respectées, il faut garantir la possibilité de retracer les contacts personnels rapprochés en cas d'infection, par exemple en établissant des listes de présence. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interdiction de rassemblement : 30 au lieu de 5 personnes&lt;br /&gt;&lt;/strong&gt;L'interdiction de rassemblement dans l'espace public, notamment sur les places publiques, les chemins ou dans les parcs est assouplie : dès le 30 mai 2020, la limite passe de 5 à 30 personnes. &lt;/p&gt;&lt;p&gt;Les récoltes de signatures dans l'espace public seront elles de nouveau possibles à partir du 1er juin, moyennant la mise en œuvre d'un plan de protection. À noter qu'un plan de protection standard est à la disposition des comités d'initiative et de référendum. La suspension des délais applicables aux initiatives populaires fédérales et aux demandes de référendum au niveau fédéral s'étend jusqu'à la fin du mois de mai. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Les manifestations jusqu'à 300 personnes sont autorisées&lt;br /&gt;&lt;/strong&gt;Dès le 6 juin, les manifestations privées et publiques réunissant jusqu'à 300 personnes sont à nouveau autorisées. Cela concerne les réunions familiales, les salons, les concerts, les représentations théâtrales ou encore les séances de cinéma, mais aussi les rassemblements politiques et de la société civile. &lt;/p&gt;&lt;p&gt;Le 24 juin, le Conseil fédéral décidera ce qu'il en est des manifestations réunissant jusqu'à 1000 personnes et d'autres assouplissements possibles. Quant aux manifestations de plus de 1000 personnes, elles restent interdites jusqu'au 31 août 2020. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Les compétitions sportives en présence de spectateurs sont de nouveau possibles&lt;br /&gt;&lt;/strong&gt;Les mêmes règles s'appliquent aux événements sportifs. Pour les sports impliquant un contact physique étroit et constant, comme la lutte, le judo, la boxe ou la danse de salon, les compétitions devraient rester interdites jusqu'au 6 juillet 2020. Pour leur part, les entraînements sont de nouveau autorisés à partir du 6 juin, sans restriction relative à la taille des groupes, y compris pour les sports qui supposent un contact rapproché. Toutefois, pour ces sports-là, les entraînements doivent avoir lieu dans des équipes fixes et la liste des personnes présentes doit être dressée. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Les camps de vacances pour la jeunesse sont possibles&lt;br /&gt;&lt;/strong&gt;En été, de nombreux camps réunissent des enfants et des jeunes et de nombreuses communes proposent des structures de jour pendant les vacances. Il sera possible d'organiser ces offres à partir du 6 juin moyennant l'application de plans de protection. Les enfants et les jeunes devront autant que possible rester dans les mêmes groupes. Les camps sont limités à 300 participants et des listes de présence doivent être établies. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Remontées mécaniques, campings, zoos et piscines peuvent rouvrir&lt;br /&gt;&lt;/strong&gt;Le 6 juin, les remontées mécaniques, les campings et les attractions touristiques telles que pistes de luges d'été ou parcs d'accrobranche pourront rouvrir. Les règles d'hygiène et de distance des transports publics s'appliquent aux remontées mécaniques. Tous les établissements de divertissement et de loisirs tels que casinos, parcs de loisirs, zoos et jardins botaniques peuvent à nouveau accueillir du monde, tout comme les piscines et les centres de bien-être. À partir du 6 juin, les salons érotiques pourront également reprendre leurs activités et les services de prostitution être proposés. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Établissements de restauration : de plus grands groupes sont autorisés&lt;br /&gt;&lt;/strong&gt;À partir du 6 juin, la limitation des groupes à quatre personnes dans les restaurants sera levée et les activités telles que billard et autres animations musicales seront de nouveau possibles. Les établissements devront garantir la possibilité de retracer les contacts en collectant les données d'un client par table pour chaque groupe de plus de quatre personnes. Les consommations et les repas continueront à être exclusivement pris à table. Les restaurants doivent fermer à minuit, tout comme les discothèques ou les boîtes de nuit, qui doivent en outre tenir des listes de présence et ne pas admettre plus de 300 personnes par soirée. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;L'enseignement présentiel est de nouveau possible dans les écoles du secondaire II, les écoles professionnelles et les hautes écoles &lt;br /&gt;&lt;/strong&gt;L'enseignement en classe dans l'enseignement secondaire, professionnel et supérieur (secondaire II, tertiaire et formation continue) sera de nouveau autorisé à partir du 6 juin 2020. Il appartient aux cantons ou aux établissements d'enseignement de fixer les modalités de l'enseignement présentiel. Ils peuvent organiser l'enseignement de manière flexible et continuer à exploiter l'enseignement à distance. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Les recommandations relatives au télétravail sont maintenues&lt;br /&gt;&lt;/strong&gt;Les entreprises ont désormais une vaste expérience du télétravail, sur la base de laquelle elles peuvent décider librement du retour de leurs employés sur le lieu de travail. Le Conseil fédéral continue à recommander le travail à domicile dans la mesure du possible, notamment pour éviter de surcharger les transports publics aux heures de pointe. Les personnes vulnérables restent protégées : leur employeur est toujours tenu de les laisser travailler à la maison. Si leur présence au travail est indispensable, il incombe à l'employeur de les protéger en procédant aux adaptations appropriées des processus ou du lieu de travail. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;La situation ne sera plus considérée comme extraordinaire à compter du 19 juin 2020&lt;br /&gt;&lt;/strong&gt;Compte tenu de l'évolution épidémiologique, le Conseil fédéral a également décidé de ne plus considérer la situation comme extraordinaire au&lt;br /&gt;sens de la loi sur les épidémies à compter du 19 juin 2020. À partir de ce moment, la situation sera de nouveau considérée comme particulière. En parallèle, le Conseil fédéral prépare le transfert des dispositions d'ordonnance qu'il a édictées pour lutter contre le coronavirus dans une loi&lt;br /&gt;urgente et de durée déterminée, dont le projet devrait être mis en consultation le 19 juin 2020. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Médias et communication +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201819">
+        <title>Fiche d’information</title>
+        <format>pdf</format>
+        <size-kb>162</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61490.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201822">
+        <title>Fiche d’information monitorage de l’évolution épidémiologique</title>
+        <format>pdf</format>
+        <size-kb>469</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61582.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201825">
+        <title>FAQ : assouplissements à partir du 6.6.2020</title>
+        <format>pdf</format>
+        <size-kb>138</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61496.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201831">
+        <title>Nouveau coronavirus : assouplissement des mesures</title>
+        <format>pdf</format>
+        <size-kb>925</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61524.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201835">
+        <title>Tableau assouplissement des mesures et prochaines étapes possibles</title>
+        <format>pdf</format>
+        <size-kb>204</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61506.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale decide ampi allentamenti dal 6 giugno</title>
+      <lead>Il 6 giugno 2020 saranno allentati in ampia misura i provvedimenti adottati per combattere il nuovo coronavirus. È quanto ha deciso il Consiglio federale nella seduta del 27 maggio 2020, visto l’andamento positivo dell’epidemia. Potranno nuovamente essere svolte manifestazioni con fino a 300 persone. Saranno ammessi gli assembramenti spontanei di non più di 30 persone e potranno riaprire tutte le strutture per il tempo libero e turistiche. Il Consiglio federale ha inoltre deciso di revocare il 19 giugno 2020 la situazione straordinaria ai sensi della legge sulle epidemie.</lead>
+      <text link="no">&lt;p&gt;Dopo le decisioni prese dal Consiglio federale di allentare dapprima il 27 aprile e in seguito l'11 maggio una parte dei provvedimenti adottati per proteggere la popolazione dalla COVID-19, non è stato registrato alcun aumento degli indicatori epidemiologici. Da diverse settimane il numero delle nuove infezioni, come pure quello dei ricoveri in ospedale e dei decessi si sono stabilizzati a un livello molto basso. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Deve essere garantito il tracciamento dei contatti stretti&lt;br /&gt;&lt;/strong&gt;Per questo motivo il Consiglio federale ha deciso di allentare in ampia misura il 6 giugno le restrizioni ancora in vigore. La condizione per la riapertura è che siano disponibili piani di protezione per tutte le strutture e manifestazioni. Dovranno inoltre continuare a essere rispettate le regole d'igiene e di distanziamento sociale. Se non è possibile mantenere le distanze, dovrà essere garantito il tracciamento dei contatti stretti, per esempio mediante un elenco delle presenze.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Divieto di assembramento: 30 persone invece di 5&lt;br /&gt;&lt;/strong&gt;Il divieto di assembramento nei luoghi pubblici, sui sentieri e nei parchi è allentato: dal 30 maggio 2020 il numero massimo di persone consentito passerà da 5 a 30.&lt;br /&gt;&lt;br /&gt;La raccolta di firme nello spazio pubblico sarà ammessa già dal 1° giugno, a condizione che sia rispettato il pertinente piano di protezione. Ai comitati degli iniziativisti e referendisti è messo a disposizione un piano standard. La sospensione dei termini per le domande di referendum e le iniziative popolari federali vige ancora fino alla fine di maggio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Consentite le manifestazioni con fino a 300 persone&lt;br /&gt;&lt;/strong&gt;Dal 6 giugno saranno nuovamente ammesse le manifestazioni pubbliche e private con fino a 300 persone. Tra queste rientrano per esempio gli eventi familiari, le fiere, i concerti, le rappresentazioni teatrali e le proiezioni di film, come pure le manifestazioni politiche e della società civile.&lt;/p&gt;&lt;p&gt;Il Consiglio federale deciderà il 24 giugno 2020 in merito alle manifestazioni con più di 1000 persone e a ulteriori allentamenti. Le grandi manifestazioni con più di 1000 persone restano vietate sino al 31 agosto 2020.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nuovamente consentite le competizioni sportive in presenza di pubblico&lt;br /&gt;&lt;/strong&gt;Per le manifestazioni sportive valgono le stesse regole come per tutte le altre manifestazioni. Le competizioni di discipline sportive che comportano un contatto fisico stretto e costante, come la lotta svizzera, il judo, il pugilato o la danza sportiva di coppia, restano vietate probabilmente fino al 6 luglio 2020. Gli allenamenti saranno nuovamente consentiti per tutte le discipline sportive, senza limitazioni relative alle dimensioni dei gruppi, dal prossimo 6 giugno. Questo allentamento riguarda anche le attività sportive che prevedono un contatto fisico stretto tra i partecipanti: in tal caso gli allenamenti dovranno svolgersi in squadre a composizione stabile e andrà tenuto un elenco delle presenze.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Consentiti i campi di vacanze per bambini e adolescenti&lt;br /&gt;&lt;/strong&gt;L'estate è solitamente la stagione dei campi di vacanze per bambini e adolescenti e numerosi Comuni predispongono strutture diurne durante le ferie scolastiche. Dal 6 giugno queste attività saranno nuovamente consentite, a condizione che vi sia un piano di protezione e che i bambini e gli adolescenti trascorrano le giornate nel limite del possibile in gruppi a composizione stabile. I campi di vacanze potranno accogliere al massimo 300 partecipanti e gli organizzatori dovranno tenere un elenco delle presenze. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Riapertura degli impianti turistici, dei campeggi, dei giardini zoologici e delle piscine&lt;br /&gt;&lt;/strong&gt;Il prossimo 6 giugno potranno riaprire gli impianti di risalita, i campeggi e le strutture turistiche come le piste da slittino estive o i parchi avventura. Negli impianti di risalita dovranno essere rispettate le regole d'igiene e di distanziamento sociale che valgono anche sui trasporti pubblici. Potranno riaprire i battenti anche tutte le strutture ricreative e per il tempo libero, quali le case da gioco, i parchi di divertimento, i giardini zoologici e botanici, comprese le piscine e i centri benessere. Sempre dal 6 giugno, infine, saranno nuovamente consentite le attività nei locali erotici e le offerte della prostituzione.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Strutture di ristorazione: consentito accogliere gruppi numerosi&lt;br /&gt;&lt;/strong&gt;Il 6 giugno sarà abrogato il divieto di accogliere gruppi di più di quattro persone e saranno di nuovo permesse attività come il biliardo o la musica dal vivo. Le strutture dovranno garantire la ricostruzione dei contatti: per ogni gruppo di più di quattro persone che accoglieranno dovranno annotare i dati di contatto di un suo componente. Le ordinazioni dovranno essere consumate ancora esclusivamente stando seduti. Tutti i locali dovranno chiudere entro mezzanotte, anche le discoteche e i locali notturni, che dovranno inoltre tenere un elenco delle presenze e non potranno permettere più di 300 ingressi per sera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Insegnamento presenziale nelle scuole medie superiori, nelle scuole professionali e nelle scuole universitarie&lt;br /&gt;&lt;/strong&gt;Dal 6 giugno sarà di nuovo consentito l'insegnamento presenziale nelle scuole medie superiori, nelle scuole professionali e nelle scuole universitarie (livello secondario II, livello terziario e formazione continua). Le modalità della ripresa dell'insegnamento presenziale saranno definite dai Cantoni e dagli istituti di formazione, che saranno liberi di impostarlo come preferiranno e potranno continuare a prevedere lezioni a distanza. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Restano valide le raccomandazioni sul telelavoro&lt;br /&gt;&lt;/strong&gt;Le aziende hanno ormai maturato esperienze approfondite con il telelavoro. Sono quindi libere di decidere autonomamente sul ritorno al posto di lavoro dei propri dipendenti. Il Consiglio federale raccomanda però di ricorrere ancora, dove possibile, al telelavoro, anche per evitare di&lt;br /&gt;sovraccaricare i trasporti pubblici. I dipendenti particolarmente a rischio continuano a essere protetti. Il datore di lavoro resta tenuto a far lavorare da casa i dipendenti particolarmente a rischio. Se la presenza di un dipendente sul posto di lavoro è indispensabile, deve proteggerlo adeguando appropriatamente i processi o la postazione di lavoro. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;La situazione straordinaria terminerà il 19 giugno 2020&lt;br /&gt;&lt;/strong&gt;Considerata l'evoluzione epidemiologica, il Consiglio federale ha deciso di porre fine il 19 giugno 2020 alla situazione straordinaria ai sensi della legge sulle epidemie. Da allora varrà di nuovo la situazione particolare. Coerentemente con quanto deciso, il Consiglio federale prepara il trasferimento delle disposizioni rilevanti dell'ordinanza 2 COVID-19 in una legge COVID-19 urgente con validità limitata che sarà presumibilmente posta in consultazione il 19 giugno 2020. &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica, Comunicazione +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201820">
+        <title>Scheda informativa</title>
+        <format>pdf</format>
+        <size-kb>177</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61491.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201823">
+        <title>Scheda informativa monitoraggio dell’evoluzione epidemiologica</title>
+        <format>pdf</format>
+        <size-kb>461</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61583.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201826">
+        <title>Scheda informativa (Francese)</title>
+        <format>pdf</format>
+        <size-kb>138</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61497.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201832">
+        <title>Nuovo coronavirus: allentamento dei provvedimenti</title>
+        <format>pdf</format>
+        <size-kb>919</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61503.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201836">
+        <title>Tabella allentamento dei provvedimenti e possibili fasi successive</title>
+        <format>pdf</format>
+        <size-kb>202</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61507.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Federal Council decides on extensive easing of measures as of 6 June</title>
+      <lead>From 6 June, the measures put in place to fight the new coronavirus will be extensively eased. That is the decision taken by the Federal Council at its meeting on 27 May in view of the positive developments in the epidemiological situation. All events for up to 300 people may now go ahead. Spontaneous gatherings of up to 30 people are now permitted. All leisure and entertainment businesses and tourist attractions may reopen. The Federal Council has also decided to end the extraordinary situation under the terms of the Epidemics Act with effect from 19 June.</lead>
+      <text link="no">&lt;p&gt;The Federal Council began to ease measures to protect the population from COVID-19 on 27 April and 11 May. These two steps have had not resulted in an increase in epidemiological indicators. The number of new cases of infection has remained stable at a low level for a number of weeks now, as has the number of hospital admissions and deaths.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contact tracing must be assured&lt;br /&gt;&lt;/strong&gt;The Federal Council is therefore easing most of the remaining restrictions as of 6 June on condition that all establishments and events have&lt;br /&gt;appropriate sets of precautionary measures in place. Hygiene and social distancing rules must still be observed. If it is not possible to respect&lt;br /&gt;social distancing rules, contact tracing must be assured, by means of attendance lists, for example. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ban on gatherings: 30 people instead of 5&lt;br /&gt;&lt;/strong&gt;The ban on gatherings in public, in particular in public spaces, promenades and parks is to be eased. As of 30 May, the upper limit will be&lt;br /&gt;increased from 5 to 30 people.&lt;/p&gt;&lt;p&gt;The gathering of signatures in public will be allowed to resume from 1 June with a corresponding set of precautionary measures. A standard set of precautionary measures is available for initiative and referendum committees. Deadlines for submitting federal popular requests remain suspended until the end of May.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Events with up to 300 people allowed&lt;br /&gt;&lt;/strong&gt;From 6 June, private and public events with up to 300 people are to be allowed. This includes family events, fairs, concerts, theatre performances and film screenings, as well as political and civil society demonstrations.&lt;/p&gt;&lt;p&gt;The Federal Council will decide on events for up to 1000 people and the easing of further restrictions on 24 June. Large-scale events with more than 1000 people continue to be prohibited until 31 August.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Sports events allowed to resume&lt;br /&gt;&lt;/strong&gt;The same rules apply for sports events as for all other types of event. Competitions in sports involving continuous, close physical contact, such as Swiss-style wrestling, judo, boxing and dancing in pairs are likely to remain prohibited until 6 July. Training activities for all sports may resume without any restrictions on group sizes from 6 June. This also applies for sports activities involving close physical contact. Training sessions in these sports should be attended by regular teams and attendance lists kept.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Holiday camps for children and young people&lt;br /&gt;&lt;/strong&gt;Many camps are set to take place for children and young people during the summer months. And many local authorities also organise daylong programmes during the holidays. These activities will be allowed to go ahead from 6 June as long as appropriate sets of precautionary measures are in place. Children and young people should remain in the same groups wherever possible. The upper limit for camps is 300 people and organisers must keep an attendance list.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mountain rail and cableways, campsites, zoos and swimming pools to reopen&lt;br /&gt;&lt;/strong&gt;Mountain rail and cableways, campsites and tourist attractions such as toboggan runs and rope parks may reopen from 6 June. The same hygiene and social distancing rules apply in mountain rail and cableways as for public transport. All leisure and entertainment businesses such as casinos, amusement parks, zoos and botanic gardens may reopen, as can swimming pools and spas. From 6 June, strip clubs may also reopen and services offered by sex workers may resume.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Restaurants: larger groups allowed&lt;br /&gt;&lt;/strong&gt;As of 6 June, the limit on group sizes at restaurants to four people will be lifted, and activities such as playing pool or live music performances&lt;br /&gt;will once again be allowed. However, establishments should be able to ensure contact tracing; for groups of more than four people they are required to take the contact details of one guest per table. Customers may still only be served when seated. All establishments are required to close at midnight. This also applies to discos and nightclubs. They must also compile an attendance list and may not admit more than 300 people a night.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Classroom teaching at upper secondary and vocational schools and at higher education institutions&lt;br /&gt;&lt;/strong&gt;Classroom teaching at upper secondary and vocational schools and at higher education institutions will be able to resume from 8 June. Under what form the teaching resumes is a matter for the cantons or the educational institutions. Teaching can be organised in a flexible manner and they and the may continue to make use of distance-learning channels.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Recommendations on working from home remain in place&lt;br /&gt;&lt;/strong&gt;Businesses have gained a wealth of experience with regard to staff working from home. On that basis, they are free to decide on a return to the&lt;br /&gt;workplace. The Federal Council continues to recommend that people continue to work from home, not least to avoid overcrowding on public transport. Staff at especially high risk continue to enjoy protection. Employers are still required to allow people at high risk to work from home. If it is essential for someone to work on site, the employer must take steps to protect that person by adapting working processes or the workplace.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Extraordinary situation to end on 19 June&lt;br /&gt;&lt;/strong&gt;In view of the improved epidemiological situation, the Federal Council has also decided to downgrade the situation status under the terms of the Epidemics Act from ‘extraordinary' to ‘special' with effect from 19 June. In parallel to that, the Federal Council is preparing to transfer the relevant COVID provisions into an urgent and limited COVID-19 Act, which is expected to be submitted for consultation on 19 June.&lt;/p&gt;</text>
+      <contact>Federal Office of Public Health, Communication +41 58 462 95 05, media@bag.admin.ch</contact>
+      <attachment id="201827">
+        <title>Fiche d’information</title>
+        <format>pdf</format>
+        <size-kb>162</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61498.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201828">
+        <title>FAQ : assouplissements à partir du 6.6.2020</title>
+        <format>pdf</format>
+        <size-kb>138</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61499.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201829">
+        <title>Fiche d’information monitorage de l’évolution épidémiologique</title>
+        <format>pdf</format>
+        <size-kb>915</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61500.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201833">
+        <title>Nouveau coronavirus : assouplissement des mesures</title>
+        <format>pdf</format>
+        <size-kb>926</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61504.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="201837">
+        <title>Tableau assouplissement des mesures et prochaines étapes possibles</title>
+        <format>pdf</format>
+        <size-kb>204</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/61508.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

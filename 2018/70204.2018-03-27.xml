@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="70204" revoked="no">
+    <version>2</version>
+    <pubdate>2018-03-27</pubdate>
+    <blocking-period>2018-03-27</blocking-period>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1082" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Münzstätte Swissmint</name>
+      <name lang="fr">Monnaie fédérale Swissmint</name>
+      <name lang="it">Zecca federale Swissmint</name>
+      <name lang="en">Federal Mint Swissmint</name>
+      <www lang="de">http://www.swissmint.ch/</www>
+      <www lang="fr">https://www.swissmint.ch/swissmint/fr/home.html</www>
+      <www lang="it">https://www.swissmint.ch/swissmint/it/home.html</www>
+      <www lang="en">https://www.swissmint.ch/swissmint/en/home.html</www>
+      <email lang="de">info@swissmint.ch</email>
+      <email lang="fr">info@swissmint.ch</email>
+      <email lang="it"/>
+      <email lang="en">info@swissmint.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern, 27. März 2018</city>
+      <title>Swissmint gewinnt renommierten Münzpreis</title>
+      <lead>An der World Money Fair in Berlin Anfang Februar 2018 fand die traditionelle Verleihung der «Coin of the Year Awards» der Verlagsgruppe Krause Publications statt. Die Swissmint gewinnt den in der Münzenwelt angesehenen Preis in der Kategorie «Best Contemporary Event Coin».</lead>
+      <text link="no"> &lt;p&gt;Die Eidgenössische Münzstätte Swissmint wurde an der diesjährigen internationalen Münzenmesse World Money Fair in Berlin mit einem der begehrten «Coin of the Year Awards» (COTY) ausgezeichnet. Bei der prämierten Prägung handelt es sich um die 2016 erschienene und seit längerem ausverkaufte Silbermünze zur Eröffnung des Gotthardbasistunnels. Die futuristisch anmutende Prägung «Gottardo 2016», die Elemente der Tunnelarchitektur aufnimmt, wurde vom Grafiker Fredy Trümpi aus Binz entworfen. &lt;/p&gt; &lt;p&gt;Seit 1984 wird der von der amerikanischen Verlagsgruppe Krause Publications in Leben gerufene, jährlich stattfindende Münzwettbewerb «COTY-Award» durchgeführt. Er gilt als die weltweit bedeutendste Auszeichnung in der Münzindustrie. Entsprechend legen sich die Münzstätten ins Zeug und produzieren die verrücktesten Münzen, um einen der begehrten Preise in Form eines Obelisken zu gewinnen. Eine international besetzte Jury wählt aus den in zehn verschiedenen Kategorien eingereichten Münzbildern die Gewinner aus.&lt;/p&gt; </text>
+      <contact>Urs Liechti, Bernastrasse 28, 3003 Bern Tel. +41 58 465 12 95 Fax +41 58 462 60 07 urs.liechti@swissmint.ch www.swissmint.ch</contact>
+      <link id="176264">
+        <title>Medienmitteilung: Swissmint gewinnt renommierten Münzpreis</title>
+        <uri>http://www.swissmint.ch/d/aktuell/medien.php</uri>
+        <position>Context</position>
+      </link>
+      <link id="176265">
+        <title>Medienbilder zu Coin of the Year Award</title>
+        <uri>http://www.swissmint.ch/d/aktuell/medien/index.php</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2018-03-27 10:36" type="R"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+      <topic id="18">
+        <name lang="de">Kultur</name>
+        <name lang="fr">Culture</name>
+        <name lang="it">Cultura</name>
+        <name lang="en">Culture</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

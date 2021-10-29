@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="40836" revoked="no">
+    <version>1</version>
+    <pubdate>2011-08-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Technische Anpassung bei der Fingerabdruck-Erfassung für E-Pässe</title>
+      <lead>In der Schweiz wird die Erfassung von Fingerabdrücken bei E-Pässen analog zum Schengenraum angepasst. Der Bundesrat hat heute einer entsprechenden Änderung im Rahmen des Schengen-Assoziierungsabkommens mit der EU zugestimmt. Das Verschlüsselungsverfahren wird weiter verbessert. Zudem werden die Vorschriften zur Erfassung von Fingerabdrücken angepasst. Für die Bürgerinnen und Bürger der Schweiz haben die rein technischen Anpassungen keine Änderungen zur Folge.</lead>
+      <text link="no">&lt;p&gt;Die Anpassung legt fest, dass das heute verwendete Verschlüsselungsverfahren BAC (Basis Access Control), welches ein unbemerktes Auslesen der auf dem Pass gespeicherten Daten verhindert und die Datenübertragung zwischen Pass und Lesegerät verschlüsselt, bis Ende 2014 durch das neue Verfahren PACE v2 (Password Authenticated Connection Establishment) ergänzt werden muss. PACE v2 bietet einen weiter verbesserten Schutz durch die Verwendung eines aktualisierten Zugriffsverfahrens.&lt;/p&gt; &lt;p&gt;Zudem ändert auch das Verfahren bei der Erfassung der Fingerabdrücke. Wie bis anhin werden für E-Pässe weiterhin standardmässig die beiden Zeigefinger erfasst. Falls dies mangels Qualität des Abdruckes oder wegen Verletzungen des Fingers oder dem nicht Vorhandensein nicht möglich ist, werden alternativ der Mittelfinger, der Ringfinger oder der Daumen erfasst. Falls auch bei diesen Fingern keine ausreichende Qualität erreicht wird, wurden in der Schweiz bislang zwei Finger der zweiten Hand erfasst.&lt;/p&gt; &lt;p&gt;Mit der neuen Regelung wird weiterhin die Qualität der Fingerabdrücke überprüft. Gleichzeitig bleiben die Ersatzfinger bei mangelnder Qualität dieselben. Neu werden aber bei mangelhafter Qualität aller möglichen Finger einer Hand nicht wie bisher zwei Finger der zweiten Hand erfasst und auf dem Chip gespeichert, sondern es wird der erfasste Finger mit der besten Qualität gespeichert. Dies auch für den Fall, dass dieser die Mindestanforderungen nicht erfüllt. Somit wird neu in jedem Fall ein Finger pro Hand erfasst.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Keine Folgen für Schweizer Bürgerinnen und Bürger&lt;/b&gt;&lt;br /&gt; Die Anpassung für Sicherheitsmerkmale und biometrische Daten in Pässen und Reisedokumenten ist eine Weiterentwicklung des Schengen-Besitzstandes und beruht auf einem Beschluss der EU-Kommission. Für Schweizerinnen und Schweizer, die einen E-Pass beantragen, haben diese technischen Anpassungen keine Änderungen zur Folge. Sämtliche bereits ausgestellten E-Pässe bleiben gültig. Gleichzeitig können die&amp;nbsp; Anpassungen in der Schweiz ohne Änderung der formellgesetzlichen Grundlagen umgesetzt werden. Die technische Umsetzung muss gemäss Kommissionsbeschluss bis Ende 2014 erfolgen.&lt;/p&gt;</text>
+      <contact>Philipp Bättig, Fachbereich Weiterentwicklung Ausweise, + 41 31 322 42 47</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Passeport électronique: adaptation technique concernant la saisie des empreintes digitales</title>
+      <lead>En Suisse, la procédure de saisie des empreintes digitales pour les passeports électroniques sera modifiée, comme dans l’ensemble de l’espace Schengen. Le Conseil fédéral a approuvé aujourd’hui une modification en ce sens dans le cadre de l’Accord d’association à Schengen. Le processus de chiffrement sera encore amélioré. En outre, les prescriptions concernant la saisie des empreintes digitales seront adaptées. Pour les citoyens, ces adaptations de nature purement technique n’entraîneront aucun changement.</lead>
+      <text link="no">&lt;p&gt;Le processus de chiffrement utilisé aujourd'hui pour empêcher un tiers non autorisé de lire à l'insu du titulaire les données enregistrées dans un passeport, ainsi que pour assurer le cryptage de la transmission des données entre le passeport et l'appareil de lecture, est désignée par l'acronyme BAC (Basis Access Control). Il est prévu de la compléter, d'ici à la fin de l'année 2014, par le nouveau processus PACE v2 (Password Authenticated Connection Establishment). Le système PACE v2 offre une protection encore meilleure par le recours à une procédure d'accès mise à jour.&lt;/p&gt; &lt;p&gt;Par ailleurs, la procédure de saisie des empreintes digitales sera aussi modifiée. Comme jusqu'à présent, ce sont normalement les empreintes des deux index qui seront saisies. Si une empreinte est de mauvaise qualité, ou en cas de blessure ou d'absence d'un index, elle sera remplacée, comme c'est déjà le cas, par une empreinte du majeur, de l'annulaire ou du pouce. Si ces doigts ne permettent pas non plus d'obtenir une qualité suffisante, la Suisse utilise, actuellement, les empreintes de deux doigts de la même main.&lt;/p&gt; &lt;p&gt;Avec la nouvelle réglementation, la qualité des empreintes continuera d'être contrôlée et, en cas d'insuffisance, une empreinte du majeur, de l'annulaire ou du pouce remplacera celle de l'index. Ce qui est nouveau, c'est que si aucun des doigts d'une main ne donne de résultat satisfaisant, c'est tout de même la meilleure de ces empreintes qui sera enregistrée sur la puce du passeport, même si elle ne répond pas aux normes minimales, plutôt qu'une deuxième empreinte d'un doigt de l'autre main. Ainsi les passeports contiendront dans tous les cas l'empreinte d'un doigt de chaque main.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Pas de changement pour les citoyens&lt;/b&gt;&lt;br /&gt; L'adaptation des dispositifs de sécurité et des données biométriques des passeports et documents de voyage est un développement de l'acquis de Schengen et repose sur une décision de la Commission européenne. Pour les citoyens suisses qui souhaitent obtenir un passeport, ces adaptations techniques n'entraînent pas de changements. Tous les passeports électroniques déjà établis restent valables. Ces adaptations peuvent par ailleurs être mises en œuvre en Suisse sans passer par une modification des bases légales formelles. Selon la décision de la commission, la mise en œuvre technique doit être effective au plus tard à la fin de 2014.&lt;/p&gt;</text>
+      <contact>Philipp Bättig, Domaine Développement des documents d’identité, + 41 31 322 42 47</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Passaporti elettronici: adeguamenti tecnici per la registrazione delle impronte digitali</title>
+      <lead>In Svizzera la registrazione delle impronte digitali nei passaporti elettronici è modificata per adeguarla alle norme dello spazio Schengen. Oggi il Consiglio federale ha approvato gli adeguamenti che devono essere apportati all'Accordo di associazione alla normativa di Schengen concluso con l’UE. La procedura di cifratura è in costante sviluppo. Vengono inoltre adeguate le prescrizioni in materia di registrazione delle impronte digitali. Per i cittadini svizzeri questi adeguamenti di natura puramente tecnica non comportano alcun cambiamento.</lead>
+      <text link="no">&lt;p&gt;La modifica statuisce che la procedura di cifratura BAC (Basis Access Control), attualmente utilizzata per impedire la lettura non autorizzata dei dati registrati nel passaporto e per cifrare la trasmissione dei dati tra il passaporto e l'apparecchio di lettura, entro la fine del 2014 dovrà essere integrata dalla nuova procedura PACE v2 (Password Authenticated Connection Establishment). PACE v2 offre un grado di sicurezza ancora maggiore grazie all'uso di una procedura d'accesso più aggiornata.&lt;/p&gt; &lt;p&gt;Anche la procedura di registrazione delle impronte digitali è soggetta ad alcuni cambiamenti. Per i passaporti elettronici verranno, come finora, registrate sistematicamente le impronte dei due indici. Se la qualità dell'impronta digitale non è sufficiente, se manca un indice o se il polpastrello è ferito, in via sostitutiva è registrata l'impronta del dito medio, dell'anulare o del pollice. Se anche le impronte digitali sostitutive sono di scarsa qualità, in Svizzera finora venivano registrate due dita della seconda mano.&lt;/p&gt; &lt;p&gt;La qualità delle impronte digitali continuerà a essere controllata anche con la nuova norma. In caso di qualità insufficiente, le dita da utilizzare per le impronte sostitutive restano le medesime. Se le impronte di tutte le dita di una mano che si possono utilizzare per le impronte sono di scarsa qualità, in futuro sul microchip non saranno più registrate due impronte digitali della seconda mano, bensì l'impronta del dito con la migliore qualità, anche se non soddisfa i requisiti minimi. La novità consiste quindi nel fatto che verrà in ogni caso registrata un'impronta digitale per mano.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Nessun cambiamento per i cittadini svizzeri&lt;/b&gt;&lt;br /&gt; L'adeguamento delle caratteristiche di sicurezza e dei dati biometrici nei passaporti e nei documenti di viaggio costituisce uno sviluppo dell'acquis di Schengen e si basa su una decisione della Commissione europea. Per i cittadini svizzeri che chiedono il rilascio di un passaporto elettronico tali adeguamenti tecnici non comportano alcun cambiamento. Tutti i passaporti elettronici rilasciati finora restano validi fino alla loro data di scadenza. La Svizzera potrà inoltre trasporre gli adeguamenti necessari senza dover modificare le basi giuridiche formali. In virtù della decisione della Commissione europea gli adeguamenti tecnici dovranno essere trasposti entro la fine del 2014.&lt;/p&gt;</text>
+      <contact>Philipp Bättig, Settore Sviluppo documenti d'identità, + 41 31 322 42 47</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

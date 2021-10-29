@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="85168" revoked="no">
+    <version>5</version>
+    <pubdate>2021-09-17</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Neue Regeln bei der Einreise in die Schweiz sowie für den Zugang zum Covid-Zertifikat für im Ausland geimpfte Personen</title>
+      <lead>Der Bundesrat will eine Zunahme der Infektionszahlen durch Reiserückkehrende nach den Herbstferien verhindern. Ab Montag, 20. September 2021, müssen Personen, die nicht geimpft oder genesen sind, bei der Einreise einen negativen Test vorweisen. Nach vier bis sieben Tagen müssen sie sich nochmals testen lassen. Dies hat der Bundesrat an seiner Sitzung vom 17. September 2021 beschlossen. Der Bundesrat regelt zudem, wie Personen, ein Covid-Zertifikat erhalten können, die im Ausland geimpft wurden oder im Ausland genesen sind.</lead>
+      <text link="no"> &lt;p&gt;Im Hinblick auf die Herbstferien hat der Bundesrat neue grenzsanitarische Massnahmen beschlossen. Er reagiert damit auf Erfahrungen nach den Sommerferien. Die Daten der kantonalen Contact-Tracing-Stellen zeigen, dass auch Reiserückkehrende zur besorgniserregenden Situation in der Schweiz beigetragen haben. Die neuen Regeln tragen der Tatsache Rechnung, dass mit der hochansteckenden Delta-Variante die Zahlen regional sehr rasch steigen können. Deshalb ist für grenzsanitarische Massnahmen eine periodisch aktualisierte Liste mit Risikoländern nicht mehr sinnvoll.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Testpflicht bei der Einreise für Personen, die nicht geimpft oder genesen sind&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Alle Personen, die nicht geimpft oder genesen sind müssen bei der Einreise einen negativen Test (Antigen oder PCR) vorweisen, unabhängig davon, woher sie kommen und mit welchem Verkehrsmittel sie einreisen. Nach vier bis sieben Tagen in der Schweiz wird ein weiterer, in der Schweiz durchgeführter Test verlangt. Dieser Test ist kostenpflichtig. Das Resultat des zweiten Tests muss der zuständigen kantonalen Stelle übermittelt werden. Für geimpfte und genesene Personen mit einem Covid-Zertifikat oder einem anderen gültigen Nachweis einer Impfung oder Genesung gilt keine Testpflicht.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Formularpflicht für alle Einreisenden&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Alle Einreisenden – geimpfte, genesene und negativ getestete Personen – müssen zudem das Einreiseformular (Passenger Locator Form, SwissPLF) ausfüllen. Damit sind die Kantone in der Lage Stichproben durchzuführen, ob Personen, die nicht geimpft oder genesen und mit einem Test eingereist sind, nach vier bis sieben Tagen einen zweiten Test durchgeführt haben. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Keine Test- und Formularpflicht für Grenzgängerinnen und Grenzgänger &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Von der Test- und Formularpflicht ausgenommen sind Personen, die ohne Zwischenhalt durch die Schweiz reisen, wer beruflich Güter oder Personen befördert sowie Grenzgängerinnen und Grenzgänger und Personen, die aus Grenzgebieten einreisen. Damit trägt der Bundesrat auch dem engen wirtschaftlichen, gesellschaftlichen und kulturellen Austausch in den Grenzgebieten Rechnung. Von der Testpflicht ausgenommen sind zudem Kinder unter 16 Jahren.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Risikobasierte Kontrollen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Täglich passieren über 2 Millionen Menschen und 1 Millionen Fahrzeuge die Schweizer Grenzen. Risikobasierte Kontrollen sollen dazu führen, dass die neuen Regeln eingehalten werden. Personen, die bei der Einreise keinen Test vorweisen können, müssen diesen sofort nach der Einreise in die Schweiz nachholen. Die Kantone sind angehalten Stichproben durchzuführen, ob nicht-genesene und nicht-geimpfte Personen den zweiten Test auch wirklich gemacht haben. Bei Verstössen gegen diese Regeln können Ordnungsbussen (200 Franken für fehlende Testnachweise und 100 Franken für nicht ausgefüllte Formulare) verhängt werden. Die Fluggesellschaften und Busunternehmen im Fernverkehr müssen überprüfen, ob einreisende Personen über ein PLF sowie ein Covid-Zertifikat oder einen Testnachweis verfügen. Die Eidgenössische Zollverwaltung (EZV) und die örtlich zuständigen Polizeieinheiten führen in allen grenzüberschreitenden Verkehrsarten risikobasierte Kontrollen durch. In einigen Wochen wird der Bundesrat die Erfahrungen mit der Umsetzung der neuen Einreiseregeln auswerten und wenn nötig Anpassungen vornehmen.&lt;/p&gt;&lt;b&gt;Einreisebestimmungen: Anlehnung an Schengen-Raum&lt;/b&gt; &lt;p&gt;Die bestehenden Einreisebestimmungen bleiben unverändert. Das Staatssekretariat für Migration (SEM) führt weiterhin eine Risikoliste. Diese Liste regelt, wer in die Schweiz einreisen darf. Alle Staaten ausserhalb des Schengen-Raums, die nicht auf dieser Liste geführt sind, gelten weiterhin als Risikoländer, aus denen für die Einreise in die Schweiz für ungeimpfte Drittstaatsangehörige Beschränkungen gelten. Die Schweiz lehnt sich beim Erlass ihrer Einreisebestimmungen als Schengen-assoziierter Staat möglichst an die Entscheide der Europäischen Union an. Mittels des Online-Tools «Travelcheck» kann nachgeschaut werden, welche Personen aus welchen Ländern unter welchen Bedingungen in die Schweiz einreisen können.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Covid-Zertifikat für im Ausland geimpfte und genesene Personen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Ab dem 20. September können alle Personen, die mit einem von der European Medicines Agency (EMA) zugelassenen Impfstoff im Ausland geimpft sind und die in der Schweiz Wohnsitz haben oder in die Schweiz einreisen, ein Schweizer Covid-Zertifikat erlangen. Damit wird die Teilhabe am gesellschaftlichen Leben auch für Personen sichergestellt, die im Ausland geimpft wurden oder im Ausland genesen sind, etwa für Touristinnen und Touristen. Derzeit sind nur die Zertifikate der am EU Digital Covid Certificate angeschlossenen Länder mit dem Schweizer System kompatibel. &lt;/p&gt;&lt;p&gt;Die Unterlagen können elektronisch eingereicht werden. Jeder Kanton muss eine Kontaktstelle definieren, an die sich im Ausland geimpfte Personen wenden können. Sämtliche kantonalen Kontaktstellen werden auf einer Webseite des Bundes aufgeführt. Eine Arbeitsgruppe des Bundes (EDI, EDA, EFD) wird zusammen mit den Kantonen und weiteren Stellen (Datenschutz) die Umsetzung begleiten. Ziel ist eine möglichst effiziente, schlanke und kundenorientierte Lösung. In einer Übergangsphase bis am 10. Oktober 2021 sind für den Zugang zu zertifikatspflichten Einrichtungen oder Veranstaltungen alle ausländischen Impfnachweise für die von der EMA zugelassenen Impfstoffe gültig.&lt;/p&gt;&lt;p&gt;Wie im angrenzenden Ausland soll der Zugang zum Zertifikat nicht auf sämtliche WHO-Impfstoffe ausgedehnt werden. Ausgenommen sind rückkehrende Auslandschweizerinnen und Auslandschweizer, in der Schweiz berufstätige EU-Drittstaatsangehörige, Mitarbeitende von internationalen Organisationen und akkreditiertes diplomatisches Personal sowie Studentinnen und Studenten. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Resultate der Konsultation&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Bundesrat hatte zwei Varianten zur Anpassung der Einreisebestimmungen in Konsultation gegeben, eine mit doppelter Testpflicht und eine mit Quarantäne. Aufgrund der Konsultationsergebnisse hat sich der Bundesrat für die erste Variante entschieden. Sie wird als praxistauglicher beurteilt und dürfte für die Kantone mit weniger Aufwand verbunden sein. &lt;/p&gt; </text>
+      <contact>Bundesamt für Gesundheit Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92</contact>
+      <attachment id="221180">
+        <title>FAQ – Massnahmen für die Einreise in die Schweiz ab 20. September 2021</title>
+        <format>pdf</format>
+        <size-kb>105</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68266.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221183">
+        <title>Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs</title>
+        <format>pdf</format>
+        <size-kb>455</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68246.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221186">
+        <title>Covid-19-Verordnung Zertifikate</title>
+        <format>pdf</format>
+        <size-kb>401</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68249.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221189">
+        <title>Einreiseformular</title>
+        <uri>https://swissplf.admin.ch/formular</uri>
+        <position>Context</position>
+      </link>
+      <link id="221194">
+        <title>Risikoliste</title>
+        <uri>https://www.sem.admin.ch/sem/de/home/sem/aktuell/faq-einreiseverweigerung.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="221198">
+        <title>Travelcheck</title>
+        <uri>https://travelcheck.admin.ch/home</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-09-20 10:01" type="I"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : nouvelles dispositions réglant l’entrée en Suisse et l’accès au certificat COVID pour les personnes vaccinées à l’étranger</title>
+      <lead>Le Conseil fédéral entend prévenir une augmentation du nombre d’infections causées par des personnes de retour en Suisse après les vacances d’automne. Dès lundi 20 septembre 2021, les personnes non vaccinées ou non guéries devront présenter la preuve d’un test négatif à leur arrivée en Suisse. Quatre à sept jours après, elles devront se faire dépister de nouveau. Ainsi en a décidé le Conseil fédéral lors de sa séance du 17 septembre 2021. De même, il a édicté des dispositions concernant la manière dont les personnes ayant été vaccinées ou ayant guéri à l’étranger pourront obtenir un certificat COVID.</lead>
+      <text link="no"> &lt;p&gt;En vue des vacances d’automne, le Conseil fédéral a arrêté de nouvelles mesures sanitaires à la frontière. Il réagit ainsi aux expériences faites après les vacances d’été. Les données des services cantonaux de traçage des contacts indiquent en effet que les personnes de retour en Suisse sont elles aussi à l’origine de la situation préoccupante actuelle. Les nouvelles règles tiennent compte du fait qu’avec le variant Delta, très contagieux, les chiffres peuvent augmenter très rapidement au niveau régional. C’est pourquoi une liste périodiquement mise à jour des pays présentant un variant préoccupant n’est plus pertinente pour les mesures sanitaires aux frontières.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Test obligatoire à l’entrée pour les personnes non vaccinées ou non guéries&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Toutes les personnes non vaccinées ou non guéries doivent présenter un test négatif (antigénique ou PCR) à leur entrée en Suisse, quels que soient leur provenance et le moyen de transport utilisé. Après quatre à sept jours en Suisse, elles devront effectuer à leurs frais un deuxième test dont le résultat devra être transmis aux autorités cantonales compétentes. Les personnes vaccinées ou guéries disposant d’un certificat COVID ou d’une autre preuve valable de vaccination ou de guérison ne seront pas tenues de se faire dépister.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Formulaire obligatoire pour toute personne entrant en Suisse&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Toutes les personnes entrant en Suisse – vaccinées, guéries ou testées négatives – doivent par ailleurs remplir le formulaire d’entrée (&lt;i&gt;Passenger Locator Form&lt;/i&gt;, SwissPLF). Cela permettra aux cantons d’effectuer des contrôles aléatoires pour vérifier si les personnes non vaccinées ou non guéries ont effectué un nouveau test quatre à sept jours après leur arrivée. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Pas d’obligation de test et de formulaire pour les frontaliers &lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Les personnes qui traversent la Suisse sans faire de halte, celles qui, dans le cadre de leur activité professionnelle, transportent des voyageurs ou des biens en traversant la frontière, ainsi que les travailleurs frontaliers et les personnes en provenance de zones frontalières sont exemptés de l’obligation de présenter un test et un formulaire d’entrée. Le Conseil fédéral tient ainsi compte des échanges économiques, sociaux et culturels étroits qui caractérisent les régions frontalières. Les jeunes de moins de 16 ans sont dispensés de l’obligation de présenter un test.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Contrôles en fonction des risques&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Chaque jour, plus de 2 millions de personnes et 1 million de véhicules franchissent la frontière suisse. Des contrôles basés sur les risques doivent favoriser le respect des nouvelles règles. Les personnes qui ne sont pas en mesure de présenter le résultat d’un test à leur arrivée devront se faire tester immédiatement après. Les cantons sont tenus d’effectuer des contrôles aléatoires pour vérifier si les personnes non vaccinées ou non guéries se sont effectivement soumises à un deuxième test. Qui enfreindra ces règles encourra une amende d’ordre de 200 francs en cas d’entrée sans certificat de test et de 100 francs en cas de formulaire non rempli. Les compagnies aériennes et les entreprises de transport par autobus devront vérifier si les personnes entrant dans le pays ont un formulaire ainsi qu’un certificat COVID ou le résultat d’un test. Quel que soit le moyen de transport utilisé, ces contrôles basés sur les risques seront réalisés par l’Administration fédérale des douanes (AFD) et les unités de police compétentes sur le plan local. Dans quelques semaines, le Conseil fédéral évaluera les expériences faites avec la mise en œuvre des nouvelles règles d’entrée et fera des ajustements si nécessaire.&lt;/p&gt;&lt;b&gt;Dispositions relatives à l’entrée en Suisse : alignement sur l’espace Schengen&lt;/b&gt;&lt;b&gt;&lt;/b&gt; &lt;p&gt;Les dispositions actuelles réglant l’entrée en Suisse restent inchangées. Le Secrétariat d’État aux migrations (SEM) tient toujours une liste des pays à risque qui détermine qui peut entrer ou non sur le territoire suisse. Tous les pays ne faisant pas partie de l’espace Schengen qui ne figurent pas sur cette liste sont considérés comme des pays à risque en provenance desquels les ressortissants non vaccinés se voient appliquer des restrictions à l’entrée. Associée à l’espace Schengen, la Suisse fonde autant que possible ses règles en la matière sur les décisions de l’Union européenne. L’outil en ligne &lt;i&gt;Travelcheck&lt;/i&gt; permet de savoir quelles personnes de quels pays peuvent entrer en Suisse et à quelles conditions.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Certificat COVID pour les personnes vaccinées et guéries à l’étranger&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dès le 20 septembre, toute personne qui a été vaccinée à l’étranger avec un vaccin autorisé par l’Agence européenne des médicaments (EMA) et qui a son domicile en Suisse ou qui entre en Suisse pourra obtenir un certificat COVID suisse. Cela garantira aux personnes vaccinées ou guéries à l’étranger, comme les touristes, la possibilité de participer à la vie sociale. Actuellement, seuls les certificats des pays affiliés au certificat COVID numérique de l’UE sont compatibles avec le système suisse. &lt;/p&gt;&lt;p&gt;Les documents peuvent être soumis par voie électronique. Chaque canton doit définir un service compétent auquel les personnes vaccinées à l’étranger peuvent s’adresser. Tous ces services seront répertoriés sur un site web de la Confédération. Un groupe de travail de la Confédération (DFI, DFAE, DFF) accompagnera la mise en œuvre en collaboration avec les cantons et d’autres services (spécialisés dans la protection des données). Jusqu’au 10 octobre 2021, à titre transitoire, tous les certificats de vaccination étrangers pour les vaccins autorisés par l’EMA sont valables pour l’accès aux installations ou aux manifestations requérant un certificat.&lt;/p&gt;Comme dans les pays voisins, tous les vaccins reconnus par l’OMS ne donneront pas droit à un certificat COVID. Des exceptions sont prévues pour les Suisses de retour de l’étranger, les ressortissants de pays tiers de l’UE travaillant en Suisse, les employés d’organisations internationales, le personnel diplomatique accrédité ainsi que les étudiants. &lt;p&gt;&lt;b&gt;Résultats de la consultation&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le Conseil fédéral avait mis en consultation deux variantes pour modifier les dispositions réglant l’entrée en Suisse, l’une prévoyant l’obligation d’un deuxième test, l’autre une quarantaine. Vu les résultats de la consultation, le Conseil fédéral s’est prononcé en faveur de la première variante. Elle est jugée plus praticable et devrait nécessiter moins de travail pour les cantons. &lt;/p&gt; </text>
+      <contact>Office fédéral de la santé publique Infoline coronavirus +41 58 463 00 00 Infoline vaccination COVID-19 +41 58 377 88 92</contact>
+      <attachment id="221181">
+        <title>FAQ – Mesures pour les personnes qui entrent en Suisse à partir</title>
+        <format>pdf</format>
+        <size-kb>104</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68267.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221184">
+        <title>Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs</title>
+        <format>pdf</format>
+        <size-kb>466</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68247.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221187">
+        <title>Ordonnance COVID-19 certificats</title>
+        <format>pdf</format>
+        <size-kb>539</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68250.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221190">
+        <title>Formulaire d’entrée</title>
+        <uri>https://swissplf.admin.ch/formular</uri>
+        <position>Context</position>
+      </link>
+      <link id="221195">
+        <title>Liste des pays à risque</title>
+        <uri>https://www.sem.admin.ch/sem/fr/home/sem/aktuell/faq-einreiseverweigerung.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="221197">
+        <title>Travelcheck</title>
+        <uri>https://travelcheck.admin.ch/home</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-09-20 10:01" type="I"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: nuove regole per l’entrata in Svizzera e per il rilascio del certificato COVID alle persone vaccinate all’estero</title>
+      <lead>Il Consiglio federale vuole prevenire un aumento delle infezioni dovuto al rientro dalle vacanze autunnali e ha pertanto deciso nella sua seduta del 17 settembre 2021 che da lunedì 20 settembre 2021 le persone non vaccinate o non guarite dovranno presentare un test negativo all’entrata in Svizzera. Tra il quarto e il settimo giorno dopo l’arrivo dovranno sottoporsi a un secondo test. Il Consiglio federale ha inoltre definito le modalità per il rilascio del certificato COVID alle persone vaccinate o guarite all’estero.</lead>
+      <text link="no"> &lt;p&gt;In vista delle vacanze autunnali e sulla scorta delle esperienze fatte dopo le vacanze estive, il Consiglio federale ha deciso nuovi provvedimenti sanitari di frontiera. I dati dei servizi cantonali di tracciamento dei contatti evidenziano infatti che anche le persone rientrate dopo le vacanze hanno contribuito al preoccupante peggioramento della situazione in Svizzera. Le nuove regole tengono conto del fatto che con la variante Delta, altamente contagiosa, i numeri possono aumentare molto rapidamente in singole regioni. Pertanto, un elenco aggiornato periodicamente dei Paesi a rischio non si presta più per i provvedimenti sanitari di frontiera.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Obbligo del test per le persone non vaccinate o non guarite all’entrata in Svizzera&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Chi non è vaccinato o non è guarito dovrà presentare un test negativo (antigenico o PCR) all’entrata in Svizzera, indipendentemente dal Paese da cui proviene e dal mezzo di trasporto usato. Tra il quarto e il settimo giorno dopo l’arrivo in Svizzera dovrà sottoporsi a un secondo test. Questo test sarà a pagamento e il suo risultato dovrà essere trasmesso al servizio cantonale competente. Le persone vaccinate o guarite in possesso di un certificato COVID o di un altro documento che attesti l’avvenuta vaccinazione o guarigione sono esentate dal test.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Obbligo di compilare il modulo di entrata&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Tutte le persone che entrano in Svizzera, siano esse vaccinate, guarite o risultate negative a un test, dovranno inoltre compilare il modulo di entrata (Passenger Locator Form, SwissPLF). Questo permetterà ai Cantoni di effettuare controlli a campione per verificare se le persone non vaccinate o non guarite che hanno presentato un test negativo all’entrata in Svizzera si sono sottoposte al secondo test tra il quarto e il settimo giorno dopo l’arrivo. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Test e modulo non obbligatori per i frontalieri&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Sono esentati dall’obbligo di sottoporsi al test e di compilare il modulo di entrata le persone che transitano attraverso la Svizzera senza fermarsi, chi trasporta merci o persone a titolo professionale, i frontalieri e le persone provenienti da una regione di confine. In questo modo il Consiglio federale intende tener conto degli stretti rapporti commerciali, sociali e culturali in queste zone. Non sono inoltre soggetti all’obbligo del test i minori di 16 anni.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Controlli in funzione dei rischi&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Ogni giorno oltre due milioni di persone e più di un milione di veicoli attraversano le frontiere svizzere. A garanzia dell’osservanza delle nuove regole saranno eseguiti controlli in funzione dei rischi. Chi in dogana non potrà presentare un test negativo dovrà sottoporsi al test immediatamente dopo l’entrata in Svizzera. I Cantoni saranno tenuti a verificare con controlli a campione se le persone non guarite o non vaccinate si siano sottoposte al secondo test. In caso di violazione delle regole potranno essere inflitte multe disciplinari (200 franchi per chi non presenta un certificato di test e 100 franchi per chi non ha compilato il modulo). Le compagnie aeree e le imprese di autolinee a lunga percorrenza dovranno verificare se le persone in entrata abbiano compilato il PLF e dispongano di un certificato COVID o di un certificato di test. L’Amministrazione federale delle dogane e le competenti unità di polizia locali svolgeranno controlli in funzione dei rischi per tutti i generi di traffico transfrontaliero. Tra qualche settimana, il Consiglio federale valuterà le esperienze maturate con l’attuazione delle nuove regole e se necessario le adeguerà.&lt;/p&gt;&lt;b&gt;Disposizioni d’entrata: allineamento allo spazio Schengen&lt;/b&gt; &lt;p&gt;Le disposizioni d’entrata vigenti restano immutate. La Segreteria di Stato della migrazione continua a tenere un elenco dei Paesi a rischio che stabilisce chi può entrare in Svizzera. Tutti gli Stati al di fuori dello spazio Schengen che non figurano sull’elenco continuano a essere considerati a rischio. Ai cittadini di Paesi terzi non vaccinati provenienti da questi Stati si applicheranno dunque ancora le restrizioni vigenti. Quale Stato associato a Schengen, la Svizzera emana le sue disposizioni d’entrata attenendosi per quanto possibile alle decisioni dell’Unione europea. Mediante lo strumento online «Travelcheck» si può verificare quali persone in provenienza da quali Paesi e a quali condizioni possono entrare in Svizzera.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Certificato COVID per persone vaccinate o guarite all’estero&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dal 20 settembre tutte le persone domiciliate o che entrano in Svizzera vaccinate all’estero con un vaccino omologato dall’Agenzia europea per i medicinali potranno richiedere un certificato COVID svizzero. In questo modo si intende garantire la partecipazione alla vita sociale anche alle persone vaccinate o guarite all’estero, per esempio i turisti. Al momento soltanto i certificati dei Paesi che fanno uso del certificato COVID digitale dell’UE sono compatibili con il sistema svizzero. &lt;/p&gt;&lt;p&gt;I documenti potranno essere inviati elettronicamente. Ogni Cantone dovrà definire un organo di contatto cui potranno rivolgersi le persone vaccinate all’estero. Tutti gli organi di contatto cantonali saranno elencati su un sito della Confederazione. Un gruppo di lavoro della Confederazione, in cui saranno rappresentati i dipartimenti federali dell’interno, degli affari esteri e delle finanze, seguirà l’attuazione insieme ai Cantoni e ad altri organi (protezione dei dati). L’obiettivo è una soluzione efficiente, snella e attenta alle esigenze dei clienti. In una fase transitoria che durerà fino al 10 ottobre 2021, per l’accesso a strutture o manifestazioni per le quali vige l’obbligo del certificato saranno riconosciuti tutti i certificati di vaccinazione esteri per i vaccini omologati dall’Agenzia europea per i medicinali.&lt;/p&gt;&lt;p&gt;Come nei Paesi limitrofi, l’accesso al certificato non sarà esteso a tutti i vaccini riconosciuti dall’Organizzazione mondiale della sanità. Fanno eccezione gli svizzeri all’estero di ritorno, i cittadini di Stati terzi residenti nell’UE che lavorano in Svizzera, i collaboratori di organizzazioni internazionali, il personale diplomatico accreditato e gli studenti.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Risultati della consultazione&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il Consiglio federale aveva posto in consultazione due varianti di adeguamento delle disposizioni d’entrata: una prevedeva l’obbligo di sottoporsi a un secondo test, l’altra l’obbligo di quarantena. Considerati i risultati della consultazione si è optato per la prima variante, ritenuta più praticabile e meno onerosa per i Cantoni. &lt;/p&gt; </text>
+      <contact>Ufficio federale della sanità pubblica UFSP Infoline coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92</contact>
+      <attachment id="221182">
+        <title>FAQ – Provvedimenti per l’entrata in Svizzera a partire dal 20 settembre 2021</title>
+        <format>pdf</format>
+        <size-kb>105</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68268.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221185">
+        <title>Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori</title>
+        <format>pdf</format>
+        <size-kb>454</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68248.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="221188">
+        <title>Ordinanza sui certificati COVID-19</title>
+        <format>pdf</format>
+        <size-kb>338</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68251.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="221191">
+        <title>Modulo di entrata</title>
+        <uri>https://swissplf.admin.ch/formular</uri>
+        <position>Context</position>
+      </link>
+      <link id="221196">
+        <title>Elenco dei Paesi a rischio</title>
+        <uri>https://www.sem.admin.ch/sem/it/home/sem/aktuell/faq-einreiseverweigerung.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="221199">
+        <title>Travelcheck</title>
+        <uri>https://travelcheck.admin.ch/home</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-09-20 10:01" type="I"/>
+        <revision date="2021-09-17 16:21" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: New rules for entry to Switzerland and for people vaccinated abroad to access the COVID certificate</title>
+      <lead>The Federal Council wants to prevent an increase in the number of infections caused by people returning from the autumn holidays. From Monday 20 September, travellers entering Switzerland who have not been vaccinated or have not recovered from COVID-19 will have to present a negative test result. They will then have to be tested again after four to seven days. This was decided by the Federal Council at its meeting on 17 September. The Federal Council has also set out details of how people who have been vaccinated abroad or have recovered abroad can obtain a COVID certificate.</lead>
+      <text link="no"> &lt;p&gt;With the autumn school holidays approaching, the Federal Council has decided on new public health requirements at the border. This comes in response to experience made after the summer holidays: data from the cantonal contact tracing offices indicates that returning holidaymakers contributed to the worsening situation after the summer. The new rules reflect the fact that the highly contagious Delta variant can cause case numbers to rise very rapidly on a regional basis. It has therefore been decided that keeping and updating a list of risk countries is no longer the most appropriate health protection measure at Switzerland’s borders.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Compulsory testing on entry for travellers who have not been vaccinated or have not recovered&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Anyone who has not been vaccinated or has not recovered must present a negative test result (antigen or PCR) on entry into Switzerland, irrespective of where they are travelling from or by which means of transport they are entering the country. After four to seven days in the country, another test must be carried out, subject to a fee. The result of the second test must be sent to the relevant cantonal office. Testing is not required for vaccinated or recovered travellers who can present a COVID certificate or other valid proof of vaccination or recovery.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Entry form required for everyone &lt;/b&gt;&lt;/p&gt; &lt;p&gt;All travellers entering Switzerland – whether vaccinated, recovered or with a negative test – must also complete the entry form (Passenger Locator Form, SwissPLF). This will enable the cantons to carry out random checks to determine whether people who have not been vaccinated or have not recovered and who entered the country with a test have actually taken the second test after four to seven days. &lt;/p&gt; &lt;p&gt;&lt;b&gt;No test or form requirement for cross-border commuters &lt;/b&gt;&lt;/p&gt; &lt;p&gt;The test and entry form requirements do not apply to travellers in transit through Switzerland without stopping, drivers who transport people or goods professionally, and cross-border commuters or people entering from border areas. The Federal Council is thus taking account of the close economic, social and cultural exchange in the border regions. Children under 16 are also exempt from the test requirement.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Risk-based inspections&lt;/b&gt;&lt;/p&gt; &lt;p&gt;More than two million people and one million vehicles cross Switzerland's borders every day. Risk-based inspections are to be carried out to ensure compliance with the new rules. Anyone required to present a negative test result and who cannot do so on entry must take a test immediately after entering Switzerland. The cantons are required to carry out random checks to ensure that incoming travellers who have not been vaccinated or have not recovered have actually taken the required second test. Fines may be imposed if these rules are breached (CHF 200 for missing test certificates and CHF 100 for incomplete forms). In international travel, the airlines and bus companies are responsible for ensuring that travellers to Switzerland have completed the Passenger Locator Form and can present a COVID certificate or a negative test result. The Federal Customs Administration and local police forces will carry out risk-based inspections on all modes of cross-border travel. In a few weeks, the Federal Council will evaluate the experience with the new entry rules and make adjustments if necessary. &lt;/p&gt;&lt;b&gt;Entry requirements: Alignment with Schengen Area&lt;/b&gt; &lt;p&gt;The existing entry regulations remain unchanged. The State Secretariat for Migration (SEM) continues to operate a list of high-risk countries, which is used to determine who may enter Switzerland. Any non-Schengen state not on this list is still considered a risk country for which restrictions on entry to Switzerland apply to unvaccinated third-country nationals. As a Schengen associated country, Switzerland aligns its entry regulations as far as possible with the decisions taken by the European Union. The Travelcheck online tool can be used to check the conditions for travellers wishing to enter Switzerland from specific countries.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Swiss COVID certificate for individuals vaccinated or recovered abroad&lt;/b&gt;&lt;/p&gt; &lt;p&gt;As of 20 September, anyone who has been vaccinated abroad with a vaccine approved by the European Medicines Agency (EMA) and who is resident in or travelling to Switzerland will be able to obtain a Swiss COVID certificate. This means that people who have been vaccinated abroad or have recovered abroad, such as tourists, can also participate in social activities here. Currently, only the certificates of countries using the EU Digital COVID Certificate are compatible with the Swiss system. &lt;/p&gt;&lt;p&gt;The documents can be submitted electronically. Each canton must designate a contact point for persons who have been vaccinated abroad. All cantonal contact points will be listed on a federal website. A federal working group (FDHA, FDFA, FDF) will oversee implementation together with the cantons and other agencies (data protection). The aim is to find a solution that is as efficient, straightforward and user-oriented as possible. In a transitional phase until 10 October 2021, all foreign vaccination certificates for EMA-approved vaccines will be valid for access to events or facilities requiring a COVID certificate.&lt;/p&gt;&lt;p&gt;As in neighbouring countries, access to the Swiss COVID certificate will not be extended to all WHO vaccines. Exceptions are being made for Swiss citizens living abroad returning to the country, non-EU citizens working in Switzerland, employees of international organisations and accredited diplomatic staff, as well as students.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Outcome of the consultation&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The Federal Council had consulted on two variants for adapting the entry regulations, one with a requirement to take two tests and one with mandatory quarantine. Based on the results of the consultation, the Federal Council decided in favour of the first variant, which was found to be more practicable and should involve less additional work for the cantons. &lt;/p&gt; </text>
+      <contact>Federal Office of Public Health Coronavirus Infoline +41 58 463 00 00 COVID-19 Vaccination Infoline +41 58 377 88 92</contact>
+      <link id="221192">
+        <title>Entry form</title>
+        <uri>https://swissplf.admin.ch/formular</uri>
+        <position>Context</position>
+      </link>
+      <link id="221193">
+        <title>List of high-risk countries</title>
+        <uri>https://www.sem.admin.ch/sem/en/home/sem/aktuell/faq-einreiseverweigerung.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="221200">
+        <title>Travelcheck</title>
+        <uri>https://travelcheck.admin.ch/home</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-09-20 10:01" type="I"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="335" org-id="606">
+        <name lang="de">Allgemeine Zoll-Neuigkeiten</name>
+        <name lang="fr">Nouveautés générales concernant l'administration des douanes</name>
+        <name lang="it">Novità generali sulla dogana</name>
+        <name lang="en">General customs news</name>
+      </offer>
+      <offer id="338" org-id="606">
+        <name lang="de">Verbote, Beschränkungen und Auflagen</name>
+        <name lang="fr">Interdictions, restrictions et conditions</name>
+        <name lang="it">Divieti, limitazioni e condizioni</name>
+        <name lang="en">Bans, restrictions and conditions</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="187" org-id="606">
+        <name lang="de">Zollinformationen für Privatpersonen</name>
+        <name lang="fr">Informations douanières pour les particuliers</name>
+        <name lang="it">Informazioni concernenti le dogane per i privati</name>
+        <name lang="en">Customs information for private individuals</name>
+      </keyword>
+      <keyword id="215" org-id="606">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douane</name>
+        <name lang="it">Dogana</name>
+        <name lang="en">Customs</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="80965" revoked="no">
+    <version>1</version>
+    <pubdate>2020-11-03</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Flugroboter im Wald - Umweltschäden mit Drohnen erkennen</title>
+      <lead>Das ökologische Gleichgewicht des Waldes im Auge zu behalten, ist nicht ganz einfach. Ein Forscherteam der Empa und des «Imperial College London» hat Drohnen entwickelt, die Bäume mit Sensoren ausrüsten, die Umweltschäden erkennen.</lead>
+      <text link="no">Klimawandel, Insektenplage oder Wildverbiss – der Wald ist einer Vielzahl von schädlichen Umwelteinflüssen ausgesetzt, die es zu beobachten gilt. Schon jetzt sind für diesen Zweck Sensoren in Wäldern stationiert, die Temperaturen, Luftqualität oder Feuchtigkeitsgehalt der Stämme messen. Mit derartigen Sensoren lässt sich zudem das Verhalten von Waldtieren verfolgen, Waldbrände und Schadinsektenbefall können registriert werden, und der Einfluss menschlicher Aktivitäten auf den Wald wird erkennbar. Allerdings ist das Positionieren von Sensoren an Bäumen ein aufwändiges und riskantes Unterfangen.&lt;br /&gt;&lt;b&gt;Flugroboter à la Robin Hood&lt;/b&gt;&lt;br /&gt;Ein Forscherteam des «Imperial College London» und der Empa hat nun Drohnen entwickelt, die diese Tätigkeit übernehmen und Sensoren an Bäumen selbst in grosser Höhe präzise befestigen können. «Die Flugroboter können mit Sensoren bestückte Pfeile selbst bei dichtem Waldbestand platzieren», sagt Mirko Kovac, Leiter des «Aerial Robotics Laboratory» am Imperial College und des «Materials and Technology Center of Robotics» an der Empa in Dübendorf. Ist die Flugbahn für den Pfeil ungeeignet, können die Drohnen zudem selbstständig an Stämmen und Ästen Halt finden, einem Greifvogel gleich, und die Sensoren direkt anbringen.&lt;br /&gt;&lt;b&gt;Smarte Materialien am Abzug&lt;/b&gt;&lt;br /&gt;Ziel der Forscher ist ein Netzwerk aus Sensoren aufzubauen, mit dem das empfindliche Ökosystem Wald besser beobachtet werden könnte. «Einen besonderen Vorteil bieten die Drohnen, wenn es um schwer zugängliche Regionen, etwa das Amazonasgebiet, geht», so der Forscher. «Mit Hilfe der Drohnen lassen sich grosse Mengen sehr präziser Daten von Umweltschäden im Wald gewinnen», erklärt Kovac. «Ich sehe die Drohnen als künstliche Waldbewohner, die den Lebensraum kontrollieren, damit wir ihn auf Basis der gewonnenen Daten besser schützen können.»&lt;br /&gt;&lt;b&gt;Unwägbarkeiten im Regenwald&lt;/b&gt;&lt;br /&gt;Für ihren Dienst im Wald sind die Drohnen mit einer Kamera ausgestattet und einer Startvorrichtung für die Sensorpfeile. Dank Shape-Memory-Metallen – «intelligente» Materialien, die auf Hitze reagieren und nach einer Verformung in ihre Ausgangsstruktur zurückfinden – lässt sich das Absetzen der Pfeile präzise steuern. Zusätzlich können die Drohnen als mobile Sensoren eingesetzt werden, und selbst Daten sammeln, wenn sie sich auf Ästen niederlassen. Bei Flugexperimenten in der Indoor-Flugarena im NEST experimental robot testing space der Empa in Dübendorf und dem Testgelände am Imperial College konnten die Forscher die Fähigkeiten der Drohnen bereits testen.&lt;br /&gt;Derzeit steuern Menschen die Drohnen. Über das Kamerabild wählen die Forscher die geeigneten Bäume als Ziel aus und schiessen die Pfeile ab. In einem nächsten Schritt sollen die Flugroboter schliesslich lernen, ihre Arbeit autonom auszuführen, damit sie auch an noch so abgelegenen Orten eingesetzt werden können. Bevor derartige Einsätze in der Natur stattfinden können, müsse jedoch die Verknüpfung von menschlicher Kontrolle und autonomer Roboterarbeit solide ausbalanciert sein, damit die Drohnen auch mit den Unwägbarkeiten einer lebenden Umwelt zurechtkämen, so die Forscher.&lt;br /&gt; Die Forschungsarbeiten werden unterstützt vom Engineering and Physical Sciences Research Council (EPSRC), Offshore Robotics for Certification of Assets Hub (ORCA), EU's Horizon 2020 und der britischen Akademie der Wissenschaften The Royal Society.</text>
+      <contact>Prof. Dr. Mirko Kovac (Empa) Materials and Technology Centre of Robotics Tel. +41 58 765 4689 mirko.kovac@empa.ch Aerial Robotics Lab (Imperial) Tel. +44 20 7594 5063 m.kovac@imperial.ac.uk</contact>
+      <attachment id="207138">
+        <title>Die Flugroboter können mit Sensoren bestückte Pfeile selbst bei dichtem Waldbestand platzieren. Foto: Imperial College London</title>
+        <format>jpg</format>
+        <size-kb>3047</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63569.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207141">
+        <title>So könnten Drohnen in den verschiedenen Schichten der Regenwaldvegetation arbeiten. Illustration: Imperial College London</title>
+        <format>jpg</format>
+        <size-kb>170</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63572.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="207143">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/drohnen-im-wald</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Des robots volants en forêt - Détecter les dommages environnementaux grâce à des drones</title>
+      <lead>Garder un œil sur l'équilibre écologique de la forêt n'est pas facile. Une équipe de recherche de l'Empa et de l'Imperial College de Londres a mis au point des drones qui équipent les arbres de capteurs permettant de détecter les dommages environnementaux.</lead>
+      <text link="no"> &lt;p&gt;Changement climatique, infestation d'insectes ou broutage du gibier - la forêt est exposée à un large éventail d'influences environnementales néfastes qui doivent être surveillées. À cette fin, des capteurs ont déjà été installés dans les forêts pour mesurer la température, la qualité de l'air ou la teneur en humidité des troncs. Ces capteurs peuvent également être utilisés pour surveiller le comportement des animaux forestiers, enregistrer les incendies de forêt et les infestations d'insectes, et identifier l'impact des activités humaines sur la forêt. Cependant, le positionnement des capteurs sur les arbres est un travail complexe et risquée.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; Des robots volants à la Robin des Bois&lt;p&gt;Une équipe de chercheurs de l'Imperial College de Londres et de l'Empa a maintenant développé des drones qui peuvent accomplir cette tâche et fixer avec précision des capteurs aux arbres, même à de grandes hauteurs. "Les robots volants peuvent placer des flèches équipées de capteurs même dans les forêts denses", explique Mirko Kovac, directeur du "Laboratoire de robotique aérienne" de l'Imperial College et du "Centre de robotique des matériaux et des technologies" de l'Empa à Dübendorf. Si la trajectoire ne convient pas à la flèche, les drones peuvent aussi se frayer un chemin autour des troncs et des branches, comme un oiseau de proie, et fixer directement les capteurs à l'endroit voulu.&lt;/p&gt; &lt;p&gt;L'objectif des chercheurs est de mettre en place un réseau de capteurs permettant de mieux observer l'écosystème forestier sensible. "Les drones offrent un avantage particulier dans les régions difficiles d'accès, comme l'Amazonie", explique le chercheur. "Avec l'aide des drones, on peut obtenir de grandes quantités de données très précises sur les dommages environnementaux dans la forêt", explique Mirko Kovac. "Je vois les drones comme des habitants artificiels de la forêt qui contrôlent l'habitat afin que nous puissions mieux le protéger sur la base des données obtenues."&lt;/p&gt;Des matériaux intelligents sur le déclencheur&lt;p&gt; &lt;/p&gt; &lt;p&gt;Pour leur service dans la forêt, les drones sont équipés d'une caméra et d'un dispositif de lancement de flèches contenant le capteur. Grâce aux métaux à mémoire de forme - des matériaux "intelligents" qui réagissent à la chaleur et retrouvent leur structure d'origine après déformation - le placement des flèches peut être contrôlé avec précision. De plus, les drones peuvent être utilisés comme capteurs mobiles et même collecter des données lorsqu'ils s'installent sur des branches. Les chercheurs ont déjà testé les capacités des drones lors d'expériences en vol dans une arène intérieure.&lt;/p&gt;&lt;p&gt;A l'heure actuelle, les humains contrôlent les drones. En utilisant l'image de la caméra, les chercheurs sélectionnent des arbres appropriés comme cibles et tirent les flèches. Dans une prochaine étape, les robots volants doivent apprendre à effectuer leur travail de manière autonome afin de pouvoir être utilisés même dans les endroits les plus reculés. Cependant, avant que de telles missions puissent avoir lieu dans la nature, la combinaison du contrôle humain et du travail autonome des robots doit être bien équilibrée afin que les drones puissent faire face aux impondérables d'un environnement vivant, affirment les chercheurs.&lt;/p&gt;&lt;p&gt; La recherche est soutenue par l'Engineering and Physical Sciences Research Council (EPSRC), Offshore Robotics for Certification of Assets Hub (ORCA), EU's Horizon 2020 et la British Academy of Sciences The Royal Society&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Prof. Dr. Mirko Kovac (Empa) Materials and Technology Centre of Robotics Tél. +41 58 765 4689 mirko.kovac@empa.ch Aerial Robotics Lab (Imperial) Tél. +44 20 7594 5063 m.kovac@imperial.ac.uk</contact>
+      <attachment id="207139">
+        <title>Les robots volants peuvent placer des flèches équipées de capteurs même dans les forêts denses. Image: Imperial College London</title>
+        <format>jpg</format>
+        <size-kb>3047</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63570.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="207143">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/drohnen-im-wald</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Forest dwelling drones- Drones to monitor ecological changes</title>
+      <lead>A team of researchers from Empa and Imperial College London developed drones that can attach sensors to trees to monitor environmental and ecological changes in forests.</lead>
+      <text link="no">Sensors for forest monitoring are already used to track changes in temperature, humidity and light, as well as the movements of animals and insects through their habitats. They also help to detect and monitor forest fires and can provide valuable data on how climate change and other human activities are affecting the natural world. Placing these sensors can, however, prove difficult in large, tall forests, and climbing trees to place them poses its own risks. Flying robots à la Robin Hood Now, a team of researchers from Empa and Imperial College London has developed drones that can shoot sensor-containing darts onto trees several meters away in cluttered environments like forests. The drones can also place sensors through contact or by perching on tree branches. The researchers hope the drones will be used in future to create networks of sensors to boost data on forest ecosystems and to track hard-to-navigate biomes like the Amazon rainforest. Unpredictable rainforest “Monitoring forest ecosystems can be difficult, but our drones could deploy whole networks of sensors to boost the amount and precision of environmental and ecological data", says lead researcher Mirko Kovac, head of the Materials and Technology Center of Robotics at Empa and the Aerial Robotics Lab at Imperial. "I like to think of them as artificial forest inhabitants who will soon watch over the ecosystem and provide the data we need to protect these ecosystems.” Smart materials on the trigger The drones are equipped with cameras to help identify suitable targets, and a smart material that changes shape when heated to launch the darts, which then stick to the trees. They can also perch on tree branches like birds to collect data themselves, acting as mobile sensors. The researchers have tested their drones at NEST experimental robot testing space at Empa and on trees at Imperial’s Silwood Park Campus. The research was funded by the Engineering and Physical Sciences Research Council (EPSRC), Offshore Robotics for Certification of Assets Hub (ORCA) EU's Horizon 2020 and United Kingdom's national academy of sciences The Royal Society.</text>
+      <contact>Prof. Dr. Mirko Kovac (Empa) Materials and Technology Centre of Robotics Tel. +41 58 765 4689 mirko.kovac@empa.ch Aerial Robotics Lab (Imperial) Tel. +44 20 7594 5063 m.kovac@imperial.ac.uk</contact>
+      <attachment id="207140">
+        <title>The flying robots can place arrows equipped with sensors even in dense forests. Image: Imperial College London</title>
+        <format>jpg</format>
+        <size-kb>3047</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63571.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="207142">
+        <title>This is how drones work in the different layers of the rainforest vegetation. Illustration: Imperial College London</title>
+        <format>jpg</format>
+        <size-kb>425</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/63573.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="207143">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/drohnen-im-wald</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

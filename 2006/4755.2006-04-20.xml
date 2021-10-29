@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4755" revoked="no">
+    <version>4</version>
+    <pubdate>2006-04-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="605" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Änderung des Doppelbesteuerungsabkommens zwischen der Schweiz und Finnland</title>
+      <lead>Ein Protokoll zur Änderung des Doppelbesteuerungsabkommens zwischen der Schweiz und der Republik Finnland vom 16. Dezember 1991 ist am 19. April 2006 in Helsinki unterzeichnet worden.</lead>
+      <text link="no">Mit dieser Änderung wird einerseits die Aufnahme einer gegenseitig formulierten Bestimmung zur vollständigen Entlastung der Dividenden aus wesentlichen Beteiligungen an Kapitalgesellschaften vereinbart, andererseits die Ausweitung des Informationsaustausches festgelegt. Neu ist Amtshilfe nach Artikel 26 auch für Steuerbetrug und im Falle von Holdinggesellschaften möglich. Die neu vereinbarte Amtshilfebestimmung ist damit mit derjenigen vergleichbar, wie sie mit Norwegen in Kraft ist. &lt;p&gt;Das Protokoll wird mit einer Botschaft des Bundesrates den eidgenössischen Räten unterbreitet werden und ist vor dem Inkrafttreten durch die zuständigen Instanzen beider Länder zu genehmigen.&lt;/p&gt;</text>
+      <contact>Silvia Frohofer, Abteilung für internationales Steuerrecht und Doppelbesteuerungssachen, Eidg. Steuerverwaltung, Tel.: 031 322 85 74.</contact>
+      <revisions>
+        <revision date="2006-04-20 14:15" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Modification de la convention de double imposition conclue entre la Suisse et la Finlande</title>
+      <lead>Un protocole modifiant la convention de double imposition conclue le 16 décembre 1991 entre la Suisse et la République Finlandaise a été signé à Helsinki le 19 avril 2006.</lead>
+      <text link="no">Cette modification porte, d’une part, sur l’adoption d’une disposition, formulée de manière réciproque, prévoyant le dégrèvement total de l’impôt à la source sur les dividendes provenant de participations importantes à des sociétés de capitaux et, d’autre part, sur l’élargissement de l’échange de renseignements. L’assistance administrative selon l’article 26 de la Convention sera désormais également possible en cas de fraude fiscale et pour les sociétés holding. La nouvelle disposition sur l’assistance administrative est comparable à celle en vigueur avec la Norvège. &lt;p&gt;Ce protocole sera présenté aux Chambres fédérales, accompagné d’un message du Conseil fédéral. Il devra encore être approuvé par les instances compétentes suisses et finnoises avant d’entrer en vigueur.&lt;/p&gt;</text>
+      <contact>Silvia Frohofer, Division des affaires de droit fiscal international et de double imposition, Administration fédérale des contributions, tél.: 031 322 85 74.</contact>
+      <revisions>
+        <revision date="2006-04-20 15:35" type="R"/>
+        <revision date="2006-04-20 14:15" type="R"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="9" org-id="605">
+        <name lang="de">Steuern allgemein</name>
+        <name lang="fr">Impôts en général</name>
+        <name lang="it">Imposte in generale</name>
+        <name lang="en">Taxes in general</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="137" org-id="605">
+        <name lang="de">Internationale Doppelbesteuerung</name>
+        <name lang="fr">Double imposition internationale</name>
+        <name lang="it">Doppia imposizione internazionale</name>
+        <name lang="en">International double taxation</name>
+      </keyword>
+      <keyword id="235" org-id="605">
+        <name lang="de">Internationale Steuerpolitik</name>
+        <name lang="fr">Politique fiscale internationale</name>
+        <name lang="it">Politica fiscale internazionale</name>
+        <name lang="en">International tax policy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="44">
+        <name lang="de">Steuern</name>
+        <name lang="fr">Impôts</name>
+        <name lang="it">Imposte</name>
+        <name lang="en">Taxation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

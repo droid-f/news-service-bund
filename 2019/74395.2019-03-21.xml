@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="74395" revoked="no">
+    <version>1</version>
+    <pubdate>2019-03-21</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1087" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Dienst Überwachung Post- und Fernmeldeverkehr</name>
+      <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
+      <name lang="it">Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
+      <name lang="en">Post and Telecommunications Surveillance Service</name>
+      <www lang="de">https://www.li.admin.ch/</www>
+      <www lang="fr">https://www.li.admin.ch/fr</www>
+      <www lang="it">https://www.li.admin.ch/it</www>
+      <www lang="en">https://www.li.admin.ch/en</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="402" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Generalsekretariat EJPD</name>
+      <name lang="fr">Secrétariat général DFJP</name>
+      <name lang="it">Segreteria generale DFGP</name>
+      <name lang="en">General Secretariat FDJP</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.dfjp.admin.ch</www>
+      <www lang="it">http://www.dfgp.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Dienst ÜPF: neue Systemkomponenten für Fernmeldeüberwachungen</title>
+      <lead>Der Dienst Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF) hat am 18. März 2019 zwei neue Systemkomponenten in Betrieb genommen. Die Erneuerung wurde in enger Zusammenarbeit mit den Strafverfolgungsbehörden von Bund und Kantonen sowie den Fernmeldedienstanbieterinnen vollzogen.</lead>
+      <text link="no"> &lt;p&gt;Für den Ausbau und Betrieb des Verarbeitungssystems zur Fernmeldeüberwachung verfügt der Dienst ÜPF über einen Kredit von rund 71 Millionen Franken. Mit diesen Investitionen soll im Rahmen des Programms FMÜ (siehe Kasten) das Verarbeitungssystem des Dienstes ÜPF an die technischen Entwicklungen der letzten Jahre und an die Anforderungen künftiger Technologien angepasst werden.&lt;/p&gt; &lt;p&gt;In diesem Rahmen wurden die Komponente Warrant Management Component (WMC) und Information Request Component (IRC) entwickelt. WMC dient zur Steuerung und Verwaltung sämtlicher Fernmeldeüberwachungen und führt insbesondere die Möglichkeit ein, dass Polizei und Staatsanwaltschaften medienbruchfrei digital Aufträge vorerfassen und Überwachungen anordnen können. Mit IRC vermittelt der Dienst ÜPF Auskunftsbegehren der Behörden an die Anbieterinnen. Sie fragen damit beispielsweise Telefonnummern und IP-Adressen ab. Damit wird auch eine automatisierte Beantwortung ermöglicht und die digitale Unterstützung und Plausibilisierung der Anfragen wird erheblich verbessert.&lt;/p&gt; &lt;p&gt;WMC und IRC ersetzen zwei ältere Komponenten, die das Ende ihrer Lebensdauer erreicht hatten. Damit verfügen die Schweizer Strafverfolgungsbehörden und der Nachrichtendienst des Bundes (NDB) im Einsatzbereich des WMC und IRC wieder über zeitgemässe Werkzeuge.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Das Programm FMÜ&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Das EJPD passt mit dem Programm FMÜ das Verarbeitungssystem für die Fernmeldeüberwachung (V-FMÜ) des Dienstes ÜPF sowie die polizeilichen Informationssysteme des Bundesamtes für Polizei (fedpol) an die aktuellen Bedürfnisse an und bereitet diese auf absehbare zukünftige Herausforderungen vor. Die kantonalen Strafverfolgungsbehörden stellen einen wesentlichen Teil des Benutzerkreises dieser Systeme und engagieren sich entsprechend stark im Programm FMÜ.&lt;br /&gt;&lt;br /&gt;Neben der Erstellung der Komponenten WMC (Warrant Management Component), IRC (Information Request Component) und RDC (Retained Data Component), die im Jahr 2019 schrittweise in Betrieb gehen, beschafft das Programm FMÜ auch eine Komponente zur Langzeitdatenaufbewahrung, mit der FMÜ-Daten nach Art. 11 BÜPF langfristig für Rechtsmittelverfahren verfügbar gehalten werden. Kernkomponente des V-FMÜ ist das heutige Informatiksystem zur Durchführung von Echtzeitüberwachungsmassnahmen. Auch dieses System wird soweit möglich und nötig in den kommenden Jahren durch eine komplett neue Komponente ersetzt.&lt;br /&gt;&lt;br /&gt;Auf Seiten fedpol ist zum einen die Bereitstellung von besonderen Informatikprogrammen (GovWare) ein Bestandteil des Programms FMÜ. Zum anderen wird ein neues modulares Ermittlungssystem beschafft, das unter anderem die fallbezogene und übergreifende Datenbearbeitung sowie die polizeiliche Kooperation unterstützen wird. Das neue Ermittlungssystem ersetzt veraltete Systeme.&lt;br /&gt;&lt;br /&gt;Das Programm FMÜ wird als IKT-Schlüsselprojekt der Bundesverwaltung geführt und wurde zuletzt im Sommer 2018 durch die Eidgenössische Finanzkontrolle (EFK) geprüft. Aktuell hat es etwa die Hälfte der vorgesehenen Durchlaufzeit absolviert und entwickelt sich im Wesentlichen gemäss der aktuellen Planung.&lt;/p&gt;</text>
+      <contact>Nils Güggi (Bereichsleiter Recht &amp; Controlling), Dienst Überwachung Post- und Fernmeldeverkehr, T +41 58 463 36 21</contact>
+      <link id="188006">
+        <title>Themenseite zum Programm FMÜ</title>
+        <uri>https://www.li.admin.ch/de/themen/programm-fmu</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Service SCPT : nouveaux composants pour la surveillance des télécommunications</title>
+      <lead>Le 18 mars 2019, le Service Surveillance de la correspondance par poste et télécommunication (Service SCPT) a mis en exploitation deux nouveaux composants du système de traitement. Ceux-ci ont été développés en étroite collaboration avec les autorités de poursuite pénale de la Confédération et des cantons, ainsi qu’avec les fournisseurs de services de télécommunication.</lead>
+      <text link="no"> &lt;p&gt;Le Service SCPT dispose d'un crédit d'environ 71 millions de francs pour le développement et l'exploitation du système de traitement pour la surveillance des télécommunications. L'objectif des investissements prévus dans le cadre du programme "Surveillance des télécommunications" (voir encadré) est d'adapter le système de traitement du Service SCPT aux évolutions techniques de ces dernières années et aux exigences technologiques futures.&lt;/p&gt; &lt;p&gt;C'est dans ce contexte qu'ont été développés les composants &lt;i&gt;Warrant Management Component&lt;/i&gt; (WMC) et &lt;i&gt;Information Request Component&lt;/i&gt; (IRC). WMC sert au contrôle et à la gestion de toutes les mesures de surveillance des télécommunications et, en particulier, permet à la police et aux ministères publics de les pré-saisir et de les ordonner sans rupture médiatique et de manière digitalisée. IRC est utilisé par le Service SCPT pour transmettre aux fournisseurs les demandes de renseignements des autorités, concernant par exemple des numéros de téléphone ou des adresses IP. Le nouveau composant permet ainsi de livrer les réponses de manière automatisée tout en améliorant considérablement la prise en charge numérique et la vérification de la plausibilité des demandes.&lt;/p&gt; &lt;p&gt;Les composants WMC et IRC remplacent deux anciens composants qui avaient atteint la fin de leur cycle de vie. Les autorités suisses de poursuite pénale et le Service de renseignement de la Confédération (SRC) disposent ainsi à nouveau d'outils actualisés.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Le programme "Surveillance des télécommunications"&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Avec ce programme, le DFJP adapte aux exigences actuelles le système de traitement utilisé par le Service SCPT pour la surveillance des télécommunications, ainsi que les systèmes d'information de l'Office fédéral de la police (fedpol), et prépare ces systèmes à répondre aux exigences de l'avenir. Les autorités cantonales de poursuite pénale forment le gros des utilisateurs de ces systèmes et sont de ce fait très engagées dans le programme.&lt;br /&gt;&lt;br /&gt;Outre les composants WMC (&lt;i&gt;Warrant Management Component&lt;/i&gt;), IRC (&lt;i&gt;Information Request Component&lt;/i&gt;) et RDC (&lt;i&gt;Retained Data Component&lt;/i&gt;), qui seront progressivement mis en service en 2019, le programme "Surveillance des télécommunications" a aussi pour objet l'acquisition d'un composant destiné à la conservation de longue durée des données issues des surveillances. Ces données seront ainsi disponibles pendant longtemps pour d'éventuelles procédures judiciaires futures, comme le prescrit l'art. 11 LSCPT. Le cœur du système de traitement est l'actuel composant servant aux mesures de surveillance en temps réel. Ce composant devra lui aussi, si c'est possible et nécessaire, être remplacé ces prochaines années par un composant entièrement nouveau.&lt;br /&gt;&lt;br /&gt;Du côté de fedpol, les objectifs du programme "Surveillance des télécommunications" sont, d'une part, la mise à disposition de programmes informatiques spéciaux (GovWare) et, d'autre part, l'acquisition d'un nouveau système modulaire pour les enquêtes, qui permettra notamment de traiter les données en fonction des affaires ou de manière transversale et qui soutiendra la coopération policière. Ce nouveau système destiné aux enquêtes remplacera des systèmes obsolètes.&lt;br /&gt;&lt;br /&gt;Le programme "Surveillance des télécommunications" est géré comme un projet informatique clé de la Confédération. Il a été contrôlé par le Contrôle fédéral des finances la dernière fois en été 2018. Il est actuellement arrivé environ à la moitié de sa durée prévue et il avance pour l'essentiel de manière conforme à la planification actuelle.&lt;/p&gt;</text>
+      <contact>Nils Güggi (responsable Droit et contrôle de gestion), Service Surveillance de la correspondance par poste et télécommunication, T +41 58 463 36 21</contact>
+      <link id="188007">
+        <title>Page thématique sur le programme "Surveillance des télécommunications"</title>
+        <uri>https://www.li.admin.ch/fr/themes/programme-surveillance-des-telecommunications</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Servizio SCPT: nuove componenti per la sorveglianza del traffico delle telecomunicazioni</title>
+      <lead>Il 18 marzo 2019, il Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (Servizio SCPT) ha messo in esercizio due nuove componenti del sistema di trattamento sviluppate in stretta collaborazione con le autorità di perseguimento penale federali e cantonali nonché con i fornitori di servizi di telecomunicazione.</lead>
+      <text link="no"> &lt;p&gt;Per lo sviluppo ed esercizio del sistema di trattamento per la sorveglianza del traffico delle telecomunicazioni il Servizio SCPT dispone di un credito di circa 71 milioni di franchi. Questi investimenti sono mirati all'adeguamento, nell'ambito del programma STT (cfr. riquadro), del sistema di trattamento del Servizio SCPT agli sviluppi tecnici degli ultimi anni e ai requisiti delle tecnologie future.&lt;/p&gt; &lt;p&gt;In tale contesto, sono state sviluppate le componenti Warrant Management Component (WMC) e Information Request Component (IRC). WMC serve al controllo ed alla gestione di tutte le misure di sorveglianza del traffico delle telecomunicazioni e in particolare consente alla polizia e ai pubblici ministeri di precaricarle e di ordinarle senza cambi di supporto e in forma digitale. IRC consente invece al Servizio SCPT di trasmettere ai fornitori le domande d'informazioni delle autorità, con le quali vengono richiesti, ad esempio, numeri di telefono e indirizzi IP. Si rende così possibile l'automatizzazione delle risposte e si migliora notevolmente il supporto digitale e la plausibilità delle domande. &lt;/p&gt; &lt;p&gt;WMC e IRC sostituiscono due vecchie componenti giunte al termine del loro ciclo di vita e mettono nuovamente a disposizione delle autorità inquirenti svizzere e del Servizio delle attività informative della Confederazione (SIC) strumenti attuali.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Programma STT&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Con il programma STT, il DFGP adegua ai requisiti attuali il sistema di trattamento per la sorveglianza del traffico delle telecomunicazioni (sistema di trattamento) del Servizio SCPT e i sistemi d'informazione di polizia dell'Ufficio federale di polizia (fedpol) e li prepara ad affrontare le prevedibili sfide future. Le autorità cantonali di perseguimento penale rappresentano una parte importante dell'utenza di questi sistemi e si impegnano pertanto in modo particolare nel programma STT.&lt;br /&gt;&lt;br /&gt;Oltre allo sviluppo delle componenti WMC (Warrant Management Component), IRC (Information Request Component) e RDC (Retained Data Component), rese operative progressivamente nel corso del 2019, il programma STT fornisce anche una componente per la conservazione a lungo termine dei dati, grazie alla quale i dati STT secondo l'articolo 11 LSCPT restano disponibili sul lungo periodo per le procedure di ricorso. Elemento centrale del sistema di trattamento è l'attuale sistema informatico per l'esecuzione delle misure di sorveglianza in tempo reale. Nel corso degli anni, se possibile e necessario, anche questo sistema sarà sostituito da una componente completamente nuova.&lt;br /&gt;&lt;br /&gt;Per quanto riguarda fedpol, parte del programma STT riguarda la messa a disposizione di speciali programmi informatici (GovWare). Inoltre, viene fornito un nuovo sistema d'indagine modulare che andrà a sostituire sistemi obsoleti e supporterà, tra l'altro, l'elaborazione dei dati sia incrociata sia per il singolo caso nonché la cooperazione in materia di polizia.&lt;br /&gt;&lt;br /&gt;Il programma STT è gestito come progetto chiave TIC dell'Amministrazione federale ed è stato verificato l'ultima volta nell'estate 2018 dal Controllo federale delle finanze (CDF). Al momento ha raggiunto circa la metà della durata prevista e si sviluppa essenzialmente secondo la pianificazione attuale.&lt;/p&gt;</text>
+      <contact>Nils Güggi (caposettore Diritto e Controlling), Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, T +41 58 463 36 21</contact>
+      <link id="188008">
+        <title>Pagina tematica sul programma STT</title>
+        <uri>http://www.li.admin.ch/it/temi/programma-stt</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="28">
+        <name lang="de">Telekommunikation</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="it">Telecomunicazione</name>
+        <name lang="en">Telecommunications</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

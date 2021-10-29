@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="43363" revoked="no">
+    <version>2</version>
+    <pubdate>2012-02-08</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="1012" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Eidgenössisches Nuklearsicherheitsinspektorat</name>
+      <name lang="fr">Inspection fédérale de la sécurité nucléaire</name>
+      <name lang="it">Ispettorato federale della sicurezza nucleare</name>
+      <name lang="en">Federal Nuclear Safety Inspectorate</name>
+      <www lang="de">http://www.ensi.ch</www>
+      <www lang="fr">http://www.ifsn.ch</www>
+      <www lang="it">http://www.ensi.ch</www>
+      <www lang="en">http://www.ensi.ch</www>
+      <email lang="de">info@ensi.ch</email>
+      <email lang="fr">info@ensi.ch</email>
+      <email lang="it">info@ensi.ch</email>
+      <email lang="en">info@ensi.ch</email>
+    </originator>
+    <originator department-msg="no" id="808" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Brugg</city>
+      <title>Reaktorschnellabschaltung im Kernkraftwerk Mühleberg</title>
+      <lead>Im Kernkraftwerk Mühleberg ist es heute Nachmittag zu einer Reaktorschnellabschaltung gekommen. Der Reaktor befand sich zu jeder Zeit in einem sicheren Zustand. Es kam zu keiner unzulässigen Freisetzung von Radioaktivität. Die Sicherheit der Bevölkerung war zu jeder Zeit gewährleistet. Das Eidgenössische Nuklearsicherheitsinspektorat ENSI hat einem Wiederanfahren des Reaktors zugestimmt.</lead>
+      <text link="no">&lt;p&gt;Bei einer Messung im Rahmen einer wiederkehrenden Prüfung ist es im Kernkraftwerk Mühleberg zum Ausfall des Speisewassersystems gekommen, da die zusätzlich angebrachten Messgeräte unbeabsichtigt die Speisewasserpumpen beeinflussten. Die Sicherheitssysteme reagierten korrekt und es kam zur Schnellabschaltung des Reaktors.&lt;/p&gt;&lt;p&gt;Das MADUK-System (Messnetz zur automatischen Dosisleistungsüberwachung in der Umgebung der Kernkraftwerke) zeigte keinen Anstieg der Radioaktivität.&lt;/p&gt;&lt;p&gt;Die Kraftwerkbetreiberin BKW AG informierte umgehend das Eidgenössische Nuklearsicherheitsinspektorat ENSI. Die Messgeräte wurden inzwischen entfernt. Das ENSI hat, da es zu keinen Schäden an der Anlage kam und alle drei Speisewasserpumpen technisch in Ordnung sind, dem Wiederanfahren am Abend zugestimmt.&lt;/p&gt;&lt;p&gt;Das ENSI wird das Ereignis, das auf der Ereignisskala INES der Stufe 0 (Ereignis ohne oder mit geringer sicherheitstechnischer Bedeutung) zugeordnet wird, im Rahmen der ordentlichen Vorkommnisbearbeitung im Detail analysieren.&lt;/p&gt;&lt;p&gt;Bei Reaktorschnellabschaltungen handelt es sich um ein Verfahren, um den Reaktor in einen sicheren Zustand zu bringen. Dabei wird der Reaktor unterkritisch, das heisst, die Kernspaltungs-Kettenreaktion wird beendet. Die Reaktorschnellabschaltung erfolgt durch das vollständige Einfahren der Steuerstäbe.&lt;/p&gt;</text>
+      <contact>info@ensi.ch</contact>
+      <revisions>
+        <revision date="2012-02-13 14:39" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="610" org-id="808">
+        <name lang="de">Kernenergie</name>
+        <name lang="fr">Energie nucléaire</name>
+        <name lang="it">Energia nucleare</name>
+        <name lang="en">Nuclear energy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

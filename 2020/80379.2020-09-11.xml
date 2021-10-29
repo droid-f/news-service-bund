@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="80379" revoked="no">
+    <version>3</version>
+    <pubdate>2020-09-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="810" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Kommunikation</name>
+      <name lang="fr">Office fédéral de la communication</name>
+      <name lang="it">Ufficio federale delle comunicazioni</name>
+      <name lang="en">Federal Office of Communications</name>
+      <www lang="de">http://www.bakom.admin.ch</www>
+      <www lang="fr">http://www.ofcom.admin.ch</www>
+      <www lang="it">http://www.ufcom.admin.ch</www>
+      <www lang="en">http://www.ofcom.admin.ch</www>
+      <email lang="de">media@bakom.admin.ch</email>
+      <email lang="fr">media@bakom.admin.ch</email>
+      <email lang="it">media@bakom.admin.ch</email>
+      <email lang="en">media@bakom.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Neue Schwerpunkte für die digitale Schweiz</title>
+      <lead>In der Digitalpolitik des Bundes sollen Umwelt- und Datenaspekte künftig mehr Raum erhalten. Um dies zu ermöglichen, hat der Bundesrat am 11. September 2020 die aktualisierte Strategie "Digitale Schweiz" verabschiedet. Berücksichtigt wird dabei auch die Bedeutung der Digitalisierung für das Funktionieren des Landes in Krisensituationen wie der Covid-19-Pandemie, deren Auswirkungen auf die Digitalpolitik vertieft analysiert werden sollen. </lead>
+      <text link="no"> &lt;p&gt;Die Strategie "Digitale Schweiz" gibt die Leitlinien für das staatliche Handeln in der Digitalisierung vor und ist für die Bundesverwaltung verbindlich. Sie dient auch als Orientierungsrahmen für die weiteren Anspruchsgruppen der digitalen Schweiz wie Wirtschaft, Wissenschaft oder Zivilgesellschaft. Die Weiterentwicklung der Strategie erfolgte daher im Austausch mit ihnen. Für die kommenden beiden Jahre hat der Bundesrat folgende Schwerpunkte gesetzt: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Umweltschutz: &lt;/b&gt;Die neuen Technologien ermöglichen eine Weiterentwicklung der Umweltpolitik durch den Zugang zu immer präziseren Umweltdaten. Um die Chancen der Digitalisierung für den Klima- und Umweltschutz optimal zu nutzen, wird das Bundesamt für Umwelt bis Ende 2021 aufzeigen, wie sich die Grundlagen für die Berechnung von Ökobilanzen, Energieverbrauch und Fussabdrücken im Bereich der IKT-Technologien und ‑Dienstleistungen verbessern lassen.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Datenräume&lt;/b&gt;: Gemeinsame Datenräume können einen Mehrwert schaffen, indem sie die Nutzung von Daten über ihren ursprünglichen Verwendungszweck hinaus und neue Formen der gemeinsamen Nutzung ermöglichen. Die Schweiz soll deshalb den Zugang zu vertrauenswürdigen Datenräumen für Personen, Unternehmen und den öffentlichen Sektor fördern. Zu diesem Zweck erarbeiten das Bundesamt für Kommunikation (BAKOM) und die Direktion für Völkerrecht im EDA zusammen mit weiteren Akteuren bis Ende 2021 einen Grundlagenbericht, der aufzeigen wird, wo für den Staat Handlungsbedarf besteht.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Digitale Wirtschaft:&lt;/b&gt; Das Staatssekretariat für Wirtschaft aktualisiert bis Ende 2022 den Bericht "Rahmenbedingungen der digitalen Wirtschaft". Dabei gilt ein besonderes Augenmerk den Themen Sharing Economy, Digital Finance, Forschung und Entwicklung, Handelsbeziehungen und Wettbewerbspolitik.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Digitaler Service public: &lt;/strong&gt;Das BAKOM verfasst in Zusammenarbeit mit anderen Stellen der Bundesverwaltung bis Mitte 2022 einen Bericht über datengetriebene Entwicklungen in den regulierten Netzsektoren. Im Zentrum der Überlegungen steht die Frage, ob es neuen Regulierungsbedarf gibt und was die Rolle des Bundes bei einem allfälligen Aufbau und Betrieb von neuen, datenbasierten Infrastrukturen sein sollte.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Auswirkung der Covid-19-Pandemie: &lt;/b&gt;Digitale Anwendungen hatten einen grossen Anteil daran, dass die Schweiz auch während der COVID19-Pandiemie weitgehend weiterfunktionierte. Gleichzeitig kamen in verschiedenen Bereichen Schwachstellen bei der Digitalisierung zu Tage. Damit die Schweiz für vergleichbare zukünftige Situationen besser gerüstet ist, zeigen das BAKOM und die Bundeskanzlei (BK) bis Ende 2021 in einem Bericht Verbesserungspotenziale auf und schlagen Massnahmen für die Digitalpolitik des Bundes vor. Die Analysen aller Departemente und der BK werden in den Bericht einfliessen. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mit der Neuorganisation der Digitalisierung und der IKT-Lenkung in der Bundesverwaltung und der Ernennung von Daniel Markwalder zum Delegierten des Bundesrates für digitale Transformation und IKT-Lenkung (D-DTI), wird die Geschäftsstelle Digitale Schweiz (GDS) und deren Aufgaben im Zusammenhang mit der Strategie "Digitale Schweiz" ab dem 1. Januar 2021 in die Bundeskanzlei überführt. Die vorliegende Strategie wird von der DTI in spätestens zwei Jahren überarbeitet. Zudem wird für die Umsetzung und Weiterentwicklung der Strategie eine enge Zusammenarbeit zwischen der DTI und der neu von Bund und Kantonen gemeinsam geschaffenen Organisation "Digitale Verwaltung Schweiz" angestrebt. &lt;/p&gt; </text>
+      <contact>Bundesamt für Kommunikation BAKOM Medienstelle, +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <link id="221403">
+        <title>Strategie Digitale Schweiz</title>
+        <uri>https://tinyurl.com/28udr8ce</uri>
+        <position>Context</position>
+      </link>
+      <link id="221407">
+        <title>Aktionsplan Digitale Schweiz</title>
+        <uri>https://tinyurl.com/28udr8ce</uri>
+        <position>Context</position>
+      </link>
+      <link id="221411">
+        <title>Medienmitteilung Strategie 2018-2020</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/medieninformationen/medienmitteilungen.msg-id-72053.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Nouvelles priorités pour la Suisse numérique</title>
+      <lead>À l'avenir, la politique numérique de la Confédération doit accorder une plus grande place aux aspects liés à l'environnement et aux données. Pour concrétiser ce principe, le Conseil fédéral a adopté le 11 septembre 2020 la stratégie actualisée "Suisse numérique". Celle-ci tient également compte de l'importance de la numérisation pour le fonctionnement du pays dans des situations de crise telles que la pandémie de Covid-19, dont les effets sur la politique numérique doivent être analysés de manière approfondie. </lead>
+      <text link="no"> &lt;p&gt;La stratégie "Suisse numérique" fixe les grandes lignes de l'intervention de l’État en matière de numérisation. Elle revêt un caractère obligatoire pour l'administration fédérale. Elle sert également de cadre de référence pour les autres acteurs de la Suisse numérique tels que les milieux économiques et scientifiques, ainsi que la société civile. Le développement de la stratégie s’est donc fait en collaboration avec eux. Le Conseil fédéral a fixé les priorités suivantes pour les deux prochaines années: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Protection de l'environnement:&lt;/b&gt; les nouvelles technologies permettent de développer la politique environnementale en donnant accès à des données de plus en plus précises. Afin d'exploiter au mieux les possibilités offertes par la numérisation en matière de protection du climat et de l'environnement, l'Office fédéral de l'environnement montrera d'ici fin 2021 comment améliorer les bases de calcul des écobilans, de la consommation d'énergie et de l’empreinte des technologies et services TIC. &lt;b&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espaces de données:&lt;/b&gt; les espaces de données partagés peuvent créer une valeur ajoutée en permettant l'utilisation des données au-delà de leur objectif initial ainsi que de nouvelles formes de partage. La Suisse devrait donc promouvoir l'accès à des espaces de données fiables pour les particuliers, les entreprises et le secteur public. À cette fin, l'Office fédéral de la communication (OFCOM) et la Direction du droit international public du DFAE, en collaboration avec d'autres acteurs, établiront d'ici fin 2021 un rapport de base qui indiquera les domaines où une intervention de l’État est nécessaire. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Économie numérique:&lt;/b&gt; le Secrétariat d'État à l'économie actualisera le rapport sur les principales conditions-cadre pour l'économie numérique d'ici la fin de l'année 2022. Une attention particulière sera accordée aux thèmes de l'économie collaborative, de la finance numérique, de la recherche et du développement, des relations commerciales et de la politique en matière de concurrence.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Service numérique public:&lt;/b&gt; l'OFCOM, en collaboration avec d'autres offices de l'administration fédérale, établira d'ici à la mi-2022 un rapport sur l'évolution résultant de l'utilisation des données dans les secteurs d'infrastructure réglementés. Au centre des considérations se trouve la question de savoir si une nouvelle réglementation est nécessaire et quel devrait être le rôle de la Confédération dans la construction et l'exploitation éventuelles de nouvelles infrastructures basées sur les données.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conséquences de la pandémie de Covid-19:&lt;/b&gt; les applications numériques ont joué un rôle majeur pour assurer le fonctionnement de la Suisse pendant la pandémie de Covid-19. Simultanément, certaines faiblesses de la numérisation se sont révélées dans divers domaines. Afin que la Suisse soit mieux préparée à affronter des situations comparables, l'OFCOM et la Chancellerie fédérale (ChF) présenteront d'ici fin 2021 un rapport identifiant les potentiels d'amélioration et proposant des mesures pour la politique numérique de la Confédération. Les analyses de tous les départements et de la ChF seront intégrées au rapport.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Suite à la réorganisation de la numérisation et de la gouvernance de l’informatique dans l'administration fédérale, ainsi qu'à la nomination de Daniel Markwalder comme délégué du Conseil fédéral pour la transformation numérique et la gouvernance de l’informatique (TNI), la Direction opérationnelle Suisse numérique (GDS) et ses tâches en rapport avec la stratégie "Suisse numérique" seront transférées à la Chancellerie fédérale à partir du 1er janvier 2021. La stratégie actuelle sera revue par l'unité TNI dans deux ans au plus tard. En outre, pour la mise en œuvre et le développement ultérieur de la stratégie, il s'agira d'établir une coopération étroite entre l'unité TNI et la nouvelle organisation "Administration numérique Suisse", créée conjointement par la Confédération et les cantons.&lt;/p&gt;</text>
+      <contact>Office fédéral de la communication OFCOM, Service de presse,+41 58 460 55 50, media@bakom.admin.ch</contact>
+      <link id="221404">
+        <title>Stratégie "Suisse numérique"</title>
+        <uri>https://tinyurl.com/4wzjwf9z</uri>
+        <position>Context</position>
+      </link>
+      <link id="221408">
+        <title>Plan d'action "Suisse numérique"</title>
+        <uri>https://tinyurl.com/4wzjwf9z</uri>
+        <position>Context</position>
+      </link>
+      <link id="221412">
+        <title>Communiqué de presse du 06.09.2018 "Nouvelles lignes directrices pour la Suisse numérique"</title>
+        <uri>https://www.bakom.admin.ch/bakom/fr/page-daccueil/l-ofcom/informations-de-l-ofcom/communiques-de-presse.msg-id-72053.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Nuove priorità per la Svizzera digitale</title>
+      <lead>La politica di digitalizzazione promossa dalla Confederazione darà maggior spazio agli aspetti ambientali e ai dati. Per concretizzare questi intenti, il Consiglio federale ha adottato il 11 settembre 2020 la Strategia "Svizzera digitale" aggiornata. In questo documento si considera anche l'importanza della digitalizzazione per il funzionamento del Paese in situazioni di crisi come la pandemia COVID-19, le cui ripercussioni per la politica digitale richiedono un'analisi approfondita. </lead>
+      <text link="no"> &lt;p&gt;La Strategia "Svizzera digitale" traccia le linee guida dell'azione statale nel campo della digitalizzazione ed è vincolante per l'Amministrazione federale. Funge inoltre da orientamento per gli altri gruppi d'interesse della Svizzera digitale: il settore economico, quello scientifico e la società civile. L'evoluzione della strategia è dunque frutto del dialogo con questi gruppi. Per i prossimi due anni il Consiglio federale ha fissato le priorità seguenti: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Protezione dell'ambiente&lt;/b&gt;: grazie all'accesso a dati sull'ambiente sempre più precisi, le nuove tecnologie consentono un ulteriore sviluppo della politica ambientale. Per poter cogliere appieno le opportunità della digitalizzazione per la protezione del clima e dell'ambiente, l'Ufficio federale dell'ambiente presenterà entro la fine del 2021 le possibilità per migliorare il calcolo degli ecobilanci, del consumo energetico e delle impronte ecologiche nel settore delle tecnologie e delle prestazioni TIC.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Data room&lt;/b&gt;: data room comuni possono creare un valore aggiunto se permettono un'utilizzazione di dati che prescinde dal loro scopo originario, lasciando spazio a nuove forme di utilizzo condiviso. La Svizzera dovrà quindi promuovere l'accesso a "data room" affidabili per i privati, le aziende e il settore pubblico. A questo fine, l'Ufficio federale delle comunicazioni (UFCOM) e la Direzione del diritto internazionale pubblico al Dipartimento federale degli affari esteri (DFAE), insieme ad altri attori, stileranno entro la fine del 2021 un rapporto di base volto a identificare in quali ambiti lo Stato debba intervenire.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Economia digitale&lt;/b&gt;: entro la fine del 2022 la Segreteria di Stato dell'economia aggiornerà il "Rapporto sulle condizioni quadro dell'economia digitale", analizzando con particolare attenzione temi quali l'economia collaborativa (sharing economy), la finanza digitale, la ricerca e lo sviluppo, le relazioni commerciali e la politica di concorrenza.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Servizio pubblico digitale&lt;/b&gt;: in cooperazione con altri enti dell'Amministrazione federale, l'UFCOM redigerà entro la metà del 2022 un rapporto sugli sviluppi frutto dell'utilizzo dei dati nei settori infrastrutturali regolamentati. Con queste riflessioni si mira a chiarire se vi sia la necessità di una nuova regolamentazione e quale ruolo debba assumere la Confederazione nel caso di un eventuale costruzione ed esercizio di nuove infrastrutture basate sui dati.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conseguenze della pandemia COVID-19&lt;/b&gt;: le applicazioni digitali hanno contribuito in misura determinante ad assicurare che la Svizzera continuasse sostanzialmente a funzionare anche durante la pandemia. Allo stesso tempo sono venute alla luce in diversi settori le lacune a livello di digitalizzazione. Affinché la Svizzera sia preparata più adeguatamente per situazioni analoghe che potrebbero presentarsi in futuro, l'UFCOM e la Cancelleria federale (CaF) illustreranno in un rapporto, che sarà pubblicato entro fine 2021, i potenziali di miglioramento e delle proposte di misure per la politica digitale della Confederazione. Nel rapporto confluiranno le analisi di tutti i dipartimenti e della CaF.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Con la nuova organizzazione della digitalizzazione e della direzione delle TIC all'Amministrazione federale e la nomina di Daniel Markwalder a delegato del Consiglio federale per la trasformazione digitale e la governance delle TIC (TDT), la Direzione operativa Svizzera digitale (GDS) e i relativi compiti in relazione alla Strategia "Svizzera digitale" sono trasferiti alla Cancelleria federale a partire dal 1° gennaio 2021. La presente Strategia sarà rielaborata dall’unità TDT entro due anni al più tardi. Inoltre, per l'attuazione e l'ulteriore sviluppo della strategia si cerca una stretta collaborazione tra il TDT e l'organizzazione "Amministrazione digitale Svizzera", appena creata congiuntamente dalla Confederazione e dai Cantoni.&lt;/p&gt; </text>
+      <contact>Ufficio federale delle comunicazioni UFCOM Servizio stampa +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <link id="221405">
+        <title>Strategia Svizzera Digitale</title>
+        <uri>https://tinyurl.com/uah2658w</uri>
+        <position>Context</position>
+      </link>
+      <link id="221409">
+        <title>Piano d'azione "Svizzera digitale"</title>
+        <uri>https://tinyurl.com/uah2658w</uri>
+        <position>Context</position>
+      </link>
+      <link id="221413">
+        <title>Comunicato stampa Strategia 2018-2020</title>
+        <uri>https://www.bakom.admin.ch/bakom/it/pagina-iniziale/l-ufcom/informazioni-dell-ufcom/comunicati-stampa.msg-id-72053.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>New priorities for digital Switzerland</title>
+      <lead>The aspects of data and the environment are to be given greater emphasis in the digital policy of the Confederation in future. To make this possible, on 11 September 2020 the Federal Council adopted the updated “Digital Switzerland” strategy. Consideration is also being given to the significance of digitalisation for the functioning of the country in crisis situations such as the Covid-19 pandemic, the effects of which on digital policy have to be analysed in depth. </lead>
+      <text link="no"> &lt;p&gt;The “Digital Switzerland” strategy provides the guidelines for government action on digitalisation and is binding on the federal administration. It also serves as an orientation framework for the other stakeholders in digital Switzerland such as the economy, science and civil society. The ongoing development of the strategy was therefore carried out in collaboration with them. The Federal Council has laid down the following priorities for the next two years: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Protection of the environment&lt;/b&gt;: the new technologies enable further development of environmental policy through access to ever more precise environmental data. In order to make optimal use of digitalisation for the protection of the climate and the environment, by the end of 2021 the Federal Office for the Environment will indicate how the basis for calculation of ecological cycle assessments, energy consumption and footprints can be improved in the area of ICT technologies and services.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Data spaces&lt;/b&gt;: shared data areas can create added value by enabling data to be used beyond its original intended purpose and through the creation of new forms of shared use. Switzerland must therefore promote access to trusted data spaces for people, businesses and the public sector. To this end, by the end of 2021 the Federal Office of Communications (OFCOM) and the Directorate of International Law in the FDFA, together with other participants, will draw up a basic report, which will indicate where there is a need for state action.&lt;/li&gt;&lt;li&gt;&lt;b&gt;The digital economy&lt;/b&gt;: by the end of 2022 the State Secretariat for Economic Affairs will update the "Framework Conditions for the Digital Economy” report. Special attention is being paid to the themes of the sharing economy, digital finance, research and development, trade relations and competition policy. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Digital pubic service&lt;/b&gt;: OFCOM, in cooperation with other agencies of the federal administration, will produce a report on data-driven developments in the regulated network sectors by mid-2022. The focus of the considerations is the issue of whether there is a new need for regulation and what the role of the Confederation should be in the possible construction and operation of new, data-based infrastructures.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Impact of the Covid-19 pandemic&lt;/b&gt;: digital applications have played a significant role in ensuring that Switzerland has largely continued to function during the Covid-19 pandemic. At the same time, weaknesses have been exposed in various areas of digitalisation. To ensure that Switzerland is better prepared for comparable future situations, by the end of 2021 OFCOM and the Federal Chancellery (FC) will indicate the potential for improvements in a report and will propose measures for the Confederation's digital policy. The analyses of all departments and the FC will be incorporated in the report.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;With the reorganisation of digitalisation and ICT management in the federal administration and the appointment of Daniel Markwalder as the Federal Council's delegate for digital transformation and ICT management, the Business Office Digital Switzerland and its tasks in connection with the “Digital Switzerland” strategy will be transferred to the FC from 1 January 2021. The present strategy will be revised by the DTI within two years at the latest. In addition, close cooperation between the DTI and the newly created organization "Digital Administration Switzerland", jointly created by the federal government and the cantons, is being sought for the implementation and further development of the strategy. &lt;/p&gt; </text>
+      <contact>Federal Office of Communications OFCOM Press Service +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <link id="221406">
+        <title>Digital Strategy Switzerland</title>
+        <uri>https://tinyurl.com/3zex73w5</uri>
+        <position>Context</position>
+      </link>
+      <link id="221410">
+        <title>Digital Switzerland Action plan</title>
+        <uri>https://tinyurl.com/3zex73w5</uri>
+        <position>Context</position>
+      </link>
+      <link id="221414">
+        <title>Press release 2018-2020 strategy</title>
+        <uri>https://www.bakom.admin.ch/bakom/en/homepage/ofcom/ofcom-s-information/press-releases-nsb.msg-id-72053.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="176" org-id="602">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-government</name>
+      </keyword>
+      <keyword id="175" org-id="602">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

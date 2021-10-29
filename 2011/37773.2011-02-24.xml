@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="37773" revoked="no">
+    <version>2</version>
+    <pubdate>2011-02-24</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="506" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Webbasierte Kartendarstellung auf mobilen Geräten: Neue Wege der Zusammenarbeit im Bereich Open Source</title>
+      <lead>Der Bund erarbeitet in einer gemeinsamen Initiative mit Kantonen, Städten, Hochschule und Privaten Grundlagen für die webbasierte Darstellung von Geodaten auf mobilen Geräten. Das auf Open Source basierende öffentlich zugängliche Framework wird es erlauben, Geoinformationen wie die von geo.admin.ch z.B. auch direkt in Browsern von Smartphones darzustellen.</lead>
+      <text link="no">&lt;p&gt;Mit bis zu 10'000 Nutzern pro Tag deckt der Kartenviewer http://map.geo.admin.ch ein Bedürfnis der breiten Bevölkerung ab. Nächster Schritt ist nun die Realisierung der Verfügbarkeit des Angebots auf mobilen Geräten mit kleineren Bildschirmen. Um eine möglichst breite Nutzung zu garantieren, wird eine browserbasierte Lösung angestrebt: ein offenes, von Browser und Betriebssystemen unabhängiges Framework wird eingesetzt.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Neue Art der Zusammenarbeit bei der Programmierungsphase&lt;br /&gt; &lt;/strong&gt;Mittels einem im Moment durchgeführten fünftägigen CodeSprint werden die Grundlagen mit Entwicklern aus verschiedenen Nationen erarbeitet. Die Sponsoren setzen sich aus den unterschiedlichen internationalen Bereichen der Verwaltung und Privatwirtschaft zusammen. Dabei wird das bestehende Framework OpenLayers zur Darstellung von Karten für mobile Geräte erweitert: Es soll durch den Endnutzer keine spezifische Hardware oder zusätzliche proprietäre Software angeschafft werden müssen. Folgende Funktionen sollen den mobilen Zugang zu Geodaten ermöglichen: Auswahl von Datensätzen, Suche nach Ortschaften, PLZ und Koordinaten, automatische Standortbestimmung, Unterstützung mehrerer Sprachen und die Möglichkeit, Korrekturen von Dateninhalten zu melden.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Neue Anforderungen&lt;br /&gt; &lt;/strong&gt;Gemäss anerkannten Studien werden in den nächsten 18 Monaten weltweit mehr Tablets und Smartphones als PCs verkauft. Gleichzeitig ist der Aufbau und Betrieb von Technologien für mobile Endgeräte für grosse Organisationen in 2011 von strategischer Bedeutung. Bei mobilen Geräten handelt es sich generell um Systeme mit geringen Leistungsparametern (Bildschirmauflösung, Inputmöglichkeiten, Datenübertragung etc.), die es zu berücksichtigen gilt. Gemäss den Erfordernissen einer Feldtauglichkeit einer Kartendarstellung sowie der Bandbreite der Netzanbindung weist die Anwendung entsprechend angepasste Funktionalitäten auf.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Open Source und Open Standards&lt;br /&gt; &lt;/strong&gt;Dank dem Einsatz von Open Source Software kann die erarbeitete Lösung ohne Lizenzkosten weiterverwendet werden. Der Einsatz von Offenen Standards garantiert die Nachhaltige Nutzung der Investitionen der verschiedenen Partner und ermöglicht es, dass Synergien mit anderen Verwaltungsstellen und Privaten genutzt werden können.&lt;/p&gt; &lt;p&gt;Koordiniert wird das Vorhaben durch das Geoportal Bund geo.admin.ch. Dieses wird vom Bundesamt für Landestopografie swisstopo im Auftrag des Koordinationsorgans für Geoinformation des Bundes betrieben. Grundlage dafür sind das neue Geoinformationsgesetz und die Geoinformationsverordnung: Sie verpflichten die öffentlichen Institutionen, die meistens Geobasisdaten des Bundesrechts ihres Zuständigkeitsbereichs in einer Geodateninfrastruktur zugänglich zu machen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sponsoren:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bundesamt für Landestopografie swisstopo:&amp;nbsp;http://www.swisstopo.admin.ch&lt;br /&gt; Camptocamp:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.camptocamp.com&lt;br /&gt; École Polytechnique Fédérale de Lausanne:&amp;nbsp;http://www.epfl.ch&lt;br /&gt; geo.admin.ch:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.geo.admin.ch&lt;br /&gt; Geoportail Luxemburg:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.act.public.lu&lt;br /&gt; Kanton Zürich:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.zh.ch&lt;br /&gt; Kanton&amp;nbsp;Neuchâtel:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ne.ch&lt;br /&gt; Kanton Jura:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.jura.ch&lt;br /&gt; Nokia:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.nokia.com&lt;br /&gt; OpenGeo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://opengeo.org&lt;br /&gt; Schweizmobil:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.schweizmobil.ch&lt;br /&gt; Stadt Uster:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.uster.ch&lt;br /&gt; Stadt Vevey:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.vevey.ch&lt;br /&gt; Swiss Open Systems User Group:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ch-open.ch&lt;br /&gt; Swisscom:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisscom.ch&lt;br /&gt; Terrestris:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.terrestris.de&lt;/p&gt;</text>
+      <contact>David Oesch Projektleiter geo.admin.ch KOGIS, Bundesamt für Landestopografie swisstopo 031 963 23 15 david.oesch@swisstopo.ch</contact>
+      <link id="80370">
+        <title>Geoportal Bund</title>
+        <uri>http://www.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80371">
+        <title>Kartenviewer Geoportal</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80372">
+        <title>Twitter Geoportal</title>
+        <uri>http://twitter.com/swiss_geoportal</uri>
+        <position>Context</position>
+      </link>
+      <link id="80373">
+        <title>Codesprint</title>
+        <uri>http://wiki.osgeo.org/wiki/Lausanne_Code_Sprint_2011</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-02-24 09:52" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Applications cartographiques web embarquées : nouveau modèle de développement dans le domaine du logiciel libre</title>
+      <lead>L’administration fédérale a élaboré conjointement avec des cantons, des villes, des universités et des entreprises privées une initiative pour une application cartographique web fonctionnant sur des terminaux mobiles. Le cadre logiciel web basé sur des technologies librement accessibles permettra par exemple l’accès à geo.admin.ch au travers d’un simple navigateur web sur un terminal mobile.</lead>
+      <text link="no">&lt;p&gt;Avec des pointes de 10'000 visiteurs par jour, l’application cartographique web http://map.geo.admin.ch répond à un besoin d’une large frange de la population. L’étape suivante est d’offrir le même service pour des terminaux mobiles avec des écrans de taille réduite. Afin d’assurer la plus large diffusion de l’offre sur des terminaux mobiles, une solution web a été retenue : un cadre logiciel web ouvert et indépendant du système d’exploitation ainsi que du navigateur sera utilisé.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nouveau modèle de collaboration lors de la phase de programmation&lt;br /&gt; &lt;/strong&gt;Le développement initial sera effectué lors d’un codesprint de 5 jours par des développeurs de plusieurs pays. Le parrainage de l’événement sera assuré par différents acteurs internationaux, des secteurs privés ou publics. Dans ce cas, le cadre logiciel existant OpenLayers sera étendu pour s’adapter aux besoins des terminaux mobiles. Aucun matériel spécifique ou logiciel propriétaire ne sera nécessaire pour l’utilisateur final. Les fonctionnalités suivantes permettront l'accès mobile aux données spatiales: sélection de jeu de données, une recherche de codes postaux et villes, le positionnement automatique, prise en charge de plusieurs langues et enfin, la possibilité d’annoncer des révisions de contenu des données.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nouvelles exigences&lt;br /&gt; &lt;/strong&gt;D’après des études reconnues,&amp;nbsp; plus de smartphones&amp;nbsp; et de tablettes que de PC de bureau seront vendus dans les prochains 18 mois. Dans le même temps, la mise au point et l’exploitation de technologies pour smartphone acquiert en 2011 une importance stratégique pour les grandes organisations.&lt;br /&gt; Les smartphones disposent de ressources limitées (faible résolution d’écran, possibilité de saisie, transmission de données, etc.) qu’il faut prendre en compte. Les applications doivent adapter leurs fonctionnalités aux conditions du terrain et de la bande passante de la connections au réseau à disposition.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Open source et standard ouvert&lt;br /&gt; &lt;/strong&gt;L’utilisation de logiciel libre permet la mise au point d’une solution sans se soucier des coûts de licence. L’utilisation de standard ouvert garantit, quant à elle, la pérennité des investissements pour chacun des partenaires impliqués et permet de créer des synergies avec d’autres acteurs des secteurs publics et privés.&lt;/p&gt; &lt;p&gt;Le projet sera coordonné par le géoportail fédéral geo.admin.ch. Ce dernier est exploité par swisstopo Office fédéral de topographie sur mandat de l’organe de coordination pour l'information géographique (GCS-COSIG). On trouve le fondement de ce mandat dans la nouvelle loi fédérale sur la géoinformation et ses ordonnances qui imposent de rendre public, au travers d’une infrastructure de données géographiques, la majorité des géodonnées relevant du droit fédéral.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Parrainage :&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Camptocamp:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.camptocamp.com&lt;br /&gt; Canton de Neuchâtel:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ne.ch&lt;br /&gt; Canton de Zürich :&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.zh.ch&lt;br /&gt; École Polytechnique Fédérale de Lausanne:&amp;nbsp;http://www.epfl.ch&lt;br /&gt; geo.admin.ch:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.geo.admin.ch&lt;br /&gt; Géoportail du Luxembourg:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.act.public.lu&lt;br /&gt; Nokia:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.nokia.com&lt;br /&gt; Office fédéral de topographie swisstopo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisstopo.admin.ch&lt;br /&gt; OpenGeo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://opengeo.org&lt;br /&gt; République et Canton du Jura :&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.jura.ch&lt;br /&gt; Suissemobile:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.suissemobile.ch&lt;br /&gt; Swiss Open Systems User Group:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ch-open.ch&lt;br /&gt; Swisscom:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisscom.ch&lt;br /&gt; Terrestris:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.terrestris.de&lt;br /&gt; Ville d’Uster:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.uster.ch&lt;br /&gt; Ville de Vevey:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.vevey.ch&lt;/p&gt;</text>
+      <contact>David Oesch Responsable du projet geo.admin.ch COSIG, Office fédéral de topographie swisstopo 031 963 23 15 david.oesch@swisstopo.ch</contact>
+      <link id="80374">
+        <title>Géoportail fédéral</title>
+        <uri>http://www.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80375">
+        <title>Visualiseur de cartes géoportail</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80376">
+        <title>Twitter géoportail</title>
+        <uri>http://twitter.com/swiss_geoportal</uri>
+        <position>Context</position>
+      </link>
+      <link id="80377">
+        <title>Codesprint</title>
+        <uri>http://wiki.osgeo.org/wiki/Lausanne_Code_Sprint_2011</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-02-24 09:52" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Cartografia tramite web su dispositivi mobili: nuove vie di collaborazione in ambito Open Source.</title>
+      <lead>Il governo federale ha sviluppato, nell'ambito di un'iniziativa congiunta con i Cantoni, le città, le università e le fondazioni private, le basi per la rappresentazione tramite web di dati geografici su dispositivi mobili. L’offerta, basata su un Framework di soluzioni Open Source, permetterà l’accesso a geo.admin.ch e la rappresentazione di dati geografici anche nei browser dei recenti smartphones.</lead>
+      <text link="no">&lt;p&gt;Con circa 10.000 visitatori al giorno, la piattaforma http://map.geo.admin.ch copre già oggi il bisogno di una grossa parte della popolazione. Il prossimo passo sarà quello di rendere disponibile l’offerta anche su dispositivi mobili dotati di uno schermo di piccole dimensioni. Per poter raggiungere il maggior numero possibile di utenti, si è scelto di orientersi verso una soluzione basata sul web, grazie allo sviluppo di un Framework indipendente dall’utilizzo di un particolare browser o sistema operativo.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Un nuovo stile di lavoro in fase di programmazione&lt;br /&gt; &lt;/strong&gt;Proprio in questi giorni è in corso un CodeSprint al quale partecipano sviluppatori da diverse nazioni. Durante questi cinque giorni di lavori verranno poste le basi per la futura piattaforma. In particolare, l’esistente Framework OpenLayers verrà esteso ed adattato all’uso tramite dispositivi mobili. Tra le funzioni disponibili agli utenti ci saranno la scelta di dati geografici da visualizzare, la ricerca per località, CAP o coordinate, posizionamento automatico, supporto multilingua e la possibilità di segnalare inesattezze nel contenuto. Tutto questo sarà a disposizione senza la necessità di acquistare nuovo hardware o software proprietario. Gli sponsor internazionali per questo progetto provengono sia dal settore dell’amministrazione pubblica che dall’industria privata.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nuovi requisiti&lt;br /&gt; &lt;/strong&gt;Secondo studi riconosciuti, nei prossimi 18 mesi saranno venduti più smartphones e TabletPC che PC tradizionali. Al contempo, la messa a punto e l’utilizzo delle tecnologie per smartphones acquisteranno nel 2011 un’importanza strategica per molte grandi organizzazioni.&lt;br /&gt; Gli smartphones dispongono di risorse limitate (bassa risoluzione dello schermo, trasmissione di dati, possibilità di immissione dei dati ecc.) delle quali bisogna tener conto. Le applicazioni devono inoltre adattarsi alle condizioni del terreno e della banda passante a disposizione nella rete in uso.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Open Source e standard liberi&lt;/strong&gt;&lt;br /&gt; Grazie all’utilizzo di software Open Source, è possibile sviluppare una soluzione che non rischeda il pagamento di una licenza. L’uso di standard liberi garantisce altresí la persistenza dell’investimento die diversi partner coinvolti e permette di creare delle sinergie con altri attori nei settori pubblico e privato.&lt;br /&gt; Il progetto sarà coordinato dal geoportale federale geo.admin.ch. Quest’ultimo è gestito dall’ufficio federale di topografia swisstopo su mandato dell’organo di coordinamento federale per l’informazioen geografica. La base è costituita a questo scopo dalla nuova legge sulla geoinformazione e dalla relativa ordinanza, che prescrivono alle istituzioni pubbliche di rendere accessibili, in un’apposita infrastruttura, la maggior parte dei geodati di base di diritto federale che rientrano nel rispettivo ambito di competenza.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sponsor:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Camptocamp:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.camptocamp.com&lt;br /&gt; Canton Giura:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.jura.ch&lt;br /&gt; Canton Neuchâtel:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ne.ch&lt;br /&gt; Canton Zurigo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.zh.ch&lt;br /&gt; Cittá di Uster:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.uster.ch&lt;br /&gt; Cittá di Vevey:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.vevey.ch&lt;br /&gt; geo.admin.ch:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.geo.admin.ch&lt;br /&gt; Geoportale del Lussemburgo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.act.public.lu&lt;br /&gt; Nokia:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.nokia.com&lt;br /&gt; OpenGeo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://opengeo.org&lt;br /&gt; Politecnico federale di Losanna&amp;nbsp;&amp;nbsp;:&amp;nbsp;http://www.epfl.ch&lt;br /&gt; Schweizmobil:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.schweizmobil.ch&lt;br /&gt; Swiss Open Systems User Group:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ch-open.ch&lt;br /&gt; Swisscom:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisscom.ch&lt;br /&gt; Terrestris:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.terrestris.de&lt;br /&gt; Ufficio federale di topografia swisstopo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisstopo.admin.ch&lt;/p&gt;</text>
+      <contact>David Oesch Responsabile del progetto geo.admin.ch COSIG, Ufficio federale di topografia swisstopo 031 963 23 15 david.oesch@swisstopo.ch</contact>
+      <link id="80378">
+        <title>Geoportale della Confederazione</title>
+        <uri>http://www.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80379">
+        <title>Visualizzatore di dati geografici</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80380">
+        <title>Twitter geoportale</title>
+        <uri>http://twitter.com/swiss_geoportal</uri>
+        <position>Context</position>
+      </link>
+      <link id="80381">
+        <title>Codesprint</title>
+        <uri>http://wiki.osgeo.org/wiki/Lausanne_Code_Sprint_2011</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-02-24 09:52" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Web-based map viewing on mobile devices: A new approach for collaboration using an Open Source framework</title>
+      <lead>The Swiss federal government in a joint initiative with cantons, cities, universities and private companies has enabled web-based viewing of spatial data on mobile devices. The solution is based on a publicly available open source framework. Geospatial information e.g. geo.admin.ch will be able to be directly viewed in smartphone browsers.</lead>
+      <text link="no">&lt;p&gt;With up to 10’000 users per day, the map viewer http://map.geo.admin.ch covers a need of the general public. The next step in servicing this need is to enable the availability of this service on mobile devices equipped with small screens. To ensure the widest possible use, the solution has to be web browser-based. Therefore an open source browser and operating system-independent framework approach has been chosen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;New form of cooperation in framework development&lt;br /&gt; &lt;/strong&gt;Sponsors of the project representing governmental organisations on different national and international levels as well as private companies have recently completed an intensive collaboration in which the choosen software framework has been enhanced to meet the requirements of the project. Specifically, the existing framework called OpenLayers is extended to display maps on mobile devices: As result, the end user is not forced to acquire specific hardware or additional proprietary software. The following features will allow mobile access to spatial data: selection of data records, search by gazetteer and postal codes, automatic positioning of the current location, support for multiple languages and the ability to report revisions of data content.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;New requirements&lt;br /&gt; &lt;/strong&gt;According to recognized market studies; within the next 18 months more tabletPCs and smartphones will be sold than DesktopPCs. At the same time, adaption and operation of technologies for mobile devices is of strategic importance for large organizations in 2011. The nature of mobile devices is such that their general systems have lower performance parameters compared to desktop PCs (screen resolution, input options, data transmission, etc.) that must be taken into account. The main challenge of extending the availability of geo information to mobile devices is adaptation of computer code to display detailed maps within the constraints of limited mobile network bandwidth.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Open Source and Open Standards&lt;br /&gt; &lt;/strong&gt;Thanks to the use of open source software, the solution developed can be used without license fees. Open software standards have been utilised to allow the future development of the product which meets the needs of each partner. Moreover, it leverages possible synergies in expertise between administrative bodies and industry.&lt;/p&gt; &lt;p&gt;This project is coordinated by the geoportal of the Swiss Confederation geo.admin.ch. geo.admin.ch is operated by the Federal Office of Topography, swisstopo on behalf of the coordinating body for Federal geographical information (GKG-GCS). It has been set up on the basis of the new Swiss Geoinformation Act and the Geoinformation Ordinance which follows from this new law, under which public institutions are obliged to make the most part of the official geographical data relating to their areas of responsibility under Federal law available in the form of a spatial data infrastructure.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sponsors:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Camptocamp:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.camptocamp.com&lt;br /&gt; Canton Zurich:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.zh.ch&lt;br /&gt; Canton Neuchâtel:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ne.ch&lt;br /&gt; Canton Jura:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.jura.ch&lt;br /&gt; City of Uster:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.uster.ch&lt;br /&gt; City of Vevey:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.vevey.ch&lt;br /&gt; École Polytechnique Fédérale de Lausanne:&amp;nbsp;http://www.epfl.ch&lt;br /&gt; Federal Office of Topography swisstopo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisstopo.admin.ch&lt;br /&gt; geo.admin.ch:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.geo.admin.ch&lt;br /&gt; Geoportail Luxemburg:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.act.public.lu&lt;br /&gt; Nokia:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.nokia.com&lt;br /&gt; OpenGeo:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://opengeo.org&lt;br /&gt; Schweizmobil:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.schweizmobil.ch&lt;br /&gt; Swiss Open Systems User Group:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.ch-open.ch&lt;br /&gt; Swisscom:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.swisscom.ch&lt;br /&gt; Terrestris:&amp;nbsp;&amp;nbsp;&amp;nbsp;http://www.terrestris.de&lt;/p&gt;</text>
+      <contact>David Oesch geo.admin.ch Project Manager COGIS, Federal Office of Topography swisstopo 031 963 23 15 david.oesch@swisstopo.ch</contact>
+      <link id="80382">
+        <title>Geoportal of the Swiss Confederation</title>
+        <uri>http://www.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80383">
+        <title>Geoportal map viewer</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="80384">
+        <title>Twitter geoportal</title>
+        <uri>http://twitter.com/swiss_geoportal</uri>
+        <position>Context</position>
+      </link>
+      <link id="80385">
+        <title>Codesprint</title>
+        <uri>http://wiki.osgeo.org/wiki/Lausanne_Code_Sprint_2011</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2011-02-24 09:52" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="5410" org-id="506">
+        <name lang="de">Kartografie</name>
+        <name lang="fr">Cartographie</name>
+        <name lang="it">Cartografia</name>
+        <name lang="en">Cartography</name>
+      </keyword>
+      <keyword id="5580" org-id="506">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">economy</name>
+      </keyword>
+      <keyword id="5590" org-id="506">
+        <name lang="de">Rechtliche Grundlagen</name>
+        <name lang="fr">Bases légales</name>
+        <name lang="it">Basi legali</name>
+        <name lang="en">legal foundations</name>
+      </keyword>
+      <keyword id="5610" org-id="506">
+        <name lang="de">Entwicklung / Planung / Reform</name>
+        <name lang="fr">Développement / Planification / Réforme</name>
+        <name lang="it">Sviluppo / Pianificazione / Riforma</name>
+        <name lang="en">development / planning / reform</name>
+      </keyword>
+      <keyword id="5820" org-id="506">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastructure</name>
+        <name lang="it">Infrastruttura</name>
+        <name lang="en">infrastructure</name>
+      </keyword>
+      <keyword id="5830" org-id="506">
+        <name lang="de">Systemeinführung</name>
+        <name lang="fr">Introduction des systèmes</name>
+        <name lang="it">Introduzione di sistemi</name>
+        <name lang="en">introduction / fielding of system</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="27">
+        <name lang="de">Reisen und Tourismus</name>
+        <name lang="fr">Voyages et tourisme</name>
+        <name lang="it">Viaggi e turismo</name>
+        <name lang="en">Travel and Tourism</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

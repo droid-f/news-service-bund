@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="78940" revoked="no">
+    <version>2</version>
+    <pubdate>2020-04-29</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Einreisebeschränkungen werden ab 11. Mai schrittweise gelockert</title>
+      <lead>Der Bundesrat will die corona-bedingten Einreisebeschränkungen parallel zu den wirtschaftlichen Öffnungsetappen schrittweise lockern. Ab dem 11. Mai sollen zunächst die vor dem 25. März eingereichten Gesuche von Erwerbstätigen aus dem EU/EFTA-Raum und aus Drittstaaten bearbeitet werden (Pendenzenabbau). Für Schweizer und EU-Bürger soll ab diesem Datum zudem der Familiennachzug in die Schweiz wieder möglich sein. Die Grenzkontrollen bleiben hingegen bestehen. Der Bundesrat hat das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, diese Lockerungsmassnahmen vorzubereiten.</lead>
+      <text link="no"> &lt;p&gt;Der Bundesrat räumt dem Schutz der Schweizer Bevölkerung vor einer Ausbreitung des Coronavirus weiterhin höchste Priorität ein. Lockerungen bei der Einreise in die Schweiz und bei der Zulassung ausländischer Staatsangehöriger zum hiesigen Arbeitsmarkt und zum Aufenthalt in der Schweiz sollen nur dann vorgenommen werden, wenn die epidemiologische Entwicklung dies erlaubt. Zugleich will der Bundesrat die negativen Auswirkungen der Einschränkungen an der Grenze auf die Schweizer Wirtschaft minimieren. Mit einer schrittweisen Lockerung der Einreisebeschränkungen kann die Wirkung der einzelnen Entscheidungen überprüft und unter Berücksichtigung der epidemiologischen und der arbeitsmarktlichen Entwicklung über weitere Etappen entschieden werden. Diese Massnahmen werden in enger Absprache mit den Nachbarländern getroffen. &lt;/p&gt; &lt;p&gt;Folgende erste Lockerungen im Migrationsbereich werden am 11. Mai 2020 in Kraft treten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Die Kantone bearbeiten alle Gesuche um eine Aufenthalts- oder Grenzgängerbewilligung von Erwerbstätigen aus einem EU- oder EFTA-Staat, die schon vor der Einführung der Einreisebeschränkungen (am 25. März 2020) eingereicht wurden. Das Gleiche gilt für Meldungen über den Stellenantritt für einen kurzfristigen Arbeitseinsatz bei einem Arbeitgeber in der Schweiz und für grenzüberschreitende Dienstleistungen von maximal 90 Tagen pro Jahr.&lt;/li&gt;&lt;li&gt;Auch neue Meldungen für grenzüberschreitende Dienstleistungen werden wieder gemäss den üblichen Vorgaben des FZA bearbeitet, sofern sich die Dienstleistungserbringung auf einen schriftlichen Vertrag stützt, der vor dem 25. März 2020 abgeschlossen wurde. So kann beispielsweise ein Monteur aus Deutschland eine bereits bestellte Maschine in einem Schweizer Unternehmen installieren.&lt;/li&gt;&lt;li&gt;Arbeitnehmenden aus Drittstaaten, die bereits über eine Bewilligung für eine Erwerbstätigkeit in der Schweiz verfügen, denen aufgrund der geltenden Einreisebeschränkungen aber kein Visum mehr ausgestellt werden konnte, wird die Einreise erlaubt.&lt;/li&gt;&lt;li&gt;Gesuche für eine Anstellung von Personen aus Drittstaaten, die vor dem Inkrafttreten der Zulassungsbeschränkungen für Drittstaatenangehörige (am 19. März 2020) eingereicht wurden, werden weiterbearbeitet. Sie werden genehmigt, sofern die Voraussetzungen gemäss Ausländergesetz erfüllt sind und die Stelle tatsächlich angetreten werden kann.&lt;/li&gt;&lt;li&gt;Der Familiennachzug wird für Familienangehörige von Schweizer Bürgerinnen und Bürgern wieder möglich. Das Gleiche gilt für Familienangehörige von in der Schweiz lebenden Personen aus den EU/EFTA-Staaten.&lt;/li&gt;&lt;li&gt;Die Grenzkontrollen werden weitergeführt. Es können zusätzliche Grenzübergänge geöffnet werden, um übermässige Wartezeiten zu verhindern. Damit die Kontrollintensität an den Landgrenzen hochgehalten werden kann, dürfen Flugpassagiere aus dem Ausland weiterhin nur an den Flughäfen Zürich, Genf und Basel einreisen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Alle anderen Einschränkungen im Migrationsbereich sollen vorerst noch in Kraft bleiben. Der Bundesrat hat aber eine erste Aussprache über weitergehende Lockerungsmassnahmen im Migrationsbereich geführt. Er hat dabei grundsätzlich über einen nächsten Schritt entschieden, der für den 8. Juni vorgesehen ist, sofern die epidemiologische Situation dies erlaubt. Der Bundesrat sieht vor, dass ab diesem Datum wieder alle Gesuche von erwerbstätigen EU- und EFTA-Staatsangehörigen bearbeitet werden können, die ihre Tätigkeit in der Schweiz auch tatsächlich ausüben können. Dieser zweite Öffnungsschritt soll in Absprache mit den Kantonen und den Sozialpartnern erfolgen und durch die Aktivierung der sistierten Stellenmeldepflicht flankiert werden.&lt;/p&gt; </text>
+      <contact>Kontakt für Medienanfragen: Information und Kommunikation SEM, T +41 58 465 78 44 Kontakt für Bürgerinnen und Bürger: info@sem.admin.ch</contact>
+      <revisions>
+        <revision date="2020-04-29 16:15" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : assouplissement progressif des restrictions d’entrée à partir du 11 mai</title>
+      <lead>Le Conseil fédéral entend assouplir de façon progressive les restrictions d’entrée liées au coronavirus, parallèlement aux étapes d’ouverture qu’il a définies concernant la vie économique. À partir du 11 mai, il est d’abord prévu de traiter les demandes déposées avant le 25 mars par les travailleurs en provenance des États membres de l’UE ou de l’AELE et des États tiers (réduction du nombre de demandes en suspens), et le regroupement familial en Suisse sera à nouveau possible pour les citoyens suisses et ceux des pays de l’UE. Les contrôles aux frontières, par contre, seront maintenus. Le Conseil fédéral a chargé le Département fédéral de justice et police (DFJP) de préparer ces mesures d’assouplissement.</lead>
+      <text link="no"> &lt;p&gt;La protection de la population suisse contre la propagation du coronavirus reste une priorité absolue pour le Conseil fédéral. Les règles en matière d'entrée et de séjour en Suisse ainsi que d'accès des étrangers au marché suisse du travail ne seront assouplies que si l'évolution de la situation épidémiologique le permet. Dans le même temps, le Conseil fédéral entend réduire au minimum les effets négatifs des restrictions à la frontière sur l'économie suisse. L'assouplissement progressif des restrictions d'entrée permettra d'analyser les effets des décisions prises et de prendre en compte l'évolution de la situation épidémiologique et du marché de l'emploi pour décider des étapes suivantes. Ces mesures seront prises en étroite consultation avec les pays voisins.&lt;/p&gt;&lt;p&gt;Les premiers assouplissements qui entreront en vigueur le 11 mai 2020 dans le domaine migratoire sont les suivants :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Les cantons traiteront toutes les demandes d'autorisation de séjour ou d'autorisation frontalière déposées avant la mise en place des restrictions d'entrée (le 25 mars 2020) par des travailleurs en provenance d'un État membre de l'UE ou de l'AELE. Il en ira de même pour les annonces de prise d'emploi pour une mission de courte durée auprès d'un employeur en Suisse et pour les prestations transfrontalières d'une durée n'excédant pas 90 jours par an.&lt;/li&gt;&lt;li&gt;Les nouvelles annonces relatives à des prestations transfrontalières seront, elles aussi, à nouveau traitées conformément aux prescriptions habituelles de l'Accord sur la libre circulation des personnes, pour autant que la prestation se fonde sur un contrat conclu par écrit avant le 25 mars 2020. À titre d'exemple, un monteur en provenance d'Allemagne pourra installer dans une entreprise suisse une machine déjà commandée.&lt;/li&gt;&lt;li&gt;Les travailleurs d'États tiers qui possèdent déjà une autorisation d'exercer une activité lucrative en Suisse mais qui n'avaient pas pu obtenir de visa à cause des restrictions d'entrée pourront entrer en Suisse.&lt;/li&gt;&lt;li&gt;Les demandes d'engagement de ressortissants d'États tiers déposées avant l'entrée en vigueur des restrictions d'accès au marché du travail pour ces ressortissants (le 19 mars 2020) seront traitées - et acceptées si les conditions prévues par la loi fédérale sur les étrangers et l'intégration sont remplies et que l'intéressé peut effectivement occuper le poste.&lt;/li&gt;&lt;li&gt;Le regroupement familial sera à nouveau possible pour les membres de la famille de citoyens suisses. Il le sera également pour les membres de la famille de ressortissants d'États membres de l'UE ou de l'AELE qui vivent en Suisse.&lt;/li&gt;&lt;li&gt;Les contrôles aux frontières se poursuivront. Des postes-frontières supplémentaires pourront être ouverts pour éviter des temps d'attente excessifs. Afin de maintenir l'intensité des contrôles aux frontières terrestres, les voyageurs des vols en provenance de l'étranger ne pourront toujours entrer en Suisse qu'aux aéroports de Zurich, Genève et Bâle.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Toutes les autres restrictions mises en place dans le domaine migratoire resteront en vigueur jusqu'à nouvel ordre. Le Conseil fédéral a toutefois mené une première discussion sur de nouvelles mesures d'assouplissement dans ce domaine. Il s'est prononcé sur la prochaine étape, qui est prévue pour le 8 juin, si la situation épidémiologique le permet. Le Conseil fédéral prévoit qu'à compter de cette date, toutes les demandes de ressortissants d'États membres de l'UE ou de l'AELE qui exercent une activité lucrative et sont effectivement à même de l'exercer en Suisse pourront à nouveau être traitées. Cette deuxième étape d'ouverture se déroulera en concertation avec les cantons et les partenaires sociaux, et s'accompagnera de la réactivation de l'obligation d'annoncer les postes vacants.&lt;/p&gt; </text>
+      <contact>Contact pour les médias: Information et communication SEM, T +41 58 465 78 44 Contact pour les citoyens: info@sem.admin.ch</contact>
+      <revisions>
+        <revision date="2020-04-29 16:15" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: le restrizioni d’entrata saranno progressivamente allentate a partire dall’11 maggio</title>
+      <lead>Il Consiglio federale intende allentare progressivamente le restrizioni d’entrata dovute al coronavirus in parallelo alla ripresa graduale dell’economia. Dall’11 maggio, saranno innanzitutto trattate le domande presentate prima del 25 marzo dai lavoratori provenienti dall’area UE/AELS e da Stati terzi (riduzione delle domande pendenti). Inoltre, a partire da questa data, sarà nuovamente possibile per i cittadini svizzeri e dell’UE il ricongiungimento familiare in Svizzera. Restano invece in vigore i controlli alle frontiere. Il Consiglio federale ha incaricato il Dipartimento federale di giustizia e polizia (DFGP) di preparare queste misure di allentamento.</lead>
+      <text link="no"> &lt;p&gt;Per il Consiglio federale, tutelare la popolazione svizzera dalla diffusione del coronavirus resta la massima priorità, pertanto si procederà all'allentamento delle norme sull'entrata in Svizzera e sull'ammissione di stranieri nel mercato del lavoro locale e a fini di soggiorno in Svizzera solo se lo sviluppo epidemiologico lo consente. Al tempo stesso, il Collegio esecutivo vuole minimizzare l'impatto negativo delle restrizioni alle frontiere sull'economia svizzera. Un allentamento graduale delle restrizioni d'entrata consente di valutare l'effetto delle singole decisioni e di stabilire come procedere nelle fasi successive alla luce degli sviluppi epidemiologici e del mercato del lavoro. Queste misure saranno adottate d'intesa con i Paesi limitrofi. &lt;/p&gt; &lt;p&gt;L'11 maggio 2020 entreranno in vigore le seguenti misure di allentamento in materia di migrazione.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;I Cantoni tratteranno tutte le domande di permesso di dimora o di permesso per frontalieri presentate dai lavoratori provenienti dall'UE o dall'AELS prima dell'introduzione delle restrizioni d'entrata (25 marzo 2020). Lo stesso vale per le notifiche di assunzione per impieghi di breve durata presso un datore di lavoro in Svizzera e per le prestazioni di servizi transfrontaliere di massimo 90 giorni all'anno.&lt;/li&gt;&lt;li&gt;Le nuove notifiche per prestazioni di servizi transfrontaliere saranno trattate secondo le consuete prescrizioni dell'Accordo sulla libera circolazione delle persone se la fornitura del servizio si basa su un contratto scritto stipulato prima del 25 marzo 2020. Ad esempio, un installatore tedesco potrà montare in un'azienda svizzera un macchinario che era già stato ordinato.&lt;/li&gt;&lt;li&gt;Ai lavoratori provenienti da Stati terzi già titolari di un permesso per esercitare un'attività lucrativa in Svizzera che non hanno potuto ottenere il visto a causa delle restrizioni d'entrata in vigore sarà consentita l'entrata nel Paese.&lt;/li&gt;&lt;li&gt;Le domande di assunzione di cittadini di Stati terzi presentate prima dell'entrata in vigore delle restrizioni d'ammissione loro applicabili (19 marzo 2020) saranno trattate e approvate a condizione che siano soddisfatti i requisiti della legislazione sugli stranieri e che queste persone possano effettivamente assumere il posto di lavoro.&lt;/li&gt;&lt;li&gt;Sarà nuovamente possibile il ricongiungimento familiare per i familiari di cittadini svizzeri e per i familiari di cittadini di Stati UE/AELS che vivono in Svizzera.&lt;/li&gt;&lt;li&gt;I controlli alle frontiere continueranno a essere effettuati. Sarà consentito aprire ulteriori valichi di frontiera per ridurre i tempi di attesa eccessivi. Per mantenere l'intensità dei controlli alle frontiere terrestri, i passeggeri dei voli provenienti dall'estero continueranno a poter entrare in Svizzera solo negli aeroporti di Zurigo, Ginevra e Basilea.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Per il momento restano in vigore tutte le altre restrizioni in materia di migrazione. Il Consiglio federale ha tuttavia tenuto un primo dibattito su ulteriori misure di allentamento nel settore della migrazione e definito un passo successivo fissandolo per l'8 giugno, se la situazione epidemiologica lo consentirà. Il Collegio esecutivo prevede che a partire da tale data saranno nuovamente esaminate tutte le domande di lavoratori provenienti dall'UE e dall'AELS effettivamente in grado di svolgere un'attività lucrativa in Svizzera. Questa seconda fase di apertura sarà effettuata di concerto con i Cantoni e le parti sociali e sarà affiancata dalla riattivazione dell'obbligo di annunciare i posti vacanti. &lt;/p&gt; </text>
+      <contact>Contatto per i media: Informazione e comunicazione SEM, T +41 58 465 78 44 Contatto per i cittadini: info@sem.admin.ch</contact>
+      <revisions>
+        <revision date="2020-04-29 16:15" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Restrictions on entry to be gradually relaxed from 11 May</title>
+      <lead>The Federal Council plans to gradually relax the restrictions on entry imposed as a result of the coronavirus crisis in step with the gradual reopening of the economy. From 11 May onwards, applications submitted by workers from the EU/EFTA and third countries before 25 March will be processed (the backlog will be reduced). From this date, it should also be possible for family members of Swiss citizens and EU citizens to enter Switzerland. Border controls, however, will remain in place. The Federal Council has tasked the Federal Department of Justice and Police (FDJP) with preparing these measures to ease the lockdown.</lead>
+      <text link="no"> &lt;p&gt;Protecting the Swiss public against the spread of the coronavirus continues to be the highest priority for the Federal Council. Any easing of the restrictions on entry into Switzerland or on allowing foreign citizens to work or stay in the country will only take place once the epidemiological situation permits. That said, the Federal Council also wants to minimise the negative impact of restricting entry into the country on the economy. By easing the restrictions gradually, the impact of each step can be assessed and decisions made about further stages, considering at all times developments in the epidemiological situation and on the labour market. These measures are being closely discussed with Switzerland's neighbouring countries.&lt;/p&gt; &lt;p&gt;The following initial steps to ease the lockdown on movement of people will come into effect on 11 May:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The cantons will process all applications for residence permits and cross-border commuter permits submitted by workers from an EU or EFTA member state before the introduction of entry restrictions (25 March). The same applies for notification of commencement of work for short deployments with an employer in Switzerland and for cross-border services provided for a maximum of 90 days a year.&lt;/li&gt;&lt;li&gt;New notifications for cross-border services will again be processed in accordance with the usual terms of the Agreement on the Free Movement of Persons provided the service provision is based on a written contract signed before 25 March 2020. For example, a mechanic from Germany may install a machine previously ordered by a Swiss company.&lt;/li&gt;&lt;li&gt;Workers from third countries who already have a permit to work in Switzerland, but who were not issued a visa because of the restrictions imposed on entry, are now permitted to enter the country.&lt;/li&gt;&lt;li&gt;Applications to employ persons from third countries submitted before the restrictions on this category came into effect (19 March) will now be processed. They will be approved provided the provisions of the Foreign Nationals and Integration Act are met and the person(s) in question can actually take up the position.&lt;/li&gt;&lt;li&gt;Family reunification for family members of Swiss citizens is again possible. The same applies for family members of people from EU/EFTA states living in Switzerland.&lt;/li&gt;&lt;li&gt;The current border controls will continue. Additional border crossings will be opened in order to avoid excessive waiting times. Flights from abroad will still only be able to land at Zurich, Geneva or Basel airports so that sufficient border controls can be made. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;All other restrictions on cross-border movement will remain in place for the time being. However, the Federal Council has already discussed a further easing of the lockdown in this area. A decision has been taken in principle that from 8 June it will be possible to process applications from all workers from EU and EFTA states who are actually able to take up their employment in Switzerland, if the epidemiological situation so permits. This second step in the easing of the lockdown will be taken in consultation with the cantons and social partners. The requirement to give notification of job vacancies, which has been temporarily suspended, will also be reactivated.&lt;/p&gt; </text>
+      <contact>Contact for media: Information and communication SEM, T +41 58 465 78 44 Contact for citizens: info@sem.admin.ch</contact>
+      <revisions>
+        <revision date="2020-04-29 16:15" type="R"/>
+      </revisions>
+    </content>
+    <keywords>
+      <keyword id="95" org-id="405">
+        <name lang="de">Schengen/Dublin</name>
+        <name lang="fr">Schengen/Dublin</name>
+        <name lang="it">Schengen/Dublin</name>
+        <name lang="en">Schengen/Dublin</name>
+      </keyword>
+      <keyword id="129" org-id="405">
+        <name lang="de">Pandemie</name>
+        <name lang="fr">Pandémie</name>
+        <name lang="it">Pandemia</name>
+        <name lang="en">Pandemic</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="20">
+        <name lang="de">Migration</name>
+        <name lang="fr">Migrations</name>
+        <name lang="it">Migrazione</name>
+        <name lang="en">Migration</name>
+      </topic>
+      <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douanes</name>
+        <name lang="it">Dogane</name>
+        <name lang="en">Customs</name>
+      </topic>
+    </topics>
+    <catalogueElements>
+      <catalogueElement id="110">
+        <name lang="de">Covid-19</name>
+        <name lang="fr">Covid-19</name>
+        <name lang="it">Covid-19</name>
+        <name lang="en">Covid-19</name>
+      </catalogueElement>
+    </catalogueElements>
+  </message>
+</messages>

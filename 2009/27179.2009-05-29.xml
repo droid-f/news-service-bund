@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="27179" revoked="no">
+    <version>1</version>
+    <pubdate>2009-05-29</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="302" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="322" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Staatssekretariat für Bildung und Forschung (SBF) - ab 1.1.2013 SBFI</name>
+      <name lang="fr">Secrétariat d'Etat à l'éducation et à la recherche (SER) - dès le 1.1.2013 SEFRI</name>
+      <name lang="it">Segreteria di Stato per l'educazione e la ricerca (SER) - a partire dal 1.1.2013 SEFRI</name>
+      <name lang="en">State Secretariat for Education and Research (SER) - as of 1.1.2013 SERI</name>
+      <www lang="de">http://www.sbf.admin.ch</www>
+      <www lang="fr">http://www.sbf.admin.ch</www>
+      <www lang="it">http://www.sbf.admin.ch</www>
+      <www lang="en">http://www.sbf.admin.ch</www>
+      <email lang="de">info@sbf.admin.ch</email>
+      <email lang="fr">info@sbf.admin.ch</email>
+      <email lang="it">info@sbf.admin.ch</email>
+      <email lang="en">info@sbf.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="702" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Generalsekretariat WBF</name>
+      <name lang="fr">Secrétariat général DEFR</name>
+      <name lang="it">Segreteria generale DEFR</name>
+      <name lang="en">Secretariat-General EAER</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="704" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Berufsbildung und Technologie (BBT) - ab 1.1.2013 SBFI</name>
+      <name lang="fr">Office fédéral de la formation professionnelle et de la technologie (OFFT) - dès le 1.1.2013 SEFRI</name>
+      <name lang="it">Ufficio federale della formazione professionale e della tecnologia (UFFT) - a partire dal 1.1.2013 SEFRI</name>
+      <name lang="en">Federal Office for Professional Education and Technology (OPET) - as of 1.1.2013 SERI</name>
+      <www lang="de">http://www.bbt.admin.ch/</www>
+      <www lang="fr">http://www.bbt.admin.ch/</www>
+      <www lang="it">http://www.bbt.admin.ch/</www>
+      <www lang="en">http://www.bbt.admin.ch/</www>
+      <email lang="de">info@bbt.admin.ch</email>
+      <email lang="fr">info@bbt.admin.ch</email>
+      <email lang="it">info@bbt.admin.ch</email>
+      <email lang="en">info@bbt.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>„Hochschullandschaft Schweiz“: Bundesrat überweist Gesetzesentwurf und Botschaft an die Eidgenössischen Räte</title>
+      <lead>Der Bundesrat hat heute den Entwurf zum Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG) und die dazugehörende Botschaft verabschiedet. Das HFKG konkretisiert den neuen Hochschulartikel der Bundesverfassung und schafft die notwendigen Grundlagen für einen wettbewerbsfähigen, durchlässigen und qualitativ hochstehenden Hochschulraum Schweiz.</lead>
+      <text link="no">Das Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG) stützt sich auf den neuen Art. 63a der Bundesverfassung, der die Koordination des schweizerischen Hochschulbereichs durch Bund und Kantone vorsieht. Neu sollen Bund und Kantone gemeinsam für einen wettbewerbsfähigen, koordinierten und qualitativ hochstehenden gesamtschweizerischen Hochschulbereich – bestehend aus Eidgenössischen Technischen Hochschulen, kantonalen Universitäten, Fachhochschulen, Pädagogischen Hochschulen und anderen Institutionen des Hochschulbereichs – sorgen. Dabei berücksichtigt das Gesetz die Hochschulautonomie und die unterschiedlichen Aufgaben der verschiedenen Hochschulen. Das Gesetz lässt Trägerzuständigkeit und -verantwortung unberührt. &lt;p&gt;Das neue Gesetz legt die gemäss Verfassung notwendigen Koordinations- und Förderungsgrundlagen fest. Es löst die bisherigen Erlasse des Bundes für die Universitäten und Fachhochschulen ab und sorgt so für eine wesentliche Vereinfachung und Vereinheitlichung der Koordination des schweizerischen Hochschulbereichs.&lt;/p&gt; &lt;p&gt;Geregelt werden im HFKG insbesondere:&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; die Rahmenbedingungen für die gemeinsame Koordination des gesamten Hochschulbereichs zwischen Bund und Kantonen: Dazu gehören die Festlegung gemeinsamer Ziele, die Einrichtung gemeinsamer Organe mit den dafür notwendigen Kompetenzen (Schweizerische Hochschulkonferenz, Rektorenkonferenz der schweizerischen Hochschulen und Schweizerischer Akkreditierungsrat mit Agentur für Akkreditierung und Qualitätssicherung), die Grundsätze und das Verfahren für eine gesamtschweizerische hochschulpolitische Planung und Aufgabenteilung, vor allem in besonders kostenintensiven Bereichen, sowie die gemeinsame transparente und optimierte Ermittlung des Finanzbedarfs im Hochschulbereich. Dabei spielt die Festlegung einheitlicher Finanzierungsgrundsätze (Referenzkosten) für die kantonalen Universitäten und Fachhochschulen als Basis für die Grundfinanzierung durch den Bund bzw. die interkantonalen Beiträge eine wichtige Rolle;&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; die Grundsätze der Qualitätssicherung und deren Sicherstellung durch ein einheitliches Akkreditierungssystem. Fortan dürfen nur institutionell akkreditierte Hochschulen die Bezeichnungen „Universität", „Fachhochschule“ und „Pädagogische Hochschule“ bzw. Verbindungen damit führen;&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; die Sicherstellung des Fachhochschulprofils durch die Festlegung der bisherigen Vorbildungen als Zulassungsvoraussetzungen zum Studium und dem Erfordernis der Berufsqualifikation auf der ersten Studienstufe;&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; die Voraussetzungen für die Ausrichtung von Bundesbeiträgen an kantonale universitäre Hochschulen und Fachhochschulen. Beide erhalten neu einheitlich und stärker leistungsorientiert ausgestaltete Beiträge in Form von Grundbeiträgen, Bauinvestitions- oder -nutzungsbeiträgen und projektgebundenen Beiträgen. Die Finanzierungssicherheit der Grundfinanzierung durch den Bund wird dank gebundener Beiträge – analog zu den interkantonalen Beiträgen – wesentlich erhöht.&lt;/p&gt; &lt;p&gt;Mit dem neuen Koordinations- und Förderungsgesetz werden damit in wichtigen Bereichen für alle Hochschulen geltende einheitliche Rahmenbedingungen für einen wettbewerbsfähigen Schweizer Hochschulraum von hoher Qualität geschaffen.&lt;/p&gt; &amp;nbsp;Für das Zustandekommen der gemeinsamen Koordination bedarf es zusätzlich einer Zusammenarbeitsvereinbarung zwischen Bund und Kantonen sowie kantonsseitig eines Hochschulkonkordats.</text>
+      <contact>Mauro Dell’Ambrogio, Staatssekretär für Bildung und Forschung Tel. 031 322 68 99 Ursula Renold, Direktorin des Bundesamts für Berufsbildung und Technologie BBT Tel. 031 323 76 12</contact>
+      <link id="55149">
+        <title>Gesetzesentwurf, Botschaft und Presserohstoff</title>
+        <uri>http://www.sbf.admin.ch/hfkg.htm</uri>
+        <position>Context</position>
+      </link>
+      <link id="55150">
+        <title>Weitere Informationen</title>
+        <uri>http://www.hfkg.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>«Paysage suisse des hautes écoles»: le Conseil fédéral transmet le projet de loi et le message aux Chambres</title>
+      <lead>Le Conseil fédéral a approuvé aujourd’hui le projet de loi fédérale sur l’aide aux hautes écoles et la coordination dans le domaine suisse des hautes écoles (LAHE) et le message aux Chambres qui l’accompagne. La LAHE met en œuvre le nouvel article constitutionnel sur les hautes écoles et crée les bases nécessaires pour la qualité, la compétitivité et la coordination dans l’espace suisse des hautes écoles.</lead>
+      <text link="no">&lt;p&gt;La loi fédérale sur l'aide aux hautes écoles et la coordination dans le domaine suisse des hautes écoles (LAHE) se fonde sur le nouvel art.&amp;nbsp;63a de la Constitution fédérale, qui prévoit la coordination de l’espace suisse des hautes écoles par la Confédération et les cantons. Selon la nouvelle loi, la Confédération veille avec les cantons à la qualité, à la compétitivité et à la coordination du domaine suisse des hautes écoles, lequel englobe les écoles polytechniques fédérales, les universités cantonales, les hautes écoles spécialisées, les hautes écoles pédagogiques et les autres institutions du domaine des hautes écoles. Elle tient compte de l’autonomie des hautes écoles et de la mission spécifique des différents types de hautes écoles. Les compétences et les responsabilités des collectivités responsables des hautes écoles demeurent inchangées.&amp;nbsp;&lt;/p&gt; &lt;p&gt;La nouvelle loi fixe les bases de la coordination et de l’encouragement voulues par la Constitution. Elle remplacera les actuelles lois fédérales distinctes pour les universités et les hautes écoles spécialisées et amènera de ce fait une simplification et une harmonisation de la coordination du domaine suisse des hautes écoles. &amp;nbsp;&lt;/p&gt; &lt;p&gt;La nouvelle loi règle en particulier:&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Les conditions cadre pour la coordination conjointe de l’ensemble du domaine des hautes écoles par la Confédération et les cantons. En font partie la définition d’objectifs communs, la création d’organes communs dotés des compétences nécessaires à cette fin (Conférence suisse des hautes écoles, Conférence des recteurs des hautes écoles suisses, Conseil suisse d’accréditation et Agence suisse d’accréditation et d’assurance de la qualité), les principes et la procédure en vue d’une planification de la politique des hautes écoles à l’échelle nationale et d’une répartition des tâches, notamment dans les domaines particulièrement onéreux, ainsi que la détermination commune, transparente et optimisée des besoins financiers dans le domaine des hautes écoles. La définition de principes de financement uniformes (coûts de référence) pour les contributions fédérales de base et les contributions intercantonales en faveur des universités cantonales et des hautes écoles spécialisées joue un rôle important dans ce dispositif.&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Les principes de l’assurance de la qualité et la garantie de cette dernière par un système uniforme d’accréditation. En vertu de la nouvelle loi, seules les hautes écoles ayant l’accréditation institutionnelle auront droit aux appellations d’université, de haute école spécialisée ou de haute école pédagogique, y compris dans leurs formes dérivées.&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La pérennisation du profil des hautes écoles spécialisées par la définition des formations préliminaires exigées pour accéder aux études et de la qualification professionnelle devant être atteinte au terme du premier cycle d’études;&lt;/p&gt; &lt;p&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Les conditions pour l’allocation de contributions fédérales aux universités cantonales et aux hautes écoles spécialisées. L’aide fédérale sera harmonisée et plus fortement axée sur les prestations, sous forme de contributions de base, de contributions aux investissements et aux frais locatifs et de contributions liées à des projets. La stabilité du financement fédéral de base sera considérablement augmentée grâce à des contributions liées, analogues aux contributions intercantonales.&amp;nbsp;&lt;/p&gt; &lt;p&gt;La nouvelle loi créera ainsi des conditions cadre uniformes avec pour but un espace suisse des hautes écoles de qualité et compétitif. &amp;nbsp;&lt;/p&gt; &lt;p&gt;La mise en œuvre de la coordination commune requiert une convention de coopération entre la Confédération et les cantons et la conclusion d’un concordat intercantonal sur les hautes écoles.&lt;/p&gt;</text>
+      <contact>Mauro Dell’Ambrogio, Secrétaire d’Etat à l’éducation et à la recherche Tél. 031 322 68 99 Ursula Renold, directrice de l’Office fédéral de la formation professionnelle et de la technologie OFFT, Tél. 031 323 76 12</contact>
+      <link id="55151">
+        <title>Projet de loi fédérale, Message relatif à la loi fédérale et Documentation de base</title>
+        <uri>http://www.sbf.admin.ch/lahe.htm</uri>
+        <position>Context</position>
+      </link>
+      <link id="55152">
+        <title>Plus d’informations</title>
+        <uri>http://www.lahe.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>«Panorama universitario svizzero»: il Consiglio federale trasmette alle Camere il disegno di legge e il messaggio</title>
+      <lead>Il Consiglio federale ha adottato oggi il disegno della legge federale sull’aiuto alle scuole universitarie e sul coordinamento nel settore universitario svizzero (LASU) e il relativo messaggio. La LASU concretizza il nuovo articolo costituzionale sulle scuole universitarie e crea le basi per uno spazio universitario svizzero competitivo, coordinato e di elevata qualità.</lead>
+      <text link="no">&lt;p&gt;La legge federale sull’aiuto alle scuole universitarie e sul coordinamento nel settore universitario svizzero (LASU) si fonda sull’articolo 63a della Costituzione federale che prevede il coordinamento congiunto di Confederazione e Cantoni nel settore universitario svizzero. In virtù della nuova legge, la Confederazione deve garantire, insieme ai Cantoni, che il settore universitario svizzero – composto dai due politecnici federali, dalle università cantonali, dalle scuole universitarie professionali, dalle alte scuole pedagogiche e da altri istituti accademici – sia competitivo, coordinato e di elevata qualità. La LASU tiene conto dell’autonomia delle scuole universitarie e della diversità dei loro compiti. Competenze e responsabilità restano, invece, invariate.&lt;/p&gt; &lt;p&gt;Conformemente al citato articolo costituzionale, la nuova legge getta le basi per il coordinamento e il finanziamento del settore universitario svizzero. Sostituisce le normative federali in vigore sinora per le università cantonali e le scuole universitarie professionali e contribuisce così a una notevole semplificazione e unificazione del coordinamento in questo settore.&lt;/p&gt; &lt;p&gt;La LASU disciplina in particolare:&lt;/p&gt; &lt;p&gt;•&amp;nbsp;&amp;nbsp; Le condizioni quadro del coordinamento congiunto di Confederazione e Cantoni nell’intero settore universitario. Tra queste rientrano: la definizione di obiettivi comuni, la costituzione di organi comuni dotati delle necessarie competenze (Conferenza svizzera delle scuole universitarie, Conferenza svizzera dei rettori delle scuole universitarie, Consiglio svizzero di accreditamento, Agenzia svizzera di accreditamento e garanzia della qualità), i principi e la procedura per la pianificazione della politica universitaria e la ripartizione dei compiti nei settori particolarmente costosi a livello nazionale, nonché la determinazione ottimale e trasparente del fabbisogno finanziario nel settore universitario. In quest’ambito, la fissazione di principi di finanziamento unitari (costi di riferimento) per le università cantonali e le scuole universitarie professionali costituisce un elemento fondamentale per il finanziamento di base assicurato dalla Confederazione e per i sussidi intercantonali.&lt;/p&gt; &lt;p&gt;•&amp;nbsp;&amp;nbsp; I principi di garanzia della qualità e un sistema di accreditamento unitario che ne assicuri il rispetto: in futuro soltanto gli istituti che avranno ottenuto l’accreditamento istituzionale potranno denominarsi «università», «scuola universitaria professionale» e «alta scuola pedagogica» o utilizzare eventuali denominazioni derivate.&lt;/p&gt; &lt;p&gt;•&amp;nbsp;&amp;nbsp; Il mantenimento del profilo delle scuole universitarie professionali mediante la definizione delle formazioni pregresse richieste quale condizione di ammissione allo studio e al conseguimento di un diploma che attesti le qualifiche professionali necessarie per il primo livello di studio.&lt;/p&gt; &lt;p&gt;•&amp;nbsp;&amp;nbsp; Le condizioni per la concessione di sussidi federali alle università, agli istituti accademici cantonali e alle scuole universitarie professionali. Il finanziamento sarà basato su principi unitari e orientati alle prestazioni e prevede sussidi di base, sussidi per gli investimenti edili e le spese locative, nonché sussidi vincolati a progetti. La garanzia del finanziamento di base della Confederazione aumenterà notevolmente grazie ai sussidi federali vincolati, analogamente ai sussidi intercantonali.&lt;/p&gt; &lt;p&gt;La nuova legge sull’aiuto alle scuole universitarie e sul coordinamento nel settore universitario svizzero stabilisce, in settori importanti, condizioni quadro unitarie e valide per tutte le scuole universitarie, contribuendo in tal modo a uno spazio universitario svizzero competitivo e di elevata qualità.&lt;/p&gt; &lt;p&gt;Per poter realizzare il coordinamento congiunto previsto dalla LASU sono necessari una Convenzione sulla cooperazione fra Confederazione e Cantoni e un Concordato intercantonale sulle scuole universitarie.&lt;/p&gt;</text>
+      <contact>Mauro Dell’Ambrogio, segretario di Stato per l’educazione e la ricerca SER Tel. 031 322 68 99 Ursula Renold, direttrice dell’Ufficio federale della formazione professionale e della tecnologia UFFT Tel. 031 323 76 12</contact>
+      <link id="55147">
+        <title>Messaggio, disegno di legge et documentazione stampa LASU</title>
+        <uri>http://www.sbf.admin.ch/lasu.htm</uri>
+        <position>Context</position>
+      </link>
+      <link id="55148">
+        <title>Ulteriori informazioni</title>
+        <uri>http://www.lasu.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

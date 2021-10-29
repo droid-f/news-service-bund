@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="69943" revoked="no">
+    <version>1</version>
+    <pubdate>2018-02-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="502" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1059" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Nationale Alarmzentrale</name>
+      <name lang="fr">Centrale nationale d'alarme</name>
+      <name lang="it">Centrale nazionale d'allarme</name>
+      <name lang="en">National Emergency Operations Centre</name>
+      <www lang="de">http://www.naz.ch</www>
+      <www lang="fr">http://www.naz.ch</www>
+      <www lang="it">http://www.naz.ch</www>
+      <www lang="en">http://www.naz.ch</www>
+      <email lang="de">info@naz.ch</email>
+      <email lang="fr">info@naz.ch</email>
+      <email lang="it">info@naz.ch</email>
+      <email lang="en">info@naz.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Sirenentest 2018: Fehler im System wird behoben – Sirenentest wird wiederholt</title>
+      <lead>Beim gesamtschweizerischen Sirenentest vom 7. Februar 2018 ist bei der Fernsteuerung der Sirenen eine technische Störung aufgetreten (siehe Medienmitteilung vom 8. Februar 2018). Gleichwohl ist sichergestellt, dass der Sirenenalarm im Notfall ausgelöst werden kann. Inzwischen konnte die Ursache der Störung identifiziert werden. Die Massnahmen zur Fehlerbehebung sind eingeleitet. Der Sirenentest wird auf gesamtschweizerischer Ebene wiederholt.</lead>
+      <text link="no">&lt;p&gt;Der Sirenentest vom 7. Februar 2018 war nur teilweise erfolgreich. Im zentralen System zur Steuerung der Sirenen ist eine technische Störung aufgetreten. Das Bundesamt für Bevölkerungsschutz BABS hat zusammen mit dem externen Betreiber des Systems unverzüglich Massnahmen ergriffen, um das System so schnell wie möglich wieder stabil und funktionsfähig zu machen. Seit dem Abend des Sirenentests läuft das System wieder im normalen Betriebsmodus. Ab diesem Zeitpunkt war die ferngesteuerte Auslösung der Sirenen grundsätzlich in der ganzen Schweiz wieder möglich. Unabhängig von der technischen Störung des Steuerungssystems ist zudem die Handauslösung der Sirenen jederzeit gewährleistet.&lt;/p&gt;&lt;p&gt;Der Systembetreiber hat die Ursache der Störung umfassend untersucht, im Ergebnis konnte sie eindeutig identifiziert werden: Es handelt sich um einen Software-Fehler, der zu einer Störung des Datenaustauschs zwischen der zentralen Polyalert-Datenbank und den entsprechenden Applikationsservern geführt hat. Damit konnten die erforderlichen Massnahmen definiert werden, um den Fehler zu beheben. Die Arbeiten werden zurzeit mit hoher Priorität und Dringlichkeit umgesetzt.&lt;/p&gt;&lt;p&gt;Sobald die Korrekturmassnahmen implementiert sind, wird die Funktionsfähigkeit des Systems umfassend und auf verschiedenen Stufen getestet. In Zusammenarbeit mit den Kantonen plant das BABS, den gesamtschweizerischen Sirenentest mit Echtauslösung der Sirenen noch im ersten Halbjahr 2018 zu wiederholen. Dabei sollen grundsätzlich alle Sirenen sowohl für den Allgemeinen Alarm als auch für den Wasseralarm ausgelöst werden.&lt;/p&gt;</text>
+      <contact>Kurt Münger Chef Kommunikation BABS 058 462 55 83</contact>
+      <link id="175468">
+        <title>Medienmitteilung vom 08.02.2018</title>
+        <uri>https://www.babs.admin.ch/content/babs-internet/de/home.detail.nsb.html/69745.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Test des sirènes 2018: erreur en cours d'élimination – le test doit être répété</title>
+      <lead>Lors du test des sirènes effectué dans toute la Suisse le 7 février dernier, un dérangement technique était apparu au moment de la télécommande des sirènes (voir le communiqué de presse du 8 février 2018). Ce dysfonctionnement n'aurait cependant pas empêché le déclenchement de l'alarme en cas d'événement réel. Entre-temps, la cause du problème a pu être identifiée. Les mesures visant à éliminer l'erreur ont été mises en route. De plus, le test des sirènes devra être répété à l'échelle nationale.</lead>
+      <text link="no">&lt;p&gt;Le test des sirènes du 7 février dernier n'a été que partiellement réussi. Un dérangement technique est en effet survenu dans le système central de commande des sirènes. Avec la collaboration de l'exploitant externe du système, l'Office fédéral de la protection de la population (OFPP) a immédiatement pris les mesures nécessaires pour rétablir la stabilité et le fonctionnement normal de ce système dans les plus brefs délais. Depuis le soir du test, le système refonctionne de manière normale, si bien que les sirènes pouvaient théoriquement à nouveau être déclenchées à l'aide de la télécommande centralisée sur l'ensemble du territoire suisse. Indépendamment du dérangement technique survenu dans le système de commande, le déclenchement manuel des sirènes demeure en outre garanti à tout moment.&lt;/p&gt;&lt;p&gt;Après avoir analysé le dysfonctionnement en détail, l'exploitant du système a pu en déterminer clairement la cause: le dérangement est dû à une erreur de logiciel empêchant l'échange correct de données entre la banque centrale de données de Polyalert et les serveurs d'application correspondants. Ainsi, les mesures requises pour éliminer l'erreur ont pu être définies. Ces travaux sont actuellement effectués avec une priorité élevée.&lt;/p&gt;&lt;p&gt;Dès que les mesures correctrices auront été réalisées, le fonctionnement du système sera mis à l'épreuve de manière complète et à divers échelons. L'OFPP prévoit, en collaboration avec les cantons, de répéter le test national des sirènes avec déclenchement effectif encore durant le premier semestre 2018. À cet effet, toutes les sirènes devront en principe être déclenchées aussi bien pour l'alarme générale que pour l'alarme eau.&lt;/p&gt;</text>
+      <contact>Kurt Münger Chef Communication OFPP 058 462 55 83</contact>
+      <link id="175469">
+        <title>Communiqué de presse du 08.02.2018</title>
+        <uri>https://www.babs.admin.ch/content/babs-internet/fr/home.detail.nsb.html/69745.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Prova delle sirene 2018: riparazione del guasto al telecomando e ripetizione della prova</title>
+      <lead>Durante la prova nazionale delle sirene del 7 febbraio 2018 si è verificato un guasto tecnico al telecomando delle sirene (cfr. comunicato stampa dell’8 febbraio 2018). Rimane comunque garantito che l’allarme tramite sirene possa essere attivato in caso d’emergenza. Nel frattempo, la causa del guasto è stata individuata e le misure di riparazione sono state avviate. La prova delle sirene verrà ripetuta a livello nazionale.</lead>
+      <text link="no">&lt;p&gt;La prova delle sirene del 7 febbraio è stata superata solo in parte. Nel sistema centrale di telecomando delle sirene si è verificato un guasto. L’Ufficio federale della protezione della popolazione (UFPP) ha subito adottato, in collaborazione con l’operatore esterno del sistema, le misure necessarie per ripristinare la stabilità e il funzionamento del sistema. Il sistema è stato rimesso in stato operativo la sera stessa del giorno della prova, così da garantire nuovamente un’attivazione remota delle sirene in tutta la Svizzera. Indipendentemente dai guasti tecnici al telecomando, rimane inoltre possibile attivare manualmente le sirene in qualsiasi momento.&lt;/p&gt;&lt;p&gt;L’operatore del sistema ha esaminato a fondo la causa del guasto e lo ha individuato in modo chiaro. Si trattava di un difetto del software che ha interrotto lo scambio dei dati tra la banca dati centrale Polyalert e i corrispondenti server applicativi. È stato quindi possibile definire le misure necessarie per risolvere il problema. I lavori sono in fase d’esecuzione con la massima priorità e urgenza.&lt;/p&gt;&lt;p&gt;Una volta implementate le misure correttive, l’intera funzionalità del sistema verrà testata a diversi livelli. In collaborazione con i cantoni, l’UFPP prevede di ripetere la prova nazionale delle sirene ancora nel primo semestre del 2018. Di principio verranno attivate tutte le sirene, vale a dire sia quelle per l’allarme generale, sia quelle per l’allarme acqua.&lt;/p&gt;</text>
+      <contact>Kurt Münger Capo Comunicazione UFPP 058 462 55 83</contact>
+      <link id="175470">
+        <title>Comunicato stampa del 08.02.2018</title>
+        <uri>https://www.babs.admin.ch/content/babs-internet/it/home.detail.nsb.html/69745.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5120" org-id="507">
+        <name lang="de">Katastrophenhilfe</name>
+        <name lang="fr">Aide en cas de catastrophe</name>
+        <name lang="it">Aiuto in caso di catastrofe</name>
+        <name lang="en">Disaster Relief</name>
+      </keyword>
+      <keyword id="5150" org-id="507">
+        <name lang="de">Warnung und Alarmierung</name>
+        <name lang="fr">Alerte et Alarme</name>
+        <name lang="it">Preallarme e Allarme</name>
+        <name lang="en">Warning an Alerting</name>
+      </keyword>
+      <keyword id="5170" org-id="507">
+        <name lang="de">Schutzinfrastruktur</name>
+        <name lang="fr">Infrastructure de protection</name>
+        <name lang="it">Infrastruttura di protezione</name>
+        <name lang="en">Protection Infrastructure</name>
+      </keyword>
+      <keyword id="5360" org-id="507">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologies / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+      <keyword id="5380" org-id="507">
+        <name lang="de">Bevölkerungsschutz</name>
+        <name lang="fr">Protection de la population</name>
+        <name lang="it">Protezione della popolazione</name>
+        <name lang="en">civil protection</name>
+      </keyword>
+      <keyword id="5480" org-id="507">
+        <name lang="de">Material / Ausrüstung</name>
+        <name lang="fr">Matériel / Équipement</name>
+        <name lang="it">Materiale / Equipaggiamento</name>
+        <name lang="en">material / equipment</name>
+      </keyword>
+      <keyword id="5610" org-id="507">
+        <name lang="de">Entwicklung / Planung / Reform</name>
+        <name lang="fr">Développement / Planification / Réforme</name>
+        <name lang="it">Sviluppo / Pianificazione / Riforma</name>
+        <name lang="en">development / planning / reform</name>
+      </keyword>
+      <keyword id="5710" org-id="507">
+        <name lang="de">Aufklärung Beobachtung Lageerstellung</name>
+        <name lang="fr">Reconnaissance et observation établissement de la situation</name>
+        <name lang="it">Esplorazione / Osservazione / Allestimento del quadro della situazione</name>
+        <name lang="en">reconnaissance observation compilation of the situation</name>
+      </keyword>
+      <keyword id="5820" org-id="507">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastructure</name>
+        <name lang="it">Infrastruttura</name>
+        <name lang="en">infrastructure</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="28">
+        <name lang="de">Telekommunikation</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="it">Telecomunicazione</name>
+        <name lang="en">Telecommunications</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="12623" revoked="no">
+    <version>6</version>
+    <pubdate>2007-05-16</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="605" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="1014" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Integrationsbüro EDA/EVD (IB) - ab 1.1.2013 im EDA</name>
+      <name lang="fr">Bureau de l'intégration DFAE/DFE (BI) - dès le 1.1.2013 au DFAE</name>
+      <name lang="it">Ufficio dell'integrazione DFAE/DFE (UI) - a partire dal 1.1.2013 nel DFAE</name>
+      <name lang="en">Integration Office DFA/DEA (IO) - as of 1.1.2013 in the FDFA</name>
+      <www lang="de">http://www.europa.admin.ch</www>
+      <www lang="fr">http://www.europa.admin.ch</www>
+      <www lang="it">http://www.europa.admin.ch</www>
+      <www lang="en">http://www.europa.admin.ch</www>
+      <email lang="de">europa@ib.admin.ch</email>
+      <email lang="fr">europa@ib.admin.ch</email>
+      <email lang="it">europa@ib.admin.ch</email>
+      <email lang="en">europa@ib.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="1007" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Integrationsbüro EDA/EVD (IB) - ab 1.1.2013 im EDA</name>
+      <name lang="fr">Bureau de l'intégration DFAE/DFE (BI) - dès le 1.1.2013 au DFAE</name>
+      <name lang="it">Ufficio dell'integrazione DFAE/DFE (UI) - a partire dal 1.1.2013 nel DFAE</name>
+      <name lang="en">Integration Office FDFA/FDEA (IO) - as of 1.1.2013 in the FDFA</name>
+      <www lang="de">http://www.europa.admin.ch</www>
+      <www lang="fr">http://www.europa.admin.ch</www>
+      <www lang="it">http://www.europa.admin.ch</www>
+      <www lang="en">http://www.europa.admin.ch</www>
+      <email lang="de">europa@ib.admin.ch</email>
+      <email lang="fr">europa@ib.admin.ch</email>
+      <email lang="it">europa@ib.admin.ch</email>
+      <email lang="en">europa@ib.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Stellungnahme des Bundesrates zu den Anliegen der EU betreffend kantonale Steuerpraktiken</title>
+      <teaser>Bundespräsidentin Micheline Calmy-Rey und Bundesrat Hans-Rudolf Merz haben heute Mittwoch an einer Pressekonferenz Stellung bezogen zu den Meinungsverschiedenheiten, welche zwischen der Schweiz und der Europäischen Union in Bezug auf gewisse kantonale Steuerpraktiken bestehen - namentlich bei der Gewinnbesteuerung von Holdings, Verwaltungs- und gemischten Gesellschaften. Merz machte klar, dass der Bundesrat eine Verletzung des Freihandelsabkommens von 1972 klar zurückweise und Verhandlungen mit der EU im Steuerbereich ablehne. Er sei aber durchaus bereit, den Dialog mit Brüssel zu gegebener Zeit aufzunehmen und die Haltung der Schweiz darzulegen. Das EFD wurde vom Bundesrat beauftragt einen entsprechenden Dialog mit der EU ausserhalb jedes Verhandlungskontexts vorzubereiten und dem Bundesrat zur Entscheidung zu unterbreiten. Calmy-Rey wies auf die wirtschaftliche und politische Bedeutung der Beziehungen zur EU. Der bilaterale Weg dürfe durch die Differenzen in der Steuerfrage nicht gefährdet werden. Dies sei im Interesse beider Parteien.</teaser>
+      <lead/>
+      <text link="no">Bundespräsidentin Micheline Calmy-Rey und Bundesrat Hans-Rudolf Merz haben heute Mittwoch an einer Pressekonferenz Stellung bezogen zu den Meinungsverschiedenheiten, welche zwischen der Schweiz und der Europäischen Union in Bezug auf gewisse kantonale Steuerpraktiken bestehen - namentlich bei der Gewinnbesteuerung von Holdings, Verwaltungs- und gemischten Gesellschaften. Merz machte klar, dass der Bundesrat eine Verletzung des Freihandelsabkommens von 1972 klar zurückweise und Verhandlungen mit der EU im Steuerbereich ablehne. Er sei aber durchaus bereit, den Dialog mit Brüssel zu gegebener Zeit aufzunehmen und die Haltung der Schweiz darzulegen. Das EFD wurde vom Bundesrat beauftragt einen entsprechenden Dialog mit der EU ausserhalb jedes Verhandlungskontexts vorzubereiten und dem Bundesrat zur Entscheidung zu unterbreiten. Calmy-Rey wies auf die wirtschaftliche und politische Bedeutung der Beziehungen zur EU.&amp;nbsp; Der bilaterale Weg dürfe durch die Differenzen in der Steuerfrage nicht gefährdet werden. Dies sei im Interesse beider Parteien.</text>
+      <contact/>
+      <link id="66241">
+        <title>Pressekonferenz des Bundesrates vom 16.05.2007 (Audio / Video)</title>
+        <uri>http://www.admin.ch/ch/d/conferenza/archiv/2007/20070516/1099/index.html</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions>
+        <revision date="2007-05-16 17:51" type="R"/>
+        <revision date="2007-05-16 16:47" type="R"/>
+        <revision date="2007-05-16 16:20" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Position du Conseil fédéral face à la démarche de l’UE concernant les pratiques fiscales des cantons</title>
+      <teaser>Lors d’une conférence de presse qui s’est tenue aujourd’hui mercredi, la présidente de la Confédération Micheline Calmy-Rey et le conseiller fédéral Hans-Rudolf Merz ont pris position sur les divergences qui opposent la Suisse à l’Union européenne au sujet de certaines pratiques cantonales en matière d’imposition du bénéfice des sociétés holding, des sociétés de gestion et des sociétés mixtes. Hans-Rudolf Merz a clairement indiqué que le Conseil fédéral rejetait fermement tout reproche de violation de l’accord de libre-échange de 1972 et refusait toute négociation fiscale avec l’UE. Le Conseil fédéral est toutefois pleinement disposé à ouvrir le dialogue avec Bruxelles au moment opportun, afin d'expliquer la position de la Suisse. Il a donc chargé le DFF d’élaborer un projet de dialogue avec l’UE, à mener en dehors de tout contexte de négociations, et de soumettre ce projet au Conseil fédéral pour décision. Micheline Calmy-Rey a souligné l’importance économique et politique des relations avec l’UE. Elle a rappelé qu’il était dans l’intérêt des deux parties de ne pas compromettre la voie bilatérale par des divergences d’opinion sur les questions fiscales.</teaser>
+      <lead/>
+      <text link="no">Lors d’une conférence de presse qui s’est tenue aujourd’hui mercredi, la présidente de la Confédération Micheline Calmy-Rey et le conseiller fédéral Hans-Rudolf Merz ont pris position sur les divergences qui opposent la Suisse à l’Union européenne au sujet de certaines pratiques cantonales en matière d’imposition du bénéfice des sociétés holding, des sociétés de gestion et des sociétés mixtes. Hans-Rudolf Merz a clairement indiqué que le Conseil fédéral rejetait fermement tout reproche de violation de l’accord de libre-échange de 1972 et refusait toute négociation fiscale avec l’UE. Le Conseil fédéral est toutefois pleinement disposé à ouvrir le dialogue avec Bruxelles au moment opportun, afin d'expliquer la position de la Suisse. Il a donc chargé le DFF d’élaborer un projet de dialogue avec l’UE, à mener en dehors de tout contexte de négociations, et de soumettre ce projet au Conseil fédéral pour décision. Micheline Calmy-Rey a souligné l’importance économique et politique des relations avec l’UE. Elle a rappelé qu’il était dans l’intérêt des deux parties de ne pas compromettre la voie bilatérale par des divergences d’opinion sur les questions fiscales.</text>
+      <contact/>
+      <link id="66242">
+        <title>Conférence de presse du Conseil fédéral du 16.05.2007 (audio / video)</title>
+        <uri>http://www.admin.ch/ch/f/conferenza/archiv/2007/20070516/1099/index.html</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Parere del Consiglio federale sulla richiesta dell'UE concernente le pratiche fiscali cantonali</title>
+      <teaser>In data odierna, durante una conferenza stampa, la Presidente della Confederazione Micheline Calmy-Rey e il consigliere federale Hans-Rudolf Merz hanno preso posizione, sulle divergenze di opinione tra la Svizzera e l'Unione europea concernenti alcune pratiche fiscali cantonali. Si tratta in particolare dell'imposizione degli utili di società holding, di gestione e miste. Merz ha asserito che il Consiglio federale respinge le accuse di violazione dell'Accordo di libero scambio del 1972 come pure qualsiasi trattativa con l'UE in campo fiscale. Tuttavia, secondo il ministro delle finanze, il Governo è senz'altro disposto ad avviare, a tempo debito, il dialogo con Bruxelles e a presentare la posizione della Svizzera. Il Consiglio federale ha incaricato il DFF di preparare una proposta di dialogo con l'UE al di fuori del contesto dei negoziati e di sottoporgliela per decisione. La Presidente della Confederazione ha posto l'accento sulla grande importanza delle relazioni con l'UE. Nell'interesse di entrambe le parti, la via dei bilaterali non deve essere pregiudicata dalle vertenze fiscali.</teaser>
+      <lead/>
+      <text link="no">In data odierna, durante una conferenza stampa, la Presidente della Confederazione Micheline Calmy-Rey e il consigliere federale Hans-Rudolf Merz hanno preso posizione, sulle divergenze di opinione tra la Svizzera e l'Unione europea concernenti alcune pratiche fiscali cantonali. Si tratta in particolare dell'imposizione degli utili di società holding, di gestione e miste. Merz ha asserito che il Consiglio federale respinge le accuse di violazione dell'Accordo di libero scambio del 1972 come pure qualsiasi trattativa con l'UE in campo fiscale. Tuttavia, secondo il ministro delle finanze, il Governo è senz'altro disposto ad avviare, a tempo debito, il dialogo con Bruxelles e a presentare la posizione della Svizzera. Il Consiglio federale ha incaricato il DFF di preparare una proposta di dialogo con l'UE al di fuori del contesto dei negoziati e di sottoporgliela per decisione. La Presidente della Confederazione ha posto l'accento sulla grande importanza delle relazioni con l'UE. Nell'interesse di entrambe le parti, la via dei bilaterali non deve essere pregiudicata dalle vertenze fiscali.</text>
+      <contact/>
+      <link id="66243">
+        <title>Conferenza stampa del Consiglio federale del 16.05.2007 (audio / video)</title>
+        <uri>http://www.admin.ch/ch/i/conferenza/archiv/2007/20070516/1099/index.html</uri>
+        <position>Conferenza</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="125" org-id="1007">
+        <name lang="de">Schweizerische Europapolitik</name>
+        <name lang="fr">Politique européenne de la Suisse</name>
+        <name lang="it">Politica europea della Svizzera</name>
+        <name lang="en">Swiss European Policy</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="1007100" org-id="1007">
+        <name lang="de">Kantonale Unternehmungsbesteuerung</name>
+        <name lang="fr">Régimes fiscaux cantonaux</name>
+        <name lang="it">Regimi fiscali cantonali</name>
+        <name lang="en">Cantonal Corporation Tax</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

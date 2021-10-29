@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="49347" revoked="no">
+    <version>1</version>
+    <pubdate>2013-06-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="1072" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Koordinationsorgan für Geoinformation des Bundes</name>
+      <name lang="fr">Organe de coordination de la géoinformation au niveau fédéral</name>
+      <name lang="it">Organo di coordinamento nel settore della geoinformazione della Confederazione</name>
+      <name lang="en">Coordinating agency for Federal geographical information GSG</name>
+      <www lang="de">http://www.geo.admin.ch</www>
+      <www lang="fr">http://www.geo.admin.ch/internet/geoportal/fr/home.html</www>
+      <www lang="it">http://www.geo.admin.ch/internet/geoportal/it/home.html</www>
+      <www lang="en">http://www.geo.admin.ch/internet/geoportal/en/home.html</www>
+      <email lang="de">info@swisstopo.admin.ch</email>
+      <email lang="fr">info@swisstopo.admin.ch</email>
+      <email lang="it">info@swisstopo.admin.ch</email>
+      <email lang="en">info@swisstopo.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="318" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Statistik</name>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="en">Federal Statistical Office</name>
+      <www lang="de">http://www.statistik.admin.ch</www>
+      <www lang="fr">http://www.statistique.admin.ch</www>
+      <www lang="it">http://www.statistica.admin.ch</www>
+      <www lang="en">http://www.statistics.admin.ch</www>
+      <email lang="de">info@bfs.admin.ch</email>
+      <email lang="fr">info@bfs.admin.ch</email>
+      <email lang="it">info@bfs.admin.ch</email>
+      <email lang="en">info@bfs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="506" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Wabern</city>
+      <title>Cadastralinfo – per Mausklick zu Grundstückinformationen</title>
+      <lead>Der neue Dienst Cadastralinfo bietet via Internet einen einfachen Zugang zu verschiedensten Informationen des schweizerischen Katasterwesens. Die neue Anwendung der Amtlichen Vermessung Schweiz findet mit einer Adresse, einer Parzellennummer oder den Landeskoordinaten ein gesuchtes Grundstück und liefert nebst Plan und Luftaufnahme auch die zugehörigen Informationen.</lead>
+      <text link="no">&lt;p&gt;Wer zu einer Liegenschaft die Adresse des verantwortlichen Grundbuchamtes resp. Grundbuchkreises benötigt oder wer die Adresse der lokal zuständigen Nachführungsgeometerin oder des Nachführungsgeometers wissen möchte - weil beispielsweise ein Grundstück geteilt werden soll - findet diese Informationen mit dem neuen Dienst nun auf einfache Weise. Angesprochen werden, nebst Personen aus Verwaltung und Wirtschaft, vor allem Bürgerinnen und Bürger, die mit Cadastralinfo auf direktem Weg Zugang zu den verschiedenen Grundstückinformationen bekommen.&lt;br /&gt;&lt;br /&gt;Um zu den gewünschten Informationen zu gelangen, gibt man auf www.cadastre.ch/info lediglich die Adresse, die Parzellennummer oder die Koordinaten ein. Auf Plan und Luftaufnahme wird das gewählte Grundstück angezeigt. Zusammen mit den administrativen Informationen kann das Ergebnis schnell und einfach ausgedruckt werden.&lt;br /&gt;&lt;br /&gt;Cadastralinfo wurde mit den Daten der amtlichen Vermessung - basierend auf der Infrastruktur des Geoportals des Bundes, geo.admin.ch - aufgebaut. Der Dienst kann jederzeit mit weiteren Daten von Behörden ausgebaut werden.&lt;/p&gt;</text>
+      <contact>David Oesch, Projektleiter geo.admin.ch, KOGIS, Bundesamt für Landestopografie swisstopo Tel. 031 963 23 15, david.oesch@swisstopo.ch Fridolin Wicki, Leiter Eidgenössische Vermessungsdirektion, Bundesamt für Landestopografie swisstopo Tel. 031 963 23 10, fridolin.wicki@swisstopo.ch</contact>
+      <link id="111331">
+        <title>Bildschirmabbildungen Cadastralinfo</title>
+        <uri>http://www.cadastre.ch/info</uri>
+        <position>Context</position>
+      </link>
+      <link id="111332">
+        <title>Fotos Amtliche Vermessung Schweiz</title>
+        <uri>http://www.cadastre.ch/internet/cadastre/de/home/pr/gallery.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111333">
+        <title>Portal für das schweizerische Katasterwesen</title>
+        <uri>http://www.cadastre.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="111334">
+        <title>Geoportal des Bundes</title>
+        <uri>http://www.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Wabern</city>
+      <title>Cadastralinfo – des informations sur vos biens-fonds par un simple clic de souris</title>
+      <lead>Le nouveau service Cadastralinfo offre, via Internet, un accès simple vers les différentes informations du cadastre suisse. Cette nouvelle prestation de la Mensuration Officielle Suisse est accessible en donnant l’adresse, le numéro de parcelle ou les coordonnées nationales d’un bien-fonds donné et affiche, en plus du plan et d’une vue aérienne, les informations administratives correspondantes.</lead>
+      <text link="no">&lt;p&gt;Que l'on ait besoin de l'adresse du bureau ou de l'arrondissement du registre foncier relatif à un bien-fonds, ou que l'on désire connaître l'adresse du géomètre conservateur compétent - parce qu'une parcelle devrait par exemple être divisée - on trouvera les informations souhaitées très simplement grâce à ce nouveau service. En plus des personnes de l'administration et de l'économie, toutes les citoyennes et tous les citoyens peuvent ainsi obtenir directement toutes les informations relatives aux biens-fonds.&lt;br /&gt;&lt;br /&gt;Afin d'obtenir les informations souhaitées, il suffit d'introduire sur www.cadastre.ch/info l'adresse, le numéro de parcelle ou les coordonnées. Le bien-fonds choisi sera alors affiché sur un plan et sur une vue aérienne. Ce résultat, complété par les informations administratives, peut être rapidement et simplement imprimé.&lt;br /&gt;&lt;br /&gt;Cadastralinfo est basé sur les données de la mensuration officielle et utilise l'infrastructure du géoportail de la Confédération, geo.admin.ch. Ce service pourra en tout temps être complété par d'autres données provenant des autorités.&lt;/p&gt;</text>
+      <contact>David Oesch, chef de projet geo.admin.ch, KOGIS, Office fédéral de topographie swisstopo Tél. 031 963 23 15, david.oesch@swisstopo.ch Fridolin Wicki, responsable de la Direction fédérale des mensurations cadastrales, Office fédéral de topographie swisstopo Tél. 031 963 23 10, fridolin.wicki@swisstopo.ch</contact>
+      <link id="111335">
+        <title>Copies d’écran Cadastralinfo</title>
+        <uri>http://www.cadastre.ch/internet/cadastre/fr/home/products/cadastralinfo.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111336">
+        <title>Photos Mensuration officielle suisse</title>
+        <uri>http://www.cadastre.ch/internet/cadastre/fr/home/pr/gallery.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111337">
+        <title>Portail du cadastre suisse</title>
+        <uri>http://www.cadastre.ch/internet/top/fr/home.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111338">
+        <title>le géoportail fédéral</title>
+        <uri>http://www.geo.admin.ch/internet/geoportal/fr/home.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Wabern</city>
+      <title>Cadastralinfo – informazioni sui fondi a portata di mouse</title>
+      <lead>Il nuovo servizio Cadastralinfo offre un facile accesso via Internet alle più diverse informazioni del sistema catastale svizzero. La nuova applicazione della Misurazione Ufficiale Svizzera trova il fondo cercato in base a un indirizzo, a un numero di particella o alle coordinate nazionali e fornisce oltre al piano e all’immagine aerea anche le relative informazioni.</lead>
+      <text link="no">&lt;p&gt;Chi necessita dell'indirizzo dell'uficio del registro fondiario rispettivamente del distretto del registro fondiario competenteo desidera conoscere l'indirizzo del geometra responsabile della tenuta a giorno competente a livello locale - ad esempio in vista della divisione di un fondo - può trovare ora queste informazioni facilmente grazie al nuovo servizio messo a disposizione. Oltre che a persone dell'amministrazione e dell'economia, il servizio si rivolge soprattutto ai cittadini che grazie a Cadastralinfo ottengono un accesso diretto alle diverse informazioni sui fondi.&lt;br /&gt;&lt;br /&gt;Per accedere alle informazioni desiderate, basa inserire su www.cadastre.ch/info l'indirizzo, il numero di particella o le coordinate. Sul piano e nell'immagine aerea viene quindi visualizzato il fondo selezionato. Insieme alle informazioni amministrative, il risultato può quindi essere stampato velocemente e in tutta facilità.&lt;br /&gt;&lt;br /&gt;Cadastralinfo è stato realizzato con i dati della misurazione ufficiale sulla base dell'infrastruttura del geoportale della Confederazione geo.admin.ch. Il servizio può essere ampliato in qualsiasi momento attraverso l'aggiunta di altri dati forniti dalle autorità.&lt;/p&gt;</text>
+      <contact>David Oesch, capoprogetto geo.admin.ch, COSIG, Ufficio federale di topografia swisstopo Tel. 031 963 23 15, david.oesch@swisstopo.ch Fridolin Wicki, responsabile della Direzione federale delle misurazioni catastali, Ufficio federale di topografia swisstopo Tel. 031 963 23 10, fridolin.wicki@swisstopo.ch</contact>
+      <link id="111339">
+        <title>Immagini sul monitor Cadastralinfo</title>
+        <uri>http://www.cadastre.ch/internet/cadastre/it/home/products/cadastralinfo.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111340">
+        <title>Foto della misurazione ufficiale svizzera</title>
+        <uri>http://www.cadastre.ch/internet/cadastre/it/home/pr/gallery.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111341">
+        <title>Portale del sistema catastale svizzero</title>
+        <uri>http://www.cadastre.ch/internet/top/it/home.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="111342">
+        <title>il geoportale della Confederazione</title>
+        <uri>http://www.geo.admin.ch/internet/geoportal/it/home.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5410" org-id="506">
+        <name lang="de">Kartografie</name>
+        <name lang="fr">Cartographie</name>
+        <name lang="it">Cartografia</name>
+        <name lang="en">Cartography</name>
+      </keyword>
+      <keyword id="5660" org-id="506">
+        <name lang="de">Natur / Umwelt</name>
+        <name lang="fr">Nature / Environnement</name>
+        <name lang="it">Natura / Ambiente</name>
+        <name lang="en">nature / environment</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="152" revoked="no">
+    <version>1</version>
+    <pubdate>2005-08-09</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="606" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Importe von Digitalkameras: 50 x Zoom</title>
+      <lead>Digitale Foto- und Videokameras erfreuen sich hierzulande grosser Nachfrage: die Zahl der importierten Digitalkameras ist zwischen 1998 und 2004 auf mehr als das Fünfzigfache gestiegen. Letztes Jahr wurden 834'000 Digitalkameras importiert, womit auf jede/n neunte/n Einwohner/ in in der Schweiz ein Gerät entfiel.</lead>
+      <text link="no">&lt;p&gt;Ganze Medienmitteilung als PDF-Datei verfügbar&lt;/p&gt;</text>
+      <contact/>
+      <attachment id="183">
+        <title>Medienmitteilung "Importe von Digitalkameras: 50 x Zoom"</title>
+        <format>pdf</format>
+        <size-kb>35</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Les importations d’appareils numériques zooment 50x</title>
+      <lead>La demande d’appareils photo et caméras numériques a littéralement explosé dans notre pays : entre 1998 et 2004, les importations de ces produits se sont même multipliées par plus de cinquante. L’année dernière, 834'000 appareils numériques ont été importés, soit concrètement un appareil pour neuf habitants.</lead>
+      <text link="no">&lt;p&gt;Communiqué de presse intégral disponible en tant que document pdf&lt;/p&gt;</text>
+      <contact/>
+      <attachment id="184">
+        <title>Communiqué de presse "Les importations d’appareils numériques zooment 50x"</title>
+        <format>pdf</format>
+        <size-kb>35</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/75.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="12" org-id="606">
+        <name lang="de">Aussenhandelsstatistik</name>
+        <name lang="fr">Statistique du commerce extérieur</name>
+        <name lang="it">Statistica del commercio con l'estero</name>
+        <name lang="en">Foreign trade statistics</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="183" org-id="606">
+        <name lang="de">Aussenhandelsstatistik</name>
+        <name lang="fr">Statistique du commerce extérieur</name>
+        <name lang="it">Statistica del commercio con l'estero</name>
+        <name lang="en">Foreign trade statistics</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+      <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douanes</name>
+        <name lang="it">Dogane</name>
+        <name lang="en">Customs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

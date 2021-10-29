@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="50748" revoked="no">
+    <version>1</version>
+    <pubdate>2013-10-29</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1077" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Informatiksteuerungsorgan des Bundes (ab 01.01.2021 Digitale Transformation und IKT-Lenkung)</name>
+      <name lang="fr">Unité de pilotage informatique de la Confédération (nouveau: Transformation numérique et gouvernance de l’informatique)</name>
+      <name lang="it">Organo direzione informatica della Confederazione (dall'01.01.2021: Trasformazione digitale e governance delle TIC)</name>
+      <name lang="en">Federal IT Steering Unit (ab 01.01.2021: Digitale Transformation und IKT-Lenkung)</name>
+      <www lang="de">http://www.isb.admin.ch</www>
+      <www lang="fr">http://www.upic.admin.ch</www>
+      <www lang="it">http://www.odic.admin.ch</www>
+      <www lang="en">http://www.fitsu.admin.ch</www>
+      <email lang="de">info@isb.admin.ch</email>
+      <email lang="fr">info@isb.admin.ch</email>
+      <email lang="it">info@isb.admin.ch</email>
+      <email lang="en">info@isb.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>DDoS-Angriffe - Massive Zunahme auch in der Schweiz - 17. Halbjahresbericht MELANI</title>
+      <lead>Der grösste DDoS-Angriff in der Geschichte des Internets, E-Banking-Angriffe mit Smartphone-Trojanern und zahlreiche gezielte Spionageangriffe bilden inhaltlich die Schwerpunkte des heute publizierten 17. Halbjahresberichts der Melde- und Analysestelle Informationssicherung (MELANI). Zusätzlich veröffentlicht MELANI heute Sicherheitsempfehlungen zu industriellen Kontrollsystemen sowie zu Content Management Systemen.</lead>
+      <text link="no">&lt;p&gt;Das erste Halbjahr 2013 war vor allem durch die Berichterstattung über die Internetüberwachung einzelner Nachrichtendienste geprägt, die durch den Informanten Edward Snowden bekannt gemacht wurden. Doch auch andere Ereignisse rund ums Internet, welche MELANI in ihrem heutigen Halbjahresbericht aufführt, waren in den letzten Monaten von Bedeutung. &lt;/p&gt;&lt;h3&gt;Massive DDoS-Angriffe auch in der Schweiz&lt;/h3&gt;&lt;p&gt;Bereits in den letzten Jahren wurde eine stetige Zunahme an DDoS-Angriffen (Distributed Denial of Service) beobachtet. Bei DDoS-Attacken werden von einer Vielzahl von Rechnern Anfragen auf eine Website mit dem Ziel versendet, diese lahmzulegen. Im Vergleich zu den Vorjahren hat die Intensität dieser Angriffe jedoch deutlich zugenommen. So erlitt die in der Schweiz ansässige Non-Profit-Organisation Spamhaus einen der grössten DDoS-Angriffe in der Geschichte des Internets. Bei einem weiteren Angriff auf Dritte wurden die DNS-Server (Domain Name System) der Stiftung SWITCH missbräuchlich für DDoS-Attacken eingesetzt. Im aktuellen Halbjahresbericht werden Massnahmen zum Schutz der eigenen DNS-Infrastruktur vor Missbrauch aufgezeigt.&lt;/p&gt;&lt;h3&gt;Smartphone-Trojaner auf dem Vormarsch &lt;/h3&gt;&lt;p&gt;Mit der stetigen Zunahme von Smartphones setzt sich auch der Trend zur Verbreitung von Schadsoftware auf diesen Geräten fort. Im Fokus der Angreifer steht dabei vor allem das Betriebssystem Android. Bei den Ermittlungen wurde auch ein Smartphone-Trojaner gegen Schweizer E-Banking-Kunden entdeckt. Der Bericht analysiert diesen Trojaner und gibt einfache Tipps, wie sich Smartphones davor schützen lassen. &lt;/p&gt;&lt;h3&gt;Gezielte Spionageangriffe – zahlreiche Fälle veröffentlicht&lt;/h3&gt;&lt;p&gt;Im ersten Halbjahr 2013 jagte eine Meldung über professionelle gezielte Spionageangriffe die andere. Da meist staatliche Akteure hinter den Angriffen vermutet wurden, hatten diese Attacken auch zahlreiche politische Stellungnahmen zur Folge. Bei diesen Spionageangriffen handelt es sich längst nicht mehr um Einzelereignisse. Das Interesse an fremden Daten besteht permanent, und demzufolge steigt auch der Druck, sensible Daten ständig zu schützen.&lt;/p&gt;&lt;h3&gt;Sicherheitsempfehlungen zu industriellen Kontrollsystemen &lt;/h3&gt;&lt;p&gt;Industrielle Kontroll- und Steuerungssysteme finden seit einiger Zeit vermehrt auch ausserhalb der Industrie Anwendung, zum Beispiel bei der Hausautomation. Untersuchungen weisen darauf hin, dass diese Systeme oftmals schlecht geschützt sind und man relativ ungehindert in der einen oder anderen Form via Internet darauf zugreifen kann. Um Unterstützung zu bieten, publiziert MELANI heute elf Sicherheitsempfehlungen, wie diese Kontrollsysteme besser geschützt werden können. &lt;/p&gt;&lt;h3&gt;Problemzone Content Management System&lt;/h3&gt;&lt;p&gt;Dank einfachen Hilfsmitteln lässt sich heutzutage auch ohne grosses technisches Wissen eine eigene Website erstellen. Dazu werden oft so genannte Content Management Systeme (CMS) verwendet. Der verbreitete Einsatz solcher Systeme macht diese auch für Cyberkriminelle interessant. Schwachstellen werden gesucht und leider auch gefunden. Im Halbjahresbericht werden die wichtigsten Massnahmen aufgeführt, die ein Webseitenadministrator befolgen kann, um ein CMS möglichst sicher zu betreiben. &lt;/p&gt;</text>
+      <contact>Max Klaus, stv. Leiter MELANI Informatiksteuerungsorgan des Bundes ISB Tel. 031 323 45 07 max.klaus@isb.admin.ch</contact>
+      <attachment id="115745">
+        <title>Bericht MELANI 2013/1</title>
+        <format>pdf</format>
+        <size-kb>773</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/32481.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="115749">
+        <title>Massnahmen zu industriellen Kontrollsystemen und Content Management Systemen</title>
+        <uri>http://www.melani.admin.ch/dienstleistungen/00132/index.html?lang=de</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>DDoS – attaques massives en Suisse aussi – dix-septième rapport semestriel MELANI</title>
+      <lead>Publié aujourd'hui, le dix-septième rapport semestriel de la Centrale d'enregistrement et d'analyse pour la sûreté de l'information MELANI traite en particulier de la plus grave attaque DDoS de l'histoire d'Internet, des attaques contre l'e-banking dues aux chevaux de Troie pour téléphones mobiles, et des nombreux actes d'espionnage ciblés. MELANI publie par la même occasion des recommandations de sécurité concernant les systèmes de contrôle industriels ainsi que les systèmes de gestion de contenu.</lead>
+      <text link="no">&lt;p&gt;Le premier semestre 2013 a été principalement marqué par des révélations sur les activités de surveillance d'Internet déployées par certains services de renseignement, rendues publiques par l'informateur Edward Snowden. Par ailleurs, d'autres événements importants liés à Internet se sont produits et sont mentionnés dans le nouveau rapport semestriel de MELANI.&lt;/p&gt;&lt;h3&gt;DDoS – attaques massives en Suisse aussi&lt;/h3&gt;&lt;p&gt;Ces dernières années déjà, une augmentation constante des attaques par déni de service distribué (DDoS) avait été observée. Lors de telles opérations, un grand nombre de machines inondent de requêtes un site Web dans le but de le paralyser. Ces attaques se sont toutefois fortement intensifiées en 2013. Ainsi Spamhaus, organisation à but non lucratif basée en Suisse, a subi une des plus graves attaques DDoS de l'histoire d'Internet. Par ailleurs, les serveurs de noms (serveurs DNS) de la fondation SWITCH ont été détournés lors d'une autre attaque contre des tiers. Le nouveau rapport semestriel expose les mesures à prendre pour protéger sa propre infrastructure DNS contre ce genre d'abus.&lt;/p&gt;&lt;h3&gt;Essor des chevaux de Troie dans la téléphonie mobile&lt;/h3&gt;&lt;p&gt;La multiplication des maliciels adaptés aux téléphones mobiles s'est poursuivie avec l'essor de ce genre d'appareils. Le système d'exploitation Android est la cible préférée des pirates. Les investigations menées ont notamment permis de découvrir un cheval de Troie s'en prenant à la clientèle suisse de l'e-banking. Les auteurs du rapport analysent le phénomène et expliquent comment s'en protéger en observant des règles de comportement simples.&lt;/p&gt;&lt;h3&gt;Actes d'espionnage ciblés – publication de nombreux cas&lt;/h3&gt;&lt;p&gt;Les annonces concernant des attaques ciblées et raffinées relevant du cyberespionnage se sont succédé rapidement au premier semestre 2013. Comme la plupart du temps les soupçons se portaient sur des acteurs étatiques, elles ont été suivies de nombreuses prises de position politiques. Depuis longtemps, ces opérations d'espionnage ont cessé d'être des événements isolés. Les données sensibles suscitent un intérêt qui ne se relâche pas, et donc la nécessité de protéger en tout temps la confidentialité des données devient toujours plus impérieuse.&lt;/p&gt;&lt;h3&gt;Recommandations de sécurité destinées aux systèmes de contrôle industriels&lt;/h3&gt;&lt;p&gt;Depuis quelque temps, les systèmes de contrôle-commande industriels trouvent de nouveaux débouchés en dehors de l'industrie, comme dans la domotique ou la gestion du trafic. Il ressort d'analyses que ces systèmes sont souvent mal protégés et qu'il est possible d'y accéder sans grande difficulté via Internet. MELANI publie aujourd'hui onze recommandations aidant à mieux protéger de tels systèmes de contrôle.&lt;/p&gt;&lt;h3&gt;Les systèmes de gestion de contenu (CMS), nouveau talon d'Achille&lt;/h3&gt;Grâce à des outils accessibles à tous, même les non-spécialistes peuvent publier leur propre site Internet. Des systèmes de gestion de contenu (&lt;i&gt;content management system, CMS&lt;/i&gt;) sont souvent utilisés à cet effet. Leur popularité croissante les rend intéressants pour les cybercriminels. Et les escrocs à l'affût des failles existantes finissent toujours par les trouver. Le rapport semestriel rappelle les principales mesures qu'un administrateur de site Web peut prendre pour se servir d'un CMS avec le maximum de sécurité. </text>
+      <contact>Max Klaus, responsable adjoint de MELANI Unité de pilotage informatique de la Confédération UPIC tél. 031 323 45 07 max.klaus@isb.admin.ch</contact>
+      <attachment id="115746">
+        <title>Rapport MELANI 2013/1</title>
+        <format>pdf</format>
+        <size-kb>793</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/32482.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="115750">
+        <title>Mesures destinées aux systèmes de contrôle industriels et aux systèmes de gestion de contenu</title>
+        <uri>http://www.melani.admin.ch/dienstleistungen/00132/index.html?lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Attacchi DDoS – aumento massiccio anche in Svizzera – 17° Rapporto semestrale MELANI</title>
+      <lead>Il più grande attacco DDoS della storia, vari attacchi a conti bancari elettronici mediante trojan per smartphone e numerosi attacchi mirati di spionaggio sono i temi principali del 17° Rapporto semestrale della Centrale d’annuncio e d’analisi per la sicurezza dell’informazione (MELANI), pubblicato in data odierna. MELANI ha inoltre pubblicato oggi le raccomandazioni di sicurezza concernente i sistemi industriali di comando e i «content management systems» (CMS).</lead>
+      <text link="no">&lt;p&gt;Il primo semestre 2013 è stato caratterizzato in particolare dal resoconto sulla sorveglianza di Internet da parte di singoli servizi d’informazione resa nota dall’informatore Edward Snowden. Negli ultimi mesi hanno però rivestito importanza anche altri eventi riguardanti Internet e riportati nel Rapporto semestrale MELANI pubblicato in data odierna. &lt;/p&gt;&lt;h3&gt;Massicci attacchi DDoS anche in Svizzera &lt;/h3&gt;&lt;p&gt;Già negli anni scorsi è stato osservato un persistente aumento dei cosiddetti attacchi «distributed denial of service» (DDoS). In questo genere di attaccchi numerosi computer effettuano ricerche su un sito web con lo scopo di paralizzarlo. Rispetto agli anni precedenti, questi attacchi si sono sensibilmente intensificati. L’organizzazione non profit Spamhaus con sede in Svizzera è stata il bersaglio di uno dei più grandi attacchi DDoS della storia. In occasione di altri attacchi contro terzi sono stati utilizzati abusivamente i server DNS («domain name system») della fondazione SWITCH. Il 17° Rapporto semestrale MELANI contiene misure volte a proteggere la propria infrastruttura DNS contro l’utilizzo abusivo.&lt;/p&gt;&lt;h3&gt;Aumento dei trojan per smartphone &lt;/h3&gt;&lt;p&gt;Il persistente aumento degli smartphone rafforza anche la tendenza alla diffusione di malware su questi apparecchi. Al riguardo l’attenzione degli aggressori si concentra soprattutto sul sistema operativo Android. Durante delle inchieste è stato, tra l’altro, constatato un trojan per smartphone indirizzato a utenti di e-banking svizzeri. MELANI ha analizzato questo trojan e nel suo rapporto fornisce consigli semplici su come proteggere lo smartphone da questi attacchi. &lt;/p&gt;&lt;h3&gt;Segnalati numerosi attacchi mirati di spionaggio &lt;/h3&gt;&lt;p&gt;Nel primo semestre 2013 sono stati segnalati numerosi attacchi mirati e professionali di spionaggio. L’ipotesi che dietro agli attacchi si celassero attori statali è stata all’origine di numerose prese di posizione politiche al riguardo. Questi attacchi di spionaggio non sono più eventi singoli. L’interesse per dati di terzi è permanente e di conseguenza aumenta anche la pressione di dover proteggere in modo continuo i dati sensibili.&lt;/p&gt;&lt;h3&gt;Raccomandazioni di sicurezza concernente i sistemi industriali di comando &lt;/h3&gt;&lt;p&gt;Da tempo i sistemi industriali di comando e di controllo sono viepiù applicati al di fuori dell’industria, ad esempio nell’ambito della domotica. Dalle indagini condotte a tal proposito è emerso che spesso detti sistemi sono mal protetti e liberamente accessibili via Internet in vari modi. Al fine di fornire maggiore protezione per questi sistemi di comando, in data odierna MELANI ha pubblicato 11 raccomandazioni di sicurezza. &lt;/p&gt;&lt;h3&gt;Problematica del «content management system» (CMS)&lt;/h3&gt;Grazie a semplici mezzi ausiliari al giorno d’oggi è possibile creare il proprio sito web anche senza disporre di un grande know-how tecnico, utilizzando i cosiddetti «content management systems» (CMS). L’impiego diffuso di simili sistemi richiama anche l’attenzione dei cibercriminali alla ricerca (con successo) di lacune di sicurezza. Il Rapporto semestrale MELANI elenca le principali misure alle quali un amministratore di un sito web deve attenersi per amministrare in modo più sicuro un CMS. </text>
+      <contact>Max Klaus, capo sostituto MELANI Organo direzione informatica della Confederazione ODIC tel. 031 323 45 07 max.klaus@isb.admin.ch</contact>
+      <attachment id="115747">
+        <title>Rapporto MELANI 2013/1</title>
+        <format>pdf</format>
+        <size-kb>741</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/32483.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="115751">
+        <title>Misure di protezione dei sistemi industriali di controllo (ICS) e le raccomandazioni concernenti i CMS</title>
+        <uri>http://www.melani.admin.ch/dienstleistungen/00132/index.html?lang=it</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Berne</city>
+      <title>DDoS attacks – massive increase in Switzerland too – 17th MELANI semi-annual report</title>
+      <lead>The biggest DDoS attack in the history of the Internet, e-banking attacks using smartphone trojans and numerous targeted espionage attacks all constitute the focus of the 17th semi-annual report published today by the Reporting and Analysis Centre for Information Assurance (MELANI). MELANI also published today security recommendations for industrial control systems and content management systems. </lead>
+      <text link="no">&lt;p&gt;The first half of 2013 was characterised above all by the reporting of the Internet surveillance methods used by some of the intelligence services, which was disclosed by the informer Edward Snowden. However, there were also other occurrences concerning the Internet which were of importance in recent months and which MELANI lists in today's semi-annual report. &lt;/p&gt;&lt;h3&gt;Massive DDoS attacks also in Switzerland&lt;/h3&gt;&lt;p&gt;In the past few years, a steady increase in DDoS attacks (distributed denial of service) has been observed. In the case of DDoS attacks, a large number of computers send requests to a website with the goal of disabling it. Compared with previous years, the intensity of these attacks has clearly increased, however. This was how the non-profit organisation Spamhaus, based in Switzerland, suffered one of the biggest DDoS attacks in the history of the Internet. In the case of yet another attack on a third party, the DNS server (domain name system) of the SWITCH foundation was fraudulently used for DDoS attacks. In the current semi-annual report, measures to protect one's own DNS infrastructure from being misused are highlighted.&lt;/p&gt;&lt;h3&gt;Smartphone trojans on the rise &lt;/h3&gt;&lt;p&gt;With the continual increase in smartphones, there has been no let-up in the trend towards spreading malware via these appliances. The focus of the attackers is mainly on the Android operating system. A smartphone trojan targeting Swiss e-banking clients was also discovered during investigations. The report analyses this trojan and provides simple tips on how smartphones can be protected. &lt;/p&gt;&lt;h3&gt;Targeted espionage attacks – numerous cases published&lt;/h3&gt;&lt;p&gt;In the first half of 2013, reports about professional targeted espionage attacks emerged in rapid sequence. Since government players are generally suspected of being behind these attacks, the attacks also gave rise to numerous political statements. These espionage attacks are no longer isolated events. Interest in third-party data is constant and as a result the pressure to protect sensitive data is constant as well. &lt;/p&gt;&lt;h3&gt;Security recommendations for industrial control systems &lt;/h3&gt;&lt;p&gt;For some time now, industrial control systems are increasingly being used in applications beyond industry as well, such as home automation. Investigations indicate that these systems are often badly protected and relatively unimpeded access from the Internet in one form or another is possible. In order to provide support, MELANI has today published eleven security recommendations as to how these control systems can be better protected. &lt;/p&gt;&lt;h3&gt;Content management systems as a problem zone&lt;/h3&gt;Nowadays, a website can be set up by simple means without significant technical know-how. Content management systems (CMSs) are often used for this purpose. The widespread use of these systems makes them interesting for cybercriminals as well. Vulnerabilities are sought and unfortunately they are found as well. The most important measures which a website administrator can follow in order to operate a CMS as securely as possible are listed in the semi-annual report. </text>
+      <contact>Max Klaus, Deputy Head of MELANI Federal Strategy Unit for IT Tel. 031 323 45 07 max.klaus@isb.admin.ch</contact>
+      <attachment id="115748">
+        <title>Report MELANI 2013/1</title>
+        <format>pdf</format>
+        <size-kb>710</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/32484.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="115752">
+        <title>Measures on industrial control systems and content management</title>
+        <uri>http://www.melani.admin.ch/dienstleistungen/00132/index.html?lang=en</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5710" org-id="502">
+        <name lang="de">Aufklärung / Beobachtung / Lageerstellung</name>
+        <name lang="fr">Reconnaissance et observation établissement de la situation</name>
+        <name lang="it">Esplorazione / Osservazione / Allestimento del quadro della situazione</name>
+        <name lang="en">reconnaissance observation compilation of the situation</name>
+      </keyword>
+      <keyword id="5980" org-id="502">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="17">
+        <name lang="de">Kriminalität</name>
+        <name lang="fr">Criminalité</name>
+        <name lang="it">Criminalità</name>
+        <name lang="en">Criminality</name>
+      </topic>
+      <topic id="28">
+        <name lang="de">Telekommunikation</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="it">Telecomunicazione</name>
+        <name lang="en">Telecommunications</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

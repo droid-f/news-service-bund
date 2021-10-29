@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="70270" revoked="no">
+    <version>1</version>
+    <pubdate>2018-03-29</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="502" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1084" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">swisstopo – Bundesamt für Landestopografie</name>
+      <name lang="fr">swisstopo – Office fédéral de topographie</name>
+      <name lang="it">swisstopo – Ufficio federale di topografia</name>
+      <name lang="en">swisstopo – Federal Office of Topography</name>
+      <www lang="de">http://www.swisstopo.admin.ch</www>
+      <www lang="fr">http://www.swisstopo.admin.ch</www>
+      <www lang="it">http://www.swisstopo.admin.ch</www>
+      <www lang="en">http://www.swisstopo.admin.ch</www>
+      <email lang="de">info@swisstopo.ch</email>
+      <email lang="fr">info@swisstopo.ch</email>
+      <email lang="it">info@swisstopo.ch</email>
+      <email lang="en">info@swisstopo.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Die Geschichte der Schweiz aus der Vogelperspektive</title>
+      <lead>Mit Luftbildern lädt das Bundesamt für Landestopografie swisstopo zu einer Zeitreise von 1979 bis heute ein. Ab sofort steht die Web-Applikation online im Karten- und Geodatenviewer des Bundes unter map.geo.admin.ch gratis zur Verfügung.</lead>
+      <text link="no">&lt;p&gt;2013 hat swisstopo die „Zeitreise“ lanciert. Interessierte können die Schweiz auf nahezu 8'000 Karten entdecken und ihre Entwicklung ab Beginn des 19. Jahrhunderts bis heute beobachten.&lt;/p&gt;&lt;h2&gt;Zeitreise&lt;/h2&gt;&lt;p&gt;Zukünftig ergänzt swisstopo diese Reise in die Vergangenheit durch seine Sammlung an Luftbildern. Das Bundesamt setzt sich mit der Veröffentlichung dieses Kulturerbes für die Bewahrung, Aufwertung und Bereitstellung nationaler Geodaten ein.&lt;br /&gt;Dank fast 40'000 aufbereiteter Luftbilder können Veränderungen in städtischen Gebieten sowie der Wandel der natürlichen Umwelt im ganzen Land während der Zeiträume von 1979 bis 1985 und von 1990 bis heute beobachtet werden. &lt;/p&gt;&lt;h2&gt;Von schwarz-weiss zur Farbe&lt;/h2&gt;&lt;p&gt;Bis zum Ende der 90er-Jahre sind die Bilder schwarz-weiss. Danach verleihen Farben der Landschaft noch mehr Realität. Die Technologien für die Bildaufnahmen haben sich ebenfalls weiterentwickelt; so wird ab 2017 eine Bodenauflösung von 10 cm erreicht – im Vergleich zu 50 cm im Jahr 1979.Dank der digitalen Datenerhebung konnten die Bilder ab 2005 schneller bearbeitet werden.&lt;/p&gt;&lt;h2&gt;Zugang zu den Bildern&lt;/h2&gt;&lt;p&gt;Neu bietet der Geodaten-Viewer die Funktion, über die Luftbilder eines Ortes durch die Zeit zu reisen. So kann die Schweiz spielerisch und informativ aus der Vogelperspektive entdeckt werden. &lt;/p&gt;</text>
+      <contact>Ruedi Bösch Kommunikation swisstopo +41 58 469 01 27 ruedi.boesch@swisstopo.ch</contact>
+      <link id="176343">
+        <title>Zeitreise – Karten</title>
+        <uri>https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/zeitreise.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="176344">
+        <title>Kartenviewer auf dem Geportal des Bundes</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="176345">
+        <title>Hilfe map.geo.admin für die Funktionen des „Zeitreglers“</title>
+        <uri>https://help.geo.admin.ch/?id=42&amp;lang=de</uri>
+        <position>Context</position>
+      </link>
+      <link id="176349">
+        <title>Zeitreise – Luftbilder</title>
+        <uri>https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/zeitreise-luftbilder.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>L’histoire de la Suisse vue du ciel</title>
+      <lead>L’Office fédéral de topographie swisstopo offre désormais un voyage dans le temps grâce aux images aériennes de 1979 à nos jours. L’application web est dès aujourd’hui disponible gratuitement en ligne dans le visualiseur de cartes et de géodonnées de la Confédération, map.geo.admin.ch</lead>
+      <text link="no">&lt;p&gt;En 2013, swisstopo a lancé le « Voyage dans temps ». Près de 8'000 cartes permettent de parcourir la Suisse et d’observer son évolution du début du XIXe siècle à nos jours.&lt;/p&gt;&lt;h2&gt;Voyage dans le temps&lt;/h2&gt;&lt;p&gt;swisstopo complète désormais ce voyage dans le passé à travers sa collection d’images aériennes. En publiant ce patrimoine culturel, l’Office fédéral poursuit ses engagements pour la conservation, la mise en valeur et la mise à disposition de ses géodonnées nationales. &lt;br /&gt;Grâce au traitement de près de 40'000 photos aériennes, il est possible d’observer la mutation du milieu urbain et des changements de l’environnement naturel à travers tout le pays pour les périodes de 1979 à 1985 et de 1990 à nos jours. &lt;/p&gt;&lt;h2&gt;Du noir blanc à la couleur&lt;/h2&gt;&lt;p&gt;Les images sont en noir et blanc jusqu’à la fin des années 90. La couleur apporte alors toute sa réalité au paysage. Les technologies de prise de vue ont aussi évolué. Ainsi les précisions au sol passent de 50 cm en 1979 pour atteindre 10 cm en 2017. L’acquisition des données de manière digitale en 2005 a permis un traitement plus rapide des images.&lt;/p&gt;&lt;h2&gt;Accès aux images&lt;/h2&gt;&lt;p&gt;Le défilement dans le temps des images aériennes pour un lieu est une nouvelle fonction du visualiseur de géodonnées. Il permet un accès ludique et informatif de la Suisse vue du ciel.&lt;/p&gt;</text>
+      <contact>Ruedi Bösch Communication swisstopo +41 58 469 01 27 ruedi.boesch@swisstopo.ch</contact>
+      <link id="176346">
+        <title>Voyage dans le temps – Cartes</title>
+        <uri>https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/voyage-dans-le-temps.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="176347">
+        <title>Visualiseur de cartes du géoportail de la Confédération</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="176348">
+        <title>Aide map.geo.admin pour l’utilisation du « curseur de temps »</title>
+        <uri>https://help.geo.admin.ch/?id=42&amp;lang=fr</uri>
+        <position>Context</position>
+      </link>
+      <link id="176351">
+        <title>Voyage dans le temps – images aériennes</title>
+        <uri>https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/voyage-dans-le-temps-images.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>La storia della Svizzera vista dal cielo</title>
+      <lead>L’Ufficio federale di topografia swisstopo offre un viaggio nel tempo grazie alle immagini aeree scattate tra il 1979 e oggi. L’applicazione web è ora disponibile gratuitamente online nel visualizzatore di carte e geodati della Confederazione, map.geo.admin.ch</lead>
+      <text link="no">&lt;p&gt;Nel 2013, swisstopo ha lanciato «Viaggio nel tempo». Grazie a circa 8000 carte è possibile esplorare la Svizzera e osservare l’evoluzione del suo territorio dalla sua nascita nel XIX secolo fino ai giorni nostri.&lt;/p&gt;&lt;h2&gt;Viaggio nel tempo&lt;/h2&gt;&lt;p&gt;swisstopo realizza questo viaggio nel passato attraverso la sua raccolta di immagini aeree. Tramite la pubblicazione di questo patrimonio culturale, l’Ufficio federale porta avanti il suo impegnodi conservare, valorizzare e rendere disponibili i suoi geodati nazionali. &lt;br /&gt;Tramite l’elaborazione di circa 40 000 fotografie aeree, è possibile vedere come sono mutate le aree urbane e i cambiamenti dell’ambiente naturale in tutto il paese nel periodo che va dal 1979 al 1985 e dal 1990 a oggi. &lt;/p&gt;&lt;h2&gt;Dal bianco e nero al colore&lt;/h2&gt;&lt;p&gt;Fino alla fine degli anni ‘90 le immagini sono in bianco e nero. Grazie al colore il paesaggio acquista la sua dimensione reale. Anche le tecnologie impiegate per scattare le fotografie si sono evolute. Il livello di dettaglio al suolo è passato da 50 cm nel 1979 a 10 cm nel 2017.&lt;br /&gt;L’acquisizione digitale dei dati nel 2005 ha consentito un trattamento più rapido delle immagini.&lt;/p&gt;&lt;h2&gt;Accesso alle immagini&lt;/h2&gt;&lt;p&gt;Una delle nuove funzioni del visualizzatore di geodati consiste nel poter scorrere avanti/indietro nel tempo le immagini aeree di un particolare luogo, consentendo così un accesso divertente e informativo alla Svizzera vista dall’alto. &lt;/p&gt;</text>
+      <contact>Ruedi Bösch Comunicazione swisstopo +41 58 469 01 27 ruedi.boesch@swisstopo.ch</contact>
+      <link id="176354">
+        <title>Viaggio nel tempo – Immagini aeree</title>
+        <uri>https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/viaggio-nel-tempo-immagini.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="176355">
+        <title>Viaggio nel tempo – Carte</title>
+        <uri>https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/viaggio-nel-tempo.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="176356">
+        <title>Visualizzatore delle carte del geoportale federale</title>
+        <uri>http://map.geo.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <link id="176357">
+        <title>Aiuto map.geo.admin per l’utilizzo del «cursore del tempo»</title>
+        <uri>https://help.geo.admin.ch/?id=42&amp;lang=it</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5410" org-id="502">
+        <name lang="de">Kartografie</name>
+        <name lang="fr">Cartographie</name>
+        <name lang="it">Cartografia</name>
+        <name lang="en">Cartography</name>
+      </keyword>
+      <keyword id="5820" org-id="502">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastructure</name>
+        <name lang="it">Infrastruttura</name>
+        <name lang="en">infrastructure</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="42" revoked="no">
+    <version>3</version>
+    <pubdate>2005-04-13</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="605" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <name lang="it">Amministrazione federale delle contribuzioni</name>
+      <name lang="en">The Federal Tax Administration</name>
+      <www lang="de">http://www.estv.admin.ch</www>
+      <www lang="fr">http://www.estv.admin.ch</www>
+      <www lang="it">http://www.estv.admin.ch</www>
+      <www lang="en">http://www.estv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Doppelbesteuerungsabkommen zwischen der Schweiz und Serbien und Montenegro</title>
+      <lead>Ein Abkommen zwischen der Schweiz und Serbien und Montenegro zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen ist heute in Belgrad durch den schweizerischen Botschafter in Serbien und Montenegro, Wilhelm Meier, und durch den serbisch-montenegrinischen Minister für Aussenwirtschaft, Predrag Ivanovic, unterzeichnet worden.</lead>
+      <text link="no">&lt;p&gt;Das ausgehandelte Abkommen folgt weitgehend dem Musterabkommen der OECD sowie der entsprechenden schweizerischen Vertragspraxis. Es wird mit einer Botschaft des Bundesrates den eidgenössischen Räten unterbreitet und ist vor dem Inkrafttreten durch die zuständigen Instanzen beider Länder zu genehmigen.&lt;/p&gt;</text>
+      <contact>Véronique Humbert, Eidg. Steuerverwaltung, 031 323 94 04</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Convention de double imposition entre la Suisse et la Serbie-et-Monténégro</title>
+      <lead>Une convention entre la Suisse et la Serbie-et-Monténégro en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune a été signée aujourd'hui à Belgrade par l'Ambassadeur de Suisse en Serbie-et-Monténégro, Wilhelm Meier, et le Ministre des relations économiques extérieures de Serbie-et-Monténégro, Predrag Ivanovic.</lead>
+      <text link="no">&lt;p&gt;La convention négociée suit dans une large mesure le Modèle de convention de l'OCDE; elle est par ailleurs conforme à la pratique suisse en matière de conventions de double imposition. La convention susmentionnée sera soumise aux Chambres fédérales, accompagnée d'un message explicatif du Conseil fédéral, et devra être approuvée par les instances compétentes des deux pays avant d'entrer en vigueur.&lt;/p&gt;</text>
+      <contact>Véronique Humbert, Administration fédérale des contributions,tél.031 323 94 04</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="137" org-id="605">
+        <name lang="de">Internationale Doppelbesteuerung</name>
+        <name lang="fr">Double imposition internationale</name>
+        <name lang="it">Doppia imposizione internazionale</name>
+        <name lang="en">International double taxation</name>
+      </keyword>
+      <keyword id="235" org-id="605">
+        <name lang="de">Internationale Steuerpolitik</name>
+        <name lang="fr">Politique fiscale internationale</name>
+        <name lang="it">Politica fiscale internazionale</name>
+        <name lang="en">International tax policy</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="44">
+        <name lang="de">Steuern</name>
+        <name lang="fr">Impôts</name>
+        <name lang="it">Imposte</name>
+        <name lang="en">Taxation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

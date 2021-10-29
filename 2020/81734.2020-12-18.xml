@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="81734" revoked="no">
+    <version>3</version>
+    <pubdate>2020-12-18</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="319" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat passt Härtefallverordnung sowie Verordnung zum Erwerbsausfall an</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 18. Dezember 2020 Änderungen an der Covid-19-Härtefallverordnung sowie an der Covid-19-Verordnung zum Erwerbsausfall beschlossen. Damit vollzieht er Gesetzesanpassungen des Parlaments beim Covid-19-Gesetz. Insbesondere werden bei den kantonalen Härtefallmassnahmen die Umsatzschwelle für einen Anspruch auf Härtefallhilfe von 100'000 auf 50'000 Franken gesenkt und beim Covid-Erwerbsersatz die für den Leistungsbezug nötige Umsatzeinbusse von 55 auf 40 Prozent gesenkt. Der Bundesrat hat das Eidgenössische Finanzdepartment (EFD) zudem beauftragt, zusammen mit den Kantonen zu prüfen, ob die Anspruchsvoraussetzungen für den Bezug von Härtefallmassnahmen gelockert werden müssen. </lead>
+      <text link="no">Der Bundesrat hat am 11. Dezember 2020 entschieden, zur Abfederung der wirtschaftlichen Schäden infolge der gesundheitspolizeilichen Massnahmen das Härtefallprogramm stark aufzustocken. Er hat dem Parlament eine Erhöhung um 1,5 Milliarden auf insgesamt 2,5 Milliarden beantragt. Der Bundesanteil davon beträgt 1,9 Milliarden. Das Parlament hat diese Aufstockung gutgeheissen. &lt;p&gt;Die Härtefallverordnung ist bereits seit dem 1. Dezember 2020 in Kraft. Die Eidgenössischen Räte haben während der Wintersession 2020 Anpassungen an der gesetzlichen Grundlage (Artikel 12 des Covid-19-Gesetzes) beschlossen, die eine Verordnungsanpassung notwendig machen. Zudem ersetzt der Bundesrat die Genehmigung der kantonalen Härtefallregelungen durch das Staatssekretariat für Wirtschaft SECO mit einem Vertrag zwischen Bund und Kanton. Folgende Änderungen hat der Bundesrat vorgenommen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Mindestumsatz: &lt;/b&gt;Der Mindestumsatz eines Unternehmens als Bedingung für eine Unterstützung wird von 100’000 Franken auf 50’000 Franken gesenkt. &lt;b&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Doppelsubventionierungsverbot:&lt;/b&gt; Wenn die Tätigkeiten eines Unternehmens in unterschiedlichen Branchen klar abgegrenzt werden können, sind neu mehrere Arten von Finanzhilfen zulässig, also z.B. eine Härtefallhilfe und eine gleichzeitige Kulturunterstützung.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Berücksichtigung Fixkosten:&lt;/b&gt; Neben der gesamten Vermögens- und Kapitalsituation eines Unternehmens wird neu auch der Anteil an nicht gedeckten Fixkosten berücksichtigt: Anspruchsberechtigt sind nur Unternehmen, die dem Kanton bestätigen, dass aus dem Umsatzrückgang am Jahresende ein Anteil an ungedeckten Fixkosten resultiert, der ihre Überlebensfähigkeit gefährdet.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dividendenverbot:&lt;/b&gt; Neu wird ein Unternehmen bereits von der Härtefallhilfe ausgeschlossen, wenn es einen Beschluss über eine Dividendenausschüttung fällt und nicht erst, wenn eine Dividende ausgeschüttet wird.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aufsichtskonzept Bund und Kantone: &lt;/b&gt;Statt der Einreichung kantonaler Regelungen und deren Prüfung durch das SECO schliesst dieses mit den Kantonen neu einen Vertrag ab. Darin hält der Kanton fest, welche Art von Härtefallmassnahmen er ergreifen will und wie er sicherstellt, dass dem Bund ausschliesslich Massnahmen in Rechnung gestellt werden, die den Voraussetzungen der Verordnung entsprechen. Der Bund bestätigt dem Kanton seine finanzielle Beteiligung an den Massnahmen bis zu den jeweiligen kantonalen Höchstbeträgen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die ersten drei Tranchen des Härtefallprogramms im Umfang von insgesamt 1,75 Milliarden Franken genügen nach Auffassung des Bundesrates im Moment, um die bestehenden Härtefälle abzufedern und erlauben es auch, weitere Fälle abzudecken, die durch mögliche weitere Schliessungen oder gesundheitspolizeiliche Massnahmen entstehen könnten. Die Kantone arbeiten denn auch mit Hochdruck an ihren Programmen. In gut zwei Dritteln der Kantone können bereits Gesuche für Beiträge, Darlehen und/oder Überbrückungs-finanzierungen gestellt werden. &lt;/p&gt;&lt;p&gt;Dennoch hat der Bundesrat das EFD beauftragt, in Zusammenarbeit mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung WBF und den Kantonen bis Ende Januar 2021 den Bedarf und die allfällige Ausgestaltung von Lockerungen der Anspruchsvoraussetzungen gemäss Art. 12 Abs. 5 Covid-19-Gesetz zu klären. Zudem hat der Bundesrat das EFD, das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) und das Eidgenössische Departement des Innern (EDI) beauftragt, so rasch als möglich zusammen mit den Kantonen weitere Varianten von Abfederungsmöglichkeiten für finanzielle Ausfälle von direkt und indirekt betroffenen Unternehmen und selbstständig Erwerbenden zu unterbreiten. &lt;/p&gt;&lt;p&gt;Die Kantone werden durch diese Prüfung nicht behindert. Sie können ihre kantonalen Härtefallprogramme rasch umsetzen. Die Mittel der ersten Tranchen sind vorerst ausreichend. &lt;/p&gt;&lt;p&gt;Im Rahmen der Beratung des Covid-19-Gesetzes hat das Parlament zudem beschlossen, dass Selbständigerwerbende und Personen in arbeitgeberähnlicher Stellung mit einer monatlichen Umsatzeinbusse von bereits 40 Prozent im Vergleich zum durchschnittlichen monatlichen Umsatz der Jahre 2015 bis 2019 Anspruch auf Covid-Erwerbsersatz geltend machen können (bisher: Umsatzeinbusse von 55 %). Diese Änderung wird in die Covid-19-Verordnung Erwerbsausfall übernommen.&lt;/p&gt;&lt;p&gt;Die angepassten Verordnungen treten am 19. Dezember 2020 in Kraft.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Wo kann ich ein Gesuch für Härtefallhilfe einreichen?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Die konkrete Ausgestaltung der Härtefallhilfe liegt in der Verantwortung der Kantone. Sie werden auch die Gesuche im Einzelfall prüfen. Fragen zur Abwicklung eines Gesuchs sind entsprechend an den Kanton, in welchem das Unternehmen am 1. Oktober 2020 seinen Sitz hatte, zu richten. Sie finden die kantonalen Kontaktdaten auf covid19.easygov.swiss. Die Verordnung des Bundes regelt, wie die Mittel des Bundes auf die Kantone verteilt werden und welche Bedingungen erfüllt sein müssen, damit sich der Bund an den Kosten der kantonalen Härtefallregelungen beteiligt. &lt;br /&gt;&lt;/p&gt; </text>
+      <contact>Härtefallhilfe: Kommunikation Eidg. Finanzverwaltung EFV, Tel. +41 58 465 16 06, kommunikation@efv.admin.ch Erwerbsersatz: Kommunikation Bundesamt für Sozialversicherungen BSV, Tel. +41 58 462 77 11, kommunikation@bsv.admin.ch</contact>
+      <attachment id="210238">
+        <title>Covid 19-Härtefallverordnung</title>
+        <format>pdf</format>
+        <size-kb>443</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64619.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210239">
+        <title>Erläuterungen COVID-19-Härtefallverordnung</title>
+        <format>pdf</format>
+        <size-kb>295</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64601.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210240">
+        <title>Covid 19-Verordnung Erwerbsausfall</title>
+        <format>pdf</format>
+        <size-kb>296</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64622.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210241">
+        <title>Erläuterungen COVID-19-Verordnung Erwerbsausfall</title>
+        <format>pdf</format>
+        <size-kb>248</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64610.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-12-18 15:49" type="R"/>
+        <revision date="2020-12-18 17:08" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Bern</city>
+      <title>Coronavirus: le Conseil fédéral modifie l’ordonnance sur les cas de rigueur et l’ordonnance sur les pertes de gain</title>
+      <lead>Lors de sa séance du 18 décembre 2020, le Conseil fédéral a adopté des modifications de l’ordonnance COVID-19 cas de rigueur et de l’ordonnance sur les pertes de gain COVID-19. Ces modifications résultent des modifications apportées par le Parlement à la loi COVID-19. Concernant les mesures cantonales pour les cas de rigueur, elles prévoient notamment d’abaisser le chiffre d’affaires minimum donnant droit à une aide pour les cas de rigueur de 100 000 francs à 50 000 francs. Pour ce qui est des allocations pour perte de gain COVID-19, la diminution de chiffre d’affaires nécessaire pour bénéficier de prestations est abaissée de 55 % à 40 %. Par ailleurs, le Conseil fédéral a chargé le Département fédéral des finances (DFF) d’examiner avec les cantons s’il y a lieu d’assouplir les conditions d’éligibilité aux mesures pour les cas de rigueur.</lead>
+      <text link="no">&lt;p&gt;Le 11 décembre 2020, le Conseil fédéral a décidé d’accroître sensiblement son programme d’aide pour les cas de rigueur afin d’atténuer les dommages économiques causés par les mesures sanitaires. Il a proposé au Parlement de relever la dotation du programme de 1,5 milliard de francs pour la porter à 2,5 milliards de francs au total, la part de la Confédération s’élevant à 1,9 milliard de francs. Le Parlement a approuvé ce relèvement. &lt;/p&gt;&lt;p&gt;L’ordonnance sur les cas de rigueur est déjà en vigueur depuis le 1er décembre 2020. Durant la session d’hiver 2020, les Chambres fédérales ont apporté des modifications à la base légale (art. 12 de la loi COVID-19) qui entraînent également des modifications dans l’ordonnance. En outre, le Conseil fédéral entend remplacer la procédure d’approbation (par le Secrétariat d’État à l’économie SECO) des réglementations cantonales en matière de cas de rigueur par un contrat entre la Confédération et le canton. Il a procédé aux modifications ci-après.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;Chiffre d’affaires minimum:&lt;/b&gt; le chiffre d’affaires minimum permettant à une entreprise de bénéficier d’une aide est abaissé de 100 000 francs à 50 000 francs. &lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Interdiction du double subventionnement:&lt;/b&gt; si les différents domaines d’activité d’une entreprise peuvent être clairement délimités, plusieurs types d’aides seront désormais autorisées simultanément, par exemple une aide pour les cas de rigueur et un soutien aux entreprises du domaine culturel.&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prise en compte des coûts fixes:&lt;/b&gt; outre la situation patrimoniale et la dotation en capital globales d’une entreprise, il faudra désormais prendre également en compte sa part de coûts fixes non couverts. Seules seront éligibles les entreprises qui confirmeront au canton que le recul de leur chiffre d’affaires entraîne à la fin de l’année une part de coûts fixes non couverts qui menace leur viabilité. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Interdiction des dividendes:&lt;/b&gt; une entreprise sera dorénavant exclue des mesures d’aide pour les cas de rigueur dès le moment où elle décide de distribuer un dividende et pas seulement lorsqu’un dividende est versé.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modèle de surveillance Confédération et cantons:&lt;/b&gt; au lieu de remettre sa réglementation en vue de son examen par le SECO, le canton conclura désormais avec le SECO un contrat dans lequel il indiquera quel type de mesures pour les cas de rigueur il veut prendre et comment il entend garantir que seules les mesures répondant aux exigences de l’ordonnance seront facturées à la Confédération. La Confédération confirmera au canton sa participation financière aux mesures jusqu’à concurrence du montant maximum par canton.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; Le Conseil fédéral estime que les trois premières tranches du programme de mesures pour les cas de rigueur, qui totalisent 1,75 milliard de francs, suffisent actuellement pour atténuer les cas de rigueur existants et couvrir également d’autres cas qui pourraient résulter d’éventuelles fermetures ou mesures sanitaires supplémentaires. Les cantons travaillent sans relâche à l’élaboration de leurs programmes. Dans un peu plus des deux tiers des cantons, il est déjà possible de déposer des demandes de contributions, de prêts et/ou de financements de transition. &lt;/p&gt;&lt;p&gt; Le Conseil fédéral a néanmoins chargé le DFF d’examiner d’ici à la fin de janvier 2021 avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR) et les cantons s’il est nécessaire d’assouplir les conditions d’éligibilité conformément à l’art. 12, al. 5, de la loi COVID-19, et si oui, sous quelle forme. Il a par ailleurs chargé le DFF, le DEFR et le Département fédéral de l’intérieur (DFI) de présenter dès que possible, en collaboration avec les cantons, d’autres solutions permettant d’atténuer les pertes financières des entreprises et des indépendants touchés directement ou indirectement par la crise.&lt;/p&gt;&lt;p&gt; Cette procédure ne perturbera pas le travail des cantons, qui pourront mettre en œuvre rapidement leurs programmes. Les fonds des premières tranches sont suffisants pour le moment.&lt;/p&gt;&lt;p&gt; Dans le cadre des débats sur la loi COVID-19, le Parlement a en outre décidé que les indépendants et les personnes occupant une position assimilable à celle d’un employeur pourront déjà bénéficier des allocations pour perte de gain COVID-19 à partir d’une baisse du chiffre d’affaires mensuel de 40 % par rapport au chiffre d’affaires mensuel moyen des années 2015 à 2019 (auparavant: baisse de chiffre d’affaires de 55 %). Cette modification sera reprise dans l’ordonnance sur les pertes de gain COVID-19.&lt;/p&gt;&lt;p&gt; Les ordonnances modifiées entreront en vigueur le 19 décembre 2020. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Comment déposer une demande d’aide pour les cas de rigueur?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Étant donné qu’il incombe aux cantons de déterminer la forme précise des aides pour les cas de rigueur, ce sont eux qui examineront les demandes. Les questions relatives au traitement d’une demande doivent donc être adressées au canton dans lequel l’entreprise avait son siège le 1er octobre 2020. Les coordonnées des cantons se trouvent sur le portail covid19.easygov.swiss. L’ordonnance de la Confédération règle la manière dont les fonds fédéraux sont répartis entre les cantons et fixe les conditions à remplir pour que la Confédération participe aux coûts des mesures cantonales pour les cas de rigueur. &lt;/p&gt;</text>
+      <contact>Aide pour les cas de rigueur: Communication de l’Administration fédérale des finances AFF, tél. +41 58 465 16 06, kommunikation@efv.admin.ch Allocations pour perte de gain: Communication de l’Office fédéral des assurances sociales OFAS, tél.+41 58 462 77 11, kommunikation@bsv.admin.ch</contact>
+      <attachment id="210242">
+        <title>Ordonnance COVID-19 cas de rigueur</title>
+        <format>pdf</format>
+        <size-kb>382</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64658.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210243">
+        <title>Commentaires ordonnance COVID-19 cas de rigueur</title>
+        <format>pdf</format>
+        <size-kb>294</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64659.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210244">
+        <title>Ordonnance sur les pertes de gain COVID-19</title>
+        <format>pdf</format>
+        <size-kb>295</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64660.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210245">
+        <title>Commentaires ordonnance sur les pertes de gain COVID-19</title>
+        <format>pdf</format>
+        <size-kb>246</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64661.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-12-18 17:08" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Bern</city>
+      <title>Coronavirus: il Consiglio federale adegua l’ordinanza casi di rigore e l’ordinanza perdita di guadagno</title>
+      <lead>Nella seduta del 18 dicembre 2020 il Consiglio federale ha deciso di modificare sia l’ordinanza COVID-19 casi di rigore che l’ordinanza COVID-19 perdita di guadagno in esecuzione delle modifiche della legge COVID-19 adottate dal Parlamento. Nel caso dei provvedimenti cantonali per i casi di rigore, l’adeguamento prevede di ridurre la soglia della cifra d’affari che dà diritto agli aiuti nei casi di rigore da 100 000 a 50 000 franchi. Per quanto riguarda l’indennità di perdita di guadagno per COVID-19, gli aventi diritto devono ora registrare una diminuzione della cifra d’affari pari al 40 per cento, invece del 55 per cento, per beneficiare delle prestazioni. Il Consiglio federale ha inoltre incaricato il Dipartimento federale delle finanze (DFF) di verificare, insieme ai Cantoni, la necessità di allentare le condizioni per avere diritto ai provvedimenti per i casi di rigore.</lead>
+      <text link="no">&lt;p&gt; Per arginare i danni economici causati dai provvedimenti di polizia sanitaria, l’11 dicembre 2020 il Consiglio federale ha deciso di aumentare considerevolmente gli aiuti finanziari del programma per i casi di rigore. Ha quindi chiesto al Parlamento di incrementare gli aiuti di 1,5 miliardi a complessivamente 2,5 miliardi. La quota assunta dalla Confederazione ammonta a 1,9 miliardi. Il Parlamento ha approvato tale incremento.&lt;/p&gt;&lt;p&gt; L’ordinanza COVID-19 casi di rigore è in vigore già dal 1° dicembre 2020. Nella sessione invernale 2020 le Camere federali hanno approvato alcuni adeguamenti della base legale (art. 12 della legge COVID-19), che impongono una modifica dell’ordinanza. Inoltre, per quanto riguarda le disposizioni cantonali in materia di casi di rigore, l’approvazione da parte della Segreteria di Stato dell’economia (SECO) è stata sostituita dalla possibilità per i Cantoni di concludere contratti con la Confederazione. Il Consiglio federale ha modificato l’ordinanza come segue:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;cifra d’affari minima: &lt;/b&gt;la cifra d’affari minima di un’impresa come condizione per ricevere gli aiuti finanziari passa da 100 000 franchi a 50 000 franchi;&lt;b&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;divieto di doppio contributo:&lt;/b&gt; ora è possibile accordare diversi tipi di aiuti finanziari (ad es. un aiuto per i casi di rigore e parallelamente un aiuto a sostegno della cultura) se le attività in diversi settori di un’impresa sono chiaramente delimitabili;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;considerazione dei costi fissi:&lt;/b&gt; oltre alla situazione patrimoniale e alla dotazione di capitale complessive, nella valutazione dei casi di rigore ora si tiene conto anche della parte di costi fissi non coperti di un’impresa. Hanno diritto al sostegno soltanto le imprese che sono in grado di confermare al Cantone che dal calo della cifra d’affari a fine anno risulta una quota di costi fissi non coperti che compromette la loro solidità economica;&lt;/li&gt;&lt;li&gt;&lt;b&gt;divieto di distribuire dividendi:&lt;/b&gt; ora l’esclusione dagli aiuti per i casi di rigore non riguarda più soltanto il momento in cui un’impresa distribuisce dividendi, bensì già quando prende la decisione di distribuirli;&lt;/li&gt;&lt;li&gt;&lt;b&gt;dispositivo di sorveglianza tra Confederazione e Cantoni: &lt;/b&gt;invece della presentazione della regolamentazione cantonale e della relativa verifica da parte della SECO, quest’ultima conclude ora contratti di diritto pubblico con i Cantoni. Il Cantone precisa che tipo di provvedimento vuole adottare e in che modo intende garantire che alla Confederazione vengano addebitati esclusivamente provvedimenti conformi ai requisiti posti dall’ordinanza. La Confederazione conferma al Cantone la sua partecipazione finanziaria ai provvedimenti fino a concorrenza degli importi massimi previsti dal Cantone in questione.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; Il Consiglio federale ritiene che le prime tre tranche del programma per i casi di rigore pari a un totale di 1,75 miliardi di franchi siano per il momento sufficienti per contenere gli attuali casi di rigore e permettano anche di coprire i casi che potrebbero sorgere a seguito di ulteriori possibili chiusure o provvedimenti di polizia sanitaria. I Cantoni stanno lavorando intensamente ai loro programmi. In ben due terzi dei Cantoni è già possibile presentare richieste di contributi, mutui e/o finanziamenti transitori. &lt;/p&gt;&lt;p&gt; Tuttavia, l’Esecutivo ha incaricato il DFF di accertare entro la fine di gennaio 2021, in collaborazione con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e i Cantoni, sia il fabbisogno concreto di allentare conformemente all’articolo 12 capoverso 5 della legge COVID-19 le condizioni che danno diritto agli aiuti sia la forma che tali allentamenti dovrebbero assumere. Inoltre, il Consiglio federale ha incaricato il DFF, il DEFR e il Dipartimento federale dell’interno di elaborare quanto prima insieme ai Cantoni ulteriori varianti di possibili misure per attenuare le perdite finanziarie subite dalle imprese e dai lavoratori direttamente e indirettamente toccati dalla crisi.&lt;/p&gt;&lt;p&gt; I Cantoni non saranno ostacolati da questa verifica ma potranno attuare rapidamente i loro programmi per i casi di rigore. Per il momento i fondi della prima tranche sono sufficienti. &lt;/p&gt;&lt;p&gt; In occasione dei dibattiti sulla legge COVID-19, il Parlamento ha inoltre deciso che i lavoratori indipendenti e le persone la cui posizione è assimilabile a quella di un datore di lavoro che registrano una diminuzione della cifra d’affari mensile pari al 40 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019 potranno beneficiare di un’indennità di perdita di guadagno per COVID-19 (finora la diminuzione della cifra d’affari doveva essere almeno del 55 %). Questa modifica è stata integrata nell’ordinanza COVID-19 perdita di guadagno.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt; &lt;strong&gt;A chi posso inviare una richiesta di aiuti finanziari per casi di rigore?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;L’impostazione concreta degli aiuti finanziari nei casi di rigore è di responsabilità dei Cantoni, che esamineranno anche le richieste nei singoli casi. Le domande relative alla presentazione delle richieste devono essere rivolte al Cantone nel quale l’impresa aveva la propria sede il 1° ottobre 2020. I dati di contatto dei servizi cantonali sono disponibili su covid19.easygov.swiss. L’ordinanza federale disciplina le modalità di ripartizione dei fondi della Confederazione ai Cantoni nonché le condizioni che devono essere adempiute affinché la Confederazione partecipi ai costi delle regolamentazioni cantonali sui casi di rigore.&lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Amministrazione federale delle finanze AFF, tel. +41 58 465 16 06, kommunikation@efv.admin.ch Indennità di perdita di guadagno: Comunicazione, Ufficio federale delle assicurazioni sociali UFAS, tel. +41 58 462 77 11, kommunikation@bsv.admin.ch</contact>
+      <attachment id="210246">
+        <title>Ordinanza COVID-19 casi di rigore</title>
+        <format>pdf</format>
+        <size-kb>378</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64662.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210247">
+        <title>Spiegazioni sull’ordinanza COVID-19 casi di rigore</title>
+        <format>pdf</format>
+        <size-kb>290</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64663.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210248">
+        <title>Ordinanza COVID-19 perdita di guadagno</title>
+        <format>pdf</format>
+        <size-kb>359</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64664.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="210249">
+        <title>Spiegazioni sull’ordinanza COVID-19 perdita di guadagno</title>
+        <format>pdf</format>
+        <size-kb>247</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/64666.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2020-12-18 17:08" type="R"/>
+      </revisions>
+    </content>
+    <offers>
+      <offer id="31" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="en">Social Insurances</name>
+      </offer>
+      <offer id="36" org-id="319">
+        <name lang="de">Erwerbsersatzordnung / Mutterschaft</name>
+        <name lang="fr">Régime des allocations pour perte de gain / Maternité</name>
+        <name lang="it">Indennità per perdita di guadagno / Maternità</name>
+        <name lang="en">Income Compensation</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="318.1" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="en">Social Insurances</name>
+      </keyword>
+      <keyword id="318.6" org-id="319">
+        <name lang="de">Erwerbsersatzordnung / Mutterschaft</name>
+        <name lang="fr">Régime des allocations pour perte de gain / Maternité</name>
+        <name lang="it">Indennità per perdita di guadagno / Maternità</name>
+        <name lang="en">Income Compensation</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="82050" revoked="no">
+    <version>1</version>
+    <pubdate>2021-01-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Der Bundesrat nimmt Analyse der aktuellen epidemiologischen Lage vor</title>
+      <lead>Der Bundesrat informierte sich an seiner Sitzung vom 20. Januar 2021 über die epidemiologische Entwicklung und den Stand der Impfkampagne. Er wurde zudem über mögliche weitergehende Massnahmen der Kantone in den obligatorischen und nachobligatorischen Schulen sowie über die Untersuchung der Swiss National Covid-19 Science Task Force (STF) zu Schulschliessungen informiert. Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) und die STF empfehlen, auf ein Verbot des Präsenzunterrichts an den Primarschulen, wenn immer möglich, zu verzichten. </lead>
+      <text link="no">&lt;p&gt;Auf Anfrage des Bundesrats hat die EDK die Massnahmen dargelegt, die von den Kantonen in den Schulen ergriffen wurden und noch ergriffen werden könnten. Die EDK rät in der aktuellen Situation von einem Verbot des Präsenzunterrichts ab, sowohl für die Primarschule und für die Sekundarstufe I, die ebenfalls Teil der obligatorischen Schule ist, als auch für die Sekundarstufe II. Ein solches Verbot habe weitreichende negative Folgen auf die psychische Gesundheit der Kinder und Jugendlichen sowie auf deren Bildungsverläufe. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Science Task Force über Vor- und Nachteile des Fernunterrichts&lt;br /&gt;&lt;/strong&gt;Auch für die STF überwiegen die Vorteile einer Umstellung auf Fernunterricht deren Nachteile erst bei einer gefährlichen oder sehr gefährlichen epidemiologischen Situation und nur auf Sekundarstufe I und II. Die STF hat untersucht, welche Rolle die Kinder und Jugendlichen in der Epidemie spielen und was die Reduktion von Kontakten bis hin zu einem Verbot von Präsenzunterricht in den Schulen aus epidemiologischer und&lt;br /&gt;jugendpsychologischer Sicht bedeutet.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Szenarien für weitere Massnahmen an den Schulen&lt;br /&gt;&lt;/strong&gt;Mit den bisher ergriffenen Massnahmen konnten an den Schulen grössere Ausbrüche verhindert werden konnten. Wie auch die EDK und die STF festhalten, könnten allerdings weitere Massnahmen in den Schulen nötig werden, falls sich die neuen Virusvarianten stark ausbreiten. Das eidgenössische Departement des Innern und die EDK vertiefen nun die Gespräche, um mögliche Szenarien für die Sekundarstufen I und II zu&lt;br /&gt;erarbeiten. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Angespannte epidemiologische Situation&lt;br /&gt;&lt;/strong&gt;Die Zahl der Neuansteckungen, Hospitalisationen und Todesfälle ist in den letzten Tagen gesunken. Wegen der Ausbreitung der neuen, deutlich ansteckenderen Virusvarianten bleibt die epidemiologische Lage aber angespannt. Die Anzahl Ansteckungen mit den neuen Varianten verdoppelt weiterhin jede Woche. Zu den beiden Varianten aus Grossbritannien und Südafrika kommt neu eine dritte, ebenfalls deutlich ansteckendere Variante aus Brasilien hinzu. Bisher wurde noch keine Übertragung ausserhalb Brasiliens nachgewiesen. Für Brasilien gilt bereits ein Einreiseverbot. Das Land wird zudem ab heute auf die Quarantäneliste aufgenommen. Der Bundesrat erachtet es weiterhin als dringend nötig,&lt;br /&gt;die Fallzahlen sofort und sehr deutlich zu senken, um ein unkontrolliertes Ansteigen der Fallzahlen durch die neuen Virusvarianten und eine Überlastung des Gesundheitssystems zu verhindern.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;500'000 Impfdosen erhalten&lt;br /&gt;&lt;/strong&gt;Der Bundesrat wurde auch über den Stand der Impfkampagne informiert. Die Schweiz hat bisher rund 500'000 Impfdosen erhalten. Das Bundesamt für Gesundheit ist daran, zusätzliche Impfdosen zu kaufen und Verträge mit weiteren Impfstoffproduzenten abzuschliessen. &lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral analyse la situation épidémiologique actuelle</title>
+      <lead>Lors de sa séance du 20 janvier 2021, le Conseil fédéral s’est informé de l’évolution de la situation épidémiologique et de l’état de la campagne de vaccination. Il a également été informé des options à disposition pour renforcer les mesures cantonales au niveau de l’école obligatoire et du postobligatoire, et de l’examen par la Swiss National COVID-19 Science Task Force (STF) d’une fermeture des écoles. La Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) et la STF recommandent de renoncer, dans la mesure du possible, à interdire l’enseignement présentiel dans les écoles primaires. </lead>
+      <text link="no">&lt;p&gt;A la demande du Conseil fédéral, la CDIP a présenté les mesures prises par les cantons dans les écoles ainsi que celles que l'on pourrait encore mettre en place. Dans la situation actuelle, elle déconseille d'interdire l'enseignement présentiel, tant au primaire, au secondaire I, qui fait aussi partie de l'école obligatoire, qu'au secondaire II. Une interdiction aurait en effet de vastes répercussions négatives, aussi bien sur la santé psychique des enfants et des jeunes que sur leur scolarité. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Enseignement à distance : pesée d'intérêts par la task-force scientifique &lt;br /&gt;&lt;/strong&gt;La STF estime également que l'enseignement à distance ne s'avérerait positif que si la situation épidémiologique devenait dangereuse ou très dangereuse, et qu'il devrait se limiter au secondaire I et II. La STF s'est penchée sur le rôle des enfants et des jeunes dans cette épidémie, ainsi que sur les conséquences épidémiologiques et psychologiques d'une réduction des contacts allant jusqu'à l'interdiction de l'enseignement présentiel. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mesures complémentaires dans les écoles&lt;br /&gt;&lt;/strong&gt;Les mesures prises jusqu'à maintenant ont permis d'éviter des flambées importantes dans les écoles. Comme le constatent également la CDIP et la STF, d'autres mesures pourraient se révéler nécessaires en cas de large propagation des nouvelles variantes du coronavirus. Le Département fédéral de l'intérieur et la CDIP approfondissent actuellement leurs discussions en vue d'élaborer différents scénarios qui pourraient s'appliquer aux niveaux secondaires I et II. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Situation épidémiologique tendue&lt;br /&gt;&lt;/strong&gt;Le nombre de nouvelles contaminations, d'hospitalisations et de décès a baissé ces derniers jours. La situation épidémiologique reste toutefois tendue en raison de la propagation des nouvelles variantes nettement plus contagieuses. Le nombre de contaminations dues aux mutations du virus continue en effet de doubler chaque semaine. De plus, une nouvelle souche également beaucoup plus contagieuse, en provenance du Brésil, est venue s'ajouter à celles de Grande-Bretagne et d'Afrique du Sud. Aucune contamination en dehors du Brésil n'a été recensée jusqu'à présent. Les citoyens en provenance du Brésil sont déjà soumis à une interdiction d'entrée sur le territoire suisse. Le pays a en outre été placé&lt;br /&gt;aujourd'hui sur la liste des zones concernées par la quarantaine. Le Conseil fédéral estime qu'il reste impératif d'abaisser immédiatement et de manière significative le nombre de cas afin d'éviter une augmentation incontrôlée des contaminations par les nouvelles variantes ainsi qu'une surcharge du système de santé. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;500 000 doses reçues&lt;br /&gt;&lt;/strong&gt;Le Conseil fédéral a par ailleurs été informé de l'état de la campagne de vaccination. Jusqu'à présent, la Suisse a reçu environ 500 000 doses de vaccin. L'Office fédéral de la santé publique est en train d'acheter de nouvelles doses et de conclure des contrats avec d'autres fabricants de vaccins. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique (OFSP) Infoline coronavirus +41 58 463 00 00 Infoline vaccination COVID-19 +41 58 377 88 92</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale fa il punto della situazione epidemiologica</title>
+      <lead>Nella sua seduta del 20 gennaio 2021, il Consiglio federale si è informato sull’evoluzione della situazione epidemiologica e sull’andamento della campagna di vaccinazione. È inoltre stato aggiornato sui possibili ulteriori provvedimenti dei Cantoni nella scuola obbligatoria e postobbligatoria e sui risultati di un’analisi della Swiss National COVID-19 Science Task Force (STF) sulla chiusura delle scuole. La Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) e la STF raccomandano di rinunciare, per quanto possibile, a un divieto dell’insegnamento presenziale nelle scuole elementari.</lead>
+      <text link="no">&lt;p&gt;Su richiesta del Consiglio federale, la CDPE ha illustrato i provvedimenti già adottati e suscettibili di essere adottati dai Cantoni nelle scuole. Nella situazione attuale, la CDPE raccomanda di rinunciare a un divieto dell'insegnamento presenziale sia nella scuola elementare e del livello secondario I, che costituiscono i cicli della scuola obbligatoria, sia in quella del livello secondario II. Ritiene infatti che un tale provvedimento possa avere effetti ampiamenti negativi sulla salute psichica e sulla formazione dei bambini e dei ragazzi.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vantaggi e svantaggi dell'insegnamento a distanza secondo la STF&lt;br /&gt;&lt;/strong&gt;Anche secondo la STF, i vantaggi dell'insegnamento a distanza prevalgono su quelli della didattica in presenza unicamente quando la situazione epidemiologica è critica o molto critica e soltanto per le scuole del livello secondario I e II. La STF ha analizzato il ruolo dei bambini e dei ragazzi nell'epidemia e gli effetti, sotto il profilo epidemiologico e sulla psiche giovanile, della riduzione dei contatti sociali e del divieto dell'insegnamento presenziale.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Scenari per ulteriori provvedimenti nelle scuole&lt;br /&gt;&lt;/strong&gt;I provvedimenti adottati sinora hanno permesso di evitare importanti focolai nelle scuole. Come constatato dalla CDPE e dalla STF, in questo settore potrebbero tuttavia rendersi necessari inasprimenti se le nuove varianti del virus dovessero diffondersi su larga scala. Questi scenari sono attualmente oggetto di approfondite discussioni condotte dal Dipartimento federale dell'interno e dalla CDPE nell'intento di trovare possibili soluzioni per le scuole del livello secondario I e II.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;La situazione epidemiologica resta tesa&lt;br /&gt;&lt;/strong&gt;Negli ultimi giorni il numero delle nuove infezioni, dei ricoveri e dei decessi è calato. La situazione epidemiologica rimane però tesa a causa della diffusione delle nuove varianti del virus. I casi di contagio riconducibili a queste forme mutate, nettamente più infettive, continuano a raddoppiare ogni settimana. Alle due varianti provenienti dalla Gran Bretagna e dal Sudafrica se n'è aggiunta una terza proveniente dal Brasile, anch'essa molto più contagiosa. Finora non è stato rilevato nessun caso di trasmissione al di fuori del Brasile. Per i viaggiatori in provenienza da questo Paese vige il divieto di entrata in Svizzera. Da oggi il Brasile figura inoltre sull'elenco dei Paesi soggetti a quarantena. Il Consiglio federale resta del parere che sia necessario ridurre subito e in misura significativa il numero di casi per evitare un aumento incontrollato dei contagi con queste nuove varianti del virus e un sovraccarico del sistema sanitario.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ricevute 500 000 dosi di vaccino&lt;br /&gt;&lt;/strong&gt;Il Consiglio federale è stato inoltre informato sull'andamento della campagna di vaccinazione. La Svizzera ha ricevuto finora circa 500 000 dosi di vaccino. L'Ufficio federale della sanità pubblica si sta muovendo per acquistarne ulteriori dosi e concludere contratti con altri produttori.&lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP Infoline Coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

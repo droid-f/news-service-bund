@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="33014" revoked="no">
+    <version>2</version>
+    <pubdate>2010-05-08</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="806" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Zivilluftfahrt</name>
+      <name lang="fr">Office fédéral de l'aviation civile</name>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="en">Federal Office of Civil Aviation</name>
+      <www lang="de">http://www.bazl.admin.ch</www>
+      <www lang="fr">http://www.bazl.admin.ch</www>
+      <www lang="it">http://www.bazl.admin.ch</www>
+      <www lang="en">http://www.bazl.admin.ch</www>
+      <email lang="de">info@bazl.admin.ch</email>
+      <email lang="fr">info@bazl.admin.ch</email>
+      <email lang="it">info@bazl.admin.ch</email>
+      <email lang="en">info@bazl.admin.ch</email>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Aschewolke: BAZL beobachtet Situation aufmerksam</title>
+      <teaser>Im Verlauf der Nacht auf den Sonntag wird eine weitere Aschewolke des Vulkans auf Island die Schweiz erreichen. Das Bundesamt für Zivilluftfahrt (BAZL) beobachtet die Situation aufmerksam und wird im Verlauf des späten Abends entscheiden, ob es Massnahmen oder Einschränkungen braucht, um die Sicherheit des Flugverkehrs zu gewährleisten.</teaser>
+      <lead>Im Verlauf der Nacht auf den Sonntag wird eine weitere Aschewolke des Vulkans auf Island die Schweiz erreichen. Das Bundesamt für Zivilluftfahrt (BAZL) beobachtet die Situation aufmerksam und wird im Verlauf des späten Abends entscheiden, ob es Massnahmen oder Einschränkungen braucht, um die Sicherheit des Flugverkehrs zu gewährleisten.</lead>
+      <text link="no">&lt;p&gt;Ein Ausläufer der vom isländischen Vulkan ausgestossenen Aschewolke wird in der Nacht auf den Sonntag von Südwesten her die Schweiz erreichen. Es ist denkbar, dass die Dichte der Aschewolke einen Wert aufweist, der für Luftfahrzeuge gefährlich ist und deshalb Einschränkungen des Flugverkehrs erforderlich machen wird. Das BAZL wird deshalb die Situation weiterhin aktiv verfolgen und nach Rücksprache mit Meteoschweiz sowie der Flugsicherung Skyguide über das weitere Vorgehen entscheiden und darüber informieren.&lt;/p&gt;</text>
+      <contact/>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Nuage de cendres: l'OFAC examine la situation avec attention</title>
+      <teaser>Dans la nuit de dimanche, un nouveau nuage de cendres émis par le volcan islandais atteindra la Suisse par le sud-ouest. L’Office fédéral de l'aviation civile (OFAC) examine de manière active la situation. Il décidera en fin de soirée si des mesures ou des restrictions supplémentaires sont nécessaires afin de garantir la sécurité aérienne.</teaser>
+      <lead>Dans la nuit de dimanche, un nouveau nuage de cendres émis par le volcan islandais atteindra la Suisse par le sud-ouest. L’Office fédéral de l'aviation civile (OFAC) examine de manière active la situation. Il décidera en fin de soirée si des mesures ou des restrictions supplémentaires sont nécessaires afin de garantir la sécurité aérienne.</lead>
+      <text link="no">&lt;p&gt;Dans la nuit de dimanche, un nouveau nuage de cendres émis par le volcan islandais atteindra la Suisse par le sud-ouest. Il est tout à fait envisageable que les valeurs relevées dans le cadre du nuage de cendres mettent en danger l'aviation civile et nécessitent, de par ce fait, la mise en place de restrictions pour le trafic aérien. L'OFAC continuera donc à examiner de manière active la situation et décidera des mesures à adopter en collaboration avec MétéoSuisse et le service de la navigation aérienne, Skyguide. L'OFAC informera sur une nouvelle décision.&lt;/p&gt;</text>
+      <contact/>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="221" org-id="806">
+        <name lang="de">Medienmitteilungen des BAZL</name>
+        <name lang="fr">Communiqués de presse de l'OFAC</name>
+        <name lang="it">Comunicati stampa dell’UFAC</name>
+        <name lang="en">Press releases from FOCA</name>
+      </offer>
+    </offers>
+    <topics>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

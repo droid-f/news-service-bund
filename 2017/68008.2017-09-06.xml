@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="68008" revoked="no">
+    <version>3</version>
+    <pubdate>2017-09-06</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="705" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1079" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
+      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="en">Federal Food Safety and Veterinary Office</name>
+      <www lang="de">http://www.blv.admin.ch</www>
+      <www lang="fr">http://www.blv.admin.ch</www>
+      <www lang="it">http://www.blv.admin.ch</www>
+      <www lang="en">http://www.blv.admin.ch</www>
+      <email lang="de">media@blv.admin.ch</email>
+      <email lang="fr">info@blv.admin.ch</email>
+      <email lang="it">info@blv.admin.ch</email>
+      <email lang="en">info@blv.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat will Risiken von Pflanzenschutzmitteln weiter reduzieren</title>
+      <lead>Der Bundesrat hat am 6. September 2017 den Aktionsplan zur Risikoreduktion und nachhaltigen Anwendung von Pflanzenschutzmitteln verabschiedet. Die Risiken sollen halbiert und Alternativen zum chemischen Pflanzenschutz gefördert werden. Mit dem Aktionsplan setzt der Bundesrat klare Ziele. Um diese zu erreichen, werden bestehende Massnahmen ausgebaut und neue Massnahmen eingeführt. Der Aktionsplan erlaubt der Schweizer Landwirtschaft, sich mit der Produktion nachhaltiger Nahrungsmittel zu positionieren. </lead>
+      <text link="no"> &lt;p&gt;Der Bund will die Risiken von Pflanzenschutzmitteln (PSM) halbieren. Der vom Bundesrat verabschiedete Aktionsplan setzt hierfür klare Ziele. PSM-Einträge in die Gewässer werden reduziert und PSM, die im Boden nur langsam abgebaut werden, sind sparsamer einzusetzen. Die Nutzung moderner Techniken, wie Roboter und Drohnen werden die Anwendung und die Emissionen von PSM verringern. Weitere alternative Strategien zum Schutz der Kulturen und ihrer Erträge sollen entwickelt werden. Dazu gehört die Züchtung von robusten Kultursorten.&lt;/p&gt; &lt;p&gt;Heute werden bereits zahlreiche Massnahmen umgesetzt, um das Risiko und den Einsatz von PSM zu reduzieren. Doch diese reichen nicht aus, um die ambitiösen Ziele zu erreichen. Zum Schutz der Gewässer wird die Abschwemmung von PSM mit strengeren Anwendungsvorschriften vermindert werden. Mit modernen Spritzgeräten und mechanischer Unkrautbekämpfung wird eine zielgerichtete und emissionsarme Behandlung der Kulturen gefördert. Anwenderinnen und Anwender sollen in Weiterbildungskursen und durch die Beratung regelmässig über den neusten Wissensstand zum korrekten Umgang mit PSM aufgeklärt werden. Informationen über die Risiken und den Nutzen von PSM werden für die Anwender und die Bevölkerung verbessert.&lt;/p&gt; &lt;p&gt;Ein vollständiger Verzicht auf PSM ist heute nicht möglich. Sowohl in der Integrierten wie auch in der Biologischen Produktion müssen die Kulturen und ihre Erntegüter vor Krankheiten, Schädlingen und konkurrierenden Unkräutern geschützt werden. Ohne Pflanzenschutz würde die schweizerische Landwirtschaft wesentlich weniger Lebensmittel produzieren. Die Anforderungen an die Qualität der Früchte, Gemüse und Blumen sind heute sehr hoch und die Produzentinnen und Produzenten haben oft keine andere Wahl, als ihre Kulturen und Erntegüter vor möglichen Qualitätseinbussen mit PSM zu schützen. Die Konsumentinnen und Konsumenten können helfen, die Anwendungen von PSM zu reduzieren, indem sie gegenüber der Qualität, respektive der Ästhetik von Lebensmitteln toleranter werden und sich beim Kauf von Früchten und Weinen für Sorten entscheiden, welche weniger krankheitsanfällig sind.&lt;/p&gt; &lt;p&gt;Der Aktionsplan wird an neue Erkenntnisse angepasst werden. Durch die Stärkung der Forschung nach alternativen Pflanzenschutzmöglichkeiten und präziser Anwendungstechniken wird mittel- bis langfristig eine weitergehende Reduktion der Risiken ermöglicht. Dank der Resultate diverser Umweltbeobachtungsprogramme kann die Wirksamkeit der umgesetzten Massnahmen aufgezeigt werden. Ein erster Bericht in sechs Jahren wird zeigen, welche Fortschritte erreicht wurden und welche Massnahmen angepasst werden sollen. Zudem sollen die Konsequenzen für die Landwirtschaft in der künftigen Agrarpolitik entsprechend dargestellt werden.&lt;/p&gt; </text>
+      <contact>Eva Reinhard, stellvertretende Direktorin BLW, Tel. +41 58 462 25 03 Franziska Schwarz, Vizedirektorin BAFU, Tel. +41 58 462 63 78 Michael Beer, Vizedirektor BLV, Tel. +41 58 463 78 98 Pascal Richoz, Geschäftsleitung SECO, Tel. +41 58 462 29 60</contact>
+      <attachment id="170381">
+        <title>Bericht</title>
+        <format>pdf</format>
+        <size-kb>3249</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/49600.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral entend continuer à réduire les risques liés aux produits phytosanitaires</title>
+      <lead>Le 6 septembre, le Conseil fédéral a adopté le plan d’action visant la réduction des risques et l’utilisation durable des produits phytosanitaires. Les risques devront être divisés par deux et les alternatives à la protection phytosanitaire chimique seront encouragées. Le Conseil fédéral fixe des objectifs clairs dans ce plan d’action, qui seront atteints en développant les mesures existantes et en introduisant de nouvelles. Le plan d’action permet à l’agriculture suisse de se positionner dans la production durable de denrées alimentaires.</lead>
+      <text link="no"> &lt;p&gt;La Confédération entend réduire de moitié les risques qu’impliquent actuellement les produits phytosanitaires (PPh). Le plan d’action adopté par le Conseil fédéral fixe des objectifs précis en la matière. Ainsi, les apports de produits phytosanitaires dans les eaux seront considérablement réduits et les PPh à lente dégradation dans le sol devront être utilisés avec parcimonie. Un recours accru à des technologies modernes telles que les robots et les drones permettra de réduire l’application de PPh et leurs émissions. Des stratégies alternatives efficaces, qui incluent la sélection de variétés résistantes, seront développées pour assurer la protection phytosanitaire des cultures et des récoltes. &lt;/p&gt; &lt;p&gt;Aujourd’hui, de nombreuses mesures sont déjà mises en œuvre afin de réduire les risques induits par les PPh et leur utilisation. Toutefois, elles ne suffisent pas à atteindre les buts fixés. En matière de protection des eaux, des prescriptions d’application plus strictes diminueront le ruissellement des PPh. L’emploi de pulvérisateurs modernes et le recours au désherbage mécanique favoriseront un traitement des cultures ciblé et à faibles émissions. Les utilisateurs pourront se tenir régulièrement au courant des nouvelles connaissances et de l’emploi correct des PPh grâce à des cours de formation continue et à des conseils. Les informations sur les risques et l’utilisation des PPh destinées aux utilisateurs et à la population seront améliorées.&lt;/p&gt; &lt;p&gt;À l’heure actuelle, il n’est pas possible de renoncer intégralement aux PPh. Les cultures et les récoltes doivent être protégées des maladies, des ravageurs et des plantes adventices concurrentes autant dans la production intégrée que dans la production biologique. Sans protection phytosanitaire, l’agriculture suisse ne pourrait pas produire autant de denrées alimentaires. Les exigences de qualité sont aujourd’hui très élevées en ce qui concerne les fruits, les légumes et les fleurs, et les producteurs n’ont souvent pas d’autre choix que de protéger leurs cultures et leurs récoltes au moyen de PPh pour garantir leur qualité. Les consommateurs peuvent participer à l’effort de réduction du recours aux PPh en se montrant plus tolérants par rapport à la qualité ou à l’esthétique des produits et en veillant à acheter des fruits et du vin de cépages plus résistants. &lt;/p&gt; &lt;p&gt;Le plan d’action sera adapté aux nouvelles connaissances. Grâce à l’intensification de la recherche de possibilités alternatives de protection phytosanitaire et de techniques d’application précises, il sera possible de réduire encore davantage les risques à moyen et à long termes. Les résultats des divers programmes d’observation de l’environnement permettront de témoigner de l’efficacité des mesures. Dans six ans, un premier rapport tirera le bilan des progrès accomplis et définira les adaptations à apporter aux mesures. Par ailleurs, les conséquences pour l’agriculture seront présentées dans la future politique agricole.&lt;/p&gt; </text>
+      <contact>Eva Reinhard, directrice suppléante OFAG, tél. +41 58 462 25 03 Franziska Schwarz, sous-directrice OFEV, tél. +41 58 462 63 78 Michael Beer, sous-directeur OSAV, tél. +41 58 463 78 98 Pascal Richoz, direction SECO, tél. +41 58 462 29 60</contact>
+      <attachment id="170382">
+        <title>Rapport</title>
+        <format>pdf</format>
+        <size-kb>3396</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/49601.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale intende ridurre ulteriormente i rischi connessi ai prodotti fitosanitari</title>
+      <lead>Il 6 settembre 2017 il Consiglio federale ha approvato il Piano d'azione per la riduzione del rischio e l’utilizzo sostenibile dei prodotti fitosanitari. I rischi devono essere dimezzati e vanno promosse alternative alla difesa chimica. Con il piano d'azione il Consiglio federale pone obiettivi chiari. Onde conseguirli, vengono sviluppate le misure esistenti e ne vengono introdotte delle nuove. Il piano d'azione consente all'agricoltura svizzera di distinguersi per la produzione di alimenti sostenibili.</lead>
+      <text link="no"> &lt;p&gt;La Confederazione intende dimezzare i rischi connessi ai prodotti fitosanitari (PF). Il piano d'azione approvato dal Consiglio federale pone obiettivi chiari a tal fine. Le immissioni di PF nelle acque vengono ridotte e i PF che si degradano lentamente nel terreno vanno utilizzati con maggiore parsimonia. L’impiego di tecniche moderne, come robot e droni, contribuirà a limitare le applicazioni e le emissioni di PF. Vanno sviluppate strategie alternative per la difesa delle colture e dei raccolti, come ad esempio la selezione di varietà robuste.&lt;/p&gt; &lt;p&gt;Oggi sono già attuate numerose misure per ridurre il rischio e l’utilizzo di PF, che tuttavia non sono sufficienti per raggiungere questi obiettivi ambiziosi. Per la protezione delle acque si applicano prescrizioni d’uso più severe per evitare il dilavamento di PF. Mediante irroratrici moderne e la lotta meccanica contro le malerbe viene promosso un trattamento delle colture mirato e a basse emissioni. Gli utilizzatori devono essere regolarmente informati in corsi di perfezionamento e dalla consulenza sullo stato attuale delle conoscenze in merito al corretto utilizzo di PF. Le informazioni sui rischi e i benefici dei PF rivolte agli utilizzatori e alla popolazione vengono migliorate.&lt;/p&gt; &lt;p&gt;Una rinuncia totale ai PF oggi non è possibile. Sia nella produzione integrata sia in quella biologica le colture e i loro raccolti devono essere protetti da malattie, parassiti e malerbe antagoniste. Senza protezione fitosanitaria la produzione di derrate alimentari dell'agricoltura svizzera sarebbe nettamente inferiore. I requisiti qualitativi di frutta, verdura e fiori oggi sono molto elevati e i produttori spesso non possono fare altro che proteggere le loro colture e il loro raccolto dalle possibili perdite di qualità ricorrendo ai PF. I consumatori possono contribuire a ridurre le applicazioni di PF mostrando maggiore tolleranza nei confronti della qualità e dell'aspetto estetico degli alimenti e optando per l’acquisto di frutta e vini di varietà meno sensibili alle malattie.&lt;/p&gt; &lt;p&gt;Il piano d'azione sarà costantemente adeguato alle nuove conoscenze. Il potenziamento della ricerca di possibilità alternative di difesa e di tecniche di applicazione più precise consentirà, a medio e a lungo termine, un'ulteriore riduzione dei rischi. Grazie ai risultati di diversi programmi di monitoraggio ambientale può essere rilevata l'efficacia delle misure attuate. Tra sei anni un primo rapporto mostrerà quali progressi saranno stati conseguiti e quali misure dovranno essere adeguate. Inoltre, la futura politica agricola dovrà illustrare in maniera adeguata le conseguenze per l’agricoltura.&lt;/p&gt; </text>
+      <contact>Eva Reinhard, Direttore supplente UFAG, tel. +41 58 462 25 03 Franziska Schwarz, Vicedirettore UFAM, tel. +41 58 462 63 78 Michael Beer, Vicedirettore USAV, tel. +41 58 463 78 98 Pascal Richoz, Consiglio di direzione SECO, tel. +41 58 462 29 60</contact>
+      <attachment id="170383">
+        <title>Rapporto</title>
+        <format>pdf</format>
+        <size-kb>3827</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/49603.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="230" org-id="811">
+        <name lang="de">Chemikalien</name>
+        <name lang="fr">Produits chimiques</name>
+        <name lang="it">Prodotti chimici</name>
+        <name lang="en">Chemicals</name>
+      </keyword>
+      <keyword id="900" org-id="811">
+        <name lang="de">Pflanzen</name>
+        <name lang="fr">Plantes</name>
+        <name lang="it">Piante</name>
+        <name lang="en">Flora</name>
+      </keyword>
+      <keyword id="650" org-id="811">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="en">Agriculture</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+      <keyword id="1111" org-id="811">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">Salute</name>
+        <name lang="en">Health</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

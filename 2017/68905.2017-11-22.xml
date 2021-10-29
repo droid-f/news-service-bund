@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="68905" revoked="no">
+    <version>2</version>
+    <pubdate>2017-11-22</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1059" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Nationale Alarmzentrale</name>
+      <name lang="fr">Centrale nationale d'alarme</name>
+      <name lang="it">Centrale nazionale d'allarme</name>
+      <name lang="en">National Emergency Operations Centre</name>
+      <www lang="de">http://www.naz.ch</www>
+      <www lang="fr">http://www.naz.ch</www>
+      <www lang="it">http://www.naz.ch</www>
+      <www lang="en">http://www.naz.ch</www>
+      <email lang="de">info@naz.ch</email>
+      <email lang="fr">info@naz.ch</email>
+      <email lang="it">info@naz.ch</email>
+      <email lang="en">info@naz.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>«Weiterentwicklung der Armee»: Bundesrat beschliesst weitere Schritte für rasche Umsetzung</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 22. November 2017 eine Reihe von Verordnungsrevisionen verabschiedet, die die Vorgaben des neuen Militärgesetzes für die «Weiterentwicklung der Armee» (WEA) präzisieren. Sie treten auf den 1. Januar 2018 in Kraft, wenn die fünfjährige Umsetzung der WEA beginnt.</lead>
+      <text link="no">&lt;p&gt;Die WEA hat zum Ziel, über eine kleinere, aber flexiblere und besser ausgerüstete Armee zu verfügen. Ihre Umsetzung beginnt am 1. Januar 2018 und dauert voraussichtlich fünf Jahre. Im Hinblick auf die Umsetzung ist eine Reihe von Verordnungen zu revidieren, um die Vorgaben des revidierten Militärgesetzes zu präzisieren. Einige dieser Verordnungen hat der Bundesrat bereits in den vergangenen Monaten angepasst. Weitere Revisionen hat der Bundesrat nun an seiner Sitzung vom 22. November verabschiedet und auf den 1. Januar 2018 in Kraft gesetzt. Im Laufe der Umsetzung werden noch weitere Revisionen folgen.&lt;/p&gt;&lt;h2&gt;Verordnung über die Militärdienstpflicht (VMDP):&lt;/h2&gt;&lt;p&gt;Mit der WEA ergeben sich auch Änderungen in der Militärdienstpflicht. Diese Verordnung regelt einerseits die wesentlichsten Aspekte von der Rekrutierung bis zur Entlassung aus der Militärdienstpflicht; sie bestimmt beispielsweise den Beginn und die Dauer der Militärdienstpflicht für Angehörige der Mannschaft und der Unteroffiziere, die Dauer der Grund- und Kaderausbildungen oder das Aufgebots- und Dienstverschiebungswesen. Andererseits regelt die Verordnung auch die Zuständigkeit von Bund und Kantonen insbesondere bei der Rekrutierung und dem Kontrollwesen. In dieser Verordnung werden die Bestimmungen aus bisherigen Verordnungen aufgenommen, die damit aufgehoben werden. In einem Anhang der VMDP werden zudem Bestimmungen der Zivildienstverordnung (ZDV) angepasst, weil sich einige Bestimmungen im Zivildienstrecht auf Regeln zur Militärdienstpflicht abstützen. Insbesondere gilt beim Zivildienst neu eine jährliche Einsatzpflicht von mindestens 26 Diensttagen ab dem 2. Jahr nach rechtskräftiger Zulassung. Bislang bestand die Pflicht zum jährlichen Einsatz ab dem 27. Altersjahr.&lt;/p&gt;&lt;h2&gt;Verordnung über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten (VMob):&lt;/h2&gt;&lt;p&gt;Die WEA sieht vor, grössere Teile der Armee rasch aufzubieten, auszurüsten und einzusetzen. Die Verordnung konkretisiert die Einberufung zum Assistenzdienst, um zivile Behörden zu unterstützen, die Erhöhung der Bereitschaft sowie die Einberufung zum Aktivdienst. Dabei regelt sie die Abläufe und die Zuständigkeiten zwischen Bund, Kantonen, Gemeinden und Privatpersonen und legt die Form der Mobilmachung fest. Beispielsweise können die neuen Milizformationen mit hoher Bereitschaft auch über SMS oder E-Mails aufgeboten werden.&lt;/p&gt;&lt;h2&gt;Dienstreglement der Armee (DRA):&lt;/h2&gt;&lt;p&gt;Im Hinblick auf die WEA werden die Urlaubsarten, die Voraussetzungen für einen Urlaub sowie die Prozesse und Zuständigkeiten für ein Gesuch ausschliesslich im Dienstreglement festgelegt. Damit lassen sich Doppelspurigkeiten mit anderen Erlassen vermeiden. Neu ist vorgesehen, dass alle Rekruten, Soldaten und Kader an zwei individuell zu bestimmenden Tagen während der Rekrutenschule einen frei wählbaren Urlaub beziehen können. Das Dienstreglement verschafft dem einzelnen Soldaten weiterhin einen Überblick über den Dienstbetrieb und seine Rechte und Pflichten.&lt;/p&gt;&lt;h2&gt;Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und Militärdienstfähigkeit (VMBM):&lt;/h2&gt;&lt;p&gt;Da mit der WEA die Untersuchungskommission über neue Möglichkeiten für Entscheide und Kombinationen verfügt, wird die entsprechende Verordnung im Anhang angepasst, neu gegliedert und umformuliert.&lt;/p&gt;&lt;h2&gt;Verordnung über die Ausbildungsgutschrift für Milizkader der Armee (VAK):&lt;/h2&gt;&lt;p&gt;Diese Verordnung wird neu geschaffen und präzisiert das zusätzliche Anreizsystem für neue Milizkader, das das Parlament im neuen Militärgesetz festgelegt hat (Art. 29a). Für Ausbildungen zum höheren Unteroffizier oder zum Offizier bis Stufe Stäbe der Truppenkörper wird den Armeeangehörigen ein finanzieller Betrag gutgeschrieben. Diese Gutschrift können sie für die Kosten einer zivilen Aus- oder Weiterbildung nutzen. Die Ausbildungsgutschrift für Milizkader der Armee dient ausschliesslich der Finanzierung ziviler Aus- und Weiterbildungskosten, das heisst von Studien-, Schul-, Kurs- und Prüfungsgebühren, wobei für die Wahl der Ausbildungsstätten klare Vorgaben bestehen. Die Beträge variieren je nach Grad und Funktion zwischen 3300 Franken und 11 300 Franken.&lt;/p&gt;&lt;h2&gt;Verordnung über die Wahrung der Lufthoheit (VWL):&lt;/h2&gt;&lt;p&gt;Die Bestimmungen für einen Waffeneinsatz gegen Luftfahrzeuge sind neu im Militärgesetz (Art. 92a) enthalten, weshalb die entsprechende Bestimmung in der bestehenden Verordnung aufgehoben wird. Zudem präzisiert die Verordnung die Abläufe zwischen Flugsicherung und Luftwaffe, wenn Hinweise darauf bestehen, dass Luftfahrzeuge die Lufthoheit verletzen oder die Luftverkehrsregeln in schwerer Weise missachten.&lt;/p&gt;&lt;h2&gt;Verordnung über den Militärsport:&lt;/h2&gt;&lt;p&gt;Bisher mussten die Trainer, die Betreuer und die Funktionäre ihre gesamte Ausbildungsdienstpflicht erfüllt haben, bevor sie für die Unterstützung von Spitzensportlern zusätzliche Diensttage einsetzen konnten. Diese Einschränkung wird nun aufgehoben, damit diese Personen und die Spitzensportler gleichgestellt sind. Zudem galten bisher die Armeeangehörigen im Fachstab Sport und im Stab Kompetenzzentrum Sport als Spezialisten und konnten aufgrund dieses Status zu tageweisen Dienstleistungen aufgeboten werden. Aufgrund einer Änderung in der VMDP fällt der Spezialistenstatus weg und Armeeangehörige der erwähnten Fachstäbe leisten gleich viele Tage WK wie andere Angehörige der Armee im entsprechenden Grad. Dabei besteht weiterhin die Möglichkeit, die Angehörigen der erwähnten Fachstäbe tageweise für Dienstleistungen aufzubieten.&lt;/p&gt;&lt;h2&gt;Verordnung über die Militärjustiz (MJV):&lt;/h2&gt;&lt;p&gt;Diese Verordnung wird neu geschaffen. Sie regelt die Aufgaben und die Organisation der Militärjustiz. Die militärischen Strafverfolgungsbehörden werden neu in drei Sprachregionen sowohl für die Untersuchungsrichter als auch für die Auditoren (militärische Staatsanwälte) organisiert. Aus den bisher acht erstinstanzlichen Militärgerichten werden deren drei – ein deutsch- und ein französischsprachiges Gericht mit jeweils mehreren Abteilungen sowie ein italienischsprachiges Gericht. Zudem präzisiert die Verordnung die Militärdienstpflicht der Angehörigen der Militärjustiz. Ihre Dienstpflicht kann von den Regelungen für die Armeeangehörigen abweichen und an die einzelnen Funktionen gekoppelt sein.&lt;/p&gt;&lt;h2&gt;Verordnung über den Stab Bundesrat Nationale Alarmzentrale (V Stab BR NAZ):&lt;/h2&gt;&lt;p&gt;Mit der WEA ergeben sich Anpassungen beim Bestand und der Organisation der militärischen Unterstützungsformation der Nationalen Alarmzentrale (NAZ) im Bundesamt für Bevölkerungsschutz. Insbesondere muss der Sollbestand des Stabes Bundesrat NAZ erhöht werden, damit neue Aufgaben zur Unterstützung des Bundesstabs für die Bewältigung von atomaren, biologischen und chemischen Bedrohungen sowie Naturgefahren (BST ABCN) erfüllt werden können.&lt;/p&gt;</text>
+      <contact>Lorenz Frischknecht Sprecher VBS +41 58 484 26 17 Für Fragen zum Zivildienst: Thomas Brückner, WBF Leiter Kommunikation, Vollzugsstelle für den Zivildienst +41 58 468 19 55</contact>
+      <attachment id="172811">
+        <title>Verordnung über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten (VMob)</title>
+        <format>pdf</format>
+        <size-kb>121</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50473.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172814">
+        <title>Erläuterung - Verordnung über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten</title>
+        <format>pdf</format>
+        <size-kb>111</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50476.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172815">
+        <title>Dienstreglement der Schweizerischen Armee (DR 04)</title>
+        <format>pdf</format>
+        <size-kb>174</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50477.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172817">
+        <title>Erläuterung - Änderung des Dienstreglements der Schweizerischen Armee</title>
+        <format>pdf</format>
+        <size-kb>155</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50479.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172818">
+        <title>Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit (VMBM)</title>
+        <format>pdf</format>
+        <size-kb>219</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50480.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172820">
+        <title>Erläuterung - Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit</title>
+        <format>pdf</format>
+        <size-kb>187</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50482.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172821">
+        <title>Verordnung über die Ausbildungsgutschrift für Milizkader der Armee (VAK)</title>
+        <format>pdf</format>
+        <size-kb>114</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50483.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172823">
+        <title>Erläuterung - Verordnung über die Ausbildungsgutschrift für Milizkader der Armee</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50485.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172824">
+        <title>Verordnung über die Wahrung der Lufthoheit (VWL)</title>
+        <format>pdf</format>
+        <size-kb>150</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50486.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172826">
+        <title>Erläuterung - Änderung der Verordnung über die Wahrung der Lufthoheit</title>
+        <format>pdf</format>
+        <size-kb>28</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50488.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172827">
+        <title>Verordnung über den Militärsport</title>
+        <format>pdf</format>
+        <size-kb>152</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50489.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172829">
+        <title>Erläuterung - Änderung der Verordnung über den Militärsport</title>
+        <format>pdf</format>
+        <size-kb>17</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50492.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172830">
+        <title>Verordnung über die Militärjustiz (MJV)</title>
+        <format>pdf</format>
+        <size-kb>282</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50494.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172832">
+        <title>Erläuterung - Verordnung über die Militärjustiz</title>
+        <format>pdf</format>
+        <size-kb>117</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50497.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172833">
+        <title>Verordnung über den Stab Bundesrat Nationale Alarmzentrale (V Stab BR NAZ)</title>
+        <format>pdf</format>
+        <size-kb>168</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50499.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172835">
+        <title>Erläuterung - Änderung der Verordnung über den Stab Bundesrat Nationale Alarmzentrale</title>
+        <format>pdf</format>
+        <size-kb>96</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50501.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172836">
+        <title>Verordnung über die Militärdienstpflicht (VMDP)</title>
+        <format>pdf</format>
+        <size-kb>958</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50506.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172839">
+        <title>Erläuterung - Verordnung über die Militärdienstpflicht Erläuterungen der einzelnen Bestimmungen</title>
+        <format>pdf</format>
+        <size-kb>310</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="172840">
+        <title>Weiterentwicklung der Armee</title>
+        <uri>http://www.vtg.admin.ch/de/aktuell/themen/wea.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Développement de l’armée : le Conseil fédéral prend des mesures pour accélérer sa mise en œuvre</title>
+      <lead>Ce 22 novembre 2017, le Conseil fédéral a approuvé en séance la révision d’une série d’ordonnances qui préciseront le cadre de la loi révisée sur l’armée au regard du développement de l’armée (DEVA). Elles entreront en vigueur le 1er janvier 2018, c’est-à-dire au début de la période de cinq ans prévue pour la mise en œuvre du DEVA.</lead>
+      <text link="no">&lt;p&gt;Le DEVA doit permettre à l’armée de s’assouplir et de mieux s’équiper tout en réduisant sa taille. Ce processus débutera le 1er janvier 2018 et devrait durer cinq ans. Il implique toutefois la révision d’une série d’ordonnances qui affineront le cadre de la loi révisée sur l’armée. Le Conseil fédéral a déjà adapté certaines d’entre elles au cours de ces derniers mois. Aujourd’hui, il vient d’adopter de nouveaux actes et d’approuver des modifications qui entreront en vigueur le 1er janvier 2018. D’autres révisions suivront lors de la phase de mise en œuvre du DEVA.&lt;/p&gt;&lt;h2&gt;Ordonnance sur les obligations militaires (OMi) :&lt;/h2&gt;&lt;p&gt;le DEVA implique des changements au niveau des obligations militaires. L’OMi en règle les aspects importants, depuis le recrutement jusqu’à la libération de ces obligations ; ainsi, elle fixe leur début et leur durée pour les soldats et les sous-officiers, ainsi que la durée de l’instruction de base et de celle des cadres, de même que tout ce qui se rapporte à la mise sur pied et aux questions de déplacement de service. Elle règle aussi la compétence de la Confédération et des cantons, notamment lors du recrutement et des contrôles. Ses dispositions émanent d’ordonnances en vigueur qui vont, pour l’occasion, être abrogées. En outre, dans une annexe de l’OMi, des dispositions de l’ordonnance sur le service civil (OSCi) sont adaptées car certaines d’entre elles s’appuient sur des règles portant sur les obligations militaires. Ainsi, dans le cadre du service civil, il faudra désormais effectuer une affectation d’une durée de 26 jours au moins par an à compter de la 2ème année qui suit l’entrée en force de la décision d’admission. Jusqu’ici, l’obligation d’effectuer des affectations annuelles s’appliquait à partir de la 27ème année.&lt;/p&gt;&lt;h2&gt;Ordonnance sur la mobilisation (OMob) :&lt;/h2&gt;&lt;p&gt;le DEVA prévoit de mettre sur pied, d’équiper et d’engager rapidement de grandes parties de l’armée. L’OMob concrétise le processus de convocation au service d’appui en faveur des autorités civiles, l’augmentation de la disponibilité et la convocation au service actif. Dans ce contexte, elle règle les processus et la répartition des compétences entre la Confédération, les cantons, les communes et les individus, et définit les formes de mobilisation. Ainsi, les nouvelles formations de milice à disponibilité élevée pourront être convoquées par voie de SMS ou de courriels également.&lt;/p&gt;&lt;h2&gt;Règlement de service de l’armée (RSA) :&lt;/h2&gt;&lt;p&gt;dans le cadre du DEVA, le RSA est la seule base qui détermine les types de congés, les conditions de leur obtention ainsi que les processus et compétences régissant leurs demandes, ce qui évite tout chevauchement avec d’autres actes juridiques. Le RSA introduit aussi une nouveauté en accordant à chaque militaire le droit de prendre à sa guise deux jours de congé pendant l’école de recrues. Il donne aussi au soldat un aperçu de la marche du service, ainsi que de ses droits et devoirs.&lt;/p&gt;&lt;h2&gt;Ordonnance concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire (OAMAS) :&lt;/h2&gt;&lt;p&gt;le DEVA donnant à la commission de visite sanitaire de nouvelles possibilités de prendre des décisions et d’effectuer des combinaisons, il s’est avéré nécessaire d’adapter, de restructurer et de reformuler l’annexe de l’ordonnance.&lt;/p&gt;&lt;h2&gt;Ordonnance sur les indemnités de formation pour les cadres de milice de l’armée (OIFC) :&lt;/h2&gt;&lt;p&gt;cette nouvelle ordonnance donne des précisions sur le système supplémentaire d’incitation introduit par le Parlement dans la nouvelle version de la loi sur l’armée (art. 29a) pour les nouveaux cadres de milice. Ceux-ci reçoivent une indemnité s’ils suivent la formation de sous-officier supérieur ou d’officier jusqu’au niveau d’un état-major de corps de troupe. Ils peuvent utiliser cette indemnité pour régler les coûts d’une formation ou d’un perfectionnement dans la vie civile dans la mesure où l’aide à la formation pour les cadres de milice de l’armée sert exclusivement à payer les émoluments pour études, l’écolage et les taxes d’examen, d’où également des conditions clairement définies pour le choix des institutions de formations. Le montant de ces indemnités varie selon le grade et la fonction, soit entre 3 300 et 11 300 francs.&lt;/p&gt;&lt;h2&gt;Ordonnance sur la sauvegarde de la souveraineté sur l’espace aérien (OSS) :&lt;/h2&gt;&lt;p&gt;les dispositions concernant l’engagement des armes contre des aéronefs figurent désormais dans la loi sur l’armée (art. 92a), d’où leur abrogation dans l’ordonnance en vigueur. L’OSS définit aussi les processus impliquant les Forces aériennes dans les tâches de la sécurité aérienne lorsque des indices montrent que des aéronefs violent la souveraineté sur l’espace aérien ou contreviennent gravement aux règles du trafic aérien.&lt;/p&gt;&lt;h2&gt;Ordonnance concernant le sport militaire :&lt;/h2&gt;&lt;p&gt;jusqu’à présent, les entraîneurs, les assistants et les moniteurs devaient avoir suivi l’entièreté du service d’instruction obligatoire pour pouvoir consacrer des jours de service supplémentaires à l’encadrement des sportifs d’élite. Cette condition n’a plus lieu d’être puisque ces personnes et les sportifs d’élite sont placés sur un pied d’égalité. En outre, en raison de leur statut de spécialistes, les militaires de l’état-major spécialisé Sport et de l’état-major du Centre de compétences sport pouvaient être convoqués pour effectuer du service sur une base journalière. En raison d’une modification dans l’OMi, qui rend ce statut caduc, les militaires des états-majors susmentionnés doivent effectuer le même nombre jours de service en CR que les autres militaires du même grade. Reste néanmoins la possibilité de convoquer ces militaires pour des services journaliers.&lt;/p&gt;&lt;h2&gt;Ordonnance concernant la justice militaire (OJM) :&lt;/h2&gt;&lt;p&gt;cette nouvelle ordonnance règle les tâches et l’organisation de la justice militaire. Les autorités militaires de poursuite pénale sont désormais réparties entre trois régions linguistiques, tout comme les juges d’instruction et les auditeurs (procureurs militaires). Des huit tribunaux militaires de première instance qui existaient jusqu’à présent, trois sont constitués – un tribunal de langue allemande et un de langue française, disposant chacun de plusieurs cours, et un de langue italienne. L’OJM précise aussi quelles sont les obligations des membres de la justice militaire. Leurs obligations peuvent s’écarter de celles incombant aux militaires et être couplées aux diverses fonctions.&lt;/p&gt;&lt;h2&gt;Ordonnance relative à l’état-major Centrale nationale d’alarme du Conseil fédéral (O EM CF CENAL) :&lt;/h2&gt;&lt;p&gt;le DEVA entraîne des adaptations dans l’effectif et l’organisation de la formation militaire d’appui de la Centrale nationale d’alarme (CENAL), laquelle est une unité de l’Office fédéral de la protection de la population. L’effectif réglementaire doit être augmenté pour que l’EM CF CENAL soit capable d’accomplir de nouvelles tâches d’appui au profit de l’Etat-major fédéral ABCN, lequel est chargé de maîtriser les menaces atomiques, biologiques et chimiques ainsi que les dangers naturels.&lt;/p&gt;</text>
+      <contact>Lorenz Frischknecht Porte-parole du DDPS +41 58 484 26 17 Renseignements sur le service civil : Thomas Brückner, DEFR Chef Communication, Organe d’exécution du service civil +41 58 468 19 55</contact>
+      <attachment id="172812">
+        <title>Ordonnance sur la mobilisation de l’armée pour des services d’appui et des services actifs (OMob)</title>
+        <format>pdf</format>
+        <size-kb>180</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50474.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172814">
+        <title>Erläuterung - Verordnung über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten</title>
+        <format>pdf</format>
+        <size-kb>111</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50476.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172816">
+        <title>Règlement de service de l’armée suisse (RS 04)</title>
+        <format>pdf</format>
+        <size-kb>174</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50478.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172817">
+        <title>Erläuterung - Änderung des Dienstreglements der Schweizerischen Armee</title>
+        <format>pdf</format>
+        <size-kb>155</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50479.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172819">
+        <title>Ordonnance concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire (OAMAS)</title>
+        <format>pdf</format>
+        <size-kb>216</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50481.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172820">
+        <title>Erläuterung - Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit</title>
+        <format>pdf</format>
+        <size-kb>187</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50482.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172822">
+        <title>Ordonnance sur les indemnités de formation pour les cadres de milice de l’armée (OIFC)</title>
+        <format>pdf</format>
+        <size-kb>214</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50484.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172823">
+        <title>Erläuterung - Verordnung über die Ausbildungsgutschrift für Milizkader der Armee</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50485.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172825">
+        <title>Ordonnance sur la sauvegarde de la souveraineté sur l’espace aérien (OSS)</title>
+        <format>pdf</format>
+        <size-kb>147</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50487.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172826">
+        <title>Erläuterung - Änderung der Verordnung über die Wahrung der Lufthoheit</title>
+        <format>pdf</format>
+        <size-kb>28</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50488.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172828">
+        <title>Ordonnance concernant le sport militaire</title>
+        <format>pdf</format>
+        <size-kb>147</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50491.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172829">
+        <title>Erläuterung - Änderung der Verordnung über den Militärsport</title>
+        <format>pdf</format>
+        <size-kb>17</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50492.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172831">
+        <title>Ordonnance concernant la justice militaire (OJM)</title>
+        <format>pdf</format>
+        <size-kb>237</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50496.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172832">
+        <title>Erläuterung - Verordnung über die Militärjustiz</title>
+        <format>pdf</format>
+        <size-kb>117</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50497.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172834">
+        <title>Ordonnance relative à l’état-major Centrale nationale d’alarme du Conseil fédéral (O EM CF CENAL)</title>
+        <format>pdf</format>
+        <size-kb>166</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50500.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172835">
+        <title>Erläuterung - Änderung der Verordnung über den Stab Bundesrat Nationale Alarmzentrale</title>
+        <format>pdf</format>
+        <size-kb>96</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50501.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172837">
+        <title>Ordonnance sur les obligations militaires (OMi)</title>
+        <format>pdf</format>
+        <size-kb>1000</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50503.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172839">
+        <title>Erläuterung - Verordnung über die Militärdienstpflicht Erläuterungen der einzelnen Bestimmungen</title>
+        <format>pdf</format>
+        <size-kb>310</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="172841">
+        <title>Développement de l'armée</title>
+        <uri>http://www.vtg.admin.ch/fr/actualite/themes/deva.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale definisce i prossimi passi per una rapida attuazione dell’ulteriore sviluppo dell’esercito</title>
+      <lead>Nella sua seduta del 22 novembre 2017 il Consiglio federale ha approvato una serie di revisioni di ordinanze che precisano le disposizioni della nuova legge militare per l’ulteriore sviluppo dell’esercito (USEs). Le revisioni delle ordinanze entreranno in vigore il 1° gennaio 2018, in concomitanza con l’inizio della fase quinquennale di attuazione dell’USEs.</lead>
+      <text link="no">&lt;p&gt;L’obiettivo dell’USEs è di disporre di un esercito più piccolo, ma più flessibile e meglio equipaggiato. La sua messa in atto inizierà il 1° gennaio 2018 e durerà presumibilmente cinque anni. In vista dell’attuazione occorre rivedere una serie di ordinanze per precisare le disposizioni della nuova legge militare. Il Consiglio federale ha già provveduto nei mesi scorsi ad adeguare alcune di queste ordinanze. Nella sua seduta del 22 novembre ha approvato ulteriori revisioni che entreranno in vigore il 1° gennaio 2018. Seguiranno altre revisioni nel corso dell’attuazione.&lt;/p&gt;&lt;h2&gt;Ordinanza concernente l’obbligo di prestare servizio militare (OOPSM):&lt;/h2&gt;&lt;p&gt;l’USEs comporta modifiche in materia di obbligo di prestare servizio militare. L’OOPSM disciplina in primo luogo gli aspetti essenziali dal reclutamento fino al proscioglimento dall’obbligo di prestare servizio militare: stabilisce per esempio l’inizio e la durata dell’obbligo di prestare servizio militare per i militari di truppa e i sottufficiali, la durata delle istruzioni di base e dei quadri o le questioni riguardanti la chiamata in servizio e il differimento del servizio. In secondo luogo, l’ordinanza disciplina le competenze della Confederazione e dei Cantoni in particolare nell’ambito del reclutamento e dei controlli. Questa ordinanza riprende le disposizioni di ordinanze attualmente in vigore che, di conseguenza, saranno abrogate. Inoltre in un allegato dell’OOPSM vengono adeguate alcune disposizioni dell’ordinanza sul servizio civile (OSCi) che si fondano su norme relative all’obbligo di prestare servizio militare. In particolare è ora in vigore un obbligo di effettuare ogni anno prestazioni di servizio di almeno 26 giorni a partire dal secondo anno successivo a quello in cui l’ammissione al servizio civile passa in giudicato. Finora tale obbligo vigeva a partire dal 27esimo anno d’età.&lt;/p&gt;&lt;h2&gt;Ordinanza concernente la mobilitazione per determinati servizi d’appoggio e servizi attivi (OMob):&lt;/h2&gt;&lt;p&gt;l’USEs prevede di chiamare in servizio, equipaggiare e impiegare rapidamente ampie parti dell’esercito. L’ordinanza concretizza la chiamata per il servizio d’appoggio a favore di autorità civili, per accrescere la prontezza dell’esercito oppure per il servizio attivo. Inoltre disciplina le procedure e le competenze di Confederazione, Cantoni, Comuni e privati e determina la forma della mobilitazione. Per esempio, la chiamata in servizio delle nuove formazioni di milizia in prontezza elevata potrà essere effettuata anche tramite SMS o e-mail.&lt;/p&gt;&lt;h2&gt;Regolamento di servizio dell’esercito (RSE):&lt;/h2&gt;&lt;p&gt;in vista dell’USEs i tipi di congedo, le condizioni per ottenere un congedo nonché le procedure e le competenze per la relativa domanda vengono fissati esclusivamente nel regolamento di servizio. In tal modo si evitano doppioni con altri atti normativi. Il RSE introduce la possibilità per le reclute, i soldati e i quadri di prendere due singoli giorni di congedo a libera scelta durante la scuola reclute. Il regolamento di servizio continua a fornire ai singoli soldati una panoramica sull’andamento del servizio e sui loro diritti e obblighi.&lt;/p&gt;&lt;h2&gt;Ordinanza concernente l’apprezzamento medico dell’idoneità al servizio militare e dell’idoneità a prestare servizio militare (OAMM):&lt;/h2&gt;&lt;p&gt;poiché con l’USEs la commissione per la visita sanitaria disporrà di nuove possibilità e combinazioni, l’allegato della relativa ordinanza è stato modificato, riformulato e articolato diversamente.&lt;/p&gt;&lt;h2&gt;Ordinanza sul contributo per la formazione per i quadri di milizia dell’esercito (OCFQE):&lt;/h2&gt;&lt;p&gt;si tratta di una nuova ordinanza che precisa il sistema di incentivi supplementari per i nuovi quadri di milizia fissato dal Parlamento nella nuova legge militare (art. 29a). Ai militari che assolvono un’istruzione a sottufficiale superiore o a ufficiale fino a livello di stati maggiori dei corpi di truppa sarà accordato un contributo finanziario utilizzabile per coprire i costi di una formazione o formazione continua in ambito civile. Il contributo per la formazione destinato ai quadri di milizia dell’esercito serve esclusivamente a finanziare costi di una formazione o formazione continua in ambito civile, ovvero tasse universitarie, scolastiche, di corsi ed esami. Al riguardo esistono precise disposizioni sulla scelta degli istituti di formazione. I contributi variano dai 3300 e gli 11 300 franchi a seconda del grado e della funzione.&lt;/p&gt;&lt;h2&gt;Ordinanza concernente la salvaguardia della sovranità sullo spazio aereo (OSS):&lt;/h2&gt;&lt;p&gt;le disposizioni concernenti l’impiego delle armi contro aeromobili sono state inserite nella legge militare (Art. 92a), ragione per cui le relative disposizioni della presente ordinanza vengono abrogate. L’ordinanza precisa inoltre le procedure tra la sicurezza aerea e le Forze aeree quando vi sono indizi che aeromobili violano la sovranità sullo spazio aereo o contravvengono gravemente alle norme sulla navigazione aerea.&lt;/p&gt;&lt;h2&gt;Ordinanza sullo sport militare:&lt;/h2&gt;&lt;p&gt;finora gli allenatori, gli assistenti e i funzionari dovevano assolvere il loro totale obbligatorio di giorni di servizio d’istruzione prima di poter prestare dei giorni di servizio supplementari per sostenere gli sportivi di punta. Questa restrizione è ora soppressa affinché tali persone e gli sportivi di punta siano posti sullo stesso piano. Inoltre finora i militari nello Stato maggiore specializzato sport e nello Stato maggiore del Centro di competenza sport dell’esercito erano considerati specialisti e sulla base di questo status potevano essere chiamati per prestare servizi a giorni singoli. In seguito a una modifica dell’OOPSM lo status di specialista viene a cadere e i militari dei suddetti stati maggiori presteranno nei corsi di ripetizione lo stesso numero di giorni di servizio degli altri militari di grado equivalente. Tuttavia, sarà ancora possibile chiamare in servizio tali militari per prestare servizi a giorni singoli.&lt;/p&gt;&lt;h2&gt;Ordinanza sulla giustizia militare (O-GM):&lt;/h2&gt;&lt;p&gt;si tratta di una nuova ordinanza che disciplina i compiti e l’organizzazione della giustizia militare. Le autorità militari di perseguimento penale saranno suddivise in tre regioni linguistiche sia per quanto riguarda i giudici istruttori che per quanto concerne gli auditori (procuratori militari). Gli attuali otto tribunali militari di prima istanza verranno ridotti a tre: un tribunale di lingua tedesca e un tribunale di lingua francese, che disporranno ciascuno di varie sezioni, nonché un tribunale di lingua italiana. Inoltre, l’O-GM precisa l’obbligo di prestare servizio militare dei membri della giustizia militare che può derogare da quello dei militari e dipendere dalle singole funzioni.&lt;/p&gt;&lt;h2&gt;Ordinanza sullo Stato maggiore del Consiglio federale Centrale nazionale d’allarme (O SM CF CENAL):&lt;/h2&gt;&lt;p&gt;l’USEs comporta modifiche per quanto riguarda l’effettivo e l’organizzazione della formazione di sostegno militare alla Centrale nazionale d’allarme (CENAL) in seno all’Ufficio federale della protezione della popolazione. In particolare l’effettivo regolamentare dello Stato maggiore del Consiglio federale CENAL deve essere aumentato affinché possa adempiere nuovi compiti a sostegno dello Stato maggiore federale per la gestione delle minacce nucleari, biologiche, chimiche e naturali (SMF NBCN).&lt;/p&gt;</text>
+      <contact>Lorenz Frischknecht Portavoce del DDPS +41 58 484 26 17 Per domande sul servizio civile: Thomas Brückner, DEFR Capo della comunicazione, Organo d’esecuzione del servizio civile +41 58 468 19 55</contact>
+      <attachment id="172813">
+        <title>Ordinanza sulla mobilitazione per determinati servizi d’appoggio e servizi attivi (OMob)</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50475.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172814">
+        <title>Erläuterung - Verordnung über die Mobilmachung zu bestimmten Assistenz- und Aktivdiensten</title>
+        <format>pdf</format>
+        <size-kb>111</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50476.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172816">
+        <title>Règlement de service de l’armée suisse (RS 04)</title>
+        <format>pdf</format>
+        <size-kb>174</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50478.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172817">
+        <title>Erläuterung - Änderung des Dienstreglements der Schweizerischen Armee</title>
+        <format>pdf</format>
+        <size-kb>155</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50479.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172819">
+        <title>Ordonnance concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire (OAMAS)</title>
+        <format>pdf</format>
+        <size-kb>216</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50481.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172820">
+        <title>Erläuterung - Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit</title>
+        <format>pdf</format>
+        <size-kb>187</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50482.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172822">
+        <title>Ordonnance sur les indemnités de formation pour les cadres de milice de l’armée (OIFC)</title>
+        <format>pdf</format>
+        <size-kb>214</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50484.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172823">
+        <title>Erläuterung - Verordnung über die Ausbildungsgutschrift für Milizkader der Armee</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50485.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172825">
+        <title>Ordonnance sur la sauvegarde de la souveraineté sur l’espace aérien (OSS)</title>
+        <format>pdf</format>
+        <size-kb>147</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50487.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172826">
+        <title>Erläuterung - Änderung der Verordnung über die Wahrung der Lufthoheit</title>
+        <format>pdf</format>
+        <size-kb>28</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50488.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172828">
+        <title>Ordonnance concernant le sport militaire</title>
+        <format>pdf</format>
+        <size-kb>147</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50491.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172829">
+        <title>Erläuterung - Änderung der Verordnung über den Militärsport</title>
+        <format>pdf</format>
+        <size-kb>17</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50492.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172831">
+        <title>Ordonnance concernant la justice militaire (OJM)</title>
+        <format>pdf</format>
+        <size-kb>237</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50496.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172832">
+        <title>Erläuterung - Verordnung über die Militärjustiz</title>
+        <format>pdf</format>
+        <size-kb>117</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50497.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172834">
+        <title>Ordonnance relative à l’état-major Centrale nationale d’alarme du Conseil fédéral (O EM CF CENAL)</title>
+        <format>pdf</format>
+        <size-kb>166</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50500.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172835">
+        <title>Erläuterung - Änderung der Verordnung über den Stab Bundesrat Nationale Alarmzentrale</title>
+        <format>pdf</format>
+        <size-kb>96</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50501.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172838">
+        <title>Ordinanza concernente l’obbligo di prestare servizio militare (OOPSM)</title>
+        <format>pdf</format>
+        <size-kb>1109</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50504.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="172839">
+        <title>Erläuterung - Verordnung über die Militärdienstpflicht Erläuterungen der einzelnen Bestimmungen</title>
+        <format>pdf</format>
+        <size-kb>310</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/50505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="172842">
+        <title>L'ulteriore sviluppo dell'esercito</title>
+        <uri>http://www.vtg.admin.ch/it/attualita/temi/uses.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="595" org-id="505">
+        <name lang="de">Ausbildung</name>
+        <name lang="fr">Instruction</name>
+        <name lang="it">Istruzione</name>
+        <name lang="en">Training</name>
+      </keyword>
+      <keyword id="5160" org-id="505">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5180" org-id="505">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5610" org-id="505">
+        <name lang="de">Entwicklung / Planung / Reform</name>
+        <name lang="fr">Développement / Planification / Réforme</name>
+        <name lang="it">Sviluppo / Pianificazione / Riforma</name>
+        <name lang="en">development / planning / reform</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

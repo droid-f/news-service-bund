@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="454" revoked="no">
+    <version>2</version>
+    <pubdate>2005-10-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="602" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Innovation: Bestnote für das EFD</title>
+      <lead>Eine Fallstudie des Eidgenössischen Finanzdepartementes EFD zur Einführung eines Shared Service Center Bund erhielt im Rahmen des Executive MBA in den Räumlichkeiten der Universität Zürich den ersten Preis der Jury.</lead>
+      <text link="no">Die vom EFD durchgeführte Studie weist nach, dass durch die gezielte Zusammenlegung operativer Tätigkeiten in den Bereichen Finanzen, Personal und Logistik die Qualität der Leistung gesteigert, die Dienstwege verkürzt und die Kosten gesenkt werden können.&lt;br /&gt; &lt;br /&gt; Die aus Wirtschaftsvertretern zusammengesetzte Jury erteilte dem innovativen Projekt die Bestnote. Das Shared Service Center wird vom EFD im Rahmen der Bundesverwaltungsreform 2005/07 pilotiert und soll danach für die ganze Bundesverwaltung zur Anwendung kommen.</text>
+      <contact>Marcel Paolino, Generalsekretariat EFD, Tel. 031 324 71 04</contact>
+      <revisions>
+        <revision date="2005-10-12 08:42" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Innovation: meilleure note pour le DFF</title>
+      <lead>Une étude réalisée par le Département fédéral des finances (DFF) concernant la création d’un centre de services partagés de la Confédération (Shared Service Center) a reçu, dans les locaux de l’Université de Zurich, le premier prix du jury décerné dans le cadre d’une formation postgrade en gestion d’entreprise (Executive MBA).</lead>
+      <text link="no">Cette étude du DFF montre qu’il est possible, par un regroupement ciblé des activités relevant des domaines des finances, du personnel et de la logistique, d’accroître la qualité des prestations, de raccourcir les voies de service et de réduire les coûts. &lt;p&gt;Composé de représentants des milieux économiques, le jury a attribué la meilleure note à l’étude en question. Le centre de services partagés de la Confédération sera dirigé par le DFF dans le cadre de la réforme de l'administration 2005-2007, avant d'être appliqué à l'ensemble de la Confédération.&lt;/p&gt;</text>
+      <contact>Marcel Paolino, Secrétariat général DFF , tél.: 031 324 71 04</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+      <topic id="24">
+        <name lang="de">Öffentliche Beschaffungen</name>
+        <name lang="fr">Marchés publics</name>
+        <name lang="it">Acquisti pubblici</name>
+        <name lang="en">Public Procurement</name>
+      </topic>
+      <topic id="32">
+        <name lang="de">Bundespersonal</name>
+        <name lang="fr">Personnel de la Confédération</name>
+        <name lang="it">Personale della Confederazione</name>
+        <name lang="en">Government Employees</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

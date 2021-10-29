@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="15773" revoked="no">
+    <version>2</version>
+    <pubdate>2007-11-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="609" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Das neue BIT Informatik-Kursprogramm ist da</title>
+      <lead>– mit einer breiten Palette an neuen Kursen und Lehrgängen, welche Ihnen auch 2008 eine zeitgemässe Aus- und Weiterbildung ermöglicht.</lead>
+      <text link="no">&lt;p&gt;Das Angebot der IT-Education BIT steht Ihnen unter www.bit.admin.ch/edu zur Verfügung. Unter diesem Link können Sie auch ein gedrucktes Kursprogramm bestellen. Haben Sie Fragen? Das IT-Education Team hilft Ihnen gerne weiter und freut sich, Sie auch im 2008 in ihren Kursen begrüssen zu dürfen.&lt;/p&gt;</text>
+      <contact>Ausbildungssekretariat IT-Education BIT Tel.: +41 31 325 97 52 ausbildung@bit.admin.ch Internet: www.bit.admin.ch/edu</contact>
+      <link id="33163">
+        <title>IT-Education BIT</title>
+        <uri>http://www.bit.admin.ch/edu</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le nouveau programme OFIT est là.</title>
+      <lead>– avec une large palette de nouveaux cours et voies d’instruction qui vous permettra, en 2008 aussi, une formation et un perfectionnement des plus actuels.</lead>
+      <text link="no">&lt;p&gt;Vous disposez, sous www.bit.admin.ch/edu, de l’offre de l’IT-Education BIT. C’est sous ce link que vous pourrez aussi commander un programme sous forme imprimée.&lt;br /&gt; Avez-vous des questions? L’équipe IT-Education vous aidera avec plaisir et se réjouit de pouvoir vous accueillir dans ses cours aussi en 2008.&lt;/p&gt;</text>
+      <contact>Secrétariat de formation IT-Education OFIT Tél.: +41 31 325 97 52 ausbildung@bit.admin.ch Internet: www.bit.admin.ch/edu</contact>
+      <link id="33164">
+        <title>IT-Education OFIT</title>
+        <uri>http://www.bit.admin.ch/edu</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="123456" org-id="609">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatik (fr)</name>
+        <name lang="it">Informatik (it)</name>
+        <name lang="en">Informatik (en)</name>
+      </keyword>
+      <keyword id="208" org-id="609">
+        <name lang="de">Informatik und E-Government: Diverses</name>
+        <name lang="fr">Informatique et cyberadministration: divers</name>
+        <name lang="it">Informatica e Governo elettronico: diversi</name>
+        <name lang="en">IT and E-government Misc.</name>
+      </keyword>
+      <keyword id="176" org-id="609">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-Government</name>
+      </keyword>
+      <keyword id="175" org-id="609">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+      <keyword id="174" org-id="609">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="19">
+        <name lang="de">Medien</name>
+        <name lang="fr">Médias</name>
+        <name lang="it">Media</name>
+        <name lang="en">Media</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

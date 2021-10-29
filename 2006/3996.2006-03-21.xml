@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="3996" revoked="no">
+    <version>2</version>
+    <pubdate>2006-03-21</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Broschüre "Focus Entsorgung"</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Gerne machen wir Sie auf unsere neue Broschüre "Focus Entsorgung" aufmerksam.&lt;/p&gt;</text>
+      <contact/>
+      <attachment id="7104">
+        <title>Broschüre „Focus Entsorgung“</title>
+        <format>pdf</format>
+        <size-kb>641</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2305.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="7106">
+        <title>Weitere Informationen zum Sachplan Geologische Tiefenlager</title>
+        <uri>http://www.entsorgungsnachweis.ch/index.php?userhash=976720&amp;navID=63&amp;lID=1</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-03-21 08:09" type="I"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Brochure: "Focus - Gestion des déchets"</title>
+      <lead/>
+      <text link="no">&lt;p&gt;Nous publions une nouvelle brochure: "Focus - Gestion des déchets".&lt;/p&gt;</text>
+      <contact/>
+      <attachment id="7105">
+        <title>brochure "Focus - Gestion des déchets"</title>
+        <format>pdf</format>
+        <size-kb>623</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2306.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="7107">
+        <title>D’autres informations concernant le plan sectoriel "Dépôts en couches géologiques profondes"</title>
+        <uri>http://www.entsorgungsnachweis.ch/index.php?userhash=976700&amp;navID=63&amp;lID=2</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="10" org-id="808">
+        <name lang="de">Abfall</name>
+        <name lang="fr">Dechèts</name>
+        <name lang="it">Rifuti</name>
+        <name lang="en">Abfall</name>
+      </keyword>
+      <keyword id="611" org-id="808">
+        <name lang="de">Kernenergie: Entsorgung</name>
+        <name lang="fr">Energie nucléaire: Gestion des déchets</name>
+        <name lang="it">Energia nucleare: Gestione delle scorie</name>
+        <name lang="en">Nuclear energy: Waste disposal</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

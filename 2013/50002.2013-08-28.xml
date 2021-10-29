@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="50002" revoked="no">
+    <version>1</version>
+    <pubdate>2013-08-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="101" lead="no" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="318" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Statistik</name>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="en">Federal Statistical Office</name>
+      <www lang="de">http://www.statistik.admin.ch</www>
+      <www lang="fr">http://www.statistique.admin.ch</www>
+      <www lang="it">http://www.statistica.admin.ch</www>
+      <www lang="en">http://www.statistics.admin.ch</www>
+      <email lang="de">info@bfs.admin.ch</email>
+      <email lang="fr">info@bfs.admin.ch</email>
+      <email lang="it">info@bfs.admin.ch</email>
+      <email lang="en">info@bfs.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Änderungen bei der Sitzverteilung auf die Kantone für die Nationalratswahlen 2015</title>
+      <lead>Bei den Nationalratswahlen vom 18. Oktober 2015 wird in den Kantonen Zürich, Aargau und Wallis je ein Sitz mehr zu besetzen sein als bisher. Die Kantone Bern, Solothurn und Neuenburg werden je einen Sitz weniger zur Verfügung haben.</lead>
+      <text link="no">&lt;p&gt;Am 28. August 2013 hat der Bundesrat - gleichzeitig mit der Erwahrung der Zahlen der ständigen Wohnbevölkerung von Ende 2012 - auch die neue Verordnung über die Sitzverteilung bei der Gesamterneuerungswahl des Nationalrates 2015 verabschiedet. Aufgrund der kantonalen Bevölkerungszahlen werden bei den kommenden Nationalratswahlen die Kantone Zürich, Aargau und Wallis auf Kosten der Kantone Bern, Solothurn und Neuenburg je einen Sitz gewinnen.&lt;/p&gt;&lt;p&gt;Aufgrund der Bundesverfassung werden die 200 Nationalratssitze alle vier Jahre vom Volk in direkter Wahl im Verhältniswahlverfahren besetzt, wobei die Kantone die Wahlkreise sind (Art. 149 BV). Die Nationalratssitze werden auf die Kantone im Verhältnis zu ihrer Bevölkerungszahl verteilt, wobei jedoch jeder Kanton Anspruch auf mindestens einen Sitz hat. Das Verfahren zur Sitzverteilung ist von Artikel 17 des Bundesgesetzes über die politischen Rechte (BPR) lückenlos vorgezeichnet.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Künftig werden die Nationalratssitze für jede Legislatur den Kantonen neu verteilt&lt;br /&gt;&lt;/b&gt;Bis einschliesslich der Wahlen 2011 wurden die Nationalratssitze jeweils für mehrere Legislaturen auf die Kantone verteilt, und zwar aufgrund der Ergebnisse der letzten Volkszählung, die alle zehn Jahre in den Jahren mit Endzahl 0 mit Fragebogen bei der Bevölkerung vorgenommen wurde. &lt;/p&gt;&lt;p&gt;2010 wurde die eidgenössische Volkszählung modernisiert. Die neue Volkszählung fusst auf Registererhebungen, die vorhandene Verwaltungsdaten auswerten. Dafür nutzt das Bundesamt für Statistik (BFS) die kantonalen und kommunalen Einwohnerregister, die Zivilstandsregister sowie die Bundespersonenregister im Ausländerbereich. Auf der Grundlage dieser Daten ermittelt das BFS jährlich die Anzahl Personen der ständigen Wohnbevölkerung.&lt;/p&gt;&lt;p&gt;Künftig sind daher die Sitze alle vier Jahre neu auf die Kantone zu verteilen, und zwar aufgrund der Ergebnisse der Registerzählung des ersten auf die letzten Gesamterneuerungswahlen des Nationalrates folgenden Kalenderjahres. Massgebend ist die "ständige Wohnbevölkerung" (Art. 6a Verordnung über die politischen Rechte, VPR).&lt;b&gt;&lt;/b&gt;&lt;/p&gt;</text>
+      <contact>Für Rückfragen Nationalratssitze: Ursula Eggenberger, BK Leiterin Information und Kommunikation 031 322 37 63, ursula.eggenberger@bk.admin.ch Für Rückfragen neues Volkszählungssystem: Markus Schwyn, BFS, Leiter Abteilung Bevölkerung und Bildung 032 713 67 02, markus.schwyn@bfs.admin.ch</contact>
+      <attachment id="113489">
+        <title>Ständige Wohnbevölkerung nach Kantonen am 31.12.2012 / Die Sitzverteilung nach Kantonen für die Nationalratswahlen 2015</title>
+        <format>pdf</format>
+        <size-kb>30</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/31753.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Nouvelle répartition des sièges entre les cantons pour l’élection 2015 du Conseil national</title>
+      <lead>A l’occasion de l’élection du Conseil national du 18 octobre 2015, les cantons de Zurich, d’Argovie et du Valais disposeront chacun d’un siège supplémentaire. Les cantons de Berne, de Soleure et de Neuchâtel perdront par contre chacun un siège.</lead>
+      <text link="no">&lt;p&gt;Le 28 août 2013, le Conseil fédéral a approuvé la nouvelle ordonnance sur la répartition des sièges pour le renouvellement intégral 2015 du Conseil national et validé les principaux résultats des relevés des registres de la population résidante, tels qu'ils se présentaient à la fin de 2012. Sur la base des chiffres relatifs aux populations cantonales, les cantons de Zurich, d'Argovie et du Valais gagneront chacun un siège lors de la prochaine élection du Conseil national, au détriment des cantons de Berne, de Soleure et de Neuchâtel.&lt;/p&gt;&lt;p&gt;Comme le prévoit la Constitution fédérale, les 200 sièges du Conseil national sont attribués tous les quatre ans par suffrage direct du peuple, selon le système proportionnel, chaque canton formant une circonscription électorale (art. 149 Cst.). Les sièges sont répartis entre les cantons proportionnellement à leur population, alors que chaque canton a droit à un siège au moins. Le mode de répartition est réglé de manière exhaustive à l'art. 17 de la loi fédérale sur les droits politiques (LDP).&lt;/p&gt;&lt;p&gt;&lt;b&gt;A l'avenir, la répartition des sièges du Conseil national entre les cantons sera recalculée pour chaque législature&lt;br /&gt;&lt;/b&gt;Jusqu'à l'élection 2011 comprise, la répartition des sièges du Conseil national entre les cantons restait valable pour plusieurs législatures ; les sièges étaient répartis selon les résultats du dernier recensement populaire. Ce recensement s'effectuait tous les dix ans, les années se terminant par un zéro, par le biais de questionnaires soumis à la population.&lt;/p&gt;&lt;p&gt;Le recensement fédéral a été modernisé en 2010. Il repose désormais sur les relevés des registres, qui exploitent les données dont l'administration dispose. A cet effet, l'Office fédéral de de la statistique (OFS) recourt aux registres cantonaux et communaux des habitants, aux registres de l'état civil ainsi qu'aux registres fédéraux des étrangers. Sur la base de ces données, l'OFS détermine chaque année l'effectif de la population résidante permanente.&lt;/p&gt;&lt;p&gt;Dorénavant, les sièges feront ainsi l'objet d'une nouvelle répartition tous les quatre ans et ce, sur la base du résultat des relevés fondés sur les registres officiels de l'année qui suit directement la dernière élection du Conseil national. C'est « l'effectif de la population résidante permanente » qui est déterminant (art. 6&lt;i&gt;a&lt;/i&gt; de l'ordonnance sur les droits politiques, ODP).&lt;/p&gt;</text>
+      <contact>Pour toute question relative aux sièges au Conseil national : Ursula Eggenberger, ChF, cheffe de la section Information et communication 031 322 37 63, ursula.eggenberger@bk.admin.ch Pour toute question relative au nouveau mode de recensement de la population : Markus Schwyn, OFS, chef de la division Population et formation 032 713 67 02, markus.schwyn@bfs.admin.ch</contact>
+      <attachment id="113490">
+        <title>Population résidante permanente par canton le 31.12.2012 / Répartition des sièges entre les cantons pour l’élection 2015 du Conseil national</title>
+        <format>pdf</format>
+        <size-kb>31</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/31754.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Modifiche nella ripartizione dei seggi tra i Cantoni per l'elezione 2015 del Consiglio nazionale</title>
+      <lead>In occasione dell'elezione del Consiglio nazionale del 18 ottobre 2015 i Cantoni di Zurigo, di Argovia e del Vallese disporranno ciascuno di un seggio in più. I Cantoni di Berna, Soletta e Neuchâtel ne avranno invece uno in meno.</lead>
+      <text link="no">&lt;p&gt;Il 28 agosto 2013, contemporaneamente all'omologazione dei dati sulla popolazione residente permanente alla fine del 2012, il Consiglio federale ha approvato anche la nuova ordinanza sulla ripartizione dei seggi per il rinnovo integrale del Consiglio nazionale 2015. In base alle cifre relative alla popolazione cantonale residente, in occasione della prossima elezione del Consiglio nazionale i Cantoni di Zurigo, di Argovia e del Vallese guadagneranno ciascuno un seggio in più a scapito dei Cantoni di Berna, Soletta e Neuchâtel.&lt;/p&gt;&lt;p&gt;In virtù della Costituzione federale, i 200 seggi del Consiglio nazionale sono attribuiti ogni quadriennio dal Popolo con suffragio diretto secondo il sistema proporzionale e ogni Cantone forma un circondario elettorale (art. 149 Cost.). I seggi sono ripartiti tra i Cantoni proporzionalmente alla loro popolazione; ogni Cantone ha tuttavia diritto ad almeno un seggio. Il metodo di ripartizione dei seggi è minuziosamente disciplinato nell'articolo 17 della legge federale sui diritti politici (LDP).&lt;/p&gt;&lt;p&gt;&lt;b&gt;In futuro la ripartizione dei seggi del Consiglio nazionale tra i Cantoni verrà ricalcolata per ogni legislatura &lt;br /&gt;&lt;/b&gt;Fino all'elezione 2011 compresa la ripartizione dei seggi del Consiglio nazionale tra i Cantoni rimaneva valida per più legislature sulla base dei risultati dell'ultimo censimento pubblicato effettuato ogni dieci anni, negli anni che terminano con uno zero, mediante un questionario sottoposto alla popolazione. &lt;/p&gt;&lt;p&gt;Nel 2010 il censimento federale della popolazione è stato modernizzato. Il nuovo censimento della popolazione si fonda su rilevazioni basate sui registri, che analizzano i dati amministrativi disponibili. Per questo, l'Ufficio federale di statistica (UST) utilizza i registri cantonali e comunali degli abitanti, i registri dello stato civile, nonché i registri federali di persone straniere. Questi dati permettono all'UST di determinare ogni anno il numero di persone che formano la popolazione residente permanente.&lt;/p&gt;&lt;p&gt;Pertanto, in futuro la ripartizione dei seggi tra i Cantoni sarà ricalcolata ogni quattro anni secondo i dati delle rilevazioni basate sui registri effettuate nel primo anno civile successivo alle ultime elezioni per il rinnovo integrale del Consiglio nazionale. Determinante sarà la «popolazione residente permanente» (art. 6&lt;i&gt;a&lt;/i&gt; dell'ordinanza sui diritti politici, ODP).&lt;/p&gt;</text>
+      <contact>Per informazioni sui seggi del Consiglio nazionale: Ursula Eggenberger, CaF, responsabile della sezione Informazione e comunicazione 031 322 37 63, ursula.eggenberger@bk.admin.ch Per informazioni sul nuovo sistema di censimento: Markus Schwyn, UST, capodivisione Popolazione e formazione 032 713 67 02, markus.schwyn@bfs.admin.ch</contact>
+      <attachment id="113491">
+        <title>Popolazione residente permanente per Cantone al 31.12.2012 / Ripartizione dei seggi tra i Cantoni per l'elezione 2015 del Consiglio nazionale</title>
+        <format>pdf</format>
+        <size-kb>30</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/31755.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="23">
+        <name lang="de">Politische Rechte</name>
+        <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="en">Political Rights</name>
+      </topic>
+      <topic id="43">
+        <name lang="de">Statistik</name>
+        <name lang="fr">Statistiques</name>
+        <name lang="it">Statistica</name>
+        <name lang="en">Statistics</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

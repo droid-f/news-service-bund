@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="82642" revoked="no">
+    <version>3</version>
+    <pubdate>2021-03-10</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="505" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Rasche Reaktion auf Vorkommnisse im LMS der Armee</title>
+      <lead>Am gestrigen Dienstag wurde in verschiedenen Medien ein Bericht über ein Datenleck im Learning Management System (LMS) der Armee berichtet, welches über Wochen hinweg nicht behoben worden sein soll. Dies entspricht nicht den Tatsachen. Richtig ist, dass es innerhalb eines Monats zwei voneinander unabhängige Feststellungen über Mängel im LMS gab, die je innert Stunden angegangen wurden. </lead>
+      <text link="no">&lt;p&gt;Am 25.1.2021 meldete die Cyber-Rekrutenschule ihrer vorgesetzten Stelle und der LMS Task Force des Kommandos Ausbildung eine Schwachstelle im System, welche es verschiedenen Nutzern ermöglichte, in Daten anderer Einsicht zu nehmen. &lt;br /&gt;Die Task Force LMS stellte rasch einen Konfigurationsfehler im System fest, der verschiedenen Nutzern falsche Rollen und Berechtigungen zugeteilt hatte. Dieser Konfigurationsfehler wurde innert Stunden behoben. &lt;/p&gt;&lt;h2&gt;Zwei voneinander unabhängige Vorkommnisse &lt;/h2&gt;&lt;p&gt;Am 24.2.2021 meldete zudem ein registrierter Nutzer der Plattform der Datenschutzstelle des Bundes eine zweite mögliche Sicherheitslücke, die von der ersten, am 25.1.2021 nach heutigen Erkenntnissen unabhängig ist. Nach seinen Angaben hatte er im LMS VBS eine Möglichkeit gefunden, Daten wie beispielsweise Mailadressen oder Personalnummern von im LMS registrierten Benutzerinnen und Benutzern einzusehen. Der Betreiber hat zusammen mit der Herstellerfirma umgehend Massnahmen zur Behebung der Schwachstelle getroffen. &lt;/p&gt;&lt;p&gt;Die Lücke, welche durch den Nutzer auf Grund seines Systemzugangs als Rekrut und vorhandenen Kenntnissen auszumachen war, wurde im Bereich einer Schnittstelle zwischen einer alten, noch aktiven Version der Lernplattform und der aktuellen Benutzeroberfläche lokalisiert. Der Betreiber hat zusammen mit der Herstellerfirma umgehend Massnahmen zur Behebung der Schwachstelle getroffen. &lt;/p&gt;&lt;p&gt;Um die Sicherheit des LMS Systems zu verbessern, werden verschiedene Massnahmen ergriffen, unter anderem werden fortlaufend Sicherheitstest durchgeführt.&lt;/p&gt;</text>
+      <contact>Daniel Reist Armeesprecher +41 58 464 48 08</contact>
+      <revisions>
+        <revision date="2021-03-10 14:26" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Réponse rapide aux incidents frappant la plate-forme d’apprentissage de l’armée</title>
+      <lead>Hier, mardi 10 février 2021, divers médias ont fait état d’une fuite de données qui n’aurait pas été réparée pendant plusieurs semaines sur la plate-forme d’apprentissage (Learning Management System LMS) de l’armée. Cela ne correspond pas à la réalité. Ce qui est correct, c’est que deux failles indépendantes l’une de l’autre ont été constatées dans le LMS en l’espace d’un mois, et que chacune a été traitée en quelques heures. </lead>
+      <text link="no">&lt;p&gt;Lundi 25 janvier 2021, l’école de recrues cyber a signalé à son organe de commandement supérieur ainsi qu’à la Task Force LMS du commandement de l’Instruction une vulnérabilité du système permettant à certains utilisateurs d’accéder aux données d’autres personnes. La Task Force LMS a rapidement identifié une erreur de configuration du système, qui avait attribué des rôles et des autorisations incorrectes à divers usagers, et l’a corrigée en quelques heures. &lt;/p&gt;&lt;h2&gt;Deux incidents indépendants l’un de l’autre &lt;/h2&gt;&lt;p&gt;Mercredi 24 février 2021, un utilisateur enregistré sur la plate-forme LMS du DDPS a signalé une autre faille de sécurité potentielle à l’unité de protection des données de la Confédération, expliquant qu’il avait trouvé le moyen de consulter des données telles que les adresses mail ou les numéros personnels des autres personnes enregistrées sur le système. En l’état des connaissances, cette faille est indépendante de celle qui a été constatée le 25 janvier 2021.&lt;/p&gt;&lt;p&gt;La faille, identifiée par cette recrue sur la base de son accès au système en tant qu’utilisateur, frappait une interface entre une ancienne version encore active de la plate-forme d’apprentissage et la version actuellement en service. Avec l’aide du concepteur de la plate-forme, des mesures ont immédiatement été prises pour remédier à la vulnérabilité. &lt;/p&gt;&lt;p&gt;Diverses mesures visant à améliorer la sécurité du système LMS sont actuellement en cours ; il s’agit notamment de tests de sécurité en continu.&lt;/p&gt;</text>
+      <contact>Daniel Reist Porte-parole de l’armée +41 58 464 48 08</contact>
+      <revisions>
+        <revision date="2021-03-10 14:26" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Reazione rapida agli avvenimenti concernenti l’LMS nell'esercito</title>
+      <lead>Ieri, martedì, diversi media hanno riferito di una fuga di dati dal Learning Management System (LMS) dell'esercito a cui non sarebbe stato posto rimedio per diverse settimane. Tale affermazione non corrisponde ai fatti. Corrisponde invece al vero che nell'arco di un mese sono emerse due constatazioni indipendenti tra loro relative a lacune in LMS, che sono state affrontate ogni volta nel giro di ore. </lead>
+      <text link="no">&lt;p&gt;Il 25 gennaio 2021 la scuola reclute ciber ha notificato al suo organo superiore e alla task force LMS del Comando Istruzione un punto debole del sistema che consentiva a diversi utenti di visualizzare dati di altre persone. &lt;br /&gt;La task force LMS ha rapidamente individuato un errore di configurazione nel sistema, che aveva portato all'attribuzione di ruoli e autorizzazioni sbagliate a diversi utenti. Questo errore di configurazione è stato corretto nel giro di poche ore. &lt;/p&gt;&lt;h2&gt;Due avvenimenti indipendenti tra loro &lt;/h2&gt;&lt;p&gt;Inoltre, il 24 febbraio 2021 un utente registrato della piattaforma ha notificato all’organo della Confederazione incaricato della protezione dei dati una seconda possibile falla di sicurezza. Secondo le conoscenze attuali, questa seconda lacuna è indipendente dalla prima, notificata il 25 gennaio 2021. L'utente ha comunicato di aver trovato in LMS DDPS la possibilità di consultare dati quali per esempio indirizzi e-mail o numeri personali di utenti registrati in LMS. Il gestore, in collaborazione con la ditta produttrice, ha adottato immediatamente le misure volte a eliminare il punto debole. &lt;/p&gt;&lt;p&gt;La falla di sicurezza, che l’utente poteva individuare grazie alla sua possibilità di accedere al sistema come recluta e sulla base delle conoscenze di cui disponeva, è stata localizzata nell’ambito di un collegamento tra una vecchia versione della piattaforma d’apprendimento ancora attiva e l’interfaccia utenti attuale. Il gestore, in collaborazione con la ditta produttrice, ha adottato immediatamente le misure volte a eliminare il punto debole. &lt;/p&gt;&lt;p&gt;Per migliorare la sicurezza del sistema LMS vengono adottate diverse misure, tra cui lo svolgimento costante di test di sicurezza.&lt;/p&gt;</text>
+      <contact>Daniel Reist Portavoce dell’esercito +41 58 464 48 08</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5180" org-id="505">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5360" org-id="505">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologies / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

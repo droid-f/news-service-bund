@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="6463" revoked="no">
+    <version>2</version>
+    <pubdate>2006-08-02</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="315" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Schweizerisches Bundesarchiv</name>
+      <name lang="fr">Archives fédérales suisses</name>
+      <name lang="it">Archivio federale svizzero</name>
+      <name lang="en">Swiss Federal Archives</name>
+      <www lang="de">http://www.bar.admin.ch</www>
+      <www lang="fr">http://www.bar.admin.ch</www>
+      <www lang="it">http://www.bar.admin.ch</www>
+      <www lang="en">http://www.bar.admin.ch</www>
+      <email lang="de">bundesarchiv@bar.admin.ch</email>
+      <email lang="fr">bundesarchiv@bar.admin.ch</email>
+      <email lang="it">bundesarchiv@bar.admin.ch</email>
+      <email lang="en">bundesarchiv@bar.admin.ch</email>
+    </originator>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Das Schweizerische Bundesarchiv erweitert seine Dienstleistungen</title>
+      <lead>Mit der Wiedereröffnung der Lesesäle nach der Sommerpause erweitert das Schweizerische Bundesarchiv seine Dienstleistungen im Lesesaal</lead>
+      <text link="no">&lt;p&gt;Ab sofort können Dossiers über das Internet (&lt;u&gt;www.bar.admin.ch&lt;/u&gt;) für die Einsichtnahme im Lesesaal vorbestellt werden. Die Bearbeitungsfrist beträgt 48 Stunden.&lt;/p&gt; &lt;p&gt;Weiter werden die Beratungszeiten verlängert: Neu können sich Kundinnen und Kunden von 9.30 bis 12.00 Uhr von einer Fachperson bei ihrer Recherche beraten lassen. Die Lesesäle des Bundesarchivs sind für das Publikum weiterhin jeweils dienstags, mittwochs und donnerstags von 9.00 bis 19.00 Uhr geöffnet.&lt;/p&gt; &lt;p&gt;Mit diesen kostenneutralen Massnahmen reagiert das Schweizerische Bundesarchiv auf die Bedürfnisse seiner Kundinnen und Kunden und die unvermindert hohe Nachfrage nach archivischen Dienstleistungen.&lt;/p&gt;</text>
+      <contact>Simone Chiquet, Leiterin Ressort Vermittlung, 031 322 80 90, simone.chiquet@bar.admin.ch</contact>
+      <link id="13034">
+        <title>Schweizerisches Bundesarchiv</title>
+        <uri>http://www.bar.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2006-09-21 16:29" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Les Archives fédérales suisses renforcent leur offre de prestations</title>
+      <lead>Les Archives fédérales renforcent leur offre de prestations en salle de lecture à l’occasion de la réouverture des salles de lecture après les vacances d’été</lead>
+      <text link="no">&lt;p&gt;Dès maintenant, les personnes intéressées ont la possibilité de commander à l’avance, par Internet (&lt;u&gt;www.bar.admin.ch&lt;/u&gt;),&amp;nbsp;les dossiers qu’elles souhaitent consulter en salle de lecture. Le délai de traitement de la précommande est de 48 heures.&lt;/p&gt; &lt;p&gt;Les utilisateurs souhaitant se faire assister dans leurs recherches peuvent désormais bénéficier des conseils d’un spécialiste de 9 h 30 à 12 h (horaires élargis). Les salles de lecture des Archives fédérales restent ouvertes au public les mardis, mercredis et jeudis, de 9 h à 19 h.&lt;/p&gt; &lt;p&gt;Grâce à ces mesures financièrement neutres, les Archives fédérales entendent répondre aux besoins de leurs clients et à la demande toujours aussi élevée de prestations archivistiques.&lt;/p&gt;</text>
+      <contact>Simone Chiquet, responsable Unité Communication, 031 322 80 90, simone.chiquet@bar.admin.ch</contact>
+      <link id="13033">
+        <title>Archives fédérales suisses</title>
+        <uri>http://www.bar.admin.ch</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="1">
+        <name lang="de">Amtliche Veröffentlichungen</name>
+        <name lang="fr">Publications officielles</name>
+        <name lang="it">Pubblicazioni ufficiali</name>
+        <name lang="en">Official Publications</name>
+      </topic>
+      <topic id="7">
+        <name lang="de">Bibliotheken und Archive</name>
+        <name lang="fr">Bibliothèques et archives</name>
+        <name lang="it">Biblioteche e archivi</name>
+        <name lang="en">Libraries and Archives</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

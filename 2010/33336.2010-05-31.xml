@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="33336" revoked="no">
+    <version>2</version>
+    <pubdate>2010-05-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="703" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Medieneinladung: Konjunkturprognosen und Arbeitslosenzahlen</title>
+      <lead>Am Dienstag, 8. Juni 2010, von 09h00-10h00, führt das Staatssekretariat für Wirtschaft SECO im Medienzentrum Bundeshaus in Bern eine Medienkonferenz zu den neusten Konjunkturprognosen und Arbeitslosenzahlen durch, welche am gleichen Tag um 07h45 publiziert werden.</lead>
+      <text link="no">&lt;p&gt;Jean-Daniel Gerber, Staatssekretär für Wirtschaft, erläutert an der Medienkonferenz die jüngsten Zahlen und Aussichten für Wirtschaft und Arbeitsmarkt und steht anschliessend für Fragen zur nationalen und internationalen Wirtschaftspolitik zur Verfügung.&lt;/p&gt;</text>
+      <contact>Staatssekretariat für Wirtschaft SECO Holzikofenweg 36 CH-3003 Bern Tel. +41 58 462 56 56 Fax +41 58 462 56 00</contact>
+      <revisions>
+        <revision date="2016-08-24 16:07" type="R"/>
+      </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Invitation aux médias: Prévisions conjoncturelles et chiffres du chômage</title>
+      <lead>Mardi 8 juin 2010, de 09 h 00 à 10 h 00, le Secrétariat d’Etat à l’économie SECO tiendra une conférence de presse au Centre de presse du Palais fédéral, à Berne, sur les nouvelles prévisions conjoncturelles et les nouveaux chiffres du chômage, qui seront publiés le même jour à 07 h 45.</lead>
+      <text link="no">Jean-Daniel Gerber, secrétaire d'Etat à l'économie, expliquera les chiffres et prévisions concernant l'économie et le marché du travail et se tiendra ensuite à disposition pour répondre aux questions de politique économique sur le plan national et international.</text>
+      <contact>Secrétariat d'Etat à l'économie SECO Holzikofenweg 36 CH-3003 Berne tél. +41 58 462 56 56 fax +41 58 462 56 00</contact>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="155" org-id="703">
+        <name lang="de">Die Lage auf dem Arbeitsmarkt</name>
+        <name lang="fr">La situation sur le marché du travail</name>
+        <name lang="it">La situazione sul mercato del lavoro</name>
+        <name lang="en">The situation of the labour market</name>
+      </offer>
+      <offer id="156" org-id="703">
+        <name lang="de">BIP-Quartalsdaten und Konjunkturtendenzen</name>
+        <name lang="fr">Données trimestrielles PIB et tendances conjoncturelles</name>
+        <name lang="it">Tendenze congiunturali</name>
+        <name lang="en">Quarterly data on GDP and economic trends</name>
+      </offer>
+    </offers>
+    <topics>
+      <topic id="2">
+        <name lang="de">Arbeit</name>
+        <name lang="fr">Travail</name>
+        <name lang="it">Lavoro</name>
+        <name lang="en">Labour</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

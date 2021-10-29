@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="38598" revoked="no">
+    <version>1</version>
+    <pubdate>2011-04-14</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="506" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Luftbilder und Landeskarten auf der eigenen Website</title>
+      <lead>Ein Web-Dienst des Bundesamts für Landestopografie swisstopo ermöglicht es, die Landeskarten und Luftbilder der Schweiz einfach in die eigene Website zu integrieren. Der erste Schritt ist mit dem Dienst «swisstopo web access – WMTS» getan. Mit diesem neuen Dienst erleichtert das Bundesamt den Zugang zu Geodaten für den Bürger noch weiter.</lead>
+      <text link="no">&lt;p&gt;Der Dienst «swisstopo web access - WMTS» (WMTS für Web Mapping Tile Service) bietet Zugang zu den Geodaten von swisstopo. Die Daten sind vollständig und aktuell.&lt;/p&gt; &lt;p&gt;Durch die gleichzeitige Nutzung des API GeoAdmin, die jedoch nicht vorausgesetzt wird, kann man auf der eigenen Webplattform Geoinformation zu kommerziellen oder nicht-kommerziellen Zwecken bereitstellen.&lt;/p&gt; &lt;p&gt;Mit dem Web-Dienst ist es ebenfalls möglich, den Inhalt der Bundes Geodaten-Infrastruktur (BGDI) darzustellen. So können zum Beispiel Daten zu Gemeindegrenzen, kantonalen Vogelreservaten oder landwirtschaftlichen Kulturflächen auf der Karte angezeigt werden.&lt;/p&gt;</text>
+      <contact>Bundesamt für Landestopografie swisstopo Sandrine Klötzli, Kommunikationsverantwortliche Seftigenstrasse 264, 3084 Wabern E-Mail: sandrine.kloetzli@swisstopo.ch Tel.: +41 31 963 22 88</contact>
+      <link id="82002">
+        <title>Informationen zum Dienst und dem restlichen Angebot</title>
+        <uri>http://www.swisstopo.ch/webaccess</uri>
+        <position>Context</position>
+      </link>
+      <link id="82003">
+        <title>Informationen zu BGDI Daten</title>
+        <uri>http://www.geo.admin.ch/internet/geoportal/de/home/geoadmin/mission/bgdi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Images aériennes et cartes nationales sur son propre site Internet</title>
+      <lead>L’Office fédéral de topographie swisstopo propose un service web permettant d’intégrer facilement la Carte nationale et les images aériennes de la Suisse sur son propre site Internet. C’est avec le produit « swisstopo web access - WMTS » que le premier pas est effectué. Avec ce nouveau service, l’Office souhaite donner un accès encore plus facilité du citoyen aux géodonnées.</lead>
+      <text link="no">&lt;p&gt;« swisstopo web access - WMTS» (WMTS pour Web Mapping Tile Service) donne accès aux géodonnées de swisstopo. Ces données sont complètes et actuelles.&lt;/p&gt; &lt;p&gt;L'utilisation conjointe, mais non requise, de l'API GeoAdmin permet de mettre à disposition sur sa plateforme web une information géographique à des buts commerciaux ou non-commerciaux.&lt;/p&gt; &lt;p&gt;Ce service web permet de visualiser également le contenu de l'infrastructure fédérale des données géographiques (IFDG). Par exemple, des données comme les limites de communes, les réserves d'oiseaux cantonales ou les surfaces agricoles cultivées peuvent être visibles sur la carte.&lt;/p&gt;</text>
+      <contact>Office fédéral de topographie swisstopo Sandrine Klötzli, Responsable de la communication Seftigenstrasse 264, 3084 Wabern Courriel: sandrine.kloetzli@swisstopo.ch Tel.: +41 31 963 22 88</contact>
+      <link id="82004">
+        <title>Informations sur le produit et le reste de l’offre</title>
+        <uri>http://www.swisstopo.admin.ch/internet/swisstopo/fr/home/products/services/web_services/webaccess.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="82005">
+        <title>Informations sur les données de l’IFDG</title>
+        <uri>http://www.geo.admin.ch/internet/geoportal/fr/home/geoadmin/mission/bgdi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Le immagini aeree e le carte nazionali sul proprio sito Internet</title>
+      <lead>L’Ufficio federale di topografia swisstopo propone un servizio web che consente di integrare con facilità la Carta nazionale e le immagini aeree della Svizzera sul proprio sito Internet. Il prodotto «swisstopo web access - WMTS» rappresenta il primo traguardo. Grazie al nuovo servizio, l’Ufficio intende facilitare ancora di più l’accesso ai geodati da parte dei cittadini.</lead>
+      <text link="no">&lt;p&gt;«swisstopo web access - WMTS» (WMTS acronimo per Web Mapping Tile Service) permette di accedere ai dati geografici di swisstopo. I dati forniti sono completi e aggiornati.&lt;/p&gt; &lt;p&gt;L'utilizzo congiunto, seppur non necessario, di API GeoAdmin consente di mettere a disposizione sulla propria piattaforma web geoinformazioni per scopi commerciali o non commerciali.&lt;/p&gt; &lt;p&gt;Questo servizio web permette inoltre di visualizzare il contenuto della Infrastruttura federale dei dati geografici (IFDG). Sulla carta possono essere visibili alcuni dati quali, per esempio, i confini comunali, le riserve d'uccelli cantonali o le superfici agricole coltivate.&lt;/p&gt;</text>
+      <contact>Ufficio federale di topografia swisstopo Sandrine Klötzli, Responsabile della comunicazione Seftigenstrasse 264, 3084 Wabern E-mail : sandrine.kloetzli@swisstopo.ch Tel.: +41 31 963 22 88</contact>
+      <link id="82006">
+        <title>Informazioni sul prodotto e sul resto dell’offerta all’indirizzo</title>
+        <uri>http://www.swisstopo.admin.ch/internet/swisstopo/it/home/products/services/web_services/webaccess.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="82007">
+        <title>Informazioni sulle dati dell’ IFDG all’indirizzo</title>
+        <uri>http://www.geo.admin.ch/internet/geoportal/it/home/geoadmin/mission/bgdi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5410" org-id="506">
+        <name lang="de">Kartografie</name>
+        <name lang="fr">Cartographie</name>
+        <name lang="it">Cartografia</name>
+        <name lang="en">Cartography</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

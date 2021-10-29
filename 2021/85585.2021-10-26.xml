@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="85585" revoked="no">
+    <version>1</version>
+    <pubdate>2021-10-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Die Welt mit anderen Augen sehen</title>
+      <lead>Kurzwelliges Infrarotlicht (SWIR) ist für vieles nützlich: Es hilft, beschädigte Früchte auszusortieren, bei der Temperaturüberwachung und der Kontrolle von Siliziumchips, und es ermöglicht Nachtsichtgeräte mit scharfen Bildern. Doch SWIR-Kameras basieren bislang auf teurer Elektronik. Forscher der Empa, der EPFL, der ETH Zürich und der Universität Siena haben nun einen SWIR-Bildschirm entwickelt, der aus nur acht Schichten auf einer Glasoberfläche besteht. Das könnte Infrarot-Kameras zu nützlichen Alltagsgegenständen machen.</lead>
+      <text link="no">&lt;p&gt;Infrarotlicht (IR) ist für Menschen unsichtbar. Manche Tiere, etwa Klapperschlangen oder blutsaugende Fledermäuse, können IR-Strahlung jedoch wahrnehmen und zur Nahrungssuche nutzen. Doch auch für Menschen wäre eine Sehfähigkeit im kurzwelligen IR-Bereich («short wave infrared», SWIR) bisweilen nützlich. Allein mit Hilfe von Sternenlicht könnte man dann auch in der Nacht recht scharf sehen. Für Mechaniker wäre die Hitze einer Lötspitze auf den ersten Blick erkennbar. Und Obsthändler könnten beschädigte Ware erkennen, noch bevor der Fäulnisprozess beginnt.&lt;/p&gt; &lt;p&gt;Doch IR-Licht hat ein «Problem»: Es ist schwächer als sichtbares Licht und als UV-Licht auf der anderen Seite des Lichtspektrums. Während also UV-Licht in einer Diskothek weisse Hemden und Zähne der Tänzer blau leuchten lässt – dazu braucht es nur einen fluoreszierenden Farbstoff im Waschmittel –, ist IR-Licht fürs menschliche Auge nur schwer sichtbar zu machen. Denn Farbstoffe können zwar energiereiches Licht direkt in energieärmeres umwandeln, nicht aber energiearmes in energiereiches.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Eine ganze IR-Kamera auf einem Chip&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;IR-Kameras brauchen also Elektronik, um IR-Licht einzufangen, einen elektronischen Verstärker und schliesslich einen Bildschirm, der das künstlich erzeugte Bild anzeigt. Das kostet Geld. Heute übliche SWIR-Kameras für den Industrieeinsatz kosten um die 7000 Franken.&lt;/p&gt; &lt;p&gt;Den Empa-Forschern Roland Hany, Karen Strassel, Wei-Hsu und Michael Bauer ist es nun gelungen, SWIR-Licht mit einem einzigen Bauteil einzufangen und sichtbar zu machen. Der an der Empa entwickelte Baustein ist im Grunde ein OLED-Display mit drei weiteren Zusatzschichten (siehe Grafik). Das SWIR-Licht fällt durch eine elektrisch leitfähige Glasscheibe auf eine Farbstoffschicht in einem Photodetektor. Dort beginnen Elektronen zu wandern – diese Wanderungsbewegung wird durch eine elektrische Spannung verstärkt. Die elektrischen Ladungen wandern dann in die OLED-Schicht und erzeugen dort einen grünen Lichtpunkt. Eine elektronische Signalverarbeitung durch einen Rechner ist nicht nötig: Das einfallende (unsichtbare) SWIR-Licht wird gewissermassen «analog» verstärkt und direkt auf dem Bildschirm angezeigt. Die Farbe des emittierten sichtbaren Lichts – blau, grün, gelb oder rot – lässt sich durch die Wahl des Farbstoffs in der OLED einstellen.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Nützlich für Nachtsichtgeräte und zur Bohnensortierung&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;SWIR-Licht ist für viele Anwendungen in der Lebensmittelindustrie, der Logistik oder im Handwerk nützlich. So kann man etwa die Temperatur von Lötspitzen sichtbar machen oder die Abkühlung von neu hergestellten Gläsern und Flaschen überwachen. SWIR-Licht lässt feuchte Gegenstände dunkler erscheinen, was nützlich ist zum Sortieren von Kaffeebohnen oder schwarzen Oliven: Steine und Metallgegenstände als Verunreinigungen leuchten auf dem Förderband hell zwischen all den dunklen (feuchten) Früchten.&lt;/p&gt; &lt;p&gt;Der Schlüssel zum Erfolg für Roland Hanys SWIR-Bildschirm sind spezielle Farbstoffe, die er und seine Kolleginnen und Kollegen schon lange erforschen. Es sind sogenannte Squaraine – der Name stammt von der Grundstruktur des chemischen Moleküls, der Quadratsäure. Diese Farbstoffklasse wurde erstmals in den 1960er-Jahren entdeckt und zeichnet sich durch tiefe Farbe und gute Temperaturbeständigkeit aus. Die Forscher veränderten die Quadratsäure chemisch so, dass sie im Bereich des SWIR-Lichts absorbiert. «Im Moment arbeiten wir mit Farbstoffen, die bei knapp 1000 Nanometer absorbieren», sagt Hany. «Aber wir sind bereits dran, die Absorption zu grösseren Wellenlängen, also weiter hinein in den IR-Bereich zu verschieben. Wenn uns dies gelingt, kann unser Sensor Wasser und Feuchtigkeit noch deutlich besser erkennen als jetzt.»&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Auf der Suche nach einem Industriepartner&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;Hany nennt das von seiner Gruppe entdeckte Modul am liebsten OUC: «organic upconversion device». Denn es verwandelt schwaches IR-Licht in stärkeres, sichtbares Licht («upconversion») und funktioniert mit Hilfe dünner Farbstoffschichten aus kohlenstoffbasierter Chemie («organic»). Ein Problem ist, dass das Knowhow zur industriellen Herstellung organischer, optoelektronischer Bauteile vor allem in Asien angesiedelt ist. Hany ist jedoch zuversichtlich, dass seine Entdeckung bald zum Zuge kommt: «Im Moment arbeiten wir daran, die Empfindlichkeit des Moduls zu erhöhen, und verbessern die Langzeitstabilität.»&lt;/p&gt;</text>
+      <contact>Dr. Roland Hany Functional Polymers Tel. +41 58 765 4084 roland.hany@empa.ch Redaktion / Medienkontakt Rainer Klose Kommunikation Tel. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="222365">
+        <title>Der IR-Photodetektor gleicht einem Sandwich aus mehreren Schichten. Infrarot-Licht (IR) wird im organischen Photodetektor (OPD) absorbiert, dabei entstehen elektrische Ladungen.</title>
+        <format>jpg</format>
+        <size-kb>246</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68654.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="222368">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/infrarot</uri>
+        <position>Context</position>
+      </link>
+      <link id="222369">
+        <title>Youtube-Video: SWIR Image Sensor Technology</title>
+        <uri>https://www.youtube.com/watch?v=mS4EBbALAFM</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Voir le monde avec des yeux différents</title>
+      <lead>La lumière infrarouge à ondes courtes (SWIR) est utile à de nombreux égards: elle permet de trier les fruits abîmés et d’inspecter les puces en silicium, et elle permet aux dispositifs de vision nocturne de fournir des images nettes. Mais jusqu’à présent, les caméras SWIR reposaient sur des composants électroniques coûteux. Des chercheurs de l’Empa, de l’EPFL, de l’ETH Zurich et de l’Université de Sienne ont développé un écran SWIR composé de huit couches seulement sur une surface en verre. </lead>
+      <text link="no">&lt;p&gt;La lumière infrarouge (IR) est invisible pour les humains. Cependant, certains animaux, comme les serpents à sonnette ou les chauves-souris suceuses de sang, peuvent percevoir le rayonnement IR et l'utiliser pour trouver de la nourriture. Mais même pour les humains, la capacité de voir dans la gamme des infrarouges à ondes courtes (SWIR) serait parfois utile. Avec l'aide de la seule lumière des étoiles, on pouvait alors voir assez distinctement la nuit. Pour les mécaniciens, la chaleur d'une panne de fer à souder serait visible au premier coup d'œil. Et les marchands de fruits pourraient reconnaître la marchandise endommagée avant même que le processus de décomposition ne commence.&lt;/p&gt; &lt;p&gt;Mais la lumière IR a un "problème" : elle est plus faible que la lumière visible et que la lumière UV, de l'autre côté du spectre lumineux. Ainsi, alors que la lumière UV fait briller en bleu les chemises blanches et les dents des danseurs dans une discothèque - il suffit d'un colorant fluorescent dans un détergent - la lumière IR est difficile à rendre visible pour l'œil humain. En effet, les colorants peuvent convertir directement la lumière à haute énergie en lumière à basse énergie, mais pas la lumière à basse énergie en lumière à haute énergie.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Une caméra IR complète sur une puce&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;Les caméras IR ont donc besoin d'électronique pour capturer la lumière IR, d'un amplificateur électronique et enfin d'un écran pour afficher l'image générée artificiellement. Cela coûte de l'argent. Aujourd'hui, les caméras SWIR standard à usage industriel coûtent environ 7000 francs suisses.&lt;/p&gt; &lt;p&gt;Les chercheurs de l'Empa Roland Hany, Karen Strassel, Wei-Hsu et Michael Bauer ont maintenant réussi à capter la lumière SWIR avec un seul composant et à la rendre visible. Le composant développé par l'Empa est en fait un écran OLED avec trois couches supplémentaires (voir graphique). La lumière SWIR tombe à travers une vitre électriquement conductrice sur une couche de colorant dans un photodétecteur. Là, les électrons commencent à migrer - ce mouvement migratoire est amplifié par une tension électrique. Les charges électriques migrent ensuite dans la couche OLED et y produisent un point lumineux vert. Le traitement électronique du signal par un ordinateur n'est pas nécessaire : la lumière SWIR incidente (invisible) est amplifiée "analogiquement" pour ainsi dire et affichée directement sur l'écran. La couleur de la lumière visible émise - bleu, vert, jaune ou rouge - peut être ajustée en sélectionnant le colorant dans l'OLED.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Utile pour la vision nocturne et pour le tri des haricots&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;La lumière SWIR est utile pour de nombreuses applications dans l'industrie alimentaire, la logistique ou l'artisanat. Par exemple, on peut rendre visible la température des pointes de soudure ou surveiller le refroidissement des bocaux et bouteilles nouvellement fabriqués. La lumière SWIR fait paraître les objets humides plus sombres, ce qui est utile pour trier les grains de café ou les olives noires : les pierres et les objets métalliques, en tant qu'impuretés, brillent sur le tapis roulant parmi tous les fruits sombres (humides).&lt;/p&gt; &lt;p&gt;La clé de l'écran SWIR de Roland Hany réside dans des colorants spéciaux sur lesquels lui et ses collègues ont mené des recherches depuis longtemps. Ils sont appelés squaraine - le nom vient de la structure de base de la molécule chimique, l'acide squarique. Cette classe de colorants a été découverte dans les années 1960 et se caractérise par une couleur profonde et une bonne résistance à la température. Les chercheurs ont modifié chimiquement l'acide squarique pour qu'il absorbe dans la gamme de la lumière SWIR. "Actuellement, nous travaillons avec des colorants qui absorbent à un peu moins de 1000 nanomètres", explique Roland Hany. "Mais nous travaillons déjà à déplacer l'absorption vers des longueurs d'onde plus grandes, plus loin dans la gamme IR. Si nous y parvenons, notre capteur sera capable de détecter l'eau et l'humidité bien mieux qu'aujourd'hui."&lt;/p&gt; &lt;h3&gt;&lt;b&gt;À la recherche d'un partenaire industriel&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;Roland Hany préfère appeler le module découvert par son groupe OUC : "organic upconversion device". En effet, elle convertit une faible lumière infrarouge en une lumière visible plus forte ("conversion ascendante") et fonctionne à l'aide de fines couches de colorant issues de la chimie du carbone ("organique"). L'un des problèmes est que le savoir-faire en matière de production industrielle de composants organiques et optoélectroniques se trouve principalement en Asie. Cependant, Roland Hany est confiant dans le fait que sa découverte se concrétisera bientôt : "Pour le moment, nous travaillons à augmenter la sensibilité du module et à améliorer sa stabilité à long terme."&lt;/p&gt;</text>
+      <contact>Dr. Roland Hany Functional Polymers Tél. +41 58 765 4084 roland.hany@empa.ch Rédaction / Contact médias Rainer Klose Communication Tél. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="222366">
+        <title>Le photodétecteur IR est comme un sandwich de plusieurs couches. La lumière infrarouge (IR) est absorbée par le photodétecteur organique (OPD), créant des charges électriques.</title>
+        <format>jpg</format>
+        <size-kb>276</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68655.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="222368">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/infrarot</uri>
+        <position>Context</position>
+      </link>
+      <link id="222369">
+        <title>Youtube-Video: SWIR Image Sensor Technology</title>
+        <uri>https://www.youtube.com/watch?v=mS4EBbALAFM</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Seeing the world through different eyes</title>
+      <lead>Short-wave infrared light (SWIR) is useful for many things: It helps sort out damaged fruit and inspecting silicon chips, and it enables night vision devices with sharp images. But SWIR cameras have so far been based on expensive electronics. Researchers at Empa, EPFL, ETH Zurich and the University of Siena have now developed a SWIR screen consisting of just eight thin layers on a glass surface. This could make IR cameras useful everyday objects.</lead>
+      <text link="no">Infrared (IR) light is invisible to humans. However, some animals, such as rattlesnakes or bloodsucking bats, can perceive IR radiation and use it to find food. But even for humans, the ability to see in the short-wave IR (SWIR) range would sometimes be useful. With the help of starlight alone, one could see quite sharply at night. Mechanics would be able to see the heat of a soldering tip at a glance. And fruit merchants could detect damaged produce even before the rotting process begins. But IR light has a "problem": It is weaker than visible light and than UV light on the other side of the light spectrum. So while UV light makes white shirts and dancers' teeth glow blueish in a club – all it takes is a fluorescent dye in the laundry detergent – IR light is difficult to make visible for the human eye. This is because dyes can convert high-energy light directly into low-energy light, but not the other way around. ----An entire IR camera on a chip---- So IR cameras require sophisticated electronics to capture IR light, an electronic amplifier, and finally a screen to display the artificially generated image. This is expensive. Today's standard SWIR cameras for industrial use cost around 7,000 Swiss francs. Empa researchers Roland Hany, Karen Strassel, Wei-Hsu and Michael Bauer have now succeeded in capturing SWIR light – and making it visible – with a single component. The device developed at Empa is basically an OLED display with three additional layers (see graphic). IR light falls through an electrically conductive glass pane onto a dye layer in a photodetector. Therein, electrons begin to migrate, their motion being amplified by an electrical voltage. The electrical charges then migrate into the OLED layer, where they produce a green light spot. Electronic signal processing by a computer is not necessary: The incoming (invisible) SWIR light is amplified in an "analog" way, so to speak, and displayed directly on the screen. The color of the emitted visible light – blue, green, yellow or red – can be adjusted by selecting the dye in the OLED. ----Useful for night vision – and for sorting beans---- SWIR light is useful for many applications in the food industry, logistics or crafts. For example, one can visualize the temperature of soldering tips or monitor the cooling of newly manufactured jars and bottles. SWIR light makes moist objects appear darker, which is useful for sorting coffee beans or black olives: Stones and metal objects as impurities shine brightly among all the dark (moist) fruit on a conveyor belt. The key to Roland Hany's SWIR screen is special dyes that he and his colleagues have been investigating for quite a while, so-called squaraines. The name comes from the basic structure of the chemical molecule, squaric acid. This class of dyes was first discovered in the 1960s and is characterized by deep colors and a high temperature stability. The researchers chemically modified the squaric acid so that it absorbs in the range of SWIR light. "Right now, we're working with dyes that absorb at just under 1000 nanometers," Hany says. "But we're already working on shifting the absorption to longer wavelengths, further into the IR range. If we succeed, our sensor will be able to detect water and moisture much better than it does now." ----In search of an industrial partner---- Hany likes to call the module he developed with his group OUC, or organic upconversion device. That's because it converts weak IR light into stronger, visible light ("upconversion") and works by using thin layers of dye made from carbon-based chemistry ("organic"). One problem is that the know-how to manufacture organic optoelectronic devices on an industrial scale is mainly located in Asia. Hany is confident, however, that his discovery will soon come to fruition: "Right now, we're working on increasing the sensitivity of the module and improving its long-term stability." </text>
+      <contact>Dr. Roland Hany Functional Polymers Phone +41 58 765 4084 roland.hany@empa.ch Editor / Media contact Rainer Klose Communication Phone +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="222367">
+        <title>The Infrared (IR) photodetector resembles a sandwich of several layers. IR light is absorbed in the organic photodetector (OPD), creating electrical charges.</title>
+        <format>jpg</format>
+        <size-kb>266</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68656.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="222368">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/infrarot</uri>
+        <position>Context</position>
+      </link>
+      <link id="222369">
+        <title>Youtube-Video: SWIR Image Sensor Technology</title>
+        <uri>https://www.youtube.com/watch?v=mS4EBbALAFM</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

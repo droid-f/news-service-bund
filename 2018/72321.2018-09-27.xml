@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="72321" revoked="no">
+    <version>1</version>
+    <pubdate>2018-09-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="502" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1084" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">swisstopo – Bundesamt für Landestopografie</name>
+      <name lang="fr">swisstopo – Office fédéral de topographie</name>
+      <name lang="it">swisstopo – Ufficio federale di topografia</name>
+      <name lang="en">swisstopo – Federal Office of Topography</name>
+      <www lang="de">http://www.swisstopo.admin.ch</www>
+      <www lang="fr">http://www.swisstopo.admin.ch</www>
+      <www lang="it">http://www.swisstopo.admin.ch</www>
+      <www lang="en">http://www.swisstopo.admin.ch</www>
+      <email lang="de">info@swisstopo.ch</email>
+      <email lang="fr">info@swisstopo.ch</email>
+      <email lang="it">info@swisstopo.ch</email>
+      <email lang="en">info@swisstopo.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Alle Gebäude der Schweiz gibt es nun digital und in 3D</title>
+      <lead>Die Schweiz und das Fürstentum Liechtenstein gehören weltweit zu den ersten Ländern, die über ein flächendeckendes dreidimensionales Gebäudemodell verfügen. Der nun landesweit vorliegende Datensatz ist die Grundlage für Anwendungen, überall wo genaue 3D-Gebäudedaten gefragt sind. Der Abschluss des flächendeckenden Aufbaus dieses Datensatzes ist ein Meilenstein bei der Erfassung von dreidimensionalen Geodaten beim Bundesamt für Landestopografie swisstopo.</lead>
+      <text link="no">&lt;p&gt;Der neue Vektordatensatz wurde in den letzten fünf Jahren aufgebaut und stellt sämtliche Gebäude als 3D-Modelle mit realitätsnahen Dachformen und Dachüberständen dar. Er umfasst über drei Millionen Gebäude. Nebst der landesweiten Abdeckung bietet er eine Lage- und Höhengenauigkeit von 30 bis 50 Zentimeter. Die 3D-Gebäude von swisstopo sind damit eine wichtige Grundlage für zahlreiche Projekte.&lt;/p&gt;&lt;h2&gt;Verschiedenste Anwendungen&lt;br /&gt;&lt;/h2&gt;&lt;p&gt;Schon heute setzen Behörden und private Firmen diesen vektorbasierten Datensatz für ihre Bedürfnisse ein. Sie nutzen die Gebäudemodelle für Visualisierungen, Animationen und Analysen. Dies vor allem für Bereiche, wo räumliche Darstellungen nicht nur Hilfsmittel, sondern tägliches Arbeitsinstrument sind. Dazu gehören Branchen wie Raum- und Stadtplanung, Architektur, Immobilien oder Lärmschutz.&lt;br /&gt;Bis jetzt prominentestes Anwendungsbeispiel im Umweltbereich ist der nationale Solarkataster des Bundesamts für Energie BFE (www.sonnendach.ch). Er informiert über die Eignung von Hausdächern für die Solarenergienutzung. Auf einfache Weise wird vermittelt, wieviel Solarstrom oder Solarwärme mit dem eigenen Hausdach produziert werden könnte. &lt;/p&gt;&lt;h2&gt;3D-Objekte auch im öffentlichen Kartenviewer des Bundes&lt;/h2&gt;&lt;p&gt;&lt;br /&gt;Mit der Integration des gesamten Gebäudebestandes konnte auch der Kartenviewer des Bundes von der 3D-Beta-Version in die Vollversion überführt werden. Unter map.geo.admin.ch können nun neben sämtlichen Gebäudekörpern auch die Brücken, Luftseilbahnen und die Vegetation in der dritten Dimension betrachtet werden. Zwei neue Funktionen ermöglichen ein interaktives Bewegen im Raum: Mit dem Flugmodus ist es möglich die digitale Schweiz fliegend zu erkunden und mit der virtuellen Begehung kann der Betrachter und die Betrachterin einfach durch das 3D-Modell des eigenen Dorfes oder Quartiers spazieren. Voraussetzung dafür ist die Verwendung der aktuellsten Version des entsprechenden Webbrowsers auf Desktop oder Mobilgeräten mit einer leistungsfähigen Internetverbindung.&lt;/p&gt;</text>
+      <contact>Sandrine Klötzli Kommunikation swisstopo sandrine.kloetzli@swisstopo.ch 058 469 02 88</contact>
+      <link id="181689">
+        <title>Datenviewer des Bundes in 3D</title>
+        <uri>https://s.geo.admin.ch/7a9d2f9caf</uri>
+        <position>Context</position>
+      </link>
+      <link id="181692">
+        <title>Informationen zum Gebäudedatensatz swissBUILDINGS3D</title>
+        <uri>https://shop.swisstopo.admin.ch/de/products/landscape/build3D2</uri>
+        <position>Context</position>
+      </link>
+      <link id="181695">
+        <title>Die Schweiz in 3D</title>
+        <uri>https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/3d-viewer.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Tous les bâtiments de Suisse peuvent maintenant être visualisés en 3D</title>
+      <lead>La Suisse et la principauté de Liechtenstein font partie des premiers pays au monde à disposer d’un modèle de visualisation en trois dimensions de tous les bâtiments de leur pays. Le jeu de données vectorielles, qui couvre maintenant toute la Suisse, sert de base aux applications nécessitant des informations sur les bâtiments précises et en 3D. Avoir fini de collecter ces données pour tout le territoire suisse représente une étape importante dans la saisie des géodonnées en trois dimensions par l’Office fédéral de topographie swisstopo.</lead>
+      <text link="no">&lt;p&gt;Le nouveau jeu de données vectorielles constitué au cours des cinq dernières années englobe l’intégralité des bâtiments modélisés en 3D avec leurs toits et leurs avant-toits. Il recense plus de trois millions de bâtiments. En plus de couvrir toute la superficie de la Suisse, il offre une précision planimétrique et altimétrique comprise entre 30 et 50 centimètres. La modélisation des bâtiments en 3D de swisstopo sert de base de travail à de nombreux projets.&lt;/p&gt;&lt;h2&gt;Applications les plus diverses&lt;/h2&gt;&lt;p&gt;Certaines administrations et sociétés privées utilisent déjà ces données pour leur activité. Les bâtiments modélisés leur servent à créer des visualisations, des animations et des analyses, surtout dans les branches où les représentations graphiques ne sont pas seulement des aides d’appoint, mais des instruments de travail quotidiens. C’est le cas par exemple des services de l’aménagement du territoire et de l’urbanisme, des services de l’immobilier ou de la protection contre le bruit, ou encore des cabinets d’architectes.&lt;br /&gt;Le meilleur exemple d’application dans le domaine de l’environnement est jusqu’à présent le cadastre solaire développé par l’Office fédéral de l’énergie OFEN (www.sonnendach.ch). Il renseigne sur le niveau d’énergie solaire que peut produit le toit d’un bâtiment précis et indique d’une façon simple combien d’électricité ou de chaleur il est possible de produire sur son propre toit. &lt;/p&gt;&lt;h2&gt;Le visualiseur de cartes de la Confédération montre aussi les objets en 3D&lt;/h2&gt;&lt;p&gt;L’intégration de tous les bâtiments de Suisse a marqué le passage de la version bêta du visualiseur de la Confédération à sa version définitive. Sur map.geo.admin.ch, tous les corps de bâtiments figurent en trois dimensions, mais aussi les ponts, les téléphériques et la végétation. Deux nouvelles fonctions rendent les déplacements interactifs possibles: la vue aérienne, pour explorer la Suisse numérique vue d’en haut, et la promenade virtuelle à travers les rues de son propre quartier ou de son propre village en 3D. Il suffit pour cela d’utiliser la dernière version du navigateur Internet de votre ordinateur ou de votre appareil connecté et d’avoir une connexion Internet rapide.&lt;/p&gt;</text>
+      <contact>Sandrine Klötzli Communication swisstopo sandrine.kloetzli@swisstopo.ch 058 469 02 88</contact>
+      <link id="181690">
+        <title>Visualiseur de données en 3D de la Confédération</title>
+        <uri>https://s.geo.admin.ch/7d21b04a76</uri>
+        <position>Context</position>
+      </link>
+      <link id="181693">
+        <title>Informations sur la modélisation des bâtiments swissBUILDINGS3D</title>
+        <uri>https://shop.swisstopo.admin.ch/fr/products/landscape/build3D2</uri>
+        <position>Context</position>
+      </link>
+      <link id="181696">
+        <title>La Suisse en 3D</title>
+        <uri>https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/visualiseur-3d.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Tutti gli edifici della Svizzera possono ora essere visualizzati in 3D</title>
+      <lead>La Svizzera e il Principato del Liechtenstein sono tra i primi nazioni al mondo a disporre di un modello di visualizzazione tridimensionale di tutti gli edifici del loro paese. Il presente database nazionale rappresenta la base per tutte le applicazioni che richiedono dati tridimensionali precisi sugli edifici. Il completamento della raccolta di questi dati relativi a tutto il territorio svizzero rappresenta una pietra miliare nel rilevamento di geodati tridimensionali presso l’Ufficio federale di topografia swisstopo.</lead>
+      <text link="no">&lt;p&gt;Il nuovo set di dati vettoriali è stato sviluppato negli ultimi cinque anni e mostra gli edifici sotto forma di modelli in 3D, con le forme dei tetti e dei relativi bordi. Contiene oltre tre milioni di edifici. Oltre alla copertura nazionale offre una precisione a livello di planimetria e altimetria tra i 30 e i 50 centimetri. Gli edifici in 3D di swisstopo rappresentano quindi una base importante per numerosi progetti.&lt;/p&gt;&lt;h2&gt;Diverse applicazioni&lt;/h2&gt;&lt;p&gt;Già oggi enti pubblici e aziende private impiegano questo set di dati vettoriali per le loro esigenze: utilizzano i modelli di edifici per visualizzazioni, animazioni e analisi. Ciò avviene soprattutto nei settori dove la rappresentazione spaziale non è solo uno strumento ausiliario ma viene impiegata nel lavoro di tutti i giorni. Tra questi fanno parte la pianificazione territoriale e urbanistica, l'architettura, il settore immobiliare o dell'insonorizzazione.&lt;br /&gt;L'esempio pratico più significativo nel settore ambientale è il catasto solare nazionale dell'Ufficio federale dell'energia UFE (www.sonnendach.ch): fornisce informazioni sull'idoneità dei tetti delle abitazioni per l'utilizzo di energia solare. Viene comunicato in modo semplice quanta energia solare o solare termica può essere prodotta sul tetto della propria abitazione. &lt;/p&gt;&lt;h2&gt;Oggetti in 3D anche nel visualizzatore di carte pubblico della Confederazione&lt;/h2&gt;&lt;p&gt;Con l'integrazione dell'intero parco immobiliare è stato possibile trasferire il visualizzatore di carte della Confederazione dalla versione beta 3D in quella completa. Ora su map.geo.admin.ch si può visualizzare insieme ai volumi degli edifici anche ponti, funivie e vegetazione in tre dimensioni. Due nuove funzioni permettono un movimento interattivo nello spazio: è possibile esplorare la Svizzera digitale tramite la visuale aerea e l'osservatore può muoversi virtualmente all'interno del modello in 3D del proprio paese o quartiere. A tal fine è necessario utilizzare la versione più aggiornata del relativo browser web per il desktop o dispositivi mobili con una connessione a Internet veloce.&lt;/p&gt;</text>
+      <contact>Sandrine Klötzli Comunicazione swisstopo sandrine.kloetzli@swisstopo.ch 058 469 02 88</contact>
+      <link id="181691">
+        <title>Visualizzatore di carte della Confederazione in 3D</title>
+        <uri>https://s.geo.admin.ch/7d21b3de4f</uri>
+        <position>Context</position>
+      </link>
+      <link id="181694">
+        <title>Informazioni sul database di edifici swissBUILDINGS3D</title>
+        <uri>https://shop.swisstopo.admin.ch/it/products/landscape/build3D2</uri>
+        <position>Context</position>
+      </link>
+      <link id="181697">
+        <title>La Svizzera in 3D</title>
+        <uri>https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/visualizzatore-3d.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="560" org-id="502">
+        <name lang="de">Logistik</name>
+        <name lang="fr">Logistique</name>
+        <name lang="it">Logistica</name>
+        <name lang="en">Logistics</name>
+      </keyword>
+      <keyword id="5360" org-id="502">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologies / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+      <keyword id="5410" org-id="502">
+        <name lang="de">Kartografie</name>
+        <name lang="fr">Cartographie</name>
+        <name lang="it">Cartografia</name>
+        <name lang="en">Cartography</name>
+      </keyword>
+      <keyword id="5510" org-id="502">
+        <name lang="de">Information / Kommunikation</name>
+        <name lang="fr">Information / Communication</name>
+        <name lang="it">Informazione / Comunicazione</name>
+        <name lang="en">information / communication</name>
+      </keyword>
+      <keyword id="5610" org-id="502">
+        <name lang="de">Entwicklung / Planung / Reform</name>
+        <name lang="fr">Développement / Planification / Réforme</name>
+        <name lang="it">Sviluppo / Pianificazione / Riforma</name>
+        <name lang="en">development / planning / reform</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="25">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial Planning</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

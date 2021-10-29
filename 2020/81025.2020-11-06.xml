@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="81025" revoked="no">
+    <version>1</version>
+    <pubdate>2020-11-06</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="406" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Institut für Metrologie</name>
+      <name lang="fr">Institut fédéral de métrologie</name>
+      <name lang="it">Istituto federale di metrologia</name>
+      <name lang="en">Federal Institute of Metrology</name>
+      <www lang="de">http://www.metas.ch</www>
+      <www lang="fr">http://www.metas.ch</www>
+      <www lang="it">http://www.metas.ch</www>
+      <www lang="en">http://www.metas.ch</www>
+      <email lang="de">info@metas.admin.ch</email>
+      <email lang="fr">info@metas.admin.ch</email>
+      <email lang="it">info@metas.admin.ch</email>
+      <email lang="en">info@metas.admin.ch</email>
+    </originator>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern-Wabern</city>
+      <title>Computeruhren mit der offiziellen Schweizer Zeit synchronisieren</title>
+      <lead>Das Eidgenössische Institut für Metrologie (METAS) ist dafür zuständig, die offizielle Schweizer Zeit zu realisieren und zu verbreiten. Es stellt unter anderem Zeitserver zur Verfügung, mit denen Computeruhren mit der offiziellen Schweizer Zeit synchronisiert werden können. Diese sogenannten NTP-Server werden zurzeit migriert. Bisherige Benutzer müssen unter Umständen die von ihnen verwendeten Verbindungsadressen zu diesen NTP-Servern anpassen.</lead>
+      <text link="no"> &lt;h3&gt;Hochgenaue Zeitmessung&lt;/h3&gt; &lt;p&gt;Die Zeit wird schon seit Jahrtausenden gemessen. Dabei stützte man sich ursprünglich auf die Bewegung der Erde gegenüber der Sonne, besonders auf die Beobachtung der Drehung der Erde um ihre eigene Achse. Seit gut fünfzig Jahren wird die Einheit der Zeitmessung, die Sekunde, aber nun nicht mehr durch die Drehung der Erde bestimmt, sondern mittels eines atomaren Vorgangs, eines Übergangs in Atomen des Elements Cäsium. Dieser atomare Vorgang in Cäsiumatomen ist so regelmässig, dass wir mithilfe von Atomuhren die Zeit mit höchster Genauigkeit bestimmen können. Die Sekunde ist die Masseinheit, die um Grössenordnungen am genausten von allen Masseinheiten bestimmt werden kann.&lt;/p&gt; &lt;h3&gt;Koordinierte Weltzeit und offizielle Schweizer Zeit&lt;/h3&gt; &lt;p&gt;In der Schweiz ist das Eidgenössische Institut für Metrologie (METAS) dafür zuständig, die offizielle Schweizer Zeit zu realisieren und zu verbreiten. Dazu betreibt es in seinen Laboratorien mehrere Atomuhren. Mit diesen Atomuhren liefert das METAS den Schweizer Beitrag zur koordinierten Weltzeit (Universal Time Coordinated, UTC). Diese Zeit wird vom Internationalen Büro für Mass und Gewicht in Paris aus den Daten von rund 350 Atomuhren von 60 Zeitlaboratorien auf der ganzen Welt ermittelt. &lt;/p&gt; &lt;h3&gt;Kostenlose NTP-Zeitserver&lt;/h3&gt; &lt;p&gt;Aus der koordinierten Weltzeit leitet das METAS wiederum die offizielle Schweizer Zeit ab und verbreitet sie. Unter anderem stellt es kostenlos Zeitserver zur Verfügung, mit denen Computeruhren auf wenige Millisekunden genau mit der offiziellen Schweizer Zeit abgeglichen werden können.&lt;/p&gt; &lt;p&gt;Bis Ende November 2020 müssen die drei NTP-Server des METAS migriert werden. Wegen dieser Migration werden die Dienstleistungen einzelner Server für etwa zwei Tage unterbrochen. Alte Internetadressen der NTP-Server (z-B mit einer Erweiterung .admin.ch) werden nach der Migration nicht mehr gültig sein. &lt;/p&gt; &lt;p&gt;Wer seine Computeruhr mit einem METAS-NTP-Zeitserver synchronisieren will, benutzt am besten die Alias-Internetadresse ntp.metas.ch (Internetadressen der einzelnen Server: ntp11.metas.ch, ntp12.metas.ch, ntp13.metas.ch).&lt;/p&gt; </text>
+      <contact>Jürg Niederhauser, Leiter Bereich Direktionsgeschäfte, T +41 58 387 01 11</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne-Wabern</city>
+      <title>Horloges d’ordinateurs synchronisées avec l’heure officielle suisse</title>
+      <lead>L’Institut fédéral de métrologie (METAS) est responsable de la réalisation de l’heure officielle suisse et de sa diffusion. Il met notamment à disposition des serveurs de temps, grâce auxquels les horloges des ordinateurs peuvent être synchronisées avec l’heure officielle suisse. Ces serveurs ntp (comme on les nomme) sont actuellement soumis à une migration. Les utilisateurs actuels devront, le cas échéant, adapter les adresses de connexion qu’ils utilisent à ces serveurs ntp.</lead>
+      <text link="no"> &lt;h3&gt;Mesure du temps d'une extrême exactitude&lt;/h3&gt;&lt;p&gt;Le temps est mesuré depuis déjà des millénaires. À l'origine, on s'appuyait sur le mouvement de la Terre autour du soleil et en particulier, sur l'observation de la rotation de la Terre sur son axe. Depuis environ 50 ans, l'unité de mesure du temps, la seconde, n'est toutefois plus définie par la rotation de la terre, mais à l'aide d'un processus atomique: une transition de l'atome de césium. Ce processus atomique au sein des atomes de césium est tellement régulier que nous pouvons déterminer le temps avec une extrême exactitude au moyen d'horloges atomiques. La seconde est l'unité de mesure qui peut être déterminée par des ordres grandeur plus exactement que les autres unités de mesure.&lt;/p&gt;&lt;h3&gt;Temps universel coordonné et heure officielle suisse&lt;/h3&gt;&lt;p&gt;L'Institut fédéral de métrologie (METAS) est responsable de la réalisation de l'heure officielle suisse et de sa diffusion. À cet effet, il exploite plusieurs horloges atomiques dans ses laboratoires. Ces horloges atomiques permettent à METAS d'apporter la contribution de la Suisse au Temps universel coordonné (Universal Time Coordinated; UTC). Ce temps est établi par le Bureau International des Poids et Mesures (BIPM) à Paris, à partir des données fournies par quelque 350 horloges atomiques de 60 laboratoires du monde entier.&lt;/p&gt;&lt;h3&gt;Serveurs de temps ntp gratuits&lt;/h3&gt;&lt;p&gt;METAS réalise à son tour, à partir de l'UTC, l'heure officielle Suisse, et la diffuse. METAS met notamment gratuitement à disposition des serveurs de temps, grâce auxquels les horloges des ordinateurs peuvent être synchronisées avec l'heure officielle Suisse, à quelques millisecondes près. &lt;/p&gt; &lt;p&gt;Les trois serveurs ntp doivent subir une migration d'ici fin novembre 2020. Cette migration entraînera l'interruption des services de chaque serveur pour environ deux jours. Les anciennes adresses Internet des serveurs ntp (p.ex. avec l'extension .admin.ch) ne seront plus valables après la migration.&lt;/p&gt; &lt;p&gt;Pour synchroniser l'horloge d'un ordinateur avec un serveur ntp de METAS il est recommandé d'utiliser l'alias de messagerie ntp.metas.ch (adresses Internet de chaque serveur: ntp11.metas.ch, ntp12.metas.ch et ntp13.metas.ch).&lt;/p&gt; </text>
+      <contact>Jürg Niederhauser, T +41 58 387 01 11</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna-Wabern</city>
+      <title>Sincronizzazione degli orologi dei computer con l’ora ufficiale svizzera</title>
+      <lead>L’Istituto federale di metrologia (METAS) è responsabile della realizzazione e diffusione dell’ora ufficiale svizzera. Tra le altre cose, mette a disposizione server di riferimento orario con i quali è possibile sincronizzare gli orologi dei computer con l’ora ufficiale svizzera. Questi cosiddetti server NTP sono attualmente in fase di migrazione. Gli utenti esistenti potrebbero dover modificare gli indirizzi di connessione che utilizzano per connettersi a questi server NTP.</lead>
+      <text link="no"> &lt;h3&gt;Misurazione del tempo ad alta precisione&lt;/h3&gt;&lt;p&gt;Il tempo viene misurato già da millenni. Originariamente ci si basava sul movimento della Terra rispetto al sole, in particolare sull'osservazione della rotazione della Terra attorno al proprio asse. Da oltre cinquant'anni l'unità di misura del tempo, il secondo, non viene più determinata dalla rotazione della Terra, ma per mezzo di un processo atomico, una transizione energetica negli atomi dell'elemento cesio. Questo processo atomico negli atomi di cesio è talmente regolare, che utilizzando orologi atomici siamo in grado di determinare il tempo con la massima precisione. Il secondo è l'unità di misura, che può essere determinata con una precisione di parecchi ordini di grandezza superiore a quella di tutte le altre unità di misura.&lt;/p&gt;&lt;h3&gt;Tempo universale coordinato e ora ufficiale svizzera&lt;/h3&gt;&lt;p&gt;In Svizzera l'Istituto federale di metrologia (METAS) è responsabile della realizzazione e diffusione dell'ora ufficiale svizzera. A tale scopo nei suoi laboratori gestisce diversi orologi atomici. Con questi orologi atomici il METAS fornisce il contributo svizzero al tempo universale coordinato (Universal Time Coordinated, UTC). Questo tempo viene calcolato dall'Ufficio internazionale dei pesi e delle misure a Parigi a partire dai dati di circa 350 orologi atomici di 60 laboratori del tempo sparsi in tutto il mondo.&lt;/p&gt;&lt;h3&gt;Server NTP di riferimento orario gratuiti&lt;/h3&gt;&lt;p&gt;Dal tempo universale coordinato il METAS ricava a sua volta l'ora ufficiale svizzera e la diffonde. Tra le altre cose, mette a disposizione gratuitamente dei server di riferimento orario, con cui gli orologi dei computer possono essere sincronizzati con l'ora ufficiale svizzera con una precisione di alcuni millisecondi. &lt;/p&gt; &lt;p&gt;Entro la fine del mese di novembre 2020 i tre server NTP del METAS devono essere migrati. A causa di questa migrazione, i servizi di ciascun server verranno interrotti per circa due giorni. A migrazione avvenuta i vecchi indirizzi Internet dei server NTP (per esempio indirizzi coll'estensione .admin.ch) non saranno più validi.&lt;/p&gt; &lt;p&gt;Per sincronizzare gli orologi dei propri computer con un server NTP di riferimento orario del METAS, la miglior soluzione è utilizzare l'indirizzo alias ntp.metas.ch (indirizzi dei singoli server: d ntp11.metas.ch, ntp12.metas.ch e ntp13.metas.ch).&lt;/p&gt; </text>
+      <contact>Jürg Niederhauser, T +41 58 387 01 11</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

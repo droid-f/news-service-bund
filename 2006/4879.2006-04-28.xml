@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="4879" revoked="no">
+    <version>1</version>
+    <pubdate>2006-04-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="yes" id="603" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Staatsrechnung 2005</title>
+      <lead>Die Finanzrechnung schliesst mit einem Defizit von 121 Millionen ab. Budgetiert war ein Defizit von 1 798 Millionen. Zum erfreulicheren Abschluss haben sowohl Mehreinnahmen (+533 Mio) als auch Minderausgaben (1 144 Mio) beigetragen. In den oben genannten Zahlen nicht berücksichtigt sind die ausserordentlichen Einnahmen von 8 338 Millionen aus dem Bundesanteil am Verkaufserlös überschüssiger Goldreserven der Nationalbank (7 038 Mio) sowie dem Verkauf von Swisscom-Aktien (1 350 Mio).</lead>
+      <text link="no">Ganze Mitteilung als PDF-Datei verfügbar</text>
+      <contact/>
+      <attachment id="8513">
+        <title>Presserohstoff "Staatsrechnung 2005"</title>
+        <format>pdf</format>
+        <size-kb>97</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2572.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="8515">
+        <title>Bundesfinanzen in Kürze / Staatsrechnung</title>
+        <uri>http://www.efv.admin.ch/d/finanzen/bundfina/index.htm</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Compte d'Etat 2005</title>
+      <lead>Le compte financier se solde par un déficit de 121 millions de francs seulement , au lieu des 1 798 millions budgétisés. Cette amélioration résulte à la fois d'une augmentation des recettes (+533 mio) et d'une réduction des dépenses (1 144 mio). Les chiffres ci-dessus ne comprennent pas les 8 338 millions de recettes extraordinaires provenant de la part de la Confédération au produit de la vente des réserves d'or excédentaires de la Banque nationale (7 038 mio) et du produit de la vente d'actions Swisscom (1 350 mio).</lead>
+      <text link="no">Communiqué intégral disponible en tant que document pdf&lt;br /&gt;</text>
+      <contact/>
+      <attachment id="8514">
+        <title>Documentation de base"Compte d'Etat 2005"</title>
+        <format>pdf</format>
+        <size-kb>98</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/2573.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="8516">
+        <title>Les finances de la Confédération en bref / Compte financier</title>
+        <uri>http://www.efv.admin.ch/f/finanzen/index.htm</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="2" org-id="603">
+        <name lang="de">Finanzpolitik</name>
+        <name lang="fr">Politique budgétaire</name>
+        <name lang="it">Politica finanziaria</name>
+        <name lang="en">Financial policy</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="102" org-id="603">
+        <name lang="de">Rechnungsabschluss</name>
+        <name lang="fr">Compte d'État</name>
+        <name lang="it">Consuntivo</name>
+        <name lang="en">Financial statements</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="13">
+        <name lang="de">Öffentliche Finanzen</name>
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="en">Public Finances</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
