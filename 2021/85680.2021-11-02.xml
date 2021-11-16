@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="85680" revoked="no">
-    <version>1</version>
+    <version>3</version>
     <pubdate>2021-11-02</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="313" lead="yes" topnews="no">
@@ -19,6 +19,21 @@
       <email lang="it">ebg@ebg.admin.ch</email>
       <email lang="en">ebg@ebg.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="402" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Generalsekretariat EJPD</name>
+      <name lang="fr">Secrétariat général DFJP</name>
+      <name lang="it">Segreteria generale DFGP</name>
+      <name lang="en">General Secretariat FDJP</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.dfjp.admin.ch</www>
+      <www lang="it">http://www.dfgp.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -34,6 +49,21 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="403" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="en">Federal Office of Justice</name>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="en">http://www.bj.admin.ch</www>
+      <email lang="de">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="en">info@bj.admin.ch</email>
+    </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
@@ -48,25 +78,42 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Nationale Konferenz Gewalt: Verbesserter Schutz vor Gewalt</title>
-      <lead>Dank neuen Rechtsgrundlagen können gewaltbetroffene Personen besser ge-schützt werden. Heute treffen sich in Anwesenheit von Bundesrätin Karin Keller-Sutter in Bern über 340 Fachpersonen an der «Nationalen Konferenz Gewalt» zu einem Austausch über die straf- und zivilrechtlichen Anpassungen. Ein Schwer-punkt bilden Kinder, die von Gewalt mitbetroffen sind. Weitere Schwerpunkte der Konferenz sind die elektronische Überwachung und Lernprogramme für gewaltausübende Personen.</lead>
+      <lead>Dank neuen Rechtsgrundlagen können gewaltbetroffene Personen besser geschützt werden. Heute treffen sich in Anwesenheit von Bundesrätin Karin Keller-Sutter in Bern über 340 Fachpersonen an der «Nationalen Konferenz Gewalt» zu einem Austausch über die straf- und zivilrechtlichen Anpassungen. Ein Schwerpunkt bilden Kinder, die von Gewalt mitbetroffen sind. Weitere Schwerpunkte der Konferenz sind die elektronische Überwachung und Lernprogramme für gewaltausübende Personen.</lead>
       <text link="no"> &lt;p&gt;Verschiedene neue Rechtsgrundlagen bieten einen verbesserten Schutz vor häuslicher Gewalt und Stalking. Die Praxisänderung und deren Potential aus Sicht verschiedener Kantone bei Sistierungen von Strafverfahren und bei Anordnungen von Lernprogrammen wird an der Konferenz aufgezeigt. Diese gehen zurück auf die Revision des Artikels 55&lt;i&gt;a&lt;/i&gt; des Strafgesetzbuches, welche den Ermessenspielraum der Strafverfolgungsbehörden vergrössert und am 1. Juli 2020 in Kraft getreten ist.&lt;/p&gt; &lt;p&gt;An der Konferenz wird unter anderem ein neuer Leitfaden vorgestellt im Umgang mit Kindern, die von häuslicher Gewalt mitbetroffen sind. Er zeigt Richterinnen und Richtern sowie anderen Fachpersonen auf, wie Entscheidungen im Interesse des Kindes getroffen werden können.&lt;/p&gt; &lt;p&gt;Im Rahmen der Tagung wird auch über die Möglichkeiten und Grenzen des «Electronic Monitoring» diskutiert. Opfer von häuslicher Gewalt und Stalking sollen mit der neuen Bestimmung über die elektronische Überwachung von zivilrechtlichen Rayon- und Kontaktverboten besser geschützt werden. Diese tritt am 1. Januar 2022 in Kraft und bietet die Möglichkeit zur elektronischen Überwachung mit Armbändern oder Fussfesseln.&lt;/p&gt; &lt;p&gt;2020 registrierte die Polizei in der Schweiz über 46 000 Gewaltstraftaten, davon erstmals mehr als 20 000 im häuslichen Bereich. Im Schnitt stirbt alle zwei Wochen eine Person infolge eines solchen Übergriffs; durchschnittlich 25 Personen pro Jahr, davon 4 Kinder. 27 000 Kinder und Jugendliche sind jedes Jahr von häuslicher Gewalt mitbetroffen.&lt;/p&gt; &lt;p&gt;Die nationale Konferenz wird vom Eidgenössischen Büro für die Gleichstellung von Frau und Mann (EBG) in Kooperation mit dem Bundesamt für Justiz (BJ) und der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) organisiert. Es nehmen über 340 Fachpersonen aus der ganzen Schweiz teil, u.a. von Polizei, Staatsanwaltschaften, Gerichten, Kindes- und Erwachsenenschutzbehörden, Opferhilfestellen, Frauenhäusern oder Lernprogrammen und Beratungsstellen für gewaltausübende Personen.&lt;/p&gt; </text>
       <contact>Sina Liechti Kommunikationsbeauftragte EBG sina.liechti@ebg.admin.ch +41 58 467 42 04</contact>
-      <attachment id="222639">
+      <attachment id="222683">
         <title>Leitfaden Kontakt nach häuslicher Gewalt</title>
         <format>pdf</format>
         <size-kb>1899</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68756.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="222640">
+      <link id="222684">
         <title>Leitfaden</title>
         <uri>https://csvd.ch/app/uploads/2021/10/21_10_29_skgh_leitfaden_d.pdf</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2021-11-02 09:25" type="R"/>
+        <revision date="2021-11-02 09:43" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -74,7 +121,7 @@
       <lead>Plusieurs adaptations législatives récentes permettent d’améliorer la protection des personnes victimes de violence. Aujourd’hui, en présence de la conseillère fédérale Karin Keller-Sutter, plus de 340 spécialistes se réunissent à Berne dans le cadre du congrès national sur la violence, pour échanger leurs points de vue sur les changements en cours dans le droit pénal et le droit civil. Un accent est notamment mis sur la thématique des enfants touchés par la violence. Autres sujets clés du congrès : la surveillance électronique et les programmes de prévention destinés aux personnes ayant recours à la violence.</lead>
       <text link="no"> &lt;p&gt;Plusieurs nouvelles dispositions légales offrent une meilleure protection contre la violence domestique et le harcèlement obsessionnel. Le congrès de ce jour mettra en évidence le changement de pratique en cours dans différents cantons, à savoir la possibilité de suspendre la procédure pénale et d’ordonner un programme de prévention de la violence, et son potentiel. Ces mesures trouvent leur origine dans la révision de l’art. 55&lt;i&gt;a&lt;/i&gt; du code pénal, qui accroît la marge d’appréciation des autorités de poursuite pénale et qui est entrée en vigueur le 1er juillet 2020.&lt;/p&gt; &lt;p&gt;Ce congrès est aussi l’occasion de présenter un nouveau guide concernant les arrangements des contacts parents/enfants victimes de violence domestique, qui indique aux juges et à d’autres spécialistes comment il est possible de prendre des décisions qui soient dans l’intérêt de l’enfant.&lt;/p&gt; &lt;p&gt;Autre sujet au programme : les possibilités et les limites de la surveillance électronique. Les victimes de violence domestique et de harcèlement obsessionnel seront en effet mieux protégées grâce à une nouvelle mesure, la surveillance électronique du respect d’une interdiction géographique ou d’une interdiction de contact. Dès le 1er janvier 2022, elle permettra aux juges d’ordonner une surveillance électronique au moyen d’un bracelet électronique au poignet ou à la cheville.&lt;/p&gt; &lt;p&gt;En 2020, la police a enregistré plus de 46 000 infractions de violence en Suisse, dont, pour la première fois, plus de 20 000 commises dans la sphère domestique. En moyenne, une personne meurt toutes les deux semaines des suites d’une telle agression, soit 25 personnes par an en moyenne, dont 4 enfants. En outre, 27 000 enfants et adolescents sont touchés par la violence domestique chaque année.&lt;/p&gt; &lt;p&gt;Le congrès national est organisé par le Bureau fédéral de l’égalité entre femmes et hommes (BFEG) en collaboration avec l’Office fédéral de la justice (OFJ) et la Conférence des directrices et directeurs des départements cantonaux de justice et police (CCDJP). Plus de 340 experts de toute la Suisse y participent, émanant notamment de la police, des ministères publics, des tribunaux, des autorités de protection de l’enfant et de l’adulte, des centres d’aide aux victimes, des foyers pour femmes, des programmes de prévention et des services de consultation pour les personnes ayant recours à la violence.&lt;/p&gt; </text>
       <contact>Sina Liechti chargée de communication, BFEG sina.liechti@ebg.admin.ch +41 58 467 42 04</contact>
-      <link id="222641">
+      <link id="222685">
         <title>Guide (en allemand)</title>
         <uri>https://csvd.ch/app/uploads/2021/10/21_10_29_skgh_leitfaden_d.pdf</uri>
         <position>Context</position>
@@ -87,7 +134,7 @@
       <lead>Grazie a nuove basi legali può essere offerta una migliore protezione alle vittime di violenza. Oggi a Berna, alla presenza della consigliera federale Karin Keller-Sutter, oltre 340 esperte ed esperti partecipano alla Conferenza nazionale sulla violenza per uno scambio di opinioni ed esperienze sugli adeguamenti del diritto penale e civile. Una delle categorie principali da tutelare sono i minori toccati dalla violenza. All’incontro si parlerà anche di sorveglianza elettronica e di programmi di prevenzione per chi commette atti di violenza.</lead>
       <text link="no"> &lt;p&gt;Diverse nuove basi legali offrono una migliore protezione dalla violenza domestica e dallo stalking. Durante la conferenza saranno illustrate, dal punto di vista di vari Cantoni, la modifica della prassi e le sue potenzialità per i casi in cui è sospeso il procedimento penale e ordinata la partecipazione a un programma di prevenzione. Questi provvedimenti sono retti dall’articolo 55&lt;i&gt;a&lt;/i&gt; del Codice penale, la cui revisione è entrata in vigore il 1° luglio 2020 e che conferisce un maggiore margine discrezionale alle autorità di perseguimento penale.&lt;/p&gt; &lt;p&gt;Alla conferenza sarà presentata inoltre una nuova guida sulla gestione dei contatti tra genitori e bambini toccati dalla violenza domestica che offrirà un valido sostegno a giudici e altri specialisti e li aiuterà a prendere decisioni nell’interesse del minore.&lt;/p&gt; &lt;p&gt;Durante la conferenza si discuterà anche delle possibilità e dei limiti del monitoraggio elettronico. Il 1° gennaio 2022 entrerà in vigore una nuova disposizione sulla sorveglianza elettronica del rispetto del divieto di contatto e di avvicinamento che consentirà di tutelare maggiormente le vittime di violenza domestica e stalking grazie all’introduzione di un dispositivo elettronico da applicare al braccio o alla caviglia del potenziale autore di violenza.&lt;/p&gt; &lt;p&gt;Nel 2020 la polizia ha registrato in Svizzera oltre 46 000 reati violenti di cui, per la prima volta, più di 20 000 commessi nell’ambito della violenza domestica. In media ogni due settimane una persona muore per le conseguenze di un’aggressione, ossia in media 25 persone l’anno, di cui 4 minori. Ogni anno 27 000 bambini e giovani sono inoltre toccati dalla violenza domestica.&lt;/p&gt; &lt;p&gt;La conferenza nazionale è organizzata dall’Ufficio federale per l’uguaglianza fra donna e uomo in collaborazione con l’Ufficio federale di giustizia e la Conferenza delle direttrici e dei direttori dei dipartimenti cantonali di giustizia e polizia. Vi partecipano oltre 340 esperte ed esperti provenienti da tutta la Svizzera e da diversi ambiti: forze di polizia, pubblici ministeri, tribunali, autorità di protezione dei minori e degli adulti, consultori per vittime di reati, alloggi protetti per donne, programmi educativi e consultori per chi commette atti di violenza.&lt;/p&gt; </text>
       <contact>Sina Liechti addetta alla comunicazione UFU sina.liechti@ebg.admin.ch +41 58 467 42 04</contact>
-      <link id="222642">
+      <link id="222686">
         <title>Guida (in tedesco)</title>
         <uri>https://csvd.ch/app/uploads/2021/10/21_10_29_skgh_leitfaden_d.pdf</uri>
         <position>Context</position>
@@ -100,13 +147,21 @@
       <lead>New legislation makes it possible to provide better protection for victims of vio-lence. More than 340 experts are meeting today in Bern at the National Confer-ence on Violence to share views on the changes to criminal and civil law. The conference, which will be attended by Federal Councillor Karin Keller-Sutter, will focus on children who are affected by violence, as well as electronic monitoring and learning programmes for perpetrators of violence.</lead>
       <text link="no"> &lt;p&gt;A number of new legal provisions provide improved protection against domestic violence and stalking. The changes in practice will be presented at the conference, and several of the cantons will address their implications with regard to suspending criminal proceedings and ordering learning programmes for perpetrators of violence. The changes result from a revision of Article 55&lt;i&gt;a&lt;/i&gt; of the Criminal Code, which came into force on 1 July 2020, increasing the discretionary powers of the prosecution authorities.&lt;/p&gt; &lt;p&gt;A new guideline for dealing with children affected by domestic violence will also be presented at the conference. It provides judges and other professionals with information on how decisions can be made in the best interests of the child.&lt;/p&gt; &lt;p&gt;The possibilities and limitations of electronic monitoring will also be a point of discussion at the conference. Victims of domestic violence and stalking are to be better protected by a new provision on electronically monitored civil exclusion orders and contact bans. This comes into force on 1 January 2022 and provides for the possibility of electronic monitoring using wrist and ankle tags.&lt;/p&gt; &lt;p&gt;The police recorded more than 46,000 violent crimes in Switzerland in 2020, with the number of domestic offences exceeding 20,000 for the first time. On average, one person dies every two weeks as a result of such an assault; an average of 25 people per year, four of them children. A total of 27,000 children and young people are affected by domestic violence every year.&lt;/p&gt; &lt;p&gt;The national conference has been organised by the Federal Office for Gender Equality (FOGE) in cooperation with the Federal Office of Justice (FOJ) and the Conference of Cantonal Justice and Police Directors (CCJPD). Over 340 professionals from all over Switzerland are taking part, including from the police, public prosecution services, courts, child and adult protection authorities, victim support services, women's shelters, as well as learning programmes and counselling centres for perpetrators of violence.&lt;/p&gt; </text>
       <contact>Sina Liechti FOGE Communication Officer sina.liechti@ebg.admin.ch +41 58 467 42 04</contact>
-      <link id="222643">
+      <link id="222687">
         <title>Guideline (in German)</title>
         <uri>https://csvd.ch/app/uploads/2021/10/21_10_29_skgh_leitfaden_d.pdf</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
     </content>
+    <keywords>
+      <keyword id="48" org-id="403">
+        <name lang="de">Häusliche Gewalt</name>
+        <name lang="fr">Violence domestique</name>
+        <name lang="it">Violenza domestica</name>
+        <name lang="en">Domestic violence</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="10">
         <name lang="de">Bundesrat</name>

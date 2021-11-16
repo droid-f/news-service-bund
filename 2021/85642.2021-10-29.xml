@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="85642" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-10-29</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -49,6 +49,21 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -76,6 +91,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -130,17 +159,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="3">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">Armed Forces</name>
-      </topic>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
