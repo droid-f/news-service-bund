@@ -15,6 +15,8 @@ Feedbacks are welcome. For missing or incorrect data open an issue.
 - https://www.news.admin.ch/NSBSubscriber/feeds/rss (RSS Feed)
 
 ## Licence
-Swiss Federal Chancellery generic _terms and conditions_ are available (here)[https://www.admin.ch/gov/en/start/terms-and-conditions.html]. This repository is licensed under the CC BY-NC-SA 4.0 licence and cannot be used for commercial purposes.
+Swiss Federal Chancellery generic _terms and conditions_ are available [here](https://www.admin.ch/gov/en/start/terms-and-conditions.html). This repository is licensed under the [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/) and cannot be used for commercial purposes. 
+
+Droid Factory.
 
 [^1]: News Service Bund, NSB
