@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
+    <originator department-msg="no" id="809" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
+      <name lang="de">Bundesamt für Strassen ASTRA</name>
+      <name lang="fr">Office fédéral des routes OFROU</name>
+      <name lang="it">Ufficio federale delle strade USTRA</name>
+      <name lang="en">Federal Roads Authority</name>
+      <www lang="de">http://www.astra.admin.ch</www>
+      <www lang="fr">http://www.astra.admin.ch</www>
+      <www lang="it">http://www.astra.admin.ch</www>
+      <www lang="en">http://www.astra.admin.ch</www>
+      <email lang="de">media@astra.admin.ch</email>
+      <email lang="fr">media@astra.admin.ch</email>
+      <email lang="it">media@astra.admin.ch</email>
+      <email lang="en">media@astra.admin.ch</email>
     </originator>
     <originator department-msg="no" id="812" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@are.admin.ch</email>
       <email lang="en">info@are.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="809" lead="no" topnews="no">
+    <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Strassen ASTRA</name>
-      <name lang="fr">Office fédéral des routes OFROU</name>
-      <name lang="it">Ufficio federale delle strade USTRA</name>
-      <name lang="en">Federal Roads Authority</name>
-      <www lang="de">http://www.astra.admin.ch</www>
-      <www lang="fr">http://www.astra.admin.ch</www>
-      <www lang="it">http://www.astra.admin.ch</www>
-      <www lang="en">http://www.astra.admin.ch</www>
-      <email lang="de">media@astra.admin.ch</email>
-      <email lang="fr">media@astra.admin.ch</email>
-      <email lang="it">media@astra.admin.ch</email>
-      <email lang="en">media@astra.admin.ch</email>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -155,67 +155,37 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="20" org-id="812">
-        <name lang="de">Agglomerationen</name>
-        <name lang="fr">Agglomérations</name>
-        <name lang="it">Agglomerati</name>
-        <name lang="en">Agglomerationen</name>
+      <keyword id="550" org-id="804">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastructure</name>
+        <name lang="it">Infrastruttura</name>
+        <name lang="en">Infrastructure</name>
       </keyword>
-      <keyword id="520" org-id="812">
-        <name lang="de">Güterverkehr</name>
-        <name lang="fr">Güterverkehr</name>
-        <name lang="it">Güterverkehr</name>
-        <name lang="en">Güterverkehr</name>
+      <keyword id="210" org-id="804">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
       </keyword>
-      <keyword id="1360" org-id="812">
-        <name lang="de">Verkehrsverlagerung</name>
-        <name lang="fr">Transfert du trafic</name>
-        <name lang="it">Trasferimento del traffico</name>
-        <name lang="en">Verkehrsverlagerung</name>
-      </keyword>
-      <keyword id="1040" org-id="812">
-        <name lang="de">Schienenverkehr</name>
-        <name lang="fr">Trafic ferroviaire</name>
-        <name lang="it">Traffico su rotaia</name>
-        <name lang="en">Schienenverkehr</name>
-      </keyword>
-      <keyword id="1150" org-id="812">
-        <name lang="de">Strassenverkehr</name>
-        <name lang="fr">Trafic routier</name>
-        <name lang="it">Circolazione stradale</name>
-        <name lang="en">Road traffic</name>
-      </keyword>
-      <keyword id="1050" org-id="812">
-        <name lang="de">Schienenverkehr: Infrastruktur</name>
-        <name lang="fr">Schienenverkehr: Infrastruktur</name>
-        <name lang="it">Schienenverkehr: Infrastruktur</name>
-        <name lang="en">Schienenverkehr: Infrastruktur</name>
-      </keyword>
-      <keyword id="1180" org-id="812">
-        <name lang="de">Strassenverkehr: Infrastruktur</name>
-        <name lang="fr">Strassenverkehr: Infrastruktur</name>
-        <name lang="it">Strassenverkehr: Infrastruktur</name>
-        <name lang="en">Strassenverkehr: Infrastruktur</name>
-      </keyword>
-      <keyword id="1500" org-id="812">
+      <keyword id="1500" org-id="804">
         <name lang="de">Verkehrspolitik</name>
         <name lang="fr">Verkehrspolitik</name>
         <name lang="it">Verkehrspolitik</name>
         <name lang="en">Verkehrspolitik</name>
       </keyword>
-      <keyword id="1200" org-id="812">
-        <name lang="de">Strassenverkehr: Verkehrsmanagement</name>
-        <name lang="fr">Strassenverkehr: Verkehrsmanagement</name>
-        <name lang="it">Strassenverkehr: Verkehrsmanagement</name>
-        <name lang="en">Strassenverkehr: Verkehrsmanagement</name>
+      <keyword id="1150" org-id="804">
+        <name lang="de">Strassenverkehr</name>
+        <name lang="fr">Trafic routier</name>
+        <name lang="it">Circolazione stradale</name>
+        <name lang="en">Road traffic</name>
       </keyword>
-      <keyword id="870" org-id="812">
-        <name lang="de">Verkehr: Finanzierung</name>
-        <name lang="fr">Verkehr: Finanzierung</name>
-        <name lang="it">Verkehr: Finanzierung</name>
-        <name lang="en">Verkehr: Finanzierung</name>
+      <keyword id="1180" org-id="804">
+        <name lang="de">Strassenverkehr: Infrastruktur</name>
+        <name lang="fr">Strassenverkehr: Infrastruktur</name>
+        <name lang="it">Strassenverkehr: Infrastruktur</name>
+        <name lang="en">Strassenverkehr: Infrastruktur</name>
       </keyword>
-      <keyword id="1105" org-id="812">
+      <keyword id="1105" org-id="804">
         <name lang="de">Verkehr und Raumordnung</name>
         <name lang="fr">Transports et aménagement du territoire</name>
         <name lang="it">Trasporti e ordinamento del territorio</name>
@@ -223,11 +193,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="46">
-        <name lang="de">Verkehr</name>
-        <name lang="fr">Transports</name>
-        <name lang="it">Trasporti</name>
-        <name lang="en">Transport</name>
+      <topic id="25">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial Planning</name>
       </topic>
     </topics>
   </message>

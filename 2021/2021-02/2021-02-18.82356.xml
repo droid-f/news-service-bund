@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
+    <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
     </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="506" lead="no" topnews="no">
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">armasuisse</name>
-      <name lang="fr">Armasuisse</name>
-      <name lang="it">Armasuisse</name>
-      <name lang="en">Armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/</www>
-      <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
-      <email lang="de">info@armasuisse.ch</email>
-      <email lang="fr">info@armasuisse.ch</email>
-      <email lang="it">info@armasuisse.ch</email>
-      <email lang="en">info@armasuisse.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -204,47 +204,71 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="520" org-id="506">
-        <name lang="de">Miliz</name>
-        <name lang="fr">Armée de milice</name>
-        <name lang="it">Esercito di milizia</name>
-        <name lang="en">Militia</name>
+      <keyword id="510" org-id="502">
+        <name lang="de">Berufsmilitär / Durchdiener</name>
+        <name lang="fr">Militaires de métier / Militaires en services long</name>
+        <name lang="it">Militari di professione / Militari in ferma continuata</name>
+        <name lang="en">Military Professionals / Single Term Conscripts</name>
       </keyword>
-      <keyword id="5180" org-id="506">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5310" org-id="506">
-        <name lang="de">Rüstung / Beschaffung</name>
-        <name lang="fr">Armement / Acquisition d'armement</name>
-        <name lang="it">Armamento / Acquisto d'armamenti</name>
-        <name lang="en">Armament / Procurement</name>
-      </keyword>
-      <keyword id="5370" org-id="506">
+      <keyword id="5370" org-id="502">
         <name lang="de">Immobilien</name>
         <name lang="fr">Immobilier</name>
         <name lang="it">Immobili</name>
         <name lang="en">Real Estate</name>
       </keyword>
-      <keyword id="5480" org-id="506">
+      <keyword id="520" org-id="502">
+        <name lang="de">Miliz</name>
+        <name lang="fr">Armée de milice</name>
+        <name lang="it">Esercito di milizia</name>
+        <name lang="en">Militia</name>
+      </keyword>
+      <keyword id="5480" org-id="502">
         <name lang="de">Material / Ausrüstung</name>
         <name lang="fr">Matériel / Équipement</name>
         <name lang="it">Materiale / Equipaggiamento</name>
         <name lang="en">material / equipment</name>
       </keyword>
-      <keyword id="5510" org-id="506">
+      <keyword id="5510" org-id="502">
         <name lang="de">Information / Kommunikation</name>
         <name lang="fr">Information / Communication</name>
         <name lang="it">Informazione / Comunicazione</name>
         <name lang="en">information / communication</name>
       </keyword>
-      <keyword id="5530" org-id="506">
-        <name lang="de">Bundespolitik / Bundesrat</name>
-        <name lang="fr">Politique fédérale</name>
-        <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy, Federal Council(lor)</name>
+      <keyword id="5820" org-id="502">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastructure</name>
+        <name lang="it">Infrastruttura</name>
+        <name lang="en">infrastructure</name>
+      </keyword>
+      <keyword id="5980" org-id="502">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
+      </keyword>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+      </keyword>
+      <keyword id="1004" org-id="502">
+        <name lang="de">Dossier Umwelt</name>
+        <name lang="fr">Dossier Umwelt</name>
+        <name lang="it">Dossier Umwelt</name>
+        <name lang="en">Dossier Umwelt</name>
+      </keyword>
+      <keyword id="1006" org-id="502">
+        <name lang="de">Dossier Armeebotschaft 2021</name>
+        <name lang="fr">Dossier Message sur l'armée 2021</name>
+        <name lang="it">Dossier Messaggio sull’esercito 2021</name>
+        <name lang="en">Dossier Armeebotschaft 2021</name>
       </keyword>
     </keywords>
     <topics>
