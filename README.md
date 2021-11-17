@@ -1,5 +1,5 @@
-# Swiss Federal Chancellery News portal
-The Swiss Federal Chancellery manages the Swiss Government news portal[^1]. This repository contains the XML version of all the ~40'000 press releases available on the news portal since 1997.
+# Swiss Government News portal
+The Swiss Federal Chancellery manages the Swiss Government News portal[^1]. This repository contains the XML version of all the ~40'000 press releases available on the news portal since 1997.
 
 ## Changes with respect to the original data
 Data is provided _as is_, XML are crawled and committed to this repository at least once per day.
