@@ -4,8 +4,8 @@ The Swiss Federal Chancellery manages the Swiss Government news portal[^1]. This
 ## Changes with respect to the original data
 Data is provided _as is_, XML are crawled and committed to this repository at least once per day.
 - XML objects are prettified in order to take advantage of git in case of changes or revisions.
-- An ``/updated_at.json`` file is periodically generated, this helps to keep the dataset up to date without having to scrape the whole website. 
-- In order to keep directories reasonably small, file names use the following notation ``/#{pubdate.year}/#{msg-id}.#{pubdate}.xml``
+- An ``/updates.json`` file is generated after each update. 
+- In order to keep directories reasonably small, file names use the following notation ``/#{pubdate.year}/#{pubdate.year}-#{pubdate.month}/#{pubdate}.#{msg-id}.xml``
 
 ## Feedbacks
 Feedbacks are welcome. For suggestions, missing or incorrect data open an issue. 
