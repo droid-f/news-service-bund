@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="805" lead="no" topnews="no">
+    <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Verkehr</name>
-      <name lang="fr">Office fédéral des transports</name>
-      <name lang="it">Ufficio federale dei trasporti</name>
-      <name lang="en">Federal Office of Transport</name>
-      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
-      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
-      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
-      <www lang="en">https://www.bav.admin.ch/bav/en/home.html</www>
-      <email lang="de">presse@bav.admin.ch</email>
-      <email lang="fr">presse@bav.admin.ch</email>
-      <email lang="it">presse@bav.admin.ch</email>
-      <email lang="en">presse@bav.admin.ch</email>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="809" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">media@astra.admin.ch</email>
       <email lang="en">media@astra.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
+    <originator department-msg="no" id="805" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="fr">Office fédéral des transports</name>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="en">Federal Office of Transport</name>
+      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
+      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
+      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
+      <www lang="en">https://www.bav.admin.ch/bav/en/home.html</www>
+      <email lang="de">presse@bav.admin.ch</email>
+      <email lang="fr">presse@bav.admin.ch</email>
+      <email lang="it">presse@bav.admin.ch</email>
+      <email lang="en">presse@bav.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -142,25 +142,43 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
+      <keyword id="160" org-id="809">
+        <name lang="de">Bundesamt für Strassen (ASTRA)</name>
+        <name lang="fr">Office fédéral des routes (OFROU)</name>
+        <name lang="it">Ufficio federale delle strade (USTRA)</name>
+        <name lang="en">Swiss Federal Roads Authority (FEDRO)</name>
       </keyword>
-      <keyword id="1500" org-id="804">
-        <name lang="de">Verkehrspolitik</name>
-        <name lang="fr">Verkehrspolitik</name>
-        <name lang="it">Verkehrspolitik</name>
-        <name lang="en">Verkehrspolitik</name>
+      <keyword id="180" org-id="809">
+        <name lang="de">Bundesamt für Verkehr (BAV)</name>
+        <name lang="fr">Office fédéral des transports (OFT)</name>
+        <name lang="it">Ufficio federale dei trasporti (UFT)</name>
+        <name lang="en">Swiss Federal Office of Transport (FOT)</name>
       </keyword>
-      <keyword id="1150" org-id="804">
+      <keyword id="1150" org-id="809">
         <name lang="de">Strassenverkehr</name>
         <name lang="fr">Trafic routier</name>
         <name lang="it">Circolazione stradale</name>
         <name lang="en">Road traffic</name>
       </keyword>
-      <keyword id="345" org-id="804">
+      <keyword id="1350" org-id="809">
+        <name lang="de">Verkehrskosten, externe</name>
+        <name lang="fr">Verkehrskosten, externe</name>
+        <name lang="it">Verkehrskosten, externe</name>
+        <name lang="en">Verkehrskosten, externe</name>
+      </keyword>
+      <keyword id="260" org-id="809">
+        <name lang="de">Eidg. Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK</name>
+        <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de</name>
+        <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle</name>
+        <name lang="en">Federal Department of the Environment, Transport, Energy and</name>
+      </keyword>
+      <keyword id="870" org-id="809">
+        <name lang="de">Verkehr: Finanzierung</name>
+        <name lang="fr">Transports: Financement</name>
+        <name lang="it">Transports: Financement</name>
+        <name lang="en">Transports: Financement</name>
+      </keyword>
+      <keyword id="345" org-id="809">
         <name lang="de">Mobility Pricing</name>
         <name lang="fr">Mobility Pricing</name>
         <name lang="it">Mobility Pricing</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="85920" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-11-17</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="703" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
-    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -48,53 +33,41 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Preisbindungsklauseln gegenüber Beherbergungsbetrieben sollen verboten werden</title>
       <lead>Mit einer neuen Regelung im UWG sollen in Verträgen zwischen Online-Buchungsplattformen und Beherbergungsbetrieben Preisbindungsklauseln verboten werden. Dies hat der Bundesrat am 17. November 2021 entschieden. Gleichzeitig hat er Kenntnis vom Ergebnis des Vernehmlassungsverfahrens zur Änderung des Bundesgesetzes gegen den unlauteren Wettbewerb (UWG) genommen sowie Botschaft und Gesetzesentwurf verabschiedet. </lead>
       <text link="no"> &lt;p&gt;Mit der angestrebten neuen Regelung im UWG soll erreicht werden, dass die Beherbergungsbetriebe in ihrer Preisgestaltung frei sind. Das Verbot ermöglicht es ihnen, den Direktvertrieb über die betriebseigenen Webseiten zu fördern und damit ihre Wettbewerbsfähigkeit zu stärken. Die Vorlage und der Gesetzesentwurf gehen als nächstes ins Parlament.&lt;/p&gt; &lt;p&gt;Das Verbot von Preisbindungsklauseln wird in einem neuen Artikel 8a E-UWG verankert. Dieser neue Artikel ist rein zivilrechtlicher Natur und beinhaltet keine strafrechtliche Sanktionierung. Mit den im UWG vorgesehenen Klagen können sich die Klageberechtigen zur Wehr setzen. Dazu gehören primär die betroffenen Beherbergungsbetriebe, die Konkurrenten sowie Berufs- und Wirtschaftsverbände. Wenn Kollektivinteressen auf dem Spiel stehen, d.h. die wirtschaftlichen Interessen einer Vielzahl von Personen betroffen sind, kann auch der Bund klagen. &lt;/p&gt; &lt;p&gt;Der Bundesrat setzt mit der geplanten Änderung des UWG die Motion Bischof «Verbot von Knebelverträgen der Online-Buchungsplattformen gegen die Hotellerie» (16.3902) um. Diese Motion verlangt vom Bundesrat, Preisparitätsklauseln in Verträgen zwischen Online-Buchungsplattformen und Hotelbetrieben zu verbieten. &lt;/p&gt; &lt;p&gt;Der Ergebnisbericht des Vernehmlassungsverfahrens wird auf der Publikationsplattform des Bundesrechts: Abgeschlossene Vernehmlassungen - 2020 veröffentlicht.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Missbräuchlichkeit der Verwendung von Preisbindungsklauseln gegenüber Beherbergungsbetrieben&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;Wer als Betreiber einer Online-Plattform zur Buchung von Beherbergungsdienstleistungen allgemeine Geschäftsbedingungen verwendet, welche die Preissetzung von Beherbergungsbetrieben durch Preisbindungsklauseln einschränken, handelt unlauter. Preisbindungsklauseln stellen den Oberbegriff dar. Dieser beinhaltet Preisparitätsklauseln sowie auch Klauseln, wonach sich ein Beherbergungsbetrieb verpflichtet, einen bestimmten vom Plattformbetreiber vorgegebenen, tieferen Preis nicht zu unterschreiten. Bei Preisparitätsklauseln ist zwischen engen und weiten zu differenzieren. Bei engen Preisparitätsklauseln verpflichtet sich ein Beherbergungsbetrieb gegenüber einer Online-Buchungsplattform, auf seiner eigenen Internetseite keinen tieferen Preis als auf der Online-Buchungsplattform zu fordern. Bei weiten Preisparitätsklauseln verpflichtet sich ein Beherbergungsbetrieb, auf keinem anderen Vertriebskanal, also auch nicht per E-Mail oder am Telefon oder auf einer konkurrierenden Online-Buchungsplattform, tiefere Preise anzubieten als auf der Online-Buchungsplattform.&lt;/p&gt; </text>
       <contact>Kommunikationsdienst WBF info@gswbf.admin.ch</contact>
-      <attachment id="223446">
+      <attachment id="223624">
         <title>Bundesgesetz</title>
         <format>pdf</format>
         <size-kb>83</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68976.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223449">
+      <attachment id="223627">
         <title>Botschaft</title>
         <format>pdf</format>
         <size-kb>288</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68979.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223452">
+      <attachment id="223630">
         <title>Bericht</title>
         <format>pdf</format>
-        <size-kb>792</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68982.pdf</uri>
+        <size-kb>794</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69066.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223443">
+      <link id="223621">
         <title>Abgeschlossene Vernehmlassungen</title>
         <uri>https://www.fedlex.admin.ch/de/consultation-procedures/ended/2020#WBF</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2021-11-18 15:48" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -102,33 +75,35 @@
       <lead>Le 17 novembre 2021, le Conseil fédéral a décidé d’introduire une nouvelle disposition dans la loi fédérale contre la concurrence déloyale (LCD) afin d’interdire les clauses limitant la liberté tarifaire dans les contrats conclus entre des plateformes de réservation en ligne et des établissements d’hébergement. Il a également pris connaissance des résultats de la procédure de consultation concernant la modification de la LCD et approuvé le message ainsi que le projet de loi. </lead>
       <text link="no"> &lt;p&gt;L’objectif de la nouvelle réglementation est de veiller à ce que les établissements d’hébergement puissent librement fixer leurs prix. L’interdiction prévue permet à ces derniers de promouvoir la vente directe sur leur propre site internet et de renforcer ainsi leur compétitivité. Dans une prochaine étape, le message et le projet seront transmis au Parlement.&lt;/p&gt; &lt;p&gt;L’interdiction des clauses limitant la liberté tarifaire sera inscrite dans un nouvel article (art. 8a P-LCD). Cette nouvelle disposition relève uniquement du droit civil et ne prévoit aucune sanction pénale. Les acteurs ayant qualité pour agir, c’est-à-dire principalement les établissements d’hébergement, les concurrents et les associations professionnelles et économiques concernés, pourront exploiter les actions prévues par la LCD. Lorsque des intérêts collectifs sont en jeu, à savoir lorsque les intérêts économiques de nombreuses personnes sont concernés, la Confédération sera aussi habilitée à intenter une action. &lt;/p&gt; &lt;p&gt;Par la modification prévue de la LCD, le Conseil fédéral met en œuvre la motion 16.3902 Bischof (« Interdire les contrats léonins des plates-formes de réservation en ligne dont l’hôtellerie fait les frais »). Cette motion demande au Conseil fédéral d’interdire les clauses de parité tarifaire dans les contrats entre plateformes de réservation en ligne et établissements d’hébergement. &lt;/p&gt; &lt;p&gt;Le rapport rendant compte des résultats de la consultation sera publié sur la plateforme de publication du droit fédéral : Procédures de consultation terminées.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Caractère abusif de l’utilisation de clauses limitant la liberté tarifaire des établissements d’hébergement&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;Agit de façon déloyale celui qui prévoit, en tant qu’exploitant d’une plateforme en ligne de réservation de prestations d’hébergement, des conditions générales restreignant la fixation des prix par les établissements d’hébergement au moyen de clauses limitant la liberté tarifaire. L’expression « clauses limitant la liberté tarifaire » est générique. Elle comprend aussi bien les clauses de parité tarifaire que les clauses par lesquelles un établissement d’hébergement s’engage à ne pas proposer un prix inférieur à celui imposé par l’exploitant de la plateforme. Les clauses de parité tarifaire peuvent être restreintes ou larges. Dans le cadre de clauses de parité tarifaire « restreintes », un établissement d’hébergement s’engage vis-à-vis d’une plateforme de réservation en ligne à ne pas offrir, sur son propre site internet, de chambres à un prix inférieur à celui qu’il offre sur la plateforme de réservation en ligne. Dans le cadre de clauses de parité tarifaire « larges », un établissement d’hébergement s’engage à ne pas proposer sur d’autres canaux de distribution des prix inférieurs à ceux qu’il applique sur une plateforme de réservation en ligne. Il ne peut notamment pas faire des offres plus avantageuses par téléphone, par courriel ou sur une plateforme de réservation en ligne concurrente.&lt;/p&gt; </text>
       <contact>Communication DEFR info@gs-wbf.admin.ch</contact>
-      <attachment id="223447">
+      <attachment id="223625">
         <title>Loi fédérale</title>
         <format>pdf</format>
         <size-kb>74</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68977.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223450">
+      <attachment id="223628">
         <title>Message</title>
         <format>pdf</format>
         <size-kb>284</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68980.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223453">
+      <attachment id="223631">
         <title>Rapport</title>
         <format>pdf</format>
-        <size-kb>812</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68983.pdf</uri>
+        <size-kb>815</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69067.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223444">
+      <link id="223622">
         <title>Procédures de consultation terminées</title>
-        <uri>https://www.fedlex.admin.ch/fr/consultation-procedures/ended/2020#WBF</uri>
+        <uri>https://www.fedlex.admin.ch/fr/consultation-procedures/ended/2020#DEFR</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2021-11-18 15:48" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
@@ -136,35 +111,55 @@
       <lead>Il 17 novembre 2021 il Consiglio federale ha deciso di inserire nella legge federale contro la concorrenza sleale (LCSl) una nuova disposizione che vieta le clausole di imposizione dei prezzi nei contratti tra le piattaforme di prenotazione on line e le aziende alberghiere. Inoltre, ha preso atto dell’esito della procedura di consultazione sulla modifica della LCSl, approvando il disegno di legge e il messaggio. </lead>
       <text link="no"> &lt;p&gt;L’obiettivo della nuova disposizione della LCSl è permettere alle aziende alberghiere di fissare liberamente i prezzi. Il divieto consente loro di promuovere la vendita diretta tramite i propri siti internet rendendole così più competitive. Il messaggio e il disegno di legge verranno ora sottoposti all’esame del Parlamento.&lt;/p&gt; &lt;p&gt;Il divieto delle clausole di imposizione dei prezzi è sancito nel nuovo articolo 8a D-LCSI. L’articolo è una norma di diritto civile e non contempla sanzioni di tipo penale. Tramite le azioni previste dalla LCSI i soggetti legittimati ad agire possono difendere i propri diritti. Si tratta in primo luogo delle aziende alberghiere, dei concorrenti nonché delle associazioni professionali ed economiche. Se però sono in gioco interessi collettivi, ad esempio gli interessi economici di molte persone, può intervenire anche la Confederazione. &lt;/p&gt; &lt;p&gt;Con la modifica legislativa prevista il Consiglio federale adempie la mozione Bischof «Vietare le clausole di parità tariffaria stabilite dalle piattaforme di prenotazione on line a scapito degli albergatori» (16.3902), che chiede di vietare le clausole di parità tariffaria nei contratti tra le piattaforme di prenotazione on line e gli alberghi. &lt;/p&gt; &lt;p&gt;Il rapporto sui risultati della procedura di consultazione sarà disponibile a breve sulla piattaforma di pubblicazione del diritto federale: Procedure di consultazione concluse.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Abusività dell’utilizzo di clausole di imposizione dei prezzi nei confronti delle aziende alberghiere&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;Agisce in modo sleale chiunque, in quanto gestore di una piattaforma on line per la prenotazione di servizi di alloggio, utilizza condizioni commerciali generali che limitano la fissazione dei prezzi da parte delle strutture alberghiere tramite clausole di imposizione dei prezzi. Le clausole di imposizione dei prezzi sono da intendersi come un concetto generale, che include sia le clausole di parità tariffaria sia le clausole in base alle quali una struttura alberghiera si impegna a non offrire un prezzo inferiore a quello stabilito dal gestore della piattaforma on line. La parità tariffaria può essere ampia o ristretta. Con la clausola di parità tariffaria ristretta un’azienda alberghiera si impegna nei confronti di una piattaforma di prenotazione on line a non richiedere sul proprio sito web tariffe più basse rispetto a quelle pubblicizzate sulla piattaforma in questione. Con la clausola di parità tariffaria ampia un’azienda alberghiera si impegna a non offrire in nessun altro canale di vendita, né al telefono né via e-mail e nemmeno su una piattaforma on line concorrente, tariffe più basse rispetto a quelle pubblicizzate sulla piattaforma on line.&lt;/p&gt; </text>
       <contact>Comunicazione DEFR info@gswbf.admin.ch</contact>
-      <attachment id="223448">
+      <attachment id="223626">
         <title>Legge federale</title>
         <format>pdf</format>
         <size-kb>74</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68978.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223451">
+      <attachment id="223629">
         <title>Messaggio</title>
         <format>pdf</format>
         <size-kb>278</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/68981.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223454">
+      <attachment id="223632">
         <title>Rapporto</title>
         <format>pdf</format>
-        <size-kb>799</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/68984.pdf</uri>
+        <size-kb>801</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69068.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223445">
+      <link id="223623">
         <title>Procedure di consultazione concluse</title>
         <uri>https://www.fedlex.admin.ch/it/consultation-procedures/ended/2020#WBF</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2021-11-18 15:48" type="R"/>
+      </revisions>
     </content>
     <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="27">
+        <name lang="de">Reisen und Tourismus</name>
+        <name lang="fr">Voyages et tourisme</name>
+        <name lang="it">Viaggi e turismo</name>
+        <name lang="en">Travel and Tourism</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
       <topic id="47">
         <name lang="de">Wirtschaft</name>
         <name lang="fr">Économie</name>

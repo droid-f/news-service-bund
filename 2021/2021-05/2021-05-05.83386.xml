@@ -19,20 +19,20 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="507" lead="no" topnews="no">
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
-      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
-      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
-      <name lang="en">Federal Office for Civil Protection</name>
-      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <email lang="de">info@babs.admin.ch</email>
-      <email lang="fr">info@babs.admin.ch</email>
-      <email lang="it">info@babs.admin.ch</email>
-      <email lang="en">info@babs.admin.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@armasuisse.ch</email>
       <email lang="en">info@armasuisse.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
+    <originator department-msg="no" id="507" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -147,25 +147,31 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5180" org-id="502">
+      <keyword id="5180" org-id="507">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5780" org-id="502">
+      <keyword id="5380" org-id="507">
+        <name lang="de">Bevölkerungsschutz</name>
+        <name lang="fr">Protection de la population</name>
+        <name lang="it">Protezione della popolazione</name>
+        <name lang="en">civil protection</name>
+      </keyword>
+      <keyword id="5780" org-id="507">
         <name lang="de">Gesundheit</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="en">health</name>
       </keyword>
-      <keyword id="5810" org-id="502">
+      <keyword id="5810" org-id="507">
         <name lang="de">Lufttransport</name>
         <name lang="fr">Transport aérien</name>
         <name lang="it">Trasporto aereo</name>
         <name lang="en">air transport</name>
       </keyword>
-      <keyword id="5900" org-id="502">
+      <keyword id="5900" org-id="507">
         <name lang="de">Flugbetrieb</name>
         <name lang="fr">Service de vol</name>
         <name lang="it">Esercizio di volo</name>
