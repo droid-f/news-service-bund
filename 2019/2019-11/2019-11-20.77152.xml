@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -265,35 +265,47 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="595" org-id="502">
+      <keyword id="510" org-id="505">
+        <name lang="de">Berufsmilitär / Durchdiener</name>
+        <name lang="fr">Militaires de métier / Militaires en services long</name>
+        <name lang="it">Militari di professione / Militari in ferma continuata</name>
+        <name lang="en">Military Professionals / Single Term Conscripts</name>
+      </keyword>
+      <keyword id="595" org-id="505">
         <name lang="de">Ausbildung</name>
         <name lang="fr">Instruction</name>
         <name lang="it">Istruzione</name>
         <name lang="en">Training</name>
       </keyword>
-      <keyword id="5160" org-id="502">
+      <keyword id="5160" org-id="505">
         <name lang="de">Verteidigung</name>
         <name lang="fr">Défense</name>
         <name lang="it">Difesa</name>
         <name lang="en">defence</name>
       </keyword>
-      <keyword id="5180" org-id="502">
+      <keyword id="5180" org-id="505">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5530" org-id="502">
+      <keyword id="520" org-id="505">
+        <name lang="de">Miliz</name>
+        <name lang="fr">Armée de milice</name>
+        <name lang="it">Esercito di milizia</name>
+        <name lang="en">Militia</name>
+      </keyword>
+      <keyword id="5530" org-id="505">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
+        <name lang="en">federal policy, Federal Council(lor)</name>
       </keyword>
-      <keyword id="5000" org-id="502">
-        <name lang="de">Dossier Weiterentwicklung der Armee (WEA)</name>
-        <name lang="fr">Dossier Développement de l'armée (DEVA)</name>
-        <name lang="it">Dossier Ulteriore sviluppo dell’esercito (USEs)</name>
-        <name lang="en">Dossier Armed Forces Development Project (AFD)</name>
+      <keyword id="5770" org-id="505">
+        <name lang="de">Ausserdienstliche Aktivität</name>
+        <name lang="fr">Activité hors du service</name>
+        <name lang="it">Attività fuori del servizio</name>
+        <name lang="en">off-duty activity</name>
       </keyword>
     </keywords>
     <topics>

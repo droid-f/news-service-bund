@@ -19,65 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="703" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="601" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="314" lead="no" topnews="no">
+    <originator department-msg="no" id="319" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Kultur</name>
-      <name lang="fr">Office fédéral de la culture</name>
-      <name lang="it">Ufficio federale della cultura</name>
-      <name lang="en">Federal Office of Cultural Affairs</name>
-      <www lang="de">http://www.bak.admin.ch</www>
-      <www lang="fr">http://www.bak.admin.ch</www>
-      <www lang="it">http://www.bak.admin.ch</www>
-      <www lang="en">http://www.bak.admin.ch</www>
-      <email lang="de">info@bak.admin.ch</email>
-      <email lang="fr">info@bak.admin.ch</email>
-      <email lang="it">info@bak.admin.ch</email>
-      <email lang="en">info@bak.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="508" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">BASPO - Bundesamt für Sport</name>
-      <name lang="fr">OFSPO - Office fédéral du sport</name>
-      <name lang="it">UFSPO - Ufficio federale dello sport</name>
-      <name lang="en">Federal Office of Sports</name>
-      <www lang="de">http://www.baspo.admin.ch/</www>
-      <www lang="fr">http://www.baspo.admin.ch/</www>
-      <www lang="it">http://www.baspo.admin.ch/</www>
-      <www lang="en">http://www.baspo.admin.ch/</www>
-      <email lang="de">info@baspo.admin.ch</email>
-      <email lang="fr">info@baspo.admin.ch</email>
-      <email lang="it">info@baspo.admin.ch</email>
-      <email lang="en">info@baspo.admin.ch</email>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
     </originator>
     <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -94,20 +49,65 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="319" lead="no" topnews="no">
+    <originator department-msg="no" id="508" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BASPO - Bundesamt für Sport</name>
+      <name lang="fr">OFSPO - Office fédéral du sport</name>
+      <name lang="it">UFSPO - Ufficio federale dello sport</name>
+      <name lang="en">Federal Office of Sports</name>
+      <www lang="de">http://www.baspo.admin.ch/</www>
+      <www lang="fr">http://www.baspo.admin.ch/</www>
+      <www lang="it">http://www.baspo.admin.ch/</www>
+      <www lang="en">http://www.baspo.admin.ch/</www>
+      <email lang="de">info@baspo.admin.ch</email>
+      <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
+      <email lang="en">info@baspo.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="314" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Sozialversicherungen</name>
-      <name lang="fr">Office fédéral des assurances sociales</name>
-      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
-      <name lang="en">Federal Social Insurance Office</name>
-      <www lang="de">http://www.bsv.admin.ch</www>
-      <www lang="fr">http://www.ofas.admin.ch</www>
-      <www lang="it">http://www.ufas.admin.ch</www>
-      <www lang="en">http://www.bsv.admin.ch</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
+      <name lang="de">Bundesamt für Kultur</name>
+      <name lang="fr">Office fédéral de la culture</name>
+      <name lang="it">Ufficio federale della cultura</name>
+      <name lang="en">Federal Office of Cultural Affairs</name>
+      <www lang="de">http://www.bak.admin.ch</www>
+      <www lang="fr">http://www.bak.admin.ch</www>
+      <www lang="it">http://www.bak.admin.ch</www>
+      <www lang="en">http://www.bak.admin.ch</www>
+      <email lang="de">info@bak.admin.ch</email>
+      <email lang="fr">info@bak.admin.ch</email>
+      <email lang="it">info@bak.admin.ch</email>
+      <email lang="en">info@bak.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -122,34 +122,6 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
-    </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -178,6 +150,34 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>

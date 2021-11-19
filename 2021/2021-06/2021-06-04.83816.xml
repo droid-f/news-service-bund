@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="403" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Bundesamt für Justiz</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@bj.admin.ch</email>
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -132,11 +132,17 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="60" org-id="403">
-        <name lang="de">Kantonsverfassungen</name>
-        <name lang="fr">Constitutions cantonales</name>
-        <name lang="it">Costituzioni cantonali</name>
-        <name lang="en">Cantonal constitutions</name>
+      <keyword id="60" org-id="401">
+        <name lang="de">Kantone</name>
+        <name lang="fr">Cantons</name>
+        <name lang="it">Cantoni</name>
+        <name lang="en">Cantons</name>
+      </keyword>
+      <keyword id="85" org-id="401">
+        <name lang="de">Rechtsordnung</name>
+        <name lang="fr">Ordre juridique</name>
+        <name lang="it">Ordinamento giuridico</name>
+        <name lang="en">Legal system</name>
       </keyword>
     </keywords>
     <topics>

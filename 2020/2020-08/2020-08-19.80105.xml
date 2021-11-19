@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
+    <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
     </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="506" lead="no" topnews="no">
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">armasuisse</name>
-      <name lang="fr">Armasuisse</name>
-      <name lang="it">Armasuisse</name>
-      <name lang="en">Armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/</www>
-      <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
-      <email lang="de">info@armasuisse.ch</email>
-      <email lang="fr">info@armasuisse.ch</email>
-      <email lang="it">info@armasuisse.ch</email>
-      <email lang="en">info@armasuisse.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -208,29 +208,35 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="510" org-id="506">
+      <keyword id="510" org-id="502">
         <name lang="de">Berufsmilitär / Durchdiener</name>
         <name lang="fr">Militaires de métier / Militaires en services long</name>
         <name lang="it">Militari di professione / Militari in ferma continuata</name>
         <name lang="en">Military Professionals / Single Term Conscripts</name>
       </keyword>
-      <keyword id="550" org-id="506">
+      <keyword id="530" org-id="502">
+        <name lang="de">Luftraumsicherung</name>
+        <name lang="fr">Sécurité de l'espace aérien</name>
+        <name lang="it">Sicurezza dello spazio aereo</name>
+        <name lang="en">Air Policing</name>
+      </keyword>
+      <keyword id="550" org-id="502">
         <name lang="de">Höhere Kader</name>
         <name lang="fr">cadres</name>
-        <name lang="it">quadri superiori</name>
+        <name lang="it">Quadri superiori</name>
         <name lang="en">Senior Cadre</name>
       </keyword>
-      <keyword id="5180" org-id="506">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5530" org-id="506">
+      <keyword id="5530" org-id="502">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy, Federal Council(lor)</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
       </keyword>
     </keywords>
     <topics>

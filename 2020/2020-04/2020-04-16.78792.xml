@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Gruppe Verteidigung</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@vtg.admin.ch</email>
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -102,25 +102,37 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="510" org-id="505">
+      <keyword id="510" org-id="502">
         <name lang="de">Berufsmilitär / Durchdiener</name>
         <name lang="fr">Militaires de métier / Militaires en services long</name>
         <name lang="it">Militari di professione / Militari in ferma continuata</name>
         <name lang="en">Military Professionals / Single Term Conscripts</name>
       </keyword>
-      <keyword id="5180" org-id="505">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5780" org-id="505">
+      <keyword id="520" org-id="502">
+        <name lang="de">Miliz</name>
+        <name lang="fr">Armée de milice</name>
+        <name lang="it">Esercito di milizia</name>
+        <name lang="en">Militia</name>
+      </keyword>
+      <keyword id="5530" org-id="502">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+      </keyword>
+      <keyword id="5780" org-id="502">
         <name lang="de">Gesundheit</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="en">health</name>
       </keyword>
-      <keyword id="5860" org-id="505">
+      <keyword id="5860" org-id="502">
         <name lang="de">Medizinisches</name>
         <name lang="fr">Affaires médicales</name>
         <name lang="it">Affari medici</name>

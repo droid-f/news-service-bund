@@ -19,21 +19,6 @@
       <email lang="it">ebg@ebg.admin.ch</email>
       <email lang="en">ebg@ebg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="302" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Generalsekretariat EDI</name>
-      <name lang="fr">Secrétariat général DFI</name>
-      <name lang="it">Segreteria generale DFI</name>
-      <name lang="en">General Secretariat FDHA</name>
-      <www lang="de">http://www.edi.admin.ch</www>
-      <www lang="fr">http://www.edi.admin.ch</www>
-      <www lang="it">http://www.edi.admin.ch</www>
-      <www lang="en">http://www.edi.admin.ch</www>
-      <email lang="de">info@gs-edi.admin.ch</email>
-      <email lang="fr">info@gs-edi.admin.ch</email>
-      <email lang="it">info@gs-edi.admin.ch</email>
-      <email lang="en">info@gs-edi.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="403" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Bundesamt für Justiz</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@bj.admin.ch</email>
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
