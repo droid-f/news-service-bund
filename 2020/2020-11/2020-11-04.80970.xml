@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="508" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">BASPO - Bundesamt für Sport</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@baspo.admin.ch</email>
       <email lang="it">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>

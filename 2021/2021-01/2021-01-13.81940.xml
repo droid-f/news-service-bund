@@ -19,50 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="507" lead="no" topnews="no">
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
-      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
-      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
-      <name lang="en">Federal Office for Civil Protection</name>
-      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <email lang="de">info@babs.admin.ch</email>
-      <email lang="fr">info@babs.admin.ch</email>
-      <email lang="it">info@babs.admin.ch</email>
-      <email lang="en">info@babs.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="1065" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Nachrichtendienst des Bundes</name>
-      <name lang="fr">Service de renseignement de la Confédération</name>
-      <name lang="it">Servizio delle attività informative della confederazione</name>
-      <name lang="en">Federal intelligence service</name>
-      <www lang="de">http://www.ndb.admin.ch</www>
-      <www lang="fr">http://www.ndb.admin.ch</www>
-      <www lang="it">http://www.ndb.admin.ch</www>
-      <www lang="en">http://www.ndb.admin.ch</www>
-      <email lang="de">info@ndb.admin.ch</email>
-      <email lang="fr">info@ndb.admin.ch</email>
-      <email lang="it">info@ndb.admin.ch</email>
-      <email lang="en">info@ndb.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <originator department-msg="no" id="1094" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -79,20 +49,50 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
+    <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1065" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Nachrichtendienst des Bundes</name>
+      <name lang="fr">Service de renseignement de la Confédération</name>
+      <name lang="it">Servizio delle attività informative della confederazione</name>
+      <name lang="en">Federal intelligence service</name>
+      <www lang="de">http://www.ndb.admin.ch</www>
+      <www lang="fr">http://www.ndb.admin.ch</www>
+      <www lang="it">http://www.ndb.admin.ch</www>
+      <www lang="en">http://www.ndb.admin.ch</www>
+      <email lang="de">info@ndb.admin.ch</email>
+      <email lang="fr">info@ndb.admin.ch</email>
+      <email lang="it">info@ndb.admin.ch</email>
+      <email lang="en">info@ndb.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -184,41 +184,47 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="505" org-id="502">
+      <keyword id="505" org-id="507">
         <name lang="de">Sicherheitspolitik</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
         <name lang="en">Security Policy</name>
       </keyword>
-      <keyword id="5180" org-id="502">
+      <keyword id="5110" org-id="507">
+        <name lang="de">Feuerwehr / Sanität / Polizei</name>
+        <name lang="fr">Sapeurs-pompiers / Sanitaires / Police</name>
+        <name lang="it">Pompieri / Sanita pubblica / Polizia</name>
+        <name lang="en">Fire Brigade / Medical Service / Police</name>
+      </keyword>
+      <keyword id="5180" org-id="507">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5430" org-id="502">
+      <keyword id="5380" org-id="507">
+        <name lang="de">Bevölkerungsschutz</name>
+        <name lang="fr">Protection de la population</name>
+        <name lang="it">Protezione della popolazione</name>
+        <name lang="en">civil protection</name>
+      </keyword>
+      <keyword id="5420" org-id="507">
+        <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
+        <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
+        <name lang="it">Eventi straordinari / Incidenti straordinari</name>
+        <name lang="en">Exceptional Incidents / Accidents</name>
+      </keyword>
+      <keyword id="5430" org-id="507">
         <name lang="de">Übung</name>
         <name lang="fr">Exercice</name>
         <name lang="it">Esercitazione</name>
         <name lang="en">Exercise</name>
       </keyword>
-      <keyword id="5530" org-id="502">
+      <keyword id="5530" org-id="507">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
-      </keyword>
-      <keyword id="5001" org-id="502">
-        <name lang="de">Dossier Sicherheitsverbund Schweiz</name>
-        <name lang="fr">Dossier Réseau national de sécurité</name>
-        <name lang="it">Dossier Rete integrata Svizzera per la sicurezza</name>
-        <name lang="en">Dossier Sicherheitsverbund Schweiz</name>
-      </keyword>
-      <keyword id="1003" org-id="502">
-        <name lang="de">SVU19</name>
-        <name lang="fr">SVU19</name>
-        <name lang="it">SVU19</name>
-        <name lang="en">SVU19</name>
+        <name lang="en">federal policy, Federal Council(lor)</name>
       </keyword>
     </keywords>
     <topics>

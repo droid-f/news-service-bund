@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="603" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidg. Finanzverwaltung</name>
-      <name lang="fr">Administration fédérale des finances</name>
-      <name lang="it">Amministrazione federale delle finanze</name>
-      <name lang="en">Federal Finance Administration</name>
-      <www lang="de">http://www.efv.admin.ch</www>
-      <www lang="fr">http://www.efv.admin.ch</www>
-      <www lang="it">http://www.efv.admin.ch</www>
-      <www lang="en">http://www.efv.admin.ch</www>
-      <email lang="de">kommunikation@efv.admin.ch</email>
-      <email lang="fr">kommunikation@efv.admin.ch</email>
-      <email lang="it">kommunikation@efv.admin.ch</email>
-      <email lang="en">info@efv.admin.ch</email>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="701" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+    <originator department-msg="yes" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -78,19 +78,19 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
@@ -106,19 +106,19 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -179,17 +179,11 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="1500" org-id="804">
-        <name lang="de">Verkehrspolitik</name>
-        <name lang="fr">Verkehrspolitik</name>
-        <name lang="it">Verkehrspolitik</name>
-        <name lang="en">Verkehrspolitik</name>
-      </keyword>
-      <keyword id="780" org-id="804">
-        <name lang="de">Luftfahrt</name>
-        <name lang="fr">Transport aérien public</name>
-        <name lang="it">Traffico aereo pubblico</name>
-        <name lang="en">Aviation</name>
+      <keyword id="110" org-id="603">
+        <name lang="de">Finanzen von Bund, Kantonen und Gemeinden</name>
+        <name lang="fr">Finances de la Confédération / cantons / communes</name>
+        <name lang="it">Finanze di Confederazione, Cantoni e Comuni</name>
+        <name lang="en">Finances of the Confederation / cantons / communes</name>
       </keyword>
     </keywords>
     <topics>

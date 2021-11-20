@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
+    <originator department-msg="yes" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
     </originator>
     <originator department-msg="no" id="405" lead="no" topnews="no">
       <department-id>401</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@sem.admin.ch</email>
       <email lang="en">info@sem.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="606" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidgenössische Zollverwaltung</name>
-      <name lang="fr">Administration fédérale des douanes</name>
-      <name lang="it">Amministrazione federale delle dogane</name>
-      <name lang="en">The Federal Customs Administration</name>
-      <www lang="de">http://www.ezv.admin.ch</www>
-      <www lang="fr">http://www.ezv.admin.ch</www>
-      <www lang="it">http://www.ezv.admin.ch</www>
-      <www lang="en">http://www.ezv.admin.ch</www>
-      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
-      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
-      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
-      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -78,20 +78,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="601">
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="fr">Département fédéral des finances</name>
@@ -105,6 +91,20 @@
       <email lang="fr">info@gs-efd.admin.ch</email>
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -152,17 +152,17 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="182" org-id="606">
-        <name lang="de">Grenzwachtkorps</name>
-        <name lang="fr">Corps des gardes-frontière</name>
-        <name lang="it">Guardie di confine</name>
-        <name lang="en">Border guard</name>
+      <keyword id="124" org-id="401">
+        <name lang="de">Zuwanderung</name>
+        <name lang="fr">Immigration</name>
+        <name lang="it">Immigrazione</name>
+        <name lang="en">Immigration</name>
       </keyword>
-      <keyword id="215" org-id="606">
-        <name lang="de">Zoll</name>
-        <name lang="fr">Douane</name>
-        <name lang="it">Dogana</name>
-        <name lang="en">Customs</name>
+      <keyword id="129" org-id="401">
+        <name lang="de">Pandemie</name>
+        <name lang="fr">Pandémie</name>
+        <name lang="it">Pandemia</name>
+        <name lang="en">Pandemic</name>
       </keyword>
     </keywords>
     <topics>
