@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="811" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Umwelt BAFU</name>
-      <name lang="fr">Office fédéral de l'environnement OFEV</name>
-      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
-      <name lang="en">Federal Office for the Environment FOEN</name>
-      <www lang="de">http://www.bafu.admin.ch</www>
-      <www lang="fr">http://www.bafu.admin.ch/fr</www>
-      <www lang="it">http://www.bafu.admin.ch/it</www>
-      <www lang="en">http://www.bafu.admin.ch/en</www>
-      <email lang="de">info@bafu.admin.ch</email>
-      <email lang="fr">info@bafu.admin.ch</email>
-      <email lang="it">info@bafu.admin.ch</email>
-      <email lang="en">info@bafu.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -265,17 +265,41 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
+      <keyword id="10" org-id="811">
+        <name lang="de">Abfall</name>
+        <name lang="fr">Dechets</name>
+        <name lang="it">Rifiuti</name>
+        <name lang="en">Waste</name>
       </keyword>
-      <keyword id="1600" org-id="804">
+      <keyword id="230" org-id="811">
+        <name lang="de">Chemikalien</name>
+        <name lang="fr">Produits chimiques</name>
+        <name lang="it">Prodotti chimici</name>
+        <name lang="en">Chemicals</name>
+      </keyword>
+      <keyword id="980" org-id="811">
+        <name lang="de">Recht</name>
+        <name lang="fr">Recht</name>
+        <name lang="it">Recht</name>
+        <name lang="en">Recht</name>
+      </keyword>
+      <keyword id="1600" org-id="811">
         <name lang="de">Umweltpolitik</name>
         <name lang="fr">Umweltpolitik</name>
         <name lang="it">Umweltpolitik</name>
         <name lang="en">Umweltpolitik</name>
+      </keyword>
+      <keyword id="700" org-id="811">
+        <name lang="de">Luft</name>
+        <name lang="fr">Air</name>
+        <name lang="it">Aria</name>
+        <name lang="en">Air</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
       </keyword>
     </keywords>
     <topics>

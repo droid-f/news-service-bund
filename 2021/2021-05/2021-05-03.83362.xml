@@ -19,21 +19,6 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="506" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">armasuisse</name>
-      <name lang="fr">Armasuisse</name>
-      <name lang="it">Armasuisse</name>
-      <name lang="en">Armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/</www>
-      <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
-      <email lang="de">info@armasuisse.ch</email>
-      <email lang="fr">info@armasuisse.ch</email>
-      <email lang="it">info@armasuisse.ch</email>
-      <email lang="en">info@armasuisse.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="506" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -96,29 +96,23 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5180" org-id="502">
+      <keyword id="5180" org-id="506">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5850" org-id="502">
+      <keyword id="5850" org-id="506">
         <name lang="de">Unterhalt / Instandhaltung</name>
         <name lang="fr">Entretien / Maintenance</name>
         <name lang="it">Manutenzione</name>
         <name lang="en">maintenance / upkeep</name>
       </keyword>
-      <keyword id="5900" org-id="502">
+      <keyword id="5900" org-id="506">
         <name lang="de">Flugbetrieb</name>
         <name lang="fr">Service de vol</name>
         <name lang="it">Esercizio di volo</name>
         <name lang="en">flight operations</name>
-      </keyword>
-      <keyword id="5017" org-id="502">
-        <name lang="de">Dossier RUAG</name>
-        <name lang="fr">Dossier RUAG</name>
-        <name lang="it">Dossier RUAG</name>
-        <name lang="en">Dossier RUAG</name>
       </keyword>
     </keywords>
     <topics>

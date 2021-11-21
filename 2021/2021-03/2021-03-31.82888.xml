@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="507" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
-      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
-      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
-      <name lang="en">Federal Office for Civil Protection</name>
-      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
-      <email lang="de">info@babs.admin.ch</email>
-      <email lang="fr">info@babs.admin.ch</email>
-      <email lang="it">info@babs.admin.ch</email>
-      <email lang="en">info@babs.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -106,17 +106,17 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5380" org-id="502">
+      <keyword id="5380" org-id="507">
         <name lang="de">Bevölkerungsschutz</name>
         <name lang="fr">Protection de la population</name>
         <name lang="it">Protezione della popolazione</name>
         <name lang="en">civil protection</name>
       </keyword>
-      <keyword id="5530" org-id="502">
+      <keyword id="5530" org-id="507">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
+        <name lang="en">federal policy, Federal Council(lor)</name>
       </keyword>
     </keywords>
     <topics>
