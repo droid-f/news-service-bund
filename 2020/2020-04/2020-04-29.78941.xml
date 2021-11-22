@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="810" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Kommunikation</name>
-      <name lang="fr">Office fédéral de la communication</name>
-      <name lang="it">Ufficio federale delle comunicazioni</name>
-      <name lang="en">Federal Office of Communications</name>
-      <www lang="de">http://www.bakom.admin.ch</www>
-      <www lang="fr">http://www.ofcom.admin.ch</www>
-      <www lang="it">http://www.ufcom.admin.ch</www>
-      <www lang="en">http://www.ofcom.admin.ch</www>
-      <email lang="de">media@bakom.admin.ch</email>
-      <email lang="fr">media@bakom.admin.ch</email>
-      <email lang="it">media@bakom.admin.ch</email>
-      <email lang="en">media@bakom.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="810" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Kommunikation</name>
+      <name lang="fr">Office fédéral de la communication</name>
+      <name lang="it">Ufficio federale delle comunicazioni</name>
+      <name lang="en">Federal Office of Communications</name>
+      <www lang="de">http://www.bakom.admin.ch</www>
+      <www lang="fr">http://www.ofcom.admin.ch</www>
+      <www lang="it">http://www.ufcom.admin.ch</www>
+      <www lang="en">http://www.ofcom.admin.ch</www>
+      <email lang="de">media@bakom.admin.ch</email>
+      <email lang="fr">media@bakom.admin.ch</email>
+      <email lang="it">media@bakom.admin.ch</email>
+      <email lang="en">media@bakom.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -242,23 +242,17 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
+      <keyword id="950" org-id="810">
+        <name lang="de">Radio- und Fernsehen</name>
+        <name lang="fr">Radio et télévision</name>
+        <name lang="it">Radio e televisione</name>
+        <name lang="en">Radio and television</name>
       </keyword>
-      <keyword id="940" org-id="804">
+      <keyword id="940" org-id="810">
         <name lang="de">Presse</name>
         <name lang="fr">Presse</name>
         <name lang="it">Stampa</name>
         <name lang="en">Press</name>
-      </keyword>
-      <keyword id="5050" org-id="804">
-        <name lang="de">Medien</name>
-        <name lang="fr">Medien</name>
-        <name lang="it">Medien</name>
-        <name lang="en">Medien</name>
       </keyword>
     </keywords>
     <topics>
