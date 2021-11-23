@@ -19,35 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="603" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidg. Finanzverwaltung</name>
-      <name lang="fr">Administration fédérale des finances</name>
-      <name lang="it">Amministrazione federale delle finanze</name>
-      <name lang="en">Federal Finance Administration</name>
-      <www lang="de">http://www.efv.admin.ch</www>
-      <www lang="fr">http://www.efv.admin.ch</www>
-      <www lang="it">http://www.efv.admin.ch</www>
-      <www lang="en">http://www.efv.admin.ch</www>
-      <email lang="de">kommunikation@efv.admin.ch</email>
-      <email lang="fr">kommunikation@efv.admin.ch</email>
-      <email lang="it">kommunikation@efv.admin.ch</email>
-      <email lang="en">info@efv.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="319" lead="no" topnews="no">
+    <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Sozialversicherungen</name>
-      <name lang="fr">Office fédéral des assurances sociales</name>
-      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
-      <name lang="en">Federal Social Insurance Office</name>
-      <www lang="de">http://www.bsv.admin.ch</www>
-      <www lang="fr">http://www.ofas.admin.ch</www>
-      <www lang="it">http://www.ufas.admin.ch</www>
-      <www lang="en">http://www.bsv.admin.ch</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
     <originator department-msg="no" id="703" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -64,20 +49,35 @@
       <email lang="it">info@seco.admin.ch</email>
       <email lang="en">info@seco.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="301" lead="no" topnews="no">
+    <originator department-msg="no" id="319" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="fr">Département fédéral de l'intérieur</name>
-      <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="en">Federal Department of Home Affairs</name>
-      <www lang="de">http://www.edi.admin.ch</www>
-      <www lang="fr">http://www.edi.admin.ch</www>
-      <www lang="it">http://www.edi.admin.ch</www>
-      <www lang="en">http://www.edi.admin.ch</www>
-      <email lang="de">info@gs-edi.admin.ch</email>
-      <email lang="fr">info@gs-edi.admin.ch</email>
-      <email lang="it">info@gs-edi.admin.ch</email>
-      <email lang="en">info@gs-edi.admin.ch</email>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="yes" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -92,20 +92,6 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
-    </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -134,6 +120,20 @@
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -251,31 +251,19 @@
       </revisions>
     </content>
     <offers>
-      <offer id="31" org-id="319">
-        <name lang="de">Sozialversicherung</name>
-        <name lang="fr">Assurances sociales</name>
-        <name lang="it">Assicurazioni sociali</name>
-        <name lang="en">Social Insurances</name>
-      </offer>
-      <offer id="36" org-id="319">
-        <name lang="de">Erwerbsersatzordnung / Mutterschaft</name>
-        <name lang="fr">Régime des allocations pour perte de gain / Maternité</name>
-        <name lang="it">Indennità per perdita di guadagno / Maternità</name>
-        <name lang="en">Income Compensation</name>
+      <offer id="2" org-id="603">
+        <name lang="de">Finanzpolitik</name>
+        <name lang="fr">Politique budgétaire</name>
+        <name lang="it">Politica finanziaria</name>
+        <name lang="en">Financial policy</name>
       </offer>
     </offers>
     <keywords>
-      <keyword id="318.1" org-id="319">
-        <name lang="de">Sozialversicherung</name>
-        <name lang="fr">Assurances sociales</name>
-        <name lang="it">Assicurazioni sociali</name>
-        <name lang="en">Social Insurances</name>
-      </keyword>
-      <keyword id="318.6" org-id="319">
-        <name lang="de">Erwerbsersatzordnung / Mutterschaft</name>
-        <name lang="fr">Régime des allocations pour perte de gain / Maternité</name>
-        <name lang="it">Indennità per perdita di guadagno / Maternità</name>
-        <name lang="en">Income Compensation</name>
+      <keyword id="110" org-id="603">
+        <name lang="de">Finanzen von Bund, Kantonen und Gemeinden</name>
+        <name lang="fr">Finances de la Confédération / cantons / communes</name>
+        <name lang="it">Finanze di Confederazione, Cantoni e Comuni</name>
+        <name lang="en">Finances of the Confederation / cantons / communes</name>
       </keyword>
     </keywords>
     <topics>
