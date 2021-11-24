@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86084" revoked="no">
+    <version>1</version>
+    <pubdate>2021-11-24</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="101" lead="no" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat will schweizweite Verschärfung der Massnahmen abwenden</title>
+      <lead>An seiner Sitzung vom 24. November 2021 hat der Bundesrat die aktuelle Lage der Pandemie vertieft analysiert. Er schätzt die epidemische Situation als kritisch ein. Angesichts der aktuell relativ tiefen Belastung der Intensivpflegestationen mit Covid-19-Patientinnen und -Patienten und der grossen regionalen Unterschiede hält er eine schweizweite Verschärfung der Massnahmen derzeit nicht für angezeigt. Er hält an der mit den Kantonen vereinbarten Zusammenarbeit fest, wonach bei regional unterschiedlicher Entwicklung der Pandemie die Kantone die notwendigen Massnahmen ergreifen. Mit kantonalen Massnahmen und der konsequenten Umsetzung der Basismassnahmen durch die Bevölkerung wie Abstand halten, Maske tragen, Lüften und Testen will der Bundesrat eine Überlastung der Spitäler möglichst verhindern.</lead>
+      <text link="no"> &lt;p&gt;Die Anzahl Neuinfektionen steigt seit Mitte Oktober 2021 markant an, vor allem bei den jüngeren Altersgruppen. Die täglichen Neuinfektionen haben einen neuen Jahreshöchststand erreicht und die exponentielle Entwicklung setzt sich fort. Die Zahl der Hospitalisationen steigt etwas verzögert ebenfalls kontinuierlich an, hauptsächlich bei den ältesten Bevölkerungsgruppen.&lt;/p&gt; &lt;p&gt;Grund für den Anstieg der Infektionen ist die Deltavariante. Sie ist viel ansteckender als frühere Virusvarianten und führt zu mehr schweren Krankheitsverläufen. Weil infizierte Personen häufiger und länger intensiv behandelt werden müssen, werden die Intensivstationen stärker belastet. Weitere Gründe sind die vergleichsweise tiefe Durchimpfung und der vermehrte Aufenthalt in Innenräumen während der kalten Jahreszeit.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Grosse regionale Unterschiede&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Im Unterschied zu früheren Phasen der Pandemie steigen die Zahlen je nach Region unterschiedlich stark. Die Zahl der 14-täglichen Infektionen pro 100'000 Einwohnerinnen und Einwohner ist in einigen Kantonen rund sechsmal höher als in den Kantonen mit tiefer Inzidenz. Auch bei den Hospitalisierungen sind grosse regionale Unterschiede festzustellen. Dabei zeigt sich ein deutlicher Zusammenhang zwischen der Impfquote und der epidemischen Lage.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Situation ist kritisch&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Angesichts der aktuell relativ tiefen Belastung der Intensivpflegestationen mit Covid-19-Patientinnen und -Patienten und der grossen regionalen Unterschiede, ist für den Bundesrat noch nicht der Moment für schweizweite Verschärfungen der Massnahmen gekommen.&lt;/p&gt;&lt;p&gt;Der Bundesrat schätzt die Situation aber als kritisch ein. Sie dürfte sich in den nächsten Wochen weiter verschärfen. Die erhöhte Viruszirkulation bei den jüngeren Altersgruppen dürfte zu einer erhöhten Übertragung des Virus auf die Risikogruppen und einem – möglicherweise sehr raschen – Anstieg der Hospitalisierungen führen. Der Bundesrat hält es für möglich, dass sich diese Entwicklung mit einer Verhaltensänderung der Bevölkerung und regionalen Verschärfungen der Massnahmen abwenden lässt.&lt;/p&gt; &lt;p&gt;Der Bundesrat hält an der vor Jahresfrist mit den Kantonen verabschiedeten Strategie fest: Bei regional ausgeprägten Anstiegen übernehmen die Kantone die Federführung und ergreifen Massnahmen, damit die Situation nicht ausser Kontrolle gerät. Im Vordergrund stehen dabei die Ausweitung der Maskenpflicht, namentlich auch in Schulen, die Home-Office-Pflicht oder Kapazitätsbeschränkungen. Einige Kantone haben bereits Massnahmen getroffen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Aufforderung zu repetitiven Tests&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Viele Kantone führen in den Schulen repetitive Tests durch und haben die Zertifikatspflicht für Mitarbeitende und Besuchende in Gesundheitseinrichtungen eingeführt. Der Bundesrat erinnert jene Kantone, die dies noch nicht getan haben, erneut daran, die Empfehlungen zu repetitiven Tests und zum Schutz von Heimen und Spitälern umzusetzen. Er fordert zudem die Kantone auf, die Spitalstrukturen auf eine erneute sehr hohe Belastung vorzubereiten – im Wissen, dass die Möglichkeiten dazu beschränkt sind. Weiter soll auch die Impfung weiter gefördert und die Auffrischimpfungen so rasch wie möglich durchgeführt werden. Besonders gefährdeten Personen müssen geschützt werden.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Basismassnahmen konsequent einhalten&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Schliesslich weist der Bundesrat auf die hohe Bedeutung der Basismassnahmen hin und fordert die Bevölkerung auf, diese konsequent umzusetzen. Dazu gehören Maske tragen, regelmässiges Lüften von Innenräumen, Handhygiene, Abstandhalten und sofortiges Testen bei Symptomen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Strategie mit Risiken&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Im Mai 2021 legte der Bundesrat nach Konsultation der Kantone seine Corona-Strategie fest. Darin geht er davon aus, dass alle Einwohnerinnen und Einwohner mit dem Virus in Kontakt kommen werden – geschützt mit der Impfung oder ungeschützt durch eine Infektion. Sobald die Bevölkerung ab 12 Jahren Zugang zur Impfung hat, richten sich die Massnahmen darauf aus, die Funktionsfähigkeit des Gesundheitssystems zu erhalten. Der Bundesrat ist sich bewusst, dass diese Strategie Risiken birgt: Es ist schwierig, ein hohes Infektionsgeschehen zuzulassen und gleichzeitig die Überlastung der Spitäler ganz auszuschliessen. Nur wenn die kantonalen Massnahmen und die Verhaltensänderungen nicht greifen sowie die Situation in den Spitälern dies erfordern, wird der Bundesrat schweizweit verschärfte Massnahmen in Konsultation schicken.&lt;/p&gt; </text>
+      <contact>Bundesamt für Gesundheit BAG media@bag.admin.ch Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92</contact>
+      <attachment id="223971">
+        <title>Schutzwirkung der Covid-19-Impfung</title>
+        <format>pdf</format>
+        <size-kb>119</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69227.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="223968">
+        <title>Situation Schweiz</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-351276632</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral renonce à un durcissement des mesures de lutte contre le COVID au plan national</title>
+      <lead>Lors de sa séance du 24 novembre 2021, le Conseil fédéral a analysé de manière approfondie la situation actuelle sur le front du coronavirus et la considère comme critique. L’occupation des lits de soins intensifs par des patients COVID-19 étant toutefois relativement faible à ce jour et les disparités régionales importantes, le Conseil fédéral juge pour l’instant inapproprié un durcissement des mesures de lutte contre la pandémie à l’échelle nationale. Il continue de miser sur la collaboration définie avec les cantons, selon laquelle c’est à ceux-ci de prendre les mesures qui s’imposent en cas de variations régionales. Pour éviter une surcharge des hôpitaux, le Conseil fédéral privilégie les solutions cantonales et la mise en œuvre systématique par la population des mesures de base comme le respect des distances, le port du masque, l’aération des locaux et le dépistage.</lead>
+      <text link="no">&lt;p&gt;Le nombre de nouvelles infections connaît une augmentation marquée depuis la mi-octobre, notamment chez les plus jeunes. Le nombre de nouvelles infections journalières a atteint un nouveau pic annuel et la hausse exponentielle se poursuit. Quant au nombre d’hospitalisations, il ne cesse d’augmenter aussi, avec un léger retard, principalement au niveau des classes d’âge les plus âgées.&lt;/p&gt;&lt;p&gt;Cette flambée des infections est due au variant Delta. Plus contagieux que les variants précédents, il est aussi à l’origine de formes plus graves de la maladie. Vu qu’il faut plus souvent traiter les personnes infectées et que les traitements durent plus longtemps, les unités de soins intensifs sont davantage mises à contribution. Parmi les autres facteurs, on peut citer la couverture vaccinale relativement peu élevée et le retour à l’intérieur en raison de l’hiver.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Des différences régionales marquées&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Contrairement aux phases précédentes de la pandémie, la hausse du chiffre des contaminations varie d’une région à l’autre. Ainsi, le nombre de nouveaux cas pour 100 000 habitants sur 14 jours est environ six fois plus élevé dans certains cantons que dans ceux où l’incidence est faible. Il en va de même pour les hospitalisations. À noter qu’on observe un lien clair entre la couverture vaccinale et la situation épidémiologique.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Une situation critique&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Au vu des grandes disparités régionales et de l’occupation à ce jour relativement faible des lits de soins intensifs par des patients COVID-19, le Conseil fédéral estime qu’il n’est pas l’heure de décréter un durcissement des mesures dans tout le pays.&lt;/p&gt;&lt;p&gt;Il évalue toutefois la situation comme critique et estime qu’elle devrait encore s’aggraver les prochaines semaines. La circulation renforcée du virus chez les jeunes devrait augmenter sa diffusion au sein des groupes de population vulnérables et entraîner une hausse – potentiellement très rapide – des hospitalisations. Le Conseil fédéral estime possible d’infléchir cette tendance si la population modifie son comportement et que les régions concernées durcissent leurs mesures de lutte contre la pandémie.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral reste convaincu de la stratégie définie l’année dernière avec les cantons : en cas de hausse régionale marquée, c’est à eux qu’il appartient de prendre la direction des opérations et les mesures nécessaires pour que la situation reste sous contrôle, en particulier étendre l’obligation de porter le masque, notamment dans les écoles, décréter le télétravail obligatoire ou restreindre les capacités d’accueil. Certains d’entre eux l’ont déjà fait.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Encouragement des tests répétés&lt;/b&gt;&lt;/p&gt;&lt;p&gt;De nombreux cantons font réaliser des tests répétés dans les écoles et ont introduit l’obligation de présenter un certificat COVID pour le personnel et les visites dans les établissements de soins. Le Conseil fédéral rappelle une nouvelle fois aux cantons qui ne l’ont pas encore fait qu’ils doivent recommander ce type de mesures. Il les appelle par ailleurs à préparer leurs structures hospitalières à faire face à une nouvelle charge très élevée, tout en sachant que les possibilités en la matière sont restreintes. Il s’agit en outre de continuer à promouvoir la vaccination et de procéder aux vaccinations de rappel aussi rapidement que possible. Il faut protéger les personnes vulnérables.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Respect systématique des mesures de base&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Enfin, le Conseil fédéral rappelle la grande importance des mesures de base comme porter un masque, aérer régulièrement, se laver les mains, garder ses distances et se faire tester immédiatement en cas de symptômes, et il appelle la population à les respecter systématiquement.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Une stratégie non sans risques&lt;/b&gt;&lt;/p&gt;&lt;p&gt;En mai 2021, le Conseil fédéral a défini sa stratégie de lutte contre le corononavirus après avoir consulté les cantons. Il y part du principe que l’ensemble de la population va entrer en contact avec le virus, soit de manière contrôlée par le biais du vaccin, soit par le biais d’une infection. À partir du moment où la population de plus de 12 ans a accès au vaccin, l’objectif est de garantir le bon fonctionnement du système de santé. Le Conseil fédéral est conscient que cette stratégie comporte des risques. Il est en effet difficile d’exclure complètement une surcharge des hôpitaux tout en tolérant des niveaux de contamination élevés. Il n’interviendra au niveau national en mettant en consultation un durcissement des mesures que si les mesures cantonales et le changement des comportements ne donnent pas de résultats. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique OFSP media@bag.admin.ch Infoline coronavirus : +41 58 463 00 00 Infoline sur la vaccination COVID-19 : +41 58 377 88 92</contact>
+      <attachment id="223972">
+        <title>Efficacité de la vaccination contre le COVID-19</title>
+        <format>pdf</format>
+        <size-kb>132</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69228.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="223969">
+        <title>situation en Suisse</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale intende evitare restrizioni a livello nazionale</title>
+      <lead>Nella sua seduta del 24 novembre 2021, il Consiglio federale ha analizzato in dettaglio la situazione epidemiologica giudicandola critica. Tenuto conto del tasso di occupazione al momento relativamente basso dei posti letto nei reparti di terapia intensiva con pazienti affetti da COVID-19 e delle grandi differenze regionali non ritiene attualmente opportune restrizioni a livello nazionale e conferma pertanto la collaborazione concordata con i Cantoni. In caso di differenze regionali nell’evoluzione della pandemia, spetta a questi ultimi adottare i provvedimenti necessari. Il Consiglio federale intende prevenire nel limite del possibile un sovraccarico degli ospedali con provvedimenti cantonali e chiedendo alla popolazione di seguire scrupolosamente le regole di base: tenersi a distanza, indossare la mascherina, arieggiare i locali e sottoporsi al test in caso di sintomi.</lead>
+      <text link="no"> &lt;p&gt;Dalla metà di ottobre le infezioni sono in netto aumento, soprattutto tra le fasce più giovani della popolazione. Il numero giornaliero di casi ha registrato un nuovo picco annuale e lo sviluppo esponenziale prosegue. Continuano ad aumentare, seppure con un certo ritardo, anche le ospedalizzazioni, soprattutto tra le persone più anziane.&lt;/p&gt; &lt;p&gt;La ragione dell’aumento è la variante Delta che, oltre a essere molto più contagiosa di quelle precedenti, può anche portare a decorsi più gravi della malattia. Dato che le persone infette necessitano più spesso e più a lungo di cure intensive, gli ospedali sono maggiormente sotto pressione. Altre ragioni sono la copertura vaccinale relativamente bassa e la maggiore permanenza al chiuso durante la stagione fredda.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Grandi differenze regionali&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Diversamente dalle precedenti fasi pandemiche, l’aumento dei casi varia da regione a regione. In alcuni Cantoni il tasso di infezione per 100 000 abitanti sull’arco di 14 giorni è di circa sei volte più elevato rispetto ai Cantoni con un’incidenza bassa. Si registrano anche grandi differenze regionali per quanto riguarda il numero dei ricoveri. Appare sempre più evidente il nesso tra tasso di vaccinazione e situazione epidemiologica.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Situazione critica&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Considerati il numero relativamente basso di pazienti COVID-19 ricoverati in terapia intensiva e le forti differenze regionali, il Consiglio federale ritiene al momento prematuro inasprire i provvedimenti a livello nazionale. A suo avviso, tuttavia, la situazione è critica e potrebbe acuirsi ulteriormente nelle prossime settimane. L’accresciuta circolazione virale nelle persone di età più giovane potrebbe portare a una maggiore trasmissione del virus ai gruppi a rischio e a un aumento, con ogni probabilità molto rapido, delle ospedalizzazioni. Secondo il Consiglio federale la tendenza può essere invertita con un cambiamento dei comportamenti della popolazione e un inasprimento dei provvedimenti a livello regionale.&lt;/p&gt; &lt;p&gt;Il Consiglio federale conferma la strategia adottata un anno fa congiuntamente ai Cantoni: in caso di aumento regionale dei contagi, è a loro che incombe la responsabilità di disporre i provvedimenti necessari per tenere sotto controllo la situazione. Tra questi, in primo luogo, l’estensione dell’obbligo della mascherina, in particolare nelle scuole, l’obbligo del telelavoro o limitazioni della capienza. Alcuni Cantoni hanno già reagito adottando i provvedimenti del caso.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Invito a effettuare test ripetuti&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Numerosi Cantoni effettuano test ripetuti nelle scuole e hanno introdotto l’obbligo del certificato per dipendenti e visitatori di strutture sanitarie. Il Consiglio federale rinnova ai Cantoni che non vi abbiano già provveduto l’invito ad attuare le raccomandazioni sui test ripetuti e sulla protezione delle case di cura e per anziani e degli ospedali. Li esorta inoltre a preparare le strutture ospedaliere a un nuovo, forte sovraccarico, nella consapevolezza che le possibilità sono limitate. Raccomanda loro altresì di continuare a promuovere la vaccinazione della popolazione e di accelerare la somministrazione del richiamo. Le persone particolarmente a rischio devono essere protette.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Invito a rispettare scrupolosamente le regole di base&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Infine, il Consiglio federale sottolinea l’importanza delle regole di igiene e di comportamento di base ed esorta la popolazione ad attenervisi scrupolosamente. Ne fanno parte l’uso della mascherina, l’aerazione frequente degli spazi chiusi, l’igiene delle mani, il rispetto della distanza e il test in caso di sintomi.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Rischi della strategia&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Nel maggio del 2021, dopo avere consultato i Cantoni, il Consiglio federale ha definito la sua strategia di gestione della COVID-19. Verosimilmente prima o poi tutti gli abitanti della Svizzera entreranno in contatto con il coronavirus – in modo «controllato» nel quadro della vaccinazione oppure in modo «incontrollato» a seguito di un’infezione. La strategia prevede che, non appena la popolazione di età superiore ai 12 anni avrà avuto accesso al vaccino, i provvedimenti di protezione saranno finalizzati a tutelare il funzionamento del sistema sanitario. Il Consiglio federale è consapevole dei rischi comportati da questa strategia: è difficile, infatti, accettare un numero elevato di infezioni e allo stesso tempo escludere del tutto un sovraccarico degli ospedali. Porrà pertanto in consultazione un inasprimento dei provvedimenti a livello nazionale soltanto se i provvedimenti cantonali e un cambiamento dei comportamenti non daranno i loro frutti e se la situazione negli ospedali lo richiederà. &lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP media@bag.admin.ch Infoline coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92</contact>
+      <attachment id="223973">
+        <title>Protezione offerta dalla vaccinazione anti-COVID-19</title>
+        <format>pdf</format>
+        <size-kb>122</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69229.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="223970">
+        <title>situazione in Svizzera</title>
+        <uri>https://www.bag.admin.ch/bag/it/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="109" org-id="317">
+        <name lang="de">2019-nCoV-DE</name>
+        <name lang="fr">2019-nCoV-FR</name>
+        <name lang="it">2019-nCoV-IT</name>
+        <name lang="en">2019-nCoV-EN</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="15">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">sanità</name>
+        <name lang="en">Health</name>
+      </topic>
+      <topic id="19">
+        <name lang="de">Medien</name>
+        <name lang="fr">Médias</name>
+        <name lang="it">Media</name>
+        <name lang="en">Media</name>
+      </topic>
+      <topic id="22">
+        <name lang="de">Parlament</name>
+        <name lang="fr">Parlement</name>
+        <name lang="it">Parlamento</name>
+        <name lang="en">Parliament</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Bund und Kantone</name>
+        <name lang="fr">Confédération et cantons</name>
+        <name lang="it">Confederazione e Cantoni</name>
+        <name lang="en">Confederation and Cantons</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
