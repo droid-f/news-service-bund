@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86092" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2021-11-24</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1079" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">info@blv.admin.ch</email>
       <email lang="it">info@blv.admin.ch</email>
       <email lang="en">info@blv.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1097" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Institut für Virologie und Immunologie</name>
+      <name lang="fr">Institut de virologie et d'immunologie</name>
+      <name lang="it">Istituto di virologia e immunologia</name>
+      <name lang="en">The Institute of Virology and Immunology</name>
+      <www lang="de">https://www.ivi.admin.ch</www>
+      <www lang="fr">https://www.ivi.admin.ch</www>
+      <www lang="it">https://www.ivi.admin.ch</www>
+      <www lang="en">https://www.ivi.admin.ch</www>
+      <email lang="de">info@ivi.admin.ch</email>
+      <email lang="fr">info@ivi.admin.ch</email>
+      <email lang="it">info@ivi.admin.ch</email>
+      <email lang="en">info@ivi.admin.ch</email>
     </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>

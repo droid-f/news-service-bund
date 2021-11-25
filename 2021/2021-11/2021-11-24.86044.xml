@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86044" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-11-24</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -49,6 +49,21 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="507" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BABS - Bundesamt für Bevölkerungsschutz</name>
+      <name lang="fr">OFPP - Office fédéral de la protection de la population</name>
+      <name lang="it">UFPP - Ufficio federale della protezione della popolazione</name>
+      <name lang="en">Federal Office for Civil Protection</name>
+      <www lang="de">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="fr">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="it">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <www lang="en">http://www.bevoelkerungsschutz.admin.ch/</www>
+      <email lang="de">info@babs.admin.ch</email>
+      <email lang="fr">info@babs.admin.ch</email>
+      <email lang="it">info@babs.admin.ch</email>
+      <email lang="en">info@babs.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -83,14 +98,14 @@
       <lead>Im VBS bestehen insbesondere wegen der erfolgten Weiterentwicklung der Armee (WEA) neue Bedürfnisse an die Bearbeitung von Personendaten in seinen Informationssystemen. Diese erfordern eine Anpassung der Rechtsgrundlagen. An seiner Sitzung vom 24. November 2021 hat der Bundesrat den Entwurf der Gesetzesanpassungen und die Botschaft zuhanden des Parlaments verabschiedet. </lead>
       <text link="no">&lt;p&gt;Mit der Weiterentwicklung der Armee (WEA) haben sich die Strukturen, die Organisation und die Prozesse in der Armee und in der Militärverwaltung grundlegend geändert. Dies führt dazu, dass die Rechtsgrundlagen für die Bearbeitung von Personendaten in militärischen Informationssystemen an die neuen Bedürfnisse angepasst werden müssen. Ausserhalb der Armee und der Militärverwaltung sind ebenfalls neue Bedürfnisse im Zusammenhang mit der Bearbeitung von Personendaten aufgetreten. Diese erfordern Anpassungen auch an nicht militärischen Informationssystemen des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).&lt;/p&gt;&lt;p&gt;Mit der beabsichtigten Teilrevision des Bundesgesetzes über die militärischen Informationssysteme (MIG) will der Bundesrat die datenschutzrechtlich nötigen Rechtsgrundlagen für diverse militärische und nicht militärische Informationssysteme des VBS, in denen Personendaten bearbeitet werden, ändern oder neu schaffen.&lt;/p&gt;&lt;p&gt;Den Entwurf der Gesetzesanpassungen und die Botschaft hat der Bundesrat an seiner Sitzung vom 24. November 2021 zuhanden des Parlaments verabschiedet.&lt;/p&gt;</text>
       <contact>Carolina Bohren Sprecherin VBS +41 58 467 00 24</contact>
-      <attachment id="223858">
+      <attachment id="224005">
         <title>Botschaft und Bundesgesetz: Militärische Informationssysteme</title>
         <format>pdf</format>
         <size-kb>928</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69142.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223860">
+      <attachment id="224007">
         <title>Bericht Ergebnisse Vernehmlassungsverfahren</title>
         <format>pdf</format>
         <size-kb>404</size-kb>
@@ -105,14 +120,14 @@
       <lead>Suite à la mise en œuvre du Développement de l’armée (DEVA), un changement doit être apporté au traitement des données personnelles figurant dans les systèmes d’information du DDPS. Une adaptation des bases légales est donc requise. Lors de sa séance du 24 novembre 2021, le Conseil fédéral a adopté le projet de modification législative et le message destiné au Parlement.</lead>
       <text link="no">&lt;p&gt; Le Développement de l’armée (DEVA) a fondamentalement changé les structures, l’organisation et les processus de l’armée et de l’administration militaire. Les bases légales régissant le traitement des données personnelles au moyen des systèmes d’information de l’armée doivent donc être adaptées pour satisfaire de nouveaux besoins. Il en va de même hors de l’armée et de l’administration militaire. Par conséquent, il convient également d’apporter des changements à d’autres systèmes d’information du Département fédéral de la défense, de la protection de la population et des sports (DDPS).&lt;/p&gt;&lt;p&gt;Avec la révision partielle de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée (LSIA), le Conseil fédéral prévoit de modifier ou de créer les bases légales voulues par la législation sur la protection des données, qui concernent les systèmes d’information du DDPS traitant des données personnelles.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral a adopté le projet de modification législative et le message destiné au Parlement lors de sa séance du 24 novembre 2021.&lt;/p&gt;</text>
       <contact>Carolina Bohren Porte-parole DDPS +41 58 467 00 24</contact>
-      <attachment id="223859">
+      <attachment id="224006">
         <title>Message et loi fédérale: systèmes d’information de l’armée</title>
         <format>pdf</format>
         <size-kb>908</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69143.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223861">
+      <attachment id="224008">
         <title>Rapport sur les résultats de la procédure de consultation</title>
         <format>pdf</format>
         <size-kb>488</size-kb>
@@ -127,14 +142,14 @@
       <lead>In seno al DDPS vi sono nuove esigenze per quanto riguarda il trattamento dei dati personali nei suoi sistemi d’informazione, in particolare in seguito all’ulteriore sviluppo dell’esercito (USEs). Queste richiedono un adeguamento delle basi giuridiche. Nella sua seduta del 24 novembre 2021 il Consiglio federale ha adottato il disegno delle modifiche di legge e il messaggio all’attenzione del Parlamento. </lead>
       <text link="no">&lt;p&gt;Con l’ulteriore sviluppo dell’esercito (USEs) le strutture, l’organizzazione e i processi in seno all’esercito e all’amministrazione militare sono profondamente mutati. Di conseguenza, le basi giuridiche per il trattamento dei dati personali nei sistemi d’informazione militari devono essere adeguate alle nuove esigenze. Al di fuori dell’esercito e dell’amministrazione militare sono altresì emerse nuove esigenze in materia di trattamento dei dati personali, che richiedono anche adeguamenti dei sistemi d’informazione non militari del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS). &lt;/p&gt;&lt;p&gt;Con la prevista revisione parziale della legge federale sui sistemi d’informazione militari (LSIM) il Consiglio federale intende modificare o ricreare le basi giuridiche necessarie in materia di diritto della protezione dei dati per diversi sistemi d’informazione militari e non militari del DDPS in cui sono trattati dati personali.&lt;/p&gt;&lt;p&gt;Nella sua seduta del 24 novembre 2021 il Consiglio federale ha adottato il disegno delle modifiche di legge e il messaggio all’attenzione del Parlamento.&lt;/p&gt;</text>
       <contact>Carolina Bohren Portavoce del DDPS +41 58 467 00 24</contact>
-      <attachment id="223858">
+      <attachment id="224005">
         <title>Botschaft und Bundesgesetz: Militärische Informationssysteme</title>
         <format>pdf</format>
         <size-kb>928</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69142.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="223860">
+      <attachment id="224007">
         <title>Bericht Ergebnisse Vernehmlassungsverfahren</title>
         <format>pdf</format>
         <size-kb>404</size-kb>
