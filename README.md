@@ -4,7 +4,7 @@ The Swiss Federal Chancellery manages the Swiss Government News portal[^1]. This
 ## Changes with respect to the original data
 Data is provided _as is_, XML are crawled and committed to this repository at least once per day.
 
-It is important to note that press releases are not always translated into all languages. When not fully translated, editors often copy the text or a portion of the text in one language into the space intended for other languages. In the ``/updates.json`` file, you can find a guess of the languagesd available in the press release. In case the guess is not secure, ``languages`` is left empty ``[]``.
+It is important to note that press releases are not always translated into all languages. When not fully translated, editors often copy the text or a portion of the text in one language into the space intended for other languages. In the ``/updates.json`` file, you can find a guess of the languages available in the press release. In case the guess is not good enough, ``languages`` is left empty ``[]``.
 
 Moreover: 
 - XML objects are prettified in order to take advantage of git in case of changes or revisions.
