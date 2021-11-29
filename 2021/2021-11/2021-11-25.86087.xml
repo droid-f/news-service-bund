@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86087" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-11-25</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -34,35 +49,6 @@
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,34 +63,53 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Alpenquerender Güterverkehr: Bundesrat will Verlagerung auf die Schiene weiter stärken</title>
       <lead>Die Verlagerung des alpenquerenden Güterverkehrs von der Strasse auf die Schiene hat in den letzten zwei Jahren weitere Fortschritte gemacht: Der Anteil der Schiene ist auf den höchsten Stand seit 25 Jahren gestiegen, während die Lastwagenfahrten auf rund 900'000 pro Jahr gesunken sind. Das Verlagerungsziel von 650'000 Fahrten wird allerdings weiterhin verfehlt. Der Bundesrat will daher die Verlagerung weiter stärken, wie er an seiner Sitzung vom 24. November 2021 mit der Verabschiedung des Verlagerungsberichts beschlossen hat. Dazu sieht er zum Beispiel vor, die Leistungsabhängige Schwerverkehrsabgabe weiterzuentwickeln. </lead>
       <text link="no"> &lt;p&gt;Der Verlagerungsbericht 2021 zeigt, dass die Instrumente und Massnahmen der Verlagerungspolitik greifen: Die Neue Eisenbahn-Alpentransversale (NEAT), die Leistungsabhängige Schwerverkehrsabgabe (LSVA) und die Bahnreform haben massgeblich dazu beigetragen, die Schiene zu stärken und die Lastwagentransporte durch die Alpen zu reduzieren. Diese Entwicklung wird durch die vor einem Jahr erfolgte Inbetriebnahme des Ceneri-Basistunnel sowie den 4-Meter-Korridor auf der Gotthard-Basislinie weiter begünstigt: Einzelne Operateure haben in den ersten Monaten dieses Jahres bei grossprofiligen Transporten 25 Prozent neue Kunden gewonnen. &lt;/p&gt;&lt;p&gt;Das Verlagerungsziel von 650'000 Fahrten wird allerdings weiter verfehlt. Der Bundesrat hat daher mit der Verabschiedung des Verlagerungsberichts beschlossen, zusätzliche Massnahmen zu erarbeiten. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Weiterentwicklung LSVA und Klärung betreffend Rollende Landstrasse&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Zur Stärkung der Verlagerung will der Bundesrat die Leistungsabhängige Schwerverkehrsabgabe weiterentwickeln. Er zeigt zudem auf, wie es mit der Rollenden Landstrasse weitergehen wird.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Die LSVA war bis jetzt mit der Orientierung an den EURO-Abgasnormen darauf ausgerichtet, die Luftschadstoffe zu reduzieren. Das hat dazu beigetragen, dass die Lastwagenflotten laufend modernisiert worden sind. Der Bundesrat strebt nun eine schrittweise Neuorientierung der LSVA gemäss CO2-Ausstoss der Fahrzeuge an. Das stärkt den Klimaschutz. Der Bundesrat möchte zudem Klarheit schaffen zur Frage, wie lang Fahrzeuge mit alternativen Antrieben (Strom, Wasserstoff) von der LSVA befreit bleiben. Die Transportbranche braucht für die Umstellung ihrer Fahrzeugflotten Planungssicherheit. Der Bundesrat hat dem UVEK den Auftrag erteilt, bis Mitte 2023 eine Vernehmlassungsvorlage zur Weiterentwicklung der LSVA vorzulegen.&lt;/li&gt;&lt;li&gt;Die finanzielle Unterstützung für die Rollende Landstrasse (Rola), bei der ganze Lastwagen auf der Schiene durch die Schweiz transportiert werden, läuft bis Ende 2023. Der Bundesrat schlägt vor, sie bis 2028 mit jährlich rund 20 Millionen weiterzuführen. Das bestehende Rollmaterial lässt sich bis dann ohne grössere Investitionen weiter nutzen, zudem können die Angebote im unbegleiteten kombinierten Verkehr gestärkt werden. Die Rola soll dann Ende 2028 eingestellt werden. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mit dem nächsten Verlagerungsbericht will der Bundesrat analysieren, wo es entlang des Nord-Süd-Korridors ungenutztes Verlagerungspotenzial gibt. Erste Abklärungen zeigen, dass verschiedene Regionen noch über Potenzial für eine Verlagerung verfügen. In diesem Zusammenhang werden Massnahmen zur Stärkung des Binnen-, Import- und Export-Schienengüterverkehrs geprüft, wie sie auch in parlamentarischen Vorstössen gefordert werden.&lt;/p&gt;&lt;p&gt;Der Bund setzt sich zudem dafür ein, dass bei Baustellen entlang der NEAT-Zulaufstrecken genügend Umleitungskapazitäten geschaffen werden und diese Strecken auf zeitgemässe Zuglängen und –gewichte ausgerichtet werden. Dies dient dazu, das Potenzial der NEAT noch besser auszuschöpfen. Baustellen sowie eine unzureichende internationale Harmonisierung der Trassen erschweren dies heute.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Gefahrguttransporte über die Simplon-Passstrasse&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Im Nachgang zu einem parlamentarischen Vorstoss hat der Bundesrat in den Verlagerungsberichten 2017 und 2019 den Kanton Wallis und die im Wallis ansässige chemische Industrie aufgefordert, die Risiken von Gefahrguttransporten auf der Simplon-Passstrasse im Rahmen einer Selbstverpflichtung zu reduzieren. Die entsprechenden Arbeiten wurden aufgenommen. Der Bundesrat wird Ende 2022 eine Standortbeurteilung vornehmen und über das weitere Vorgehen entscheiden. &lt;/p&gt; </text>
       <contact>Bundesamt für Verkehr Medienstelle +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="223985">
+      <attachment id="224175">
         <title>Faktenblatt</title>
         <format>pdf</format>
         <size-kb>242</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69234.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224019">
+      <attachment id="224181">
         <title>Verlagerungsbericht</title>
         <format>pdf</format>
         <size-kb>3072</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69240.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223982">
+      <link id="224172">
         <title>UVEK: Verkehrsverlagerung</title>
         <uri>https://www.uvek.admin.ch/uvek/de/home/verkehr/verkehrsverlagerung.html</uri>
         <position>Context</position>
       </link>
-      <link id="223988">
+      <link id="224178">
         <title>BAV: Verlagerungsberichte</title>
         <uri>https://www.bav.admin.ch/bav/de/home/verkehrsmittel/eisenbahn/gueterverkehr/verlagerung/verlagerungsbericht.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="224184">
+        <title>Video: Medienkonferenz</title>
+        <uri>https://www.youtube.com/watch?v=npqOrHPYdq4</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -115,28 +120,33 @@
       <lead>Le transfert de la route au rail du transport transalpin de marchandises a continué de progresser ces deux dernières années : la part du rail a atteint sa valeur la plus élevée en 25 ans, tandis que le nombre de courses de camions est descendu à 900 000 par an. L’objectif de transfert de 650 000 courses n’est cependant toujours pas atteint. C’est pourquoi le Conseil fédéral entend renforcer le transfert. C’est ce qu’il a décidé en adoptant le rapport sur le transfert lors de sa réunion du 24 novembre 2021. Il prévoit par exemple de perfectionner la redevance sur le trafic des poids lourds liée aux prestations (RPLP).</lead>
       <text link="no"> &lt;p&gt;Le rapport sur le transfert 2021 montre que les instruments et les mesures de la politique de transfert déploient leurs effets : la nouvelle ligne ferroviaire à travers les Alpes (NLFA) et la réforme des chemins de fer ont contribué de manière déterminante à renforcer le rail et à diminuer les transports par camion à travers les Alpes. Cette évolution est encore favorisée depuis la mise en service du tunnel de base du Ceneri et du corridor 4 m sur la ligne ferroviaire du Saint-Gothard : au cours des premiers mois de cette année, divers opérateurs ont acquis 25 % de clients en plus dans le domaine des transports à grand gabarit.&lt;/p&gt;&lt;p&gt;L’objectif de transfert de 650 000 courses n’est toutefois pas encore atteint. En adoptant le rapport sur le transfert, le Conseil fédéral a décidé d’élaborer des mesures supplémentaires.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Avenir de la RPLP et de la chaussée roulante &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Afin de renforcer le transfert, le Conseil fédéral entend perfectionner la RPLP. Il présente aussi l’avenir de la chaussée roulante.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jusqu’ici, la RPLP était orientée sur les normes EURO relatives aux gaz d’échappement et visait ainsi à réduire les polluants atmosphériques. Cela a contribué à ce que les transporteurs modernisent leurs flottes de camions. Le Conseil fédéral vise maintenant une réorientation progressive de la RPLP en fonction des émissions de CO2 des véhicules afin de renforcer la protection climatique. De plus, il entend clarifier pour combien de temps les véhicules à propulsion alternative (électriques, à hydrogène) seront exemptés de la RPLP. Pour remplacer les parcs de véhicules, la branche des transports a besoin de sécurité de planification. Le Conseil fédéral a chargé le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) d’élaborer d’ici à la fin du premier semestre 2023 un projet à mettre en consultation sur le perfectionnement de la RPLP.&lt;/li&gt;&lt;li&gt;Le soutien financier de la chaussée roulante (CR), qui permet de transporter sur le rail des camions entiers à travers la Suisse, expirera à la fin de 2023. Le Conseil fédéral propose de prolonger ce financement jusqu’en 2028 à raison de 20 millions de francs par an. Le matériel roulant actuel pourra continuer d’être utilisé sans requérir d’investissements majeurs, et les offres en transport combiné non accompagné pourront être renforcées. Le subventionnement de la CR cessera fin 2028.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Dans son prochain rapport sur le transfert, le Conseil fédéral analysera les potentiels de transport inexploités le long du corridor nord-sud. Les premières vérifications montrent que différentes régions recèlent un potentiel de transfert. Dans ce contexte, il examinera des mesures visant à renforcer le transport ferroviaire de marchandises intérieur et d’import/export, telles qu’elles sont demandées dans des interventions parlementaires.&lt;/p&gt;&lt;p&gt;En outre, la Confédération s’engage pour que lors des chantiers sur les lignes d’accès à la NLFA, des capacités de contournement suffisantes soient créées et que ces tronçons soient adaptés à la longueur et au poids des trains actuels. Le but est de pouvoir exploiter encore mieux le potentiel de la NLFA. Les chantiers ainsi qu’une harmonisation internationale insuffisante des sillons rendent cette tâche difficile actuellement.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Marchandises dangereuses par la route du Simplon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Suite à une intervention parlementaire, le Conseil fédéral, dans les rapports sur le transfert 2017 et 2019, avait demandé au canton du Valais et à l’industrie chimique valaisanne de réduire les risques liés aux transports de marchandises dangereuses sur la route du col du Simplon dans le cadre d’un engagement volontaire. Les travaux à ce sujet ont été entamés. Fin 2022, le Conseil fédéral procédera à une évaluation de la situation et décidera de la suite des opérations.&lt;/p&gt; </text>
       <contact>Office fédéral de transports Service de presse +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="223986">
+      <attachment id="224176">
         <title>Fiche info</title>
         <format>pdf</format>
         <size-kb>242</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69235.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224020">
+      <attachment id="224182">
         <title>Rapport sur le transfert</title>
         <format>pdf</format>
         <size-kb>3897</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69241.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223983">
+      <link id="224173">
         <title>DETEC: Transfert du trafic</title>
         <uri>https://www.uvek.admin.ch/uvek/fr/home/transports/transfert-du-trafic.html</uri>
         <position>Context</position>
       </link>
-      <link id="223989">
+      <link id="224179">
         <title>OFT: Rapports sur le transfert</title>
         <uri>https://www.bav.admin.ch/bav/fr/home/modes-de-transport/chemin-de-fer/fret-ferroviaire/transfert/rapport-sur-le-transfert.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="224185">
+        <title>Vidéo: conférence de presse</title>
+        <uri>https://www.youtube.com/watch?v=npqOrHPYdq4</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -147,28 +157,33 @@
       <lead>Negli ultimi due anni il trasferimento del traffico merci transalpino dalla strada alla rotaia ha fatto registrare ulteriori progressi: la rotaia ha raggiunto la quota più elevata da 25 anni a questa parte, mentre i transiti di autocarri sono diminuiti a circa 900 000 l'anno. È stato tuttavia nuovamente mancato l'obiettivo di trasferimento di 650 000 transiti. Nella sua seduta del 24 novembre 2021, nell'ambito dell'adozione del rapporto sul trasferimento del traffico il Consiglio federale ha perciò deciso di potenziare ulteriormente il trasferimento prevedendo, tra le altre cose, un adeguamento della tassa sul traffico pesante commisurata alle prestazioni. </lead>
       <text link="no"> &lt;p&gt;Il rapporto sul trasferimento del traffico 2021 conferma l'efficacia degli strumenti e delle misure della politica di trasferimento: la nuova ferrovia transalpina (Alptransit), la tassa sul traffico pesante commisurata alle prestazioni (TTPCP) e la riforma delle ferrovie hanno contribuito in maniera determinante al potenziamento della rotaia e alla riduzione dei trasporti in autocarro attraverso le Alpi. Un'evoluzione, questa, ulteriormente favorita dalla galleria di base del Ceneri entrata in funzione un anno fa e dal corridoio di 4 metri realizzato sull'asse di base del San Gottardo: nei primi mesi di quest'anno singoli operatori hanno visto aumentare del 25 per cento il numero di clienti dei trasporti di grande profilo. &lt;/p&gt;&lt;p&gt;È stato tuttavia nuovamente mancato l'obiettivo di trasferimento di 650 000 transiti. Nell'ambito dell'adozione del rapporto sul trasferimento del traffico, il Consiglio federale ha perciò deciso di sviluppare misure aggiuntive. &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Adeguamento della TTPCP e chiarimenti in merito alla strada viaggiante&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Il Consiglio federale intende adeguare la TTPCP in modo da sostenere il trasferimento e traccia le linee su come procedere con la strada viaggiante.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;La TTPCP, basata sulle norme EURO sui gas di scarico al fine di ridurre gli inquinanti atmosferici, ha contribuito al progressivo ammodernamento del parco veicoli pesanti. Il Consiglio federale intende ora riorientarla gradualmente in funzione delle emissioni di CO2 degli autocarri, con conseguenti benefici per la protezione climatica. Vuole inoltre chiarire fino a quando esonerare dalla TTPCP i veicoli dotati di sistemi di propulsione alternativi (elettrico, idrogeno). Per la conversione del parco veicoli il settore dei trasporti necessita di certezza nella pianificazione. Il Consiglio federale ha incaricato il Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni (DATEC) di presentare entro metà 2023 un progetto da porre in consultazione in merito al riorientamento della tassa.&lt;/li&gt;&lt;li&gt;Il sostegno finanziario alla strada viaggiante (Rola), che consente il trasporto su rotaia di interi autocarri attraverso la Svizzera, scadrà a fine 2023. Il Consiglio federale propone di prorogarlo fino al 2028, con un versamento annuo di 20 milioni circa. Fino ad allora si potrà continuare a utilizzare l'attuale materiale rotabile senza necessità di grandi investimenti e si potranno potenziare le offerte nel traffico combinato non accompagnato. A fine 2028 l’offerta Rola sarebbe poi interrotta definitivamente. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nel prossimo rapporto sul trasferimento del traffico il Consiglio federale intende fornire un quadro sull'ulteriore potenziale di trasferimento disponibile lungo il corridoio nord-sud. Secondo una prima analisi diverse regioni presentano ancora margini in proposito. In questo contesto sarà valutata l'adozione di misure volte a potenziare il traffico merci su rotaia interno, d'importazione e d'esportazione, come richiesto anche da alcuni interventi parlamentari.&lt;/p&gt;&lt;p&gt;La Confederazione si adopera inoltre affinché lungo le tratte di accesso ad Alptransit siano create sufficienti capacità di deviazione in caso di cantieri, con possibilità di transito conformi alle esigenze attuali in fatto di lunghezza e peso dei treni. Questo favorirebbe infatti un migliore sfruttamento del potenziale di Alptransit, attualmente ostacolato dalla presenza di cantieri e da un'insufficiente armonizzazione delle tracce a livello internazionale.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trasporti di merci pericolose sul passo del Sempione&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nell'ambito dei rapporti sul trasferimento del traffico 2017 e 2019, dando seguito a un intervento parlamentare il Consiglio federale ha esortato il Cantone del Vallese e l'industria chimica locale a procedere, su base volontaria, alla riduzione dei rischi dei trasporti di merci pericolose sul passo del Sempione. A fine 2022 farà il punto dei lavori intrapresi a questo proposito e deciderà in merito ai prossimi passi. &lt;/p&gt; </text>
       <contact>Ufficio federale dei trasporti Informazione +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="223987">
+      <attachment id="224177">
         <title>Scheda informativa</title>
         <format>pdf</format>
         <size-kb>237</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69236.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224021">
+      <attachment id="224183">
         <title>Rapporto sul trasferimento del traffico</title>
         <format>pdf</format>
         <size-kb>2819</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69242.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="223984">
+      <link id="224174">
         <title>DATEC: Trasferimento del traffico</title>
         <uri>https://www.uvek.admin.ch/uvek/it/home/trasporti/trasferimento-del-traffico.html</uri>
         <position>Context</position>
       </link>
-      <link id="223990">
+      <link id="224180">
         <title>UFT: Rapporti sul trasferimento del traffico</title>
         <uri>https://www.bav.admin.ch/bav/it/home/modi-di-trasporto/ferrovia/traffico-merci/trasferimento-del-traffico/rapporto-sul-trasferimento-del-traffico.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="224186">
+        <title>Video: conferenza stampa</title>
+        <uri>https://www.youtube.com/watch?v=npqOrHPYdq4</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -224,12 +239,6 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
       <topic id="46">
         <name lang="de">Verkehr</name>
         <name lang="fr">Transports</name>

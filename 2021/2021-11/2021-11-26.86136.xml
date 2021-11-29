@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86136" revoked="no">
-    <version>2</version>
+    <version>5</version>
     <pubdate>2021-11-26</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1079" lead="yes" topnews="no">
@@ -18,21 +18,6 @@
       <email lang="fr">info@blv.admin.ch</email>
       <email lang="it">info@blv.admin.ch</email>
       <email lang="en">info@blv.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="1097" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Institut für Virologie und Immunologie</name>
-      <name lang="fr">Institut de virologie et d'immunologie</name>
-      <name lang="it">Istituto di virologia e immunologia</name>
-      <name lang="en">The Institute of Virology and Immunology</name>
-      <www lang="de">https://www.ivi.admin.ch</www>
-      <www lang="fr">https://www.ivi.admin.ch</www>
-      <www lang="it">https://www.ivi.admin.ch</www>
-      <www lang="en">https://www.ivi.admin.ch</www>
-      <email lang="de">info@ivi.admin.ch</email>
-      <email lang="fr">info@ivi.admin.ch</email>
-      <email lang="it">info@ivi.admin.ch</email>
-      <email lang="en">info@ivi.admin.ch</email>
     </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -54,33 +39,26 @@
       <lead>Eine hochansteckende Variante der Aviären Influenza (Vogelgrippe) war die Ursache für den Tod von Geflügel in einem Hobbybetrieb im Zürcher Unterland. Dies ergaben die Untersuchungen des Instituts für Virologie und Immunologie IVI. Nun ergreift das Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV zusammen mit den Kantonen gesamtschweizerische Schutzmassnahmen, um die weitere Ausbreitung der Vogelgrippe zu verhindern.</lead>
       <text link="no">&lt;p&gt;In den Geflügelbetrieben in den Gemeinden rund um den Seuchenbetrieb in Hüntwangen gelten ab Samstag die höchsten Sicherheitsbestimmungen. Betroffen sind auch Teile von Gemeinden der Kantone Aargau und Schaffhausen. In diesen sogenannten Schutz- und Überwachungszonen führen die Veterinärdienste Untersuchungen zum Seuchenstatus des Geflügels durch. Eier oder Geflügel dürfen in den Zonen nur unter strengen Auflagen und mit Bewilligung transportiert werden. Geflügelmärkte und -ausstellungen sind in den Zonen verboten. Die Zonen bleiben für mindestens drei Wochen bestehen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kontroll- und Beobachtungsgebiete&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Da sich die Vogelgrippe auch in den umliegenden Ländern ausbreitet, ergreift das BLV zu-sammen mit den Kantonen präventive Massnahmen in allen Teilen der Schweiz. Im Fokus stehen dabei die Wildvögel, die die Seuche einschleppen. Aus diesem Grund werden ab Montag die Uferstreifen im Abstand von ein bzw. drei Kilometern um alle grossen Gewäs-ser im Schweizer Mittelland zu sogenannten Kontroll- und Beobachtungsgebieten. In die-sen Zonen gelten besondere Vorschriften für die Fütterung und den Auslauf. In den Kon-trollzonen dürfen Hühner, Gänse oder anderes Hausgeflügel nur noch unter Auflagen ins Freie, zum Beispiel in Aussenräume mit einem dichten Dach und vergitterten Seitenwänden oder auf Auslaufflächen, die mit einem Netz vor Wildvögeln geschützt sind. Gänse oder Laufvögel sind zudem von Hühnern getrennt zu halten.&lt;/p&gt;&lt;p&gt;Diese Massnahmen gelten mindestens bis Ende Januar. Direktzahlungen für «besonders tierfreundliche Haltung» werden weiterhin ausbezahlt.&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Keine Gefahr für den Menschen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;Nach heutigem Wissensstand ist der Virusstamm nicht auf Menschen übertragbar.&lt;br /&gt;Der Verzehr von Geflügelfleisch oder Eiern ist unbedenklich.&lt;/p&gt;</text>
       <contact>Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Medienstelle Tel. 058 463 78 98 media@blv.admin.ch</contact>
-      <attachment id="224131">
+      <attachment id="224212">
         <title>Schutz- und Überwachungszone</title>
         <format>jpg</format>
         <size-kb>913</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69271.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224133">
+      <attachment id="224214">
         <title>Erläuterungen zur Verordnung BLV vom 25.11.2021 Aviäre Influenza</title>
         <format>pdf</format>
         <size-kb>112</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69276.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224140">
-        <title>Kontroll- und Beobachtungsgebiete</title>
-        <format>png</format>
-        <size-kb>253</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69277.png</uri>
-        <position>Context</position>
-      </attachment>
-      <link id="224134">
+      <link id="224215">
         <title>Vogelgrippe beim Tier</title>
         <uri>https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai.html</uri>
         <position>Context</position>
       </link>
-      <link id="224137">
+      <link id="224218">
         <title>Verordnung des BLV vom 26. November 2021 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2021/777/de</uri>
         <position>Context</position>
@@ -93,33 +71,26 @@
       <lead>Les analyses réalisées par l’Institut de virologie et d’immunologie (IVI) ont révélé qu’un variant hautement contagieux de la grippe aviaire (influenza aviaire) était à l’origine de la mort des volailles chez un éleveur amateur de l’Unterland zurichois. De concert avec les cantons, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires prend des mesures de protection à l’échelle nationale pour éviter que le virus de la grippe aviaire ne se propage.</lead>
       <text link="no">&lt;p&gt;Des règles de sécurité très strictes seront appliquées à partir de samedi dans les exploitations de volailles des communes situées autour de l’unité d’élevage infectée de Hüntwangen. Des parties de communes des cantons d’Argovie et de Schaffhouse y seront également soumises. Dans ces zones dites de protection et de surveillance, les services vétérinaires effectueront des analyses pour déterminer le statut épizootique des volailles. Le transport des oeufs et des volailles dans ces zones ne sera possible qu’à des conditions très restrictives et uniquement sur autorisation. Les marchés et les expositions de volaille seront interdits dans ces zones. Ces dernières seront maintenues au moins pendant trois semaines.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Régions de contrôle et d’observation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Étant donné que la grippe aviaire se propage également dans les pays environnants, l’OSAV prend des mesures préventives pour l’ensemble du territoire national, en collaboration avec les cantons. Les oiseaux sauvages, responsables de l’introduction de l’épizootie en Suisse, sont particulièrement visés par ces mesures. À partir de lundi, des régions de contrôle et d’observation d’une largeur respectivement de 1 km et 3 km seront instituées le long de tous les grands cours d’eau du Plateau suisse. Dans ces régions, l’alimentation des animaux et leur sortie sont soumises à des dispositions particulières. Dans les régions de contrôle, les poules, les oies et autres volailles domestiques ne peuvent sortir qu’à certaines conditions, par exemple dans des locaux extérieurs munis d’un toit étanche et de parois latérales grillagées ou sur des aires de sortie protégées des oiseaux sauvages par un filet. Les oies et oiseaux coureurs doivent par ailleurs être détenus séparément des poules.&lt;/p&gt;&lt;p&gt;Ces mesures seront applicables au moins jusqu’au 31 janvier 2022. Les paiements directs pour les systèmes de stabulation particulièrement respectueux des animaux continueront d’être versés.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Aucun danger pour l’être humain&lt;/b&gt;&lt;/p&gt;&lt;p&gt;D’après les connaissances actuelles, la souche virale n’est pas transmissible à l’être humain.&lt;br /&gt;La consommation de viande de volaille ou d’oeufs est sans risque. &lt;/p&gt;</text>
       <contact>Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Service médias Tél. 058 463 78 98 media@blv.admin.ch</contact>
-      <attachment id="224132">
+      <attachment id="224213">
         <title>Zones de protection et surveillance</title>
         <format>jpg</format>
         <size-kb>916</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69273.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224133">
-        <title>Erläuterungen zur Verordnung BLV vom 25.11.2021 Aviäre Influenza</title>
+      <attachment id="224222">
+        <title>Rapport explicatif conernant l'Ordonnance de l'OSAV du 25.11.2021 influenza aviaire</title>
         <format>pdf</format>
-        <size-kb>112</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69276.pdf</uri>
+        <size-kb>119</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69301.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224141">
-        <title>Régions de contrôle et d’observation</title>
-        <format>png</format>
-        <size-kb>253</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69278.png</uri>
-        <position>Context</position>
-      </attachment>
-      <link id="224135">
+      <link id="224216">
         <title>Grippe aviaire chez l’animal</title>
         <uri>https://www.blv.admin.ch/blv/fr/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai.html</uri>
         <position>Context</position>
       </link>
-      <link id="224138">
+      <link id="224219">
         <title>Ordonnance de l’OSAV du 26 novembre 2021 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2021/777/fr</uri>
         <position>Context</position>
@@ -132,33 +103,26 @@
       <lead>Una variante altamente contagiosa dell’influenza aviaria ha causato la morte di animali in un allevamento avicolo amatoriale nell’Unterland zurighese: è quanto emerso dalle analisi dell’Istituto di virologia e di immunologia (IVI). Insieme ai Cantoni, l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) sta adottando misure di protezione in tutta la Svizzera per prevenirne l’ulteriore diffusione.</lead>
       <text link="no">&lt;p&gt;A partire da sabato nelle aziende avicole nei Comuni intorno all’allevamento infetto di Hüntwangen si applicheranno le massime disposizioni di sicurezza. Sono colpite anche parti di Comuni nei Cantoni di Argovia e Sciaffusa. In queste cosiddette zone di protezione e sorveglianza i servizi veterinari effettuano analisi sullo stato sanitario del pollame. Le uova e il pollame possono essere trasportati nelle zone solo a severe condizioni e previa autorizzazione. In queste zone, che rimangono in vigore per almeno tre settimane, sono vietati i mercati e le esposizioni di pollame.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Zone di controllo e di osservazione&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Poiché l’influenza aviaria si sta diffondendo anche nei Paesi limitrofi, l’USAV, insieme ai Cantoni, sta prendendo misure preventive in tutte le regioni della Svizzera. L’attenzione si concentra sugli uccelli selvatici, che introducono l’epizoozia. Per questo motivo, da lunedì, le aree rivierasche nel raggio di uno o tre chilometri intorno a tutti i grandi insiemi di acque dell’Altopiano svizzero saranno mutate in cosiddette zone di controllo e di osservazione. In queste zone si applicano prescrizioni particolari per l’alimentazione e l’uscita degli animali. Nelle zone di controllo, polli, oche o altro pollame da cortile possono uscire all’aperto solo a determinate condizioni, ad esempio in aree esterne con una tettoia impermeabile e pareti laterali grigliate o in aree di uscita protette dagli uccelli selvatici con una rete. Inoltre, le oche e i ratiti devono essere tenuti separati dai polli.&lt;/p&gt;&lt;p&gt;Queste misure si applicano almeno fino alla fine di gennaio. I pagamenti diretti per «sistemi di stabulazione particolarmente rispettosi degli animali» continueranno a essere versati.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nessun pericolo per l’essere umano&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;Secondo le conoscenze attuali, il ceppo virale non è trasmissibile all’essere umano.&lt;br /&gt;Il consumo di carne di pollame e uova non costituisce alcun pericolo.&lt;/p&gt;</text>
       <contact>Ufficio federale della sicurezza alimentare e di veterinaria USAV Servizio stampa Tel. 058 463 78 98 media@blv.admin.ch</contact>
-      <attachment id="224133">
+      <attachment id="224214">
         <title>Erläuterungen zur Verordnung BLV vom 25.11.2021 Aviäre Influenza</title>
         <format>pdf</format>
         <size-kb>112</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69276.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224142">
-        <title>Zone di controllo e di osservazione</title>
-        <format>png</format>
-        <size-kb>253</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69279.png</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="224143">
+      <attachment id="224221">
         <title>Zone di protezione e sorveglianza</title>
         <format>jpg</format>
         <size-kb>916</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69280.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="224136">
+      <link id="224217">
         <title>Influenza aviaria (AI) nell’animale</title>
         <uri>https://www.blv.admin.ch/blv/it/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai.html</uri>
         <position>Context</position>
       </link>
-      <link id="224139">
+      <link id="224220">
         <title>Ordinanza dell’USAV del 26 novembre 2021 che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2021/777/it</uri>
         <position>Context</position>
