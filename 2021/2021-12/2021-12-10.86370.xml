@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86370" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-12-10</pubdate>
     <type>Memorandum</type>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
       <department-id>1070</department-id>
       <name lang="de">Der Bundesrat</name>
@@ -33,6 +18,21 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="810" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,6 @@
       <email lang="it">media@bakom.admin.ch</email>
       <email lang="en">media@bakom.admin.ch</email>
     </originator>
-    <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,41 +63,62 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Höhere Internet-Geschwindigkeit in der Grundversorgung</title>
       <lead>Bevölkerung und Wirtschaft sind darauf angewiesen, in allen Landesteilen Zugang zu zuverlässigen und leistungsfähigen Breitbanddiensten zu haben. Der Bundesrat möchte daher die Internet-Geschwindigkeit in der Grundversorgung ausbauen. Ab 2024 soll sie einen Hochbreitband-Zugang von 80 bzw. 8 Mbit/s umfassen. Dies soll in der Verordnung über die Fernmeldedienste verankert werden. Der Bundesrat hat an seiner Sitzung vom 10. Dezember 2021 die Vernehmlassung für eine entsprechende Revision eröffnet. Er erfüllt damit Forderungen von Parlament und Kantonen. </lead>
       <text link="no"> &lt;p&gt;Die Corona-Pandemie mit vermehrter Arbeit im Home-Office oder mit Homeschooling hat verdeutlicht, wie wichtig zuverlässige und leistungsfähige Breitbanddienste sind. Das gilt für alle Bevölkerungskreise in allen Regionen der Schweiz. Der Bundesrat will darum das Breitband-Angebot punktuell ausbauen und in der Grundversorgungskonzession entsprechend verankern: Ab 2024 soll ein Internetanschluss mit einer Down- und Upload-Geschwindigkeit von 80 Mbit bzw. 8 Mbit pro Sekunde das bisherige Mindestangebot von 10/1 Mbit/s ergänzen. Das kommt jenen zugute, die in Gebieten wohnen, in denen keine entsprechenden Angebote auf dem Markt erhältlich sind.&lt;/p&gt;&lt;p&gt;Um den Umfang der Versorgung anzupassen, braucht es eine Revision der Verordnung über die Fernmeldedienste (FDV). Die Verordnungsanpassung sieht neu explizit das Prinzip der Subsidiarität vor. Stellt der Markt bereits eine Alternative bereit, ist kein Grundversorgungsangebot vorgesehen. Zudem sind angemessene Umsetzungsfristen vorgesehen. Der Bundesrat hat die Vernehmlassung dazu am 10. Dezember 2021 eröffnet. Sie läuft bis zum 25. März 2022.&lt;/p&gt;&lt;p&gt;Die Grundversorgung wird zurzeit durch die Swisscom erbracht. Ihre Konzession läuft Ende 2022 aus. Da die Umsetzung der neuen Bestimmungen und die anschliessende Vergabe der neuen Grundversorgungskonzession zusätzlich Zeit beanspruchen, steht das UVEK mit der Eidgenössischen Kommunikationskommission (ComCom) in Kontakt, damit keine Lücke bei der Erbringung der Grundversorgung entsteht. So kann die ComCom die geltende Konzession geeignet verlängern. &lt;/p&gt;&lt;p&gt;Der landesweite Breitband-Ausbau entspricht einem Anliegen, das mit Vorstössen auch vom Parlament sowie den Kantonen vorgebracht worden ist. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Umfang der Grundversorgung&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;Die Grundversorgung im Fernmeldebereich umfasst den öffentlichen Telefondienst, einen Internetzugangsdienst und besondere Dienste für Menschen mit einer Behinderung. Ihr Ziel ist es, allen Bevölkerungskreisen ein preiswertes und zuverlässiges Angebot von grundlegenden Fernmeldediensten in allen Landesteilen zur Verfügung zu stellen. Swisscom hat seit der Liberalisierung des Fernmeldemarktes im Jahr 1998 die Grundversorgung sichergestellt. &lt;/p&gt; </text>
       <contact>Bundesamt für Kommunikation BAKOM Medienstelle +41 58 460 55 50, media@bakom.admin.ch</contact>
-      <attachment id="224882">
+      <attachment id="225099">
         <title>Faktenblatt</title>
         <format>pdf</format>
         <size-kb>146</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69499.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224900">
+      <attachment id="225102">
         <title>Verordnung über Fernmeldedienste</title>
         <format>pdf</format>
         <size-kb>122</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69508.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224903">
+      <attachment id="225105">
         <title>Erläuterungsbericht</title>
         <format>pdf</format>
         <size-kb>138</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69511.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224906">
+      <attachment id="225108">
         <title>Analyse</title>
         <format>pdf</format>
         <size-kb>176</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69514.pdf</uri>
         <position>Context</position>
       </attachment>
-      <revisions> </revisions>
+      <link id="225111">
+        <title>Video: Medienkonferenz</title>
+        <uri>https://www.youtube.com/watch?v=2TFtr2LhzEI</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-12-13 11:00" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -119,35 +126,42 @@
       <lead>La population et l'économie doivent disposer, dans toutes les régions du pays, d'un accès à haut débit fiable et performant. C'est pourquoi le Conseil fédéral souhaite accroître la vitesse de connexion internet dans le service universel. Dès 2024, le service universel comprendra un accès à très haut débit de 80 et 8 Mbit/s, qui devrait être ancré dans l'ordonnance sur les services de télécommunication. Dans sa séance du 10 décembre 2021, le Conseil fédéral a lancé la consultation sur la révision de l'ordonnance. Il répond ainsi à des demandes répétées du Parlement et des cantons.</lead>
       <text link="no"> &lt;p&gt;La pandémie de coronavirus, qui a entraîné une augmentation du télétravail et de l'école à distance, a mis en évidence l'importance de services à haut débit fiables et performants, pour toutes les catégories de la population et dans toutes les régions du pays. Le Conseil fédéral souhaite développer ponctuellement l'offre à haut débit et l'intégrer dans la concession de service universel. Dès 2024, un raccordement internet garantissant une vitesse de téléchargement et de téléversement de 80 Mbit et de 8 Mbit par seconde viendra compléter l'actuelle offre minimale du 10/1 Mbit/s. La nouvelle offre profitera en particulier aux personnes qui vivent dans des régions où il n'existe pas d'offres équivalentes sur le marché.&lt;/p&gt; &lt;p&gt;Une révision de l'ordonnance sur les services de télécommunication (OST) est nécessaire. L'adaptation de l'ordonnance prévoit désormais explicitement le principe de subsidiarité. Si une alternative est déjà disponible sur le marché, aucune offre de service universel n'est envisagée. Des délais de mise en œuvre raisonnables sont en outre prévus. Le Conseil fédéral a lancé la consultation le 10 décembre 2021. Elle court jusqu'au 25 mars 2022.&lt;/p&gt; &lt;p&gt;Le service universel est fourni actuellement par Swisscom, dont la concession expire fin 2022. Comme la mise en œuvre des nouvelles dispositions et l'octroi ultérieur de la concession de service universel nécessitent un délai supplémentaire, le DETEC est en contact avec la Commission fédérale de la communication (ComCom) afin d'éviter toute lacune dans la fourniture du service universel. La ComCom peut donc prolonger la concession en vigueur de manière adéquate.&lt;/p&gt; &lt;p&gt;Le déploiement de l'internet à haut débit partout en Suisse répond à un souhait exprimé par le Parlement et les cantons à travers plusieurs interventions. &lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Etendue du service universel&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;Le service universel dans le domaine des télécommunications comprend le service téléphonique public, un service d'accès à l'internet et des services particuliers pour les personnes souffrant de handicap. Son objectif est de permettre à toutes les catégories de la population de disposer, et dans toutes les régions du pays, d'une offre de services de télécommunication de base fiable, à prix avantageux. Swisscom assure le service universel depuis la libéralisation du marché des télécommunications en 1998.&lt;/p&gt; </text>
       <contact>Office fédéral de la communication OFCOM Service de presse +41 58 460 55 50, media@bakom.admin.ch</contact>
-      <attachment id="224883">
+      <attachment id="225100">
         <title>Fiche d'information</title>
         <format>pdf</format>
         <size-kb>144</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69500.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224901">
+      <attachment id="225103">
         <title>Ordonnance sur les services de telecommunication</title>
         <format>pdf</format>
         <size-kb>117</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69509.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224904">
+      <attachment id="225106">
         <title>Rapport explicatif</title>
         <format>pdf</format>
         <size-kb>135</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69512.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224907">
+      <attachment id="225109">
         <title>Analyse</title>
         <format>pdf</format>
         <size-kb>179</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69515.pdf</uri>
         <position>Context</position>
       </attachment>
-      <revisions> </revisions>
+      <link id="225112">
+        <title>Vidéo: Conférence de presse</title>
+        <uri>https://www.youtube.com/watch?v=2TFtr2LhzEI</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-12-13 11:00" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
@@ -155,35 +169,42 @@
       <lead>La popolazione e l'economia dipendono dall'accesso a servizi a banda larga affidabili e performanti in tutte le regioni del Paese. Il Consiglio federale desidera pertanto potenziare la velocità Internet nel servizio universale. Dal 2024 includerà un accesso ad alta velocità di 80/8 Mbit/s: questo è quanto dovrà essere sancito nell'ordinanza sui servizi di telecomunicazione. Nella sua seduta del 10 dicembre 2021 il Consiglio federale ha avviato la consultazione sulla relativa revisione. In questo modo risponde alle richieste del Parlamento e dei Cantoni. </lead>
       <text link="no"> &lt;p&gt;La pandemia di coronavirus che ha portato all'aumento del telelavoro e dell'insegnamento a distanza ha evidenziato quanto sia importante disporre di servizi a banda larga affidabili e performanti. Ciò vale per tutte le cerchie della popolazione in tutte le regioni della Svizzera. Pertanto il Consiglio federale intende potenziare puntualmente l'offerta a banda larga e sancirlo nella relativa concessione per il servizio universale: a partire dal 2021 un collegamento Internet con una velocità di download e di upload di 80 Mbit e 8 Mbit al secondo completerà l'attuale offerta minima di 10/1 Mbit/s. Questo rappresenta un vantaggio per chi abita in regioni dove non esistono offerte corrispondenti sul mercato. &lt;/p&gt; &lt;p&gt;Per adattare la portata della copertura è necessaria una revisione dell'ordinanza sui servizi di telecomunicazione (OST). La modifica d'ordinanza contiene ora esplicitamente il principio della sussidiarietà. Se il mercato fornisce già un'alternativa, non è prevista alcuna offerta del servizio universale. Inoltre, sono previste scadenze di attuazione ragionevoli. Il Consiglio federale ha avviato la consultazione il 10 dicembre 2021, si concluderà il 25 marzo 2022. &lt;/p&gt; &lt;p&gt;Il servizio universale è attualmente fornito da Swisscom, la cui concessione scade a fine 2022. Poiché l'attuazione delle nuove disposizioni e il successivo rilascio della nuova concessione per il servizio universale richiedono tempo supplementare, il DATEC è in contatto con la Commissione federale delle comunicazioni (ComCom) affinché non risultino lacune nella fornitura del servizio universale. In questo modo, la ComCom può prorogare in modo adeguato la concessione in vigore.&lt;/p&gt; &lt;p&gt;Il potenziamento della banda larga su tutto il territorio nazionale corrisponde a quanto richiesto da Parlamento e Cantoni a più riprese.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;strong&gt;Portata del servizio universale&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;Il servizio universale nel settore delle telecomunicazioni comprende il servizio telefonico pubblico, il servizio di accesso a Internet e servizi speciali destinati alle persone disabili. Il suo scopo è di garantire a tutte le cerchie della popolazione in ogni regione del Paese un'offerta di servizi di telecomunicazione di base affidabile e a prezzi ragionevoli. Swisscom ha garantito il servizio universale a partire dalla liberalizzazione del mercato delle telecomunicazioni avvenuta nel 1998.&lt;/p&gt; </text>
       <contact>Ufficio federale delle comunicazioni UFCOM Servizio stampa +41 58 460 55 50, media@bakom.admin.ch</contact>
-      <attachment id="224884">
+      <attachment id="225101">
         <title>Scheda informativa</title>
         <format>pdf</format>
         <size-kb>147</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69501.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224902">
+      <attachment id="225104">
         <title>Ordinanza sui servizi di telecomunicazione</title>
         <format>pdf</format>
         <size-kb>117</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69510.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224905">
+      <attachment id="225107">
         <title>Rapporto esplicativo</title>
         <format>pdf</format>
         <size-kb>144</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69513.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="224908">
+      <attachment id="225110">
         <title>Analisi</title>
         <format>pdf</format>
         <size-kb>174</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/69516.pdf</uri>
         <position>Context</position>
       </attachment>
-      <revisions> </revisions>
+      <link id="225113">
+        <title>Video: Conferenza stampa</title>
+        <uri>https://www.youtube.com/watch?v=2TFtr2LhzEI</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2021-12-13 11:00" type="R"/>
+      </revisions>
     </content>
     <content lang="en">
       <city>Bern</city>
