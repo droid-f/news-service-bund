@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86565" revoked="no">
+    <version>1</version>
+    <pubdate>2021-12-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="506" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Cyber-Defence Campus: Internationale Kooperation mit dem deutschen Bundesamt für Sicherheit in der Informationstechnik</title>
+      <lead>Der Cyber-Defence (CYD) Campus von armasuisse arbeitet erstmalig mit dem deutschen Bundesamt für Sicherheit in der Informationstechnik (BSI) im Bereich der Cybersicherheit zusammen. Die Zusammenarbeit beinhaltet die Bereitstellung von Open-Source Softwareanwendungen, die es ermöglichen, Sicherheitsempfehlungen in einem für Maschinen verwertbaren Format zu erstellen und zu verwalten. Das Ziel dabei ist, Informationen zu Sicherheitsschwachstellen einfacher austauschen zu können und die Cybersicherheit zu verbessern.</lead>
+      <text link="no">&lt;p&gt;Zu den Aufgaben des CYD Campus gehören unter anderem die Entwicklung und Prüfung von Cyber-Technologien. Mit dem deutschen BSI arbeitet der CYD Campus nun daran, die Entwicklung und Verbreitung des sogenannten Common Security Advisory Frameworks (CSAF) zu fördern und dessen Machbarkeit aufzuzeigen. Durch das CSAF soll der Inhalt von Sicherheitsempfehlungen, sogenannten Security Advisories, vom optischen Erscheinungsbild getrennt und der Austausch vereinheitlicht werden. Dabei sind zwei Prototypen von Softwareanwendungen entstanden, die nun sukzessive zu vollständigen Open-Source-Tools weiterentwickelt werden. Diese sollen in Zukunft Betreibern, Herstellern und Behörden dabei helfen, Schwachstelleninformationen effizienter untereinander auszutauschen. Damit soll ein Beitrag zur Erhöhung der Cybersicherheit geleistet werden.&lt;/p&gt;&lt;h2&gt;Zunehmende Herausforderungen für Unternehmen&lt;/h2&gt;&lt;p&gt;Der CYD Campus und das BSI wirken mit ihrer Arbeit am CSAF der Entwicklung der steigenden Anzahl veröffentlichter Security Advisories entgegen. Da eine automatisierte Verarbeitung von Security Advisories bisher nicht oder nur sehr eingeschränkt möglich ist, stellt die zunehmende Anzahl von Security Advisories Unternehmen vor grosse Herausforderungen.&lt;/p&gt;&lt;h2&gt;Informationen zu IT-Schwachstellen&lt;/h2&gt;&lt;p&gt;In Security Advisories werden Informationen zu bekanntgewordenen IT-Schwachstellen zusammengefasst. Sie enthalten typischerweise Informationen über die Art und Kritikalität der identifizierten Schwachstellen, welche Produkte und Versionen davon betroffen sind und wie diese behoben werden können. In der Schweiz werden solche Informationen zum Beispiel durch das Nationale Zentrum für Cybersicherheit (NCSC) gesammelt und nach entsprechender Gegenprüfung an die betroffenen Nutzer weitergeleitet.&lt;/p&gt;&lt;h2&gt;Automatisiertes Abrufen von Security Advisories&lt;/h2&gt;&lt;p&gt;In der Regel werden Security Advisories heute in Form von menschenlesbaren Dokumenten publiziert. Auch gibt es keine einheitliche Handhabung, wo und wie diese publiziert werden. Das CSAF möchte dies ändern und ein maschinenverarbeitbares Format von Security Advisories ermöglichen. Der CSAF-Standard definiert, wo und in welchem Format Security Advisories bereitgestellt werden sollen. Auf diese Weise können beispielsweise Unternehmen, Betreiber oder Behörden Security Advisories automatisiert abrufen und mit der eigenen Datenbank abgleichen. Damit leistet das CSAF zukünftig einen entscheidenden Beitrag dazu, dass Unternehmen den Überblick behalten und ihre Systeme absichern können. Der CYD Campus arbeitet im Rahmen der nationalen Strategie zum Schutz der Schweiz gegen Cyberrisiken (NCS 2018-2022) mit dem deutschen BSI zusammen. Gemeinsam fördern die Spezialistinnen und Spezialisten aus Deutschland und der Schweiz die Entwicklung und Verbreitung des CSAF-Standards.&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri Stv. Leiterin Kommunikation armasuisse +41 58 464 60 42</contact>
+      <link id="225606">
+        <title>Webmitteilung Erfolgreiche Zusammenarbeit zwischen dem Cyber-Defence Campus und dem BSI</title>
+        <uri>https://www.ar.admin.ch/de/aktuell/mitteilungen.detail.news.html/ar-internet/news-2021/news-w-t/zusammenarbeit-cyd-campus-und-bsi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Cyber-Defence Campus : coopération internationale avec l’office fédéral allemand de la sécurité des technologies de l’information</title>
+      <lead>Le Cyber-Defence (CYD) Campus d’armasuisse collabore pour la première fois avec l’office fédéral allemand de la sécurité des technologies et de l’information (Bundesamt für Sicherheit in der Informationstechnik, BSI) dans le domaine de la cybersécurité. Cette collaboration inclut la fourniture de logiciels open source permettant de créer et de gérer des rapports de sécurité dans un format exploitable par ordinateurs. L’objectif consiste à faciliter l’échange d’informations sur les failles de sécurité pour renforcer la cybersécurité.</lead>
+      <text link="no">&lt;p&gt;Parmi les missions du CYD Campus figurent notamment le développement et les essais de cybertechnologies. Le CYD Campus collabore désormais avec le BSI allemand pour promouvoir le développement et la diffusion du « Common Security Advisory Framework » (CSAF) tout en démontrant sa faisabilité. Le CSAF vise à séparer le contenu des rapports de sécurité, appelés security advisories, de leur aspect visuel, ainsi qu’à simplifier leurs partages. Deux prototypes de logiciels ont été élaborés et sont désormais en cours de développement pour en faire progressivement des outils open source à part entière. À l’avenir, ils devront aider les exploitants, les fabricants et les autorités à échanger plus efficacement les informations relatives aux failles de cybersécurités, contribuant au renforcement de celle-ci.&lt;/p&gt;&lt;h2&gt;Défis croissants pour les entreprises&lt;/h2&gt;&lt;p&gt;Les travaux du CYD Campus et du BSI concernant le CSAF sont destinés à faire face à un nombre croissant de rapport de sécurité. Un traitement automatique de ces derniers n’étant jusqu’à présent pas possible, ou uniquement de manière très limitée, l’augmentation du nombre de rapport de sécurité constitue donc un défi majeur pour les entreprises.&lt;/p&gt;&lt;h2&gt;Informations sur les vulnérabilités informatiques&lt;/h2&gt;&lt;p&gt;Les rapports de sécurité compilent des informations sur des vulnérabilités informatiques établies. Ils comportent typiquement des informations sur le type et la criticité des vulnérabilités identifiées, les produits et versions concernés, et la manière d’y remédier. En Suisse, de telles informations sont p. ex. collectées par le Centre national pour la cybersécurité (NCSC), puis transmises aux utilisateurs concernés après vérification.&lt;/p&gt;&lt;h2&gt;Consultation automatisée des rapports de sécurité&lt;/h2&gt;&lt;p&gt;En règle générale, les rapports de sécurité sont partagés sous la forme de fichiers lisibles par l’homme. Aucune procédure standard n’est en place pour indiquer où et comment partager ces rapports. Le CSAF entend y remédier et permettre la création d’un format exploitable par ordinateurs. Cette norme définit donc où et dans quel format les rapports de sécurité doivent être fournis. Les entreprises, exploitants ou autorités auront ainsi notamment la possibilité de consulter les rapports automatiquement et de les comparer avec leurs propres bases de données. Ce faisant, le CSAF fournira à l’avenir une contribution décisive aux entreprises pour garder une vue d’ensemble sur la sécurité de leurs systèmes. Le CYD Campus collabore avec le BSI allemand dans le cadre de la Stratégie nationale de protection de la Suisse contre les cyberrisques (SNPC 2018-2022). Ensemble, les spécialistes d’Allemagne et de Suisse soutiennent le développement et la diffusion de la norme CSAF.&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri Suppl. du chef de la communication d’armasuisse +41 58 464 60 42</contact>
+      <link id="225608">
+        <title>Communiqué Collaboration fructueuse entre le Cyber-Defence Campus et le BSI</title>
+        <uri>https://www.ar.admin.ch/fr/aktuell/mitteilungen.detail.news.html/ar-internet/news-2021/news-w-t/zusammenarbeit-cyd-campus-und-bsi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Cyber Defence Campus: cooperazione internazionale con l’Autorità tedesca per la sicurezza nell’ambito della tecnologia dell’informazione</title>
+      <lead>Il Cyber Defence Campus (CYD) di armasuisse collabora per la prima volta con l’Autorità tedesca responsabile per la sicurezza nell’ambito della tecnologia dell’informazione (Bundesamt für Sicherheit in der Informationstechnik, BSI). La collaborazione prevede la realizzazione di applicazioni software open source che permetteranno di creare e gestire gli avvisi di sicurezza in un formato leggibile dai computer. Lo scopo è agevolare lo scambio di informazioni sulle vulnerabilità informatiche e migliorare la cibersicurezza.</lead>
+      <text link="no">&lt;p&gt;Nei compiti del CYD Campus rientra anche lo sviluppo e il collaudo delle tecnologie informatiche. In collaborazione con la BSI, il CYD Campus lavorerà allo sviluppo e alla diffusione del cosiddetto Common Security Advisory Framework (CSAF), dimostrandone la fattibilità. Il CSAF dovrebbe rendere il contenuto degli avvisi di sicurezza, i cosiddetti Security Advisory, indipendente dalla veste grafica e standardizzare lo scambio delle informazioni. Dalla collaborazione sono scaturiti due prototipi di applicazioni software che successivamente saranno sviluppati fino a raggiungere il livello di tool open source completi. Questi dovrebbero aiutare in futuro i gestori, i produttori e le autorità a scambiare con maggiore efficienza le informazioni relative alle vulnerabilità informatiche. Ciò contribuirà a migliorare la cibersicurezza.&lt;/p&gt;&lt;h2&gt;Imprese sempre più in difficoltà&lt;/h2&gt;&lt;p&gt;Con il lavoro sullo CSAF, il CYD Campus e la BSI vogliono dare una risposta al costante aumento dei Security Advisory pubblicati. Di fatto non è possibile elaborare in forma automatizzata questi Security Advisory, o almeno lo si può fare solo con forti limitazioni, e il loro moltiplicarsi mette in grossa difficoltà le imprese.&lt;/p&gt;&lt;h2&gt;Informazioni sulle vulnerabilità informatiche&lt;/h2&gt;&lt;p&gt;Nei Security Advisory sono riepilogate le informazioni inerenti le vulnerabilità informatiche. In genere questi documenti contengono informazioni sul tipo e sulla criticità delle vulnerabilità individuate, indicano quali sono i prodotti e le versioni interessate e spiegano come rimuovere le falle. In Svizzera tali informazioni sono raccolte ad esempio dal Centro nazionale per la cibersicurezza (NCSC) e inoltrate dopo un’opportuna verifica agli utenti interessati.&lt;/p&gt;&lt;h2&gt;Accesso automatizzato ai Security Advisory&lt;/h2&gt;&lt;p&gt;Attualmente i Security Advisory sono pubblicati per lo più sotto forma di documenti leggibili da un utente umano. Tuttavia non esistono criteri univoci che definiscano le modalità di pubblicazione. Con il CSAF si desidera dare una svolta e rendere i Security Advisory leggibili dai computer. Lo standard CSAF stabilisce dove e in quale formato debbano essere pubblicati i Security Advisory. In questo modo le imprese, i gestori o le autorità potranno accedere automaticamente ai Security Advisory per aggiornare le proprie banche dati. In futuro lo CSAF sarà decisivo per permettere alle imprese di mantenere la situazione sotto controllo e proteggere i propri sistemi. Nel quadro della Strategia nazionale per la protezione della Svizzera contro i ciber-rischi (SNPC 2018 – 2022) il CYD Campus collabora con la BSI promuovendo lo sviluppo e la diffusione dello standard CSAF a livello internazionale.&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli-Bieri Sostituta responsabile settore Comunicazione di armasuisse +41 58 464 60 42</contact>
+      <link id="225610">
+        <title>Comunicato web – Proficua collaborazione tra il Cyber Defence Campus e la BSI</title>
+        <uri>https://www.ar.admin.ch/it/aktuell/mitteilungen.detail.news.html/ar-internet/news-2021/news-w-t/zusammenarbeit-cyd-campus-und-bsi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Cyber-Defence Campus: International cooperation with the German Federal Office for Information Security</title>
+      <lead>armasuisse’s Cyber-Defence (CYD) Campus is working together for the first time with the German Federal Office for Information Security (Bundesamt für Sicherheit in der Informationstechnik, BSI) in the area of cyber security. The cooperation includes the provision of open-source software applications, which enable the creation and management of security advisories in a format usable by machines. The aim is to make the exchange of information on security vulnerabilities easier and so helping to improve the cyber security.</lead>
+      <text link="no">&lt;p&gt;The CYD Campus’ tasks include the development and testing of cyber technologies. Under this aspect, the CYD Campus is now working together with the German BSI to support the development and distribution of the Common Security Advisory Frameworks (CSAF) and to demonstrate its feasibility. The CSAF aims to separate the contents of security advisories from their visual appearance and to standardise their exchange. As a result, two software application prototypes have emerged which are now successively being developed into complete open-source tools. In the future, they should help operators, manufacturers and authorities to exchange vulnerability information more efficiently. The aim is a contribution in increasing the cyber security.&lt;/p&gt;&lt;h2&gt;Increasing challenges for companies&lt;/h2&gt;&lt;p&gt;With their work on the CSAF, the CYD Campus and the BSI are counteracting the increasing number of published security advisories. As up to now, automated processing of security advisories has either not or only on a very restricted basis been possible, the increasing number of security advisories brings major challenges to companies.&lt;/p&gt;&lt;h2&gt;Information on IT vulnerabilities&lt;/h2&gt;&lt;p&gt;Information on IT vulnerabilities that have become known are summarised in security advisories. These typically contain information on the type and criticality of the identified vulnerabilities, which products and versions are affected and how they can be resolved. In Switzerland, for example, this type of information is collected by the National Cyber Security Centre (NCSC) and forwarded to concerned users after appropriate cross-checking.&lt;/p&gt;&lt;h2&gt;Automatic retrieval of security advisories&lt;/h2&gt;&lt;p&gt;Today, security advisories are usually published in the form of human-readable documents. There is also no standardised procedure on where and how they are published. The CSAF wants to change this and enable a machine-processable format of security advisories. The CSAF standard defines where and in which format security advisories should be provided. In this way, for example companies, operators and authorities can retrieve security advisories automatically and match them with their own databases. The CSAF is thus making a crucial contribution to helping companies maintain an overview and securing their systems in the future. The CYD Campus is working together with the German BSI as part of the national strategy to protect Switzerland against cyber risks (NCS 2018-2022). Together, the specialists from Germany and Switzerland are promoting the development and distribution of the CSAF standard.&lt;/p&gt;</text>
+      <contact>Jacqueline Stampfli Deputy Head of Communications armasuisse +41 58 464 60 42</contact>
+      <link id="225612">
+        <title>Web notification Successful cooperation between the Cyber-Defence Campus and the BSI</title>
+        <uri>https://www.ar.admin.ch/en/aktuell/mitteilungen.detail.news.html/ar-internet/news-2021/news-w-t/zusammenarbeit-cyd-campus-und-bsi.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5160" org-id="502">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
+      </keyword>
+      <keyword id="5360" org-id="502">
+        <name lang="de">Technologie / Wissenschaft / Forschung</name>
+        <name lang="fr">Technologies / Sciences / Recherche</name>
+        <name lang="it">Tecnologia / Scienza / Ricerca</name>
+        <name lang="en">Technology / Science / Research</name>
+      </keyword>
+      <keyword id="5980" org-id="502">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

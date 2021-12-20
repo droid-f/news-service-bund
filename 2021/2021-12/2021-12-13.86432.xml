@@ -19,21 +19,6 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="811" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Umwelt BAFU</name>
-      <name lang="fr">Office fédéral de l'environnement OFEV</name>
-      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
-      <name lang="en">Federal Office for the Environment FOEN</name>
-      <www lang="de">http://www.bafu.admin.ch</www>
-      <www lang="fr">http://www.bafu.admin.ch/fr</www>
-      <www lang="it">http://www.bafu.admin.ch/it</www>
-      <www lang="en">http://www.bafu.admin.ch/en</www>
-      <email lang="de">info@bafu.admin.ch</email>
-      <email lang="fr">info@bafu.admin.ch</email>
-      <email lang="it">info@bafu.admin.ch</email>
-      <email lang="en">info@bafu.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="808" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Bundesamt für Energie</name>
@@ -48,6 +33,21 @@
       <email lang="fr"/>
       <email lang="it"/>
       <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
     </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
@@ -132,43 +132,43 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="300" org-id="808">
-        <name lang="de">Energieffizienz</name>
-        <name lang="fr">Efficacité énergétique</name>
-        <name lang="it">Efficienza energetica</name>
-        <name lang="en">Energy Efficiency</name>
+      <keyword id="620" org-id="811">
+        <name lang="de">Klima</name>
+        <name lang="fr">Climat</name>
+        <name lang="it">Clima</name>
+        <name lang="en">Climate</name>
       </keyword>
-      <keyword id="310" org-id="808">
-        <name lang="de">Energiepolitik</name>
-        <name lang="fr">Politique énergétique</name>
-        <name lang="it">Politica energetica</name>
-        <name lang="en">Energy Policy</name>
+      <keyword id="50" org-id="811">
+        <name lang="de">Biodiversität</name>
+        <name lang="fr">Biodiversité</name>
+        <name lang="it">Biodiversità</name>
+        <name lang="en">Biodiversity</name>
       </keyword>
-      <keyword id="320" org-id="808">
-        <name lang="de">Energieversorgung</name>
-        <name lang="fr">Approvisionnement énergétique</name>
-        <name lang="it">Approvvigionamento energetico</name>
-        <name lang="en">Energy Supply</name>
+      <keyword id="1390" org-id="811">
+        <name lang="de">Wasser</name>
+        <name lang="fr">Eaux</name>
+        <name lang="it">Acqua</name>
+        <name lang="en">Water</name>
       </keyword>
-      <keyword id="340" org-id="808">
-        <name lang="de">Energiewirtschaft</name>
-        <name lang="fr">Economie énergétique</name>
-        <name lang="it">Economia energetica</name>
-        <name lang="en">Energy Economy</name>
+      <keyword id="310" org-id="811">
+        <name lang="de">Energie</name>
+        <name lang="fr">Energie</name>
+        <name lang="it">Energie</name>
+        <name lang="en">Energie</name>
       </keyword>
-      <keyword id="1430" org-id="808">
-        <name lang="de">Energieverbrauch</name>
-        <name lang="fr">Consommation énergétique</name>
-        <name lang="it">Consumo energetico</name>
-        <name lang="en">Energy Consumption</name>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="11">
-        <name lang="de">Energie</name>
-        <name lang="fr">Énergie</name>
-        <name lang="it">Energia</name>
-        <name lang="en">Energy</name>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
       </topic>
     </topics>
   </message>

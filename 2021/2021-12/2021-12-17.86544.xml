@@ -64,6 +64,21 @@
       <email lang="it">media@bag.admin.ch</email>
       <email lang="en">media@bag.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössische Zollverwaltung</name>
+      <name lang="fr">Administration fédérale des douanes</name>
+      <name lang="it">Amministrazione federale delle dogane</name>
+      <name lang="en">The Federal Customs Administration</name>
+      <www lang="de">http://www.ezv.admin.ch</www>
+      <www lang="fr">http://www.ezv.admin.ch</www>
+      <www lang="it">http://www.ezv.admin.ch</www>
+      <www lang="en">http://www.ezv.admin.ch</www>
+      <email lang="de">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="fr">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="it">ozd.zentrale@ezv.admin.ch</email>
+      <email lang="en">ozd.zentrale@ezv.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -91,6 +106,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -292,12 +321,20 @@
       </attachment>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="335" org-id="606">
+        <name lang="de">Allgemeine Zoll-Neuigkeiten</name>
+        <name lang="fr">Nouveautés générales concernant l'administration des douanes</name>
+        <name lang="it">Novità generali sulla dogana</name>
+        <name lang="en">General customs news</name>
+      </offer>
+    </offers>
     <keywords>
-      <keyword id="109" org-id="317">
-        <name lang="de">2019-nCoV-DE</name>
-        <name lang="fr">2019-nCoV-FR</name>
-        <name lang="it">2019-nCoV-IT</name>
-        <name lang="en">2019-nCoV-EN</name>
+      <keyword id="215" org-id="606">
+        <name lang="de">Zoll</name>
+        <name lang="fr">Douane</name>
+        <name lang="it">Dogana</name>
+        <name lang="en">Customs</name>
       </keyword>
     </keywords>
     <topics>
