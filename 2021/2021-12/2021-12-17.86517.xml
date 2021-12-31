@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="201" lead="no" topnews="no">
-      <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -78,20 +78,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="201">
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
-    </department>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
@@ -105,6 +91,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -189,35 +189,35 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5180" org-id="502">
+      <keyword id="510" org-id="505">
+        <name lang="de">Berufsmilitär / Durchdiener</name>
+        <name lang="fr">Militaires de métier / Militaires en services long</name>
+        <name lang="it">Militari di professione / Militari in ferma continuata</name>
+        <name lang="en">Military Professionals / Single Term Conscripts</name>
+      </keyword>
+      <keyword id="5180" org-id="505">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5300" org-id="502">
+      <keyword id="5300" org-id="505">
         <name lang="de">Unterstützung aus der Luft / Lufttransport</name>
         <name lang="fr">Appui aérien / Transport aérien</name>
-        <name lang="it">Sostegno aereo / Trasporto aereo</name>
+        <name lang="it">Sostegno aero / Trasporto aereo</name>
         <name lang="en">aerial support / air transport</name>
       </keyword>
-      <keyword id="5330" org-id="502">
+      <keyword id="5330" org-id="505">
         <name lang="de">Friedensförderung</name>
         <name lang="fr">Promotion de la paix</name>
         <name lang="it">Promovimento della pace</name>
         <name lang="en">peace support</name>
       </keyword>
-      <keyword id="5530" org-id="502">
+      <keyword id="5530" org-id="505">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
-      </keyword>
-      <keyword id="5930" org-id="502">
-        <name lang="de">Internationale Beziehungen</name>
-        <name lang="fr">Relations internationales</name>
-        <name lang="it">Relazioni internazionali</name>
-        <name lang="en">international relations</name>
+        <name lang="en">federal policy, Federal Council(lor)</name>
       </keyword>
     </keywords>
     <topics>
