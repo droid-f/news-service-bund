@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86621" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2021-12-22</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="101" lead="yes" topnews="no">
@@ -19,6 +19,21 @@
       <email lang="it">infokomm@admin.ch</email>
       <email lang="en">infokomm@admin.ch</email>
     </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
     <department id="101">
       <name lang="de">Bundeskanzlei</name>
       <name lang="fr">Chancellerie fédérale</name>
@@ -32,6 +47,20 @@
       <email lang="fr">infokomm@admin.ch</email>
       <email lang="it">infokomm@admin.ch</email>
       <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -57,6 +86,20 @@
       <contact>Beat Furrer Cancelleria federale 058 465 02 45 beat.furrer@bk.admin.ch</contact>
       <revisions> </revisions>
     </content>
+    <keywords>
+      <keyword id="20" org-id="317">
+        <name lang="de">Tabakproduktegesetz-DE</name>
+        <name lang="fr">Tabakproduktegesetz-FR</name>
+        <name lang="it">Tabakproduktegesetz-IT</name>
+        <name lang="en">Tabakproduktegesetz-EN</name>
+      </keyword>
+      <keyword id="116" org-id="317">
+        <name lang="de">Tabakwerbung-DE</name>
+        <name lang="fr">Tabakwerbung-FR</name>
+        <name lang="it">Tabakwerbung-IT</name>
+        <name lang="en">Tabakwerbung-EN</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="15">
         <name lang="de">Gesundheit</name>

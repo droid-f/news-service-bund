@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86697" revoked="no">
+    <version>1</version>
+    <pubdate>2022-01-04</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Neue KI-Methode analysiert Schweizer Flottenverbrauch</title>
+      <lead>Wieviel verbraucht die Fahrzeugflotte eines Landes im Durchschnitt? Wie ändert sich das von Jahr zu Jahr? Mit der zunehmenden Zahl an Elektrofahrzeugen und immer mehr "Crossover"-Modellen, die kaum noch einem Fahrzeugsegment zugeordnet werden können, wird die Analyse immer schwieriger. Eine Empa-Forscherin analysiert Datenbanken mit Hilfe von deep learning Methoden – und kann damit präzise Aussagen treffen: In welcher Landesregion fahren die dicksten Autos? Was können Autokäufer tun, um den CO2-Verbrauch zu senken?</lead>
+      <text link="no">&lt;p&gt;In den letzten Jahrzehnten gab es grosse technische Veränderungen bei Neuwagen. Besonders relevant sind diese in Bezug auf Abmessungen – Autos werden immer grösser und schwerer – und auf den grösseren SUV-Anteil in den einzelnen Fahrzeugsegmenten. Die Einteilung in klassische Segmente wie Klein-, Mittel-, obere Mittel- und Luxusklasse ist kaum noch möglich. Zusammen mit geringeren Hubräumen und besseren Wirkungsgraden der Motoren machen es immer schwerer, Fahrzeuge zu kategorisieren und deshalb auch Flottenverbrauch und -emissionswerte zu berechnen – auch für den Gesetzgeber.&lt;/p&gt;&lt;h3&gt; Elektroautos erschweren die Analyse&lt;/h3&gt;&lt;p&gt;Die Empa-Forscher haben nun Fahrzeuge anhand von Ähnlichkeitsmerkmalen dank mathematischen Ansätzen und mit Deep-Learning-Techniken in einheitliche Segmente einteilen können – ein wichtiger Durchbruch! Hauptziel des Projekts ist es, eine Voraussetzung zu schaffen, um die zukünftigen realen CO2-Emissionen des Straßenverkehrs auf Basis eines rein mathematischen Ansatzes zu bestimmen. Insbesondere die zunehmende Elektrifizierung wird die Unterscheidung zwischen dem Energieverbrauch im Strassenverkehr und der stationären Energienutzung bald stark erschweren. «Die an der Empa entwickelte Methode ermöglicht es, die CO2-Emissionen separat zu bewerten und durch die Analyse grosser Datenbanken eine genaue automatische Fahrzeugklassifizierung vorzunehmen. Dies erleichtert die Analyse von Flottenveränderungen in einem Land - oder in einem grossen Unternehmen», erläutert Empa-Forscherin Naghmeh Niroomand, die die Methode entwickelte.&lt;/p&gt;&lt;p&gt;Dank der neuen Methode werden subjektive und expertenbasierte Faktoren beseitigt, wodurch Klassifizierungsfehler verringert und Datenbanken aus der ganzen Welt vergleichbar werden. Für die Schweiz konnten Naghmeh Niroomand, Christian Bach und Miriam Elser so durchschnittliche CO2-Emissionen der neuzugelassenen Personenwagen berechnen, die nur um 1,1 Prozent von der offiziellen Schätzung des Bundesamts für Energie (BFE) abwichen.&lt;/p&gt;&lt;h3&gt; Anteil der SUV in der Flotte reduzieren&lt;/h3&gt;&lt;p&gt;Anhand der untersuchten Daten stellten die Empa-Experten zudem fest, dass in ländlichen Gebieten, in denen etwa ein Drittel der Schweizer Bevölkerung lebt, aufgrund des Mangels an attraktiven Verkehrsalternativen das private Auto nach wie vor das häufigste Verkehrsmittel ist. Darüber hinaus werden trotz der hohen Akzeptanz der öffentlichen Verkehrsmittel in der Schweiz (59 Prozent) immer noch zwei Drittel der gesamten Personenkilometer mit dem Auto zurückgelegt.&lt;/p&gt;&lt;p&gt;«Unsere Ergebnisse zeigen, dass die durchschnittlichen CO2-Emissionen der verschiedenen Fahrzeugklassen stark variieren», hält Niroomand fest. Zwar würden mehr kleinere Fahrzeugen die CO2-Emissionen wahrscheinlich verringern, wichtiger wäre es gemäss der Forscherin jedoch, den SUV-Anteil zu reduzieren oder auch Fahrzeuge mit geringerer Leistung in derselben Fahrzeugklasse zu kaufen. Dies würde eine effektivere Dekarbonisierung der PW-Flotte bewirken. &lt;/p&gt;</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies Tel. +41 58 765 46 80 Naghmeh.Niroomand@empa.ch Christian Bach Automotive Powertrain Technologies Tel. +41 58 765 41 37 Christian.Bach@empa.ch Redaktion / Medienkontakt Rainer Klose Kommunication Tel. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="225920">
+        <title>Stau auf einer Autobahn östlich von Zürich. Trotz technologischer Verbesserungen hat die Schweizer Personenwagenflotte seit Jahren hohe Emissionswerte. Ein Team der Empa hat nun Fahrzeugdaten mit Hilfe von Deep-Learning-Techniken untersucht.</title>
+        <format>jpg</format>
+        <size-kb>1949</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69828.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="225921">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/ai-fleet-analysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Une nouvelle méthode d'IA analyse la consommation de la flotte suisse</title>
+      <lead>Quelle est la consommation moyenne de la flotte de véhicules d'un pays ? Comment cela évolue-t-il d'année en année ? Avec l'augmentation du nombre de véhicules électriques et la multiplication des modèles "crossover", qui ne peuvent pratiquement plus être attribués à un segment de véhicules, l'analyse devient de plus en plus difficile. Une chercheuse de l'Empa analyse les bases de données à l'aide de méthodes d'apprentissage profond - et peut ainsi faire des déclarations précises : Dans quelle région du pays roulent les voitures les plus grosses ? Que peuvent faire les acheteurs de voitures pour réduire la consommation de CO2?</lead>
+      <text link="no">&lt;p&gt; &lt;/p&gt;&lt;p&gt;Les voitures neuves ont connu d’importantes évolutions techniques au cours des dernières décennies. Ces évolutions sont particulièrement pertinentes en ce qui concerne les dimensions (avec des voitures de plus en plus grandes et lourdes) et la part plus importante de SUV dans les différents segments de véhicules. Il est ainsi difficilement possible de continuer à classer les véhicules dans les catégories usuelles: petite, moyenne, moyenne supérieure et luxe. Des cylindrées moins puissantes et des moteurs à meilleur rendement compliquent la catégorisation des véhicules et par là-même, le calcul de la consommation des flottes et des valeurs d’émission, y compris pour le législateur.&lt;/p&gt;&lt;h3&gt;Les voitures électriques entravent l'analyse&lt;/h3&gt;&lt;p&gt;C’est en recourant à des approches mathématiques et à des techniques de deep learning que les chercheurs de l’Empa ont aujourd’hui pu répartir les véhicules en segments uniformes: une percée importante! Il s’agit là en effet d’une condition essentielle pour déterminer les futures émissions réelles de CO2 du trafic routier. L’électrification croissante rendra bientôt très compliqué de distinguer entre consommation d’énergie dans le trafic routier et autres utilisations stationnaires de l’énergie. La pertinence des valeurs de réception par type de CO2 par rapport aux émissions réelles de CO2 des masses avérées est en outre limitée. L’écart entre ces valeurs est passé de 9 à 42%, ce qui a entraîné des économies d’émissions falsifiées de 31 g de CO2/km. «Cette nouvelle approche nous permet de prédire avec précision les émissions de CO2 par segment afin d’analyser en détail les principaux facteurs qui influencent les émissions moyennes de CO2 de la flotte», explique Naghmeh Niroomand, qui a mis au point la méthode.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;L’approche proposée par les chercheurs de l’Empa permet une classification précise et automatique des véhicules avec de grandes bases de données, facilitant ainsi l’analyse des changements au sein de la flotte. Cette nouvelle méthode élimine les facteurs subjectifs et établis par les experts, réduisant ainsi les erreurs de classification et permettant de comparer des bases de données du monde entier. Pour la Suisse, Naghmeh Niroomand, Christian Bach et Miriam Elser ont ainsi calculé les émissions moyennes de CO2 des voitures de tourisme nouvellement immatriculées et elles ne diffèrent que de 1,1% de l’estimation officielle de l’Office fédéral de l’énergie (OFEN).&lt;/p&gt;&lt;h3&gt;Réduire la part des SUV dans le parc automobile&lt;/h3&gt;&lt;p&gt;Sur la base des données analysées, les experts de l’Empa ont également constaté que la voiture privée reste le moyen de transport le plus fréquent dans les régions rurales (où vit environ un tiers de la population suisse) en raison du manque d’alternatives de transport attractives. En outre, deux tiers des kilomètres-passagers sont encore parcourus en voiture malgré la forte acceptation des transports publics en Suisse (59%).&lt;/p&gt;&lt;p&gt;«Nos résultats montrent que les émissions moyennes de CO2 des différentes catégories de véhicules varient fortement», constate Naghmeh Niroomand. Un nombre plus important de petits véhicules ferait certes probablement baisser les émissions de CO2, mais la chercheuse estime qu’il serait plus important de réduire la part des SUV ou d’acheter des véhicules moins puissants dans la même catégorie. Il serait ainsi possible de procéder à une décarbonation plus efficace de la flotte de voitures de tourisme.&lt;/p&gt;</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies Tél. +41 58 765 46 80 Naghmeh.Niroomand@empa.ch Christian Bach Automotive Powertrain Technologies Tél. +41 58 765 41 37 Christian.Bach@empa.ch Rédaction / contact médias Rainer Klose Communications Tél. +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="225920">
+        <title>Stau auf einer Autobahn östlich von Zürich. Trotz technologischer Verbesserungen hat die Schweizer Personenwagenflotte seit Jahren hohe Emissionswerte. Ein Team der Empa hat nun Fahrzeugdaten mit Hilfe von Deep-Learning-Techniken untersucht.</title>
+        <format>jpg</format>
+        <size-kb>1949</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69828.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="225921">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/ai-fleet-analysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>New AI method analyzes Swiss fleet consumption</title>
+      <lead>How much does a country's vehicle fleet consume on average? How does it change from year to year? With the increasing number of electric vehicles and more and more "crossover" models that can hardly be assigned to one vehicle segment, analysis is becoming increasingly difficult. Empa researchers analyze databases using deep learning methods - and can make precise statements: In which region of the country do the fattest cars drive? What can car buyers do to reduce CO2 consumption?</lead>
+      <text link="no">In recent decades, there have been major technical changes in new cars. These are particularly relevant in terms of dimensions - cars are getting bigger and heavier - and the larger share of SUVs in the individual vehicle segments. Classification into classic segments such as small, mid-size, upper mid-size and luxury is hardly possible anymore. Together with smaller engine displacements and better engine efficiencies, this makes it increasingly difficult to categorize vehicles and therefore to calculate fleet consumption and emission levels - even for legislators. -----Electric cars hamper the analysis----- Empa researchers have now been able to divide vehicles into uniform segments based on similarity characteristics thanks to mathematical approaches and with deep learning techniques - an important breakthrough! The main goal of the project is to create a prerequisite for determining the future real CO2 emissions of road traffic on the basis of a purely mathematical approach. In particular, increasing electrification will soon make it very difficult to distinguish between energy consumption in road transport and stationary energy use. "The method developed at Empa makes it possible to evaluate CO2 emissions separately and to perform accurate automatic vehicle classification by analyzing large databases. This facilitates the analysis of fleet changes in a country - or in a large company," explains Nagmeh Niroomand, who developed the method. The new method eliminates subjective and expert-based factors, reducing classification errors and making databases from around the world comparable. For Switzerland, Naghmeh Niroomand, Christian Bach and Miriam Elser were thus able to calculate average CO2 emissions of newly registered passenger cars that deviated by only 1.1 percent from the official estimate of the Swiss Federal Office of Energy (SFOE). -----Reduce the share of SUV in the fleet----- Based on the data examined, the Empa experts also found that in rural areas, where around one third of the Swiss population lives, the private car remains the most common mode of transport due to the lack of attractive transport alternatives. Furthermore, despite the high acceptance of public transportation in Switzerland (59 percent), two-thirds of total passenger kilometers are still traveled by car. "Our results show that the average CO2 emissions of the different vehicle classes vary greatly," Niroomand notes. While more smaller vehicles would likely reduce CO2 emissions, the researcher says it would be more important to reduce the share of SUVs or to also buy lower-powered vehicles in the same vehicle class. This would more effectively decarbonize the car fleet.</text>
+      <contact>Dr. Naghmeh Niroomand Automotive Powertrain Technologies phone +41 58 765 46 80 Naghmeh.Niroomand@empa.ch Christian Bach Automotive Powertrain Technologies phone +41 58 765 41 37 Christian.Bach@empa.ch Editor / Media contact Rainer Klose Communications phone +41 58 765 47 33 redaktion@empa.ch</contact>
+      <attachment id="225920">
+        <title>Stau auf einer Autobahn östlich von Zürich. Trotz technologischer Verbesserungen hat die Schweizer Personenwagenflotte seit Jahren hohe Emissionswerte. Ein Team der Empa hat nun Fahrzeugdaten mit Hilfe von Deep-Learning-Techniken untersucht.</title>
+        <format>jpg</format>
+        <size-kb>1949</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69828.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="225921">
+        <title>Empa Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/ai-fleet-analysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
