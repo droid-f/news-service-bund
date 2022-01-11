@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86753" revoked="no">
+    <version>1</version>
+    <pubdate>2022-01-11</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Wenn der Algorithmus am Thermostat dreht</title>
+      <lead>Das Empa-Spin-off «viboo» hat einen selbstlernenden Algorithmus zur Regelung des Raumklimas entwickelt. Dadurch lassen sich Gebäude vorausschauend kühlen oder heizen und so rund ein Drittel Energie einsparen. Nach erfolgreichen Experimenten im NEST, dem Forschungs- und Innovationsgebäude von Empa und Eawag, werden nun erste Pilotprojekte mit Industriepartnern umgesetzt.</lead>
+      <text link="no">&lt;p&gt;Herkömmliche Thermostate, die heute in vielen Wohngebäuden verbaut sind, reagieren erst, wenn die Temperatur einen gewissen Schwellenwert unter- oder überschreitet. Die Reaktion ist deshalb immer zu spät und erst noch abrupt und heftig, da möglichst schnell wieder die Wunschtemperatur erreicht werden soll. Das kostet Energie und schlussendlich Geld. Die Lösung: ein Thermostat, der in die Zukunft blickt und die Temperatur vorausschauend regelt.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Vorausschauen, um Energie zu sparen&lt;/b&gt;&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; &lt;p&gt;Den Blick in die Kristallkugel ermöglicht ein Spin-off der Empa, das sich aktuell in der Gründungsphase befindet. Das Unternehmen nennt sich «viboo», was für «viable intelligent building operation optimization» steht. Die Gründer Felix Bünning und Benjamin Huber haben im Laufe ihrer Forschung an der Empa einen Algorithmus entwickelt, der es erlaubt, Gebäude prädiktiv zu regeln. Das Erstaunliche dabei: Es genügen Gebäudedaten, wie die Ventilpositionen und Messungen der Raumtemperatur, von lediglich zwei Wochen, um ein Modell des Gebäudes zu erstellen. In Kombination mit Vorhersagen zur lokalen Aussentemperatur und zur globalen Sonneneinstrahlung berechnet der Algorithmus dann eigenständig bis zu zwölf Stunden im Voraus den idealen Energieaufwand, um das Gebäude zu heizen oder zu kühlen. Damit entfallen hektische, reaktive Regelungen, was deutlich weniger Energie benötigt.&lt;/p&gt; &lt;p&gt;«Das Potenzial ist enorm. Unsere Experimente im NEST haben gezeigt, dass mit diesem Ansatz eine Energieeinsparung zwischen 26 und 49 Prozent erreicht werden kann», erklärt Felix Bünning. Die Forscher nutzten das Forschungs- und Innovationsgebäude auf dem Empa-Campus, um den Algorithmus in einer realen Umgebung zu testen und weiterzuentwickeln. Die Feldversuche erzeugten Interesse seitens der Industrie, und den Forschern wurde klar, dass ihr Algorithmus von der Forschung auf den Markt gebracht werden sollte. &lt;/p&gt; &lt;p&gt;Die Motivation der beiden Wissenschaftler ist dabei nicht etwa finanzieller, sondern vielmehr gesellschaftlicher Natur. «Weltweit wird enorm viel Energie für das Heizen und Kühlen von Gebäuden gebraucht. Nicht zuletzt deshalb verursacht der Gebäudebereich einen grossen Anteil der weltweiten CO2-Emissionen. Mit unserem Algorithmus möchten wir möglichst vielen Haushalten helfen, Energie zu sparen und so unseren Beitrag zur Reduktion dieser Emissionen leisten», so Bünning. Dass dieses Vorhaben sinnvoll ist, hat auch bereits eine erste Förderinitiativen erkannt. Im November 2021 hat «Venture Kick» «viboo» einen Förderbeitrag von 40'000 Franken zugesprochen. Ausserdem wird Bünning durch ein «BRIDGE Proof of Concept Fellowship» des Schweizerischen Nationalfonds und Innosuisse unterstützt.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Pilotprojekt zur smarten Regelung&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;«Wir fokussieren uns aktuell auf die Hersteller von Thermostaten für Wohngebäude. Viele dieser Unternehmen haben bereits smarte Thermostate in ihrem Portfolio. Mittels einer Cloud-Anbindung können wir unseren Algorithmus in diese integrieren», erklärt Felix Bünning. Ein erster Partner ist der international tätige Thermostathersteller Danfoss. Gemeinsam mit dem Unternehmen setzt «viboo» nun das erste Pilotprojekt in einem herkömmlichen Gebäude um. Dabei werden die Thermostate im Verwaltungsgebäude der Empa durch Smart-Thermostate ersetzt, auf denen der «viboo»-Algorithmus läuft. Anhand der Raumklima-Daten erstellt dieser zunächst das Gebäude-Modell. Danach übernimmt der Algorithmus die Regelung der Heizung über vier Monate hinweg. Im Zentrum steht dabei die Frage: Wie effizient regelt der Algorithmus verglichen mit der Standard-Lösung? Dies wird Aufschluss darüber geben, wie hoch dessen Potenzial bei herkömmlichen, älteren Gebäuden ist.&lt;/p&gt; &lt;p&gt;Neben dem Pilotprojekt laufen aber auch bereits Gespräche mit anderen Industriepartnern, um weitere Anwendungsmöglichkeiten auszuloten. «viboo» wird beispielsweise in einem neuen Gebäude in Zürich den Algorithmus direkt ins Gebäudeautomationssystem integrieren und so die Regelung im gesamten Bürogebäude optimieren.&lt;/p&gt;</text>
+      <contact>Felix Bünning Urban Energy Systems Lab / viboo Tel. +41 58 765 44 69 felix.buenning@empa.ch Redaktion / Medienkontakt: Loris Pandiani Kommunikation Phone +41 58 765 47 03 redaktion@empa.ch</contact>
+      <attachment id="226044">
+        <title>Das Empa-Spinoff Viboo baut ein Thermostat, der in die Zukunft blickt und die Temperatur vorausschauend regelt.</title>
+        <format>jpg</format>
+        <size-kb>245</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="226045">
+        <title>Empa-Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Quand l'algorithme régule la température</title>
+      <lead>La spin-off de l'Empa «viboo» a développé un algorithme auto-apprenant pour la régulation du climat intérieur. Cela permet de refroidir ou de chauffer les bâtiments de manière anticipée et d'économiser ainsi environ un tiers d'énergie. Après des expériences réussies dans le NEST, le bâtiment de recherche et d'innovation de l'Empa et de l'Eawag, les premiers projets pilotes sont maintenant mis en œuvre avec des partenaires industriels.</lead>
+      <text link="no">&lt;p&gt;Les thermostats traditionnels, installés aujourd'hui dans de nombreux bâtiments d'habitation, ne réagissent que lorsque la température est inférieure ou supérieure à un certain seuil. La réaction est donc toujours trop tardive, abrupte et forte, car il faut retrouver le plus rapidement possible la température souhaitée. Cela coûte de l'énergie et, en fin de compte, de l'argent. La solution : un thermostat qui se projette dans l'avenir et régule la température par anticipation.&lt;/p&gt; &lt;h3&gt;&lt;b&gt;Anticiper pour économiser l'énergie&lt;/b&gt;&lt;/h3&gt; &lt;p&gt;Une spin-off de l'Empa, actuellement en phase de création, permet de regarder dans la boule de cristal. L'entreprise s'appelle &lt;b&gt;«&lt;/b&gt;viboo&lt;b&gt;»&lt;/b&gt;, ce qui signifie "viable intelligent building operation optimization". Au cours de leurs recherches à l'Empa, les fondateurs Felix Bünning et Benjamin Huber ont développé un algorithme qui permet de réguler la température des bâtiments de manière prédictive. Ce qui est étonnant, c'est qu'il suffit de deux semaines de données sur les bâtiments, comme la position des vannes et les mesures de la température ambiante, pour créer un modèle du bâtiment. En combinaison avec les prévisions de la température extérieure locale et du rayonnement solaire global, l'algorithme calcule ensuite de manière autonome, jusqu'à douze heures à l'avance, la dépense énergétique idéale pour chauffer ou refroidir le bâtiment. Il n'est donc plus nécessaire de procéder à des réglages frénétiques et trop réactifs, ce qui permet de consommer nettement moins d'énergie.&lt;/p&gt; &lt;p&gt;"Le potentiel est énorme. Nos expériences dans le NEST ont montré que cette approche permettait d'économiser entre 26 et 49 pour cent d'énergie", explique Felix Bünning. Les chercheurs ont utilisé le bâtiment de recherche et d'innovation sur le campus de l'Empa pour tester et développer l'algorithme dans un environnement réel. Les essais sur le terrain ont suscité l'intérêt de l'industrie et les chercheurs ont compris que leur algorithme devait passer du stade de la recherche à celui du marché. &lt;/p&gt; &lt;p&gt;La motivation des deux scientifiques n'est pas d'ordre financier, mais plutôt social. "Dans le monde entier, une quantité énorme d'énergie est utilisée pour chauffer et refroidir les bâtiments. C'est notamment pour cette raison que le secteur du bâtiment est à l'origine d'une grande partie des émissions mondiales de CO2. Avec notre algorithme, nous souhaitons aider le plus grand nombre possible de ménages à économiser de l'énergie et apporter ainsi notre contribution à la réduction de ces émissions", explique Félix Bünning. Une première initiative de soutien a déjà reconnu la pertinence de ce projet. En novembre 2021, "Venture Kick" a accordé à &lt;b&gt;«&lt;/b&gt;viboo&lt;b&gt;»&lt;/b&gt; une contribution d'encouragement de 40 000 francs. En outre, Félix Bünning est soutenu par une "BRIDGE Proof of Concept Fellowship" du Fonds national suisse et d'Innosuisse.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Projet pilote de régulation intelligente &lt;/b&gt;&lt;/p&gt; &lt;p&gt;"Nous nous concentrons actuellement sur les fabricants de thermostats pour les bâtiments résidentiels. Beaucoup de ces entreprises ont déjà des thermostats intelligents dans leur portefeuille. Grâce à une connexion au cloud, nous pouvons y intégrer notre algorithme", explique Felix Bünning. Un premier partenaire est le fabricant international de thermostats Danfoss. En collaboration avec cette entreprise, &lt;b&gt;«&lt;/b&gt;viboo&lt;b&gt;»&lt;/b&gt; met maintenant en œuvre le premier projet pilote dans un bâtiment traditionnel. Les thermostats du bâtiment administratif de l'Empa sont remplacés par des thermostats intelligents sur lesquels fonctionne l'algorithme de &lt;b&gt;«&lt;/b&gt;viboo&lt;b&gt;»&lt;/b&gt;. Celui-ci crée d'abord le modèle du bâtiment à partir des données climatiques ambiantes. Ensuite, l'algorithme se charge de la régulation du chauffage pendant quatre mois. La question centrale est la suivante : quelle est l'efficacité de la régulation par l'algorithme par rapport à la solution standard ? Cela permettra d'évaluer le potentiel de l'algorithme dans les bâtiments traditionnels plus anciens.&lt;/p&gt; &lt;p&gt;Outre le projet pilote, des discussions sont déjà en cours avec d'autres partenaires industriels afin d'explorer d'autres possibilités d'application. &lt;b&gt;«&lt;/b&gt;viboo&lt;b&gt;»&lt;/b&gt; va par exemple intégrer l'algorithme directement dans le système d'automatisation du bâtiment dans un nouveau bâtiment à Zurich et optimiser ainsi la régulation dans l'ensemble de l'immeuble de bureaux.&lt;/p&gt;</text>
+      <contact>Felix Bünning Urban Energy Systems Lab / viboo Tél. +41 58 765 44 69 felix.buenning@empa.ch Rédaction / Contact médias Loris Pandiani Communication Tél. +41 58 765 47 03 redaktion@empa.ch</contact>
+      <attachment id="226044">
+        <title>Das Empa-Spinoff Viboo baut ein Thermostat, der in die Zukunft blickt und die Temperatur vorausschauend regelt.</title>
+        <format>jpg</format>
+        <size-kb>245</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="226045">
+        <title>Empa-Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Optimizing indoor temperatures – thanks to AI</title>
+      <lead>The Empa spin-off viboo has developed a self-learning algorithm for controlling the indoor climate. This enables predictive cooling or heating of buildings, thus saving around one third of energy. Following successful experiments at NEST, Empa's and Eawag's research and innovation building, the first pilot projects are now being implemented with industrial partners.</lead>
+      <text link="no">Conventional thermostats, which are commonplace in many residential buildings today, only react when the temperature falls below or exceeds a certain threshold. The reaction is therefore always too late and too severe, as the desired temperature is to be reached again as fast as possible. This costs energy and ultimately money. The solution: a thermostat that looks ahead and regulates the room temperature with foresight. ------Looking ahead to save energy------ A spin-off from Empa, which is currently in the start-up phase, is making this peek into the future possible. The company goes by the name of viboo, which stands for "viable intelligent building operation optimization." In the course of their research at Empa, the founders Felix Bünning and Benjamin Huber developed an algorithm that controls buildings predictively. Remarkably, building data of only two weeks, such as valve positions and room temperature measurements, are needed to create a model of the building. In combination with predictions of the local outside temperature and global solar radiation, the algorithm then independently calculates up to twelve hours in advance the ideal energy input for heating or cooling the building. This eliminates sudden reactive control operations, thus eventually consuming significantly less energy. "The potential is huge. Our experiments at NEST have shown that this approach can achieve energy savings of between 26 and 49 percent," explains Felix Bünning. The researchers used the research and innovation building on the Empa campus in Dübendorf to test and further optimize the algorithm in a real-world environment. The field tests generated interest from industry, and the researchers realized that they should bring their algorithm from their lab to the market. The motivation of the two scientists is not financial, but rather societal. "An enormous amount of energy is used worldwide for the heating and cooling of buildings. This is one of the reasons why the building sector accounts for a large share of the global CO2 emissions. With our algorithm, we want to help as many households as possible to save energy and thus make our contribution to reducing these emissions," says Bünning. A first funding initiative has already acknowledged the potential of this idea. In November 2021, Venture Kick awarded viboo a grant of 40,000 Swiss francs. In addition, Felix Bünning is supported by a BRIDGE Proof-of-Concept Fellowship from the Swiss National Science Foundation (SNSF) and Innosuisse, Switzerland's innovation agency. -----Pilot project for smart control ----- "We are currently focusing on thermostat manufacturers for residential buildings. Many of these companies already have smart thermostats in their portfolio. We integrate our algorithm into them by using a cloud-based solution," explains Felix Bünning. A first partner is the international thermostat manufacturer Danfoss. Together with the company, viboo is now implementing the first pilot project in a conventional building. In this project, the conventional thermostats in Empa's administrative building are being replaced by smart thermostats, on which the viboo algorithm is running. Based on the indoor climate data, the algorithm will first create a model of the building. Then, it will take over control of the heating over a period of four months. The central question is: How efficiently does the algorithm regulate indoor temperatures compared to a standard solution? This will provide information about its potential for older buildings. In addition to the pilot project, viboo is already talking to other industry partners to explore further potential applications. The spin-off will, for example, integrate the algorithm directly into the building automation system in a new building in Zurich and thus optimize the heating and cooling control in this office building. </text>
+      <contact>Felix Bünning Urban Energy Systems Lab / viboo Phone +41 58 765 44 69 felix.buenning@empa.ch Editor / Media contact Loris Pandiani Communication Phone +41 58 765 47 03 redaktion@empa.ch</contact>
+      <attachment id="226044">
+        <title>Das Empa-Spinoff Viboo baut ein Thermostat, der in die Zukunft blickt und die Temperatur vorausschauend regelt.</title>
+        <format>jpg</format>
+        <size-kb>245</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69875.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="226045">
+        <title>Empa-Medienmitteilung DE EN FR</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
