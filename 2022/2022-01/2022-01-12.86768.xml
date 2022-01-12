@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86768" revoked="no">
+    <version>2</version>
+    <pubdate>2022-01-12</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="501" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Vernehmlassung zur Einführung einer Meldepflicht für Cyberangriffe eröffnet</title>
+      <lead>An seiner Sitzung vom 12. Januar 2022 hat der Bundesrat die Vernehmlassung zur Vorlage für die Einführung einer Meldepflicht für Cyberangriffe bei kritischen Infrastrukturen eröffnet. Die Vorlage schafft die gesetzlichen Grundlagen für die Meldepflicht und definiert die Aufgaben des Nationalen Zentrums für Cybersicherheit (NCSC), welches als zentrale Meldestelle für Cyberangriffe vorgesehen ist. Die Vernehmlassung dauert bis zum 14. April 2022.</lead>
+      <text link="no"> &lt;p&gt;Cyberangriffe sind zu einer ernsthaften Bedrohung der Sicherheit und Wirtschaft der Schweiz geworden. Täglich finden Angriffe auf Unternehmen und Behörden statt. Das NCSC erhält im Durchschnitt wöchentlich über 300 Meldungen zu erfolgreichen oder versuchten Cyberangriffen. Diese Meldungen an das NCSC erfolgen auf freiwilliger Basis durch Unternehmen, Behörden und Privatpersonen. Sie helfen den zuständigen Bundesbehörden, die Bedrohungslage einzuschätzen und aktuelle Angriffsmuster frühzeitig zu erkennen. Der Bundesrat will nun das Meldewesen stärken, indem er die Betreiberinnen und Betreiber kritischer Infrastrukturen verpflichtet, dem NCSC Cyberangriffe zu melden. Über die Meldepflicht soll sichergestellt werden, dass das NCSC aufgrund der umfassenden Informationen über ein übersichtlicheres Lagebild verfügt und dadurch andere Betreibende kritischer Infrastrukturen frühzeitig vor Cyberangriffen warnen kann.&lt;/p&gt; &lt;h2&gt;Meldepflicht für kritische Infrastrukturen&lt;/h2&gt; &lt;p&gt;Die Meldepflicht für die Betreiberinnen und Betreiber kritischer Infrastrukturen soll für Cyberangriffe gelten, die ein erhebliches Schadenspotential aufweisen. Dies sind insbesondere Angriffe, die die Funktionsfähigkeit von kritischen Infrastrukturen gefährden oder mit Erpressung, Drohung oder Nötigung verbunden sind. Als zentrale Meldestelle ist das NCSC vorgesehen. Um eine Meldung so einfach wie möglich vorzunehmen, wird das NCSC ein elektronisches Meldeformular zur Verfügung stellen. Dies erlaubt, Meldungen einfach zu erfassen und die Meldungen auf Wunsch direkt weiteren Stellen zu übermitteln. &lt;/p&gt; &lt;h2&gt;Pflicht des Bundes zur Unterstützung bei Cyberangriffen&lt;/h2&gt; &lt;p&gt;Die Vorlage verpflichtet aber nicht nur die Unternehmen zur Mitwirkung beim Schutz vor Cyberangriffen, sondern definiert auch die Aufgaben des Bundes bei der Unterstützung der Wirtschaft und Bevölkerung. Zu diesem Zweck wird das NCSC beauftragt, die Öffentlichkeit vor Cyberbedrohungen zu warnen und sie für Cyberrisiken zu sensibilisieren. Auch soll das NCSC Meldungen zu Vorfällen und Schwachstellen entgegennehmen, technische Analysen durchführen und den Meldenden Empfehlungen zum weiteren Vorgehen abgeben. Betreiberinnen und Betreiber kritischer Infrastrukturen, zu denen auch kantonale und kommunale Behörden gehören, unterstützt das NCSC zudem bei der Bewältigung von Cybervorfällen. Diese Unterstützung soll im Sinne einer ersten Hilfe erfolgen und nur soweit gehen, dass sie nicht in Konkurrenz stehen zu Dienstleistungen, die am Markt erhältlich sind.&lt;/p&gt; &lt;p&gt;Bis anhin wurden diese Aufgaben des Bundes beim Schutz vor Cyberrisiken auf Basis der bestehenden Aufträge wahrgenommen, waren jedoch nicht auf Gesetzesstufe definiert. Mit der Verankerung der Meldepflicht im Informationssicherheitsgesetz (ISG) sollen nun auch die Aufgaben des NCSC, insbesondere auch dessen Zuständigkeit als Meldestelle, im ISG festgelegt werden.&lt;/p&gt; &lt;p&gt;Die Vernehmlassung zur Vorlage dauert bis zum 14. April 2022. &lt;/p&gt; </text>
+      <contact>Kommunikation, Eidgenössisches Finanzdepartement EFD Tel. +41 58 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="226126">
+        <title>Gesetz</title>
+        <format>pdf</format>
+        <size-kb>321</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69892.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226127">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>696</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69893.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226128">
+        <title>Brief an die Kantone</title>
+        <format>pdf</format>
+        <size-kb>149</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69894.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226129">
+        <title>Brief an die Organisationen</title>
+        <format>pdf</format>
+        <size-kb>167</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69895.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226130">
+        <title>Liste der Vernehmlassungsadressaten - Liste des destinataires - Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69896.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Ouverture de la consultation relative à l'introduction d'une obligation de signaler les cyberattaques</title>
+      <lead>Lors de sa séance du 12 janvier 2022, le Conseil fédéral a décidé d'ouvrir la procédure de consultation sur l'avant-projet de modification de la loi sur la sécurité de l'information relatif à l'introduction d'une obligation de signaler les cyberattaques contre les infrastructures critiques. Cet avant-projet crée les bases légales nécessaires à l'introduction de l'obligation de signalement et définit les tâches du Centre national pour la cybersécurité (NCSC), qu'il institue comme centrale de signalement des cyberattaques. La consultation durera jusqu'au 14 avril 2022.</lead>
+      <text link="no"> &lt;p&gt;Les cyberattaques sont devenues l'une des principales menaces pour la sécurité et l'économie de la Suisse. Chaque jour, des entreprises et des administrations sont victimes d'attaques. En moyenne, le NCSC reçoit plus de 300 annonces par semaine concernant des tentatives de cyberattaques et des cyberattaques réussies. Ces annonces sont faites sur une base volontaire par des entreprises, des autorités et des particuliers. Elles aident les autorités fédérales compétentes à évaluer le niveau de menace et à identifier les modes opératoires à un stade précoce. Le Conseil fédéral entend renforcer le système d'annonce en obligeant les exploitants d'infrastructures critiques à signaler au NCSC les cyberattaques dont ils sont victimes. L'obligation de signaler les cyberattaques vise à permettre au NCSC de dresser un tableau précis de la situation en se basant sur des informations complètes et, ainsi, d'alerter à temps les autres exploitants d'infrastructures critiques.&lt;/p&gt; &lt;h2&gt;Obligation de signalement pour les infrastructures critiques&lt;/h2&gt; &lt;p&gt;L'obligation de signalement pour les exploitants d'infrastructures critiques s'appliquera aux cyberattaques recelant un potentiel important de dommages. Il s'agit, en particulier, des attaques qui mettent en péril le bon fonctionnement des infrastructures critiques ou qui s'accompagnent d'actes de chantage, de menaces ou de contrainte. Le NCSC assumera le rôle de centrale de signalement. Afin que les signalements soient aussi simples que possible à effectuer, le NCSC mettra à disposition un formulaire électronique qui permettra de saisir facilement les déclarations et, au besoin, de les transmettre directement à d'autres services.&lt;/p&gt; &lt;h2&gt;Obligation pour la Confédération de fournir une assistance en cas de cyberattaque&lt;/h2&gt; &lt;p&gt;L'avant-projet n'oblige pas seulement les entreprises à participer à la protection contre les cyberattaques, mais définit aussi les tâches de la Confédération en matière de soutien aux entreprises et à la population. À cette fin, le NCSC sera chargé d'avertir le public des cybermenaces et de le sensibiliser aux cyberrisques. Il aura également pour tâches de recevoir les signalements concernant les cyberincidents et les vulnérabilités, de réaliser des analyses techniques et de fournir aux entreprises à l'origine d'un signalement des recommandations sur la manière de procéder. Le NCSC soutiendra en outre les exploitants d'infrastructures critiques (qui comprennent aussi les autorités cantonales et communales) en les aidant dans la gestion des cyberincidents. Cette aide sera proposée en guise de premiers secours et ne devra pas concurrencer les prestations disponibles sur le marché. &lt;/p&gt; &lt;p&gt;Actuellement, la Confédération assume les tâches en matière de protection contre les cyberrisques sur la base des mandats existants, mais celles-ci ne sont pas définies au niveau de la loi. L'inscription de l'obligation de signaler les cyberattaques dans la loi sur la sécurité de l'information permettra également d'y définir les tâches du NCSC, et notamment sa compétence en tant que centrale de signalement.&lt;/p&gt; &lt;p&gt;La consultation sur l'avant-projet durera jusqu'au 14 avril 2022.&lt;/p&gt; </text>
+      <contact>Communication, Département fédéral des finances DFF no tél. +41 58 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="226131">
+        <title>Loi</title>
+        <format>pdf</format>
+        <size-kb>819</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69897.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226132">
+        <title>Rapport explicatif</title>
+        <format>pdf</format>
+        <size-kb>678</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69898.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226133">
+        <title>Lettre aux cantons</title>
+        <format>pdf</format>
+        <size-kb>169</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69899.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226134">
+        <title>Lettre aux organisations</title>
+        <format>pdf</format>
+        <size-kb>166</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69900.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226130">
+        <title>Liste der Vernehmlassungsadressaten - Liste des destinataires - Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69896.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Avvio della procedura di consultazione concernente l’introduzione dell’obbligo di notifica dei ciberattacchi</title>
+      <lead>Nella seduta del 12 gennaio 2022 il Consiglio federale ha avviato la procedura di consultazione concernente l’introduzione dell’obbligo di notifica dei ciberattacchi per i gestori di infrastrutture critiche. Il progetto pone le basi legali necessarie per l’obbligo di notifica e definisce i compiti del Centro nazionale per la cibersicurezza (NCSC), che fungerà da servizio centrale per la notifica dei ciberattacchi. La procedura di consultazione termina il 14 aprile 2022.</lead>
+      <text link="no"> &lt;p&gt;I ciberattacchi sono diventati una seria minaccia per la sicurezza e l’economia della Svizzera. Imprese e autorità sono oggetto di attacchi ogni giorno. In media ogni settimana giungono al NCSC oltre 300 segnalazioni di ciberattacchi, tentati o riusciti. Le segnalazioni provenienti da imprese, autorità e privati avvengono su base volontaria e permettono alle competenti autorità federali di valutare le minacce e individuare tempestivamente il tipo di attacco. Il Consiglio federale intende rafforzare il sistema di notifica obbligando i gestori di infrastrutture critiche a segnalare i ciberattacchi al NCSC. L’obbligo di notifica ha lo scopo di garantire a quest’ultimo la possibilità di avere un quadro della situazione più chiaro grazie alle informazioni complete ricevute e informare tempestivamente altri gestori di infrastrutture critiche. &lt;/p&gt; &lt;h2&gt;Obbligo di notifica per le infrastrutture critiche&lt;/h2&gt; &lt;p&gt;L’obbligo di notifica per i gestori di infrastrutture critiche deve applicarsi ai ciberattacchi che possono arrecare notevoli danni, in particolare a quelli che rischiano di compromettere il funzionamento delle infrastrutture critiche o connessi al reato di estorsione, minaccia o coazione. La funzione di servizio centrale di notifica verrebbe assunta dal NCSC. Per semplificare la notifica il più possibile, il NCSC metterà a disposizione un modulo elettronico che permetterà, se lo si desidera, di trasmettere la notifica direttamente ad altri servizi. &lt;/p&gt; &lt;h2&gt;Obbligo di sostegno della Confederazione in caso di ciberattacchi&lt;/h2&gt; &lt;p&gt;Il progetto non soltanto obbliga le imprese a collaborare nella protezione dai ciberattacchi, ma definisce anche i compiti della Confederazione a sostegno dell’economia e della popolazione. A tal fine, il NCSC è incaricato di avvertire il pubblico riguardo alle ciberminacce e di sensibilizzarlo sui rischi. Inoltre, deve ricevere le notifiche di ciberincidenti e vulnerabilità, elaborare analisi tecniche e fornire raccomandazioni sul modo di procedere alle persone che notificano incidenti. Il NCSC sostiene i gestori di infrastrutture critiche (incluse le autorità cantonali e comunali) nella gestione di ciberincidenti. Questo sostegno è inteso come un servizio di pronto intervento e non deve entrare in concorrenza con altri servizi disponibili sul mercato. &lt;/p&gt; &lt;p&gt;Finora i compiti di protezione dai ciber-rischi sono stati adempiuti dalla Confederazione sulla base dei mandati esistenti, ma non erano ancora stati sanciti a livello di legge. Con l’introduzione dell’obbligo di notifica nella legge sulla sicurezza delle informazioni (LSIn), ora si devono definire nella stessa LSIn anche i compiti del NCSC, in particolare la sua competenza in qualità di servizio di notifica. &lt;/p&gt; &lt;p&gt;La procedura di consultazione termina il 14 aprile 2022.&lt;/p&gt; </text>
+      <contact>Comunicazione, Dipartimento federale delle finanze DFF Tel. +41 58 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="226135">
+        <title>Legge</title>
+        <format>pdf</format>
+        <size-kb>352</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69901.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226136">
+        <title>Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>686</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69902.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226137">
+        <title>Lettera ai cantoni</title>
+        <format>pdf</format>
+        <size-kb>168</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69903.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226138">
+        <title>Lettera alle organizzazioni</title>
+        <format>pdf</format>
+        <size-kb>162</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69904.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226130">
+        <title>Liste der Vernehmlassungsadressaten - Liste des destinataires - Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69896.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Initiation of consultation on introduction of cyberattack reporting obligation</title>
+      <lead>During its meeting on 12 January 2022, the Federal Council initiated the consultation on the proposed introduction of a reporting obligation for cyberattacks on critical infrastructures. The proposal creates the legal basis for the reporting obligation and defines the tasks of the National Cybersecurity Centre (NCSC), which is intended to be the central reporting office for cyberattacks. The consultation will last until 14 April 2022.</lead>
+      <text link="no"> &lt;p&gt;Cyberattacks have become a serious threat for Switzerland's security and economy. Every day, attacks are carried out on companies and authorities. On average, the NCSC receives over 300 reports concerning successful or attempted cyberattacks every week. These reports to the NCSC are submitted on a voluntary basis by companies, authorities and private individuals. They help the competent federal authorities to assess the threat situation and to recognise current attack patterns early on. The Federal Council now wishes to strengthen the reporting system by obliging the operators of critical infrastructures to report cyberattacks to the NCSC. The reporting obligation is intended to ensure that the NCSC can have a clearer picture of the situation based on comprehensive information and thus warn other critical infrastructure operators about cyberattacks at an early stage.&lt;/p&gt; &lt;h2&gt;Reporting obligation for critical infrastructures&lt;/h2&gt; &lt;p&gt;The reporting obligation for operators of critical infrastructures is to apply to cyberattacks that have the potential to cause significant damage. Specifically, these are attacks that endanger the proper functioning of critical infrastructures or are associated with extortion, threats or coercion. The NCSC is intended to be the central reporting office. In order to make reporting as simple as possible, the NCSC will provide an electronic reporting form. This will allow reports to be created easily and, if desired, transmitted directly to other units. &lt;/p&gt; &lt;h2&gt;Confederation's obligation to provide support in the event of cyberattacks&lt;/h2&gt; &lt;p&gt;The proposal not only obliges companies to help protect against cyberattacks; it also defines the Confederation's tasks in supporting the economy and the general public. The NCSC is thus tasked with warning the general public about cyberthreats and raising awareness of cyber-risks. The NCSC should also take receipt of reports concerning incidents and vulnerabilities, conduct technical analyses and recommend how those reporting should proceed. The NCSC should additionally support critical infrastructure operators, including cantonal and communal authorities, in dealing with cyberincidents. This support is to be provided as a type of first aid and only to the extent that it does not compete with services available on the market.&lt;/p&gt; &lt;p&gt;Previously, these cyber-risk protection tasks of the Confederation were carried out on the basis of existing mandates, but without being defined at legislative level. By enshrining the reporting obligation in the Information Security Act (ISA), the tasks of the NCSC, especially its responsibility as a reporting office, are now likewise to be set out in the ISA.&lt;/p&gt; &lt;p&gt;The consultation on the proposal will last until 14 April 2022. &lt;/p&gt; </text>
+      <contact>Communications Federal Department of Finance FDF Tel. +41 58 462 60 33, info@gs-efd.admin.ch</contact>
+      <attachment id="226126">
+        <title>Gesetz</title>
+        <format>pdf</format>
+        <size-kb>321</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69892.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226127">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>696</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69893.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226128">
+        <title>Brief an die Kantone</title>
+        <format>pdf</format>
+        <size-kb>149</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69894.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226129">
+        <title>Brief an die Organisationen</title>
+        <format>pdf</format>
+        <size-kb>167</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69895.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="226130">
+        <title>Liste der Vernehmlassungsadressaten - Liste des destinataires - Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69896.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+      <offer id="351" org-id="602">
+        <name lang="de">NCSC - Nationales Zentrum für Cybersicherheit</name>
+        <name lang="fr">NCSC - Centre national pour la cybersécurité</name>
+        <name lang="it">NCSC - Centro nazionale per la cibersicurezza</name>
+        <name lang="en">NCSC - National Cyber Security Centre</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="5180" org-id="501">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5530" org-id="501">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+      </keyword>
+      <keyword id="5980" org-id="501">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
+      </keyword>
+      <keyword id="5127" org-id="501">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

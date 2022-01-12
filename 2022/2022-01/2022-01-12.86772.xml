@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86772" revoked="no">
+    <version>1</version>
+    <pubdate>2022-01-12</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Coronavirus: Bundesrat schlägt Verlängerung der Massnahmen vor und verkürzt Isolation und Quarantäne auf 5 Tage</title>
+      <lead>Die am 17. Dezember 2021 beschlossenen Massnahmen gegen die Ausbreitung des Coronavirus sollen bis Ende März 2022 verlängert werden. Dies schlägt der Bundesrat angesichts der angespannten Lage in den Spitälern vor. Er hat dazu eine Konsultation gestartet. Ausserdem soll die Gültigkeitsdauer des Zertifikats auf 270 Tage verkürzt werden. Der Bundesrat hat an seiner Sitzung vom 12. Januar 2022 zudem beschlossen, die Dauer von Isolation und Quarantäne ab sofort auf fünf Tage zu verkürzen. </lead>
+      <text link="no">Die epidemiologische Lage ist kritisch und bleibt schwierig einzuschätzen: Die Hospitalisierungen und die Auslastung der Intensivpflegestationen sanken in den letzten Wochen trotz rasch ansteigenden Fallzahlen. Geimpfte und genesene Personen müssen nach einer Infektion mit der Omikron-Variante deutlich weniger häufig hospitalisiert werden als noch bei der Delta-Variante. Auch der Anteil hospitalisierter Personen, die auf der Intensivstation behandelt werden müssen, ist geringer. Neue wissenschaftliche Erkenntnisse bestätigen zudem, dass die dritte Impfdosis einen wichtigen Beitrag zur Vermeidung von Hospitalisieren leistet. Die Impfung bietet weiterhin den besten Schutz vor schweren Verläufen und Langzeitfolgen. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Belastung auf Spitäler dürfte steigen&lt;br /&gt;&lt;/strong&gt;Obwohl die Omikron-Variante für geimpfte und genesene Personen weniger gefährlich ist, ist ein Anstieg der Hospitalisationen wegen der sehr hohe Zahl von Infektionen wahrscheinlich. Die Belastung dürfte zuerst im normalen Akutbettenbereich steigen, bevor sie möglicherweise auch auf den Intensivpflegestationen zunehmen wird. Immer mehr Patientinnen und Patienten werden positiv getestet, die nicht wegen einer&lt;br /&gt;Covid-19-Erkrankung hospitalisiert wurden. Sie müssen in der Folge isoliert werden, wodurch die Betreuung im Spital aufwändiger wird. Hinzu kommt, dass auch im Spital ein wachsender Anteil des Personals wegen Erkrankungen abwesend sein wird. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Konsultation: Aktuelle Massnahmen verlängern&lt;br /&gt;&lt;/strong&gt;Die Strategie des Bundesrats bleibt, die Massnahmen gegen die Ausbreitung des Virus so zu wählen, dass eine Überlastung der Spitäler möglichst verhindert wird. Deshalb hat er am 17. Dezember 2021 weitgehende Einschränkungen beschlossen - unter anderem die 2G-Regel in gewissen Innenräumen, die Einschränkung privater Treffen und die Homeoffice-Pflicht. Diese Massnahmen sind bis am 24. Januar 2022 befristet. Angesichts der weiterhin angespannten Lage in den Spitälern sollen sie bis zum 31. März 2022 verlängert werden. Die Konsultation zur Verlängerung dauert bis am 17. Januar 2022. &lt;br /&gt;&lt;br /&gt;Sollte sich die Lage in den Spitälern stark verschlechtern, kann der Bundesrat unabhängig von der Konsultation rasch handeln und weitergehende Massnahmen beschliessen, etwa die Schliessung von Betrieben und Einrichtungen oder Kapazitätseinschränkungen bei Grossanlässen.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Konsultation: Gültigkeitsdauer des Zertifikats verkürzen&lt;br /&gt;&lt;/strong&gt;Der Bundesrat will zudem die Gültigkeitsdauer aller Impfzertifikate von 365 auf 270 Tage reduzieren und damit sicherstellen, dass das Zertifikat in der EU weiterhin anerkannt bleibt. Analog dazu sollen auch die Genesenenzertifikate noch 270 Tage gültig sein. Zu dieser Verkürzung der&lt;br /&gt;Gültigkeitsdauer werden die Kantone ebenfalls konsultiert. Sie soll per 1. Februar 2022 in Kraft gesetzt werden. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Weitere Fragen in der Konsultation&lt;br /&gt;&lt;/strong&gt;Der Bundesrat nutzt die Konsultation auch dazu, den Kantonen weitere Fragen zu unterbreiten - etwa zum Verbot des Präsenzunterrichts auf Tertiärstufe, zu Kapazitätsbeschränkungen bei Grossveranstaltungen, zur Verschärfung der Maskenpflicht, zur Kapazität im Bereich der Akutbetten, zur Testpflicht vor der Einreise für geimpfte und genesene Personen, zur Anpassung der Teststrategie wegen der starken Auslastung der Testlabors, zum Verzicht auf Antigen-Schnelltests oder zur Aufhebung der Quarantäneregeln. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Beschluss: Isolation und Quarantäne werden auf 5 Tage verkürzt&lt;br /&gt;&lt;/strong&gt;Der Bundesrat hat an seiner heutigen Sitzung zudem beschlossen, ab morgen Donnerstag, 13. Januar 2022 die Dauer der Isolation von zehn auf fünf Tage zu verkürzen. Um die Isolation beenden zu können, muss eine Person weiterhin 48 Stunden ohne Symptome sein. Die Kantone können zudem Ausnahmen gewähren, um die Versorgungsicherheit zu gewährleisten.&lt;br /&gt;&lt;br /&gt;Die Kontaktquarantäne wird ebenfalls auf fünf Tage verkürzt. Zudem wird die Quarantäne auf Personen beschränkt, die mit einer positiv getesteten Person im selben Haushalt leben oder in ähnlicher Weise regelmässigen und engen Kontakt hatten. Davon ausgenommen sind Personen, die ihre letzte Impfdosis vor weniger als vier Monaten erhalten haben oder vor weniger als vier Monaten genesen sind. Auch zur Kontaktquarantäne können die Kantone Ausnahmen gewähren, um die Versorgungsicherheit zu gewährleisten.&lt;br /&gt;&lt;br /&gt;Grund für die Verkürzung von Isolation und Quarantäne ist die Omikron-Variante, bei der sich der zeitliche Abstand zwischen Infektion und&lt;br /&gt;Weitergabe des Virus verkürzt hat. Zudem sind die Contact-Tracing-Strukturen der Kantone sowie Wirtschaft und Gesellschaft zuletzt unter Druck geraten, da in den letzten Wochen die Zahl der von Isolation und Quarantäne betroffenen Personen stark angestiegen ist. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Vermehrte Abwesenheiten von Arbeitnehmenden&lt;br /&gt;&lt;/strong&gt;Trotz der Entlastung durch kürzere Quarantäne- und Isolationdauer ist vermehrt mit Abwesenheiten von Arbeitnehmenden zu rechnen. Der&lt;br /&gt;Bundesrat weist in diesem Zusammenhang auf die grosse Bedeutung der Home-Office-Pflicht hin. Diese leistet einen wichtigen Beitrag, Übertragungen innerhalb der Betriebe zu verhindern. Gemäss dem Bundesamt für wirtschaftliche Landesversorgung (BWL) und dem Bundesamt für Bevölkerungsschutz (BABS) sind die Infrastrukturen für die wirtschaftliche Landesversorgung wie auch die kritischen Infrastrukturen gut auf zunehmende Abwesenheiten von Arbeitnehmenden vorbereitet.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Aussprache über Ausbau der Intensivpflege-Kapazitäten &lt;br /&gt;&lt;/strong&gt;Der Bundesrat hat heute auch eine Aussprache darüber geführt, wie der Bund die Kantone beim Ausbau der Kapazitäten im Bereich der Intensivpflege unterstützen kann. Die Bildung ausreichender Kapazitäten ist eine Aufgabe der Kantone, die das Covid-19-Gesetz neu vorsieht. </text>
+      <contact>Bundesamt für Gesundheit BAG media@bag.admin.ch Infoline Coronavirus +41 58 463 00 00 Infoline Covid-19-Impfung +41 58 377 88 92</contact>
+      <attachment id="226112">
+        <title>Grafik</title>
+        <format>pdf</format>
+        <size-kb>119</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69905.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="226116">
+        <title>Verordnung</title>
+        <format>pdf</format>
+        <size-kb>398</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69909.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="226108">
+        <title>Konsultationen Kantone</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="226120">
+        <title>Isolation und Quarantäne</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/isolation-und-quarantaene.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Coronavirus : le Conseil fédéral propose de prolonger les mesures et raccourcit à cinq jours la durée d’isolement et de quarantaine</title>
+      <lead>Les mesures adoptées le 17 décembre 2021 contre la propagation du coronavirus doivent être prolongées jusqu’à fin mars 2022. Le Conseil fédéral avance cette proposition en raison de la situation hospitalière tendue, et a lancé une consultation à cet effet. Il propose également de réduire la durée de validité du certificat à 270 jours. Par ailleurs, lors de sa séance du 12 janvier 2022, le Conseil fédéral a décidé de raccourcir à cinq jours la durée d’isolement et de quarantaine, une mesure qui s’applique dès maintenant. </lead>
+      <text link="no">La situation épidémiologique est critique et reste difficile à évaluer : ces dernières semaines, malgré l'envolée du nombre de cas, les hospitalisations et l'occupation des lits en soins intensifs ont diminué. Avec le variant Omicron, les personnes infectées qui sont vaccinées ou guéries finissent nettement moins souvent à l'hôpital qu'avec le variant Delta. De même, parmi les personnes hospitalisées, on compte moins d'admissions en soins intensifs. Par ailleurs, de nouvelles données scientifiques confirment que la troisième dose de vaccin contribue notablement à diminuer les hospitalisations. Le vaccin reste le meilleur moyen de se protéger contre les formes graves du COVID-19 et ses séquelles à long terme. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Hausse attendue de la charge hospitalière&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Bien que le variant Omicron présente moins de risques pour les personnes vaccinées ou guéries, il faut s'attendre à une hausse des&lt;br /&gt;hospitalisations en raison du nombre de contaminations très élevé. L'occupation devrait tout d'abord s'intensifier dans les services de soins aigus, avant de potentiellement aussi augmenter aux soins intensifs. Parmi les personnes hospitalisées pour un autre motif que le COVID-19, on compte toujours davantage de tests positifs, ce qui engendre leur mise en isolement et alourdit leur prise en charge. À cela s'ajoutent les absences pour cause de maladie du personnel hospitalier, qui s'inscrivent elles aussi en hausse.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Consultation en vue de prolonger les mesures actuelles&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;La stratégie du Conseil fédéral reste d'opter pour des mesures qui endiguent la propagation du coronavirus en prévenant autant que possible une surcharge hospitalière. C'est pourquoi il a adopté des restrictions conséquentes le 17 décembre 2021, notamment la règle des 2G à l'intérieur de certains établissements, la limitation des rencontres privées et l'obligation de travailler à domicile. Ces mesures devraient prendre fin le 24 janvier 2022. Au vu de la situation hospitalière qui reste tendue, le Conseil fédéral propose de les reconduire jusqu'au 31 mars 2022. La consultation relative à cette prolongation court jusqu'au 17 janvier 2022.&lt;br /&gt;&lt;br /&gt;Indépendamment de cette consultation, si la situation hospitalière devait subir une nette détérioration, le Conseil fédéral pourrait agir&lt;br /&gt;rapidement et adopter des mesures plus strictes, comme des fermetures d'établissements et d'installations ou des restrictions de capacités dans les grandes manifestations.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Consultation en vue de raccourcir la durée de validité du certificat&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Afin de maintenir la reconnaissance du certificat COVID par l'Union européenne, le Conseil fédéral souhaite raccourcir la durée de validité de tous les certificats de vaccination de 365 à 270 jours. De même, la validité des certificats de guérison serait également ramenée à 270 jours.&lt;br /&gt;Les cantons sont aussi consultés sur cette diminution de la durée de validité, dont l'entrée en vigueur est prévue au 1er février 2022.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Autres points mis en consultation&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Le Conseil fédéral profite également de la consultation pour soumettre d'autres points à l'avis des cantons, notamment quant à l'interdiction de l'enseignement présentiel au degré tertiaire, à la restriction des capacités dans les grandes manifestations, à une obligation renforcée de porter un masque, aux capacités dans les soins aigus, à l'obligation de tester les personnes vaccinées ou guéries à l'entrée en Suisse, à l'adaptation de la stratégie de dépistage en raison de la surcharge des laboratoires, à l'abandon des tests rapides antigéniques ainsi qu'à la suppression des règles de quarantaine.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Durée d'isolement et de quarantaine réduite à cinq jours &lt;/b&gt;&lt;br /&gt;Lors de sa séance du jour, le Conseil fédéral a en outre décidé de raccourcir la durée d'isolement de dix à cinq jours, une mesure qui prendra&lt;br /&gt;effet dès demain, jeudi 13 janvier 2022. Pour pouvoir sortir de l'isolement, il faudra ne plus présenter aucun symptôme depuis 48 heures,&lt;br /&gt;comme jusqu'à présent. À noter que les cantons peuvent prévoir des exceptions afin de garantir la sécurité de l'approvisionnement.&lt;br /&gt;&lt;br /&gt;La quarantaine-contact est également ramenée à cinq jours. Elle se limite aux personnes qui font ménage commun ou ont eu un contact comparable, étroit et régulier avec une personne testée positive. En sont exemptées les personnes guéries ou vaccinées - la dernière dose faisant foi - depuis moins de quatre mois. Les cantons peuvent aussi accorder des exemptions de quarantaine-contact pour garantir la sécurité de l'approvisionnement.&lt;br /&gt;&lt;br /&gt;Cette diminution de la durée d'isolement et de quarantaine s'explique par le variant Omicron, qui présente un laps de temps plus court entre la contamination et la période de contagion. De plus, les structures cantonales de traçage des contacts, tout comme l'économie et la société,&lt;br /&gt;subissent une pression accrue en raison de la forte augmentation du nombre de cas d'isolement et de quarantaine ces dernières semaines. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Augmentation des absences au travail&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Malgré la réduction de la durée de quarantaine et d'isolement, il faut s'attendre à une augmentation des absences des employés. À cet égard, le&lt;br /&gt;Conseil fédéral tient à rappeler l'importance de l'obligation de travailler à domicile, qui joue un grand rôle dans la lutte contre la propagation du virus dans le cadre professionnel. Selon l'Office fédéral pour l'approvisionnement économique du pays (OFAE) et l'Office fédéral de la protection de la population (OFPP), tant les infrastructures d'approvisionnement économique du pays que les infrastructures critiques sont parées à affronter une hausse des absences du personnel.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Discussion sur le renforcement des capacités dans les soins intensifs&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Aujourd'hui, le Conseil fédéral a également évoqué les possibilités pour la Confédération d'aider les cantons à renforcer leurs capacités dans les services de soins intensifs. Comme le prévoit désormais la loi COVID-19, c'est en effet aux cantons qu'il revient de constituer des capacités suffisantes.</text>
+      <contact>Office fédéral de la santé publique OFSP media@bag.admin.ch Infoline coronavirus +41 58 463 00 00 Infoline sur la vaccination COVID-19 +41 58 377 88 92</contact>
+      <attachment id="226113">
+        <title>Graphique</title>
+        <format>pdf</format>
+        <size-kb>110</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69906.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="226117">
+        <title>Ordonnance</title>
+        <format>pdf</format>
+        <size-kb>466</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69910.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="226109">
+        <title>Consultations des cantons</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="226121">
+        <title>Isolement et quarantaine</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/isolation-und-quarantaene.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Coronavirus: il Consiglio federale propone di prorogare i provvedimenti e riduce a cinque giorni l’isolamento e la quarantena</title>
+      <lead>In considerazione della situazione critica negli ospedali, il Consiglio federale pone in consultazione la proposta di prorogare fino alla fine di marzo i provvedimenti decisi il 17 dicembre 2021 contro la diffusione del coronavirus. Propone inoltre di ridurre a 270 giorni la validità dei certificati. Nella seduta del 12 gennaio ha per altro deciso di abbreviare da subito a cinque giorni la durata dell’isolamento e della quarantena. </lead>
+      <text link="no">&lt;p&gt;La situazione epidemiologica è critica e resta difficile prevederne l'evoluzione: nelle ultime settimane i ricoveri e il tasso d'occupazione dei reparti di terapia intensiva sono calati nonostante l'aumento esponenziale delle infezioni. Le persone vaccinate o guarite che si contagiano&lt;br /&gt;con la variante Omicron devono essere ricoverate molto meno spesso di quanto non accada con la variante Delta. Anche la quota delle&lt;br /&gt;persone ricoverate nei riparti di terapia intensiva sul totale delle ospedalizzazioni è diminuita. Nuovi dati scientifici confermano inoltre che la&lt;br /&gt;terza dose di vaccino riduce notevolmente il rischio di ricovero. Vaccinarsi resta il modo migliore per proteggersi dai decorsi gravi e dalle conseguenze a lungo termine della malattia. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Probabile aumento della pressione sugli ospedali&lt;br /&gt;&lt;/strong&gt;Anche se per le persone vaccinate o guarite la variante Omicron è meno pericolosa, l'altissimo numero di contagi lascia prevedere un aumento dei ricoveri. Probabilmente la pressione aumenterà dapprima nei reparti normali e in un secondo tempo, forse, anche nei reparti di terapia intensiva. È inoltre in costante aumento il numero dei pazienti ospedalizzati per malattie diverse dalla COVID-19 che risultano positivi al test e devono quindi essere isolati, il che complica non poco la loro degenza. A questo si aggiunge che anche negli ospedali una percentuale sempre più alta del personale sarà assente per malattia.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In consultazione: proroga dei provvedimenti &lt;br /&gt;&lt;/strong&gt;La strategia del Consiglio federale contro la diffusione del coronavirus rimane quella di adottare provvedimenti che permettano di evitare il più possibile il sovraccarico delle strutture ospedaliere. Per questo motivo, il 17 dicembre 2021 l'Esecutivo ha deciso ampie restrizioni quali, tra l'altro, l'introduzione della «regola 2G» per alcuni luoghi chiusi, la limitazione degli incontri privati e l'obbligo del telelavoro. I provvedimenti dovevano restare in vigore fino al 24 gennaio 2022, ma, a causa della difficile situazione negli ospedali, il Consiglio federale propone di prorogarli sino al 31 marzo. La consultazione durerà fino al 17 gennaio.&lt;/p&gt;&lt;p&gt;Tuttavia, indipendentemente dall'esito della consultazione, se la situazione negli ospedali dovesse peggiorare notevolmente, il Consiglio federale sarà in grado di agire rapidamente e di adottare ulteriori restrizioni, come la chiusura di strutture o limitazioni della capienza per le grandi manifestazioni.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In consultazione: riduzione della durata di validità dei certificati COVID&lt;br /&gt;&lt;/strong&gt;Il Consiglio federale intende inoltre ridurre la validità del certificato di vaccinazione da 365 a 270 giorni, in modo da continuare a garantirne il riconoscimento nell'UE. Analogamente è ridotta a 270 giorni pure la durata di validità del certificato di guarigione. Anche per questo provvedimento saranno consultati i Cantoni e, se dovessero essere d'accordo, l'entrata in vigore è prevista il 1° febbraio 2022.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Ulteriori questioni poste in consultazione&lt;br /&gt;&lt;/strong&gt;Il Consiglio federale intende valersi della consultazione per sottoporre ai Cantoni anche altre questioni, come il divieto dell'insegnamento in presenza per il livello terziario, limitazioni della capienza per le grandi manifestazioni, l'inasprimento dell'obbligo della mascherina, le capacità nei reparti di terapia intensiva, l'obbligo di sottoporsi al test prima dell'entrata in Svizzera per le persone vaccinate o guarite, l'adeguamento della strategia di test a causa del sovraccarico dei laboratori, la rinuncia ai test antigenici rapidi o la revoca delle regole sulla quarantena.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Decisione: la durata dell'isolamento e della quarantena è ridotta a cinque giorni&lt;br /&gt;&lt;/strong&gt;Nella sua seduta odierna, il Consiglio federale ha anche deciso di ridurre a partire da domani, giovedì 13 gennaio, la durata dell'isolamento da dieci a cinque giorni. Come finora, per poter uscire dall'isolamento una persona deve essere priva di sintomi per almeno 48 ore. I Cantoni possono prevedere deroghe per garantire la sicurezza dell'approvvigionamento.&lt;/p&gt;&lt;p&gt;Anche la quarantena dei contatti sarà ridotta a cinque giorni. Sarà inoltre limitata a chi vive nella stessa economia domestica o che, in modo analogo, ha contatti regolari e stretti con una persona risultata positiva al test. Sono esentate dalla quarantena le persone che hanno ricevuto&lt;br /&gt;l'ultima dose di vaccino o sono guarite da meno di quattro mesi. Anche per la quarantena dei contatti, i Cantoni possono prevedere deroghe per garantire la sicurezza dell'approvvigionamento.&lt;/p&gt;&lt;p&gt;Motivo della riduzione della durata dell'isolamento e della quarantena è la variante Omicron, con la quale l'intervallo di tempo tra infezione e trasmissione del virus si è ridotto. Inoltre, nelle ultime settimane il numero di persone in isolamento o quarantena è aumentato notevolmente mettendo sono pressione le strutture di tracciamento dei contatti dei Cantoni, l'economia e la società. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aumento delle assenze dal lavoro&lt;br /&gt;&lt;/strong&gt;Anche se la riduzione della durata della quarantena dovrebbe permettere di alleviare la situazione, il numero di assenze dal lavoro dovrebbe continuare ad aumentare. In questo contesto, il Consiglio federale sottolinea l'importanza cruciale dell'obbligo del telelavoro, che contribuisce&lt;br /&gt;in misura determinante a prevenire i contagi nelle aziende. Secondo l'Ufficio federale per l'approvvigionamento economico del Paese e l'Ufficio federale della protezione della popolazione, le infrastrutture per l'approvvigionamento economico del Paese e le infrastrutture critiche sono ben preparate per far fronte all'aumento delle assenze dal lavoro.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Discussione sul potenziamento dei reparti di terapaia intensiva&lt;br /&gt;&lt;/strong&gt;Il Consiglio federale ha inoltre discusso su come la Confederazione possa sostenere i Cantoni nel potenziamento dei reparti di terapia intensiva.&lt;br /&gt;La costituzione di capacità sufficienti è un compito dei Cantoni, previsto ora anche nella legge COVID-19.&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica UFSP media@bag.admin.ch Infoline coronavirus +41 58 463 00 00 Infoline vaccinazione COVID-19 +41 58 377 88 92</contact>
+      <attachment id="226114">
+        <title>Grafico</title>
+        <format>pdf</format>
+        <size-kb>105</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69907.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="226118">
+        <title>Ordinanza</title>
+        <format>pdf</format>
+        <size-kb>390</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69911.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="226110">
+        <title>Consultazioni dei Cantoni</title>
+        <uri>https://www.bag.admin.ch/bag/it/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="226122">
+        <title>Isolamento e quarantena</title>
+        <uri>https://www.bag.admin.ch/bag/it/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/isolation-und-quarantaene.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Coronavirus: Federal Council proposes extending validity of measures and reducing isolation and quarantine period to 5 days</title>
+      <lead>The measures introduced on 17 December to contain the spread of the coronavirus should remain in place until the end of March. That is the proposal being put out for consultation by the Federal Council in view of the strained situation in hospitals. Furthermore, the validity of COVID certificates is to be shortened to 270 days. At its meeting on 12 January, the Federal Council also decided to shorten the isolation and quarantine period to five days with immediate effect.</lead>
+      <text link="no">The epidemiological situation is critical and remains difficult to assess: hospital admissions and occupancy of intensive care units have fallen in recent weeks despite a surge in the number of cases. People who have been vaccinated or have previously recovered from COVID-19 are far less likely to require hospital treatment after becoming infected with the Omicron variant than with the Delta variant. The proportion of people admitted to hospital who have to be treated in intensive care is also lower. New scientific findings also confirm that the third vaccine dose&lt;br /&gt;significantly helps to prevent hospital admissions. Vaccination continues to offer the best protection against severe illness and long-term consequences.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Pressure on hospitals likely to rise&lt;br /&gt;&lt;/strong&gt;Although the Omicron variant is less dangerous for vaccinated and recovered persons, an increase in hospital admissions is to be expected because of the very high number of infections. The burden is likely to increase in the normal acute care area first, before possibly increasing in intensive care units as well. More and more hospital patients are testing positive even though they were not admitted due to COVID-19. As a result, they have to be isolated, which makes care in hospital more complex. In addition, a growing proportion of hospital staff are also likely to be absent due to illness.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Consultation: Extending validity of current measures&lt;br /&gt;&lt;/b&gt;The Federal Council's strategy continues to be to adopt measures to contain the spread of the virus to prevent hospitals from becoming overstretched. That is why it decided to introduce far-reaching restrictions on 17 December including the ‘2G' rule in certain indoor settings,&lt;br /&gt;restrictions on private gatherings and the requirement to work from home. These measures are currently due to expire on 24 January. However, in view of the continuing tense situation in hospitals, the Federal Council proposes extending these until 31 March. The consultation on extending the validity of these measures will last until 17 January.&lt;br /&gt;&lt;br /&gt;Should the situation in hospitals deteriorate significantly, the Federal Council can still act swiftly by imposing stricter measures such as the closure of facilities and institutions or by limiting capacity at large-scale events, regardless of the consultation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Consultation: Shortening validity of COVID certificates&lt;/b&gt;&lt;br /&gt;The Federal Council also plans to reduce the period of validity of all forms of vaccination certificate from 365 to 270 days and so ensure that the certificate remains valid in the EU. Certificates issued as proof of recovery from COVID-19 will also only be valid for 270 days. The cantons will also be consulted on the proposal to shorten the period of validity. This should come into effect from 1 February.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Further questions in the consultation&lt;br /&gt;&lt;/strong&gt;The Federal Council is also using the consultation to submit further questions to the cantons - for example, on the ban on face-to-face teaching at tertiary level, capacity restrictions for large-scale events, extending mandatory mask-wearing, capacity in the area of acute beds, compulsory pre-entry testing for vaccinated and recovered persons, adapting the testing strategy due to the heavy workload of the testing laboratories, dispensing with rapid antigen tests and on lifting quarantine rules.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Decision: Isolation and quarantine period to be shortened to 5 days&lt;/b&gt;&lt;br /&gt;At its meeting today, the Federal Council decided to shorten the isolation period from ten to five days with effect from Thursday, 13 January. In order to come out of isolation, the person concerned must be symptom-free for 48 hours. Cantonal authorities may grant exemptions to ensure&lt;br /&gt;security of supply.&lt;br /&gt;&lt;br /&gt;Contact quarantine is also to be shortened to five days. Furthermore, quarantine is to be limited to persons who live in the same household as someone who has tested positive or who has had close contact in other ways. Persons who have had their last dose of vaccine or who have recovered from COVID-19 within the last four months are exempted. Cantonal authorities may also grant exemptions from contact quarantine to ensure security of supply.&lt;br /&gt;&lt;br /&gt;The reason for shortening the isolation and quarantine period is due to the Omicron variant as the interval between infection and transmission of the virus is shorter. In addition, cantonal contact tracing capacity as well as the economy and society have come under increased pressure as the number of people affected by isolation and quarantine requirements has risen sharply in recent weeks.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Increase in staff absences&lt;br /&gt;&lt;/strong&gt;Despite the relief provided by shorter quarantine and isolation periods, an increase in staff absences is to be expected. In this context, the Federal Council stresses the importance of the requirement to work from home. This requirement significantly helps to prevent transmission in the workplace. According to the Federal Office for National Economic Supply (FONES) and the Federal Office for Civil Protection (FOCP), the infrastructure to ensure national economic supply as well as critical infrastructures are well prepared for higher rates of staff absence.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Discussion on expanding intensive care capacity&lt;br /&gt;&lt;/strong&gt;The Federal Council also discussed ways in which the federal government could support the cantons in their efforts to expand intensive care capacity. Under the COVID-19 Act, responsibility for creating sufficient capacity now rests with the cantons.</text>
+      <contact>Federal Office of Public Health FOPH www.bag.admin.ch media@bag.admin.ch COVID-19 Infoline +41 58 463 00 00 COVID-19 Vaccination Infoline +41 58 377 88 92</contact>
+      <attachment id="226115">
+        <title>Graphic</title>
+        <format>pdf</format>
+        <size-kb>108</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69908.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="226119">
+        <title>Ordonnance (French)</title>
+        <format>pdf</format>
+        <size-kb>466</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/69912.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="226111">
+        <title>Cantonal consultations</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes/konsultation-kantone.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="226123">
+        <title>Isolation and quarantine</title>
+        <uri>https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/isolation-und-quarantaene.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
