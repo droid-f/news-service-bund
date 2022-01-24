@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="86871" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-01-21</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="201" lead="yes" topnews="no">
@@ -39,17 +39,17 @@
       <lead>Bundespräsident und EDA-Vorsteher Ignazio Cassis ist am Freitag, 21. Januar 2022, aus Anlass des Treffens USA-Russland in Genf zu separaten Gesprächen mit den Aussenministern Antony Blinken und Sergej Lawrow zusammenkommen. Im Zentrum der Gespräche standen die Sicherheitslage in Europa und die Situation an der russisch-ukrainischen Grenze.</lead>
       <text link="no">&lt;p&gt;Die Schweiz ist besorgt über die zunehmenden Spannungen an der russisch-ukrainischen Grenze. Sie ist überzeugt, dass nur der Dialog die Sicherheit auf dem europäischen Kontinent stärkt. Bundespräsident Cassis erläuterte, dass die Schweiz ihre Guten Dienste anbietet, wenn diese als nützlich erachtet und gewünscht wird. Zudem sollte die OSZE als Dialogplattform und mit ihren vertrauens- und sicherheitsbildenden Massnahmen eine zentrale Rolle einnehmen.&lt;/p&gt;&lt;p&gt;Dass die beiden Länder nach dem Gipfel vom 16. Juni 2021 erneut Genf für ein hochrangiges Treffen ausgewählt haben, unterstreiche «die ungebrochene Bedeutung des Internationalen Genfs, wenn es darum geht, Lösungen für Herausforderungen der Gegenwart zu suchen», erklärte Bundespräsident Cassis.&lt;/p&gt;&lt;p&gt;Beide Gespräche hatten mit der Sicherheitslage in Europa einen klaren Schwerpunkt. Am Rande kamen weitere internationale Themen wie die Lage in Afghanistan zur Sprache. Mit dem russischen Aussenminister Lawrow besprach Bundespräsident Cassis zudem Menschenrechtsfragen und mit US-Aussenminister Blinken bilaterale Themen sowie die Beziehungen zum Iran. &lt;/p&gt;</text>
       <contact>Kommunikation EDA Bundeshaus West CH-3003 Bern Tel. Kommunikationsservice: +41 58 462 31 53 Tel. Medienstelle: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="226448">
+      <link id="226485">
         <title>Bilaterale Beziehungen Schweiz - Vereinigte Staaten von Amerika</title>
         <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/vereinigte-staaten/bilatereale-beziehungenschweizvereinigtestaaten.html</uri>
         <position>Content</position>
       </link>
-      <link id="226449">
+      <link id="226486">
         <title>Bilaterale Beziehungen Schweiz - Russland</title>
         <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/russland/bilatereale-beziehungenschweizrussland.html</uri>
         <position>Content</position>
       </link>
-      <link id="226453">
+      <link id="226487">
         <title>Die guten Dienste der Schweiz</title>
         <uri>https://www.eda.admin.ch/eda/de/home/aussenpolitik/frieden-menschenrechte/frieden/die-guten-dienstederschweiz.html</uri>
         <position>Content</position>
@@ -58,72 +58,78 @@
     </content>
     <content lang="fr">
       <city>Genève</city>
-      <title>Bundespräsident Ignazio Cassis trifft die Aussenminister der USA und Russlands</title>
-      <lead>Bundespräsident und EDA-Vorsteher Ignazio Cassis ist am Freitag, 21. Januar 2022, aus Anlass des Treffens USA-Russland in Genf zu separaten Gesprächen mit den Aussenministern Antony Blinken und Sergej Lawrow zusammenkommen. Im Zentrum der Gespräche standen die Sicherheitslage in Europa und die Situation an der russisch-ukrainischen Grenze.</lead>
-      <text link="no">&lt;p&gt;Die Schweiz ist besorgt über die zunehmenden Spannungen an der russisch-ukrainischen Grenze. Sie ist überzeugt, dass nur der Dialog die Sicherheit auf dem europäischen Kontinent stärkt. Bundespräsident Cassis erläuterte, dass die Schweiz ihre Guten Dienste anbietet, wenn diese als nützlich erachtet und gewünscht wird. Zudem sollte die OSZE als Dialogplattform und mit ihren vertrauens- und sicherheitsbildenden Massnahmen eine zentrale Rolle einnehmen.&lt;/p&gt;&lt;p&gt;Dass die beiden Länder nach dem Gipfel vom 16. Juni 2021 erneut Genf für ein hochrangiges Treffen ausgewählt haben, unterstreiche «die ungebrochene Bedeutung des Internationalen Genfs, wenn es darum geht, Lösungen für Herausforderungen der Gegenwart zu suchen», erklärte Bundespräsident Cassis.&lt;/p&gt;&lt;p&gt;Beide Gespräche hatten mit der Sicherheitslage in Europa einen klaren Schwerpunkt. Am Rande kamen weitere internationale Themen wie die Lage in Afghanistan zur Sprache. Mit dem russischen Aussenminister Lawrow besprach Bundespräsident Cassis zudem Menschenrechtsfragen und mit US-Aussenminister Blinken bilaterale Themen sowie die Beziehungen zum Iran. &lt;/p&gt;</text>
+      <title>Rencontre entre le président de la Confédération Ignazio Cassis et les ministres des affaires étrangères américain et russe</title>
+      <lead>Le président de la Confédération et chef du DFAE Ignazio Cassis était à Genève ce vendredi 21 janvier 2022 pour rencontrer séparément les ministres des affaires étrangères Antony Blinken et Sergueï Lavrov, dans le cadre des pourparlers organisés entre les États-Unis et la Russie. La sécurité en Europe et la situation à la frontière entre la Russie et l’Ukraine étaient au cœur des discussions.</lead>
+      <text link="no">&lt;p&gt;La Suisse est préoccupée par les tensions accrues à la frontière russo-ukrainienne. Elle est convaincue que la sécurité sur le continent européen ne peut être renforcée que par le dialogue. Le président de la Confédération Ignazio Cassis a précisé que la Suisse ne proposait ses bons offices que s’ils étaient souhaités et jugés utiles. L’OSCE doit en outre endosser un rôle déterminant, en tant que plateforme de dialogue et au moyen de ses mesures de renforcement de la confiance et de la sécurité.&lt;/p&gt;&lt;p&gt;Le fait que le choix des deux pays se soit de nouveau porté sur Genève pour une rencontre de haut niveau après le sommet du 16 juin dernier souligne l’importance sans discontinuité de la Genève internationale dès lors qu’il s’agit de trouver des solutions aux défis de notre temps, a déclaré le président de la Confédération Ignazio Cassis.&lt;/p&gt;&lt;p&gt;La situation sécuritaire en Europe s’est imposée comme un thème prioritaire dans les deux entretiens. D’autres sujets de l'actualité internationale ont également été abordés, notamment la situation en Afghanistan. Le président de la Confédération Ignazio Cassis a en outre discuté de la question des droits de l’homme avec le ministre des affaires étrangères russe Sergueï Lavrov. Avec le chef de la diplomatie américaine Antony Blinken, d’autres échanges ont porté sur des thèmes bilatéraux ainsi que sur les relations avec l’Iran.&lt;/p&gt;</text>
       <contact>Communication DFAE Palais fédéral ouest CH-3003 Berne Tél. Service de communication: +41 58 462 31 53 Tél. Service de presse: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="226450">
+      <link id="226488">
         <title>Relations bilatérales: Suisse - Etats-Unis d'Amérique</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-aux-voyageurs/etats-unis/suisse-etats-unis.html</uri>
         <position>Content</position>
       </link>
-      <link id="226451">
+      <link id="226489">
         <title>Relations bilatérales: Suisse - Russie</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-aux-voyageurs/russie/suisse-russie.html</uri>
         <position>Content</position>
       </link>
-      <link id="226452">
+      <link id="226490">
         <title>Bons-offices-suisse</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droits-homme-securite-humaine/paix/bons-offices-suisse.html</uri>
         <position>Content</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-01-24 14:55" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Ginevra</city>
-      <title>Bundespräsident Ignazio Cassis trifft die Aussenminister der USA und Russlands</title>
-      <lead>Bundespräsident und EDA-Vorsteher Ignazio Cassis ist am Freitag, 21. Januar 2022, aus Anlass des Treffens USA-Russland in Genf zu separaten Gesprächen mit den Aussenministern Antony Blinken und Sergej Lawrow zusammenkommen. Im Zentrum der Gespräche standen die Sicherheitslage in Europa und die Situation an der russisch-ukrainischen Grenze.</lead>
-      <text link="no">&lt;p&gt;Die Schweiz ist besorgt über die zunehmenden Spannungen an der russisch-ukrainischen Grenze. Sie ist überzeugt, dass nur der Dialog die Sicherheit auf dem europäischen Kontinent stärkt. Bundespräsident Cassis erläuterte, dass die Schweiz ihre Guten Dienste anbietet, wenn diese als nützlich erachtet und gewünscht wird. Zudem sollte die OSZE als Dialogplattform und mit ihren vertrauens- und sicherheitsbildenden Massnahmen eine zentrale Rolle einnehmen.&lt;/p&gt;&lt;p&gt;Dass die beiden Länder nach dem Gipfel vom 16. Juni 2021 erneut Genf für ein hochrangiges Treffen ausgewählt haben, unterstreiche «die ungebrochene Bedeutung des Internationalen Genfs, wenn es darum geht, Lösungen für Herausforderungen der Gegenwart zu suchen», erklärte Bundespräsident Cassis.&lt;/p&gt;&lt;p&gt;Beide Gespräche hatten mit der Sicherheitslage in Europa einen klaren Schwerpunkt. Am Rande kamen weitere internationale Themen wie die Lage in Afghanistan zur Sprache. Mit dem russischen Aussenminister Lawrow besprach Bundespräsident Cassis zudem Menschenrechtsfragen und mit US-Aussenminister Blinken bilaterale Themen sowie die Beziehungen zum Iran. &lt;/p&gt;</text>
+      <title>Il presidente della Confederazione Ignazio Cassis incontra i ministri degli esteri di USA e Russia</title>
+      <lead>Venerdì 21 gennaio 2022, il presidente della Confederazione e capo del DFAE Ignazio Cassis ha incontrato separatamente i ministri degli esteri Antony Blinken e Sergey Lavrov in occasione dell’incontro USA-Russia a Ginevra. I colloqui erano incentrati sulla situazione della sicurezza in Europa e al confine russo-ucraino.</lead>
+      <text link="no">&lt;p&gt;La Svizzera è preoccupata per le crescenti tensioni al confine russo-ucraino ed è convinta che il dialogo sia l’unica via per rafforzare la sicurezza nel continente europeo. Il presidente della Confederazione Cassis ha spiegato che la Svizzera è pronta a offrire i suoi buoni uffici, se saranno richiesti e considerati utili. Inoltre, l’OSCE dovrebbe svolgere un ruolo centrale come piattaforma di dialogo e con le sue misure di rafforzamento della fiducia e della sicurezza.&lt;/p&gt;&lt;p&gt;Il fatto che i due Paesi abbiano nuovamente scelto Ginevra per un incontro ad alto livello, dopo il vertice del 16 giugno 2021, sottolinea ancora una volta «l’importanza della Ginevra internazionale quando si tratta di cercare soluzioni alle sfide contemporanee», ha spiegato il presidente Cassis.&lt;/p&gt;&lt;p&gt;La situazione della sicurezza in Europa è stata chiaramente al centro dei colloqui, a margine dei quali sono state discusse anche altre questioni internazionali, come la situazione in Afghanistan. Con il ministro degli esteri russo Lavrov, il presidente Cassis ha affrontato inoltre questioni legate ai diritti umani, mentre con il ministro degli esteri statunitense Blinken ha dialogato su temi bilaterali e sulle relazioni con l’Iran. &lt;/p&gt;</text>
       <contact>Comunicazione DFAE Palazzo federale ovest CH-3003 Berna Tel. Servizio di comunicazione: +41 58 462 31 53 Tel. Servizio stampa: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="226454">
+      <link id="226491">
         <title>Relazioni bilaterali Svizzera-Stati Uniti d'America</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/stati-uniti/ch-usa.html</uri>
         <position>Content</position>
       </link>
-      <link id="226455">
+      <link id="226492">
         <title>Relazioni bilaterali Svizzera - Russia</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/russia/svizzera-russia.html</uri>
         <position>Content</position>
       </link>
-      <link id="226456">
+      <link id="226493">
         <title>Buoni uffici della Svizzera</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/politica-estera/diritti-dell-uomo/pace/buoni-uffici-della-svizzera.html</uri>
         <position>Content</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-01-24 14:55" type="R"/>
+      </revisions>
     </content>
     <content lang="en">
       <city>Geneva</city>
-      <title>Bundespräsident Ignazio Cassis trifft die Aussenminister der USA und Russlands</title>
-      <lead>Bundespräsident und EDA-Vorsteher Ignazio Cassis ist am Freitag, 21. Januar 2022, aus Anlass des Treffens USA-Russland in Genf zu separaten Gesprächen mit den Aussenministern Antony Blinken und Sergej Lawrow zusammenkommen. Im Zentrum der Gespräche standen die Sicherheitslage in Europa und die Situation an der russisch-ukrainischen Grenze.</lead>
-      <text link="no">&lt;p&gt;Die Schweiz ist besorgt über die zunehmenden Spannungen an der russisch-ukrainischen Grenze. Sie ist überzeugt, dass nur der Dialog die Sicherheit auf dem europäischen Kontinent stärkt. Bundespräsident Cassis erläuterte, dass die Schweiz ihre Guten Dienste anbietet, wenn diese als nützlich erachtet und gewünscht wird. Zudem sollte die OSZE als Dialogplattform und mit ihren vertrauens- und sicherheitsbildenden Massnahmen eine zentrale Rolle einnehmen.&lt;/p&gt;&lt;p&gt;Dass die beiden Länder nach dem Gipfel vom 16. Juni 2021 erneut Genf für ein hochrangiges Treffen ausgewählt haben, unterstreiche «die ungebrochene Bedeutung des Internationalen Genfs, wenn es darum geht, Lösungen für Herausforderungen der Gegenwart zu suchen», erklärte Bundespräsident Cassis.&lt;/p&gt;&lt;p&gt;Beide Gespräche hatten mit der Sicherheitslage in Europa einen klaren Schwerpunkt. Am Rande kamen weitere internationale Themen wie die Lage in Afghanistan zur Sprache. Mit dem russischen Aussenminister Lawrow besprach Bundespräsident Cassis zudem Menschenrechtsfragen und mit US-Aussenminister Blinken bilaterale Themen sowie die Beziehungen zum Iran.&lt;/p&gt;</text>
+      <title>President Ignazio Cassis meets US secretary of state and Russian foreign minister</title>
+      <lead>President of the Swiss Confederation and head of the FDFA Ignazio Cassis held separate talks on Friday 21 January 2022 with Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov on the occasion of the US-Russia meeting in Geneva. Their talks focused on the security situation in Europe and the situation on the Russian-Ukrainian border.</lead>
+      <text link="no">&lt;p&gt;Switzerland is concerned about the mounting tensions on the Russian-Ukrainian border. It is convinced that dialogue is the only way to strengthen security on the European continent. President Ignazio Cassis explained that Switzerland provides its good offices when these are deemed useful and requested. He added that as a platform for dialogue with a series of confidence and security-building measures, the OSCE should play a central role.&lt;/p&gt;&lt;p&gt;The fact that after their summit on 16 June 2021, the United States and Russia had once again chosen Geneva for a high-level meeting underlined "the undiminished importance of International Geneva when it comes to seeking solutions to contemporary challenges", said Cassis.&lt;/p&gt;&lt;p&gt;The main focus of both meetings was the security situation in Europe. Other international issues, such as the situation in Afghanistan, were also raised. Mr Cassis also discussed human rights issues with Mr Lavrov and bilateral issues and relations with Iran with Mr Blinken.&lt;/p&gt;</text>
       <contact>FDFA Communication Federal Palace West Wing CH-3003 Bern, Switzerland Tel. Communication service: +41 58 462 31 53 Tel. Press service: +41 58 460 55 55 E-mail: kommunikation@eda.admin.ch Twitter: @SwissMFA</contact>
-      <link id="226457">
+      <link id="226494">
         <title>Bilateral relations Switzerland - USA</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/usa/switzerland-usa.html</uri>
         <position>Content</position>
       </link>
-      <link id="226458">
+      <link id="226495">
         <title>Bilateral relations Switzerland - Russia</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/russia/switzerland-russia.html</uri>
         <position>Content</position>
       </link>
-      <link id="226459">
+      <link id="226496">
         <title>Good offices Switzerland</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/human-rights/peace/switzerland-s-good-offices.html</uri>
         <position>Content</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-01-24 14:55" type="R"/>
+      </revisions>
     </content>
     <topics>
       <topic id="33">
