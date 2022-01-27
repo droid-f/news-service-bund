@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="86933" revoked="no">
+    <version>1</version>
+    <pubdate>2022-01-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bohrungen für Erdwärmesonden: kann-ich-bohren.ch zeigt sekundenschnell, ob sie möglich sind</title>
+      <lead>«Erdwärme» nennt man die in Form von Wärme gespeicherte Energie unterhalb der Erdoberfläche. Diese Erdwärme lässt sich mit Hilfe von Erdwärmesonden und Wärmepumpen zum Heizen und Kühlen nutzen. Mit der neuen interaktiven Anwendung kann-ich-bohren.ch kann man mit einem Klick abklären, ob an einem beliebigen Standort eine Bohrung für eine Erdwärmesonde durchgeführt werden darf. Das Bundesamt für Energie (BFE) stellt die Software als Open Source zur Verfügung und stärkt mit dem Projekt die Digitalisierung im Wärmesektor.</lead>
+      <text link="no">&lt;p&gt;Bohrungen für Erdwärmesonden sind in der Schweiz bewilligungspflichtig. Aus gewässerschutzrechtlichen und anderen Gründen sind jedoch Bohrungen und die Nutzung von Erdwärme in gewissen Gebieten nicht oder nur mit Auflagen möglich. Die Regelungen sind kantonal unterschiedlich. Mit kann-ich-bohren.ch kann man nun rasch und einfach abklären, ob am geplanten Standort eine Bohrung möglich ist. Entwickelt wurde diese interaktive, digitale Anwendung vom BFE und seinem Programm EnergieSchweiz auf Basis von kantonalen Geodaten.&lt;/p&gt;&lt;p&gt;Alle Kantone publizieren Eignungskarten für Erdwärmesondenbohrungen. Diese erlauben eine Vorabklärung und zeigen die Chancen für eine Bewilligung. Die Anwendung www.kann-ich-bohren.ch verknüpft die Schnittstellen der abrufbaren kantonalen Eignungskarten. Für alle Kantone ausser Appenzell Ausserrhoden, Basel-Stadt, Jura, Neuenburg, Nidwalden, Obwalden, Solothurn und Tessin kann die Eignung abgefragt werden. Zudem kann für alle Kantone ausser Appenzell Ausserrhoden, Basel-Stadt, Freiburg, Genf, Jura, Luzern, Neuenburg, Nidwalden, Obwalden, Solothurn, Tessin und Wallis die kantonale Eignungskarte dargestellt werden. Sobald weitere Kantone ihre Eignungskarte per Schnittstelle abrufbar machen, werden sie in kann-ich-bohren.ch integriert.&lt;/p&gt;&lt;p&gt;Die Open-Source-Programmbibliothek «SuitabilityGeothermalDrillingSwitzerland», die das BFE in Zusammenarbeit mit einer externen Firma erstellt hat, fragt die verschiedenen kantonalen Schnittstellen ab und überführt die Aussagen in schweizweit vereinfachte Kategorien, die dann auf kann-ich-bohren.ch als Ergebnis erscheinen. Das BFE macht diese Programmbibliothek als Open-Source-Software verfügbar (siehe Link), um weitere Anwendungsfälle zu ermöglichen. Damit fördern das BFE und EnergieSchweiz die digitale Innovation im Energiesektor und die Entwicklung der Geoinformation.&lt;/p&gt;&lt;p&gt;kann-ich-bohren.ch ist eng in das Programm «Erneuerbar Heizen» von EnergieSchweiz eingebunden (siehe Link).&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Leiterin Medien + Politik BFE 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="226595">
+        <title>www.kann-ich-bohren.ch</title>
+        <uri>http://www.kann-ich-bohren.ch/</uri>
+        <position>Context</position>
+      </link>
+      <link id="226596">
+        <title>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</title>
+        <uri>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</uri>
+        <position>Context</position>
+      </link>
+      <link id="226597">
+        <title>Heizung ersetzen – Klima schützen – Geld sparen: erneuerbar heizen</title>
+        <uri>https://erneuerbarheizen.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Puis-je-forer.ch: l’application qui vous montre instantanément les possibilités de forages pour des sondes géothermiques</title>
+      <lead>La «géothermie» désigne l’énergie stockée sous forme de chaleur dans le sous-sol. Cette énergie géothermique est exploitée à l’aide de sondes géothermiques et de pompes à chaleur des fins de chauffage et de refroidissement. La nouvelle application interactive puis-je-forer.ch permet de savoir en un clic si un forage pour une sonde géothermique peut être effectué à un emplacement donné. L’Office fédéral de l’énergie (OFEN) met à disposition le logiciel comme donnée ouverte (open source) et renforce la numérisation dans le secteur du chauffage grâce à ce projet.</lead>
+      <text link="no">&lt;p&gt;En Suisse, les forages pour des sondes géothermiques sont soumis à autorisation. Pour, entre autres, des raisons de protection des eaux, les forages et l'exploitation de la géothermie ne sont pas possibles dans certaines régions, ou ne le sont qu'à certaines conditions. La réglementation varie d'un canton à l'autre. L'application numérique et interactive puis-je-forer.ch, développée par l'OFEN et son programme SuisseEnergie sur la base de géodonnées cantonales, permet de savoir rapidement et en toute simplicité s'il est possible de forer à un endroit donné.&lt;/p&gt;&lt;p&gt;Chaque canton publie une carte d'aptitude sur les forages pour sondes géothermiques. Cela permet d'examiner au préalable les chances d'obtenir une autorisation. L'application puis-je-forer.ch relie les interfaces des cartes d'aptitude cantonales consultables. L'aptitude peut être consultée dans tous les cantons, à l'exception d'Appenzell Rhodes-Extérieures, de Bâle-Ville, du Jura, de Neuchâtel, de Nidwald, d'Obwald, de Soleure et du Tessin. En outre, la carte d'aptitude de tous les cantons peut être visualisée, à l'exception des cantons d'Appenzell Rhodes-Extérieures, de Bâle-Ville, de Fribourg, de Genève, du Jura, de Lucerne, de Neuchâtel, de Nidwald, d'Obwald, de Soleure, du Tessin et du Valais. Dès lors que d'autres cantons permettront de consulter leur carte d'aptitude, celle-ci sera intégrée à puis-je-forer.ch.&lt;/p&gt;&lt;p&gt;La bibliothèque de programmes en donnée ouverte «SuitabilityGeothermalDrillingSwitzerland», que l'OFEN a créée en collaboration avec une société externe, consulte les diverses interfaces cantonales et reprend les informations dans des catégories nationales simplifiées qui apparaissent comme résultat sur puis-je-forer.ch. L'OFEN met à disposition cette bibliothèque de programmes comme donnée ouverte (voir lien) afin de permettre d'autres utilisations. L'OFEN et SuisseEnergie encouragent ainsi l'innovation numérique dans le domaine de l'énergie et le développement de la géoinformation. &lt;/p&gt;&lt;p&gt;Puis-je-forer.ch est étroitement lié au programme «chauffez renouvelable» de SuisseEnergie (voir lien).&lt;/p&gt;</text>
+      <contact>Marianne Zünd, responsable Médias et politique de l’OFEN 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="226598">
+        <title>www.puis-je-forer.ch</title>
+        <uri>http://www.puis-je-forer.ch/</uri>
+        <position>Context</position>
+      </link>
+      <link id="226599">
+        <title>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</title>
+        <uri>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</uri>
+        <position>Context</position>
+      </link>
+      <link id="226600">
+        <title>chauffez renouvable: La nature vous dit merci (chauffezrenouvelable.ch)</title>
+        <uri>https://www.chauffezrenouvelable.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Trivellazioni per sonde geotermiche: posso-perforare.ch permette di scoprire in pochi secondi se sono realizzabili</title>
+      <lead>Per «energia geotermica» si intende l'energia immagazzinata sotto forma di calore nel sottosuolo. Tale calore può essere utilizzato per riscaldare o raffreddare con l'ausilio di sonde geotermiche e pompe di calore. La nuova applicazione interattiva su «posso-perforare.ch» consente di verificare con un solo click se in un determinato sito è possibile procedere a una trivellazione per una sonda geotermica. L'Ufficio federale dell'energia (UFE) mette a disposizione il software open source e sta usando il progetto per rafforzare la digitalizzazione nel settore del riscaldamento.</lead>
+      <text link="no">&lt;p&gt;In Svizzera le trivellazioni per sonde geotermiche sono soggette a obbligo di autorizzazione. Tuttavia, per motivi legati al diritto sulla protezione delle acque e altre ragioni, in alcune aree le trivellazioni e lo sfruttamento della geotermia non sono possibili oppure solo a determinate condizioni. Le regolamentazioni variano da Cantone a Cantone. Grazie all'applicazione su «posso-perforare.ch» è possibile verificare in modo semplice se nel sito previsto si può procedere a una trivellazione. L'applicazione digitale interattiva è stata sviluppata dall'UFE e dal suo programma SvizzeraEnergia sulla base di geodati cantonali.&lt;/p&gt;&lt;p&gt;Tutti i Cantoni pubblicano carte di idoneità per l'installazione di sonde geotermiche, che permettono di verificare in via preliminare le probabilità di rilascio di un'autorizzazione. L'applicazione su www.posso-perforare.ch collega le interfacce delle carte di idoneità cantonali pubblicate. È possibile consultare i dati relativi all'idoneità di tutti i Cantoni, ad eccezione di Appenzello Esterno, Basilea Città, Giura, Neuchâtel, Nidvaldo, Obvaldo, Soletta e Ticino. Inoltre, è possibile accedere alle carte di idoneità di tutti i Cantoni, eccetto a quelle di Appenzello Esterno, Basilea Città, Giura, Neuchâtel, Nidvaldo, Obvaldo, Soletta, Ticino e Vallese. Non appena altri Cantoni metteranno a disposizione le loro carte di idoneità sull'interfaccia, queste ultime saranno integrate su «posso-perforare.ch».&lt;/p&gt;&lt;p&gt;La libreria di programmi open source «SuitabilityGeothermalDrillingSwitzerland», che l'UFE ha creato in collaborazione con un'impresa esterna, consulta le varie interfacce cantonali e trasferisce i dati in categorie semplificate per tutta la Svizzera, che in seguito figurano come risultato nell'applicazione su «posso-perforare.ch». L'UFE rende accessibile la libreria di programmi software open source (v. link) per consentire ulteriori casi concreti di applicazione. In questo modo, l'UFE e SvizzeraEnergia promuovono l'innovazione digitale nel settore dell'energia nonché lo sviluppo della geoinformazione.&lt;/p&gt;&lt;p&gt;L'applicazione su «posso-perforare.ch» è integrata nel programma «calore rinnovabile» di SvizzeraEnergia (v. link).&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Capo Media e politica UFE tel. 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="226601">
+        <title>www.posso-perforare.ch</title>
+        <uri>http://www.posso-perforare.ch/</uri>
+        <position>Context</position>
+      </link>
+      <link id="226602">
+        <title>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</title>
+        <uri>https://github.com/SFOE/SuitabilityGeothermalDrillingSwitzerland</uri>
+        <position>Context</position>
+      </link>
+      <link id="226603">
+        <title>calore rinnovabile: Per la natura e per noi</title>
+        <uri>https://www.calorerinnovabile.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="300" org-id="808">
+        <name lang="de">Energieffizienz</name>
+        <name lang="fr">Efficacité énergétique</name>
+        <name lang="it">Efficienza energetica</name>
+        <name lang="en">Energy Efficiency</name>
+      </keyword>
+      <keyword id="320" org-id="808">
+        <name lang="de">Energieversorgung</name>
+        <name lang="fr">Approvisionnement énergétique</name>
+        <name lang="it">Approvvigionamento energetico</name>
+        <name lang="en">Energy Supply</name>
+      </keyword>
+      <keyword id="350" org-id="808">
+        <name lang="de">Erneuerbare Energien</name>
+        <name lang="fr">Energies renouvelables</name>
+        <name lang="it">Energie rinnovabili</name>
+        <name lang="en">Renewable Energy</name>
+      </keyword>
+      <keyword id="1430" org-id="808">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="fr">Consommation énergétique</name>
+        <name lang="it">Consumo energetico</name>
+        <name lang="en">Energy Consumption</name>
+      </keyword>
+      <keyword id="301" org-id="808">
+        <name lang="de">Energie: Anlagen und Geräte</name>
+        <name lang="fr">Energie: Anlagen und Geräte</name>
+        <name lang="it">Energie: Anlagen und Geräte</name>
+        <name lang="en">Energie: Anlagen und Geräte</name>
+      </keyword>
+      <keyword id="303" org-id="808">
+        <name lang="de">Energietechniken</name>
+        <name lang="fr">Techniques énergétiques</name>
+        <name lang="it">Tecniche energetiche</name>
+        <name lang="en">Energy Technologies</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
