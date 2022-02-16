@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="87195" revoked="no">
+    <version>1</version>
+    <pubdate>2022-02-16</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="707" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
+      <name lang="fr">Office fédéral pour l'approvisionnement économique du pays</name>
+      <name lang="it">Ufficio federale per l'approvvigionamento economico del Paese</name>
+      <name lang="en">Federal Office for National Economic Supply</name>
+      <www lang="de">http://www.bwl.admin.ch</www>
+      <www lang="fr">http://www.bwl.admin.ch</www>
+      <www lang="it">http://www.bwl.admin.ch</www>
+      <www lang="en">http://www.bwl.admin.ch</www>
+      <email lang="de">info@bwl.admin.ch</email>
+      <email lang="fr">info@bwl.admin.ch</email>
+      <email lang="it">info@bwl.admin.ch</email>
+      <email lang="en">info@bwl.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="702" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Generalsekretariat WBF</name>
+      <name lang="fr">Secrétariat général DEFR</name>
+      <name lang="it">Segreteria generale DEFR</name>
+      <name lang="en">Secretariat-General EAER</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Versorgungsengpässe bei Humanarzneimitteln: BAG-Bericht zeigt Optimierungsansätze auf</title>
+      <lead>Lieferprobleme bei Arzneimitteln sind ein weltweites Phänomen. Die Gründe dafür sind komplex. An seiner Sitzung vom 16. Februar 2022 hat der Bundesrat einen Bericht des Bundesamtes für Gesundheit (BAG) zur Kenntnis genommen, der eine Reihe von Optimierungsmassnahmen vorschlägt. Eine interdisziplinäre Arbeitsgruppe wird beauftragt, diese Massnahmen eingehend zu prüfen und dem Bundesrat bis Ende 2022 Vorschläge zu unterbreiten. </lead>
+      <text link="no">&lt;p&gt;Bei der Versorgung mit Arzneimitteln kommt es nicht nur in der Schweiz immer häufiger zu Engpässen. Verschiedene Faktoren können dazu führen, etwa Probleme bei der Verteilung, Wirkstoffknappheit, Produktionsunterbrüche, zeitweilig erhöhter Bedarf bei begrenzten Produktionskapazitäten, Qualitätsmängel des Endprodukts oder Verpackungsprobleme. In der Schweiz sind vor allem Arzneimittel, die auf das Nervensystem wirken (Schmerzmittel, Antidepressiva, Antiepileptika) von Engpässen betroffen. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Die 2016 getroffenen Massnahmen sind unzureichend&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2016 erschien ein Bericht, der bereits eine Reihe von Massnahmen vorsah, die zum grössten Teil auch umgesetzt worden sind. Allerdings blieb der erwünschte Erfolg aus. Angesichts der angespannten Situation hat das BAG gemeinsam mit dem Bundesamt für wirtschaftliche Landesversorgung (BWL), Swissmedic und der Armeeapotheke eine weitere Analyse durchgeführt. Das Ergebnis ist ein Massnahmenkatalog, mit dem Versorgungsprobleme in normalen Zeiten gemeistert werden sollen.&lt;/p&gt;&lt;p&gt;Gemäss dem Bericht bedarf es einer systematischen Gesamtübersicht der Engpässe und insbesondere einer besseren Datengrundlage, um die Gründe für die Versorgungsprobleme besser zu verstehen. Bisher fehlt ein solcher Überblick selbst für die wichtigsten Arzneimittel.&lt;/p&gt;&lt;p&gt;Zudem müssen rasch einige Definitionen präzisiert werden, damit wichtige Fragen beantwortet werden können, z. B.: Wann sprechen wir von Arzneimittelengpass, wann von Lieferunterbruch? Und welche Arzneimittel sind für eine sichere Versorgung der Schweizer Bevölkerung essenziell? Ausserdem müssen die Rollen der Akteure, die an einer sicheren und geregelten Versorgung beteiligt sind, möglichst schnell geklärt werden.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Anreize für Hersteller schaffen&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;Als mögliche Massnahmen für die Versorgung mit den notwendigsten Arzneimitteln in der Schweiz nennt der Bericht etwa Anreize bei den Herstellern, einen erleichterten Zugang zum Schweizer Markt und eine bessere Bewirtschaftung der obligatorischen Reserven. Bei akuten Engpässen könnte als letzte Massnahme auch die Versorgung oder Produktion direkt durch den Bund geprüft werden. &lt;/p&gt;&lt;p&gt;Angesichts der weltweiten Schwierigkeiten bei der Arzneimittelversorgung kann die Schweiz dieses Problem nicht allein lösen. Im Bericht wird denn auch auf die Wichtigkeit für die Schweiz verwiesen, sich an vielversprechenden internationalen Initiativen zu beteiligen.&lt;/p&gt;&lt;p&gt;Das Eidgenössische Departement des Innern (EDI) und das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) werden beauftragt, eine interdisziplinäre Arbeitsgruppe aus Fachleuten der Bundesverwaltung mit breiter Beteiligung der interessierten Kreise einzusetzen. Unter der Leitung des BAG und des BWL wird diese die im Bericht vorgeschlagenen Massnahmen eingehend prüfen und Empfehlungen ausarbeiten. Das EDI und das WBF unterbreiten dem Bundesrat bis Ende 2022 einen Vorschlag, welche Massnahmen weiterverfolgt werden sollen. &lt;/p&gt;</text>
+      <contact>Bundesamt für Gesundheit, Medien und Kommunikation, media@bag.admin.ch Bundesamt für wirtschaftliche Landesversorgung, media@bwl.admin.ch, +41 58 467 32 20</contact>
+      <link id="227357">
+        <title>Sicherheit in der Arzneimittelversorgung</title>
+        <uri>https://www.bag.admin.ch/bag/de/home/medizin-und-forschung/heilmittel/sicherheit-in-der-medikamentenversorgung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Pénuries de médicaments à usage humain : un rapport trace des pistes d’amélioration</title>
+      <lead>Les difficultés d’approvisionnement en médicaments sont un phénomène mondial dont les causes sont complexes. Le Conseil fédéral a pris connaissance lors de sa séance du 16 février 2022 d’un rapport de l’Office fédéral de la santé publique (OFSP) qui propose une série de mesures pour améliorer la situation. Un groupe de travail interdisciplinaire sera chargé d’examiner en détail les mesures et de soumettre des propositions au Conseil fédéral d’ici la fin de l’année 2022. </lead>
+      <text link="no">&lt;p&gt;Les ruptures d’approvisionnement en médicaments sont de plus en plus fréquentes et ne concernent pas seulement la Suisse. Elles s’expliquent par plusieurs facteurs, comme les problèmes de distribution, la pénurie de principes actifs, les interruptions de production, une surconsommation soudaine avec une capacité de fabrication limitée, des problèmes de qualité du produit final ou encore des problèmes d’emballage. En Suisse, les médicaments agissant sur le système nerveux (analgésiques, antidépresseurs, antiépileptiques) sont les plus touchés. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Les mesures décidées en 2016 se révèlent insuffisantes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Un rapport rédigé en 2016 proposait déjà une série de mesures dont la plupart ont été mises en œuvre, sans toutefois apporter l’effet escompté. La situation restant tendue, l'OFSP, en collaboration avec l’Office fédéral pour l'approvisionnement économique du pays (OFAE), Swissmedic et la Pharmacie de l'armée, a procédé à une nouvelle analyse débouchant sur un catalogue de mesures pour traiter les problèmes de pénurie en situation normale. &lt;/p&gt;&lt;p&gt;Afin de mieux comprendre les causes des problèmes d'approvisionnement, le rapport estime nécessaire de disposer d'une vue d'ensemble systématique des pénuries et, en premier lieu, d'une meilleure base de données. En effet, il n'existe pas encore d’aperçu global des pénuries des médicaments les plus importants.&lt;/p&gt;&lt;p&gt;Certaines définitions doivent par ailleurs être immédiatement précisées afin de pouvoir répondre à certaines questions importantes, par exemple quand parle-t-on d'une pénurie de médicaments et quand parle-t-on d'une rupture de stocks ? Quels sont les médicaments essentiels pour un approvisionnement sûr de la population suisse ? De même, les différents rôles des acteurs impliqués pour un approvisionnement sûr et ordonné doivent être clarifiés le plus rapidement possible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Créer des incitations auprès des fabricants&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Au niveau national, le rapport propose d’examiner une série de mesures concernant l’approvisionnement des médicaments les plus indispensables : des incitations auprès des fabricants, un accès facilité au marché suisse ainsi qu’une meilleure gestion des réserves obligatoires. En dernier ressort, pour parer à des pénuries aiguës, un approvisionnement ou une production directs par la Confédération pourraient être étudiés. &lt;/p&gt;&lt;p&gt;Etant donné le caractère mondial des difficultés d’approvisionnement en médicaments, la Suisse ne pourra pas résoudre seule ce problème. Le rapport souligne ainsi l’importance pour la Suisse de s’engager dans des initiatives internationales prometteuses.&lt;/p&gt;&lt;p&gt;Le Département fédéral de l’intérieur (DFI) et le Département fédéral de l’économie, de la formation et de la recherche (DEFR) sont chargés de créer un groupe de travail interdisciplinaire, composé d’experts de l’administration fédérale, avec une large implication des parties prenantes. Placé sous la direction de l’OFSP et de l’OFAE, il examinera de manière approfondie les mesures proposées dans le rapport et élaborera des recommandations. Le DFI et le DEFR présenteront d’ici à la fin de l’année au Conseil fédéral une proposition sur les mesures à poursuivre. &lt;/p&gt;</text>
+      <contact>Office fédéral de la santé publique, Médias et communication, media@bag.admin.ch Office fédéral pour l’approvisionnement économique du pays, media@bwl.admin.ch, +41 58 467 32 20</contact>
+      <link id="227358">
+        <title>Sécurité de l'approvisionnement en médicaments</title>
+        <uri>https://www.bag.admin.ch/bag/fr/home/medizin-und-forschung/heilmittel/sicherheit-in-der-medikamentenversorgung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Penuria di medicamenti per uso umano: un rapporto delinea alcune soluzioni di miglioramento</title>
+      <lead>Le difficoltà di approvvigionamento di medicamenti sono un fenomeno mondiale, le cui cause sono complesse. Nel corso della seduta del 16 febbraio 2022, il Consiglio federale ha preso conoscenza di un rapporto dell’Ufficio federale della sanità pubblica (UFSP) che propone una serie di misure volte a migliorare la situazione. Un gruppo di lavoro interdisciplinare sarà incaricato di esaminare le misure nel dettaglio e di presentare alcune proposte al Consiglio federale entro la fine del 2022.</lead>
+      <text link="no">&lt;p&gt;Le difficoltà di approvvigionamento di medicamenti sono sempre più frequenti e non riguardano solo la Svizzera. Sono imputabili a vari fattori, come i problemi di distribuzione, la penuria di principi attivi, le interruzioni della produzione, un improvviso consumo eccessivo a fronte di una limitata capacità di fabbricazione, nonché problemi legati alla qualità del prodotto finale o al confezionamento. In Svizzera queste difficoltà riguardano soprattutto i medicamenti che agiscono sul sistema nervoso (analgesici, antidepressivi, antiepilettici).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Le misure decise nel 2016 risultano insufficienti&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Già nel 2016 un rapporto redatto nello stesso anno proponeva una serie di misure che per la maggior parte sono state attuate, senza però sortire l’effetto auspicato. Poiché la situazione resta delicata, in collaborazione con l’Ufficio federale per l’approvvigionamento economico del Paese (UFAE), Swissmedic e la Farmacia dell’esercito, l’UFSP ha condotto una nuova analisi sulla base della quale è stato stilato un catalogo di misure volte a risolvere i problemi di penuria in situazione normale.&lt;/p&gt;&lt;p&gt;Dal rapporto si evince che per comprendere meglio le cause dei problemi di approvvigionamento è necessario poter contare su una visione d’insieme sistematica delle penurie e, in primo luogo, su una banca dati più efficace. Infatti non esiste ancora una panoramica globale delle penurie dei medicamenti principali.&lt;/p&gt;&lt;p&gt;Occorre inoltre precisare immediatamente una serie di definizioni, affinché si possa rispondere ad alcune domande importanti, come per esempio: in quali circostanze si parla di difficoltà di approvvigionamento di medicamenti e quando invece di interruzioni delle forniture? Quali sono i medicamenti essenziali per garantire l’approvvigionamento della popolazione svizzera? Allo stesso modo, occorre chiarire il prima possibile il ruolo dei vari attori che si adoperano per garantire un approvvigionamento sicuro e ordinato.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Creare incentivi per i fabbricanti&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A livello nazionale, il rapporto propone di passare al vaglio una serie di misure riguardanti l’approvvigionamento dei principali medicamenti indispensabili: incentivi per i fabbricanti, un accesso agevolato al mercato svizzero e una migliore gestione delle scorte obbligatorie. In ultima analisi, per ovviare a penurie gravi si potrebbero valutare un approvvigionamento o una produzione diretti per mano della Confederazione.&lt;/p&gt;&lt;p&gt;Considerata la portata mondiale delle difficoltà di approvvigionamento di medicamenti, la Svizzera non potrà risolvere questo problema da sola. Il rapporto sottolinea inoltre quanto sia importante per la Svizzera impegnarsi nel quadro di iniziative internazionali promettenti.&lt;/p&gt;&lt;p&gt;Il Dipartimento federale dell’interno (DFI) e il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) sono incaricati di istituire un gruppo di lavoro interdisciplinare, che sarà formato da esperti dell’Amministrazione federale e coinvolgerà in modo importante i portatori d’interesse. Posto sotto la direzione dell’UFSP e dell’UFAE, il gruppo di lavoro interdisciplinare esaminerà in modo approfondito le misure proposte nel rapporto e formulerà alcune raccomandazioni. Entro la fine dell’anno il DFI e il DEFR presenteranno al Consiglio federale una proposta contenente le misure da portare avanti.&lt;/p&gt;</text>
+      <contact>Ufficio federale della sanità pubblica, Media e comunicazione, media@bag.admin.ch Ufficio federale per l’approvvigionamento economico del Paese, media@bwl.admin.ch, +41 58 467 32 20</contact>
+      <link id="227360">
+        <title>Assicurare l’approvvigionamento di medicamenti</title>
+        <uri>https://www.bag.admin.ch/bag/it/home/medizin-und-forschung/heilmittel/sicherheit-in-der-medikamentenversorgung.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="15">
+        <name lang="de">Gesundheit</name>
+        <name lang="fr">Santé</name>
+        <name lang="it">sanità</name>
+        <name lang="en">Health</name>
+      </topic>
+      <topic id="41">
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="en">Social Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
