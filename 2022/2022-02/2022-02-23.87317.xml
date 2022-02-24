@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87317" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-02-23</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,6 +19,21 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -33,18 +48,34 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
-      <title>Nadia Braun Binder ist die neue Präsidentin der Kommission für die Bundesstatistik</title>
+      <title>Nadja Braun Binder ist die neue Präsidentin der Kommission für die Bundesstatistik</title>
       <lead>Der Bundesrat hat an seiner Sitzung vom 23. Februar 2022 Nadja Braun Binder zur neuen Präsidentin der Kommission für die Bundesstatistik gewählt. Die Professorin für öffentliches Recht an der Universität Basel tritt ihr Amt am 1. April 2022 an.</lead>
       <text link="no">&lt;p&gt;Die 47-jährige Nadja Braun Binder hat 2005 ihr Studium an der Universität Bern mit dem Erwerb eines Doktortitels abgeschlossen. Darüber hinaus verfügt sie über einen MBA in Public Management der Universität Salzburg und eine Habilitation der Deutschen Universität für Verwaltungswissenschaften Speyer. Nadja Braun Binder arbeitete während zehn Jahren als Juristin bei der Bundeskanzlei. Dabei befasste sie sich mit verschiedenen für die statistische Entwicklung wichtigen Bereichen, darunter die Digitalisierung der Bundesverwaltung und die entsprechenden rechtlichen Aspekte. &lt;/p&gt;&lt;p&gt;Die Kommission für die Bundesstatistik ist eine ausserparlamentarische Kommission. Ihre Hauptaufgabe besteht darin, dem Bundesrat und dem Eidgenössischen Departement des Innern (EDI) sowie dem Bundesamt für Statistik (BFS) und anderen Produzenten öffentlicher Statistiken bei wichtigen Fragen zur Bundesstatistik beratend zur Seite zu stehen. Bei den Mitgliedern der Kommission handelt es sich um Vertreterinnen und Vertreter aus Wissenschaft und Wirtschaft, Sozialpartner, kantonale und kommunale Statistikämter, Datenlieferanten, Datennutzerinnen und -nutzer sowie die Schweizerische Nationalbank.&lt;/p&gt;</text>
       <contact>Stéphane Maillard, BFS, Stab/Internationale und nationale Angelegenheiten Tel: +41 58 467 23 81 E-Mail: Stephane.Maillard@bfs.admin.ch Medienstelle BFS Tel.: +41 58 463 60 13 E-Mail: media@bfs.admin.ch</contact>
-      <link id="227873">
+      <link id="227887">
         <title>Die Mitglieder der Kommission für die Bundesstatistik</title>
         <uri>https://www.admin.ch/ch/d/cf/ko/gremium_10478.html</uri>
         <position>Content</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-02-24 09:35" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -52,7 +83,7 @@
       <lead>Le Conseil fédéral a nommé lors de sa séance du 23 février 2022 Nadja Braun Binder comme nouvelle présidente de la Commission de la statistique fédérale. Professeure associée de droit public à l’Université de Bâle, elle prendra ses fonctions le 1er avril 2022.</lead>
       <text link="no">&lt;p&gt;Agée de 47 ans, Nadja Braun Binder a fait des études de droit à l'Université de Berne, qu'elle a terminées en 2005 par l'obtention d'un doctorat. Elle est aussi titulaire d'un MBA en gestion publique de l'Université de Salzbourg et d'une habilitation de l'Université allemande des sciences administratives de Speyer. Nadja Braun Binder a travaillé pendant dix ans à la Chancellerie fédérale dans le domaine juridique. Ses travaux portent sur divers domaines importants pour le développement des statistiques, tels que la numérisation dans l'administration publique et ses aspects juridiques. &lt;/p&gt;&lt;p&gt;La Commission de la statistique fédérale est une commission extraparlementaire. Elle a pour but principal de conseiller le Conseil fédéral, le Département fédéral de l'intérieur (DFI), l'Office fédéral de la statistique (OFS) ainsi les autres producteurs de statistiques publiques sur des questions importantes relevant de la statistique fédérale. Les membres de la commission représentent les milieux scientifiques et économiques, les partenaires sociaux, les offices cantonaux et communaux de statistique, les fournisseurs et les utilisateurs de données, ainsi que la Banque nationale suisse.&lt;/p&gt;</text>
       <contact>Stéphane Maillard, OFS, Etat-major/Affaires internationales et nationales tél.: +41 58 467 23 81 e-mail: Stephane.Maillard@bfs.admin.ch Service des médias de l’OFS tél.: +41 58 463 60 13 e-mail: media@bfs.admin.ch</contact>
-      <link id="227874">
+      <link id="227888">
         <title>Les membres de la Commission de la statistique fédérale</title>
         <uri>https://www.admin.ch/ch/f/cf/ko/gremium_10478.html</uri>
         <position>Content</position>
@@ -65,7 +96,7 @@
       <lead>Nella sua seduta del 23 febbraio 2022, il Consiglio federale ha nominato Nadja Braun Binder nuova presidente della Commissione della statistica federale. Braun Binder, professoressa associata di diritto pubblico all’Università di Basilea, assumerà la carica il 1° aprile 2022.</lead>
       <text link="no">&lt;p&gt;Nadja Braun Binder, 47 anni, ha studiato diritto all'Università di Berna, terminando nel 2005 con un dottorato. Inoltre, è titolare di un MBA in amministrazione pubblica dell'Università di Salisburgo e di un'abilitazione dell'Università tedesca di scienze amministrative di Speyer. Nadja Braun Binder ha lavorato dieci anni in ambito giuridico presso la Cancelleria federale. Le sue attività vertevano su vari settori importanti per lo sviluppo delle statistiche, quali la digitalizzazione nell'amministrazione pubblica e i relativi aspetti giuridici. &lt;/p&gt;&lt;p&gt;La Commissione della statistica federale è una commissione extraparlamentare. Il suo scopo principale è quello di fornire consulenza su questioni importanti in materia di statistica federale al Consiglio federale e al Dipartimento federale dell'interno (DFI), oltre che all'Ufficio federale di statistica (UST) e agli altri produttori di statistiche pubbliche. I membri della Commissione rappresentano gli ambienti della scienza e dell'economia, i partner sociali, gli uffici di statistica cantonali e comunali, i fornitori e gli utenti dei dati nonché la Banca nazionale svizzera.&lt;/p&gt;</text>
       <contact>Stéphane Maillard, UST, Stato maggiore / Affari internazionali e nazionali, tel.: +41 58 467 23 81 e-mail: Stephane.Maillard@bfs.admin.ch Servizio stampa dell’UST tel.: +41 58 463 60 13 e-mail: media@bfs.admin.ch</contact>
-      <link id="227875">
+      <link id="227889">
         <title>I membri della Commissione della statistica federale</title>
         <uri>https://www.admin.ch/ch/i/cf/ko/gremium_10478.html</uri>
         <position>Content</position>
@@ -78,7 +109,7 @@
       <lead>At its sitting of 23 February 2022, the Federal Council nominated Nadja Braun Binder as new president of the Federal Statistics Committee. Associate Professor of Public Law at the University of Basel, she will take up her post on 1 April 2022.</lead>
       <text link="no">Nadja Braun Binder, aged 47, studied law at the University of Bern, completing these studies with a doctorate in 2005. She also holds an MBA in public administration from the University of Salzburg and a habilitation from the German University of Administrative Sciences Speyer. Nadja Braun Binder worked in the legal field for ten years at the Federal Chancellery. Her work there concerned various areas important to the development of statistics, such as digitisation in public administration and its legal implications. &lt;br /&gt;&lt;br /&gt;The Federal Statistics Committee is an extra-parliamentary committee. Its main purpose is to provide the Federal Council, the Federal Department of Home Affairs (FDHA), the Federal Statistical Office (FSO) as well as other producers of official statistics with advice on important matters relating to federal statistics. Committee members include representatives from the scientific and economic communities, the social partners, the cantonal and communal statistics offices, suppliers and users of data, as well as the Swiss National Bank.</text>
       <contact>Stéphane Maillard, FSO, Staff division/International and national affairs tel.: +41 58 467 23 81 email: Stephane.Maillard@bfs.admin.ch FSO Media Service tel.: +41 58 463 60 13 e-mail: media@bfs.admin.ch</contact>
-      <link id="227876">
+      <link id="227890">
         <title>Members of the Federal Statistics Committee (French)</title>
         <uri>https://www.admin.ch/ch/f/cf/ko/gremium_10478.html</uri>
         <position>Content</position>
@@ -86,23 +117,17 @@
       <revisions> </revisions>
     </content>
     <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="32">
-        <name lang="de">Bundespersonal</name>
-        <name lang="fr">Personnel de la Confédération</name>
-        <name lang="it">Personale della Confederazione</name>
-        <name lang="en">Government Employees</name>
-      </topic>
-      <topic id="43">
-        <name lang="de">Statistik</name>
-        <name lang="fr">Statistiques</name>
-        <name lang="it">Statistica</name>
-        <name lang="en">Statistics</name>
       </topic>
     </topics>
   </message>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87316" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2022-02-23</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
     </originator>
     <originator department-msg="no" id="201" lead="no" topnews="no">
       <department-id>201</department-id>
@@ -47,6 +62,20 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <department id="201">
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
@@ -93,11 +122,12 @@
     <content lang="en">
       <city>Bern</city>
       <title>Eastern Ukraine: Federal Council condemns Russian action in violation of international law</title>
-      <lead>The Federal Council discussed the situation in eastern Ukraine at its meeting of 23 February 2022. It condemns Russia's recognition of two regions as independent states as a violation of international law and a breach of Ukraine's territorial integrity and sovereignty. The Federal Council wishes to ensure that Switzerland will not be used as a platform to circumnavigate sanctions imposed by the EU and is therefore examining the sanctions closely.</lead>
-      <text link="no">&lt;p&gt;Since Russia recognised the two non-government-controlled regions of Donetsk and Luhansk as independent states, tensions in eastern Ukraine have increased massively. The Federal Council is monitoring the current situation with great concern, as there is a risk of significant further escalations. It condemns Russia's action as a violation of international law and of Ukraine's territorial integrity and sovereignty. Switzerland does not recognise the independence of these territories, which remain part of Ukrainian territory. &lt;/p&gt;&lt;p&gt;Russia's recognition of the independence of these territories is a direct violation of the Minsk agreements to which it is a signatory. The agreements were negotiated in 2014 between Ukraine, Russia, France and Germany and serve as a basis for the de-escalation and resolution of the conflict in eastern Ukraine. As a member of the Trilateral Contact Group, Russia has an obligation to support the implementation of the agreements. &lt;/p&gt;&lt;p&gt;Switzerland remains committed to a peaceful resolution of the conflict in eastern Ukraine. It supports the efforts of the OSCE and the OSCE Chairperson's Special Representative in Ukraine and in the Trilateral Contact Group to facilitate a peaceful resolution of the conflict. &lt;/p&gt;&lt;p&gt;Switzerland is also working within the OSCE to ensure that the unarmed, civilian Special Monitoring Mission (SMM) can continue to exercise its mandate on Ukrainian territory. The Swiss members of the SMM are continuing their work on the ground. In a crisis situation such as this, it is particularly important for the SMM to be able to continue its work as an unarmed civilian mission, as it provides objective reports on the security situation on the ground.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Switzerland must not be used as a platform to circumnavigate EU sanctions&lt;/strong&gt;&lt;br /&gt;Following Russia's annexation of Crimea in 2014, the Federal Council decided not to adopt the European Union's (EU) sanctions against Russia, but to take all necessary measures to ensure that Switzerland would not be misused to circumvent the sanctions. &lt;/p&gt;&lt;p&gt;In the wake of Russia's recognition of the non-government-controlled areas as independent states, several Western states have imposed additional sanctions. The Federal Council wishes to ensure that Switzerland will not be used as a platform to circumnavigate sanctions imposed by the EU. It will therefore examine the sanctions and then come to a decision. The Swiss authorities are in constant contact with several countries to exchange intelligence on the current situation.&lt;/p&gt;&lt;p&gt;Switzerland may adopt compulsory measures to enforce sanctions adopted by the United Nations, the OSCE or Switzerland's main trading partners in order to ensure compliance with international law, in particular respect for human rights. The basis for this is the Embargo Act. The Federal Council is responsible for adopting such compulsory measures in the form of ordinances. Compulsory measures can take the form of embargoes on goods, embargoes on services, financial sanctions, bans on entry and transit, or a combination of these and other measures.&lt;/p&gt;</text>
+      <lead>The Federal Council discussed the situation in eastern Ukraine at its meeting of 23 February 2022. It condemns Russia's recognition of two regions as independent states as a violation of international law and a breach of Ukraine's territorial integrity and sovereignty. The Federal Council wishes to ensure that Switzerland will not be used as a platform to circumvent sanctions imposed by the EU and is therefore examining the sanctions closely.</lead>
+      <text link="no">&lt;p&gt;Since Russia recognised the two non-government-controlled regions of Donetsk and Luhansk as independent states, tensions in eastern Ukraine have increased massively. The Federal Council is monitoring the current situation with great concern, as there is a risk of significant further escalations. It condemns Russia's action as a violation of international law and of Ukraine's territorial integrity and sovereignty. Switzerland does not recognise the independence of these territories, which remain part of Ukrainian territory. &lt;/p&gt;&lt;p&gt;Russia's recognition of the independence of these territories is a direct violation of the Minsk agreements to which it is a signatory. The agreements were negotiated in 2014 between Ukraine, Russia, France and Germany and serve as a basis for the de-escalation and resolution of the conflict in eastern Ukraine. As a member of the Trilateral Contact Group, Russia has an obligation to support the implementation of the agreements. &lt;/p&gt;&lt;p&gt;Switzerland remains committed to a peaceful resolution of the conflict in eastern Ukraine. It supports the efforts of the OSCE and the OSCE Chairperson's Special Representative in Ukraine and in the Trilateral Contact Group to facilitate a peaceful resolution of the conflict. &lt;/p&gt;&lt;p&gt;Switzerland is also working within the OSCE to ensure that the unarmed, civilian Special Monitoring Mission (SMM) can continue to exercise its mandate on Ukrainian territory. The Swiss members of the SMM are continuing their work on the ground. In a crisis situation such as this, it is particularly important for the SMM to be able to continue its work as an unarmed civilian mission, as it provides objective reports on the security situation on the ground.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Switzerland must not be used as a platform to circumvent EU sanctions&lt;/strong&gt;&lt;br /&gt;Following Russia's annexation of Crimea in 2014, the Federal Council decided not to adopt the European Union's (EU) sanctions against Russia, but to take all necessary measures to ensure that Switzerland would not be misused to circumvent the sanctions. &lt;/p&gt;&lt;p&gt;In the wake of Russia's recognition of the non-government-controlled areas as independent states, several Western states have imposed additional sanctions. The Federal Council wishes to ensure that Switzerland will not be used as a platform to circumnavigate sanctions imposed by the EU. It will therefore examine the sanctions and then come to a decision. The Swiss authorities are in constant contact with several countries to exchange intelligence on the current situation.&lt;/p&gt;&lt;p&gt;Switzerland may adopt compulsory measures to enforce sanctions adopted by the United Nations, the OSCE or Switzerland's main trading partners in order to ensure compliance with international law, in particular respect for human rights. The basis for this is the Embargo Act. The Federal Council is responsible for adopting such compulsory measures in the form of ordinances. Compulsory measures can take the form of embargoes on goods, embargoes on services, financial sanctions, bans on entry and transit, or a combination of these and other measures.&lt;/p&gt;</text>
       <contact>For further information: FDFA Communication Tel. +41 58 462 31 53 Tel. Press service +41 460 55 55 kommunikation@eda.admin.ch</contact>
       <revisions>
         <revision date="2022-02-23 18:03" type="R"/>
+        <revision date="2022-02-24 09:05" type="R"/>
       </revisions>
     </content>
     <topics>
