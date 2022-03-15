@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87606" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-03-15</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1079" lead="yes" topnews="no">
@@ -18,21 +18,6 @@
       <email lang="fr">info@blv.admin.ch</email>
       <email lang="it">info@blv.admin.ch</email>
       <email lang="en">info@blv.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="1097" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Institut für Virologie und Immunologie</name>
-      <name lang="fr">Institut de virologie et d'immunologie</name>
-      <name lang="it">Istituto di virologia e immunologia</name>
-      <name lang="en">The Institute of Virology and Immunology</name>
-      <www lang="de">https://www.ivi.admin.ch</www>
-      <www lang="fr">https://www.ivi.admin.ch</www>
-      <www lang="it">https://www.ivi.admin.ch</www>
-      <www lang="en">https://www.ivi.admin.ch</www>
-      <email lang="de">info@ivi.admin.ch</email>
-      <email lang="fr">info@ivi.admin.ch</email>
-      <email lang="it">info@ivi.admin.ch</email>
-      <email lang="en">info@ivi.admin.ch</email>
     </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -51,28 +36,32 @@
     <content lang="de">
       <city>Bern</city>
       <title>Hochansteckende Newcastle-Krankheit bei Legehennen im Kanton Jura festgestellt</title>
-      <lead>In einem Geflügelbetrieb in Develier bei Delémont ist die hochansteckende Newcastle-Krankheit ausgebrochen. Um eine Weiterverbreitung der Tierseuche zu verhindern, bereitet der kantonale Veterinärdienst die Tötung der betroffenen Legehennen vor und richtet in Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV rund um den Betrieb eine Schutz- und eine Überwachungszone ein. In diesen Gebieten gelten für die Geflügelbetriebe besondere Vorschriften. </lead>
+      <lead>In einem Geflügelbetrieb in Develier bei Delémont ist die hochansteckende Newcastle-Krankheit ausgebrochen. Um eine Weiterverbreitung der Tierseuche zu verhindern, bereitet der kantonale Veterinärdienst die Tötung der Legehennen des betroffenen Betriebes vor und richtet in Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV rund um den Betrieb eine Schutz- und eine Überwachungszone ein. In diesen Gebieten gelten für die Geflügelbetriebe besondere Vorschriften. </lead>
       <text link="no"> &lt;p&gt;Der Ausbruch der Newcastle-Krankheit betrifft einen Betrieb mit ungefähr 15 000 Legehennen in Develier im Kanton Jura. Typische Symptome dieser Krankheit sind: Die Tiere legen weniger oder gar keine Eier mehr oder Eier mit zu dünner und verfärbter Schale. Die durch ein Virus verursachte Krankheit kommt auch bei Wildvögeln vor, ist hochansteckend und wird über die Luft oder durch direkten Kontakt übertragen. Sie kann sich auch indirekt über Personen, Geflügelprodukte oder Eierkartons ausbreiten. Die Herkunft der Krankheit ist zum jetzigen Zeitpunkt noch unbekannt. Der Kanton leitet zusammen mit dem BLV die nötigen Vorkehrungen ein, dazu gehört die Keulung der betroffenen Legehennen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Massnahmen gegen die Verbreitung der Krankheit&lt;/b&gt;&lt;br /&gt; &lt;br /&gt; Damit sich das hochansteckende Virus nicht weiterverbreitet, hat der kantonale Veterinärdienst des Kantons Jura den betroffenen Betrieb gesperrt. Nur Personen, welche die Tiere versorgen und Personen des Vollzugs haben Zutritt zu den Ställen. Die Veterinärbehörden richten eine Schutzzone von ungefähr drei Kilometern und eine Überwachungszone von rund zehn Kilometern rund um den Betrieb ein. &lt;/p&gt; &lt;p&gt;Der letzte Fall von Newcastle-Krankheit ist im Januar 2022 im Kanton Zürich aufgetreten. Es gibt keine Hinweise darauf, dass ein Zusammenhang mit diesem Fall besteht. Seit dem Jahr 2017 war die Schweiz frei von der Seuche.&lt;/p&gt; &lt;p&gt;Auch die Vogelgrippe grassiert zurzeit – die letzten zwei Fälle in der Vorwoche. Zur Eindämmung dieser Krankheit gelten entlang der grossen Gewässer weiterhin spezielle Schutzmassnahmen bis voraussichtlich Ende März 2022 (siehe Medienmitteilung vom 11.03.2022).&lt;/p&gt; &lt;p&gt;&lt;b&gt;Newcastle-Krankheit selten auch auf Menschen übertragbar&lt;/b&gt;&lt;br /&gt; &lt;br /&gt; In seltenen Fällen kann bei Personen, die direkten und sehr engen Kontakt zu kranken Tieren hatten, eine Bindehautentzündung auftreten. Der Verzehr von Geflügelfleisch oder Eiern ist unbedenklich.&lt;/p&gt; </text>
       <contact>Journalistinnen und Journalisten: Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Medienstelle: Tel. 058 463 78 98; media@blv.admin.ch Tierhalterinnen und Tierhalter: Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Infodesk: Tel. 058 463 30 33; info@blv.admin.ch</contact>
-      <link id="228653">
+      <link id="228657">
         <title>Medienmitteilung vom 11.03.2022</title>
         <uri>https://www.blv.admin.ch/blv/de/home/dokumentation/nsb-news-list.msg-id-87584.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-03-15 18:48" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Maladie de Newcastle chez des poules pondeuses dans le canton du Jura</title>
-      <lead>La maladie de Newcastle, maladie hautement contagieuse des volailles, s’est déclarée dans une exploitation avicole de Develier près de Delémont. Pour prévenir la propagation de cette épizootie, le Service vétérinaire cantonal prépare la mise à mort des poules pondeuses touchées et délimite une zone de protection et une zone de surveillance autour de l’exploitation en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires. Des prescriptions particulières s’appliquent aux exploitations détenant des volailles situées dans ces zones. </lead>
+      <lead>La maladie de Newcastle, maladie hautement contagieuse des volailles, s’est déclarée dans une exploitation avicole de Develier près de Delémont. Pour prévenir la propagation de cette épizootie, le Service vétérinaire cantonal prépare la mise à mort des poules pondeuses de l'exploitation concernée et délimite une zone de protection et une zone de surveillance autour de l’exploitation en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires. Des prescriptions particulières s’appliquent aux exploitations détenant des volailles situées dans ces zones. </lead>
       <text link="no"> &lt;p&gt;La maladie de Newcastle s’est déclarée dans une exploitation d’environ 15 000 poules pondeuses située à Develier dans le canton du Jura. Les signes typiques de la maladie sont : une réduction ou une interruption totale de la ponte et des œufs à coquille trop fine et présentant des anomalies de couleurs. Causée par un virus, la maladie de Newcastle touche aussi les oiseaux sauvages. Hautement contagieuse et transmissible par l’air ou par contact direct, elle peut également se propager de manière indirecte par l’intermédiaire des personnes, des produits de la volaille ou des cartons à œufs. L’origine de la maladie est pour l’heure inconnue. En collaboration avec l’OSAV, le canton prend les mesures nécessaires, dont l’élimination des poules pondeuses malades. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Mesures destinées à prévenir une propagation de la maladie&lt;/b&gt;&lt;br /&gt; &lt;br /&gt; Pour empêcher une propagation du virus, le Service vétérinaire du canton du Jura a placé l’exploitation touchée sous séquestre. L’accès aux poulaillers est limité aux personnes chargées des soins aux animaux et aux collaborateurs du service vétérinaire. Les autorités vétérinaires délimitent une zone de protection d’environ trois kilomètres et une zone de surveillance de quelque dix kilomètres autour de l’exploitation.&lt;/p&gt; &lt;p&gt;Le dernier cas de maladie de Newcastle est apparu dans le canton de Zurich en janvier 2022. Aucun indice ne laisse supposer qu’il existe un lien avec le cas actuel. La Suisse était un pays indemne de cette épizootie depuis l’année 2017.&lt;/p&gt; &lt;p&gt;Une autre maladie, la grippe aviaire, sévit actuellement chez les oiseaux, deux cas ont été identifiés la semaine dernière. Pour endiguer cette maladie, des mesures de protection spéciales continuent d’être appliquées le long des grands lacs et cours d’eau de Suisse jusqu’à la fin mars 2022 (cf. communiqué de presse du 11.03.2022).&lt;/p&gt; &lt;b&gt;La maladie de Newcastle-se transmet rarement à l’être humain&lt;/b&gt;&lt;br /&gt; Dans de rares cas, les personnes ayant eu un contact direct et étroit avec des animaux malades peuvent développer une conjonctivite. La consommation de viande de volaille ou d’oeufs est sans risque.</text>
       <contact>Journalistes : Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Service médias : Tél. 058 463 78 98; media@blv.admin.ch Détenteurs d’animaux Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Infodesk : Tél. 058 463 30 33; info@blv.admin.ch</contact>
-      <link id="228655">
+      <link id="228659">
         <title>Communiqué de presse du 11.03.2022</title>
         <uri>https://www.blv.admin.ch/blv/fr/home/dokumentation/nsb-news-list.msg-id-87584.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-03-15 18:48" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
@@ -80,7 +69,7 @@
       <lead>In un’azienda avicola di Develier, nei pressi di Delémont, è scoppiato un focolaio della malattia di Newcastle, un’epizoozia altamente contagiosa. Per prevenire l’ulteriore diffusione dell’epizoozia, il servizio veterinario cantonale prepara l’abbattimento delle galline ovaiole colpite e, in collaborazione con l’Ufficio federale della sicurezza alimentare e di veterinaria (USAV), istituisce una zona di protezione e di sorveglianza intorno all’azienda. In queste zone alle aziende di avicoltura si applicano prescrizioni particolari. </lead>
       <text link="no"> &lt;p&gt;Il focolaio della malattia di Newcastle riguarda un’azienda con circa 15 000 galline ovaiole a Develier, nel Cantone del Giura. I sintomi tipici di questa malattia sono: gli animali depongono meno uova o non ne depongono affatto oppure depongono uova con gusci troppo sottili e scoloriti. La malattia, causata da un virus, si manifesta anche negli uccelli selvatici, è altamente contagiosa e si trasmette per via aerea o per contatto diretto. Può anche diffondersi indirettamente attraverso le persone, i prodotti avicoli o le scatole per uova. L’origine della malattia è ancora sconosciuta in questo momento. Insieme all’USAV, il Cantone avvia i provvedimenti necessari, compreso l’abbattimento delle galline ovaiole colpite. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Misure contro la diffusione della malattia&lt;/b&gt; &lt;br /&gt; &lt;br /&gt; Per evitare che il virus altamente contagioso si diffonda ulteriormente, il servizio veterinario cantonale del Canton Giura ha posto sotto sequestro l’azienda colpita. Soltanto le persone che si occupano degli animali e le persone operanti nell’esecuzione hanno accesso alle stalle. Le autorità veterinarie istituiscono una zona di protezione di circa tre chilometri e una zona di sorveglianza di circa dieci chilometri intorno all’azienda. &lt;/p&gt; &lt;p&gt;L’ultimo caso di malattia di Newcastle si è verificato nel gennaio 2022 nel Cantone di Zurigo. Non vi è alcuna indicazione che ci sia una connessione con questo caso. La Svizzera era indenne dalla malattia dal 2017.&lt;/p&gt; &lt;p&gt;Attualmente anche l’influenza aviaria è in circolazione, gli ultimi due casi sono stati individuati la scorsa settimana. Per contenere questʼultima, misure speciali di protezione continueranno a essere applicate lungo i principali insiemi di acqua fino probabilmente alla fine di marzo 2022 (vedi Comunicato stampa dell’11.03.2022).&lt;/p&gt; &lt;p&gt;&lt;b&gt;La&lt;/b&gt; &lt;b&gt;malattia di Newcastle si trasmette raramente all’essere umano&lt;/b&gt; &lt;br /&gt; &lt;br /&gt; In rari casi, può verificarsi una congiuntivite in persone che hanno avuto un contatto diretto e molto stretto con animali malati. Il consumo di carne di pollame e uova non costituisce alcun pericolo.&lt;/p&gt; </text>
       <contact>Giornalisti: Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Servizio stampa : Tel. 058 463 78 98; media@blv.admin.ch Detentori di animali: Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Infodesk : Tel. 058 463 30 33;media@blv.admin.ch</contact>
-      <link id="228654">
+      <link id="228658">
         <title>Comunicato stampa dell’11.03.2022</title>
         <uri>https://www.blv.admin.ch/blv/it/home/dokumentation/nsb-news-list.msg-id-87584.html</uri>
         <position>Context</position>
