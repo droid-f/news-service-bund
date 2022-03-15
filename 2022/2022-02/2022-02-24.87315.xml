@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87315" revoked="no">
-    <version>1</version>
+    <version>3</version>
     <pubdate>2022-02-24</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="810" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">media@bakom.admin.ch</email>
       <email lang="it">media@bakom.admin.ch</email>
       <email lang="en">media@bakom.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
@@ -39,12 +54,12 @@
       <lead>Die Grundversorgung mit Post- und Zahlungsverkehrsdiensten muss modernisiert werden. Bis ins Jahr 2030 wird das heutige Angebot weder für die Bevölkerung noch für die Unternehmen zeitgemäss sein: Zu diesem Schluss kommt die Expertenkommission Grundversorgung Post in ihrem Schlussbericht über die Grundversorgung der Zukunft, den sie am 24. Februar 2022 in Bern präsentiert hat. Die Finanzierung steht auf dem Spiel. Deshalb muss die Politik rasch einen Richtungsentscheid über die Weiterentwicklung der Grundversorgung zu treffen.</lead>
       <text link="no">&lt;p&gt;Die Grundversorgung mit Post- und Zahlungsverkehrsdiensten soll auch in Zukunft einen wichtigen Beitrag zum gesellschaftlichen und regionalen Zusammenhalt leisten. Damit auch künftig in allen Regionen der Schweiz ein zuverlässiger Zugang zu Logistik-, Kommunikations- und Zahlungsverkehrsdiensten gewährleistet bleibt, ist ein staatlicher Auftrag zur Grundversorgung weiterhin gerechtfertigt. &lt;/p&gt;&lt;h2&gt;Neu sollen die Dienstleistungen und nicht die Zugangsform im Zentrum stehen&lt;/h2&gt;&lt;p&gt;Die Grundversorgungsdienste müssen auch 2030 für alle Bevölkerungsgruppen und in allen Regionen zugänglich sein. Dafür braucht es weiterhin national einheitliche Vorgaben und ein dezentrales Netz an Zugangspunkten. Die Vorgaben zur Erreichbarkeit sollen in Zukunft aber technologieneutral formuliert werden. Dadurch wird der Spielraum in der Ausgestaltung grösser. Die Post braucht diesen Spielraum, um ihr Angebot laufend an die veränderten Bedürfnisse anpassen und verstärkt innovative Zugangsformen einsetzen zu können.&lt;/p&gt;&lt;h2&gt;Tägliche Paketzustellung bleibt wichtig, bei Briefen und Zeitungen sind Lockerungen angezeigt&lt;/h2&gt;&lt;p&gt;Der Versand von Paketen wird immer wichtiger. Die Schweiz braucht auch im Jahr 2030 eine flächendeckende Grundversorgung in hoher Qualität. Die Zustellung am Arbeitstag nach der Aufgabe soll gesetzlich garantiert bleiben. Zudem soll eine Paketzustellung an sechs Wochentagen geprüft werden. &lt;/p&gt;&lt;p&gt;Bis 2030 wird die digitale Kommunikation in der Schweiz stark verbreitet und akzeptiert sein. Es ist zumutbar, dass physische Briefe bis dahin nur noch als B-Post und drei Mal wöchentlich zugestellt werden. Als Folge der sinkenden Briefmengen verliert das Restmonopol seine Bedeutung für die Finanzierung der Grundversorgung und kann aufgehoben werden.&lt;/p&gt;&lt;p&gt;Die Medien erfüllen auch künftig eine wichtige staats- und demokratiepolitische Funktion. Mittelfristig werden die Inhalte aber vorwiegend digital angeboten und genutzt. Eine Weiterführung der Grundversorgung für die tägliche Zustellung gedruckter Zeitungen über 2030 hinaus ist nicht mehr zeitgemäss.&lt;/p&gt;&lt;p&gt;Das Leben in der Schweiz wird zunehmend digital und Daten werden immer wichtiger. Die Kommission regt an, den Bedarf einer Grundversorgung für eine vertrauensbasierte digitale Infrastruktur zu prüfen. Hierfür wäre eine neue gesetzliche Grundlage ausserhalb der Postgesetzgebung zu schaffen.&lt;/p&gt;&lt;h2&gt;Grundversorgung im Zahlungsverkehr soll erhalten und öffentlich ausgeschrieben werden&lt;/h2&gt;&lt;p&gt;Der Zugang zum Zahlungsverkehr bleibt eine wichtige Voraussetzung für die Teilnahme am Wirtschaftsleben. Jede in der Schweiz ansässige Person soll auch künftig ein Konto mit den grundlegenden Zahlungsverkehrsfunktionen eröffnen können. Auch Bartransaktionen müssen Teil der Grundversorgung bleiben, solange es kein digitales Zahlungsmittel mit vergleichbaren Eigenschaften (Benützung ohne Infrastruktur, Anonymität) gibt. Dieses Angebot kann unabhängig von Postdiensten erbracht werden. Dieser Auftrag soll neu öffentlich ausgeschrieben und nötigenfalls staatlich abgegolten werden.&lt;/p&gt;&lt;h2&gt;Unabhängige und interdisziplinäre Expertenkommission&lt;/h2&gt;&lt;p&gt;Die Expertenkommission Grundversorgung Post wurde im März 2021 vom Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) und dem Finanzdepartement (EFD) eingesetzt. Unter der Leitung von Christine Egerszegi hat die Kommission Grundlagen für den anstehenden politischen Diskurs über die Grundversorgung der Zukunft erarbeitet. Sie setzte sich aus Expertinnen und Experten aus den Bereichen Logistik, Zahlungsverkehr, Digitalisierung, Service Public, Regionalpolitik, Ökonomie und Rechtswissenschaften zusammen. Sie wurde vom BAKOM administrativ unterstützt. Die Expertenkommission arbeitete interdisziplinär und politisch unabhängig.&lt;/p&gt;</text>
       <contact>Annette Scherrer Sektionsleiterin Post +41 58 46 05465, Annette.Scherrer@bakom.admin.ch</contact>
-      <link id="227867">
+      <link id="228024">
         <title>Schlussbericht vom 24. Februar 2022</title>
         <uri>https://www.bakom.admin.ch/bakom/de/home/post-presse/expertenkommission_grundversorgung_post.html</uri>
         <position>Context</position>
       </link>
-      <link id="227868">
+      <link id="228025">
         <title>Christine Egerszegi übernimmt Leitung der Expertenkommission Grundversorgung (Medienmitteilung vom 18.03.2021)</title>
         <uri>https://www.uvek.admin.ch/uvek/de/home/uvek/medien/medienmitteilungen.msg-id-82725.html</uri>
         <position>Context</position>
@@ -57,12 +72,12 @@
       <lead>Le service universel en matière de services postaux et de trafic de paiements doit être modernisé. D'ici 2030, l'offre actuelle ne répondra plus aux besoins de la population et des entreprises: c'est la conclusion à laquelle est parvenue la Commission d'experts sur le service postal universel dans son rapport final sur le service universel de l'avenir, qu'elle a présenté à Berne le 24 février 2022. Le financement est en jeu. C'est pourquoi le monde politique doit rapidement prendre une décision de principe sur le développement du service universel.</lead>
       <text link="no">&lt;p&gt;Le service universel en matière de services postaux et de trafic des paiements devrait continuer à contribuer de manière importante à la cohésion sociale et régionale. Un mandat étatique de service universel reste justifié, afin de garantir à l'avenir aussi un accès fiable à des services de logistique, de communication et de paiements dans toute la Suisse.&lt;/p&gt;&lt;h2&gt;A l'avenir, la priorité est mise sur les services, et non plus sur la forme d'accès&lt;/h2&gt;&lt;p&gt;En 2030 aussi, les prestations du service universel doivent rester accessibles à tous les groupes de la population et dans toutes les régions. Pour cela, des exigences uniformes au niveau national et un réseau décentralisé de points d'accès sont nécessaires. Les exigences sur l'accessibilité doivent être formulées de manière technologiquement neutre, de sorte à accroître la marge de manoeuvre dans l'aménagement des services. La poste en a besoin pour adapter régulièrement son offre aux besoins changeants, et pouvoir recourir davantage à des formes d'accès innovantes.&lt;/p&gt;&lt;h2&gt;La distribution quotidienne des colis reste importante, des assouplissements sont prévus pour les lettres et journaux&lt;/h2&gt;&lt;p&gt;L'envoi de colis devient de plus en plus important. En 2030, la Suisse aura toujours besoin d'un service universel de qualité sur l'ensemble de son territoire. La loi doit continuer à garantir la distribution le jour ouvrable suivant l'envoi. En outre, une distribution des colis six jours par semaine doit être examinée.&lt;/p&gt;&lt;p&gt;D'ici 2030, la communication numérique sera très répandue et acceptée en Suisse. Il est envisageable que les lettres physiques ne puissent plus être distribuées qu'en courrier B, trois fois par semaine. La baisse du volume de lettres réduirait l'importance du monopole résiduel pour le financement du service universel et pourrait entraîner sa suppression.&lt;/p&gt;&lt;p&gt;Les médias continueront de remplir une fonction politique et étatique essentielle pour la démocratie. A moyen terme, les contenus seront toutefois de plus en plus proposés et utilisés sous forme numérique. Le maintien du service universel pour la distribution quotidienne de journaux imprimés au-delà de 2030 ne se justifie plus.&lt;/p&gt;&lt;p&gt;La vie en Suisse se numérise de plus en plus, et les données sont toujours plus importantes. La Commission suggère d'examiner la nécessité de mettre en place un nouveau service universel garantissant une infrastructure numérique basée sur la confiance. De nouvelles bases légales devraient être créées en dehors de la législation postale.&lt;/p&gt;&lt;h2&gt;Le service universel en matière de paiements doit être maintenu et faire l'objet d'un appel d'offres public&lt;/h2&gt;&lt;p&gt;L'accès au trafic de paiements demeure une condition essentielle pour participer à la vie économique. Toute personne résidant en Suisse doit continuer à pouvoir ouvrir un compte lui permettant d'utiliser des services de paiement de base. Les transactions en espèces doivent continuer à faire partie du service universel, tant qu'il n'existe pas de moyen de paiement numérique présentant des caractéristiques comparables (utilisation sans infrastructure, anonymat). Une telle offre peut être fournie indépendamment des services postaux. Ce mandat devrait néanmoins faire l'objet d'un appel d'offres public et, si nécessaire, être subventionné par l'Etat.&lt;/p&gt;&lt;h2&gt;Commission d'experts indépendante et interdisciplinaire&lt;/h2&gt;&lt;p&gt;La Commission d'experts sur le service postal universel a été mise en place en mars 2021 par le Département fédéral de l’environnement, des transports, de l'énergie et de la communication (DETEC) et le Département des finances (DFF). Sous la direction de Christine Egerszegi, la Commission a élaboré des bases pour les futures discussions politiques sur le service universel. Elle se composait d'expertes et d'experts issus des domaines suivants: logistique, trafic des paiements, numérisation, service public, politique régionale, économie et droit. L'OFCOM l'a soutenue en assumant les tâches administratives. La Commission d'experts a travaillé de manière interdisciplinaire et politiquement indépendante.&lt;/p&gt;</text>
       <contact>Annette Scherrer Cheffe de la section Poste +41 58 46 05465, Annette.Scherrer@bakom.admin.ch</contact>
-      <link id="227869">
+      <link id="228026">
         <title>Rapport final du 24 février 2022</title>
         <uri>https://www.bakom.admin.ch/bakom/fr/page-daccueil/poste-et-aide-a-la-presse/commission_d_experts_du_service_universel_de_la_poste.html</uri>
         <position>Context</position>
       </link>
-      <link id="227870">
+      <link id="228027">
         <title>Christine Egerszegi dirige la commission d’experts Service universel postal (communiqué de presse du 18.03.2021)</title>
         <uri>https://www.uvek.admin.ch/uvek/fr/home/detec/medias/communiques-de-presse.msg-id-82725.html</uri>
         <position>Context</position>
@@ -75,12 +90,12 @@
       <lead>Il mandato di servizio universale della Posta deve essere modernizzato. Entro il 2030, l'offerta odierna sarà obsoleta sia per la popolazione che per le imprese. È quanto conclude il rapporto finale sul servizio universale del futuro presentato dalla Commissione di esperti sul servizio postale universale il 24 febbraio 2022 a Berna. È in gioco il finanziamento del servizio universale. Ecco perché a livello politico occorre una decisione di principio tempestiva in merito al suo ulteriore sviluppo. </lead>
       <text link="no">&lt;p&gt;Anche in futuro il servizio universale nel settore dei servizi postali e del traffico dei pagamenti dovrebbe fornire un importante contributo alla coesione sociale e regionale. Un mandato statale per il servizio universale rimane quindi giustificato per garantire un accesso affidabile ai servizi logistici, di comunicazione e di pagamento in tutte le regioni della Svizzera.&lt;/p&gt;&lt;h2&gt;Ora l'attenzione va posta sulle prestazioni e non sulla forma d'accesso&lt;/h2&gt;&lt;p&gt;Le prestazioni del servizio universale devono essere accessibili a tutti i gruppi di popolazione in tutte le regioni anche nel 2030. Questo richiede requisiti nazionali uniformi e una rete decentralizzata di punti di accesso. In futuro, tuttavia, i requisiti di accessibilità dovranno essere formulati in modo tecnologicamente neutrale così da aumentare il margine di manovra nella progettazione. La Posta ha bisogno di questo margine per adeguare continuamente i propri servizi alle mutate esigenze e per ricorrere maggiormente a forme di acceso innovative.&lt;/p&gt;&lt;h2&gt;La consegna giornaliera dei pacchi rimane importante, mentre lettere e giornali tollerano un allentamento&lt;/h2&gt;&lt;p&gt;La spedizione di pacchi acquisisce sempre più importanza. Nel 2030, la Svizzera avrà bisogno di un servizio universale di alta qualità su tutto il territorio. La consegna il giorno lavorativo successivo dovrebbe continuare ad essere garantita per legge. Inoltre, va valutata la possibilità di un recapito pacchi sei giorni alla settimana.&lt;/p&gt;&lt;p&gt;Entro il 2030, la comunicazione digitale sarà così diffusa e accettata in Svizzera che le lettere fisiche potranno essere recapitate solo come Posta B e tre volte alla settimana. A seguito del calo del volume delle lettere il monopolio residuo perderà la sua importanza per il finanziamento del servizio universale e potrà quindi essere abolito.&lt;/p&gt;&lt;p&gt;I media svolgono una funzione importante in termini di politica statale e democratica. Nel 2030, i contenuti saranno offerti e utilizzati prevalentemente in modalità digitale. Non sarà quindi più appropriato mantenere il servizio universale per la distribuzione quotidiana di giornali stampati oltre il 2030. &lt;/p&gt;&lt;p&gt;La vita in Svizzera diventa sempre più digitale e i dati acquistano sempre più importanza. Per questo, la Commissione propone di esaminare il fabbisogno di un futuro servizio universale che comprenda un'infrastruttura digitale basata sulla fiducia. A tale scopo andrebbe creata una nuova base giuridica al di fuori della legislazione postale.&lt;/p&gt;&lt;h2&gt;Servizio universale nel traffico dei pagamenti: va mantenuto e messo a concorso pubblico&lt;/h2&gt;&lt;p&gt;L'accesso alle operazioni di pagamento rimane un prerequisito importante per la partecipazione alla vita economica. Ogni persona residente in Svizzera dovrebbe continuare a poter aprire un conto con le funzioni di pagamento di base. Anche le transazioni in contanti devono rimanere parte del servizio universale fino a quando non esisterà un mezzo di pagamento digitale con caratteristiche comparabili (utilizzo senza infrastruttura, anonimato). Tali prestazioni possono essere fornite indipendentemente dai servizi postali. Questo mandato dovrebbe essere messo a concorso pubblico e, se necessario, finanziato dallo Stato.&lt;/p&gt;&lt;h2&gt;Commissione di esperti indipendente e interdisciplinare&lt;/h2&gt;&lt;p&gt;La Commissione di esperti sul servizio postale universale è stata istituita nel marzo 2021 dal Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni (DATEC) e dal Dipartimento federale delle finanze (DFF). Sotto la guida di Christine Egerszegi, la Commissione ha elaborato i principi base per il prossimo discorso politico sul servizio universale del futuro. Composta da esperti di logistica, traffico dei pagamenti, digitalizzazione, servizio pubblico, politica regionale, economia e diritto, la Commissione è stata sostenuta amministrativamente dall'UFCOM e ha lavorato in modo interdisciplinare e politicamente indipendente.&lt;/p&gt;</text>
       <contact>Annette Scherrer Responsabile Sezione Posta +41 58 46 05465, Annette.Scherrer@bakom.admin.ch</contact>
-      <link id="227871">
+      <link id="228028">
         <title>Rapporto finale del 24.02.2022</title>
         <uri>https://www.bakom.admin.ch/bakom/it/pagina-iniziale/posta-stampa/commissione_di_esperti_sul_servizio_postale_universale.html</uri>
         <position>Context</position>
       </link>
-      <link id="227872">
+      <link id="228029">
         <title>Christine Egerszegi alla guida della commissione di esperti sul servizio postale (comunicato stampa del 18.03.2021)</title>
         <uri>https://www.uvek.admin.ch/uvek/it/home/datec/media/comunicati-stampa.msg-id-82725.html</uri>
         <position>Context</position>
@@ -102,7 +117,19 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="1081" org-id="810">
+      <keyword id="910" org-id="804">
+        <name lang="de">Post</name>
+        <name lang="fr">Poste</name>
+        <name lang="it">Posta</name>
+        <name lang="en">Post</name>
+      </keyword>
+      <keyword id="920" org-id="804">
+        <name lang="de">Post: Markt und Recht</name>
+        <name lang="fr">Post: Markt und Recht</name>
+        <name lang="it">Post: Markt und Recht</name>
+        <name lang="en">Post: Markt und Recht</name>
+      </keyword>
+      <keyword id="1081" org-id="804">
         <name lang="de">Grundversorgung</name>
         <name lang="fr">Service universel</name>
         <name lang="it">Servizio universale</name>
