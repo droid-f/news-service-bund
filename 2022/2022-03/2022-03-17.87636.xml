@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87636" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2022-03-17</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="804" lead="yes" topnews="no">
@@ -34,36 +34,6 @@
       <email lang="it">info@bafu.admin.ch</email>
       <email lang="en">info@bafu.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="808" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Energie</name>
-      <name lang="fr">Office fédéral de l'énergie</name>
-      <name lang="it">Ufficio federale dell'energia</name>
-      <name lang="en">Swiss Federal Office of Energy</name>
-      <www lang="de">http://www.bfe.admin.ch</www>
-      <www lang="fr">http://www.bfe.admin.ch</www>
-      <www lang="it">http://www.bfe.admin.ch</www>
-      <www lang="en">http://www.bfe.admin.ch</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
-    </originator>
-    <originator department-msg="no" id="805" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Verkehr</name>
-      <name lang="fr">Office fédéral des transports</name>
-      <name lang="it">Ufficio federale dei trasporti</name>
-      <name lang="en">Federal Office of Transport</name>
-      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
-      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
-      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
-      <www lang="en">https://www.bav.admin.ch/bav/en/home.html</www>
-      <email lang="de">presse@bav.admin.ch</email>
-      <email lang="fr">presse@bav.admin.ch</email>
-      <email lang="it">presse@bav.admin.ch</email>
-      <email lang="en">presse@bav.admin.ch</email>
-    </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -84,9 +54,9 @@
       <lead>Bundesrätin Simonetta Sommaruga trifft sich kommende Woche in Den Haag mit dem niederländischen Klima- und Energieminister Rob Jetten sowie mit Umweltministerin Vivianne Heijnen. Neben weiteren Gesprächen mit Vertretern aus dem Energie- und Verkehrsbereich steht auch ein Besuch des Hafens von Rotterdam auf dem Programm. Bundesrätin Sommaruga reist anschliessend nach Paris weiter, wo sie am Ministertreffen der Internationalen Energieagentur (IEA) teilnehmen wird.</lead>
       <text link="no"> &lt;p&gt;Bundesrätin Simonetta Sommaruga weilt am 22. und 23. März 2022 für einen Arbeitsbesuch in den Niederlanden. Sie trifft sich in Den Haag mit dem Klima- und Energieminister Rob Jetten, mit Umweltministerin Vivianne Heijnen sowie der Direktorin des renommierten Clingendael International Energy Programms. Bei den Gesprächen geht es um die Energieversorgung in Europa, die Folgen des Krieges in der Ukraine für die beiden Länder, den Ausbau der erneuerbaren Energien, die Dekarbonisierung und den Klimaschutz sowie den Gütertransport auf dem Rhein und mit der Bahn. &lt;/p&gt; &lt;p&gt;Die Schweiz und die Niederlande wollen ihre Zusammenarbeit weiter vertiefen. Bundesrätin Sommaruga wird mit Amtskollege Rob Jetten eine Absichtserklärung im Zusammenhang mit den Technologien zur Abscheidung und Speicherung sowie zur Entnahme von CO2 aus der Atmosphäre unterzeichnen. Die Niederlande planen solche Anlagen. &lt;/p&gt; &lt;p&gt;Der Hafen in Rotterdam ist ein wichtiges europäisches Drehkreuz für Öl, Gas und weitere Güter. Von dort aus gelangen sie auf dem Rhein nach Deutschland, Belgien, Frankreich und bis nach Basel und werden für den Weitertransport auch auf die Bahn verlagert. Die UVEK-Vorsteherin wird sich mit Vertretern der Hafenbehörden, der Schweizer Logistikindustrie, der Bahnindustrie (Swissrail), der Rheinhäfen sowie der Handelskammern beider Basel vor Ort über die Bedeutung des Hafens für Abwicklung und Transport der Güter austauschen. Beim Arbeitsbesuch mit dabei ist ausserdem die Direktorin des Verbandes der Schweizerischen Gasindustrie. &lt;/p&gt; &lt;p&gt;Bundesrätin Sommaruga reist danach weiter nach Paris. Dort findet am 24. März 2022 das Ministertreffen der Internationalen Energieagentur (IEA) statt, bei dem es ebenfalls um die Versorgungssicherheit geht. Die Schweiz gehört zu den Gründungsmitgliedern der IEA, die 1974 als Reaktion auf die Ölkrise geschaffen wurde.&lt;/p&gt; </text>
       <contact>Annetta Bundi, Leiterin Kommunikation UVEK, +41 78 646 38 80</contact>
-      <link id="228753">
+      <link id="228919">
         <title>UVEK: Dossier Arbeitsbesuch</title>
-        <uri>https://www.uvek.admin.ch/uvek/de/home/uvek/bundesraetin-simonetta-sommaruga/anlaesse/arbeitsbesuch-niederlande-paris-2021.html</uri>
+        <uri>https://www.uvek.admin.ch/uvek/de/home/uvek/bundesraetin-simonetta-sommaruga/anlaesse/arbeitsbesuch-niederlande-2021.html</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -97,9 +67,9 @@
       <lead>La conseillère fédérale Simonetta Sommaruga rencontrera la semaine prochaine à La Haye le ministre du climat et de l’énergie Rob Jetten ainsi que la secrétaire d’État chargée des infrastructures et de la gestion de l’eau Vivianne Heijnen. En plus d’autres discussions agendées avec des représentants issus des secteurs de l’énergie et des transports, une visite du port de Rotterdam est prévue. La conseillère fédérale Simonetta Sommaruga se rendra ensuite à Paris, où elle participera à une réunion ministérielle organisée par l’Agence internationale de l’énergie (AIE).</lead>
       <text link="no"> &lt;p&gt;La conseillère fédérale Simonetta Sommaruga se rendra aux Pays-Bas les 22 et 23 mars 2022 dans le cadre d’une visite de travail. Elle rencontrera à La Haye le ministre du climat et de l’énergie Rob Jetten, la secrétaire d’État chargée des infrastructures et de la gestion de l’eau Vivianne Heijnen, ainsi que la directrice du renommé Clingendael International Energy Programm. Les discussions porteront sur l’approvisionnement énergétique en Europe, sur les conséquences de la guerre en Ukraine pour la Suisse et les Pays-Bas, sur le développement des énergies renouvelables, sur la décarbonation, sur la protection du climat, ainsi que sur le transport ferroviaire et le transport sur le Rhin des marchandises. &lt;/p&gt; &lt;p&gt;La Suisse et les Pays-Bas souhaitent renforcer leur collaboration. La conseillère fédérale Simonetta Sommaruga signera, conjointement avec son homologue Rob Jetten, une déclaration d’intention portant sur les technologies capables de capter, de stocker et ainsi d’extraire du CO2 de l’atmosphère. Les Pays-Bas prévoient de construire de telles installations. &lt;/p&gt; &lt;p&gt;Le port de Rotterdam est un nœud important dans le commerce européen du pétrole, du gaz et d’autres marchandises. De là, les marchandises sont acheminées par le Rhin en Allemagne, en Belgique, en France et jusqu’à Bâle. Elles sont ensuite transférées sur le rail. À Rotterdam, la cheffe du DETEC s’entretiendra avec des représentants des autorités portuaires, de l’industrie suisse de la logistique, de l’industrie ferroviaire (Swissrail), des ports rhénans ainsi que de la Chambre de commerce des deux Bâle sur l’importance du port dans la gestion et le transport des marchandises. La directrice de l’Association Suisse de l’Industrie Gazière participera par ailleurs à cette visite de travail. &lt;/p&gt; &lt;p&gt;La conseillère fédérale Simonetta Sommaruga se rendra ensuite à Paris, où aura lieu le 24 mars 2022 la rencontre des ministres organisée par l’Agence internationale de l’énergie (AIE). La sécurité de l’approvisionnement y sera notamment abordée. La Suisse compte parmi les membres fondateurs de l’AIE, créée en 1974 en réaction au choc pétrolier.&lt;/p&gt; </text>
       <contact>Annetta Bundi, responsable Communication DETEC, +41 78 646 38 80</contact>
-      <link id="228754">
+      <link id="228920">
         <title>DETEC: Dossier visite de travail</title>
-        <uri>https://www.uvek.admin.ch/uvek/fr/home/detec/simonetta-sommaruga-conseillere-federale/manifestations/arbeitsbesuch-niederlande-paris-2021.html</uri>
+        <uri>https://www.uvek.admin.ch/uvek/fr/home/detec/simonetta-sommaruga-conseillere-federale/manifestations/arbeitsbesuch-niederlande-2021.html</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -110,9 +80,9 @@
       <lead>La settimana prossima la consigliera federale Simonetta Sommaruga incontrerà all'Aia il ministro olandese del clima e dell'energia Rob Jetten e la ministra dell'ambiente Vivianne Heijnen. Oltre ad altri incontri con rappresentanti del settore dell'energia e dei trasporti è in programma anche una visita al porto di Rotterdam. Successivamente la consigliera federale si recherà a Parigi, dove parteciperà al vertice ministeriale dell'Agenzia internazionale dell'energia (AIE).</lead>
       <text link="no"> &lt;p&gt;Dal 22 al 23 marzo 2022 la consigliera federale Simonetta Sommaruga sarà nei Paesi Bassi per una visita di lavoro. Incontrerà all'Aia il ministro del clima e dell'energia Rob Jetten, la ministra dell'ambiente Vivianne Heijnen e la direttrice del rinomato Clingendael International Energy Programm. I colloqui verteranno sull'approvvigionamento energetico in Europa, le conseguenze della guerra in Ucraina per entrambi i Paesi, il potenziamento delle energie rinnovabili, la decarbonizzazione e la protezione del clima nonché il trasporto merci sul Reno e su rotaia. &lt;/p&gt; &lt;p&gt;La Svizzera e i Paesi Bassi vogliono approfondire ulteriormente la loro cooperazione. La consigliera federale Sommaruga firmerà un memorandum d'intesa con il suo omologo Rob Jetten nell'ambito delle tecnologie per la separazione e lo stoccaggio di CO2 nonché per il suo prelievo dall'atmosfera. I Paesi Bassi stanno pianificando la realizzazione di questo tipo di impianti. &lt;/p&gt; &lt;p&gt;Il porto di Rotterdam è un importante hub europeo per il petrolio, il gas e altre merci. Da qui le merci viaggiano sul Reno verso la Germania, il Belgio, la Francia e fino a Basilea, per essere poi trasferite anche su rotaia per raggiungere ulteriori destinazioni. Il capo del DATEC si recherà sul posto per discutere insieme a rappresentanti delle autorità portuali, dell'industria logistica svizzera, dell'industria ferroviaria (Swissrail), dei porti del Reno e delle camere di commercio di Basilea-Città e Basilea-Campagna del ruolo del porto per lo smistamento e il trasporto delle merci. Alla visita di lavoro parteciperà anche la direttrice dell'Associazione Svizzera dell'Industria del gas. &lt;/p&gt; La consigliera federale Sommaruga proseguirà il suo viaggio alla volta di Parigi. Qui il 24 marzo 2022 si terrà il vertice ministeriale dell'Agenzia internazionale dell'energia (AIE), che si occuperà anch'esso della sicurezza dell'approvvigionamento. La Svizzera è uno dei membri fondatori dell'AIE, creata nel 1974 in risposta alla crisi petrolifera. </text>
       <contact>Annetta Bundi, capo Comunicazione DATEC, tel. +41 78 646 38 80</contact>
-      <link id="228755">
+      <link id="228921">
         <title>DATEC: Dossier visita di lavoro</title>
-        <uri>https://www.uvek.admin.ch/uvek/it/home/datec/simonetta-sommaruga-consigliera-federale/manifestazioni/arbeitsbesuch-niederlande-paris-2021.html</uri>
+        <uri>https://www.uvek.admin.ch/uvek/it/home/datec/simonetta-sommaruga-consigliera-federale/manifestazioni/arbeitsbesuch-niederlande-2021.html</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -126,31 +96,37 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="300" org-id="808">
-        <name lang="de">Energieffizienz</name>
-        <name lang="fr">Efficacité énergétique</name>
-        <name lang="it">Efficienza energetica</name>
-        <name lang="en">Energy Efficiency</name>
+      <keyword id="560" org-id="811">
+        <name lang="de">Internationales</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="it">Affari Internazionali</name>
+        <name lang="en">International Affairs</name>
       </keyword>
-      <keyword id="310" org-id="808">
-        <name lang="de">Energiepolitik</name>
-        <name lang="fr">Politique énergétique</name>
-        <name lang="it">Politica energetica</name>
-        <name lang="en">Energy Policy</name>
+      <keyword id="620" org-id="811">
+        <name lang="de">Klima</name>
+        <name lang="fr">Climat</name>
+        <name lang="it">Clima</name>
+        <name lang="en">Climate</name>
       </keyword>
-      <keyword id="240" org-id="808">
-        <name lang="de">CO2</name>
-        <name lang="fr">CO2</name>
-        <name lang="it">CO2</name>
-        <name lang="en">CO2</name>
+      <keyword id="310" org-id="811">
+        <name lang="de">Energie</name>
+        <name lang="fr">Energie</name>
+        <name lang="it">Energie</name>
+        <name lang="en">Energie</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="46">
-        <name lang="de">Verkehr</name>
-        <name lang="fr">Transports</name>
-        <name lang="it">Trasporti</name>
-        <name lang="en">Transport</name>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
       </topic>
     </topics>
   </message>
