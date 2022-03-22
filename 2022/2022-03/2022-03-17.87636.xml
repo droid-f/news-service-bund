@@ -34,6 +34,36 @@
       <email lang="it">info@bafu.admin.ch</email>
       <email lang="en">info@bafu.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="808" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="805" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="fr">Office fédéral des transports</name>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="en">Federal Office of Transport</name>
+      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
+      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
+      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
+      <www lang="en">https://www.bav.admin.ch/bav/en/home.html</www>
+      <email lang="de">presse@bav.admin.ch</email>
+      <email lang="fr">presse@bav.admin.ch</email>
+      <email lang="it">presse@bav.admin.ch</email>
+      <email lang="en">presse@bav.admin.ch</email>
+    </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -96,37 +126,31 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="560" org-id="811">
-        <name lang="de">Internationales</name>
-        <name lang="fr">Affaires internationales</name>
-        <name lang="it">Affari Internazionali</name>
-        <name lang="en">International Affairs</name>
+      <keyword id="300" org-id="808">
+        <name lang="de">Energieffizienz</name>
+        <name lang="fr">Efficacité énergétique</name>
+        <name lang="it">Efficienza energetica</name>
+        <name lang="en">Energy Efficiency</name>
       </keyword>
-      <keyword id="620" org-id="811">
-        <name lang="de">Klima</name>
-        <name lang="fr">Climat</name>
-        <name lang="it">Clima</name>
-        <name lang="en">Climate</name>
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="en">Energy Policy</name>
       </keyword>
-      <keyword id="310" org-id="811">
-        <name lang="de">Energie</name>
-        <name lang="fr">Energie</name>
-        <name lang="it">Energie</name>
-        <name lang="en">Energie</name>
-      </keyword>
-      <keyword id="173" org-id="811">
-        <name lang="de">Bundesamt für Umwelt: Startseite</name>
-        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
-        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
-        <name lang="en">Federal Office for the Environment: Homepage</name>
+      <keyword id="240" org-id="808">
+        <name lang="de">CO2</name>
+        <name lang="fr">CO2</name>
+        <name lang="it">CO2</name>
+        <name lang="en">CO2</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="29">
-        <name lang="de">Umwelt und Natur</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="en">Environment and Nature</name>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
       </topic>
     </topics>
   </message>
