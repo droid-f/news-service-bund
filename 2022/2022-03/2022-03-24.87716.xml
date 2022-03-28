@@ -79,6 +79,21 @@
       <email lang="it">kommunikation@efv.admin.ch</email>
       <email lang="en">info@efv.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -167,49 +182,19 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5180" org-id="506">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">armed forces</name>
-      </keyword>
-      <keyword id="5310" org-id="506">
-        <name lang="de">Rüstung / Beschaffung</name>
-        <name lang="fr">Armement / Acquisition d'armement</name>
-        <name lang="it">Armamento / Acquisto d'armamenti</name>
-        <name lang="en">Armament / Procurement</name>
-      </keyword>
-      <keyword id="5320" org-id="506">
-        <name lang="de">Rüstungspolitik</name>
-        <name lang="fr">Politique d'armement</name>
-        <name lang="it">Politica d'armamento</name>
-        <name lang="en">Armament Policy</name>
-      </keyword>
-      <keyword id="5530" org-id="506">
-        <name lang="de">Bundespolitik / Bundesrat</name>
-        <name lang="fr">Politique fédérale</name>
-        <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy, Federal Council(lor)</name>
+      <keyword id="115" org-id="602">
+        <name lang="de">Der Bund als Eigner von Betrieben</name>
+        <name lang="fr">La Confédération en tant que propriétaire d'entreprises</name>
+        <name lang="it">La Confederazione in qualità di proprietaria di aziende</name>
+        <name lang="en">The Confederation as an owner of business concerns</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="3">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">Armed Forces</name>
-      </topic>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="en">Security</name>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
       </topic>
     </topics>
   </message>
