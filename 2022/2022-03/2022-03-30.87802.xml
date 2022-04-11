@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="87802" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2022-03-30</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="805" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Bundesamt für Verkehr</name>
@@ -48,6 +33,21 @@
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -83,7 +83,7 @@
       <lead>Der Güterverkehr auf der Bahn innerhalb der Schweiz sowie für den Import und Export («Schienengüterverkehr in der Fläche») trägt zur Versorgung unseres Landes bei und stärkt die Klimapolitik der Schweiz. Die letzten Jahre haben aber gezeigt, dass diese Angebote kaum mehr eigenwirtschaftlich zu finanzieren sind. An seiner Sitzung vom 30. März 2022 hat der Bundesrat einen Bericht mit entsprechenden Reformvorschlägen dazu verabschiedet. Das UVEK wird bis im Herbst 2022 eine Vernehmlassungsvorlage mit zwei möglichen Stossrichtungen erarbeiten.</lead>
       <text link="no"> &lt;p&gt;Der Schienengüterverkehr in der Fläche ergänzt den Transitgüterverkehr durch die Alpen. Er betrifft Transporte innerhalb der Schweiz sowie für den Import und Export. Gemäss Gesetz muss er eigenwirtschaftlich erfolgen. Das ist eine grosse Herausforderung, weil hier Transporte aus einzelnen Wagen mit unterschiedlichen Gütern aufwändig zusammengestellt werden müssen. &lt;/p&gt; &lt;p&gt;In einem Bericht in Erfüllung des Postulats 21.3597 der ständerätlichen Verkehrskommission stellt der Bundesrat nun verschiedene Szenarien für die Weiterentwicklung des Schienengüterverkehrs sowie Optionen für die Anpassung der gesetzlichen Rahmenbedingungen und für eine finanzielle Förderung dar. Im Zentrum steht die Frage, ob und wie der derzeit nicht kostendeckende Wagenladungsverkehr positioniert werden soll, damit er weiter zur Versorgungssicherheit sowie zur Erreichung der Klimaziele beitragen kann.&lt;/p&gt; &lt;p&gt;Gestützt auf den Bericht hat der Bundesrat das UVEK beauftragt, bis Ende September eine Vernehmlassungsvorlage mit zwei Stossrichtungen auszuarbeiten: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;Die erste Stossrichtung zielt auf einen weiterhin eigenwirtschaftlichen Schienengüterverkehr. Die auf Wettbewerb ausgerichtete Marktordnung wird beibehalten. Der Gütertransport auf der Schiene soll mit zusätzlichen Anreizinstrumenten gestärkt werden, beispielsweise mit Verbilligungsbeiträgen an die Verlader.&lt;/li&gt;&lt;li&gt;Die zweite Stossrichtung sieht vor, dass der Einzelwagenladungsverkehr abgestimmt mit der Branche umfassend modernisiert und seine Attraktivität für Kunden gezielt gesteigert wird. Dies erfordert eine umfassende finanzielle Förderung des Einzelwagenladungsverkehrs durch den Bund.&lt;/li&gt;&lt;/ul&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Wagenladungsverkehr&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Im Schienengüterverkehr in der Fläche (Binnen-, Import- und Exportverkehr) wird ein bedeutender Teil der Güter im sogenannten Wagenladungsverkehr transportiert. Dabei werden einzelne Eisenbahnwagen oder Wagengruppen aus Anschlussgleisen und Freiverladeanlagen gesammelt, zu Zügen formiert und in Rangierbahnhöfe geführt, wo je nach Bestimmungsregion neue Züge zusammengestellt werden.&lt;br /&gt;&lt;br /&gt;Am Bestimmungsbahnhof werden sie als einzelne Wagen oder Wagengruppen verteilt. Dieses Netzwerk ermöglicht viele Transporte zwischen den wichtigsten Produktionsstätten, Logistikzentren und Lagern der Schweiz. Das erleichtert der verladenden Wirtschaft reibungslose Logistik- und Produktionsabläufe, weil dank der regelmässigen, gebündelten Belieferung eine aufwändige Lagerhaltung entfällt. &lt;/p&gt; </text>
       <contact>Bundesamt für Verkehr Medienstelle +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="229507">
+      <attachment id="229745">
         <title>Zukünftige Ausrichtung des Schienengüterverkehrs in der Fläche; Bericht des Bundesrates</title>
         <format>pdf</format>
         <size-kb>2007</size-kb>
@@ -91,8 +91,9 @@
         <position>Context</position>
       </attachment>
       <revisions>
-        <revision date="2022-03-31 10:31" type="R"/>
         <revision date="2022-04-05 15:42" type="R"/>
+        <revision date="2022-03-31 10:31" type="R"/>
+        <revision date="2022-04-11 16:22" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -101,7 +102,7 @@
       <lead>Le fret ferroviaire intérieur en Suisse et d’import/export (« fret ferroviaire sur l’ensemble du territoire ») contribue à l’approvisionnement de notre pays et renforce la politique climatique de la Suisse. Les dernières années ont toutefois montré que ces offres ne peuvent pratiquement plus être autofinancées. Lors de sa séance du 30 mars 2022, le Conseil fédéral a adopté un rapport contenant des propositions de réforme. Le DETEC élaborera un projet comportant deux orientations possibles, à mettre en consultation d’ici à l’automne 2022.</lead>
       <text link="no"> &lt;p&gt;Le fret ferroviaire sur l’ensemble du territoire complète le transport de marchandises en transit à travers les Alpes. Il concerne les transports à l’intérieur de la Suisse ainsi que pour l’import/export. Conformément à la loi, il doit être autofinancé. Il s’agit d’un défi de taille, car les convois sont constitués de wagons isolés transportant des marchandises différentes, ce qui demande de grands efforts de manutention.&lt;/p&gt; &lt;p&gt;Dans un rapport en réponse au postulat 21.3597 de la commission des transports du Conseil des Etats, le Conseil fédéral présente différents scénarios pour le développement du fret ferroviaire ainsi que des options en vue d’une adaptation des conditions-cadres légales et d’un encouragement financier. Il importe de déterminer si et comment le trafic par wagons complets, qui ne couvre actuellement pas ses coûts, doit être positionné pour qu’il puisse continuer à contribuer à la sécurité de l’approvisionnement du pays et à la réalisation des objectifs climatiques.&lt;/p&gt; &lt;p&gt;Sur la base de ce rapport, le Conseil fédéral a chargé le DETEC d’élaborer, d’ici à fin septembre, un projet à mettre en consultation qui comportera deux orientations : &lt;/p&gt; &lt;ul&gt;&lt;li&gt;La première orientation vise à maintenir une exploitation autofinancée du fret ferroviaire et l’organisation du marché axée sur la concurrence. Le transport de marchandises par le rail doit être renforcé par des instruments d’incitation supplémentaires, par exemple par des rabais aux chargeurs.&lt;/li&gt;&lt;li&gt;La deuxième orientation prévoit de moderniser en profondeur le transport par wagons complets isolés en concertation avec la branche et de le rendre, par des mesures ciblées, plus attrayant pour les clients. Cela nécessite un soutien financier global de la Confédération pour ce type de transport. &lt;/li&gt;&lt;/ul&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Trafic par wagons complets&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;En fret ferroviaire sur l’ensemble du territoire (trafic intérieur et d’import/export), une partie importante des marchandises est transportée par wagons complets. Des wagons isolés ou des groupes de wagons sont rassemblés à partir de voies de raccordement et de voies de débord, formés en rames et conduits dans des gares de triage où de nouveaux trains sont constitués selon la région de destination.&lt;br /&gt;&lt;br /&gt;À la gare de destination, ils sont répartis sous forme de wagons isolés ou de groupes de wagons. Ce réseau permet d’effectuer de nombreux transports entre les principaux sites de production, centres logistiques et entrepôts de Suisse. Cela facilite le bon déroulement de la logistique et de la production pour les chargeurs, car grâce aux livraisons régulières et regroupées, il n’est pas nécessaire de procéder à un coûteux stockage. &lt;/p&gt; </text>
       <contact>Office fédéral des transports Service de presse +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="229508">
+      <attachment id="229746">
         <title>Future orientation du transport ferroviaire de marchandises sur l’ensemble du territoire ; Rapport du Conseil fédéral</title>
         <format>pdf</format>
         <size-kb>1828</size-kb>
@@ -109,8 +110,9 @@
         <position>Context</position>
       </attachment>
       <revisions>
-        <revision date="2022-03-31 10:31" type="R"/>
         <revision date="2022-04-05 15:42" type="R"/>
+        <revision date="2022-03-31 10:31" type="R"/>
+        <revision date="2022-04-11 16:22" type="R"/>
       </revisions>
     </content>
     <content lang="it">
@@ -119,16 +121,17 @@
       <lead>Il traffico merci ferroviario interno, nonché di importazione e di esportazione («traffico merci ferroviario sull’intero territorio nazionale») contribuisce all’approvvigionamento del nostro Paese e rafforza la politica climatica della Svizzera. Gli ultimi anni hanno mostrato che queste offerte non sono praticamente più finanziabili in maniera autonoma. In occasione della riunione del 30 marzo 2022, il Consiglio federale ha adottato un rapporto con proposte di riforma al riguardo. Entro l’autunno 2022 il DATEC elaborerà un progetto da porre in consultazione che prevede due possibili indirizzi strategici.</lead>
       <text link="no"> &lt;p&gt;Il traffico merci ferroviario sull’intero territorio nazionale integra il traffico merci di transito attraverso le Alpi e comprende i trasporti all’interno della Svizzera come anche i trasporti per l’importazione e l’esportazione. Per legge deve essere finanziariamente autonomo, condizione che rappresenta una notevole sfida se si considera quanto sia oneroso comporre trasporti formati da singoli carri con merci diverse. &lt;/p&gt; &lt;p&gt;In un rapporto in adempimento del postulato 21.3597 della Commissione dei trasporti del Consiglio degli Stati, il Consiglio federale presenta ora diversi scenari per l’ulteriore sviluppo del traffico merci su rotaia, nonché opzioni per l’adattamento delle condizioni quadro legislative e per un promovimento finanziario. La domanda centrale è se e in che modo debba essere posizionato il trasporto in carri completi, che attualmente non è in grado di assicurare la copertura dei costi, per poter contribuire alla certezza dell’approvvigionamento e al conseguimento degli obiettivi climatici.&lt;/p&gt; &lt;p&gt;Sulla scorta del suddetto rapporto, il Consiglio federale ha incaricato il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) di elaborare, entro fine settembre, un progetto da porre in consultazione che contempla due indirizzi strategici.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Nel primo si punta a mantenere l’autonomia finanziaria del traffico merci su rotaia e l’orientamento del mercato alla concorrenza, rafforzando nel contempo il settore mediante incentivi aggiuntivi quali ad esempio contributi calmieranti.&lt;/li&gt;&lt;li&gt;Nel secondo si propone un completo ammodernamento del trasporto in carri completi isolati e un aumento mirato della sua attrattività per la clientela, entrambi da realizzare in coordinamento con il settore. Ciò richiederà ampie misure di promovimento finanziario da parte della Confederazione. &lt;/li&gt;&lt;/ul&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Trasporto in carri completi&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Nel traffico merci ferroviario sull’intero territorio nazionale (traffico interno, d’importazione e di esportazione), una quota rilevante di merci viene trasportata nel cosiddetto trasporto in carri completi. A partire dai binari di raccordo e dagli impianti di carico e di scarico, singoli carri o gruppi di carri vengono riuniti in treni da condurre nelle stazioni di smistamento, dove sono costituiti nuovi convogli secondo le regioni di destinazione.&lt;br /&gt;&lt;br /&gt;Nelle stazioni d’arrivo i singoli carri o gruppi di carri sono quindi smistati. Questa rete consente numerosi trasporti tra i principali siti di produzione, centri logistici e magazzini della Svizzera. Grazie al rifornimento regolare e raggruppato, vengono meno gli oneri legati all’immagazzinamento e il settore dei committenti può così realizzare processi produttivi e logistici ottimali. &lt;/p&gt; </text>
       <contact>Ufficio federale dei trasporti Servizio stampa +41 58 462 36 43 presse@bav.admin.ch</contact>
-      <attachment id="229509">
-        <title>Future orientation du transport ferroviaire de marchandises sur l’ensemble du territoire ; Rapport du Conseil fédéral (La versione in italiano del rapporto sarà pubblicata prossimamente)</title>
+      <attachment id="229747">
+        <title>Futuro orientamento del Traffico merci ferroviario sull’intero territorio nazionale; Rapporto del Consiglio federale</title>
         <format>pdf</format>
-        <size-kb>1828</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/70966.pdf</uri>
+        <size-kb>2340</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71024.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions>
-        <revision date="2022-03-31 10:31" type="R"/>
         <revision date="2022-04-05 15:42" type="R"/>
+        <revision date="2022-03-31 10:31" type="R"/>
+        <revision date="2022-04-11 16:22" type="R"/>
       </revisions>
     </content>
     <keywords>
