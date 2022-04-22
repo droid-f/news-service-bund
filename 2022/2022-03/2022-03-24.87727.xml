@@ -19,21 +19,6 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="405" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Staatssekretariat für Migration</name>
-      <name lang="fr">Secrétariat d’Etat aux migrations</name>
-      <name lang="it">Segreteria di Stato della migrazione</name>
-      <name lang="en">State Secretariat for Migration</name>
-      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
-      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
-      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
-      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
-      <email lang="de">info@sem.admin.ch</email>
-      <email lang="fr">info@sem.admin.ch</email>
-      <email lang="it">info@sem.admin.ch</email>
-      <email lang="en">info@sem.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -124,29 +124,17 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="5180" org-id="502">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">armed forces</name>
+      <keyword id="10" org-id="405">
+        <name lang="de">Asylunterkunft</name>
+        <name lang="fr">Hébergement pour requérants d’asile</name>
+        <name lang="it">Alloggio per richiedenti l’asilo</name>
+        <name lang="en">Accommodation for asylum seekers</name>
       </keyword>
-      <keyword id="5420" org-id="502">
-        <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
-        <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
-        <name lang="it">Eventi straordinari / Incidenti straordinari</name>
-        <name lang="en">Exceptional Incidents / Accidents</name>
-      </keyword>
-      <keyword id="5870" org-id="502">
-        <name lang="de">Humanitäre Unterstützung</name>
-        <name lang="fr">Soutien humanitaire</name>
-        <name lang="it">Assistenza umanitaria</name>
-        <name lang="en">humanitarian support</name>
-      </keyword>
-      <keyword id="1011" org-id="502">
-        <name lang="de">Dossier Ukraine</name>
-        <name lang="fr">Dossier Ukraine</name>
-        <name lang="it">Dossier Ucraina</name>
-        <name lang="en">Dossier Ukraine</name>
+      <keyword id="156" org-id="405">
+        <name lang="de">Ukraine</name>
+        <name lang="fr">Ukraine</name>
+        <name lang="it">Ucraina</name>
+        <name lang="en">Ukraine</name>
       </keyword>
     </keywords>
     <topics>
