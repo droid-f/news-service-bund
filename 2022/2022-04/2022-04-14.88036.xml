@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="88036" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2022-04-14</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </originator>
     <originator department-msg="yes" id="603" lead="no" topnews="no">
       <department-id>601</department-id>
       <name lang="de">Eidg. Finanzverwaltung</name>
@@ -49,6 +34,36 @@
       <email lang="it">kommunikation@efv.admin.ch</email>
       <email lang="en">info@efv.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="808" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -62,20 +77,6 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
-    </department>
-    <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
     <department id="601">
       <name lang="de">Eidgenössisches Finanzdepartement</name>
@@ -91,18 +92,32 @@
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
     </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Ukraine: Bundesrat prüft Rettungsschirm für Strombranche</title>
       <lead>Seit Ende letzten Jahres gibt es auf den Energiemärkten hohe Preisausschläge. Mit dem Krieg in der Ukraine haben diese in einem bisher nicht bekannten Ausmass zugenommen. Dadurch steigt auch der Liquiditätsbedarf der im Handel tätigen Stromunternehmen stark an. Um sicherzustellen, dass die Schweizer Stromversorgung auch bei einer weiteren Verschärfung der Situation gewährleistet bleibt, hat der Bundesrat an der Sitzung vom 13. April 2022 beschlossen, einen Rettungsschirm für systemkritische Stromunternehmen zu prüfen. </lead>
       <text link="no">Die starken Preisausschläge auf den Energiemärkten führen dazu, dass Stromunternehmen mehr finanzielle Mittel brauchen, um die mit dem Stromhandel verbundenen Sicherheitsleistungen zu decken. Seit Ausbruch des Ukraine-Krieg hat sich die Situation weiter verschärft: Die Energiemärkte erleben eine Preisvolatilität, die es historisch noch nie gegeben hat. Damit erhöht sich der Liquiditätsbedarf der im Grosshandel tätigen Stromunternehmen stark. Ein unkontrollierter Ausfall eines grösseren Unternehmens könnte die Versorgungssicherheit der Schweiz gefährden und eine Kettenreaktion nach sich ziehen. &lt;p&gt;Das will der Bundesrat vermeiden. Er hat deshalb beschlossen, die Arbeiten für einen Rettungsschirm für systemkritische Stromunternehmen sowie eine entsprechende gesetzliche Grundlage voranzutreiben. Gefordert sind nach wie vor in erster Linie die Unternehmen selbst. Der Krieg und die höhere Preisvolatilität fordern von ihnen eine höhere Bereitschaft, mehr Flexibilität sowie allenfalls bestimmte Anpassungen am Geschäftsmodell. Der Bund soll nur subsidiär zu den Unternehmen selbst und ihren Fremd- und Eigenkapitalgebern tätig werden. &lt;/p&gt; &lt;p&gt;Um Fehlanreize zu vermeiden, sollen die Bedingungen für eine Unterstützung des Bundes sehr streng sein. Dazu gehören u.a. Transparenzvorschriften, eine marktgerechte Verzinsung, ein Dividendenausschüttungsverbot sowie Sicherheiten in Form von Verpfändung von Aktien. Auch soll der Rettungsschirm nur temporär zur Verfügung stehen. &lt;/p&gt; &lt;p&gt;Längerfristig ist eine Reihe von Massnahmen geplant, um die Strombranche widerstandsfähiger zu machen. Dazu gehören Vorschriften, die dafür sorgen, dass wichtige Funktionen wie die Stromproduktion jederzeit weiterbetrieben werden können (Business Continuity Management BCM); zudem ein Gesetz zur Integrität und Transparenz des Grosshandels von Strom und Gas sowie allfällige Vorgaben zur Liquidität und Kapitalausstattung der Unternehmen.&lt;/p&gt; &lt;p&gt;Der Bund wird nun die Gespräche mit den wichtigsten Stromunternehmen im Hinblick auf eine kurze Vernehmlassung vertiefen. Ein dringliches Bundesgesetz müsste in der Sommersession 2022 in den eidgenössischen Räten im Sonderverfahren beraten und dringlich in Kraft gesetzt werden.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</text>
       <contact>Kommunikation UVEK, Tel. +41 58 462 55 11</contact>
-      <link id="229986">
+      <link id="230296">
         <title>Dossier UVEK</title>
         <uri>https://www.uvek.admin.ch/uvek/de/home/uvek/ukraine.html</uri>
         <position>Context</position>
       </link>
-      <link id="229989">
+      <link id="230299">
         <title>Video: Mediekonferenz</title>
         <uri>https://www.youtube.com/watch?v=BDTh_MNglxw</uri>
         <position>Context</position>
@@ -115,12 +130,12 @@
       <lead>Depuis la fin de l’année dernière, les marchés de l’énergie connaissent d’importantes fluctuations de prix, qui ont augmenté dans des proportions inédites avec la guerre en Ukraine. Cette situation entraîne une forte hausse des besoins de liquidités des entreprises électriques actives dans le commerce. Afin de pouvoir garantir la sécurité de l’approvisionnement en Suisse même si la situation continue de s’aggraver, le Conseil fédéral a examiné lors de sa séance du 13 avril 2022 la création d’un mécanisme de sauvetage destiné à des entreprises électriques d’importance systémique.</lead>
       <text link="no"> &lt;p&gt;En raison des importantes fluctuations de prix sur les marchés de l’énergie, les entreprises électriques ont besoin de moyens financiers supplémentaires afin de couvrir les garanties financières liées au commerce de l’électricité. Depuis le début de la guerre en Ukraine, la situation a continué de s’aggraver : les marchés de l’énergie font face à une volatilité des prix qui a atteint un niveau historique. Par conséquent, les besoins de liquidités des entreprises électriques actives dans le commerce de gros augmentent fortement. Une défaillance incontrôlée d’une entreprise d’envergure pourrait menacer la sécurité de l’approvisionnement de la Suisse et entraîner une réaction en chaîne. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral souhaite éviter ce scénario. Il a donc décidé de lancer des travaux pour mettre en place un mécanisme de sauvetage destiné à des entreprises électriques d’importance systémique ainsi qu’une base légale correspondante. Les entreprises continuent de devoir trouver elles-mêmes des solutions dans un premier temps. La guerre et la forte volatilité des prix requièrent qu’elles s’impliquent davantage, fassent preuve de plus de flexibilité et, dans certains cas, adaptent leur modèle d’affaires. La Confédération ne doit intervenir que de manière subsidiaire pour les entreprises et leurs bailleurs de fonds externes et de fonds propres. &lt;/p&gt; &lt;p&gt;Pour éviter des incitations inopportunes, il faut que des conditions très strictes régissent le soutien de la Confédération, notamment des prescriptions sur la transparence, un rendement conforme au marché, une interdiction de distribuer des dividendes ainsi que des garanties sous la forme d’un nantissement des actions. En outre, le mécanisme de sauvetage ne doit être que de nature provisoire. &lt;/p&gt; &lt;p&gt;À long terme, une série de mesures sont prévues pour rendre la branche de l’électricité plus résiliente. Sont notamment envisagées des prescriptions qui garantissent le maintien permanent de fonctions importantes telles que la production d’électricité (&lt;i&gt;Business Continuity Management&lt;/i&gt;, BCM), une loi sur l’intégrité et la transparence du commerce de gros de l’électricité et du gaz, ainsi que d’éventuelles prescriptions concernant les liquidités et la dotation en capital des entreprises.&lt;/p&gt; &lt;p&gt;La Confédération entend désormais approfondir les discussions avec les entreprises électriques les plus importantes dans l’optique d’une brève procédure de consultation. Une loi fédérale urgente devrait être soumise aux Chambres fédérales durant la session d’été 2022 dans le cadre d’une procédure spéciale et entrer en vigueur dès que possible.&lt;/p&gt; </text>
       <contact>Communication DETEC, tél. +41 58 462 55 11</contact>
-      <link id="229987">
+      <link id="230297">
         <title>Dossier DETEC</title>
         <uri>https://www.uvek.admin.ch/uvek/fr/home/detec/ukraine.html</uri>
         <position>Context</position>
       </link>
-      <link id="229990">
+      <link id="230300">
         <title>Vidéo: Conférence de presse</title>
         <uri>https://www.youtube.com/watch?v=BDTh_MNglxw</uri>
         <position>Context</position>
@@ -133,12 +148,12 @@
       <lead>Dalla fine dell’anno scorso i mercati dell’energia stanno registrando forti impennate dei prezzi. La guerra in Ucraina non ha fatto che acuire la situazione, portando i prezzi a livelli mai visti prima. Di conseguenza, cresce considerevolmente anche il fabbisogno di liquidità delle aziende elettriche operanti sui mercati. Al fine di garantire l’approvvigionamento elettrico in Svizzera anche in caso di un ulteriore peggioramento della situazione, il Consiglio federale ha deciso, nella sua seduta del 13 aprile 2022, di valutare un piano di salvataggio a tutela delle aziende elettriche di importanza sistemica. </lead>
       <text link="no"> &lt;p&gt;A causa dei forti aumenti dei prezzi sui mercati dell’energia le aziende elettriche hanno bisogno di maggiori mezzi finanziari per assicurare le prestazioni a garanzia della sicurezza nel commercio di energia elettrica. La situazione si è fatta ancora più critica da quando è scoppiato il conflitto in Ucraina: i mercati dell’energia sono esposti a una maggiore volatilità dei prezzi finora mai verificatasi. Di conseguenza, aumenta considerevolmente il fabbisogno di liquidità delle aziende operanti nel commercio all’ingrosso dell’energia elettrica. Se, in mancanza di rimedio, venisse meno una grande azienda, la sicurezza dell’approvvigionamento in Svizzera potrebbe essere a rischio e si innescherebbe una reazione a catena. &lt;/p&gt; &lt;p&gt;Il Consiglio federale vuole impedire che un tale scenario si avveri e ha quindi deciso di mettere a punto un piano di salvataggio per le aziende elettriche di importanza sistemica, insieme alla relativa base giuridica. Come di consueto, le imprese del settore sono chiamate ad agire in prima linea. La guerra e la forte volatilità dei prezzi obbligano le aziende a dare prova di maggiore disponibilità e flessibilità, ma anche a procedere a eventuali adeguamenti del proprio modello aziendale. La Confederazione interverrà solo in via sussidiaria rispetto alle imprese stesse, ai loro finanziatori o a investitori terzi. &lt;/p&gt; &lt;p&gt;Per evitare falsi incentivi, le condizioni per usufruire delle misure di sostegno della Confederazione saranno molto severe. Tra queste, ad esempio, prescrizioni sulla trasparenza, tassi di interesse conformi al mercato, divieto di distribuzione dei dividendi e garanzie sotto forma di pegni sulle azioni. Il pacchetto di misure sarà di durata limitata.&lt;/p&gt; &lt;p&gt;Sul lungo periodo è prevista una serie di provvedimenti volti a rendere le aziende più resilienti. Essi comprendono prescrizioni che garantiscano in qualsiasi momento il mantenimento di importanti funzioni come la produzione di energia elettrica (Business Continuity Management), una legge sull’integrità e la trasparenza del commercio all’ingrosso di elettricità e gas, nonché eventuali direttive in materia di liquidità e dotazione di capitale delle imprese. &lt;/p&gt; &lt;p&gt;La Confederazione si accinge a discutere più in dettaglio con le principali aziende elettriche in vista di una breve procedura di consultazione. Una legge federale urgente dovrebbe essere discussa alle Camere federali con procedura speciale durante la sessione estiva 2022 ed entrare in vigore urgentemente. &lt;/p&gt; </text>
       <contact>Comunicazione DATEC, tel. +41 58 462 55 11</contact>
-      <link id="229988">
+      <link id="230298">
         <title>Dossier DATEC</title>
         <uri>https://www.uvek.admin.ch/uvek/it/home/datec/ucraina.html</uri>
         <position>Context</position>
       </link>
-      <link id="229991">
+      <link id="230301">
         <title>Video: Conferenza stampa</title>
         <uri>https://www.youtube.com/watch?v=BDTh_MNglxw</uri>
         <position>Context</position>
@@ -160,37 +175,37 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="110" org-id="603">
-        <name lang="de">Finanzen von Bund, Kantonen und Gemeinden</name>
-        <name lang="fr">Finances de la Confédération / cantons / communes</name>
-        <name lang="it">Finanze di Confederazione, Cantoni e Comuni</name>
-        <name lang="en">Finances of the Confederation / cantons / communes</name>
-      </keyword>
-      <keyword id="128" org-id="603">
-        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
-        <name lang="fr">Politique économique et marchés financiers</name>
-        <name lang="it">Politica economica e mercati finanziari</name>
-        <name lang="en">Economic policy and financial markets</name>
-      </keyword>
-    </keywords>
-    <topics>
-      <topic id="10">
+      <keyword id="210" org-id="804">
         <name lang="de">Bundesrat</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="en">Federal Council</name>
-      </topic>
+      </keyword>
+      <keyword id="1700" org-id="804">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economy</name>
+      </keyword>
+      <keyword id="310" org-id="804">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Energiepolitik</name>
+        <name lang="it">Energiepolitik</name>
+        <name lang="en">Energiepolitik</name>
+      </keyword>
+      <keyword id="2086" org-id="804">
+        <name lang="de">Stromversorgung</name>
+        <name lang="fr">Approvisionnement en électricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="en">Electricity supply</name>
+      </keyword>
+    </keywords>
+    <topics>
       <topic id="11">
         <name lang="de">Energie</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
         <name lang="en">Energy</name>
-      </topic>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
