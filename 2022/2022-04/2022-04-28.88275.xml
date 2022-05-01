@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="88275" revoked="no">
+    <version>1</version>
+    <pubdate>2022-04-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Motorentechnik: Zwölftakt statt Viertakt</title>
+      <lead>Die Empa hat in den letzten Jahren gemeinsam mit einem externen Hydraulikspezialisten eine vollvariable elektrohydraulische Ventilsteuerung entwickelt, welche sich für Verbrennungsmotoren und andere thermische/pneumatische Maschinen einsetzen lässt. </lead>
+      <text link="no">Vollvariabel bedeutet, dass sowohl der Ventilhub wie auch der Öffnungs- sowie der Schliesszeitpunkt frei eingestellt werden können – und dies sogar von einem Zyklus zum nächsten. Am Verbrennungsmotor eingesetzt gibt diese volle Flexibilität neue Freiheitsgrade für Optimierungen. Beispielsweise lässt sich die Last bei Ottomotoren ohne Drosselklappe und von einem Zyklus zum nächsten einstellen, die Volllast kann optimiert werden und der Motor lässt sich auf verschiedene Treibstoffe "per Software" anpassen.&lt;br /&gt;&lt;br /&gt;Die Empa hat den Ventiltrieb an einem Ottomotor aufgebaut und erforscht die Potentiale. Eine Variante der Laststeuerung ist die Zylinderabschaltung. Das heisst, einzelne Zylinder werden im Teillastbereich in hoher Last betrieben, andere werden zugleich ganz abgeschaltet indem alle Ventile geschlossen bleiben. Der plötzliche Übergang vom Betrieb mit allen Zylindern auf den Betrieb mit abgeschalteten Zylindern würde allerdings ungewünschte Drehmomentspitzen mit sich bringen, so dass der Übergang sanft gestaltet werden muss. In heute auf dem Markt befindlichen System ohne vollvariable Ventilsteuerungen werden solche Zylinderabschaltungen durch stark effizienzmindernde Zündeingriffe ausgelöst. Mit der vollvariablen Ventilsteuerung der Empa lassen sich einzelne Zylinder dagegen ohne Effizienzverlust abschalten.&lt;br /&gt;&lt;br /&gt;Ebenso wie die vollständige Abschaltung von Zylindern ist es auch möglich, sie seltener zu zünden. So wird aus einem Viertakt-Betrieb, ein Acht- oder Zwölftakt-Betrieb. Im Vergleich zu einem gedrosselten Viertakter arbeitet ein solcher Motor deutlich effizienter.</text>
+      <contact>Dr. Patrik Soltic Empa, Fahrzeugantriebssysteme Tel. +41 58 765 46 24 Patrik.Soltic@empa.ch Wolfgang Schneider etavalve GmbH Tel. +41-79-3925971 wolfgang.schneider@bluewin.ch</contact>
+      <attachment id="230402">
+        <title>Modell des FlexWork-Motors mit vollvariabler elektrohydraulischer Ventilsteuerung. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>1521</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71283.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="230400">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/flexwork-zylinderabschaltung</uri>
+        <position>Context</position>
+      </link>
+      <link id="230401">
+        <title>Homepage Etavalve GmbH</title>
+        <uri>https://www.etavalve.com/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Technique des moteurs: Douze temps au lieu de quatre</title>
+      <lead>Ces dernières années, l'Empa a développé, en collaboration avec un spécialiste externe de l'hydraulique, une commande de soupapes électrohydraulique entièrement variable appelée FlexWork, qui peut être utilisée pour les moteurs à combustion et autres machines thermiques/pneumatiques. </lead>
+      <text link="no">Entièrement variable signifie que la levée des soupapes ainsi que le moment de l'ouverture et de la fermeture peuvent être réglés librement, et ce même d'un cycle à l'autre. Utilisée sur un moteur à combustion, cette flexibilité totale offre de nouveaux degrés de liberté pour l'optimisation. Par exemple, la charge des moteurs à essence peut être réglée sans clapet d'étranglement et d'un cycle à l'autre, la pleine charge peut être optimisée et le moteur peut être adapté à différents carburants "par logiciel".&lt;br /&gt;&lt;br /&gt;L'Empa a mis en place la commande des soupapes sur un moteur à allumage commandé et explore maintenant les possibilités offertes par cette nouvelle technologie. Une variante de la commande de charge est la désactivation des cylindres. Cela signifie que certains cylindres fonctionnent à charge élevée dans la plage de charge partielle, d'autres sont en même temps complètement désactivés en laissant toutes les soupapes fermées. Le passage soudain du fonctionnement avec tous les cylindres au fonctionnement avec des cylindres désactivés entraînerait toutefois des pics de couple indésirables, de sorte que la transition doit être réalisée en douceur. Dans les systèmes actuellement sur le marché sans commandes de soupapes entièrement variables, de telles déconnexions de cylindres sont déclenchées par des interventions d'allumage qui réduisent fortement l'efficacité. Avec la commande de soupapes entièrement variable de l'Empa, il est en revanche possible de désactiver certains cylindres sans perte d'efficacité.&lt;br /&gt;&lt;br /&gt;Tout comme la désactivation complète de cylindres, il est également possible de les allumer moins souvent. Ainsi, un fonctionnement à quatre temps devient un fonctionnement à huit ou douze temps. Comparé à un moteur à quatre temps étranglé, un tel moteur fonctionne de manière nettement plus efficace.&lt;br /&gt;</text>
+      <contact>Dr. Patrik Soltic Empa, Automotive Powertrain Technologies Tél. +41 58 765 46 24 Patrik.Soltic@empa.ch Wolfgang Schneider etavalve GmbH Tél. +41-79-3925971 wolfgang.schneider@bluewin.ch</contact>
+      <attachment id="230404">
+        <title>Modèle du moteur FlexWork avec système de commande électrohydraulique des soupapes entièrement variable. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>1521</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71285.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="230400">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/flexwork-zylinderabschaltung</uri>
+        <position>Context</position>
+      </link>
+      <link id="230401">
+        <title>Homepage Etavalve GmbH</title>
+        <uri>https://www.etavalve.com/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Engine Technology: Twelve-stroke engine</title>
+      <lead>In recent years, Empa has worked with an external hydraulics specialist to develop a fully variable electrohydraulic valve control system. called FlexWork, which can be used for internal combustion engines and other thermal/pneumatic machines. </lead>
+      <text link="no">Fully variable means that the valve lift as well as the opening and closing timing can be freely adjusted – even from one cycle to the next. When used on an internal combustion engine, this flexibility provides new degrees of freedom for optimization. For example, the load on gasoline engines can be adjusted without a throttle valve and from one cycle to the next, the full load can be optimized and the engine can be adapted to different fuels "by software".&lt;br /&gt;&lt;br /&gt;The Empa team has built the valve train on a gasoline engine and is now exploring the possibilities offered by this new technology. One variant of load control is cylinder deactivation. This means that, in the partial load range, individual cylinders are operated at high load, while others are switched off completely by keeping all valves closed. However, the sudden transition from an operation with all cylinders to an operation with some cylinders shut down would result in undesirable torque peaks, so the transition must be smooth. In systems on the market today without a fully variable valve timing, such cylinder deactivation is triggered by ignition interventions that greatly reduce efficiency. With Empa's fully variable valve control system individual cylinders can be shut down without any loss of efficiency.&lt;br /&gt;&lt;br /&gt;Just as it is possible to shut down cylinders completely, it is also possible to fire them less frequently. This turns a four-stroke operation into an eight- or twelve-stroke operation. Compared with a throttled four-stroke engine, such an engine operates much more efficiently.</text>
+      <contact>Dr. Patrik Soltic Empa, Automotive Powertrain Technologies Phone +41 58 765 46 24 Patrik.Soltic@empa.ch Wolfgang Schneider etavalve GmbH Phone +41-79-3925971 wolfgang.schneider@bluewin.ch</contact>
+      <attachment id="230403">
+        <title>Model of the FlexWork engine with fully variable electrohydraulic valve control system. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>1521</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71284.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="230400">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/flexwork-zylinderabschaltung</uri>
+        <position>Context</position>
+      </link>
+      <link id="230401">
+        <title>Homepage Etavalve GmbH</title>
+        <uri>https://www.etavalve.com/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
