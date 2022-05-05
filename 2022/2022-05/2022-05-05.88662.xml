@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="88662" revoked="no">
+    <version>1</version>
+    <pubdate>2022-05-05</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="601" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>NCSC-Halbjahresbericht mit Fokusthema Supply Chain-Angriffe</title>
+      <lead>Der aktuelle Halbjahresbericht des NCSC befasst sich mit den wichtigsten Cybervorfällen der zweiten Jahreshälfte 2021 in der Schweiz und international. Die Angriffe auf die Supply Chain von IT-Produkten bilden das Schwerpunktthema.</lead>
+      <text link="no">&lt;p&gt;An der Produktion von Gütern und Dienstleistungen sind heute verschiedene Lieferanten und Drittanbieter beteiligt. Werden diese angegriffen, kann dies zu weitreichenden Problemen in der ganzen Supply Chain führen, wie beispielsweise einem Produktionsstopp. Für internationale Schlagzeilen sorgte der Supply Chain-Angriff auf das Software-Unternehmen Kaseya Mitte 2021. Ausserdem waren in der Schweiz die Internetseiten der Stadt und des Kantons St. Gallen infolge eines DDoS-Angriffs auf einen Hosting-Provider längere Zeit nicht verfügbar. &lt;/p&gt;&lt;h2&gt;Betrugsfälle am häufigsten gemeldet&lt;/h2&gt;&lt;p&gt;Im Berichtszeitraum erhielt das NCSC insgesamt 11'480 Meldungen zu Cybervorfällen. Am häufigsten gingen dabei Hinweise zu verschiedenen Betrugsformen ein. Insbesondere E-Mails, die angeblich von Strafverfolgungsbehörden stammen, wurden sehr häufig gemeldet. Weitere Meldungen betrafen Vorschussbetrug, Investment-Betrug, CEO-Betrug und Kleinanzeigen-Betrug. Bei Betrug zeichnet sich bei einigen Täterschaften ein Trend zu aufwändigerem, individualisierten Vorgehen ab. Sie bearbeiten Opfer über längere Zeit, um Vertrauen aufzubauen, bevor der eigentliche Betrugsversuch stattfindet.&lt;/p&gt;&lt;h2&gt;Ransomware und Datenabfluss&lt;/h2&gt;&lt;p&gt;Auch in der zweiten Jahreshälfte 2021 gab es zahlreiche Angriffe mit Verschlüsselungstrojanern, sogenannter Ransomware, bei denen Daten verschlüsselt und anschliessend Lösegeld gefordert wurde. Immer öfter gehen die Angreifer zur doppelten Erpressung über. Sie kopieren die Daten, bevor diese verschlüsselt werden. So verfügen die Angreifer über ein zusätzliches Druckmittel. Falls das Opfer nicht zur Zahlung des geforderten Lösegeldes bereit ist, drohen sie mit der Veröffentlichung der Daten.&lt;/p&gt;&lt;h2&gt;Schwachstellen in Software-Komponenten&lt;/h2&gt;&lt;p&gt;Häufig werden in der Software-Entwicklung bereits bestehende Komponenten wie Bibliotheken oder Open Source Code verwendet. Diese können jedoch auch Schwachstellen aufweisen. Wird eine solche Schwachstelle bekannt, muss sie in allen Produkten, in denen die Komponente mit der Schwachstelle integriert wurde, behoben werden. Diese Problematik zeigte sich im Dezember 2021 bei der kritischen Schwachstelle in der weit verbreiteten Java-Programmbibliothek «Log4j».&lt;/p&gt;&lt;h2&gt;Phishing weiterhin im Trend&lt;/h2&gt;&lt;p&gt;Seit Beginn der Pandemie werden dem NCSC viele Phishing-Angriffe mit vermeintlichen Paketankündigungen oder Zustellproblemen gemeldet. Neben E-Mails versenden die Angreifer auch regelmässig SMS, um ihre Opfer zu erreichen. Andere Meldungen betrafen Phishing-Versuche in Zusammenhang mit Webmail und Office365. Die so gephishten Zugangsdaten werden in der Folge oft für Rechnungsmanipulationsbetrug verwendet. Ein weiterer Dauerbrenner sind Phishing-Mails bezüglich angeblich doppelt bezahlter Rechnungen von Internetprovidern.&lt;/p&gt;</text>
+      <contact>Kommunikation NCSC Tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="230729">
+        <title>Halbjahresbericht NCSC</title>
+        <format>pdf</format>
+        <size-kb>2739</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71409.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Rapport semestriel du NCSC: gros plan sur les attaques contre les chaînes d'approvisionnement (supply chain)</title>
+      <lead>Dans le rapport qu'il publie aujourd'hui, le Centre national pour la cybersécurité (NCSC) traite des principaux cyberincidents qui se sont produits au cours du deuxième semestre 2021 en Suisse et sur le plan international. Il analyse en particulier les attaques contre la chaîne d'approvisionnement en produits informatiques.</lead>
+      <text link="no">&lt;p&gt;Différents fournisseurs et prestataires tiers participent aujourd'hui à la production de biens et de services. Lorsqu'ils subissent des attaques, des problèmes de grande ampleur peuvent toucher l'ensemble de la chaîne d'approvisionnement et entraîner notamment l'arrêt de la production. L'attaque lancée contre l'entreprise de logiciels Kaseya au milieu de l'année 2021 a ainsi fait la une des journaux dans de nombreux pays. En Suisse, les sites Internet de la ville et du canton de Saint-Gall ont été longtemps indisponibles à cause d'une attaque par déni de service distribué (DDoS) contre un fournisseur d'hébergement. &lt;/p&gt;&lt;h2&gt;La plupart des signalements portent sur des cas de fraude&lt;/h2&gt;&lt;p&gt;Au cours de la période sous revue, le NCSC a reçu 11 480 signalements de cyberincidents, dont la plupart concernaient des cas de fraude de différentes natures. En particulier, de nombreux cas de courriels prétendument envoyés par des autorités de poursuite pénale ont été rapportés. D'autres signalements concernaient des fraudes au paiement anticipé, des fraudes à l'investissement, des arnaques au président et des fraudes aux petites annonces. Certains cybercriminels tendent à utiliser des procédures plus complexes et individualisées. Avant de procéder à la tentative d'escroquerie proprement dite, ils manipulent les victimes sur une longue période afin de gagner leur confiance.&lt;/p&gt;&lt;h2&gt;Rançongiciels et fuite de données&lt;/h2&gt;&lt;p&gt;Le deuxième semestre 2021 a également été marqué par de nombreuses attaques aux chevaux de Troie. Également connues sous le nom de rançongiciels, ces techniques consistent à crypter les données, puis à demander une rançon. Les malfaiteurs recourent de plus en plus souvent à un double chantage. Avant de crypter les données, ils en font une copie et disposent ainsi d'un moyen de pression supplémentaire. En effet, si la victime refuse de payer la rançon, les malfaiteurs menacent de publier les données.&lt;/p&gt;&lt;h2&gt;Vulnérabilités des composants logiciels&lt;/h2&gt;&lt;p&gt;Des composants existants, comme des bibliothèques ou des codes open source, sont souvent utilisés lors du développement de logiciels. Or ils peuvent contenir des vulnérabilités. Lorsqu'une telle vulnérabilité est découverte, elle doit être corrigée dans tous les produits dans lesquels le composant a été intégré. Ce problème s'est posé en décembre 2021, lorsqu'une vulnérabilité qualifiée de critique a été identifiée dans la bibliothèque de programme Java «Log4j», qui est largement répandue. &lt;/p&gt;&lt;h2&gt;Hameçonnage toujours d'actualité&lt;/h2&gt;&lt;p&gt;Depuis le début de la pandémie, de nombreuses attaques de hameçonnage fondées sur de prétendus annonces de colis ou problèmes de livraison ont été signalées au NCSC. Outre des courriels, les malfaiteurs envoient fréquemment des SMS pour prendre contact avec leurs victimes. D'autres signalements concernaient des tentatives de hameçonnage en rapport avec Webmail et Office365. Les données d'accès ainsi dérobées sont souvent utilisées pour des fraudes à la facturation. Ont également été signalés de nombreux courriels d'hameçonnage concernant des factures de fournisseurs d'accès à Internet prétendument payées en double.&lt;/p&gt;</text>
+      <contact>Communication NCSC tél. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="230730">
+        <title>Rapport semestriel du NCSC</title>
+        <format>pdf</format>
+        <size-kb>3003</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71410.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>L’ultimo rapporto semestrale del Centro nazionale per la cibersicurezza (NCSC) è incentrato sugli attacchi alle catene di approvvigionamento</title>
+      <lead>L’ultimo rapporto semestrale dell’NCSC prende in esame i ciberincidenti più importanti che si sono verificati in Svizzera e all’estero nella seconda metà del 2021, ponendo in particolare l’accento sugli attacchi alle catene di approvvigionamento dei prodotti IT.</lead>
+      <text link="no">&lt;p&gt;Oggigiorno nella produzione di beni e servizi sono coinvolti diversi fornitori e offerenti terzi. Gli attacchi ai singoli fornitori o offerenti possono avere pesanti ripercussioni su tutta la catena di approvvigionamento (ad es. blocco della produzione), come il noto caso dell’azienda produttrice di software Kaseya, avvenuto a metà del 2021. Anche in Svizzera un attacco DDoS ai danni di un provider di hosting ha provocato disservizi temporanei sui vari siti web della città e del Cantone di San Gallo.&lt;/p&gt;&lt;h2&gt;Casi di truffa sempre più frequenti&lt;/h2&gt;&lt;p&gt;Nel semestre in esame l’NCSC ha ricevuto in totale 11 480 segnalazioni di ciberincidenti, molte delle quali riguardanti diversi tipi di truffa. Nella maggior parte dei casi si è trattato di e-mail inviate a nome di autorità di perseguimento penale. Sono state riportate anche truffe dell’anticipo, truffe dell’investimento, truffe del CEO e truffe relative ad annunci. Gli hacker agiscono in modo sempre più mirato e complesso. Prima di passare all’azione dedicano diverso tempo alla vittima al fine di guadagnarne la fiducia.&lt;/p&gt;&lt;h2&gt;Ransomware e fuga di dati&lt;/h2&gt;&lt;p&gt;Anche nel secondo semestre del 2021 vi sono stati numerosi attacchi ransomware, con cui gli aggressori criptano i dati e in seguito chiedono un riscatto. Sempre più spesso gli hacker ricorrono alla doppia estorsione e copiano i dati prima di criptarli, in modo da avere un margine di manovra maggiore ed esercitare più pressione. Se la vittima non è disposta a pagare il riscatto, minacciano di diffondere pubblicamente i dati.&lt;/p&gt;&lt;h2&gt;Vulnerabilità nei componenti software&lt;/h2&gt;&lt;p&gt;Spesso i software sono sviluppati utilizzando componenti già esistenti come librerie o codici open source. In questi componenti possono però essere presenti delle vulnerabilità che, quando vengono individuate, devono essere corrette in tutti i prodotti che contengono il componente in questione. Questo problema è emerso a dicembre 2021 con la vulnerabilità critica nella popolare libreria Java Log4j.&lt;/p&gt;&lt;h2&gt;Il phishing resta di tendenza&lt;/h2&gt;&lt;p&gt;Dall’inizio della pandemia l’NCSC ha ricevuto numerose segnalazioni di attacchi di phishing lanciati tramite messaggi (e-mail o sms) che comunicavano l’imminente arrivo di un pacco o problemi di consegna. Sono stati registrati anche tentativi di phishing ai danni di webmail e Microsoft 365 (già Office 365). I dati di accesso ottenuti in questo modo vengono spesso utilizzati per falsificare fatture. Tra gli stratagemmi più diffusi vi sono anche le e-mail in cui sedicenti provider di servizi Internet tentano di raggirare la vittima facendole credere che una fattura è stata pagata due volte.&lt;/p&gt;</text>
+      <contact>Comunicazione NCSC Tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="230731">
+        <title>Rapporto semestrale dell’NCSC</title>
+        <format>pdf</format>
+        <size-kb>2928</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71411.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>NCSC semi-annual report with focus on supply chain attacks</title>
+      <lead>The NCSC's latest semi-annual report deals with the most important cyberincidents of the second half of 2021 both in Switzerland and internationally. The focus topic concerns attacks on IT product supply chains.</lead>
+      <text link="no">&lt;p&gt;Nowadays, various suppliers and third-party providers are involved in the production of goods and services. Attacks on these can lead to far-reaching problems in the entire supply chain and halt production, for example. The supply chain attack on the software company Kaseya hit the headlines internationally in mid-2021. Furthermore, in Switzerland, the websites of the city and canton of St Gallen were unavailable for a prolonged period due to a DDoS attack on a hosting provider. &lt;/p&gt;&lt;h2&gt;Cases of fraud most frequently reported&lt;/h2&gt;&lt;p&gt;During the period under review, the NCSC received a total of 11,480 reports on cyberincidents, most of which concerned various types of fraud. In particular, emails supposedly sent by law enforcement agencies were reported very often. Other reports concerned advance payment fraud, investment fraud, CEO fraud and classified ad fraud. A trend towards more elaborate, customised approaches has emerged among some perpetrators of fraud. They work on victims over a lengthy period of time in order to build up trust before actually attempting to defraud them.&lt;/p&gt;&lt;h2&gt;Ransomware and data leaks&lt;/h2&gt;&lt;p&gt;In the second half of 2021, there were also numerous attacks with encryption Trojans, so-called ransomware, during which data was encrypted and a ransom was subsequently demanded. The attackers are increasingly turning to double extortion. They copy the data before it is encrypted, which gives them additional leverage. If the victim is unwilling to pay the ransom, they threaten to publish the data.&lt;/p&gt;&lt;h2&gt;Software component vulnerabilities&lt;/h2&gt;&lt;p&gt;Existing components such as libraries or open source code are often used in software development. However, these can also have vulnerabilities. If such a vulnerability is discovered, it must be rectified in all products in which the component with the vulnerability was integrated. This problem became apparent in December 2021 with the critical vulnerability in the widely used Java program library Log4j.&lt;/p&gt;&lt;h2&gt;Phishing still a trend&lt;/h2&gt;&lt;p&gt;Since the start of the pandemic, many phishing attacks involving alleged parcel notifications or delivery problems have been reported to the NCSC. Aside from emails, the attackers also regularly send text messages in order to reach their victims. Other reports concerned phishing attempts in connection with webmail and Office365. The access credentials phished in this way are subsequently used for invoice manipulation fraud in many cases. Another perennial issue is phishing emails regarding bills from internet providers that have purportedly been paid twice.&lt;/p&gt;</text>
+      <contact>NCSC Communications Tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="230732">
+        <title>NCSC semi-annual report</title>
+        <format>pdf</format>
+        <size-kb>2685</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/71412.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+      <offer id="351" org-id="602">
+        <name lang="de">NCSC - Nationales Zentrum für Cybersicherheit</name>
+        <name lang="fr">NCSC - Centre national pour la cybersécurité</name>
+        <name lang="it">NCSC - Centro nazionale per la cibersicurezza</name>
+        <name lang="en">NCSC - National Cyber Security Centre</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="175" org-id="602">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
