@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="88912" revoked="no">
+    <version>1</version>
+    <pubdate>2022-05-19</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Vielseitige Memristoren aus Perowskit-Nanokristallen - Ein Bauteil für Computer nach dem Vorbild des Gehirns</title>
+      <lead>Forschende von ETH Zürich, Empa und Universität Zürich entwickelten ein neues Material für ein Computerbauteil, das flexibler einsetzbar ist als seine Vorgänger. Damit sollen elektronische Schaltungen gebaut werden, die sich am menschlichen Gehirn orientieren und Aufgaben des maschinellen Lernens effizienter lösen können als herkömmliche Computer.</lead>
+      <text link="no">&lt;p&gt;Im Vergleich zu einem Computer arbeitet das menschliche Gehirn unglaublich energieeffizient. Um neuartige Computertechnologien zu entwerfen, orientieren sich WissenschaftlerInnen daher an der Funktionsweise des Gehirns mit seinen vernetzten Nervenzellen. Die WissenschaftlerInnen gehen davon aus, dass solche vom Gehirn inspirierte Computersysteme energieeffizienter sein werden als herkömmliche und Aufgaben des maschinellen lernen besser lösen können.&lt;br /&gt;&lt;br /&gt;Analog zu Nervenzellen, die im Gehirn sowohl für die Datenspeicherung als auch die Datenverarbeitung zuständig sind, möchten die WissenschaftlerInnen dabei ebenfalls Speicherung und Verarbeitung auf einem einzigen Bauteil-Typ kombinieren, sogenannte Memristoren. Dies soll helfen, den Effizienzgewinn zu erreichen. Auf herkömmlichen Computern werden Daten zwischen Prozessor und Speicher verschoben. Dies ist der Hauptgrund für den hohen Energieverbrauch bei Prozessen des maschinellen Lernens auf herkömmlichen Computern.&lt;br /&gt;&lt;br /&gt;Forschende von ETH Zürich, Empa und Universität Zürich haben nun ein neuartiges Konzept entwickelt für einen Memristor, der sehr viel flexibler einsetzbar ist als bisherige Memristoren. «Es gibt für Memristoren unterschiedliche Operationsmodi, und je nach Architektur eines künstlichen neuronalen Netzwerkes ist es vorteilhaft, alle diese Modi nutzen zu können», erklärt ETH-Postdoc Rohit John. «Bisherige Memristoren mussten allerdings im Voraus für jeweils einen solchen Modus konfiguriert werden.» Die neuen Memristoren können nun während ihres Einsatzes einfach zwischen zwei Operationsmodi wechseln: einem Modus, bei dem das Signal über die Zeit schwächer wird und erlöscht (volatiler Modus), und einem, bei der das Signal dauerhaft konstant bleibt (nicht-volatiler Modus).&lt;br /&gt; &lt;br /&gt;Wie im Gehirn&lt;br /&gt;&lt;br /&gt;«Auch im menschlichen Gehirn gibt es diese beiden Operationsmodi», erklärt John. Einerseits werde Reize an den Synapsen mit biochemischen Botenstoffen von Nervenzelle zu Nervenzelle weitergeleitet. Diese Reize sind zunächst stark und werden dann langsam schwächer. Anderseits bilden sich während des Lernens im Gehirn neue synaptische Verbindungen zu weiteren Nervenzellen aus. Diese sind länger anhaltend.&lt;br /&gt;&lt;br /&gt;Rohit John ist Postdoc in der Gruppe des ETH Zürich-/Empa-Forschers Maksym Kovalenko und wurde 2020 mit einem ETH-Fellowship für exzellente Postdoktorierende ausgezeichnet. John führte diese Forschungsarbeit gemeinsam mit Yiğit Demirağ durch. Er ist Doktorand in der Gruppe von Giacomo Indiveri am Institut für Neuroinformatik von Universität Zürich und ETH Zürich.&lt;br /&gt;&lt;br /&gt;Halbleitermaterial aus Solarzellen bekannt&lt;br /&gt;&lt;br /&gt;Die von den Forschenden entwickelten Memristoren bestehen aus Halogenid-Perowskit-Nanokristallen, einem Halbleitermaterial, das vor allem von seinem Einsatz in Photovoltaikzellen bekannt ist. «Die ‹Reizleitung› wird in diesen neuen Memristoren vermittelt, indem sich Silberionen ausgehend von einer Elektrode temporär oder permanent zu einer Nano-Faser aneinanderreihen, die die Perowskit-Struktur durchdringt, und durch die Strom fliessen kann», erklärt Kovalenko.&lt;br /&gt;&lt;br /&gt;Dieser Vorgang kann so beeinflusst werden, dass die Silberionen-Faser entweder dünn ist und mit der Zeit wieder in einzelne Silberionen zerfällt (volatiler Modus) oder dick und dauerhaft ist (nicht-volatiler Modus). Gesteuert wird dies durch die Stromstärke, die auf den Memristor geleitet wird: Wird er mit schwachem Strom angesteuert, bildet sich der volatile Modus aus. Wird er mit starkem Strom angesteuert, bildet sich der nicht-volatile Modus aus.&lt;br /&gt;&lt;br /&gt;Neues Instrumentarium für Neuroinformatiker&lt;br /&gt;&lt;br /&gt;«Unseres Wissens ist dies der erste Memristor, der bei Bedarf zuverlässig zwischen einem volatilen und einem nicht-volatilen Modus umgeschaltet werden kann», sagt Demirağ. Damit können in Zukunft auch Computerchips hergestellt mit Memristoren, die beide Modi ermöglichen. Denn auf einem Chip mehrere unterschiedliche Memristoren-Typen zu kombinieren ist in der Regel nicht möglich.&lt;br /&gt;&lt;br /&gt;Im Rahmen der Studie, die sie vor Kurzem im Fachmagazin «Nature Communications» veröffentlichten, haben die Wissenschaftler 25 solcher neuen Memristoren getestet und mit ihnen 20'000 Messungen durchgeführt. So konnten sie eine Rechenaufgabe auf einem komplexen Netzwerk simulieren. In dieser Aufgabe ging es darum, eine Vielzahl unterschiedlicher Nervenpulse vier definierten Mustern zuzuordnen.&lt;br /&gt;&lt;br /&gt;Bis die Memristoren in der Computertechnologie einsetzbar ist, müssen sie noch weiter optimiert werden. Wichtig sind solche Bauteile aber auch für die Forschung in der Neuroinformatik, wie Indiveri betont: «Diese Bauteile kommen echten Neuronen näher als bisherige. Dadurch helfen sie Forschenden, Hypothesen der Neuroinformatik besser zu überprüfen und hoffentlich ein besseres Verständnis zu gewinnen für die Rechenprinzipien echter neuronaler Schaltkreise in Mensch und Tier.»&lt;/p&gt;&lt;p&gt; ------------------------------&lt;/p&gt;&lt;p&gt;Literatur&lt;br /&gt;RA John, Y Demirağ, Y Shynkarenko, Y Berezovska, N Ohannessian, M Payvand, P Zeng, MI Bodnarchuk, F Krumeich, G Kara, I Shorubalko, MV Nair, GA Cooke, T Lippert, G Indiveri, MV Kovalenko; Reconfigurable halide perovskite nanocrystal memristors for neuromorphic computing. Nature Communications (2022); doi: 10.1038/s41467-022-29727-1 &lt;/p&gt;</text>
+      <contact>Prof. Dr. Maksym Kovalenko Thin Films and Photovoltaics (Empa) Tel. +41 58 765 4557 Maksym.Kovalenko@empa.ch Department of Chemistry and Applied Biosciences (ETH Zürich) Tel. +41 044 633 41 56 mvkovalenko@ethz.ch</contact>
+      <link id="231331">
+        <title>Homepage Empa</title>
+        <uri>https://www.empa.ch/web/s604/memristoren</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Dual-mode memristors based on perovskite nanocrystals - A component for brain-inspired computing</title>
+      <lead>Researchers from ETH Zurich, Empa and the University of Zurich have developed a new material for an electronic component that can be used in a wider range of applications than its predecessors. Such components will help create electronic circuits that emulate the human brain and that are more efficient than conventional computers at performing machine-learning tasks.</lead>
+      <text link="no">&lt;p&gt;Compared with computers, the human brain is incredibly energy-efficient. Scientists are therefore drawing on how the brain and its interconnected neurons function for inspiration in designing innovative computing technologies. They foresee that these brain-inspired computing systems, will be more energy-efficient than conventional ones, as well as better at performing machine-learning tasks.&lt;br /&gt;&lt;br /&gt;Much like neurons, which are responsible for both data storage and data processing in the brain, scientists want to combine storage and processing in a single type of electronic component, known as a memristor. Their hope is that this will help to achieve greater efficiency because moving data between the processor and the storage, as conventional computers do, is the main reason for the high energy consumption in machine-learning applications.&lt;br /&gt;&lt;br /&gt;Researchers at ETH Zurich, Empa and the University of Zurich have now developed an innovative concept for a memristor that can be used in a far wider range of applications than existing memristors. “There are different operation modes for memristors, and it is advantageous to be able to use all these modes depending on an artificial neural network’s architecture,” explains ETH Zurich postdoc Rohit John. “But previous conventional memristors had to be configured for one of these modes in advance.” The new memristors can now easily switch between two operation modes while in use: a mode in which the signal grows weaker over time and dies (volatile mode), and one in which the signal remains constant (non-volatile mode).&lt;br /&gt;&lt;br /&gt;Just like in the brain&lt;br /&gt;&lt;br /&gt;“These two operation modes are also found in the human brain,” John says. On the one hand, stimuli at the synapses are transmitted from neuron to neuron with biochemical neurotransmitters. These stimuli start out strong and then gradually become weaker. On the other hand, new synaptic connections to other neurons form in the brain while we learn. These connections are longer-lasting.&lt;br /&gt;&lt;br /&gt;John, who is a postdoc in the group headed by ETH Zurich/Empa researcher Maksym Kovalenko, was awarded an ETH fellowship for outstanding postdoctoral researchers in 2020. John conducted this research together with Yiğit Demirağ, a doctoral student in Giacomo Indiveri’s group at the Institute for Neuroinformatics of the University of Zurich and ETH Zurich.&lt;br /&gt;&lt;br /&gt;Semiconductor material known from solar cells&lt;br /&gt;&lt;br /&gt;The memristors the researchers have developed are made of halide perovskite nanocrystals, a semiconductor material known primarily from its use in photovoltaic cells. “The ‘nerve conduction’ in these new memristors is mediated by temporarily or permanently stringing together silver ions from an electrode to form a nanofilament penetrating the perovskite structure through which current can flow,” explains Kovalenko.&lt;br /&gt;&lt;br /&gt;This process can be regulated to make the silver-ion filament either thin, so that it gradually breaks back down into individual silver ions (volatile mode), or thick and permanent (non-volatile mode). This is controlled by the intensity of the current conducted on the memristor: Applying a weak current activates the volatile mode, while a strong current activates the non-volatile mode.&lt;br /&gt;&lt;br /&gt;New toolkit for neuroinformaticians&lt;br /&gt;&lt;br /&gt;“To our knowledge, this is the first memristor that can be reliably switched between volatile and non-volatile modes on demand,” Demirağ says. This means that in the future, computer chips can be manufactured with memristors that enable both modes. This is a significance advance because it is usually not possible to combine several different types of memristors on one chip.&lt;br /&gt;&lt;br /&gt;Within the scope of the study, which they recently published in the journal Nature Communications, the researchers tested 25 of these new memristors and carried out 20,000 measurements with them. In this way, they were able to simulate a computational problem on a complex network. The problem involved classifying a number of different neuron spikes as one of four predefined patterns.&lt;br /&gt;&lt;br /&gt;Before these memristors can be used in computer technology, they will need to undergo further optimization. However, such components are also important for research in neuroinformatics, as Indiveri points out: "These components come closer to real neurons than previous ones. As a result, they help researchers to better test hypotheses in neuroinformatics and hopefully gain a better understanding of the computing principles of real neuronal circuits in humans and animals."&lt;/p&gt;&lt;p&gt; ------------------------------------------------&lt;/p&gt;&lt;p&gt;Literature&lt;br /&gt;RA John, Y Demirağ, Y Shynkarenko, Y Berezovska, N Ohannessian, M Payvand, P Zeng, MI Bodnarchuk, F Krumeich, G Kara, I Shorubalko, MV Nair, GA Cooke, T Lippert, G Indiveri, MV Kovalenko; Reconfigurable halide perovskite nanocrystal memristors for neuromorphic computing. Nature Communications (2022); doi: 10.1038/s41467-022-29727-1&lt;/p&gt;</text>
+      <contact>Prof. Dr. Maksym Kovalenko Thin Films and Photovoltaics (Empa) Phone: +41 58 765 4557 Maksym.Kovalenko@empa.ch Department of Chemistry and Applied Biosciences (ETH Zurich) Phone: +41 044 633 41 56 mvkovalenko@ethz.ch</contact>
+      <link id="231331">
+        <title>Homepage Empa</title>
+        <uri>https://www.empa.ch/web/s604/memristoren</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
