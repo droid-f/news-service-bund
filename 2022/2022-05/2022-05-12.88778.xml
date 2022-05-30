@@ -19,6 +19,21 @@
       <email lang="it">info@bafu.admin.ch</email>
       <email lang="en">info@bafu.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -168,23 +183,29 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="10" org-id="811">
-        <name lang="de">Abfall</name>
-        <name lang="fr">Dechets</name>
-        <name lang="it">Rifiuti</name>
-        <name lang="en">Waste</name>
+      <keyword id="170" org-id="804">
+        <name lang="de">Bundesamt für Umwelt (BAFU)</name>
+        <name lang="fr">Office fédéral de l’environnement (OFEV)</name>
+        <name lang="it">Ufficio federale dell’ambiente (UFAM)</name>
+        <name lang="en">Federal Office for the Environment (FOEN)</name>
       </keyword>
-      <keyword id="173" org-id="811">
-        <name lang="de">Bundesamt für Umwelt: Startseite</name>
-        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
-        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
-        <name lang="en">Federal Office for the Environment: Homepage</name>
+      <keyword id="820" org-id="804">
+        <name lang="de">Nachhaltige Entwicklung</name>
+        <name lang="fr">Développement durable</name>
+        <name lang="it">Sviluppo sostenibile</name>
+        <name lang="en">Sustainable development</name>
       </keyword>
-      <keyword id="1802" org-id="811">
-        <name lang="de">Wirtschaft und Konsum</name>
-        <name lang="fr">Economie e consommation</name>
-        <name lang="it">Economia e consumo</name>
-        <name lang="en">Economy and consumption</name>
+      <keyword id="1700" org-id="804">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economy</name>
+      </keyword>
+      <keyword id="1610" org-id="804">
+        <name lang="de">Grüne Wirtschaft</name>
+        <name lang="fr">Économie verte</name>
+        <name lang="it">Economia verde</name>
+        <name lang="en">Grüne Wirtschaft</name>
       </keyword>
     </keywords>
     <topics>
