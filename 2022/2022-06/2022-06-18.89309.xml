@@ -19,6 +19,21 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="808" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -120,12 +135,6 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
       <topic id="11">
         <name lang="de">Energie</name>
         <name lang="fr">Énergie</name>
