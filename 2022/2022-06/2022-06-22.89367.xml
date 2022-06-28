@@ -19,6 +19,21 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">http://www.bafu.admin.ch</www>
+      <www lang="fr">http://www.bafu.admin.ch/fr</www>
+      <www lang="it">http://www.bafu.admin.ch/it</www>
+      <www lang="en">http://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -86,6 +101,14 @@
       <contact>Michel Tschirren, divisione Affari internazionali, Ufficio federale dell’ambiente UFAM, tel. +41 58 462 01 64</contact>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
     <keywords>
       <keyword id="210" org-id="804">
         <name lang="de">Bundesrat</name>
@@ -101,12 +124,6 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
       <topic id="29">
         <name lang="de">Umwelt und Natur</name>
         <name lang="fr">Environnement et nature</name>
