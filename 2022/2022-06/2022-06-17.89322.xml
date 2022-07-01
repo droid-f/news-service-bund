@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="89322" revoked="no">
-    <version>2</version>
+    <version>4</version>
     <pubdate>2022-06-17</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -34,21 +34,6 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -76,20 +61,6 @@
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
-    </department>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -119,18 +90,12 @@
       <city>Bern</city>
       <title>Federal Council intends to step up exploratory talks with the EU</title>
       <lead>At its European policy retreat on 17 June 2022, the Federal Council was briefed on the status of the exploratory talks between Switzerland and the EU. The Federal Council decided on this basis to step up the exploratory talks with the EU. It also took note of the final report on the removal of regulatory differences between Swiss and EU law. The scope for action and possible solutions identified in the final report will be taken into consideration in further exploratory talks with the EU.</lead>
-      <text link="no">On 23 February 2022, the Federal Council instructed the FDFA to explore a package approach with the EU to consolidate and further develop the bilateral path. The Federal Council's proposal contains the following elements: &lt;br /&gt;&lt;br /&gt;• full application of the bilateral internal market agreements (free movement of persons, MRA, land transport, air transport and agriculture); &lt;br /&gt;• associate status for Switzerland in future EU programmes, particularly in the area of research; &lt;br /&gt;• conclusion of new agreements in the areas of electricity, food safety and health; &lt;br /&gt;• possible solutions relating to the dynamic adoption of EU law developments, dispute settlement, state aid and the continuation of the Swiss contribution. &lt;br /&gt;&lt;br /&gt;An interim assessment of the exploratory talks between FDFA State Secretary Livia Leu and Juraj Nociar, Head of Cabinet of EU Commission Vice-President Maroš Šefčovič, concludes that the EU is largely receptive to Switzerland's package proposal. Nevertheless, the EU continues to publicly maintain its well-known positions on the institutional issues, making it difficult to find common ground between Switzerland's and the EU's interests. Their respective positions remain far apart and further clarifications are needed. Furthermore, the exploratory talks have been delayed because of the war in Ukraine; only two rounds of talks have taken place to date. The Federal Council has now decided to step up the exploratory talks with a view to possible future negotiations. If the two sides are to jointly put the bilateral approach on a surer footing for the future, the EU will have to show greater flexibility. The Federal Council will decide on a negotiating mandate once there is a sufficient basis for opening negotiations. &lt;br /&gt;&lt;br /&gt;Acting on behalf of the FDJP, former State Secretary Mario Gattiker, together with the departments concerned, conducted a technical assessment of the regulatory differences between Swiss and EU law, specifically in relation to the single market agreements under Bilaterals I. He also held meetings with key domestic political actors to discuss the removal of the regulatory differences, in particular in respect of the Agreement on the Free Movement of Persons. The Federal Council took note of the resulting final report at its European policy retreat on 17 June 2022. The conclusions set out in the report will be used by the Federal Council as a basis for a possible future negotiating mandate. The scope for action and possible solutions identified in the final report will also be taken into consideration in further exploratory talks with the EU. &lt;br /&gt;&lt;br /&gt;Switzerland is as keen as ever to find constructive and concrete solutions with the EU in order to consolidate and further develop the bilateral approach in ways that serve the interests of both sides.</text>
+      <text link="no">On 23 February 2022, the Federal Council instructed the FDFA to explore a package approach with the EU to consolidate and further develop the bilateral path. The Federal Council's proposal contains the following elements: &lt;br /&gt;&lt;br /&gt;• full application of the bilateral internal market agreements (free movement of persons, MRA, land transport, air transport and agriculture); &lt;br /&gt;• associate status for Switzerland in future EU programmes, particularly in the area of research; &lt;br /&gt;• conclusion of new agreements in the areas of electricity, food safety and health; &lt;br /&gt;• possible solutions relating to the dynamic adoption of EU law developments, dispute settlement, state aid and the continuation of the Swiss contribution. &lt;br /&gt;&lt;br /&gt;An interim assessment of the exploratory talks between FDFA State Secretary Livia Leu and Juraj Nociar, Head of Cabinet of EU Commission Vice-President Maroš Šefčovič, concludes that the EU is largely receptive to Switzerland's package proposal. Nevertheless, the EU continues to publicly maintain its well-known positions on the institutional issues, making it difficult to find common ground between Switzerland's and the EU's interests. Their respective positions remain far apart and further clarifications are needed. Furthermore, the exploratory talks have been delayed because of the war in Ukraine; only two rounds of talks have taken place to date. The Federal Council has now decided to step up the exploratory talks with a view to possible future negotiations. If the two sides are to jointly put the bilateral approach on a surer footing for the future, also the EU will have to show greater flexibility. The Federal Council will decide on a negotiating mandate once there is a sufficient basis for opening negotiations. &lt;br /&gt;&lt;br /&gt;Acting on behalf of the FDJP, former State Secretary Mario Gattiker, together with the departments concerned, conducted a technical assessment of the regulatory differences between Swiss and EU law, specifically in relation to the single market agreements under Bilaterals I. He also held meetings with key domestic political actors to discuss the removal of the regulatory differences, in particular in respect of the Agreement on the Free Movement of Persons. The Federal Council took note of the resulting final report at its European policy retreat on 17 June 2022. The conclusions set out in the report will be used by the Federal Council as a basis for a possible future negotiating mandate. The scope for action and possible solutions identified in the final report will also be taken into consideration in further exploratory talks with the EU. &lt;br /&gt;&lt;br /&gt;Switzerland is as keen as ever to find constructive and concrete solutions with the EU in order to consolidate and further develop the bilateral approach in ways that serve the interests of both sides.</text>
       <contact>For further information: FDFA Communication Tel. +41 58 462 31 53 Tel. Press service +41 460 55 55 kommunikation@eda.admin.ch</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-07-01 09:28" type="R"/>
+      </revisions>
     </content>
-    <keywords>
-      <keyword id="35" org-id="401">
-        <name lang="de">Europa</name>
-        <name lang="fr">Europe</name>
-        <name lang="it">Europa</name>
-        <name lang="en">Europe</name>
-      </keyword>
-    </keywords>
     <topics>
       <topic id="39">
         <name lang="de">Schweiz und Ausland</name>
