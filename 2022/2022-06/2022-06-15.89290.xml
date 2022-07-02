@@ -19,21 +19,6 @@
       <email lang="it">info@armasuisse.ch</email>
       <email lang="en">info@armasuisse.ch</email>
     </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -230,61 +230,49 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="505" org-id="502">
+      <keyword id="505" org-id="505">
         <name lang="de">Sicherheitspolitik</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
         <name lang="en">Security Policy</name>
       </keyword>
-      <keyword id="530" org-id="502">
-        <name lang="de">Luftraumsicherung</name>
-        <name lang="fr">Sécurité de l'espace aérien</name>
-        <name lang="it">Sicurezza dello spazio aereo</name>
-        <name lang="en">Air Policing</name>
-      </keyword>
-      <keyword id="5160" org-id="502">
+      <keyword id="5160" org-id="505">
         <name lang="de">Verteidigung</name>
         <name lang="fr">Défense</name>
         <name lang="it">Difesa</name>
         <name lang="en">defence</name>
       </keyword>
-      <keyword id="5180" org-id="502">
+      <keyword id="5180" org-id="505">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5310" org-id="502">
+      <keyword id="5310" org-id="505">
         <name lang="de">Rüstung / Beschaffung</name>
         <name lang="fr">Armement / Acquisition d'armement</name>
         <name lang="it">Armamento / Acquisto d'armamenti</name>
         <name lang="en">Armament / Procurement</name>
       </keyword>
-      <keyword id="5480" org-id="502">
-        <name lang="de">Material / Ausrüstung</name>
-        <name lang="fr">Matériel / Équipement</name>
-        <name lang="it">Materiale / Equipaggiamento</name>
-        <name lang="en">material / equipment</name>
-      </keyword>
-      <keyword id="5710" org-id="502">
-        <name lang="de">Aufklärung / Beobachtung / Lageerstellung</name>
+      <keyword id="5710" org-id="505">
+        <name lang="de">Aufklärung Beobachtung Lageerstellung</name>
         <name lang="fr">Reconnaissance et observation établissement de la situation</name>
         <name lang="it">Esplorazione / Osservazione / Allestimento del quadro della situazione</name>
         <name lang="en">reconnaissance observation compilation of the situation</name>
       </keyword>
-      <keyword id="5900" org-id="502">
+      <keyword id="5900" org-id="505">
         <name lang="de">Flugbetrieb</name>
         <name lang="fr">Service de vol</name>
         <name lang="it">Esercizio di volo</name>
         <name lang="en">flight operations</name>
       </keyword>
-      <keyword id="5920" org-id="502">
+      <keyword id="5920" org-id="505">
         <name lang="de">Flugsicherung</name>
         <name lang="fr">Sécurité aérienne</name>
         <name lang="it">Sicurezza aerea</name>
         <name lang="en">air traffic control</name>
       </keyword>
-      <keyword id="5960" org-id="502">
+      <keyword id="5960" org-id="505">
         <name lang="de">Rüstungsprogramm</name>
         <name lang="fr">Programme d'armement</name>
         <name lang="it">Programma d'armamento</name>
