@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="89918" revoked="no">
+    <version>1</version>
+    <pubdate>2022-08-10</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="101" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesverwaltung testet Videoidentifikation für Zugang zu internen Bundessystemen</title>
+      <lead>Um sicher auf interne Applikationen der Bundesverwaltung zuzugreifen, werden Mitarbeitende mit einer sogenannten Smartcard ausgerüstet. Dazu muss die Person persönlich vor Ort erscheinen. Die Bundesverwaltung testet nun ein alternatives Verfahren mit Ausweiskontrolle per Video. Dieses ist einfacher und weniger aufwendig für die Nutzerinnen und Nutzer.</lead>
+      <text link="no">&lt;p&gt;Für den Zugriff auf ihre internen Applikationen stellt die Bundesverwaltung hohe Anforderungen an das Login, respektive an die Überprüfung der Identität der Nutzerinnen und Nutzer. Das elektronische Zugangsmittel muss kryptografisch gesichert sein. Die Nutzerin oder der Nutzer wird zudem erst freigeschaltet, nachdem sie oder er einen amtlichen Lichtbildausweis vorweisen konnte und diesen durch die Bundesverwaltung prüfen liess.&lt;/p&gt;&lt;p&gt;Für die Ausweiskontrolle muss die Nutzerin oder der Nutzer an einem Standort der Bundesverwaltung oder einer Auslandsvertretung der Schweiz persönlich vorsprechen, die Identität bestätigen lassen und eine persönliche Smartcard in Empfang nehmen. Mit der alternativen Identifikationsmöglichkeit per Video müssen die Personen nicht mehr extra zur Kontrolle anreisen. Sie erhalten für den Zugang zu den Bundessystemen auch keine Smartcard mehr, sondern nutzen ihr eigenes Smartphone als zusätzliches Sicherheitselement. &lt;/p&gt;&lt;p&gt;Die neue Identifikationsmöglichkeit per Video ist beschränkt auf externe Mitarbeitende und Dienstleister. Festangestellte Mitarbeitende sind davon nicht betroffen. Von dieser Neuerung ebenfalls nicht betroffen sind Bürgerinnen und Bürger. Entsprechende separate Abklärungen für den Ausstellungsprozess der staatlichen E-ID laufen unabhängig von diesem Test unter Federführung des Bundesamtes für Justiz.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Erfahrungen sammeln für die digitale Transformation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Mit dem nun zur Verfügung stehenden Betrieb kann die Bundesverwaltung Erfahrungen in einem wichtigen Bereich der digitalen Transformation sammeln. Da die Bundesverwaltung noch keine eigene Videoidentifikation hat, erfolgt die Dienstleistung für die aktuelle Phase durch die Firma Intrum AG, die diese Leistung am Markt anbietet. &lt;/p&gt;&lt;p&gt;Die Anforderungen für den Zugriff auf Bundessysteme bleiben weiterhin hoch. Die kryptografische Sicherung des Logins erfolgt via Smartphone mit dem auf den Schweizer SIM und eSIM vorinstallierten Zertifikat (bekannt als Mobile ID). In einem nächsten Schritt soll auch der anbieterneutrale FIDO-Standard unterstützt werden: Die Nutzerinnen und Nutzer können dann anstelle des Smartphones einen der zahlreichen auf dem Markt verfügbaren Sicherheitsschlüssel wählen, zum Beispiel in Form eines USB-Sticks. &lt;/p&gt;&lt;p&gt;Verantwortlich für das Zugangssystem der Bundesverwaltung (sogenanntes Identity Access Management IAM) ist der Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei. Betrieben wird das System durch das Bundesamt für Informatik und Telekommunikation des Eidgenössischen Finanzdepartements. &lt;/p&gt;</text>
+      <contact>Florian Imbach Sektion Kommunikation Tel. 058 465 47 40 florian.imbach@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>L’administration fédérale teste l’identification vidéo pour l’accès à ses systèmes internes</title>
+      <lead>Les collaborateurs de la Confédération utilisent une carte à puce, la smartcard, pour obtenir un accès sécurisé aux applications internes de l’administration fédérale. Pour l’obtenir, ils doivent se déplacer au guichet chargé de la leur remettre. À présent, l’administration fédérale teste une procédure alternative permettant de contrôler les documents d’identité par vidéo interposée. Cette procédure est plus simple et moins contraignante pour les utilisateurs.</lead>
+      <text link="no">&lt;p&gt;L’administration fédérale soumet l’accès à ses applications internes à des exigences élevées concernant l’ouverture de session, et plus particulièrement le contrôle de l’identité des utilisateurs. Le moyen d’accès électronique doit être protégé par un système cryptographique. L’accès n’est en outre accordé qu’après que l’administration fédérale a identifié l’utilisateur au moyen d’une pièce d’identité officielle avec photo.&lt;/p&gt;&lt;p&gt;L’utilisateur doit à cet effet se rendre personnellement à un guichet de l’administration fédérale ou d’une représentation suisse à l’étranger, où son identité est confirmée et une smartcard personnelle lui est remise. La possibilité d’identification vidéo évite à l’utilisateur d’avoir à se déplacer pour ce contrôle. La smartcard n’est alors plus nécessaire pour accéder aux systèmes de la Confédération, car le téléphone portable de l’utilisateur devient un élément de sécurité supplémentaire. &lt;/p&gt;&lt;p&gt;Cette nouvelle possibilité est limitée aux collaborateurs externes et aux fournisseurs de services. Les employés à poste fixe ne sont pas concernés, pas davantage que les citoyens. Le processus d’établissement d’un moyen d’identification électronique (e-ID) étatique est indépendant de ces tests et assuré par l’Office fédéral de la justice.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Acquérir de l’expérience pour la transformation numérique&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Les tests de fonctionnement en cours donnent l’opportunité à l’administration fédérale d’acquérir de l’expérience dans un secteur important de la transformation numérique. Comme elle ne dispose pas encore de son propre système d’identification vidéo, elle a fait appel pour cette étape à la société Intrum SA, qui propose ce type de services commerciaux. &lt;/p&gt;&lt;p&gt;Les exigences pour accéder aux systèmes de la Confédération restent élevées. Le téléphone portable devient le moyen de sécurisation cryptographique au moment de l’ouverture de session, car il utilise un certificat installé sur les cartes SIM et eSIM suisses (aussi appelé Mobile ID). La prochaine étape consistera à mettre en œuvre la norme FIDO, qui est indépendante de tout prestataire. L’utilisateur n’aura alors plus besoin de son téléphone portable et pourra choisir l’une des nombreuses clés de sécurité disponibles sur le marché, par exemple sous forme de clé USB. &lt;/p&gt;&lt;p&gt;Le système de gestion des identités et des accès de l’administration fédérale (aussi appelé&lt;i&gt; identity access management&lt;/i&gt;, IAM) est placé sous la responsabilité du secteur Transformation numérique et gouvernance de l’informatique, rattaché à la Chancellerie fédérale. Son fonctionnement est assuré par l’Office fédéral de l’informatique et de la télécommunication, rattaché au Département fédéral des finances. &lt;/p&gt;</text>
+      <contact>Florian Imbach Section Communication 058 465 47 40 florian.imbach@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>L’Amministrazione federale testa la video identificazione per l’accesso a suoi sistemi interni</title>
+      <lead>Per accedere in modo sicuro alle applicazioni interne dell’Amministrazione federale, ai collaboratori viene consegnata una smartcard (carta chip); per ottenerla, devono presentarsi di persona. L’Amministrazione federale sta ora testando una procedura alternativa, più semplice e meno impegnativa per gli utenti, che permette di controllare l’identità tramite video. </lead>
+      <text link="no">&lt;p&gt;Per accedere alle sue applicazioni interne l’Amministrazione federale fissa requisiti elevati per il login e per il controllo dell’identità degli utenti. Il dispositivo d’accesso elettronico deve essere protetto tramite crittografia. Gli utenti vengono inoltre abilitati soltanto dopo che hanno esibito e fatto controllare dall’Amministrazione federale un documento d’identità ufficiale con foto.&lt;/p&gt;&lt;p&gt;Per il controllo dell’identità gli utenti devono presentarsi di persona presso un ufficio dell’Amministrazione federale o di una rappresentanza svizzera all’estero e, una volta confermata la loro identità, ricevono una smartcard personale. Il metodo d’identificazione alternativo tramite video evita alle persone di doversi recare appositamente all’ufficio preposto. Inoltre, la smartcard non è più necessaria per accedere ai sistemi della Confederazione: al suo posto gli utenti utilizzano il loro smartphone come elemento di sicurezza supplementare. &lt;/p&gt;&lt;p&gt;Il nuovo metodo d’identificazione tramite video è riservato ai collaboratori e fornitori di servizi esterni; non è quindi pensato per i collaboratori impiegati a tempo indeterminato e neppure per i cittadini. I chiarimenti riguardanti il processo di rilascio dell’identità elettronica statale sono in corso, indipendentemente da questo test, sotto la direzione dell’Ufficio federale di giustizia. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Raccogliere esperienze per la trasformazione digitale &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Con questo nuovo metodo l’Amministrazione federale può raccogliere esperienze in un settore importante della trasformazione digitale. Dato che non dispone ancora di una propria video identificazione, in questa prima fase l’Amministrazione federale farà capo alla ditta Intrum AG, che già offre questo servizio sul mercato. &lt;/p&gt;&lt;p&gt;I requisiti per l’accesso ai sistemi della Confederazione rimangono elevati. La protezione crittografica del login avviene tramite smartphone con il certificato preinstallato su SIM e eSIM svizzere (noto come Mobile ID). In una fase successiva sarà supportato anche lo standard FIDO, indipendente dal fornitore. Al posto dello smartphone gli utenti potranno quindi scegliere una delle numerose chiavi di sicurezza disponibili sul mercato, ad esempio sotto forma di chiavetta USB. &lt;/p&gt;&lt;p&gt;Il sistema d’accesso dell’Amministrazione federale (cosiddetto Identity Access Management IAM) è sotto la responsabilità del Settore Trasformazione digitale e governance delle TIC della Cancelleria federale. Viene gestito dall’Ufficio federale dell’informatica e della telecomunicazione del Dipartimento federale delle finanze. &lt;/p&gt;</text>
+      <contact>Florian Imbach Sezione comunicazione Tel. 058 465 47 40 florian.imbach@bk.admin.ch</contact>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
