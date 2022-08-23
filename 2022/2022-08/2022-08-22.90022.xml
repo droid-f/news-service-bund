@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90022" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2022-08-22</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="404" lead="yes" topnews="no">
@@ -62,6 +62,12 @@
       </revisions>
     </content>
     <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
       <topic id="40">
         <name lang="de">Sicherheit</name>
         <name lang="fr">Sécurité</name>
