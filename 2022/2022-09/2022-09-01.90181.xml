@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="90181" revoked="no">
+    <version>1</version>
+    <pubdate>2022-09-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Empa-Spin-off «viboo»: Heizenergie sparen dank selbstlernendem Algorithmus</title>
+      <lead>Mit den steigenden Energiepreisen werden im kommenden Winter unweigerlich auch die Heizkosten steigen. Um diese abzufedern, werden Lösungen benötigt, mit denen sich Gebäude effizienter betreiben lassen. Das Empa-Spin-off «viboo» hat dazu einen Algorithmus entwickelt, mit dem man auch ältere Gebäude auf einfachem Weg mit rund einem Viertel weniger Energie betreiben kann. Der Nutzerkomfort bleibt dabei gleich oder verbessert sich sogar. </lead>
+      <text link="no">Ein Thermostat, der das Raumklima vorausschauend regelt und dadurch die Energieeffizienz und den Komfort verbessert – diese Idee kam den Forschern Felix Bünning und Benjamin Huber im Laufe ihrer Arbeit im «Urban Energy Systems Lab» der Empa. Die beiden entwickelten einen Regelalgorithmus, der basierend auf Wetter- und Gebäudedaten mehrere Stunden im Voraus den idealen Energieaufwand eines Gebäudes berechnen kann. Die ersten Experimente im NEST, dem Forschungs- und Innovationsgebäude von Empa und Eawag, zeigten, dass mit diesem Ansatz rund ein Viertel der Energie eingespart werden kann. Im März 2022 gründeten die beiden Forscher zusammen mit Matthias Sulzer, Senior Researcher an der Empa, offiziell das Spin-off «viboo», um die Lösung auf den Markt zu bringen. Um den Markteintritt zu erleichtern, muss der Algorithmus allerdings noch einigen weiteren Praxistests standhalten.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Pilot in einem Empa-Bürogebäude&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;«Wir zielen darauf ab, unsere Lösung in ältere Gebäuden zu integrieren, in denen es kein Gebäudeleitsystem gibt», erklärt Benjamin Huber. Aus diesem Grund haben sich die beiden Jungunternehmer dazu entschieden, ihren Algorithmus nach den erfolgreichen Tests im modernen NEST noch weiter auf die Probe zu stellen. Dazu brauchten sie ein geeignetes «älteres» Versuchsobjekt und ein Partnerunternehmen, das smarte Thermostate im Portfolio führt. Ersteres stellte die Empa-Direktion zur Verfügung: das Verwaltungsgebäude, das in den 1960er-Jahren gebaut und 2009 renoviert wurde und damit ein ideales Versuchsobjekt darstellte. Auch beim Partnerunternehmen wurde man fündig. «Mit Danfoss konnten wir einen internationalen Hersteller für das Projekt gewinnen, dessen smarte Heizkörper-Thermostate bereits eine geeignete Schnittstelle besassen. Über diese können die vom viboo-Algorithmus berechneten Stellwerte aus der Cloud an die Hardware übermittelt werden», erklärt Huber. &lt;br /&gt;&lt;br /&gt;Im ersten Schritt wechselte das Team die 150 bestehenden analogen Thermostate im Empa-Gebäude durch die smarte Lösung von Danfoss, dem «Danfoss Ally», aus. Danach wurde die Hardware mit der Danfoss Cloud verbunden. Um die Stellwerte für die smarten Thermostaten zu erhalten, kommunizierte die Danfoss Cloud wiederum mit der viboo Cloud, auf der der selbstlernende Algorithmus lief. Damit war das Setup bereit für den Feldversuch.&lt;br /&gt;&lt;br /&gt;Die neuen Thermostate regelten das Raumklima von Weihnachten 2021 bis Ende März 2022. Um einen Vergleich ziehen zu können, wurden die Betriebsmodi regelmässig gewechselt, sprich vom viboo-Regler auf den Standardbetrieb von Danfoss Ally und wieder zurück. Am Ende des Versuchs wurden zudem die Nutzerinnen und Nutzer befragt, um zu erfassen, wie der Raumkomfort wahrgenommen wurde und ob solche neuen Lösungen grundsätzlich akzeptiert werden.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Win-win: Weniger Energie, besserer Komfort&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Auch bei diesem Pilotprojekt fielen die Ergebnisse sehr positiv aus. Insgesamt wurde rund 23 Prozent weniger Heizenergie gebraucht verglichen mit der Heizperiode im Jahr zuvor – und dies bei gleichbleibendem oder gar besserem Nutzer-Komfort. Im Vergleich dazu sparte Danfoss Ally alleine lediglich zwölf Prozent ein. «In unseren Umfragen haben sich nur ganz wenige Nutzerinnen und Nutzer skeptisch gegenüber der neuen Technologie gezeigt. Das stimmt uns zuversichtlich, dass auch der Markt unsere Lösung annehmen wird», sagt Felix Bünning.&lt;br /&gt;&lt;br /&gt;Und auch das Partnerunternehmen zeigt sich beeindruckt von den ersten Ergebnissen. «Wir sehen grosses Potenzial in der Zusammenarbeit mit viboo und denken, dass solche Lösungen die Zukunft sind – nicht nur bei der Regelung eines einzelnen Gebäudes, sondern für ganze Energiesysteme», meint Andrea Cannarozzo, Geschäftsführer der Danfoss AG. Visionär gedacht, könnte der viboo-Algorithmus nämlich künftig verschiedene Smart-Home-Integrationen wie Wärmepumpen oder Solaranlagen optimieren, aber auch dazu beitragen, das elektrische Netz oder Wärmeverbünde nachhaltiger zu betreiben.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Nächste Projekte in der Pipeline&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Aber zurück in die nähere Zukunft. Um den Weg für den Markteintritt weiter zu ebnen, führt viboo in der nächsten Heizperiode weitere Pilotprojekte durch – zusammen mit Danfoss, aber auch weiteren Herstellern wie ABB und Schneider Electric. Ziel ist es, zusätzliche Daten zu sammeln und die Lösung in anderen Umgebungen auf die Probe zu stellen.&lt;br /&gt;&lt;br /&gt;Gleichzeitig gibt es bereits Interesse seitens der öffentlichen Hand, den Algorithmus in bestehende Gebäude zu integrieren, beispielsweise vom Bundesamt für Bauten und Logistik (BBL) und der Gemeinde Männedorf. Aber auch die Arbeit an der Empa ist für viboo und Danfoss noch nicht abgeschlossen. Die Unternehmen werden künftig noch weitere Gebäude auf dem Campus mit ihrer smarten Lösung ausrüsten.</text>
+      <contact>Weitere Informationen Felix Bünning Urban Energy Systems Lab / viboo Tel. +41 58 765 44 69 felix.buenning@empa.ch Benjamin Huber Urban Energy Systems Lab / viboo Tel. +41 58 765 43 05 benjamin.huber@empa.ch</contact>
+      <attachment id="235050">
+        <title>Der Wechsel von den herkömmlichen Heizkörper-Thermostatfühlern zu den Smartthermostaten «Danfoss Ally» ist einfach und in wenigen Sekunden möglich. Foto: Empa</title>
+        <format>jpg</format>
+        <size-kb>1559</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72927.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="235045">
+        <title>Empa: viboo, Empa-spin-off</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <link id="235046">
+        <title>viboo Homepage</title>
+        <uri>https://viboo.io/</uri>
+        <position>Context</position>
+      </link>
+      <link id="235047">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/viboo-danfoss</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Spin-off "viboo" de l'Empa: Économiser l'énergie de chauffage grâce à un algorithme auto-apprenant</title>
+      <lead>Avec la hausse des prix de l'énergie, les coûts de chauffage augmenteront inévitablement l'hiver prochain. Pour les atténuer, des solutions permettant d'exploiter plus efficacement les bâtiments sont nécessaires. Le spin-off de l'Empa "viboo" a développé un algorithme qui permet d'exploiter facilement des bâtiments anciens avec environ un quart d'énergie en moins. Le confort des utilisateurs reste inchangé ou s'améliore même. </lead>
+      <text link="no">Un thermostat qui règle à l'avance le climat intérieur et améliore ainsi l'efficacité énergétique et le confort – cette idée est venue aux chercheurs Felix Bünning et Benjamin Huber au cours de leur travail au "Urban Energy Systems Lab" de l'Empa. Ils ont développé un algorithme de régulation qui, sur la base des données météorologiques et des données du bâtiment, peut calculer plusieurs heures à l'avance la dépense énergétique idéale d'un bâtiment. Les premières expériences menées au NEST, le bâtiment de recherche et d'innovation de l'Empa et de l'Eawag, ont montré que cette approche permettait d'économiser environ un quart de l'énergie. En mars 2022, les deux chercheurs et Matthias Sulzer, Senior Researcher à l'Empa, ont officiellement fondé la spin-off "viboo" afin de lancer la solution sur le marché. Pour faciliter l'entrée sur le marché, l'algorithme doit toutefois encore résister à quelques tests pratiques supplémentaires.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Pilote dans un bâtiment administratif de l'Empa&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;"Nous visons à intégrer notre solution dans des bâtiments anciens où il n'existe pas de système de gestion des bâtiments", explique Benjamin Huber. C'est pourquoi les deux jeunes entrepreneurs ont décidé de mettre leur algorithme encore plus à l'épreuve après les tests réussis dans le NEST moderne. Pour cela, ils avaient besoin d'un objet expérimental plus ancien approprié et d'une entreprise partenaire qui propose des thermostats intelligents dans son portefeuille. La direction de l'Empa a mis le premier à disposition: le bâtiment administratif construit dans les années 1960 et rénové en 2009, qui constituait donc un objet d'expérimentation idéal. L'entreprise partenaire a également été trouvée. "Avec Danfoss, nous avons pu nous associer à un fabricant international pour le projet, dont les thermostats de radiateur intelligents possédaient déjà une interface appropriée. Celle-ci permet de transmettre au matériel les valeurs de réglage calculées par l'algorithme viboo à partir du cloud", explique Benjamin Huber.&lt;br /&gt;&lt;br /&gt;Dans un premier temps, l'équipe a remplacé les 150 thermostats analogiques existants dans le bâtiment de l'Empa par la solution intelligente de Danfoss, le "Danfoss Ally". Ensuite, le matériel a été connecté au cloud de Danfoss. Afin d'obtenir les valeurs de réglage pour les thermostats intelligents, le Danfoss Cloud a communiqué à son tour avec le viboo Cloud, sur lequel fonctionnait l'algorithme d'auto-apprentissage. La configuration était ainsi prête pour l'essai sur le terrain.&lt;br /&gt;&lt;br /&gt;Les nouveaux thermostats ont régulé le climat intérieur de Noël 2021 à fin mars 2022. Afin de pouvoir établir une comparaison, les modes de fonctionnement ont été régulièrement changés, c'est-à-dire du régulateur viboo au mode standard de Danfoss Ally et inversement. A la fin de l'essai, les utilisateurs ont en outre été interrogés afin de déterminer comment le confort de la pièce était perçu et si ces nouvelles solutions étaient en principe acceptées.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Win-win : moins d'énergie, meilleur confort&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Les résultats de ce projet pilote ont également été très positifs. Au total, la consommation d'énergie de chauffage a été réduite d'environ 23 % par rapport à la période de chauffage de l'année précédente, tout en maintenant, voire en améliorant le confort des utilisateurs. En comparaison, Danfoss Ally n'a permis d'économiser que 12 %. "Dans nos sondages, très peu d'utilisateurs se sont montrés sceptiques vis-à-vis de la nouvelle technologie. Cela nous rend confiants quant à l'adoption de notre solution par le marché", déclare Felix Bünning.&lt;br /&gt;&lt;br /&gt;Et l'entreprise partenaire se montre également impressionnée par les premiers résultats. "Nous voyons un grand potentiel dans la collaboration avec viboo et pensons que de telles solutions représentent l'avenir – non seulement pour la régulation d'un seul bâtiment, mais aussi pour des systèmes énergétiques entiers", estime Andrea Cannarozzo, directeur général de Danfoss AG. Pensé de manière visionnaire, l'algorithme viboo pourrait en effet optimiser à l'avenir différentes intégrations smart home comme les pompes à chaleur ou les installations solaires, mais aussi contribuer à exploiter de manière plus durable le réseau électrique ou les réseaux de chaleur.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Prochains projets en cours&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Mais revenons à l'avenir proche. Afin de préparer davantage le terrain pour l'entrée sur le marché, "viboo" mènera d'autres projets pilotes pendant la prochaine période de chauffage – en collaboration avec Danfoss, mais aussi avec d'autres fabricants comme ABB et Schneider Electric. L'objectif est de collecter des données supplémentaires et de mettre la solution à l'épreuve dans d'autres environnements.&lt;br /&gt;&lt;br /&gt;Parallèlement, les pouvoirs publics sont déjà intéressés par l'intégration de l'algorithme dans des bâtiments existants, par exemple l'Office fédéral des constructions et de la logistique (OFCL) et la commune de Männedorf. Mais le travail à l'Empa n'est pas encore terminé pour "viboo" et Danfoss. Les entreprises équiperont à l'avenir d'autres bâtiments du campus avec leur solution intelligente.&lt;br /&gt;</text>
+      <contact>Felix Bünning Urban Energy Systems Lab / viboo Tél. +41 58 765 44 69 felix.buenning@empa.ch Benjamin Huber Urban Energy Systems Lab / viboo Tél. +41 58 765 43 05 benjamin.huber@empa.ch</contact>
+      <attachment id="235049">
+        <title>Le remplacement des sondes thermostatiques traditionnelles des radiateurs par les thermostats intelligents "Danfoss Ally" est simple et ne prend que quelques secondes. Photo : Empa</title>
+        <format>jpg</format>
+        <size-kb>1559</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72926.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="235045">
+        <title>Empa: viboo, Empa-spin-off</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <link id="235046">
+        <title>viboo Homepage</title>
+        <uri>https://viboo.io/</uri>
+        <position>Context</position>
+      </link>
+      <link id="235047">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/viboo-danfoss</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Empa spin-off viboo: A self-learning algorithm that helps save heating energy</title>
+      <lead>With energy prices soaring, heating costs will also inevitably rise in the coming winter. In order to mitigate this, solutions for operating buildings more efficiently are needed. The Empa spin-off viboo has developed an algorithm that makes it possible to operate even older buildings with around 25 percent less energy – while user comfort remains the same or even improves.</lead>
+      <text link="no">A thermostat that predictively controls the indoor climate and thereby improves energy efficiency and comfort – Empa researchers Felix Bünning and Benjamin Huber came up with this idea while working in Empa's Urban Energy Systems lab. They developed a control algorithm that can calculate a building's ideal energy use several hours in advance based on weather forecasts and building data. The first experiments at NEST, Empa's and Eawag's research and innovation building, showed that this approach can save around 25 percent of the energy. In March 2022, the two researchers, together with Matthias Sulzer, Senior Researcher at Empa, founded a spin-off company, viboo, to bring the solution to the market. In order to facilitate market entry, however, the algorithm still has to undergo more field tests.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Pilot project in an Empa office building&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;"We aim to integrate our solution into older buildings with no integrated building management system," explains Benjamin Huber. For this reason, the two neo-entrepreneurs decided to further test their algorithm in older buildings after the successful experiments in NEST. For that, they needed a suitable test object and a partner company that has smart thermostats in its portfolio. Empa's directorate provided the former: an office building, built in the 1960s and renovated in 2009. The viboo team also found a suitable partner company. "With Danfoss, we were able to win an international manufacturer for the project whose smart radiator thermostats already had a suitable interface. The control values calculated by the viboo algorithm can be transmitted from the cloud to the hardware via this interface," explains Huber. &lt;br /&gt;&lt;br /&gt;In a first step, the team replaced 150 existing analog thermostats in the Empa building with a smart solution from Danfoss, the Danfoss Ally. Next, they connected the hardware to the Danfoss cloud. To obtain the control values for the smart thermostats, the Danfoss cloud communicated with the viboo cloud, which ran the self-learning algorithm. The setup was thus ready for field tests. &lt;br /&gt;&lt;br /&gt;The new thermostats controlled the indoor climate from Christmas 2021 to the end of March 2022. In order to be able to draw a comparison, the operating modes were changed regularly, i.e. from the viboo controller to the standard Danfoss Ally mode and back again. At the end of the trial, the team surveyed the users in order to understand how they perceived the room comfort and whether users accept such new solutions in general.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Win-win: less energy, better comfort&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The results of this pilot project were very positive. Overall, energy consumption was reduced by about 23 percent compared to the same heating period of the previous year – with the same or even better user comfort. In comparison, Danfoss Ally alone saved only about twelve percent. "In our surveys, very few users expressed skepticism about the new technology. This makes us confident that the market will eventually accept our solution," says Felix Bünning.&lt;br /&gt;&lt;br /&gt;The partner company is also impressed by the initial results. "We see great potential in the collaboration with viboo and think that solutions like this are the future – not only for the control of a single building, but for entire energy systems," states Andrea Cannarozzo, Managing Director of Danfoss AG. From a visionary perspective, the viboo algorithm could in future optimize various smart home integrations such as heat pumps or solar systems, but also help operating the electrical grid or heating networks more sustainably.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;More projects already in the pipeline&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;However, back to the near future. To further pave the way for market entry, viboo is conducting additional pilot projects in the upcoming heating period – together with Danfoss, but also other manufacturers such as ABB and Schneider Electric. The aim is to collect additional data and put the solution to the test in other environments.&lt;br /&gt;&lt;br /&gt;At the same time, there is already interest from the public sector in integrating the algorithm into existing buildings, for example from the Federal Office for Buildings and Logistics (BBL) and the municipality of Männedorf. The work at Empa is not yet finished for viboo and Danfoss either. In the future, the partners will equip further buildings on the Empa campus with their smart solution.</text>
+      <contact>Felix Bünning Urban Energy Systems Lab / viboo Phone +41 58 765 44 69 felix.buenning@empa.ch Benjamin Huber Urban Energy Systems Lab / viboo Phone +41 58 765 43 05 benjamin.huber@empa.ch</contact>
+      <attachment id="235048">
+        <title>Replacing conventional radiator thermostat sensors with Danfoss Ally smart thermostats is simple and can be done in just a few seconds. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>1559</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72925.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="235045">
+        <title>Empa: viboo, Empa-spin-off</title>
+        <uri>https://www.empa.ch/web/s604/viboo</uri>
+        <position>Context</position>
+      </link>
+      <link id="235046">
+        <title>viboo Homepage</title>
+        <uri>https://viboo.io/</uri>
+        <position>Context</position>
+      </link>
+      <link id="235047">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/viboo-danfoss</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

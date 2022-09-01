@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90134" revoked="no">
-    <version>2</version>
+    <version>4</version>
     <pubdate>2022-08-31</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="403" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Bundesamt für Justiz</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@bj.admin.ch</email>
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -83,34 +83,39 @@
       <lead>Das totalrevidierte Datenschutzgesetz (DSG) und die Ausführungsbestimmungen in der neuen Datenschutzverordnung (DSV) und der neuen Verordnung über Datenschutzzertifizierungen (VDSZ) treten am 1. September 2023 in Kraft. Das hat der Bundesrat an seiner Sitzung vom 31. August 2022 entschieden. Damit erhält die Wirtschaft genügend Zeit, die notwendigen Vorkehrungen für die Umsetzung des neuen Datenschutzrechts zu treffen.</lead>
       <text link="no"> &lt;p&gt;Das totalrevidierte DSG und die entsprechenden Bestimmungen in den Verordnungen sorgen künftig für einen besseren Schutz der persönlichen Daten. Insbesondere werden der Datenschutz den technologischen Entwicklungen angepasst, die Selbstbestimmung über die persönlichen Daten gestärkt sowie die Transparenz bei der Beschaffung von Personendaten erhöht. &lt;/p&gt; &lt;p&gt;Um den Ergebnissen der Vernehmlassung zu den Ausführungsbestimmungen Rechnung zu tragen, hat der Bundesrat den Entwurf der DSV in mehreren Punkten angepasst. So hat er das Kapitel zu den Pflichten der Verantwortlichen eingehend überarbeitet und insbesondere die Privaten von gewissen Informationspflichten bei der Bekanntgabe von Personendaten befreit. Auch die Modalitäten zum Auskunftsrecht wurden vereinfacht und namentlich die Dokumentationspflicht gestrichen. Im Bereich der Datensicherheit hat der Bundesrat seinen ursprünglichen Vorschlag aufgrund der kritischen Rückmeldungen in der Vernehmlassung teilweise angepasst. So wurde die Dauer zur Aufbewahrung der Protokolle über die Datenbearbeitung auf mindestens ein Jahr festgelegt. Ausserdem wurde eine neue Bestimmung eingefügt, welche die Schutzziele im Bereich der Datensicherheit mit dem neuen Informationssicherheitsgesetz vom 18. Dezember 2020 harmonisiert.&lt;/p&gt; &lt;h3&gt;Wichtige Umsetzungsfrist&lt;/h3&gt; &lt;p&gt;Mit der Inkraftsetzung des neuen Datenschutzgesetzes und der Verordnungen auf den 1. September 2023 kommt der Bundesrat einem Anliegen aus der Wirtschaft nach. Mit der Umsetzungsfrist von einem Jahr erhalten die Datenschutzverantwortlichen genügend Zeit, um die notwendigen Vorkehrungen für die Umsetzung des neuen Datenschutzrechts zu treffen.&lt;/p&gt; &lt;h3&gt;Neues Datenschutzrecht stärkt den Wirtschaftsstandort&lt;/h3&gt; &lt;p&gt;Das Parlament hat die Totalrevision des Datenschutzgesetzes am 25. September 2020 verabschiedet. Das neue Datenschutzrecht stellt die Vereinbarkeit mit dem europäischen Recht sicher und ermöglicht es, die modernisierte Datenschutzkonvention 108 des Europarats zu ratifizieren. Diese Anpassungen im neuen Datenschutzrecht sind wichtig, damit die EU die Schweiz weiterhin als Drittstaat mit einem angemessenen Datenschutzniveau anerkennt und die grenzüberschreitende Datenübermittlung auch künftig ohne zusätzliche Anforderungen möglich bleibt. Dies ist für den Wirtschaftsstandort und die Wettbewerbsfähigkeit der Schweiz zentral. Die EU anerkennt das Datenschutzniveau der Schweiz seit dem Jahr 2000. Diese Anerkennung wird zurzeit überprüft. &lt;/p&gt; </text>
       <contact>Monique Cossali, Bundesamt für Justiz T +41 58 462 47 89</contact>
-      <link id="234870">
+      <link id="235243">
         <title>Bericht über das Ergebnis des Vernehmlassungsverfahrens</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234873">
+      <link id="235246">
         <title>Verordnung über den Datenschutz</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234877">
+      <link id="235249">
         <title>Erläuternder Bericht DSV</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234881">
+      <link id="235252">
         <title>Verordnung über Datenschutzzertifizierungen</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234884">
+      <link id="235255">
         <title>Erläuternder Bericht VDSZ</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234887">
+      <link id="235258">
         <title>FAQ Datenschutzrecht</title>
         <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/faq-dsr.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="235261">
+        <title>Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2020/1998/de</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -121,34 +126,39 @@
       <lead>La loi sur la protection des données, totalement révisée, et les dispositions d'exécution inscrites dans les nouvelles ordonnances sur la protection des données (OPDo) et sur les certifications en matière de protection des données (OCPD) entreront en vigueur le 1er septembre 2023, conformément à la décision du Conseil fédéral du 31 août 2022. Ce délai laissera suffisamment de temps aux milieux économiques pour entreprendre les démarches nécessaires à la mise en œuvre du nouveau droit.</lead>
       <text link="no"> &lt;p&gt;La révision totale de la loi sur la protection des données (LPD) et les dispositions des ordonnances permettront d'assurer une meilleure protection des données personnelles. La législation est adaptée aux avancées technologiques et les droits des personnes vis-à-vis de leurs données, ainsi que la transparence sur la façon dont elles sont collectées, sont améliorés. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral a adapté le projet d'OPDo en divers points afin de tenir compte des avis émis lors de la consultation sur les dispositions d'exécution. Ainsi, le chapitre relatif aux obligations du responsable du traitement est remanié en profondeur : les responsables privés sont libérés de certaines obligations liées au devoir d'informer lors de la communication des données personnelles. Les modalités du droit d'accès sont quant à elles simplifiées grâce à la suppression de l'obligation de documenter les motifs pour lesquels la communication est refusée, restreinte ou différée. En raison des retours critiques émis au sujet de la sécurité des données, le Conseil fédéral a également adapté son projet d'origine dans ce domaine. Il a fixé la durée de conservation des procès-verbaux de journalisation des traitements de données à un an au moins et a ajouté une nouvelle disposition qui vise à harmoniser les objectifs de protection en matière de sécurité des données avec ceux de la nouvelle loi fédérale du 18 décembre 2020 sur la sécurité de l'information.&lt;/p&gt; &lt;h3&gt;Importance du délai pour la mise en œuvre&lt;/h3&gt; &lt;p&gt;En fixant l'entrée en vigueur de la nouvelle législation sur la protection des données au 1er septembre 2023, le Conseil fédéral répond aux préoccupations du monde économique. Ce délai d'un an accordera suffisamment de temps aux responsables en matière de protection des données pour faire le nécessaire en vue de la mise en œuvre du nouveau droit.&lt;/p&gt; &lt;h3&gt;Renforcement de la place économique suisse&lt;/h3&gt; &lt;p&gt;Le Parlement a adopté la révision totale de la loi sur la protection des données le 25 septembre 2020. Le nouveau droit garantit la compatibilité avec le droit européen et permet à la Suisse de ratifier la version révisée de la Convention 108 du Conseil de l'Europe sur la protection des données. Cette modernisation est importante pour que l'UE continue de reconnaître la Suisse comme un État tiers ayant un niveau de protection des données adéquat et que l'échange de données transfrontière reste possible sans exigences supplémentaires. Il s'agit là de points cruciaux pour la place économique et la compétitivité de la Suisse. L'UE reconnaît le niveau de protection des données de la Suisse depuis 2000. Cette reconnaissance est en cours de réexamen.&lt;/p&gt; </text>
       <contact>Monique Cossali, Office fédéral de la justice T +41 58 462 47 89</contact>
-      <link id="234871">
+      <link id="235244">
         <title>Rapport sur les résultats de la procédure de consultation</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234874">
+      <link id="235247">
         <title>Ordonnance sur la protection des données</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234878">
+      <link id="235250">
         <title>Rapport explicatif OPDo</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234882">
+      <link id="235253">
         <title>Ordonnance sur les certifications en matière de protection des données</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234885">
+      <link id="235256">
         <title>Rapport explicatif OCPD</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234888">
+      <link id="235259">
         <title>FAQ Droit de la protection des données</title>
         <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/faq-dsr.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="235262">
+        <title>Loi fédérale sur la protection des données (LPD)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2020/1998/fr</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
@@ -159,50 +169,45 @@
       <lead>La revisione totale della legge sulla protezione dei dati (nLPD) e le relative disposizioni esecutive contenute nella nuova ordinanza sulla protezione dei dati (OPDa) e nella nuova ordinanza sulle certificazioni in materia di protezione dei dati (OCPD) entreranno in vigore il 1° settembre 2023. Il Consiglio federale lo ha deciso in occasione della seduta del 31 agosto 2022. In tal modo il mondo dell’economia avrà il tempo sufficiente per disporre le misure necessarie all’attuazione del nuovo diritto in materia di protezione dei dati. </lead>
       <text link="no"> &lt;p&gt;La revisione totale della LPD e le relative disposizioni delle ordinanze garantiranno in futuro una migliore protezione dei dati personali. In particolare, la protezione dei dati sarà adattata agli sviluppi tecnologici, sarà rafforzata l'autodeterminazione relativa ai dati personali e aumentata la trasparenza nella raccolta dei dati personali.&lt;/p&gt; &lt;p&gt;Per tenere conto dei risultati della consultazione in merito alle disposizioni esecutive, il Consiglio federale ha adeguato l'OPDa in diversi punti. Ha ad esempio riveduto sensibilmente il capitolo sugli obblighi dei titolari del trattamento dei dati, esentando in particolare i privati da determinati obblighi di informazione in occasione della divulgazione di dati personali. Sono state inoltre semplificate le modalità del diritto d'accesso ed è stato eliminato l'obbligo di documentazione. Per quanto riguarda la sicurezza dei dati, in risposta alle critiche espresse in sede di consultazione il Consiglio federale ha parzialmente adattato la sua proposta originaria. Il periodo di conservazione dei verbali del trattamento dei dati è stato fissato ad almeno un anno. Inoltre, è stata aggiunta una nuova disposizione che armonizza gli obiettivi di protezione nel settore della sicurezza dei dati con la nuova legge del 18 dicembre 2020 sulla sicurezza delle informazioni.&lt;/p&gt; &lt;h3&gt;Importante termine di attuazione&lt;/h3&gt; &lt;p&gt;Ponendo in vigore la nuova legge sulla protezione dei dati e le ordinanze il 1° settembre 2023, il Consiglio federale tiene conto di una richiesta del mondo dell'economia. Il termine di attuazione di un anno mette a disposizione dei responsabili della protezione dei dati il tempo sufficiente per disporre le misure necessarie all'attuazione del nuovo diritto.&lt;/p&gt; &lt;h3&gt;Il nuovo diritto in materia di protezione dei dati rafforza la piazza economica svizzera&lt;/h3&gt;&lt;p&gt; Il Parlamento aveva adottato la revisione totale della legge sulla protezione dei dati il 25 settembre 2020. Il nuovo diritto in materia di protezione dei dati garantisce la compatibilità con il diritto europeo e rende possibile la ratifica della versione aggiornata della Convenzione 108 del Consiglio d'Europa sulla protezione dei dati. Questi adeguamenti nella nuova legislazione sulla protezione dei dati sono importanti per garantire che l'UE continui a riconoscere la Svizzera come Paese terzo con un livello adeguato di protezione dei dati e che i trasferimenti transfrontalieri di dati rimangano possibili anche in futuro senza condizioni aggiuntive. Questo aspetto è centrale per la piazza economica svizzera e per la sua competitività. L'UE riconosce il livello di protezione della Svizzera dal 2000. Il riconoscimento è attualmente oggetto di verifica. &lt;/p&gt;</text>
       <contact>Monique Cossali, Ufficio federale di giustizia T +41 58 462 47 89</contact>
-      <link id="234872">
+      <link id="235245">
         <title>Rapporto sui risultati della procedura di consultazione</title>
         <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234875">
-        <title>Verordnung über den Datenschutz</title>
-        <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/vo-datenschutz.pdf</uri>
+      <link id="235248">
+        <title>Ordinanza sulla protezione dei dati</title>
+        <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234876">
-        <title>Ordonnance sur la protection des données</title>
-        <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/vo-datenschutz.pdf</uri>
+      <link id="235251">
+        <title>Rapporto esplicativo OPDa</title>
+        <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-datenschutz.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234879">
-        <title>Erläuternder Bericht DSV</title>
-        <uri>https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-datenschutz.pdf</uri>
-        <position>Context</position>
-      </link>
-      <link id="234880">
-        <title>Rapport explicatif OPDo</title>
-        <uri>https://www.bj.admin.ch/dam/bj/fr/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-datenschutz.pdf</uri>
-        <position>Context</position>
-      </link>
-      <link id="234883">
+      <link id="235254">
         <title>Ordinanza sulle certificazioni in materia di protezione dei dati</title>
         <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234886">
+      <link id="235257">
         <title>Rapporto esplicativo OCPD</title>
         <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/erl-vo-ds_zertif.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="234889">
+      <link id="235260">
         <title>Domande frequenti diritto in materia di protezione dei dati</title>
         <uri>https://www.bj.admin.ch/dam/bj/it/data/staat/gesetzgebung/datenschutzstaerkung/faq-dsr.pdf</uri>
+        <position>Context</position>
+      </link>
+      <link id="235263">
+        <title>Legge federale sulla protezione dei dati (LPD)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2020/1998/it</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="27" org-id="403">
+      <keyword id="27" org-id="401">
         <name lang="de">Datenschutz</name>
         <name lang="fr">Protection des données</name>
         <name lang="it">Protezione dei dati</name>

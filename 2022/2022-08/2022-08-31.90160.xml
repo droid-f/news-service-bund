@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90160" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-08-31</pubdate>
     <type>Memorandum</type>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
       <department-id>1070</department-id>
       <name lang="de">Der Bundesrat</name>
@@ -33,6 +18,21 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="811" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,6 @@
       <email lang="it">info@bafu.admin.ch</email>
       <email lang="en">info@bafu.admin.ch</email>
     </originator>
-    <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,30 +63,44 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bundesrat unterstützt wirksame Regulierung der Wolfspopulation</title>
       <lead>Der Bundesrat unterstützt das Bestreben des Parlaments, die Wolfspopulation in der Schweiz wirksam zu regulieren. Die Umweltkommission des Ständerates hat dazu im Oktober 2021 die Parlamentarische Initiative «Wachsende Wolfsbestände geraten ausser Kontrolle und gefährden ohne die Möglichkeit zur Regulierung die Landwirtschaft» eingereicht. Der Bundesrat hat an der Sitzung vom 31. August 2022 seine Stellungnahme dazu verabschiedet.</lead>
       <text link="no"> &lt;p&gt;Der Wolfsbestand in der Schweiz nimmt zu. Aktuell leben in der Schweiz rund 180 Wölfe und 17 Rudel. Aufgrund des wachsenden Bestandes mehren sich Angriffe auf Nutztiere. In diesem Sommer ist es auch zu Konfliktsituationen mit Menschen gekommen. &lt;/p&gt; &lt;p&gt;Der Bundesrat unterstützt deshalb das Bestreben des Parlaments, die Wolfspopulation in der Schweiz wirksam zu regulieren. Mit der von der Umweltkommission des Ständerates (UREK-S) vorgeschlagenen Regelung soll dennoch an der heutigen Kompetenzordnung zwischen dem Bund und den Kantonen festgehalten werden. Damit geht die Kommission auf einen Hauptkritikpunkt ein, der bei der Abstimmung über das 2020 abgelehnte Jagdgesetz geäussert worden war.&lt;/p&gt; &lt;p&gt;Die UREK-S hat im Oktober 2021 die Parlamentarische Initiative «Wachsende Wolfsbestände geraten ausser Kontrolle und gefährden ohne die Möglichkeit zur Regulierung die Landwirtschaft» (21.502) eingereicht. Diese will, dass in der Schweiz der Wolfsbestand neu vorausschauend reguliert werden kann, um Schäden an Nutztieren und die Gefährdung von Menschen zu vermeiden. Die geltende Gesetzgebung erlaubt eine Regulierung erst, nachdem grosser Schaden oder eine erhebliche Gefährdung aufgetreten sind. Der Bundesrat erachtet zudem die in der Parlamentarischen Initiative vorgesehene Erweiterung des Handlungsspielraums beim Abschuss von Einzelwölfen als sinnvoll. Diese sieht vor, dass die Kantone Wölfe entfernen dürfen, die dem Menschen gefährlich werden. &lt;/p&gt; &lt;p&gt;Im Vorschlag der UREK-S soll auch die 2015 eingereichte Standesinitiative des Kantons Thurgaus «Änderung des Jagdgesetzes zur Entschädigung von Schäden, welche Biber an Infrastrukturen anrichten» (15.300) umgesetzt werden. Der Bundesrat lehnt jedoch den Vorschlag der Kommission ab, dass sich der Bund künftig an der Verhütung und Vergütung von Infrastrukturschäden durch Biber beteiligen soll. &lt;/p&gt; &lt;p&gt;Ebenso stellt er sich gegen die Beteiligung des Bundes an den Personalkosten der Kantone beim Umgang mit dem Wolf. &lt;/p&gt; &lt;p&gt;Der Bundesrat hat am 31. August 2022 seine Stellungnahme zum Bericht der UREK-S vom 23. Juni 2022 verabschiedet. &lt;/p&gt; </text>
       <contact>Mediendienst, Bundesamt für Umwelt BAFU, Tel. +41 58 462 90 00</contact>
-      <attachment id="234893">
+      <attachment id="235102">
         <title>Stellungnahme des Bundesrates</title>
         <format>pdf</format>
         <size-kb>381</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/72897.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="234898">
+      <link id="235103">
         <title>Parlamentarische Initiative UREK-S</title>
         <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20210502</uri>
         <position>Context</position>
       </link>
-      <link id="234900">
+      <link id="235104">
         <title>Standesinitiative des Kantons Thurgau</title>
         <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20150300</uri>
         <position>Context</position>
       </link>
-      <link id="234901">
+      <link id="235105">
         <title>BAFU: Wolf</title>
         <uri>https://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/fachinformationen/erhaltung-und-foerderung-von-arten/grossraubtiere/wolf.html</uri>
         <position>Context</position>
@@ -113,24 +113,24 @@
       <lead>Le Conseil fédéral soutient la volonté du Parlement de réguler efficacement les effectifs de loups en Suisse. La Commission de l’environnement, de l’aménagement du territoire et de l’énergie du Conseil des États (CEATE-E) a déposé à cette fin en octobre 2021 l’initiative parlementaire « L’augmentation des populations de loups devient incontrôlable. Sans possibilité de régulation, elle menace l’agriculture ». Le 31 août 2022, le Conseil fédéral a publié son avis sur le rapport de la commission concernant cet objet. </lead>
       <text link="no"> &lt;p&gt;La Suisse compte aujourd’hui près de 180 loups et au moins 17 meutes. Or ces chiffres sont en constante augmentation, si bien que les attaques sur des animaux de rente se multiplient. Cet été, des conflits avec des êtres humains sont également survenus. &lt;/p&gt; &lt;p&gt;C’est pourquoi le Conseil fédéral soutient la volonté du Parlement de réguler de manière efficace les populations de loups établies en Suisse. La réglementation proposée par la CEATE-E entend toutefois maintenir la répartition actuelle des compétences entre la Confédération et les cantons. La commission répond ainsi à l’une des principales critiques formulées à l’encontre de la révision de la loi sur la chasse refusée en 2020 par le peuple.&lt;/p&gt; &lt;p&gt;L’initiative parlementaire « L’augmentation des populations de loups devient incontrôlable. Sans possibilité de régulation, elle menace l’agriculture » (21.502) a été déposée par la CEATE-E en octobre 2021. Elle entend permettre la régulation préventive des effectifs de loups afin d’éviter des dommages aux animaux de rente et une mise en danger de l’être humain. En effet, la législation en vigueur n’admet la régulation qu’après l’apparition d’importants dommages ou d’un grave danger. L’initiative prévoit par ailleurs que les cantons puissent abattre des loups présentant un danger pour l’être humain. Le Conseil fédéral estime que cet élargissement de la marge de manœuvre en matière de tir de loups isolés constitue une mesure judicieuse. &lt;/p&gt; &lt;p&gt;Le projet présenté par la CEATE-E met également en œuvre l’initiative « Modification de la loi sur la chasse. Versement d’indemnités pour les dégâts causés aux infrastructures par les castors » (15.300), déposée en 2015 par le canton de Thurgovie. Le Conseil fédéral rejette toutefois la proposition de la commission, qui demande à la Confédération de participer à la prévention et à l’indemnisation des dommages causés aux infrastructures par les castors.&lt;/p&gt; &lt;p&gt;De même, le Conseil fédéral s’oppose à la participation de la Confédération aux frais de personnel qu’occasionne la gestion du loup pour les cantons.&lt;/p&gt; &lt;p&gt;Le 31 août 2022, le Conseil fédéral a publié son avis sur le rapport de la CEATE-E du 23 juillet 2022.&lt;/p&gt; </text>
       <contact>Service médias, Office fédéral de l’environnement OFEV, tél. +41 58 462 90 00</contact>
-      <attachment id="234893">
-        <title>Stellungnahme des Bundesrates</title>
+      <attachment id="235112">
+        <title>Avis du Conseil fédéral</title>
         <format>pdf</format>
-        <size-kb>381</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72897.pdf</uri>
+        <size-kb>449</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72935.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="234903">
+      <link id="235106">
         <title>Initiative parlementaire de la CEATE-E</title>
         <uri>https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20210502</uri>
         <position>Context</position>
       </link>
-      <link id="234904">
+      <link id="235107">
         <title>Initiative du canton de Thurgovie</title>
         <uri>https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20150300</uri>
         <position>Context</position>
       </link>
-      <link id="234905">
+      <link id="235108">
         <title>OFEV: Le loup</title>
         <uri>https://www.bafu.admin.ch/bafu/fr/home/themes/biodiversite/info-specialistes/protection-et-conservation-des-especes/grands-predateurs/le-loup.html</uri>
         <position>Context</position>
@@ -143,24 +143,24 @@
       <lead>Il Consiglio federale sostiene gli sforzi del Parlamento di regolare in maniera efficace la popolazione di lupi in Svizzera. A tal proposito, nell’ottobre 2021 la Commissione dell’ambiente del Consiglio degli Stati ha presentato l’iniziativa parlamentare «L’aumento delle popolazioni di lupi diventa incontrollabile e senza la possibilità di regolamentarlo minaccia l’agricoltura». Nella sua seduta del 31 agosto 2022, il Consiglio federale ha licenziato un parere in merito. </lead>
       <text link="no"> &lt;p&gt;In Svizzera le popolazioni di lupi sono in continuo aumento. Attualmente nel nostro Paese vivono circa 180 lupi e 17 branchi. A causa della crescita degli effettivi, gli attacchi agli animali da reddito sono in aumento. Quest’estate si sono verificate anche situazioni di conflitto con l’uomo. &lt;/p&gt; &lt;p&gt;Il Consiglio federale sostiene quindi gli sforzi del Parlamento di regolare in maniera efficace la popolazione di lupi in Svizzera. La normativa proposta dalla Commissione dell’ambiente del Consiglio degli Stati (CAPTE-S) manterrà tuttavia l’attuale ripartizione delle competenze tra Confederazione e Cantoni. In questo modo, la Commissione affronta una delle principali critiche espresse in occasione della votazione della legge sulla caccia respinta nel 2020.&lt;/p&gt; &lt;p&gt;La CAPTE-S ha presentato nell’ottobre 2021 l’iniziativa parlamentare «L’aumento delle popolazioni di lupi diventa incontrollabile e senza la possibilità di regolamentarlo minaccia l’agricoltura» (21.502). Questa ha per obiettivo la regolazione preventiva delle popolazioni di lupi in Svizzera per evitare danni agli animali da reddito e pericoli per l’uomo. La legislazione vigente consente una regolazione soltanto in seguito a danni ingenti o a un pericolo grave. Il Consiglio federale ritiene inoltre opportuno estendere il margine di manovra per l’abbattimento di singoli lupi come previsto dall’iniziativa parlamentare. Ciò consentirebbe ai Cantoni di eliminare i lupi che diventano pericolosi per l’uomo. &lt;/p&gt; &lt;p&gt;Nella proposta della CAPTE-S verrà attuata anche l’iniziativa del Cantone di Turgovia presentata nel 2015 «Modificare la legge sulla caccia per prevedere il risarcimento dei danni causati dai castori alle infrastrutture» (15.300). Tuttavia, il Consiglio federale respinge la proposta della Commissione secondo cui in futuro la Confederazione parteciperebbe alla prevenzione e al risarcimento dei danni alle infrastrutture causati dai castori.&lt;/p&gt; &lt;p&gt;Inoltre, si oppone alla partecipazione della Confederazione ai costi per il personale dei Cantoni nella gestione del lupo.&lt;/p&gt; &lt;p&gt;Il 31 agosto 2022 il Consiglio federale ha licenziato un parere in merito al rapporto della CAPTE-S del 23 giugno 2022.&lt;/p&gt; </text>
       <contact>Servizio media, Ufficio federale dell’ambiente (UFAM), tel. +41 58 462 90 00</contact>
-      <attachment id="234893">
-        <title>Stellungnahme des Bundesrates</title>
+      <attachment id="235113">
+        <title>Parere del Consiglio federale</title>
         <format>pdf</format>
-        <size-kb>381</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72897.pdf</uri>
+        <size-kb>434</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/72936.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="234906">
+      <link id="235109">
         <title>Iniziativa parlamentare della CAPTE-S</title>
         <uri>https://www.parlament.ch/it/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20210502</uri>
         <position>Context</position>
       </link>
-      <link id="234907">
+      <link id="235110">
         <title>Iniziativa del Cantone Turgovia</title>
         <uri>https://www.parlament.ch/it/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20150300</uri>
         <position>Context</position>
       </link>
-      <link id="234908">
+      <link id="235111">
         <title>UFAM: Lupo</title>
         <uri>https://www.bafu.admin.ch/bafu/it/home/temi/biodiversita/info-specialisti/salvaguardia-e-promozione-delle-specie/grandi-predatori/lupo.html</uri>
         <position>Context</position>
