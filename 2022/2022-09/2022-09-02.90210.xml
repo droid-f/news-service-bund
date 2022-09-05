@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90210" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2022-09-02</pubdate>
     <type>Memorandum</type>
-    <originator department-msg="no" id="801" lead="yes" topnews="no">
+    <originator department-msg="yes" id="804" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
       <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
       <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
       <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
@@ -54,26 +54,26 @@
       <lead>Der Bundesrat stärkt mit verschiedenen Massnahmen die Energieversorgung der Schweiz. Neben der Wasserkraftreserve, die bereits im kommenden Winter bei Bedarf gezielt genutzt werden kann, gehören auch Reservekraftwerke dazu. Mitte August 2022 hat der Bundesrat sein Einverständnis für entsprechende Vertragsverhandlungen gegeben. Nun hat das UVEK den ersten Vertrag unterzeichnet. Der Bund beschafft damit bei der Firma GE Gas Power acht mobile Gasturbinen. Sie werden auf dem Firmengelände von GE in Birr (AG) aufgebaut. Die Turbinen können neben Gas auch mit Öl oder Wasserstoff betrieben werden. Der heute unterzeichnete Vertrag ermöglicht es, dass diese Turbinen bereits für die kritische Zeit gegen Ende des kommenden Winters 2022/23 bis Ende April 2026 zur Verfügung stehen.</lead>
       <text link="no"> &lt;p&gt;Mit dem Abschluss der Verhandlungen zwischen dem Bund und der Firma GE Gas Power bestehen jetzt die vertraglichen Grundlagen dafür, dass ein temporäres Reservekraftwerk in der kritischen Zeit gegen Ende Winter 2023 bei Bedarf eingesetzt werden kann. Die Verhandlungen mit möglichen weiteren Anbietern von Reservekraftwerken laufen noch. Die Turbinen werden von GE Gas Power auf dem Betriebsgelände am Standort Birr im Kanton Aargau aufgebaut. Es handelt sich um acht modulare, mobile Gasturbinen des Typs TM2500 mit je mindestens 30 Megawatt Leistung, insgesamt also gegen 250 Megawatt. Das entspricht in etwa der zweieinhalbfachen Leistung des Wasserkraftwerks Rheinfelden. Sie können neben Gas auch mit Öl oder Wasserstoff betrieben werden. Die Gesamtkosten für die ganze Laufzeit betragen rund 470 Millionen Franken. &lt;/p&gt; &lt;p&gt;Die Regelungen für den Aufbau, sowie für die Vorbereitungsarbeiten und Regelungen zu deren Inbetriebnahme und Betrieb werden in einer Verordnung verankert, über die der Bundesrat Mitte September entscheiden wird. Die Reservekraftwerke werden dem Emissionshandel unterstellt. Parallel dazu laufen die Abklärungen, welches Unternehmen den Betrieb der Anlage übernehmen wird.&lt;br /&gt;&lt;br /&gt;Die Bevölkerung von Birr wird in der zweiten Septemberhälfte vom Bundesamt für Energie, dem Kanton Aargau und der Gemeinde Birr an einer Informationsveranstaltung direkt informiert. Termin und Ort werden demnächst bekanntgegeben.&lt;/p&gt;</text>
       <contact>Kontakt/Rückfragen Marianne Zünd, Leiterin Medien + Politik BFE, 058 462 56 75</contact>
-      <attachment id="235311">
+      <attachment id="235347">
         <title>Foto Vertragsunterzeichnung (zur Weiterverwendung) - Von l. nach r.: Benoît Revaz, Direktor BFE / Matthias Ramsauer, Generalsekretär UVEK / Scott Miller, US Botschafter in der Schweiz / Aman Joshi Product Manager Aero-Derivative Business GE Power</title>
         <format>jpg</format>
         <size-kb>5769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/72960.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="235305">
+      <link id="235341">
         <title>Energie: Bundesrat stärkt für den Winter 2022/23 die Versorgungssicherheit weiter (Medienmitteilung vom 17.08.2022)</title>
         <uri>https://www.bfe.admin.ch/bfe/de/home/news-und-medien/medienmitteilungen/mm-test.msg-id-89970.html</uri>
         <position>Context</position>
       </link>
-      <link id="235308">
+      <link id="235344">
         <title>Webdossier UVEK: Energie - Stärkung der Versorgungssicherheit</title>
         <uri>https://www.uvek.admin.ch/uvek/de/home/energie/energieversorgungssicherheit-ukraine-krieg.html</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2022-09-02 17:45" type="R"/>
         <revision date="2022-09-02 18:20" type="R"/>
+        <revision date="2022-09-02 17:45" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -82,19 +82,19 @@
       <lead>Pour renforcer l’approvisionnement énergétique de la Suisse, le Conseil fédéral prend différentes mesures. Outre la réserve hydroélectrique, qui pourra être utilisée de manière ciblée dès l’hiver prochain en cas de besoin, des centrales de réserve sont également prévues. A la mi-août 2022, le Conseil fédéral a donné son accord pour que des négociations soient menées en vue de conclure des contrats dans ce domaine. Le DETEC vient de signer le premier contrat. La Confédération acquiert ainsi huit turbines à gaz mobiles auprès de l’entreprise GE Gas Power. Ces turbines seront installées sur le site de GE à Birr (AG). Elles fonctionnent au gaz, mais aussi au pétrole ou à l’hydrogène. Le contrat signé aujourd’hui permet de disposer de ces turbines dès la période critique vers la fin de l’hiver 2022/23 et jusqu’à fin avril 2026.</lead>
       <text link="no"> &lt;p&gt;À l'issue des négociations entre la Confédération et l'entreprise GE Gas Power, les bases contractuelles existent désormais pour qu'une centrale de réserve temporaire puisse être utilisée en cas de besoin pendant la période critique vers la fin de l'hiver 2022/23. Les négociations avec d'autres fournisseurs potentiels de centrales de réserve sont encore en cours. Les turbines seront installées par GE Gas Power sur le site de Birr, dans le canton d'Argovie. Il s'agit de huit turbines à gaz modulaires et mobiles de type TM2500, d'une puissance d'au moins 30 mégawatts chacune, soit un total d'environ 250 mégawatts. Cela correspond à environ deux fois et demie la puissance de la centrale hydroélectrique de Rheinfelden. Ces turbines fonctionnent au gaz, mais aussi au pétrole ou à l'hydrogène. La totalité des coûts sur l'ensemble de la période s'élève à environ 470 millions de francs. &lt;/p&gt; &lt;p&gt;Les dispositions relatives à leur implantation ainsi qu'aux travaux préparatoires ainsi que celles régissant leur mise en service et leur exploitation sont ancrées dans une ordonnance sur laquelle le Conseil fédéral se prononcera à la mi-septembre. Les centrales de réserve seront soumises au système d'échange de quotas d'émission. Parallèlement, des clarifications sont en cours pour savoir quelle entreprise se chargera d'exploiter l'installation. &lt;/p&gt; &lt;p&gt;La population de Birr sera informée directement par l'Office fédéral de l'énergie, le canton d'Argovie et la commune de Birr lors d'une séance qui se tiendra dans la seconde moitié de septembre. La date et le lieu seront communiqués prochainement.&lt;/p&gt; </text>
       <contact>Renseignement : Marianne Zünd, Cheffe médias et politique OFEN, tél. 058 462 56 75</contact>
-      <attachment id="235312">
+      <attachment id="235348">
         <title>Photo de la signature du contrat (pour réutilisation) - Von l. nach r.: Benoît Revaz, Direktor BFE / Matthias Ramsauer, Generalsekretär UVEK / Scott Miller, US Botschafter in der Schweiz / Aman Joshi Product Manager Aero-Derivative Business GE Power</title>
         <format>jpg</format>
         <size-kb>5769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/72961.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="235306">
+      <link id="235342">
         <title>Énergie: le Conseil fédéral consolide la sécurité de l’approvisionnement pour l’hiver 2022/23 (Communiqué de presse 17.08.2022)</title>
         <uri>https://www.bfe.admin.ch/bfe/fr/home/actualites-et-medias/communiques-de-presse/mm-test.msg-id-89970.html</uri>
         <position>Context</position>
       </link>
-      <link id="235309">
+      <link id="235345">
         <title>Dossier Internet du DETEC : Energie – Renforcement de la sécurité de l’approvisionnement</title>
         <uri>https://www.uvek.admin.ch/uvek/fr/home/energie/energieversorgungssicherheit-ukraine-krieg.html</uri>
         <position>Context</position>
@@ -107,19 +107,19 @@
       <lead>Il Consiglio federale rafforza con diverse misure l’approvvigionamento energetico in Svizzera. Oltre alla riserva di energia idroelettrica, che all’occorrenza potrà essere impiegata in modo mirato già nel corso del prossimo inverno, si potrà contare anche su centrali elettriche di riserva. A metà agosto 2022 il Consiglio federale ha dato il nulla osta all’avvio di negoziati in vista della stipula dei relativi contratti. In data odierna il DATEC ha firmato il primo di questi contratti. Il documento prevede che la Confederazione acquisti dalla ditta GE Gas Power otto turbine a gas mobili che saranno installate nell’area industriale della GE a Birr (AG). Queste turbine potranno essere alimentate, oltre che a gas, anche a olio o idrogeno. Grazie al contratto firmato oggi, le turbine saranno disponibili già durante fase critica attesa dalla fine dell’inverno 2022/23 fino ad aprile 2026.</lead>
       <text link="no"> &lt;p&gt;Con la conclusione dei negoziati tra la Confederazione e la ditta GE Gas Power esistono ora le basi contrattuali per l'eventuale messa in esercizio di una centrale elettrica di riserva temporanea nella fase critica prevista verso la fine dell'inverno 2023. Sono tuttora in corso i negoziati con altri potenziali offerenti di simili centrali. GE Gas Power installerà le turbine nella propria area industriale nel Comune di Birr, Cantone Argovia. Si tratta di otto turbine a gas mobili, modulari, del tipo TM2500, ciascuna con una potenza di almeno 30 megawatt, per un totale di circa 250 megawatt. Ciò corrisponde approssimativamente a due volte e mezza la potenza della centrale idroelettrica di Rheinfelden. Oltre che a gas, le turbine possono essere alimentate anche a olio o idrogeno. I costi complessivi per tutta la durata di esercizio ammontano a circa 470 milioni di franchi. &lt;/p&gt; &lt;p&gt;Le norme per la costruzione nonché i lavori preparatori e le norme per la messa in funzione e l'esercizio saranno fissate in un'ordinanza, che sarà oggetto di una decisione del Consiglio federale a metà settembre. Le centrali elettriche di riserva saranno sottoposte al sistema di scambio di quote di emissioni. Parallelamente sono in corso accertamenti volti a determinare l'impresa a cui sarà affidato l'esercizio dell'impianto. &lt;/p&gt; &lt;p&gt;Nella seconda metà di settembre la popolazione di Birr sarà informata direttamente sul progetto dall'Ufficio federale dell'energia nonché dalle autorità cantonali argoviesi e comunali di Birr. La data e il luogo dell'evento informativo verranno resi noti prossimamente.&lt;/p&gt; </text>
       <contact>Per ulteriori informazioni: Marianne Zünd, capo Media + Politica UFE, tel.058 462 56 75</contact>
-      <attachment id="235313">
+      <attachment id="235349">
         <title>Foto della firma del contratto (da scaricare) - Von l. nach r.: Benoît Revaz, Direktor BFE / Matthias Ramsauer, Generalsekretär UVEK / Scott Miller, US Botschafter in der Schweiz / Aman Joshi Product Manager Aero-Derivative Business GE Power</title>
         <format>jpg</format>
         <size-kb>5769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/72962.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="235307">
+      <link id="235343">
         <title>Energia: il Consiglio federale rafforza ulteriormente la sicurezza di approvvigionamento per l’inverno 2022/23 (Comunicato stampa 17.08.2022)</title>
         <uri>https://www.bfe.admin.ch/bfe/it/home/novita-e-media/comunicati-stampa/mm-test.msg-id-89970.html</uri>
         <position>Context</position>
       </link>
-      <link id="235310">
+      <link id="235346">
         <title>Webdossier DATEC: Energia – Rafforzamento della sicurezza di approvvigionamento</title>
         <uri>https://www.uvek.admin.ch/uvek/it/home/energia/sicurezza-dell-approvvigionamento-guerra-ucraina.html</uri>
         <position>Context</position>
@@ -127,11 +127,17 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="130" org-id="801">
-        <name lang="de">Bundesamt für Energie (BFE)</name>
-        <name lang="fr">Office fédéral de l’énergie (OFEN)</name>
-        <name lang="it">Ufficio federale dell'energia (UFE)</name>
-        <name lang="en">Swiss Federal Office of Energy (SFOE)</name>
+      <keyword id="310" org-id="804">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Energiepolitik</name>
+        <name lang="it">Energiepolitik</name>
+        <name lang="en">Energiepolitik</name>
+      </keyword>
+      <keyword id="2086" org-id="804">
+        <name lang="de">Stromversorgung</name>
+        <name lang="fr">Approvisionnement en électricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="en">Electricity supply</name>
       </keyword>
     </keywords>
     <topics>
