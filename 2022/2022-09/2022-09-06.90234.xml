@@ -34,6 +34,21 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
+    <originator department-msg="no" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -76,6 +91,20 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>

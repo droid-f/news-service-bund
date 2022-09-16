@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90376" revoked="no">
-    <version>1</version>
+    <version>4</version>
     <pubdate>2022-09-15</pubdate>
     <type>Memorandum</type>
     <originator department-msg="yes" id="502" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="508" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">BASPO - Bundesamt für Sport</name>
+      <name lang="fr">OFSPO - Office fédéral du sport</name>
+      <name lang="it">UFSPO - Ufficio federale dello sport</name>
+      <name lang="en">Federal Office of Sports</name>
+      <www lang="de">http://www.baspo.admin.ch/</www>
+      <www lang="fr">http://www.baspo.admin.ch/</www>
+      <www lang="it">http://www.baspo.admin.ch/</www>
+      <www lang="en">http://www.baspo.admin.ch/</www>
+      <email lang="de">info@baspo.admin.ch</email>
+      <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
+      <email lang="en">info@baspo.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -37,24 +52,41 @@
       <city>Bern</city>
       <title>«Ein ganz Grosser tritt zurück» – Sportministerin Viola Amherd würdigt die Leistung von Roger Federer</title>
       <lead>Anlässlich seiner heutigen Rücktrittsankündigung würdigt die Schweizer Sportministerin, Bundesrätin Viola Amherd, den Ausnahmesportler Roger Federer für seine erfolgreiche Karriere.</lead>
-      <text link="no">&lt;p&gt;Bundesrätin Viola Amherd: «Mit Roger Federer hat heute ein ganz Grosser seinen Rücktritt vom Tenniscourt bekannt gegeben – und damit meine ich nicht nur den Ausnahmesportler, sondern auch den Menschen Roger Federer. &lt;/p&gt;&lt;p&gt;Es ist kein Geheimnis, dass ich ein grosser Tennis- und Roger Federer-Fan bin, und es war mir immer eine grosse Freude, ihn live spielen zu sehen. Speziell in Erinnerung bleiben wird mir das Wimbledonfinale 2019 – ein wahrer Krimi, der mich eine Achterbahn der Gefühle hat durchlaufen lassen.&lt;/p&gt;&lt;p&gt;Seine Leistung verdient Bewunderung: Er machte Sport auf allerhöchstem Niveau, und das während zwei Jahrzehnten. Mit 20 Grand Slams, 103 Turniersiegen, 310 Wochen als Nummer 1 – mit 237 Wochen ununterbrochen die längste Nummer 1 in Folge aller Zeiten – ist er definitiv ein Ausnahmeathlet und einer der besten Sportler, den die Schweiz je hatte. &lt;/p&gt;&lt;p&gt;Während seiner gesamten Karriere und bei all seinen Erfolgen ist Roger Feder auf und neben dem Tenniscourt immer bodenständig und ein wahrer Gentleman geblieben. &lt;/p&gt;&lt;p&gt;Er war auch ein grosses Vorbild für eine ganze Generation tennis- und generell sportbegeisterter Mädchen und Jungen. Er war und ist ein Vorbild für uns alle – auf und neben dem Platz. Für Jung und Alt, in der Schweiz und auf der ganzen Welt. Einen besseren Botschafter für unser Land kann ich mir nicht wünschen. &lt;/p&gt; &lt;p&gt;Ich gratuliere ihm herzlich zu seiner Karriere und hoffe, dass er dem Tennis auch in Zukunft noch auf die eine oder andere Weise erhalten bleiben wird. Alles Gute für diesen neuen Abschnitt.»&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Bundesrätin Viola Amherd: «Mit Roger Federer hat heute ein ganz Grosser seinen Rücktritt vom Tenniscourt bekannt gegeben – und damit meine ich nicht nur den Ausnahmesportler, sondern auch den Menschen Roger Federer. &lt;/p&gt;&lt;p&gt;Es ist kein Geheimnis, dass ich ein grosser Tennis- und Roger Federer-Fan bin, und es war mir immer eine grosse Freude, ihn live spielen zu sehen. Speziell in Erinnerung bleiben wird mir das Wimbledonfinale 2019 – ein wahrer Krimi, der mich eine Achterbahn der Gefühle hat durchlaufen lassen.&lt;/p&gt;&lt;p&gt;Seine Leistung verdient Bewunderung: Er machte Sport auf allerhöchstem Niveau, und das während zwei Jahrzehnten. Mit 20 Grand Slams, 103 Turniersiegen, 310 Wochen als Nummer 1 – mit 237 Wochen ununterbrochen die längste Nummer 1 in Folge aller Zeiten – ist er definitiv ein Ausnahmeathlet und einer der besten Sportler, den die Schweiz je hatte. &lt;/p&gt;&lt;p&gt;Während seiner gesamten Karriere und bei all seinen Erfolgen ist Roger Federer auf und neben dem Tenniscourt immer bodenständig und ein wahrer Gentleman geblieben. &lt;/p&gt;&lt;p&gt;Er war auch ein grosses Vorbild für eine ganze Generation tennis- und generell sportbegeisterter Mädchen und Jungen. Er war und ist ein Vorbild für uns alle – auf und neben dem Platz. Für Jung und Alt, in der Schweiz und auf der ganzen Welt.&lt;/p&gt;&lt;p&gt;Einen besseren Botschafter für unser Land kann ich mir nicht wünschen. &lt;/p&gt; &lt;p&gt;Ich gratuliere ihm herzlich zu seiner Karriere und hoffe, dass er dem Tennis auch in Zukunft noch auf die eine oder andere Weise erhalten bleiben wird. Alles Gute für diesen neuen Abschnitt.»&lt;/p&gt;</text>
       <contact>Renato Kalbermatten Chef Kommunikation VBS +41 58 464 88 75</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-09-16 09:02" type="R"/>
+        <revision date="2022-09-16 09:45" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
-      <title>«Ein ganz Grosser tritt zurück» – Sportministerin Viola Amherd würdigt die Leistung von Roger Federer (la version allemande suivra)</title>
-      <lead>Anlässlich seiner heutigen Rücktrittsankündigung würdigt die Schweizer Sportministerin, Bundesrätin Viola Amherd, den Ausnahmesportler Roger Federer für seine erfolgreiche Karriere.</lead>
-      <text link="no">&lt;p&gt;Bundesrätin Viola Amherd: «Mit Roger Federer hat heute ein ganz Grosser seinen Rücktritt vom Tenniscourt bekannt gegeben – und damit meine ich nicht nur den Ausnahmesportler, sondern auch den Menschen Roger Federer. &lt;/p&gt;&lt;p&gt;Es ist kein Geheimnis, dass ich ein grosser Tennis- und Roger Federer-Fan bin, und es war mir immer eine grosse Freude, ihn live spielen zu sehen. Speziell in Erinnerung bleiben wird mir das Wimbledonfinale 2019 – ein wahrer Krimi, der mich eine Achterbahn der Gefühle hat durchlaufen lassen.&lt;/p&gt;&lt;p&gt;Seine Leistung verdient Bewunderung: Er machte Sport auf allerhöchstem Niveau, und das während zwei Jahrzehnten. Mit 20 Grand Slams, 103 Turniersiegen, 310 Wochen als Nummer 1 – mit 237 Wochen ununterbrochen die längste Nummer 1 in Folge aller Zeiten – ist er definitiv ein Ausnahmeathlet und einer der besten Sportler, den die Schweiz je hatte. &lt;/p&gt;&lt;p&gt;Während seiner gesamten Karriere und bei all seinen Erfolgen ist Roger Feder auf und neben dem Tenniscourt immer bodenständig und ein wahrer Gentleman geblieben. &lt;/p&gt;&lt;p&gt;Er war auch ein grosses Vorbild für eine ganze Generation tennis- und generell sportbegeisterter Mädchen und Jungen. Er war und ist ein Vorbild für uns alle – auf und neben dem Platz. Für Jung und Alt, in der Schweiz und auf der ganzen Welt. Einen besseren Botschafter für unser Land kann ich mir nicht wünschen. &lt;/p&gt; Ich gratuliere ihm herzlich zu seiner Karriere und hoffe, dass er dem Tennis auch in Zukunft noch auf die eine oder andere Weise erhalten bleiben wird. Alles Gute für diesen neuen Abschnitt.»</text>
+      <title>« Un tout grand tire sa révérence » La ministre des sports Viola Amherd rend hommage à la carrière de Roger Federer</title>
+      <lead>À l’occasion de l’annonce de la retraite du sportif d’exception qu’est Roger Federer, la ministre suisse des sports, la conseillère fédérale Viola Amherd, a salué ses exploits.</lead>
+      <text link="no">&lt;p&gt;La conseillère fédérale Viola Amherd s’est exprimée en ces termes : « Aujourd’hui, c’est un tout grand qui a annoncé se retirer des courts de tennis – et je ne parle pas seulement du sportif d’exception qu’est Roger Federer, mais aussi de l’homme qu’il est. &lt;/p&gt;&lt;p&gt;Ce n’est pas un secret : je suis une grande fan de tennis et de Roger Federer, et c’était toujours un immense plaisir pour moi de pouvoir assister à l’un de ses matchs. Je garde un souvenir particulier de la finale de Wimbledon 2019 – un vrai film à suspense qui m’a fait vivre des montagnes russes émotionnelles. &lt;/p&gt;&lt;p&gt;Roger Federer a pratiqué son sport au plus haut niveau, et ce pendant deux décennies. Cette performance mérite l’admiration. En remportant 20 tournois du Grand Chelem et 103 victoires en simple, et en restant numéro un mondial pendant 310 semaines – dont 237 consécutives, ce qui est un record –, il est définitivement un sportif d’exception, un des meilleurs que la Suisse ait connu. &lt;/p&gt;&lt;p&gt;Tout au long de sa carrière et de ses succès, Roger Federer a toujours gardé les pieds sur terre et est resté un vrai gentleman, tant sur les courts de tennis qu’en dehors. &lt;/p&gt;&lt;p&gt;Il a également été un grand modèle pour toute une génération de filles et de garçons passionnés de tennis et de sport en général. Il a été et il reste un exemple pour nous tous, que ce soit sur le terrain ou en dehors. Pour les plus jeunes comme pour les plus âgés d’entre nous, en Suisse comme dans le monde entier.&lt;/p&gt;&lt;p&gt;Je ne peux pas rêver d’un meilleur ambassadeur pour notre pays. &lt;/p&gt;&lt;p&gt;Je le félicite chaleureusement pour sa carrière et j’espère qu’il restera dans le tennis d’une manière ou d’une autre. Tous mes meilleurs vœux pour cette nouvelle étape de vie. »&lt;/p&gt;</text>
       <contact>Renato Kalbermatten Chef Communication DDPS +41 58 464 88 75</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2022-09-16 09:30" type="R"/>
+        <revision date="2022-09-16 09:45" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
-      <title>«Ein ganz Grosser tritt zurück» – Sportministerin Viola Amherd würdigt die Leistung von Roger Federer (la versione tedesca segue)</title>
-      <lead>Anlässlich seiner heutigen Rücktrittsankündigung würdigt die Schweizer Sportministerin, Bundesrätin Viola Amherd, den Ausnahmesportler Roger Federer für seine erfolgreiche Karriere.</lead>
-      <text link="no">&lt;p&gt;Bundesrätin Viola Amherd: «Mit Roger Federer hat heute ein ganz Grosser seinen Rücktritt vom Tenniscourt bekannt gegeben – und damit meine ich nicht nur den Ausnahmesportler, sondern auch den Menschen Roger Federer. &lt;/p&gt;&lt;p&gt;Es ist kein Geheimnis, dass ich ein grosser Tennis- und Roger Federer-Fan bin, und es war mir immer eine grosse Freude, ihn live spielen zu sehen. Speziell in Erinnerung bleiben wird mir das Wimbledonfinale 2019 – ein wahrer Krimi, der mich eine Achterbahn der Gefühle hat durchlaufen lassen.&lt;/p&gt;&lt;p&gt;Seine Leistung verdient Bewunderung: Er machte Sport auf allerhöchstem Niveau, und das während zwei Jahrzehnten. Mit 20 Grand Slams, 103 Turniersiegen, 310 Wochen als Nummer 1 – mit 237 Wochen ununterbrochen die längste Nummer 1 in Folge aller Zeiten – ist er definitiv ein Ausnahmeathlet und einer der besten Sportler, den die Schweiz je hatte. &lt;/p&gt;&lt;p&gt;Während seiner gesamten Karriere und bei all seinen Erfolgen ist Roger Feder auf und neben dem Tenniscourt immer bodenständig und ein wahrer Gentleman geblieben. &lt;/p&gt;&lt;p&gt;Er war auch ein grosses Vorbild für eine ganze Generation tennis- und generell sportbegeisterter Mädchen und Jungen. Er war und ist ein Vorbild für uns alle – auf und neben dem Platz. Für Jung und Alt, in der Schweiz und auf der ganzen Welt. Einen besseren Botschafter für unser Land kann ich mir nicht wünschen. &lt;/p&gt; Ich gratuliere ihm herzlich zu seiner Karriere und hoffe, dass er dem Tennis auch in Zukunft noch auf die eine oder andere Weise erhalten bleiben wird. Alles Gute für diesen neuen Abschnitt.»</text>
+      <title>«Il ritiro di un grande sportivo» – la ministra dello sport Viola Amherd rende omaggio alla carriera di Roger Federer</title>
+      <lead>In occasione dell’annuncio del suo ritiro la ministra svizzera dello sport, la consigliera federale Viola Amherd, rende omaggio allo sportivo d’eccezione Roger Federer per la sua carriera ricca di successi.</lead>
+      <text link="no">&lt;p&gt;La consigliera federale Viola Amherd si è espressa in questi termini: «L’annuncio del ritiro di Roger Federer segna oggi l’addio ai campi da tennis non solo di un grande sportivo, ma anche di un grande uomo.» &lt;/p&gt;&lt;p&gt;Non è un segreto che sono una grande fan del tennis e di Roger Federer ed è sempre stato un piacere vederlo giocare dal vivo. Rimarrà particolarmente impressa nella mia memoria la finale di Wimbledon 2019, un vero e proprio thriller, con un altalenarsi continuo di emozioni.&lt;/p&gt;&lt;p&gt;Le sue prestazioni meritano ammirazione: ha praticato sport ad altissimi livelli per due decenni. Con 20 Grandi Slam, 103 tornei vinti, 310 settimane da numero 1 – detenendo il primato di 237 settimane consecutive in vetta alla classifica – è sicuramente un atleta eccezionale e uno dei migliori sportivi che la Svizzera abbia mai avuto. &lt;/p&gt;&lt;p&gt;Durante tutta la sua carriera, e nonostante tutti i suoi successi, Roger Feder è sempre rimasto con i piedi per terra e si è dimostrato un vero gentiluomo, sia dentro che fuori dal campo. &lt;/p&gt;&lt;p&gt;È stato anche un grande esempio per un’intera generazione di ragazze e ragazzi appassionati di tennis e di sport in generale. È stato e rimane un modello per tutti noi, sia sui campi da tennis che nella vita. Per i giovani e i meno giovani, in Svizzera e in tutto il mondo. &lt;/p&gt;&lt;p&gt;Non posso desiderare un ambasciatore migliore per il nostro Paese. &lt;/p&gt;&lt;p&gt;Mi congratulo vivamente con lui per la sua carriera e spero che continui a rimanere nel mondo del tennis in un modo o nell’altro. I miei migliori auguri per questo nuovo periodo della sua vita.»&lt;/p&gt;</text>
       <contact>Renato Kalbermatten Capo Comunicazione DDPS +41 58 464 88 75</contact>
+      <revisions>
+        <revision date="2022-09-16 09:30" type="R"/>
+        <revision date="2022-09-16 09:45" type="R"/>
+      </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>‘One of the all-time greats’ – sports minister Viola Amherd pays tribute to Roger Federer’s extraordinary career</title>
+      <lead>As Roger Federer announces his retirement, Swiss sports minister Viola Amherd pays tribute to the career of this extraordinary athlete.</lead>
+      <text link="no">&lt;p&gt;Federal Councillor Viola Amherd: “Today Roger Federer, one of the all-time tennis greats, has announced his retirement. He is not only an exceptional athlete, but a man of exceptional character as well. &lt;/p&gt;&lt;p&gt;I am known to be a great fan of tennis – and of Roger Federer – and it was always a pleasure watching him play live. The 2019 Wimbledon final remains an unforgettable highlight for me – an epic battle packed with intensity and emotion for players and spectators alike.&lt;/p&gt;&lt;p&gt;Federer’s achievements are simply awe-inspiring. He has played at the pinnacle of his sport for more than 20 years, winning 20 grand slams and 103 ATP singles titles. He has spent 310 weeks as world No 1, including a record streak of 237 consecutive weeks. He is an extraordinary athlete by any measure and one of Switzerland’s most iconic sports figures. &lt;/p&gt;&lt;p&gt;And yet Roger Federer has remained firmly grounded, both on and off the court, throughout his storied career. He has always been a true gentleman. &lt;/p&gt;&lt;p&gt;This made him the perfect role model for an entire generation of girls and boys who loved tennis, and sports more broadly. It is not too much to say that he has been a role model for all of us – young and old, in Switzerland and around the world – both in sports and in life.&lt;/p&gt;&lt;p&gt;I can’t imagine a better ambassador for our country. &lt;/p&gt;&lt;p&gt;My heartfelt congratulations to Roger Federer on his legendary career. I hope that tennis will remain a positive force in his life, and wish him all the very best as he begins this new chapter.”&lt;/p&gt;</text>
+      <contact>Renato Kalbermatten DDPS Head of Communication +41 58 464 88 75</contact>
       <revisions> </revisions>
     </content>
     <keywords>
@@ -79,5 +111,13 @@
         <name lang="en">Sport</name>
       </topic>
     </topics>
+    <catalogueElements>
+      <catalogueElement id="107">
+        <name lang="de">Viola Amherd</name>
+        <name lang="fr">Viola Amherd</name>
+        <name lang="it">Viola Amherd</name>
+        <name lang="en">Viola Amherd</name>
+      </catalogueElement>
+    </catalogueElements>
   </message>
 </messages>
