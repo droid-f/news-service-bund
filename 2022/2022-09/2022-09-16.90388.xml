@@ -34,6 +34,21 @@
       <email lang="it">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -61,6 +76,20 @@
       <email lang="fr">info@gs-efd.admin.ch</email>
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -116,29 +145,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="35">
-        <name lang="de">Finanzplatz</name>
-        <name lang="fr">Place financière</name>
-        <name lang="it">Piazza finanziaria</name>
-        <name lang="en">Financial Centre</name>
-      </topic>
       <topic id="39">
         <name lang="de">Schweiz und Ausland</name>
         <name lang="fr">Suisse et étranger</name>
         <name lang="it">Svizzero ed estero</name>
         <name lang="en">Switzerland and Foreign Affairs</name>
-      </topic>
-      <topic id="44">
-        <name lang="de">Steuern</name>
-        <name lang="fr">Impôts</name>
-        <name lang="it">Imposte</name>
-        <name lang="en">Taxation</name>
-      </topic>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
