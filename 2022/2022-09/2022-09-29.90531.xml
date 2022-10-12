@@ -19,6 +19,21 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
+    <originator department-msg="no" id="806" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Zivilluftfahrt</name>
+      <name lang="fr">Office fédéral de l'aviation civile</name>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="en">Federal Office of Civil Aviation</name>
+      <www lang="de">http://www.bazl.admin.ch</www>
+      <www lang="fr">http://www.bazl.admin.ch</www>
+      <www lang="it">http://www.bazl.admin.ch</www>
+      <www lang="en">http://www.bazl.admin.ch</www>
+      <email lang="de">info@bazl.admin.ch</email>
+      <email lang="fr">info@bazl.admin.ch</email>
+      <email lang="it">info@bazl.admin.ch</email>
+      <email lang="en">info@bazl.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">armasuisse</name>
@@ -149,11 +164,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="11">
-        <name lang="de">Energie</name>
-        <name lang="fr">Énergie</name>
-        <name lang="it">Energia</name>
-        <name lang="en">Energy</name>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
       </topic>
     </topics>
   </message>
