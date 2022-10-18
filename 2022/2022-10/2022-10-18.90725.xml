@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="90725" revoked="no">
+    <version>1</version>
+    <pubdate>2022-10-18</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="101" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="609" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bug-Bounty-Programm für das zentrale Zugriffssystem eIAM des Bundes durchgeführt</title>
+      <lead>Vom 30. August bis 11. Oktober hat die Bundesverwaltung ein Bug-Bounty-Programm auf dem zentralen Zugriffssystem eIAM des Bundes durchgeführt. Mit der Überprüfung durch ethische Hacker konnte die Sicherheit des Systems weiter gestärkt werden. </lead>
+      <text link="no">&lt;p&gt;Das Zugriffs- und Berechtigungssystem der Bundesverwaltung ist die zentrale Login-Infrastruktur des Bundes. Der Service wird von über 1’000 Fachapplikationen verwendet. Über die eIAM-Infrastruktur erfolgen durchschnittlich 550’000 Anmeldungen pro Tag. Die Sicherheit dieser Infrastruktur ist für den Bund bedeutend. &lt;/p&gt;&lt;p&gt;Bug-Bounty-Programme dienen ergänzend zu anderen Sicherheitsmassahmen dazu, allfällige Verwundbarkeiten in IT-Systemen und in Anwendungen in Zusammenarbeit mit sogenannten ethischen Hackern zu identifizieren, zu dokumentieren und zu beheben. Ethische Hacker verpflichten sich, im Gegensatz zu kriminell motivierten Hackern, sich an rechtliche Vorgaben zu halten und handeln im Einverständnis der Betroffenen. Nach dem Pilot-Projekt des Nationalen Zentrums für Cybersicherheit (NCSC) vergangenes Jahr wurde nun eIAM einer Prüfung unterzogen. Das Bug-Bounty-Programm hat zwischen dem 30. August und dem 11. Oktober mit insgesamt 32 eingeladenen ethischen Hackern stattgefunden. &lt;/p&gt;&lt;p&gt;Der für den eIAM-Service verantwortliche Bereich Digitale Transformation und IKT-Lenkung (DTI) der Bundeskanzlei, das Bundesamt für Informatik und Telekommunikation (BIT) als Systembetreiberin und das für das Bug-Bounty-Programm zuständige NCSC haben diese Systemüberprüfung gemeinsam mit der Firma Bug Bounty Switzerland AG durchgeführt.&lt;/p&gt;&lt;p&gt;Die Schwachstellen wurden anhand einer weltweit anerkannten Skala in «tief» (optionale Behebung), «mittel» (Behebung beim nächsten Release), «hoch» (rasche Behebung) oder «kritisch» (sofortige Behebung) eingestuft. Gesamthaft wurden 28 Schwachstellen gemeldet, davon 14 als gültig befunden und akzeptiert. Sämtliche Lücken wurden umgehend analysiert und bearbeitet. Eine Schwachstelle wurde als «hoch» eingestuft. Neun wurden als «mittel» und vier als «tief» klassifiziert. Kritische Sicherheitslücken wurden keine gefunden. Die ethischen Hacker erhielten insgesamt 5’700 Franken als Belohnung für die bestätigten Schwachstellen. &lt;/p&gt;&lt;p&gt;Mit diesem ersten Bug-Bounty-Programm konnten wertvolle Erfahrungen gesammelt werden. Das Programm hat gezeigt, dass mittels dieser Methode bisher unerkannte Schwachstellen in IT-Systemen und Anwendungen effizient identifiziert und behoben werden können. Es wird geprüft, diese Art der externen Sicherheitsüberprüfung für eIAM weiterzuführen.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Bug-Bounty-Programm des Bundes&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Standardisierte Sicherheitstests reichen heute häufig nicht mehr aus, um die versteckten Lücken zu finden. Das im Frühjahr 2021 durchgeführte Pilotprojekt hat gezeigt, dass mittels Bug-Bounty-Programmen Schwachstellen in IT-Systemen und Anwendungen effizient identifiziert und behoben werden können. Aufgrund dieser Erkenntnisse hat der Bund im August 2022 eine Plattform für Bug-Bounty-Programme beschafft. Unter der Federführung des NCSC sollen in Zukunft ethische Hacker im Rahmen von sogenannten Bug-Bounty-Programmen die produktiven IT-Systeme und Applikationen der Bundesverwaltung nach Schwachstellen durchsuchen. Mit eIAM wurde nun eine erste Anwendung im Rahmen dieses Programms geprüft. &lt;br /&gt;Ethische Hacker, die interessiert sind, die Systeme der Bundesverwaltung im Rahmen von künftigen Bug-Bounty-Programmen zu prüfen und am Bug-Bounty-Programm des Bundes teilzunehmen, können sich unter folgendem Link registrieren: www.bugbounty.ch/ncsc&lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Florian Imbach Sektion Kommunikation Tel. 058 465 47 40 florian.imbach@bk.admin.ch Kommunikation NCSC Tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="236854">
+        <title>Bericht - Bug-Bounty-Programm eIAM</title>
+        <format>pdf</format>
+        <size-kb>239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73487.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="236857">
+        <title>Medienmitteilung des NCSC vom 3. August 2022 - Bundesverwaltung beschafft Plattform für Bug Bounty-Programme</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/medienmitteilungen/newslist.msg-id-89868.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Programme de primes aux bogues pour le système central d’accès de la Confédération eIAM</title>
+      <lead>Du 30 août au 11 octobre, l’administration fédérale a mené un programme de primes aux bogues sur le système central d’accès de la Confédération eIAM. Les tests effectués par des pirates éthiques ont permis de renforcer la sécurité du système.</lead>
+      <text link="no">&lt;p&gt;Le système d’accès et d’autorisations de l’administration fédérale est l’infrastructure de connexion centrale de la Confédération. Il est utilisé par plus de 1000 applications spécialisées. L’infrastructure eIAM gère en moyenne 550 000 connexions par jour. La Confédération accorde beaucoup d’importance à sa sécurité. &lt;/p&gt;&lt;p&gt;Pour garantir celle-ci, différentes mesures sont utilisées, dont les programmes de primes aux bogues (&lt;i&gt;bug bounty programme&lt;/i&gt;), qui visent à identifier, documenter et corriger, avec l’aide de pirates éthiques, les éventuelles vulnérabilités des systèmes et applications informatiques. Les pirates éthiques, contrairement aux pirates à motivation criminelle, s’engagent à respecter la loi et agissent avec le consentement des acteurs concernés. Après le projet pilote du Centre national pour la cybersécurité (NCSC) mené l’année dernière, le système eIAM a maintenant fait l'objet d'un tel test. Le programme de primes aux bogues, auquel 32 pirates éthiques ont participé, s’est déroulé du 30 août au 11 octobre. &lt;/p&gt;&lt;p&gt;Le secteur Transformation numérique et gouvernance de l’informatique (TNI) de la Chancellerie fédérale, responsable du service eIAM, l’Office fédéral de l’informatique et de la télécommunication (OFIT), responsable de son exploitation, et le NCSC, responsable du programme de primes aux bogues, ont mené le projet en collaboration avec la société Bug Bounty Switzerland SA.&lt;/p&gt;&lt;p&gt;Les vulnérabilités ont été classées en fonction de leur criticité comme « faible » (correction optionnelle), « moyenne » (correction à l’occasion de la prochaine version), « élevée » (correction rapide) ou « critique » (correction immédiate) selon une échelle acceptée dans le monde entier. Au total, 28 vulnérabilités ont été signalées. 14 d’entre elles ont été reconnues comme valables. Les failles ont toutes été immédiatement analysées et traitées. Une vulnérabilité a été considérée comme « élevée ». Neuf ont été considérées comme « moyennes » et quatre comme « faibles ». Aucune vulnérabilité « critique » n’a été trouvée. Le total des récompenses versées aux pirates éthiques pour les failles qu’ils ont découvertes s’élève à 5 700 francs. &lt;/p&gt;&lt;p&gt;Ce premier programme de primes aux bogues a permis d’acquérir une expérience précieuse. Il s’est avéré être effectivement un outil efficace pour identifier et corriger les vulnérabilités des systèmes et applications informatiques. La Confédération envisage d’autres contrôles de sécurité externes de ce genre pour eIAM.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Programme de primes aux bogues de la Confédération&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Aujourd’hui, les tests de sécurité standardisés ne suffisent souvent plus pour trouver les failles cachées. Le projet pilote mené au printemps 2021 a montré que les programmes de primes aux bogues étaient efficaces pour identifier et corriger les vulnérabilités des systèmes et applications informatiques. Dès lors, la Confédération a décidé d’acquérir, en août 2022, une plateforme pour ce type de programmes. Sous la conduite du NCSC, des pirates éthiques sont invités à chercher les failles des systèmes et applications informatiques de l’administration fédérale dans le cadre de programmes de primes aux bogues. eIAM est la première application à avoir été testée dans ce cadre. &lt;br /&gt;Les pirates qui souhaitent participer aux prochains programmes de primes aux bogues de la Confédération peuvent s’inscrire à l’adresse suivante : www.bugbounty.ch/ncsc &lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Florian Imbach Section Communication Tél. 058 465 47 40 florian.imbach@bk.admin.ch Communication NCSC Tél. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="236855">
+        <title>Rapport - Programme de primes aux bogues eIAM</title>
+        <format>pdf</format>
+        <size-kb>267</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73488.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="236858">
+        <title>Communiqué du NCSC du 3 août 2022 - L’administration fédérale fait l’acquisition d’une plateforme destinée aux programmes de primes aux bogues</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/fr/home/dokumentation/medienmitteilungen/newslist.msg-id-89868.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Svolto il programma «bug bounty» per il sistema centrale di accesso della Confederazione eIAM</title>
+      <lead>Dal 30 agosto all’11 ottobre 2022, l’Amministrazione federale ha condotto un programma «bug bounty» sull’eIAM, il sistema di accesso centrale della Confederazione. I controlli effettuati dagli hacker etici hanno permesso di rafforzare la sicurezza del sistema. </lead>
+      <text link="no">&lt;p&gt;Il sistema di accesso e autorizzazione dell’Amministrazione federale è l’infrastruttura di connessione centrale della Confederazione. Vi fanno capo oltre 1000 applicazioni specialistiche. L’eIAM gestisce una media di 550 000 connessioni al giorno. La sicurezza di questa infrastruttura è quindi fondamentale per la Confederazione. &lt;/p&gt;&lt;p&gt;A complemento di altre misure volte a garantire la sicurezza, i programmi «bug bounty» prevedono il coinvolgimento di hacker etici per identificare, documentare e risolvere le potenziali vulnerabilità dei sistemi e delle applicazioni IT. Gli hacker etici, a differenza di quelli mossi da propositi criminali, operano legalmente su richiesta delle parti interessate. Dopo il successo del progetto pilota condotto lo scorso anno dal Centro nazionale per la cibersicurezza (NCSC), l’eIAM è stato sottoposto a tale verifica. 32 hacker etici hanno accettato l’invito a partecipare al programma «bug bounty» che si è svolto dal 30 agosto all’11 ottobre. &lt;/p&gt;&lt;p&gt;La Bug Bounty Switzerland AG ha svolto la verifica di sistema di cui sopra in collaborazione con il settore Trasformazione digitale e governance delle TIC (TDT) della Cancelleria federale, responsabile del servizio eIAM, con l’Ufficio federale dell’informatica e della telecomunicazione (UFIT), che gestisce il sistema, e con l’NCSC, responsabile del programma «bug bounty».&lt;/p&gt;&lt;p&gt;Le vulnerabilità sono state classificate – secondo una scala di criticità riconosciuta a livello internazionale – come «bassa» (la correzione è facoltativa), «media» (la correzione è prevista in occasione della versione successiva), «elevata» (la correzione è necessaria quanto prima) o «critica» (la correzione è necessaria immediatamente). In totale sono state identificate 28 vulnerabilità, 14 delle quali sono state confermate. Tutte le vulnerabilità sono state analizzate ed elaborate immediatamente. Una delle vulnerabilità segnalate è stata classificata come «elevata». Nove sono state considerate «medie» e quattro «basse». Non sono state trovate vulnerabilità «critiche». Le ricompense versate complessivamente agli hacker etici per le vulnerabilità individuate ammontano a 5 700 franchi.&lt;/p&gt;&lt;p&gt;Questo primo programma «bug bounty» ha permesso di acquisire un’esperienza preziosa: si è infatti rivelato uno strumento efficace per identificare e correggere le vulnerabilità finora sconosciute dei sistemi e delle applicazioni IT. Attualmente la Confederazione sta valutando la possibilità di effettuare altri controlli di sicurezza esterni di questo tipo per l’eIAM.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Il programma «bug bounty» della Confederazione&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;Oggi i test di sicurezza standardizzati spesso non sono più sufficienti per individuare vulnerabilità nascoste. Il progetto pilota condotto nella primavera del 2021 ha dimostrato che i programmi «bug bounty» sono stati efficaci nell’identificare e correggere le vulnerabilità dei sistemi e delle applicazioni IT. La Confederazione ha pertanto deciso di acquisire, nell’agosto 2022, una piattaforma per questo tipo di programmi. Sotto la guida dell’NCSC, gli hacker etici sono invitati a cercare le vulnerabilità nei sistemi e nelle applicazioni informatiche dell’Amministrazione federale nell’ambito dei programmi «bug bounty». L’eIAM è la prima applicazione a essere testata in questo settore. &lt;br /&gt;Gli hacker etici interessati a testare i sistemi dell’Amministrazione federale nell’ambito di futuri programmi «bug bounty» e a partecipare al programma «bug bounty» della Confederazione possono annunciarsi al seguente link: www.bugbounty.ch/ncsc&lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Florian Imbach Sezione Comunicazione tel. 058 465 47 40 florian.imbach@bk.admin.ch Comunicazione NCSC tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="236856">
+        <title>Rapporto - Programma bug bounty eIAM</title>
+        <format>pdf</format>
+        <size-kb>240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73489.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="236859">
+        <title>Comunicato stampa dell’NCSC del 3 agosto 2022 - L’Amministrazione federale acquisisce una piattaforma per i programmi «bug bounty»</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/it/home/dokumentation/medienmitteilungen/newslist.msg-id-89868.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Bug bounty programme carried out for the Confederation's eIAM central access system</title>
+      <lead>The Federal Administration carried out a bug bounty programme for eIAM, the Confederation’s central access system, from 30 August to 11 October. System security was further strengthened through a review by ethical hackers. </lead>
+      <text link="no">&lt;p&gt;The access and permissions system of the Federal Administration is the Confederation’s central login infrastructure. Used by more than 1,000 applications, eIAM is used to carry out an average of 550,000 logins per day. The security of this infrastructure is therefore critical for the Confederation. &lt;/p&gt;&lt;p&gt;Bug bounty programmes bring in ethical hackers to identify, document and resolve potential vulnerabilities in IT systems and applications, as a complement to other security measures. Unlike their criminal counterparts, ethical hackers operate legally at the request of the parties involved. Following on from last year’s successful pilot project run by the National Cyber Security Centre (NCSC), eIAM has now been put through a review. Thirty-two ethical hackers accepted the invitation to participate in a bug bounty programme that took place from 30 August to 11 October. &lt;/p&gt;&lt;p&gt;Bug Bounty Switzerland AG carried out the system tests in cooperation with the Federal Chancellery’s Digital Transformation and ICT Steering Sector (DTI Sector), which is responsible for the eIAM service; the Federal Office of Information Technology, Systems and Telecommunication (FOITT), which operates the system; and the NCSC, which heads up the bug bounty programme.&lt;/p&gt;&lt;p&gt;The severity of vulnerabilities was classified according to an internationally recognised system: low (fix is optional), medium (fix provided with next release), high (fix required urgently) and critical (fix required immediately). A total of 28 potential vulnerabilities were identified, with 14 of them confirmed. All vulnerabilities were analysed and processed immediately. One of the vulnerabilities was classified as high severity, nine were considered to be of medium severity and four were classified as low. No critical security loopholes were found. A total of CHF 5,700 was awarded to the ethical hackers as a reward for the confirmed vulnerabilities. &lt;/p&gt;&lt;p&gt;This inaugural bug bounty programme was a valuable experience, demonstrating that the method provides an efficient way to discover and resolve hidden vulnerabilities in IT systems and applications. The possibility of continuing to use external security reviews for eIAM is currently under consideration.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;The Confederation’s bug bounty programme&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Standardised security tests are often no longer sufficient to uncover hidden loopholes. A spring 2021 pilot project showed that bug bounty programmes provide an efficient method to discover and close vulnerabilities in IT systems and applications. The Confederation therefore created a platform for bug bounty programmes in August 2022. The NCSC will head up the platform, which brings in ethical hackers to search for vulnerabilities in the Federal Administration’s productive IT systems and applications. eIAM is now the first such application to be tested as part of the programme. &lt;br /&gt;Ethical hackers who are interested in testing Federal Administration systems by joining future editions of the Confederation’s bug bounty programme can register at www.bugbounty.ch/ncsc. &lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Florian Imbach Communications Section Tel. 058 465 47 40 florian.imbach@bk.admin.ch NCSC Media Tel. 058 465 04 64 ncsc-media@gs-efd.admin.ch</contact>
+      <attachment id="236854">
+        <title>Bericht - Bug-Bounty-Programm eIAM</title>
+        <format>pdf</format>
+        <size-kb>239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73487.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="236860">
+        <title>Federal Administration procures platform for bug bounty programmes</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/medienmitteilungen/newslist.msg-id-89868.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+      <offer id="351" org-id="602">
+        <name lang="de">NCSC - Nationales Zentrum für Cybersicherheit</name>
+        <name lang="fr">NCSC - Centre national pour la cybersécurité</name>
+        <name lang="it">NCSC - Centro nazionale per la cibersicurezza</name>
+        <name lang="en">NCSC - National Cyber Security Centre</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="176" org-id="602">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-government</name>
+      </keyword>
+      <keyword id="175" org-id="602">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
+      </keyword>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
