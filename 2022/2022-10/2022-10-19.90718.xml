@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90718" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-10-19</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,13 +63,27 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Gewalt in der Erziehung: Prävention statt neue Gesetze</title>
       <lead>Die geltenden Gesetze zum Schutz von Kindern und Jugendlichen vor Gewalt in der Erziehung sind ausreichend. Ein neuer Gesetzesartikel ist nicht nötig. Zu diesem Schluss kommt der Bundesrat in einem Bericht, den er an seiner Sitzung vom 19. Oktober 2022 verabschiedet hat. Im Auftrag des Nationalrats legt er aber eine Formulierung für eine Bestimmung im Zivilgesetzbuch (ZGB) vor, mit der die gewaltfreie Erziehung im Sinne eines Leitbildes im Gesetz verankert werden könnte.</lead>
       <text link="no"> &lt;p&gt;Gemäss geltendem Recht ist Gewalt gegenüber Kindern und Jugendlichen im Rahmen der elterlichen Erziehung verboten. So hält die Bundesverfassung das Recht von Kindern und Jugendlichen auf besonderen Schutz der körperlichen und psychischen Gesundheit fest. Auch die Gesetzesbestimmungen im Strafrecht und im zivilrechtlichen Kindesschutz schützen Kinder und Jugendliche vor Gewalt. &lt;/p&gt; &lt;p&gt;In seinem Bericht zum Postulat 20.3185 kommt der Bundesrat deshalb zum Schluss, dass eine zusätzliche Gesetzesbestimmung den rechtlichen Schutz von Kindern und Jugendlichen vor Gewalt im familiären Umfeld nicht erhöhen würde. Das Ziel der gewaltfreien Erziehung wird nach Ansicht des Bundesrats in erster Linie durch die aktive Sensibilisierung der Gesellschaft und durch die Unterstützung von Kindern und Familien in schwierigen Situationen erreicht. &lt;/p&gt; &lt;p&gt;In Erfüllung des Postulats hat der Bundesrat trotzdem geprüft, wie der Schutz von Kindern vor Gewalt in der Erziehung im ZGB verankert werden könnte. Eine spezifische Norm, welche die Pflicht der Eltern zur gewaltfreien Erziehung festhalten würde, hätte programmatischen Charakter und könnte als Grundlage für verstärkte Präventionsarbeiten dienen. Im Sinne eines Leitbildes wäre der Fokus auf das Wohl des Kindes und auf die Unterstützungsangebote gerichtet. Zudem könnte die Bestimmung mit einer Regelung über den Zugang zu Stellen mit Beratungs- und Hilfsangeboten ergänzt werden. Neue Rechte für Kinder und Jugendliche oder Pflichten für die Eltern würden damit nicht geschaffen. &lt;/p&gt;&lt;p&gt; Es ist nun am Parlament zu entscheiden, ob der Schutz von Kindern vor Gewalt in der Erziehung als Leitbild ausdrücklich im ZGB verankert werden soll, wie das die Motion 19.4632 verlangt. Diese wurde vom Nationalrat angenommen und ist derzeit im Ständerat hängig. Der Bundesrat empfiehlt die Motion zur Ablehnung.&lt;/p&gt;</text>
       <contact>Nicole Hitz Quenon, Bundesamt für Justiz, T +41 58 460 84 62, nicole.hitzquenon@bj.admin.ch</contact>
-      <attachment id="236835">
+      <attachment id="237209">
         <title>Bericht des Bundesrates</title>
         <format>pdf</format>
         <size-kb>662</size-kb>
@@ -98,11 +98,11 @@
       <lead>Les lois en vigueur suffisent à protéger les enfants et les jeunes contre la violence dans l’éducation. Une nouvelle disposition légale n’est donc pas nécessaire. C’est la conclusion à laquelle le Conseil fédéral aboutit dans le rapport qu’il a adopté le 19 octobre 2022. À la demande du Conseil national, il soumet toutefois une proposition de formulation pour une nouvelle disposition dans le code civil (CC) qui permettrait de consacrer l’éducation sans violence au titre de principe directeur.</lead>
       <text link="no"> &lt;p&gt;Le droit en vigueur interdit aux parents d'user de violence pour éduquer leurs enfants. La Constitution consacre déjà le droit des enfants et des jeunes à une protection particulière de leur intégrité physique et psychique. Les dispositions du droit civil et du droit pénal les protègent également face à la violence. &lt;/p&gt; &lt;p&gt;Dans son rapport donnant suite au postulat 20.3185, le Conseil fédéral conclut donc qu'une disposition supplémentaire n'accroîtrait pas la protection juridique des enfants et des jeunes face à la violence dans le contexte familial. Le Conseil fédéral estime que ce sont avant tout la sensibilisation active de la société et le soutien aux enfants et aux familles en difficulté qui permettent de lutter contre la violence. &lt;/p&gt; &lt;p&gt;Comme le postulat l'y invitait, le Conseil fédéral a néanmoins examiné de quelle manière la protection des enfants contre la violence dans l'éducation pourrait être inscrite dans le CC. Une norme programmatique qui entérinerait l'obligation des parents d'éduquer leurs enfants sans violence pourrait servir de base au renforcement des efforts de prévention. Elle servirait de principe directeur et mettrait l'accent sur le bien de l'enfant et les offres de soutien. Cette norme pourrait en outre être complétée par une disposition sur l'accès aux offres de conseil et de soutien. Elle ne créerait donc pas de nouveaux droits pour les enfants et les jeunes, ni de nouvelles obligations pour les parents. &lt;/p&gt; &lt;p&gt;Il appartient désormais au Parlement de décider si la protection des enfants face à la violence dans l'éducation doit être inscrite en tant que principe directeur dans le CC, comme le demande la motion 19.4632. Acceptée par le Conseil national, cette motion doit encore être traitée par le Conseil des États. Le Conseil fédéral en recommande le rejet. &lt;/p&gt; </text>
       <contact>Nicole Hitz Quenon, Office fédéral de la justice, T +41 58 460 84 62, nicole.hitzquenon@bj.admin.ch</contact>
-      <attachment id="236836">
+      <attachment id="237210">
         <title>Rapport du Conseil fédéral</title>
         <format>pdf</format>
-        <size-kb>647</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73483.pdf</uri>
+        <size-kb>723</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73564.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
@@ -113,18 +113,18 @@
       <lead>Le vigenti leggi per la protezione dei bambini e dei giovani dalla violenza nell’educazione sono sufficienti. Non è quindi necessario introdurre un nuovo articolo di legge. Questa è la conclusione cui è giunto il Consiglio federale in un rapporto adottato nella seduta del 12 ottobre 2022. Tuttavia, su incarico del Parlamento, presenta una proposta per una nuova disposizione da inserire nel Codice civile (CC) al fine di ancorare nella legge l’educazione non violenta come quadro orientativo.</lead>
       <text link="no"> &lt;p&gt;Secondo il diritto vigente, è vietata la violenza contro bambini e giovani nel contesto educativo familiare. Ad esempio, la Costituzione federale stabilisce il diritto dei bambini e dei giovani a una particolare tutela della salute fisica e psichica. Anche le disposizioni di diritto penale e civile tutelano i bambini e i giovani dalla violenza.&lt;/p&gt; &lt;p&gt;Nel suo rapporto in adempimento del postulato 20.3185 il Consiglio federale giunge pertanto alla conclusione che un'ulteriore disposizione di legge non aumenterebbe la tutela giuridica dei bambini e dei giovani dalla violenza nel contesto familiare e ritiene che l'obiettivo dell'educazione non violenta possa essere conseguito in primo luogo sensibilizzando attivamente la società e offrendo sostegno a bambini e famiglie in situazioni difficili.&lt;/p&gt; &lt;p&gt;In adempimento del summenzionato postulato, il Consiglio federale ha ugualmente verificato come si potrebbe ancorare nel CC la protezione dei bambini dalla violenza nell'educazione. Una norma specifica, che stabilirebbe il dovere dei genitori di educare senza usare la violenza, avrebbe carattere programmatico e potrebbe fungere da base per potenziare il lavoro di prevenzione. Nell'ottica di questo quadro orientativo, l'attenzione sarebbe concentrata sul bene del minore e sulle offerte di sostegno. Inoltre, la disposizione potrebbe essere integrata disciplinando l'accesso a servizi che offrono consulenza e aiuto. In questo modo non si creerebbero nuovi diritti per bambini e giovani né nuovi doveri per i genitori.&lt;/p&gt; &lt;p&gt;Ora spetta al Parlamento decidere se la protezione dei minori dalla violenza nell'educazione debba essere espressamente sancita nel CC a titolo di quadro orientativo come chiesto dalla mozione 19.4632. Questa è stata accolta dal Consiglio nazionale ed è attualmente pendente presso il Consiglio degli Stati. Il Consiglio federale raccomanda di respingerla.&lt;/p&gt; </text>
       <contact>Nicole Hitz Quenon, Ufficio federale di giustizia, T +41 58 460 84 62, nicole.hitzquenon@bj.admin.ch</contact>
-      <attachment id="236835">
+      <attachment id="237209">
         <title>Bericht des Bundesrates</title>
         <format>pdf</format>
         <size-kb>662</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/73482.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="236836">
+      <attachment id="237210">
         <title>Rapport du Conseil fédéral</title>
         <format>pdf</format>
-        <size-kb>647</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73483.pdf</uri>
+        <size-kb>723</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73564.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
