@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="90870" revoked="no">
+    <version>1</version>
+    <pubdate>2022-10-25</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Integration auf einem Chip: Miniaturisierte Infrarot-Detektoren</title>
+      <lead>Die weitere Miniaturisierung von Infrarot- oder IR-Detektoren ist entscheidend für ihre Integration in die nächste Generation von Unterhaltungselektronik, «Wearables» und Kleinstsatelliten. Bislang waren IR-Detektoren jedoch auf sperrige (und teure) Materialien und Technologien angewiesen. Einem Team von Wissenschaftlern unter der Leitung des Empa-Forschers Ivan Shorubalko ist es nun gelungen, ein kostengünstiges Miniaturisierungsverfahren für IR-Spektrometer auf Basis eines Quantenpunkt-Photodetektors zu entwickeln, das auf einem einzigen Chip integriert werden kann, wie sie in der aktuellen Ausgabe des Wissenschaftsjournals «Nature Photonics» berichten.</lead>
+      <text link="no">Die Miniaturisierung von Infrarotspektrometern ermöglicht einen breiteren Einsatz in der Konsumgüterelektronik, etwa in Smartphones zur Lebensmittelkontrolle, zum Nachweis gefährlicher Chemikalien, zur Überwachung der Luftverschmutzung oder in tragbaren elektronischen Geräten. Sie können für den schnellen und einfachen Nachweis bestimmter Chemikalien verwendet werden, ohne dass eine Laborausrüstung erforderlich ist. Darüber hinaus können sie für den Nachweis gefälschter Medikamente und von Treibhausgasen wie Methan und CO2 nützlich sein.&lt;br /&gt;Ein Team von Wissenschaftlern der Empa, der ETH Zürich, der EPFL, der «Universidad de Salamanca», der Europäischen Weltraumorganisation (ESA) und der Universität Basel hat nun den ersten Prototypen eines miniaturisierten Fourier-Transformations-Wellenleiterspektrometers gebaut, das einen Subwellenlängen-Photodetektor als Lichtsensor enthält; dieser besteht aus kolloidalen Quantenpunkten aus Quecksilbertellurid (HgTe) und ist kompatibel mit komplementärer Metalloxid-Halbleitertechnologie (CMOS), wie sie nun in «Nature Photonics» berichten.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Enorme Auswirkungen auf Spektrometer verschiedener Art – und in verschiedenen Bereichen&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Das neue Spektrometer weist eine grosse spektrale Bandbreite und eine moderate spektrale Auflösung von 50 cm-1 bei einem aktiven Gesamtvolumen des Spektrometers von unter 100 μm × 100 μm × 100 μm auf. Dieses ultrakompakte Design des Spektrometers ermöglicht es, optisch-analytische Messinstrumente relativ schnell und einfach in Unterhaltungselektronik und Raumfahrtgeräte zu integrieren. «Die monolithische Integration von IR-Photodetektoren im Subwellenlängenbereich hat enorme Auswirkungen auf die Skalierung von Fourier-Transformations-Wellenleiterspektrometern», so Empa-Forscher Ivan Shorubalko. «Unser Design könnte aber auch für miniaturisierte Raman-Spektrometer, für Biosensoren und «Lab-on-a-Chip»-Geräte sowie für die Entwicklung hochauflösender Hyperspektralkameras von Interesse sein.»&lt;br /&gt;</text>
+      <contact>Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Tel. +41 58 765 48 74 ivan.shorubalko@empa.ch</contact>
+      <attachment id="237246">
+        <title>Ein roter Laser macht den Strahlengang von der Faser in den Lichtwellenleiter und die Reflexion an einem Goldspiegel sichtbar. Die zwei Mikrosonden kontaktieren den Fotoleiter, der eine Grösse im Subwellenlängenbereich aufweist. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>284</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73569.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="237247">
+        <title>Funktionsweise des IR-Spektrometers / how the IR spectrometer works / comme le spectromètre IR fonctionne</title>
+        <format>jpg</format>
+        <size-kb>1059</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73570.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="237245">
+        <title>Integrated photodetectors for compact Fourier-transform waveguide spectrometers; Nature Photonics (2022); DOI: 10.1038/s41566-022-01088-7</title>
+        <uri>https://www.nature.com/articles/s41566-022-01088-7</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Intégration sur une puce:Détecteurs infrarouges miniaturisés</title>
+      <lead>La miniaturisation extrême des détecteurs infrarouges (IR) est essentielle pour leur intégration dans les appareils électroniques grand public de la prochaine génération, les objets à porter sur soi et les satellites ultra-compacts. Jusqu'à présent, les détecteurs IR reposaient toutefois sur des matériaux et des technologies encombrants (et coûteux). Une équipe de scientifiques dirigée par Ivan Shorubalko, chercheur à l'Empa, a réussi à développer un processus de miniaturisation rentable pour les spectromètres IR basés sur un photodétecteur à points quantiques, qui peut être intégré sur une seule puce, comme ils le rapportent dans Nature Photonics.</lead>
+      <text link="no">La miniaturisation des spectromètres infrarouges conduira à leur utilisation plus large dans l'électronique grand public, comme les téléphones portables permettant le contrôle des aliments, la détection de produits chimiques dangereux et l'électronique portable. Ils peuvent être utilisés pour la détection rapide et facile de certains produits chimiques sans utiliser de matériel de laboratoire. Ils peuvent également être utiles pour la détection des contrefaçons de médicaments, ou la détection des gaz à effet de serre de la Terre tels que le méthane et le CO2.&lt;br /&gt;Une équipe de scientifiques de l'Empa, de l'ETH Zurich, de l'EPFL, de l'Université de Salamanque, de l'Agence spatiale européenne (ESA) et de l'Université de Bâle a maintenant construit un spectromètre à guide d'ondes à transformée de Fourier miniaturisé qui incorpore un photodétecteur à points quantiques colloïdaux sous-longueur d'onde et compatible avec les oxydes métalliques complémentaires et les semi-conducteurs comme capteur de lumière, comme ils l'ont rapporté dans "Nature Photonics".&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Des effets considérables sur les spectromètres de différents types – et dans différents domaines&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Le spectromètre résultant présente une grande largeur de bande spectrale et une résolution spectrale modérée de 50 cm-1 pour un volume actif total du spectromètre inférieur à 100 μm × 100 μm × 100 μm. Cette conception ultracompacte du spectromètre permet d'intégrer des instruments de mesure optique/analytique dans des appareils électroniques grand public et des dispositifs spatiaux. "L'intégration monolithique de photodétecteurs infrarouges sub-longueur d'onde a un effet énorme sur la mise à l'échelle des spectromètres à guide d'ondes à transformée de Fourier", dit Ivan Shorubalko. "Mais ça peut également présenter un intérêt pour les spectromètres Raman miniaturisés, les biocapteurs et les dispositifs de laboratoire sur puce, ainsi que pour le développement de caméras hyperspectrales instantanées à haute résolution."</text>
+      <contact>Informations Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Tél: +41 58 765 48 74 ivan.shorubalko@empa.ch</contact>
+      <attachment id="237247">
+        <title>Funktionsweise des IR-Spektrometers / how the IR spectrometer works / comme le spectromètre IR fonctionne</title>
+        <format>jpg</format>
+        <size-kb>1059</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73570.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="237245">
+        <title>Integrated photodetectors for compact Fourier-transform waveguide spectrometers; Nature Photonics (2022); DOI: 10.1038/s41566-022-01088-7</title>
+        <uri>https://www.nature.com/articles/s41566-022-01088-7</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Integration on a chip: Miniaturized infrared detectors</title>
+      <lead>Extreme miniaturization of infrared (IR) detectors is critical for their integration into next-generation consumer electronics, wearables and ultra-small satellites. Thus far, however, IR detectors have relied on bulky (and expensive) materials and technologies. A team of scientists lead by Empa researcher Ivan Shorubalko now succeeded in developing a cost-effective miniaturization process for IR spectrometers based on a quantum dot photodetector, which can be integrated on a single chip, as they report in Nature Photonics.</lead>
+      <text link="no">Miniaturization of infrared spectrometers will lead to their wider use in consumer electronics, such as smartphones enabling food control, the detection of hazardous chemicals, air pollution monitoring and wearable electronics. They can be used for the quick and easy detection of certain chemicals without using laboratory equipment. Moreover, they can be useful for the detection of counterfeit medical drugs as well as of greenhouse gases such as methane and CO2.&lt;br /&gt;A Team of scientists at Empa, ETH Zurich, EPFL, the University of Salamanca, Spain, the European Space Agency (ESA) and the University of Basel now built a proof-of-concept miniaturized Fourier-transform waveguide spectrometer that incorporates a subwavelength photodetector as a light sensor, consisting of colloidal mercury telluride quantum dot (Hg Te) and compatible with complementary metal-oxide-semiconductor (CMOS) technology, as they report in the recent issue of Nature Photonics.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Tremendous effects on spectrometers of different kinds – and in various fields&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;The resulting spectrometer exhibits a large spectral bandwidth and moderate spectral resolution of 50 cm−1 at a total active spectrometer volume below 100 μm × 100 μm × 100 μm. This ultra-compact spectrometer design allows the integration of optical-analytical measurement instruments into consumer electronics and space devices. "The monolithic integration of subwavelength IR photodetectors has a tremendous effect on the scaling of Fourier-transform waveguide spectrometers", says Empa researcher Ivan Shorubalko. "But this may also be of great interest for miniaturized Raman spectrometers, biosensors and lab-on-a-chip devices as well as the development of high-resolution snapshot hyperspectral cameras."</text>
+      <contact>Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Phone +41 58 765 48 74 ivan.shorubalko@empa.ch</contact>
+      <attachment id="237247">
+        <title>Funktionsweise des IR-Spektrometers / how the IR spectrometer works / comme le spectromètre IR fonctionne</title>
+        <format>jpg</format>
+        <size-kb>1059</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/73570.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="237245">
+        <title>Integrated photodetectors for compact Fourier-transform waveguide spectrometers; Nature Photonics (2022); DOI: 10.1038/s41566-022-01088-7</title>
+        <uri>https://www.nature.com/articles/s41566-022-01088-7</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
