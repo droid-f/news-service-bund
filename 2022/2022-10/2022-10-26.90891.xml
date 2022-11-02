@@ -19,6 +19,21 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
     <originator department-msg="yes" id="603" lead="no" topnews="no">
       <department-id>601</department-id>
       <name lang="de">Eidg. Finanzverwaltung</name>
@@ -157,23 +172,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="29">
-        <name lang="de">Umwelt und Natur</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="en">Environment and Nature</name>
-      </topic>
-      <topic id="35">
-        <name lang="de">Finanzplatz</name>
-        <name lang="fr">Place financière</name>
-        <name lang="it">Piazza finanziaria</name>
-        <name lang="en">Financial Centre</name>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
       </topic>
     </topics>
   </message>
