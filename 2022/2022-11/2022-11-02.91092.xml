@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="91092" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-11-02</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="101" lead="yes" topnews="no">
@@ -37,37 +37,51 @@
       <city>Bern</city>
       <title>«Public Clouds Bund»: Leistungen können bezogen werden</title>
       <lead>Das Bundesverwaltungsgericht lehnt den Antrag einer Privatperson auf vorsorgliche Massnahmen ab. Die Person hatte verlangt, den Bezug von Cloud-Diensten bei ausländischen Anbietern vorsorglich zu verbieten. Die Einheiten der Bundesverwaltung können nun im Rahmen von «Public Clouds Bund» Cloud-Dienste beziehen. Für jedes Projekt müssen vor dem Bezug umfangreiche Abklärungen vorgenommen werden.</lead>
-      <text link="no">&lt;p&gt;Wie die Bundeskanzlei am 27. September 2022 bekannt gab, wurde der Entscheid abgewartet, bevor Dienste im Rahmen von «Public Clouds Bund» (WTO-20007) bezogen werden. Ein Bürger beantragte auf dem Gerichtsweg die Anordnung sogenannter vorsorglicher Massnahmen, damit die Bundesverwaltung Arbeiten zum Bezug von Public-Cloud-Diensten bei ausländischen Anbietern einstellt. Der entsprechende Entscheid des Bundesverwaltungsgerichts liegt nun vor. Er kann vor Bundesgericht angefochten werden.&lt;/p&gt;&lt;p&gt;Die Bundeskanzlei hat den Entscheid analysiert. Sie stellt fest, dass das Gericht den Antrag ablehnt und somit das Gericht keine Basis sieht, den Bezug von Cloud-Diensten vorsorglich zu stoppen. Aufgrund des Entscheids des Gerichts hat die Bundeskanzlei entschieden, dass die Verwaltungseinheiten – nach den vorgesehenen Abklärungen – entsprechende Dienste über die WTO-20007 beziehen dürfen. Das Verfahren läuft weiter und dürfte voraussichtlich noch einige Zeit dauern.&lt;/p&gt;&lt;p&gt;Der Abruf von Leistungen im Rahmen von «Public Clouds Bund» bleibt optional. Ämter, die in diesem Rahmen Cloud-Dienste nutzen wollen, müssen zuerst ein anbieterneutrales Pflichtenheft erstellen und umfangreiche Abklärungen durchführen. Die Departemente und die Bundeskanzlei sind in ihrem Aufgabenbereich zuständig für den Entscheid, ob sie Public-Cloud-Dienste einsetzen.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Wie die Bundeskanzlei am 27. September 2022 bekannt gab, wurde der Entscheid abgewartet, bevor Dienste im Rahmen von «Public Clouds Bund» (WTO-20007) bezogen werden. Ein Bürger beantragte auf dem Gerichtsweg die Anordnung sogenannter vorsorglicher Massnahmen, damit die Bundesverwaltung Arbeiten zum Bezug von Public-Cloud-Diensten bei ausländischen Anbietern einstellt. Der entsprechende Entscheid des Bundesverwaltungsgerichts liegt nun vor. Er kann vor Bundesgericht angefochten werden.&lt;/p&gt;&lt;p&gt;Die Bundeskanzlei hat den Entscheid analysiert. Sie stellt fest, dass das Gericht den Antrag ablehnt und somit das Gericht keine Basis sieht, den Bezug von Cloud-Diensten vorsorglich zu stoppen. Aufgrund des Entscheids des Gerichts hat die Bundeskanzlei entschieden, dass die Verwaltungseinheiten – nach den vorgesehenen Abklärungen – entsprechende Dienste über die WTO-20007 beziehen dürfen. Das Verfahren läuft weiter und dürfte voraussichtlich noch einige Zeit dauern.&lt;/p&gt;&lt;p&gt;Der Abruf von Leistungen im Rahmen von «Public Clouds Bund» bleibt optional. Ämter, die in diesem Rahmen Cloud-Dienste nutzen wollen, müssen zuerst ein anbieterneutrales Pflichtenheft erstellen und umfangreiche Abklärungen durchführen. Die Departemente und die Bundeskanzlei sind in ihrem Aufgabenbereich zuständig für den Entscheid, ob sie Public-Cloud-Dienste einsetzen.&lt;/p&gt;</text>
       <contact>Florian Imbach Sektion Kommunikation Tel. 058 465 47 40 florian.imbach@bk.admin.ch</contact>
-      <link id="237712">
+      <link id="237813">
         <title>Medienmitteilung der Bundeskanzlei vom 27. September 2022</title>
         <uri>https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-90509.html</uri>
         <position>Context</position>
       </link>
-      <link id="237717">
+      <link id="237818">
         <title>Internetseite der Bundeskanzlei zu Clouds bei der Bundesverwaltung</title>
         <uri>https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/cloud.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <link id="237819">
+        <title>Public Clouds: keine vorsorglichen Massnahmen</title>
+        <uri>https://www.bvger.ch/bvger/de/home/medien/medienmitteilungen-2022/public-clouds.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2022-11-03 10:03" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>« Public Clouds Confédération » : les prestations peuvent être commandées</title>
       <lead>Le Tribunal administratif fédéral rejette la demande de mesures provisionnelles déposée par un particulier, qui réclamait l’interdiction d’acheter des services d’informatique en nuage auprès de fournisseurs étrangers. Les unités de l’administration fédérale peuvent désormais acheter des services infonuagiques dans le cadre du marché « Public Clouds Confédération ». Chaque projet requiert toutefois des clarifications approfondies avant d’être lancé.</lead>
-      <text link="no">&lt;p&gt;La Chancellerie fédérale avait annoncé le 27 septembre 2022 qu’elle attendait la décision du Tribunal administratif fédéral avant d’acheter des services dans le cadre du marché « Public Clouds Confédération » (OMC-20007). Un citoyen avait demandé au tribunal de prononcer des mesures provisionnelles afin que l’administration fédérale cesse de travailler sur l’achat de services d’informatique en nuage public auprès de fournisseurs étrangers. Le tribunal a maintenant rendu sa décision, qui peut être contestée devant le Tribunal fédéral.&lt;/p&gt;&lt;p&gt;Après analyse de cette décision, la Chancellerie fédérale a constaté que le tribunal avait rejeté la demande et qu’il ne voyait pas de raison de stopper l’achat de ces services à titre provisionnel. Le tribunal ayant rendu une décision, la Chancellerie a décidé d’autoriser les unités administratives à acheter des services dans le cadre du marché OMC-20007. La procédure se poursuit et devrait durer encore un certain temps.&lt;/p&gt;&lt;p&gt;L’appel de prestations reste optionnel. Les offices qui souhaitent recourir à de tels services dans ce cadre doivent d’abord établir un cahier des charges indépendant des fournisseurs et procéder à des clarifications approfondies. Dans leurs domaines de compétences respectifs, les départements et la Chancellerie fédérale décideront eux-mêmes s’ils veulent les utiliser.&lt;br /&gt;&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;La Chancellerie fédérale avait annoncé le 27 septembre 2022 qu’elle attendait la décision du Tribunal administratif fédéral avant d’acheter des services dans le cadre du marché « Public Clouds Confédération » (OMC-20007). Un citoyen avait demandé au tribunal de prononcer des mesures provisionnelles afin que l’administration fédérale cesse de travailler sur l’achat de services d’informatique en nuage public auprès de fournisseurs étrangers. Le tribunal a maintenant rendu sa décision, qui peut être contestée devant le Tribunal fédéral.&lt;/p&gt;&lt;p&gt;Après analyse de cette décision, la Chancellerie fédérale a constaté que le tribunal avait rejeté la demande et qu’il ne voyait pas de raison de stopper l’achat de ces services à titre provisionnel. Le tribunal ayant rendu une décision, la Chancellerie a décidé d’autoriser les unités administratives à acheter des services dans le cadre du marché OMC-20007. La procédure se poursuit et devrait durer encore un certain temps.&lt;/p&gt;&lt;p&gt;L’appel de prestations reste optionnel. Les offices qui souhaitent recourir à de tels services dans ce cadre doivent d’abord établir un cahier des charges indépendant des fournisseurs et procéder à des clarifications approfondies. Dans leurs domaines de compétences respectifs, les départements et la Chancellerie fédérale décideront eux-mêmes s’ils veulent les utiliser.&lt;/p&gt;</text>
       <contact>Florian Imbach Section Communication 058 465 47 40 florian.imbach@bk.admin.ch</contact>
-      <link id="237713">
+      <link id="237814">
         <title>Communiqué de la Chancellerie fédérale du 27 septembre 2022</title>
         <uri>https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-90509.html</uri>
         <position>Context</position>
       </link>
-      <link id="237716">
+      <link id="237817">
         <title>Page Internet de la Chancellerie fédérale sur l’informatique en nuage dans l’administration fédérale</title>
         <uri>https://www.bk.admin.ch/bk/fr/home/digitale-transformation-ikt-lenkung/bundesarchitektur/cloud.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <link id="237820">
+        <title>Clouds publics: pas de mesures provisionnelles</title>
+        <uri>https://www.bvger.ch/bvger/fr/home/medias/medienmitteilungen-2022/public-clouds.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2022-11-03 10:03" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
@@ -75,14 +89,19 @@
       <lead>Il Tribunale amministrativo federale respinge la domanda di misure cautelari presentata da un privato. Questi aveva chiesto di vietare in via cautelare l’acquisto di servizi di cloud presso fornitori esteri. Le unità dell’Amministrazione federale possono quindi acquistare tali servizi nell’ambito del «Cloud pubblico della Confederazione». Prima dell’acquisto devono essere eseguiti accertamenti approfonditi per ogni progetto.</lead>
       <text link="no">&lt;p&gt;Come già comunicato dalla Cancelleria federale il 27 settembre 2022, occorreva attendere la decisione del Tribunale amministrativo federale prima di poter acquistare i servizi nell’ambito del «Cloud pubblico della Confederazione» (OMC 20007). Un cittadino si era infatti rivolto al tribunale per chiedere le cosiddette misure cautelari affinché l’Amministrazione federale sospendesse i lavori relativi all’acquisto di servizi di cloud pubblico presso fornitori esteri. La decisione è ora disponibile ed è impugnabile dinanzi al Tribunale federale.&lt;/p&gt;&lt;p&gt;La Cancelleria federale ha analizzato la decisione e constatato che il tribunale respinge la richiesta e non vede pertanto alcun motivo per fermare in via cautelare l’acquisto di servizi di cloud. Sulla base di questa decisione, la Cancelleria federale ha deciso che le unità amministrative possono acquistare, dopo gli accertamenti previsti, i corrispondenti servizi nel quadro dell’appalto OMC 20007. Il procedimento è ancora in corso e potrebbe durare un certo tempo.&lt;/p&gt;&lt;p&gt;L’acquisto di prestazioni nell’ambito del «Cloud pubblico della Confederazione» rimane facoltativo. Gli uffici che in questo ambito intendono utilizzare i servizi di cloud devono dapprima allestire un elenco degli oneri standard e procedere ad accertamenti approfonditi. I dipartimenti e la Cancelleria federale decideranno se intendono utilizzare servizi di cloud nel loro settore di compiti.&lt;br /&gt;&lt;/p&gt;</text>
       <contact>Florian Imbach Sezione comunicazione Tel. 058 465 47 40 florian.imbach@bk.admin.ch</contact>
-      <link id="237714">
+      <link id="237815">
         <title>Comunicato stampa della Cancelleria federale del 27 settembre 2022</title>
         <uri>https://www.admin.ch/gov/it/pagina-iniziale/documentazione/comunicati-stampa.msg-id-90509.html</uri>
         <position>Context</position>
       </link>
-      <link id="237715">
+      <link id="237816">
         <title>Pagina Internet della Cancelleria federale in merito al cloud presso l’Amministrazione federale</title>
         <uri>https://www.bk.admin.ch/bk/it/home/digitale-transformation-ikt-lenkung/bundesarchitektur/cloud.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="237821">
+        <title>Cloud pubblici: nessuna misura provvisionale</title>
+        <uri>https://www.bvger.ch/bvger/it/home/media/medienmitteilungen-2022/public-clouds.html</uri>
         <position>Context</position>
       </link>
       <revisions> </revisions>
