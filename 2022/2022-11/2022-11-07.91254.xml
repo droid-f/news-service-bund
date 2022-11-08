@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="91254" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-11-07</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="201" lead="yes" topnews="no">
@@ -19,6 +19,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">https://www.bafu.admin.ch</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
+      <www lang="it">https://www.bafu.admin.ch/it</www>
+      <www lang="en">https://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
     <department id="201">
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
@@ -33,18 +48,32 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Scharm el-Scheich</city>
       <title>COP27: Der Bundespräsident fordert die Staaten auf, das 1,5-Grad-Ziel nicht aus den Augen zu verlieren</title>
       <lead>Bundespräsident Ignazio Cassis vertrat die Schweiz am Gipfeltreffen der Staats- und Regierungschefinnen und -chefs an der 27. UNO-Klimakonferenz COP27 in Scharm el-Scheich, Ägypten. In seiner Ansprache betonte er, dass die COP27 nicht die Konferenz sein darf, an der das 1,5-Grad-Ziel aufgegeben wird. Ziel der Konferenz ist es, die Umsetzung des Pariser Klimaübereinkommens voranzubringen.</lead>
       <text link="no">An der Eröffnung des Gipfeltreffens der rund 100 Staats- und Regierungschefinnen und -chefs am 7. November 2022 erinnerte Bundespräsident Ignazio Cassis eindrücklich daran, dass der Klimawandel eine der grössten Herausforderungen der heutigen Zeit bleibe.&lt;br /&gt;&lt;br /&gt;«In diesem Jahr hat der Klimawandel besonders verheerende Verwüstungen verursacht», sagte der EDA-Vorsteher und bezog sich dabei auf die Überschwemmungen in Pakistan und die Hitze- und Dürrewellen in mehreren Teilen der Welt. Der Bundespräsident bekräftigte die Absicht der Schweiz, trotz der Energiekrise an den Klimazielen festzuhalten. Darin verpflichtet sich die Schweiz, ihre Treibhausgasemissionen bis 2030 um die Hälfte zu reduzieren und bis spätestens 2050 die Klimaneutralität zu erreichen.&lt;br /&gt;&lt;br /&gt;Der Bundespräsident sprach sich auch für die ehrgeizigen Verpflichtungen auf der Tagesordnung der COP27 aus, unter anderem die Festlegung eines konkreten und klaren Zeitplans für alle Länder für den Ausstieg aus fossilen Brennstoffen. Ausserdem befürwortete er ein Arbeitsprogramm zur Beschleunigung der Klimapolitik in den Ländern und zur weltweiten Stärkung der Anstrengungen in den Bereichen Anpassung an den Klimawandel, Entwicklung und humanitäre Hilfe.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Den Bedürfnissen der Entwicklungsländer gerecht werden&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Damit die Ziele des Pariser Übereinkommens erreicht werden können, legt die COP27 den Schwerpunkt auf die stärkere finanzielle Unterstützung der ärmsten Länder (LDC) sowie der Kleinen Inselentwicklungsländer (SIDS). «Die Länder, die bei diesem Übergang auf finanzielle Unterstützung angewiesen sind, müssen diese erhalten, und alle, die dazu in der Lage sind, müssen einen Beitrag leisten», betonte der EDA-Vorsteher.&lt;br /&gt;&lt;br /&gt;Die Schweiz anerkennt die enormen Bedürfnisse bei der Anpassung an den Klimawandel und den Unterstützungsbedarf der Entwicklungsländer im Hinblick auf die Reduktion und Bewältigung zunehmender klimabedingter Ernteausfälle und Schäden. Vor diesem Hintergrund und zur Umsetzung des Ziels, die Anpassungsfinanzierung zu verdoppeln, wird die Schweiz, vorbehaltlich der Zustimmung des Parlaments, in den nächsten vier Jahren 155,4 Millionen Franken in den Globalen Umweltfonds, 11,8 Millionen Franken in den Sonderfonds Klimaänderungen (Special Climate Change Fund, SCCF) und 16 Millionen Franken in den Fonds für die am wenigsten entwickelten Länder (Least Developed Countries Fund, LDCF) einzahlen. Die beiden letzten Fonds konzentrieren sich auf Anpassungsmassnahmen in den LDC und den SIDS. Darüber hinaus wird die Schweiz weitere 8 Millionen Franken an das Programm der Weltbank zur Finanzierung und Versicherung gegen Katastrophenrisiken (Disaster Risk Financing and Insurance, DRFI) zahlen, um die Widerstandsfähigkeit der Partnerstaaten zu stärken. &lt;br /&gt;&lt;br /&gt;Schliesslich wird die Schweiz 4 Millionen Franken zur CREWS-Initiative beitragen, die einen Finanzierungsmechanismus für die Bedürfnisse der LDC und SIDS sicherstellt. Dieser Betrag wird zusätzlich zum bestehenden Beitrag von 9 Millionen Franken an die Entwicklung von Frühwarnsystemen für alle bereitgestellt.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bilaterale Treffen am Rande der Konferenz&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Am Rande der Weltklimakonferenz unterzeichnete der Bundespräsident auch ein bilaterales Klimaabkommen mit Leila Benali, der marokkanischen Ministerin für Energiewende und nachhaltige Entwicklung. &lt;br /&gt;&lt;br /&gt;Bundespräsident Cassis hat sich an der COP27 unter anderen mit der neuen italienischen Premierministerin Giorgia Meloni, dem neuen Premierminister des Vereinigten Königreichs, Rishi Sunak, dem neuen schwedischen Ministerpräsidenten Ulf Kristersson, dem Ministerpräsidenten der palästinensischen Autonomiebehörde Mohammed Schtajjeh sowie den Präsidenten von Slowenien Borut Pahor, Rumänien Klaus Iohannis und Israel Jizchak Herzog ausgetauscht.&lt;br /&gt;&lt;br /&gt;In der zweiten Woche der Konferenz werden sich die Umweltministerinnen und minister treffen, um Gespräche auf hoher politischer Ebene zu führen. Bundesrätin Simonetta Sommaruga, Vorsteherin des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation, wird die Schweiz bei diesem Treffen vertreten. Die 27. UNO-Klimakonferenz dauert bis zum 18. November 2022.</text>
       <contact>Kommunikation EDA Bundeshaus West CH-3003 Bern Tel. Kommunikationsservice: +41 58 462 31 53 Tel. Medienstelle: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="238034">
+      <link id="238055">
         <title>COP27</title>
         <uri>https://cop27.eg/</uri>
         <position>Content</position>
       </link>
-      <link id="238045">
+      <link id="238056">
         <title>Allocution du Président de la Confédération au Sommet des Chefs d'Etat de la COP27</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/reden.html/content/eda/fr/meta/speeches/2022/11/7/91241</uri>
         <position>Content</position>
@@ -57,12 +86,12 @@
       <lead>Le président de la Confédération Ignazio Cassis a représenté la Suisse lors du Sommet mondial des dirigeants de la 27e Conférence des Nations Unies sur les changements climatiques (COP27) à Charm el-Cheikh, en Égypte. Lors de son allocution, il a affirmé que la COP27 ne peut pas être la conférence où nous perdons l’objectif des 1,5°C. La conférence a pour but de promouvoir la mise en œuvre de l’accord de Paris sur le climat.</lead>
       <text link="no">Lors du sommet qu’il a ouvert le 7 novembre 2022 avec une centaine de chefs d’État et de gouvernement, le président de la Confédération Ignazio Cassis a martelé que le changement climatique reste un des plus grands défis de l’époque actuelle.&lt;br /&gt;&lt;br /&gt;« Cette année, le changement climatique a laissé derrière lui des ravages particulièrement dévastateurs », a déclaré le chef du DFAE en faisant référence aux inondations au Pakistan et aux vagues de chaleur et de sécheresse qui ont sévi dans plusieurs régions du monde. Le président de la Confédération a dès lors réaffirmé l’intention de la Suisse de maintenir les objectifs climatiques fixés, et ce malgré le contexte de la crise énergétique. La Suisse s’engage ainsi à réduire de moitié ses émissions de gaz à effet de serre d’ici 2030 et à viser la neutralité climatique d’ici 2050, au plus tard.&lt;br /&gt;&lt;br /&gt;Le président de la Confédération a aussi soutenu, à la tribune, les engagements ambitieux mis à l’agenda de la COP27, entre autres la présentation pour tous les pays d’un calendrier concret et clair de désinvestissement des énergies fossiles. Il s’est aussi positionné en faveur d’un programme de travail qui vise à accélérer les politiques climatiques dans les pays, ainsi qu’à renforcer les efforts dans les domaines de l’adaptation, du développement et de l’humanitaire au niveau mondial.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Répondre aux besoins des pays en développement&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Afin de répondre aux objectifs de l’accord de Paris, la COP27 a mis l’accent sur le renforcement des financements en faveur des pays les plus pauvres et les plus vulnérables (PMA), ainsi que les petits États insulaires en développement (PEID). « Les pays qui en ont besoin doivent recevoir le soutien financier nécessaire pour réaliser cette transition, et tous ceux qui en ont les capacités doivent contribuer », a alors assuré le chef du DFAE.&lt;br /&gt;&lt;br /&gt;La Suisse reconnaît les besoins élevés dans le domaine de l'adaptation et le besoin de soutien des pays en développement pour réduire et traiter les pertes et dommages climatiques croissants. Dans ce contexte et pour mettre en œuvre l'objectif de doublement du financement de l'adaptation, la Suisse, sous réserve de l'approbation du Parlement, versera 155,4 millions de francs suisses au Fonds pour l’environnement mondial, 11,8 millions de francs au Special Climate Change Fund (SCCF) et 16 millions de francs au Least Developed Countries Fund (LDCF) au cours des quatre prochaines années. Ces deux derniers fonds se concentrent sur les mesures d'adaptation dans les PMA et les PEID. En outre, la Suisse versera 8 millions de francs supplémentaires au programme de financement et d'assurance contre les risques de catastrophe (DRFI) de la Banque mondiale afin de renforcer la résilience de ses États partenaires. &lt;br /&gt;&lt;br /&gt;La Suisse contribuera aussi à hauteur de 4 millions de francs à l’initiative CREWS, qui assure un mécanisme de financement pour répondre aux besoins des PMA et des PEID. Ce montant s’ajoute à la contribution actuelle de 9 millions de francs en faveur du développement de systèmes d’avertissements précoces pour tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rencontres bilatérales en marge de la conférence&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;En marge de la conférence, le président de la Confédération a signé un accord bilatéral sur le climat avec Leila Benali, la ministre de la transition énergétique et du développement durable du Maroc. Il a également participé à une table ronde sur la sécurité alimentaire. &lt;br /&gt;&lt;br /&gt;Le président de la Confédération s’est aussi entretenu, entre autres, avec la nouvelle Première ministre italienne Giorgia Meloni, le nouveau Premier ministre du Royaume-Uni Rishi Sunak, le nouveau Premier ministre suédois Ulf Kristersson, le Premier ministre de l'Autorité palestinienne Mohammad Shtayyeh mais aussi avec le président de la Slovénie Borut Pahor, le président de la Roumanie Klaus Iohannis et le président israélien Isaac Herzog.&lt;br /&gt;&lt;br /&gt;Durant la deuxième semaine de la conférence, les ministres de l’Environnement se rencontreront pour mener des discussions à haut niveau politique. La conseillère fédérale et cheffe du Département fédéral de l’environnement, des transports, de l’énergie et de la communication Simonetta Sommaruga représentera la Suisse lors de cette rencontre. La 27e conférence des Nations unies sur les changements climatiques se poursuit jusqu’au 18 novembre.</text>
       <contact>Communication DFAE Palais fédéral ouest CH-3003 Berne Tél. Service de communication: +41 58 462 31 53 Tél. Service de presse: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="238034">
+      <link id="238055">
         <title>COP27</title>
         <uri>https://cop27.eg/</uri>
         <position>Content</position>
       </link>
-      <link id="238045">
+      <link id="238056">
         <title>Allocution du Président de la Confédération au Sommet des Chefs d'Etat de la COP27</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/reden.html/content/eda/fr/meta/speeches/2022/11/7/91241</uri>
         <position>Content</position>
@@ -75,12 +104,12 @@
       <lead>Il presidente della Confederazione Ignazio Cassis ha rappresentato la Svizzera al vertice mondiale dei capi di Stato e di governo della 27a Conferenza delle Nazioni Unite sui cambiamenti climatici (COP27) a Sharm el Sheikh, in Egitto. Durante il suo discorso ha affermato che la COP27 non può essere la conferenza in cui si rischia di perdere di vista l’obiettivo di 1,5°C. Il summit mira a promuovere l’attuazione dell’accordo di Parigi sul clima.</lead>
       <text link="no">&lt;p&gt;Durante il vertice del 7 novembre 2022, a cui hanno partecipato un centinaio di capi di Stato e di governo, il presidente della Confederazione Ignazio Cassis ha affermato senza mezzi termini che il cambiamento climatico rimane tra le sfide più grandi del nostro tempo. &lt;br /&gt;&lt;br /&gt;«Quest’anno il cambiamento climatico ha causato terribili devastazioni», ha dichiarato il capo del Dipartimento federale degli affari esteri (DFAE) riferendosi alle inondazioni in Pakistan e alle ondate di calore e di siccità in diverse parti del mondo. Il presidente della Confederazione ha quindi ribadito l’intenzione della Svizzera di mantenere gli obiettivi climatici stabiliti, nonostante la crisi energetica in corso. Il nostro Paese si impegna anche a dimezzare le proprie emissioni di gas serra entro il 2030 e a raggiungere la neutralità climatica al più tardi entro il 2050. &lt;br /&gt;&lt;br /&gt;Nel suo discorso il presidente della Confederazione ha inoltre ribadito il proprio sostegno agli impegni ambiziosi dell’agenda della COP27, tra cui la presentazione di un calendario concreto e chiaro di disinvestimento dai combustibili fossili per tutti i Paesi. Si è inoltre schierato a favore di un programma di lavoro che miri ad accelerare le politiche climatiche nei diversi Paesi e a rafforzare gli sforzi nei settori dell’adattamento, dello sviluppo e dell’aiuto umanitario a livello globale.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rispondere alle esigenze dei Paesi in via di sviluppo&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Per raggiungere gli obiettivi dell’Accordo di Parigi, la COP27 ha posto l’accento sul rafforzamento dei finanziamenti a favore dei Paesi più poveri e più vulnerabili (PMA) e dei piccoli Stati insulari in via di sviluppo (SIDS). «I Paesi che ne hanno bisogno devono ricevere il sostegno finanziario necessario per realizzare questa transizione e tutti coloro che ne hanno le capacità devono dare il loro contributo», ha dichiarato il capo del DFAE.&lt;br /&gt;&lt;br /&gt;La Svizzera riconosce i bisogni considerevoli nell’ambito dell’adattamento e la necessità di aiutare i Paesi in via di sviluppo a ridurre e affrontare l’aumento delle perdite e dei danni di origine climatica. In questo contesto, per realizzare l’obiettivo di raddoppiare il finanziamento dell’adattamento, la Svizzera, previa approvazione da parte del Parlamento, verserà 155,4 milioni di franchi al Fondo mondiale per l'ambiente, 11,8 milioni di franchi allo Special Climate Change Fund (SCCF) e 16 milioni di franchi al Least Developed Countries Fund (LDCF) nel corso dei prossimi quattro anni. Questi due ultimi fondi si concentrano sulle misure di adattamento nei PMA e nei SIDS. Inoltre, il nostro Paese verserà altri 8 milioni di franchi al programma di finanziamento dell’assicurazione contro le calamità naturali (Disaster Risk Financing and Insurance, DRFI) della Banca Mondiale per rafforzare la resilienza degli Stati partner. &lt;br /&gt;&lt;br /&gt;La Svizzera contribuirà anche con 4 milioni di franchi alla Climate Risk and Early Warning Systems Initiative (CREWS), che prevede un meccanismo di finanziamento in risposta ai bisogni dei PMA e dei SIDS. Questo importo si aggiunge al contributo attuale di 9 milioni di franchi a favore dello sviluppo di sistemi di allerta precoci per tutti.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Incontri bilaterali a margine della Conferenza&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A margine della Conferenza, il presidente della Confederazione ha firmato un accordo bilaterale sul clima con Leila Benali, la ministra della transizione energetica e dello sviluppo sostenibile del Marocco. Ha inoltre partecipato a una tavola rotonda sul tema della sicurezza alimentare.&lt;br /&gt;&lt;br /&gt;Il Presidente della Confederazione Cassis si è tra l’altro intrattenuto con la nuova Premier italiana Giorgia Meloni, il nuovo Primo Ministro del Regno Unito Rishi Sunak, il nuovo Primo Ministro della Svezia Ulf Kristersson, il Primo Ministro dell'Autorità Palestinese Mohammad Shtayyeh, ma anche con il Presidente della Slovenia Borut Pahor, il Presidente rumeno Klaus Iohannis e il Presidente di Israele Isaac Herzog.&lt;/p&gt;&lt;p&gt;Durante la seconda settimana della Conferenza, i ministri dell’ambiente si incontreranno per discutere ad alto livello politico. La consigliera federale Simonetta Sommaruga, capo del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC), rappresenterà la Svizzera all’incontro. La 27a Conferenza delle Nazioni Unite sui cambiamenti climatici si concluderà il 18 novembre.&lt;/p&gt;</text>
       <contact>Comunicazione DFAE Palazzo federale ovest CH-3003 Berna Tel. Servizio di comunicazione: +41 58 462 31 53 Tel. Servizio stampa: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="238034">
+      <link id="238055">
         <title>COP27</title>
         <uri>https://cop27.eg/</uri>
         <position>Content</position>
       </link>
-      <link id="238045">
+      <link id="238056">
         <title>Allocution du Président de la Confédération au Sommet des Chefs d'Etat de la COP27</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/reden.html/content/eda/fr/meta/speeches/2022/11/7/91241</uri>
         <position>Content</position>
@@ -93,60 +122,52 @@
       <lead>President Ignazio Cassis has represented Switzerland at the 27th United Nations Climate Change Conference (COP27) in Sharm el-Sheikh, Egypt. During his speech, Mr Cassis stated that this year's edition must not be the one to abandon the 1.5°C target. The conference’s aim is to promote implementation of the Paris climate agreement.</lead>
       <text link="no">During his speech at the summit, which was opened on 7 November 2022 and attended by around 100 heads of state and government, Mr Cassis strongly emphasised the fact that climate change remains one of the greatest challenges of our time. &lt;br /&gt;&lt;br /&gt;Mr Cassis, who is also head of the FDFA, went on to state that "climate change has left a particularly devastating legacy this year" in reference to the floods in Pakistan as well as heatwaves and droughts in several parts of the world. He added that Switzerland would therefore continue to maintain its climate targets, despite the current energy crisis. Switzerland is committed to halving its greenhouse gas emissions by 2030 and to achieving climate neutrality by 2050 at the latest. &lt;br /&gt;&lt;br /&gt;Mr Cassis also lent his support to the ambitious commitments of the COP27 agenda, which includes a clear and concrete timetable for all states to divest from fossil fuels. In addition, he made a clear commitment to a work programme aimed at advancing climate policies in different countries and to strengthening climate adaptation, development and humanitarian efforts at the global level. &lt;br /&gt; &lt;br /&gt;&lt;b&gt;Responding to needs in developing countries&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;To meet the Paris climate agreement targets, COP27 participants underscored the need to step up financing for the poorest and most vulnerable countries (LDC), including those in the small island developing state (SIDS) category. "Countries that need the financial support to make this transition must receive it; those with the capacity to assist them must contribute" stressed Mr Cassis. &lt;br /&gt;&lt;br /&gt;Switzerland acknowledges the serious adaptation needs facing these countries, as well as the need to support them in mitigating and addressing the increasing loss and damage related to climate change. Against this backdrop, over the next four years Switzerland will, subject to parliamentary approval, contribute CHF 155,4 million to the Global Environment Facility, CHF 11,8 million to the Special Climate Change Fund (SCCF) and CHF 16 million to the Least Developed Countries Fund (LDCF) in order to meet the target of doubling financing for adaptation. Both of these funds prioritise climate adaptation measures in LCDs and SIDS. Switzerland will also contribute an additional CHF 8 million to the World Bank's Disaster Risk Insurance and Financing (DRFI) programme to help strengthen the resilience of its partner states, as well as CHF 4 million to the CREWS initiative, which provides a funding mechanism to address the needs of LDCs and SIDS. This sum is in addition to Switzerland's current CHF 9 million contribution for developing early warning systems for all. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bilateral meetings on conference margins&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Mr Cassis signed a bilateral climate agreement with Morocco's Minister for Energy Transition and Sustainable Development Leila Benali on the margins of the conference. He also participated in a round table on food security.&lt;br /&gt;&lt;br /&gt;At COP27, President Cassis exchanged views with the new Italian Prime Minister Giorgia Meloni, the new Prime Minister of the United Kingdom, Rishi Sunak, the new Swedish Prime Minister Ulf Kristersson, the Prime Minister of the Palestinian National Authority Mohammad Shtayyeh as well as the Presidents of Slovenia, Borut Pahor, Romania, Klaus Iohannis, and Israel, Isaac Herzog.&lt;br /&gt;&lt;br /&gt;The second week of COP27 will see environment ministers meeting to discuss issues at a high political level. Federal Councillor Simonetta Sommaruga, head of the Federal Department of the Environment, Transport, Energy and Communications, will represent Switzerland at the meeting. COP27 will continue until 18 November. </text>
       <contact>FDFA Communication Federal Palace West Wing CH-3003 Bern, Switzerland Tel. Communication service: +41 58 462 31 53 Tel. Press service: +41 58 460 55 55 E-mail: kommunikation@eda.admin.ch Twitter: @SwissMFA</contact>
-      <link id="238034">
+      <link id="238055">
         <title>COP27</title>
         <uri>https://cop27.eg/</uri>
         <position>Content</position>
       </link>
-      <link id="238045">
+      <link id="238056">
         <title>Allocution du Président de la Confédération au Sommet des Chefs d'Etat de la COP27</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/reden.html/content/eda/fr/meta/speeches/2022/11/7/91241</uri>
         <position>Content</position>
       </link>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="560" org-id="811">
+        <name lang="de">Internationales</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="it">Affari Internazionali</name>
+        <name lang="en">International Affairs</name>
+      </keyword>
+      <keyword id="620" org-id="811">
+        <name lang="de">Klima</name>
+        <name lang="fr">Climat</name>
+        <name lang="it">Clima</name>
+        <name lang="en">Climate</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+    </keywords>
     <topics>
-      <topic id="11">
-        <name lang="de">Energie</name>
-        <name lang="fr">Énergie</name>
-        <name lang="it">Energia</name>
-        <name lang="en">Energy</name>
-      </topic>
       <topic id="29">
         <name lang="de">Umwelt und Natur</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="en">Environment and Nature</name>
-      </topic>
-      <topic id="30">
-        <name lang="de">Ausserordentliche Lagen</name>
-        <name lang="fr">Situations extraordinaires</name>
-        <name lang="it">Situazioni straordinarie</name>
-        <name lang="en">Special Situations</name>
-      </topic>
-      <topic id="33">
-        <name lang="de">Bundespräsident/-in</name>
-        <name lang="fr">Président/e de la Confédération</name>
-        <name lang="it">Presidente della Confederazione</name>
-        <name lang="en">President of the Swiss Confederation</name>
-      </topic>
-      <topic id="38">
-        <name lang="de">Landwirtschaft</name>
-        <name lang="fr">Agriculture</name>
-        <name lang="it">Agricoltura</name>
-        <name lang="en">Agriculture</name>
-      </topic>
-      <topic id="39">
-        <name lang="de">Schweiz und Ausland</name>
-        <name lang="fr">Suisse et étranger</name>
-        <name lang="it">Svizzero ed estero</name>
-        <name lang="en">Switzerland and Foreign Affairs</name>
-      </topic>
-      <topic id="45">
-        <name lang="de">Technologie</name>
-        <name lang="fr">Technologie</name>
-        <name lang="it">Tecnologia</name>
-        <name lang="en">Technology</name>
       </topic>
     </topics>
   </message>
