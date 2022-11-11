@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="91236" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-11-10</pubdate>
     <blocking-period>2022-11-10</blocking-period>
     <type>Memorandum</type>
@@ -20,6 +20,21 @@
       <email lang="it">info@bfs.admin.ch</email>
       <email lang="en">info@bfs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="1080" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <www lang="de">http://www.sbfi.admin.ch</www>
+      <www lang="fr">http://www.sbfi.admin.ch</www>
+      <www lang="it">http://www.sbfi.admin.ch</www>
+      <www lang="en">http://www.sbfi.admin.ch</www>
+      <email lang="de">info@sbfi.admin.ch</email>
+      <email lang="fr">info@sbfi.admin.ch</email>
+      <email lang="it">info@sbfi.admin.ch</email>
+      <email lang="en">info@sbfi.admin.ch</email>
+    </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
@@ -34,13 +49,27 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Neuchâtel</city>
       <title>Hohe Bildungsbeteiligung im Jahr 2021 mit Steigerungspotential bei der Zufriedenheit</title>
       <lead>68% der Bevölkerung haben 2021 eine Ausbildung oder eine Weiterbildung besucht oder sich selbstständig weitergebildet. Während sich vor allem Personen im Alter bis 34 in Ausbildung befinden, liegt die Weiterbildungsteilnahme der Personen von 25 bis 60 Jahren bei um die 50% und nimmt erst danach deutlich ab. 29% der Bevölkerung im Alter von 25 bis 74 Jahren konnten sich nur teilweise (17%) oder gar nicht (12%) wie gewünscht aus- oder weiterbilden. Diese und weitere Resultate zeigt die neueste Publikation zum Mikrozensus Aus- und Weiterbildung 2021 des Bundesamts für Statistik (BFS).</lead>
       <text link="no">Diese Medienmitteilung und weitere Informationen zum Thema finden Sie auf der Website des BFS (siehe Link unten).</text>
       <contact>Emanuel von Erlach, BFS, Fachsektion Bildungssystem, Tel.: +41 58 463 62 23, E-Mail: weiterbildung@bfs.admin.ch</contact>
-      <link id="237998">
+      <link id="238225">
         <title>Kompletter Text und Mediendossier</title>
         <uri>https://www.bfs.admin.ch/news/de/2022-0297</uri>
         <position>Context</position>
@@ -53,7 +82,7 @@
       <lead>En 2021, 68% de la population ont suivi une formation de base, une formation continue ou une formation en autodidacte. Alors que la formation de base est surtout répandue parmi les moins de 34 ans, la formation continue est plus fréquente parmi les 25 à 60 ans. La participation à cette dernière avoisine 50% et ne diminue nettement que passé l’âge de 60 ans. Parmi les personnes de 25 à 74 ans, 29% n’ont pas pu se former comme souhaité: 12% n’ont pas pu suivre de formation du tout et 17% n’ont pu le faire que partiellement. Ce sont là quelques-uns des résultats de la nouvelle publication de l’Office fédéral de la statistique sur le microrecensement formation de base et formation continue 2021. </lead>
       <text link="no">Vous trouverez ce communiqué de presse et d'autres informations sur ce thème sur le site web de l'OFS (cf. lien ci-dessous).</text>
       <contact>Emanuel von Erlach, OFS, section Système de formation, tél.: +41 58 463 62 23, e-mail: weiterbildung@bfs.admin.ch</contact>
-      <link id="237999">
+      <link id="238226">
         <title>Texte intégral et dossier de presse</title>
         <uri>https://www.bfs.admin.ch/news/fr/2022-0297</uri>
         <position>Context</position>
@@ -66,7 +95,7 @@
       <lead>Nel 2021, il 68% della popolazione ha seguito una formazione di base o una formazione continua o si è perfezionato autonomamente. Mentre a seguire una formazione di base sono soprattutto le persone fino ai 34 anni, circa la metà di quelle che seguono una formazione continua ha tra i 25 e i 60 anni, età a partire da cui questa quota diminuisce in modo netto. Il 29% della popolazione tra i 25 e i 74 anni non ha potuto seguire una formazione di base o una formazione continua come avrebbe desiderato. Il 12% di queste persone non ha potuto affatto formarsi, mentre il 17% ha potuto farlo ma in misura inferiore a quanto auspicato. Questi e altri risultati sono illustrati nell’ultima pubblicazione del microcensimento formazione di base e formazione continua 2021 dell’Ufficio federale di statistica (UST).</lead>
       <text link="no">Il presente comunicato stampa e ulteriori informazioni sul tema sono reperibili sulla pagina Internet dell'UST (link sotto). </text>
       <contact>Emanuel von Erlach, UST, sezione Sistema di formazione, tel.: +41 58 463 62 23, e-mail: weiterbildung@bfs.admin.ch</contact>
-      <link id="238000">
+      <link id="238227">
         <title>Testo integrale e dossier per i media</title>
         <uri>https://www.bfs.admin.ch/news/it/2022-0297</uri>
         <position>Context</position>
@@ -79,7 +108,7 @@
       <lead>In 2021, 68% of the population took part in education and training (including continuing education and self-directed learning). While the majority of people in education and training are under the age of 34, participation in continuing education is around 50% among persons aged 25 to 60 and only declines significantly after that age. 29% of the population aged 25 to 74 were unable to continue education as they wished, with 17% being only partially able and 12% not at all. These and other findings are presented in the latest publication on the Swiss Adult Education Survey 2021 by the Federal Statistical Office (FSO). </lead>
       <text link="no">This press release and further information on the topic can be found on the FSO website (see link below). </text>
       <contact>Emanuel von Erlach, FSO, Education System, tel.: +41 58 463 62 23, e-mail: weiterbildung@bfs.admin.ch</contact>
-      <link id="238001">
+      <link id="238228">
         <title>Complete text and press kit - Please note that the English version only includes the release's lead</title>
         <uri>https://www.bfs.admin.ch/news/en/2022-0297</uri>
         <position>Context</position>
