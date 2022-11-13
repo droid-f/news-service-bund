@@ -19,35 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="101" lead="no" topnews="no">
-      <department-id>101</department-id>
-      <name lang="de">Bundeskanzlei</name>
-      <name lang="fr">Chancellerie fédérale</name>
-      <name lang="it">Cancelleria federale</name>
-      <name lang="en">Federal Chancellery</name>
-      <www lang="de">http://www.bk.admin.ch</www>
-      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
-      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
-      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
-      <email lang="de">infokomm@admin.ch</email>
-      <email lang="fr">infokomm@admin.ch</email>
-      <email lang="it">infokomm@admin.ch</email>
-      <email lang="en">infokomm@admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="201" lead="no" topnews="no">
-      <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <originator department-msg="no" id="601" lead="no" topnews="no">
       <department-id>601</department-id>
@@ -64,20 +49,35 @@
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="101" lead="no" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -93,33 +93,19 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="101">
-      <name lang="de">Bundeskanzlei</name>
-      <name lang="fr">Chancellerie fédérale</name>
-      <name lang="it">Cancelleria federale</name>
-      <name lang="en">Federal Chancellery</name>
-      <www lang="de">http://www.bk.admin.ch</www>
-      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
-      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
-      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
-      <email lang="de">infokomm@admin.ch</email>
-      <email lang="fr">infokomm@admin.ch</email>
-      <email lang="it">infokomm@admin.ch</email>
-      <email lang="en">infokomm@admin.ch</email>
-    </department>
-    <department id="201">
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <department id="601">
       <name lang="de">Eidgenössisches Finanzdepartement</name>
@@ -135,19 +121,33 @@
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
     </department>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
