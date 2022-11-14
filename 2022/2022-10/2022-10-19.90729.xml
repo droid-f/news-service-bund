@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="90729" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-10-19</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it">info@sem.admin.ch</email>
       <email lang="en">info@sem.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,23 +63,37 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Gezielte Zulassung zum Arbeitsmarkt für Drittstaatsangehörige mit Schweizer Hochschulabschluss</title>
       <lead>Wer einen Masterabschluss oder ein Doktorat in einem Bereich mit Fachkräftemangel erhält, soll in der Schweiz bleiben und arbeiten können, auch wenn er oder sie aus einem Drittstaat kommt. Es handelt sich um eine zahlenmässig beschränkte Gruppe. Das hat der Bundesrat an seiner Sitzung vom 19. Oktober 2022 beschlossen. Die Botschaft zur Änderung des Ausländer- und Integrationsgesetzes (AIG) geht auf eine Forderung des Parlaments zurück, das als nächstes über die Vorlage berät.</lead>
       <text link="no"> &lt;p&gt;Mit der Motion «Wenn die Schweiz teure Spezialisten ausbildet, sollen sie auch hier arbeiten können» (17.3067 Marcel Dobler) fordert das Parlament eine Ausnahme bei den Kontingenten für Arbeitskräfte aus Ländern ausserhalb der Europäischen Union und den EFTA-Ländern. An Universitäten und ETHS ausgebildete Drittstaatsangehörige (Masterabsolventinnen und -absolventen sowie Doktorandinnen und Doktoranden) aus Bereichen mit ausgewiesenem Fachkräftemangel sollen bei der Zulassung vom Arbeitsmarkt von den Drittstaatskontingenten ausgenommen werden.&lt;/p&gt; &lt;h3&gt;Im Interesse des Standorts Schweiz &lt;/h3&gt; &lt;p&gt;Die Ausnahme von den Höchstzahlen für ausländische Hochschulabsolventinnen und Hochschulabsolventen bei der Zulassung zum Arbeitsmarkt kommt nur dann zur Anwendung, wenn die auszuübende Erwerbstätigkeit von hohem wissenschaftlichem oder wirtschaftlichem Interesse ist. Nach geltendem Recht sind diese Personen bereits unter den gleichen Voraussetzungen vom Vorrang der Inländerinnen und Inländer sowie der EU/EFTA-Angehörigen ausgenommen.&lt;/p&gt; &lt;p&gt;Die hier vorgeschlagene Änderung der Regelung entspricht den Interessen des Wirtschaftsstandorts Schweiz. Die betroffenen Personen wurden in unseren akademischen Institutionen ausgebildet und sind in der Regel bereits gut in die Schweizer Gesellschaft integriert. Es handelt sich auch um eine zahlenmässig beschränkte Gruppe von jährlich schätzungsweise 200 bis 300 Personen.&lt;/p&gt; </text>
       <contact>Information und Kommunikation SEM, medien@sem.admin.ch</contact>
-      <link id="236902">
+      <link id="238294">
         <title>Bericht über die Ergebnisse des Vernehmlassungsverfahrens</title>
         <uri>https://www.sem.admin.ch/dam/sem/de/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236903">
+      <link id="238295">
         <title>Botschaft</title>
         <uri>https://www.sem.admin.ch/dam/sem/de/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/bot.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236904">
+      <link id="238296">
         <title>Entwurf</title>
         <uri>https://www.sem.admin.ch/dam/sem/de/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/entw.pdf</uri>
         <position>Context</position>
@@ -106,17 +106,17 @@
       <lead>Les titulaires d'un master ou d'un doctorat obtenu dans un domaine souffrant d’une pénurie de main-d'œuvre spécialisée doivent pouvoir rester en Suisse et y travailler même s'ils viennent d'un pays tiers ; on parle ici d'un groupe de personnes assez restreint. C’est ce qu’a décidé le Conseil fédéral lors de sa séance du 19 octobre 2022. Le message relatif à la modification de la loi fédérale sur les étrangers et l'intégration fait suite à une demande du Parlement, qui va maintenant en débattre.</lead>
       <text link="no"> &lt;p&gt;En adoptant la motion « Si la Suisse paie la formation coûteuse de spécialistes, ils doivent aussi pouvoir travailler ici » (17.3067 Marcel Dobler), le Parlement demandait que les contingents ne s'appliquent pas aux travailleurs qualifiés provenant de pays hors de l'UE et de l'AELE. Lors de leur admission sur le marché du travail, les ressortissants d'États tiers qui ont obtenu un master ou un doctorat dans une université suisse ou une école polytechnique fédérale dans un domaine souffrant d'une pénurie avérée de personnel qualifié ne doivent pas être soumis au contingentement fixé pour les citoyens des pays tiers.&lt;/p&gt; &lt;h3&gt;Intérêt de la Suisse &lt;/h3&gt; &lt;p&gt;La dérogation aux nombres maximums pour les diplômés étrangers des hautes écoles ne vaut que pour les personnes dont l'activité revêt un intérêt scientifique ou économique prépondérant. En vertu du droit en vigueur, ces personnes ne sont déjà pas concernées par le principe de la priorité accordée aux travailleurs présents en Suisse et aux ressortissants d'États membres de l'UE ou de l'AELE.&lt;/p&gt; &lt;p&gt;La modification ici proposée est conforme aux intérêts de l'économie suisse. Formés dans les institutions académiques helvétiques, les intéressés sont, en général, déjà bien intégrés dans la société suisse. On estime que le groupe concerné représente 200 à 300 personnes par an.&lt;/p&gt; </text>
       <contact>Information et communication SEM, medien@sem.admin.ch</contact>
-      <link id="236905">
+      <link id="238297">
         <title>Rapport sur les résultats de la consultation</title>
         <uri>https://www.sem.admin.ch/dam/sem/fr/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236906">
+      <link id="238298">
         <title>Message</title>
         <uri>https://www.sem.admin.ch/dam/sem/fr/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/bot.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236907">
+      <link id="238299">
         <title>Projet</title>
         <uri>https://www.sem.admin.ch/dam/sem/fr/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/entw.pdf</uri>
         <position>Context</position>
@@ -129,17 +129,17 @@
       <lead>Chiunque consegua un diploma di master o un dottorato in un settore con penuria di specialisti deve poter rimanere e lavorare in Svizzera anche se proveniente da uno Stato terzo. Si tratta di un gruppo numericamente ristretto. Lo ha deciso il Consiglio federale nella seduta del 19 ottobre 2022. Il messaggio concernente la modifica della legge sugli stranieri e la loro integrazione (LStrI), trae origine da una richiesta del Parlamento, che ora discuterà il progetto. </lead>
       <text link="no"> &lt;p&gt;Con la mozione «Gli specialisti formati a caro prezzo in Svizzera devono poter lavorare nel nostro Paese» (17.3067 Marcel Dobler), il Parlamento chiede una deroga ai contingenti per la manodopera proveniente dai Paesi al di fuori dell'Unione europea e dai Paesi AELS. Per l'ammissione al mondo del lavoro, s'intendono esentare dai contingenti i cittadini di Stati terzi che si sono formati alle università e ai Politecnici federali (titolari di un master o un dottorato) nei settori con comprovata penuria di specialisti. &lt;/p&gt; &lt;h3&gt;Nell'interesse della piazza economica svizzera &lt;/h3&gt; &lt;p&gt;Nel quadro dell'ammissione al mercato del lavoro, la deroga ai contingenti a favore degli stranieri con un diploma universitario si applica solo se l'attività lucrativa da esercitare riveste un alto interesse scientifico o economico. Già secondo il diritto vigente, per le persone che soddisfano queste condizioni non si applica la regola della priorità dei lavoratori indigeni e dei cittadini dell'UE/AELS. &lt;/p&gt; &lt;p&gt;La proposta di modifica della normativa coincide con gli interessi della piazza economica svizzera. Le persone in questione si sono formate nelle nostre istituzioni accademiche e di norma sono già ben integrate nella società svizzera. Si tratta di un gruppo numericamente ristretto, approssimativamente 200-300 persone all'anno. &lt;/p&gt; </text>
       <contact>Informazione e comunicazione SEM, medien@sem.admin.ch</contact>
-      <link id="236908">
+      <link id="238300">
         <title>Rapporto sui risultati della procedura di consultazione</title>
         <uri>https://www.sem.admin.ch/dam/sem/it/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/ve-ber.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236909">
-        <title>Message</title>
+      <link id="238301">
+        <title>Messaggio</title>
         <uri>https://www.sem.admin.ch/dam/sem/it/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/bot.pdf</uri>
         <position>Context</position>
       </link>
-      <link id="236910">
+      <link id="238302">
         <title>Disegno</title>
         <uri>https://www.sem.admin.ch/dam/sem/it/data/aktuell/gesetzgebung/aend-aig-hochschulabschluss/entw.pdf</uri>
         <position>Context</position>
