@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="91900" revoked="no">
+    <version>1</version>
+    <pubdate>2022-11-24</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Konsortium sichert Projektfinanzierung zu ORD-Verfahren</title>
+      <lead>Ein Konsortium mit Forschenden des Paul Scherrer Instituts (PSI), der Empa und der ETH Zürich hat für ein dreijähriges Projekt knapp 1,3 Millionen Franken erhalten; dabei geht es um verbesserte Verfahren für das Management von Forschungsdaten in den Materialwissenschaften, die offen und für alle frei zugänglich sein sollen – was gemeinhin mit «Open Research Data» (ORD) bezeichnet wird. «PREMISE», so der Name des Projekts, ist Teil einer Initiative des ETH-Rats, um die Handhabung und Verwaltung von ORD weiterzuentwickeln.</lead>
+      <text link="no">&lt;p&gt;Ziel des Projekts ist es, ORD-Praktiken, die den so genannten FAIR-Prinzipien für die Handhabung von Forschungsdaten entsprechen («Findable, Accessible, Interoperable and Reusable both for machines and for people»), im Bereich der Materialwissenschaften zu etablieren, zu fördern und deren Verbreitung zu erleichtern. Im Laufe des dreijährigen Projekts soll das Konsortium die noch fehlenden Komponenten bereitstellen, um eine offene, vergleich- und reproduzierbare Forschung durch frei zugängliche Datenformate zu gewährleisten, die von der gesamten wissenschaftlichen Gemeinschaft genutzt werden können. Ein besonderes Augenmerk legen die Forschenden dabei auf die Interoperabilität und Kompatibilität von Simulationsdaten und experimentellen Daten, da derzeit noch keine Verfahren für die Verwaltung von Forschungsdaten zur Verfügung stehen, die diese beiden Bereiche vereinen können.&lt;/p&gt;&lt;b&gt;Synergien zwischen Experimenten und Computersimulationen &lt;/b&gt;&lt;br /&gt;&lt;p&gt;Während des Projekts wird das Konsortium auf zwei bestehende Plattformen zurückgreifen: «openBIS», eine an der ETH Zürich entwickelte Open Source-Software für Datenmanagement, und «AiiDA», ein Open Source-Workflow-Management-System, das hauptsächlich an der EPFL und dem PSI im Rahmen des NFS MARVEL («Materials' Revolution: Computational Design and Discovery of Novel Materials»; https://nccr-marvel.ch/) entwickelt wurde. Diese beiden Plattformen decken unterschiedliche Bereiche des Forschungsalltags ab – und damit auch der daraus resultierenden Daten: diejenigen aus Experimenten bzw. aus Computersimulationen und -modellen. Die Forschenden sind überzeugt, dass die Verknüpfung und die sich dadurch ergebenden Synergien zwischen den beiden Plattformen das fehlende Bindeglied für eine Automatisierung der gesamten experimentellen «Wertschöpfungskette» darstellen auf dem Weg zu autonomen «FAIR-by-design»-Laboratorien. Für diesen entscheidenden Schritt gibt es derzeit keine allgemein anerkannten ORD-Praktiken. «Die Idee dahinter ist, Laborexperimente weitgehend autonom, d.h. mit minimalem menschlichem Eingriff durchzuführen und gleichzeitig automatisch Computersimulationen auszulösen, die die Experimente ergänzen», sagt Empa-Forscher Carlo Pignedoli, der dem Konsortium angehört. «Einerseits ist eine gut durchdachte Datenmanagement-Strategie eine Voraussetzung, um einen hohen Automatisierungsgrad zu erreichen; andererseits sind umso mehr der so generierten Daten dann per Definition FAIR-konform, je mehr wir automatisieren können.»&lt;/p&gt; &lt;p&gt;Die Finanzierung des Projekts steht im Zusammenhang mit der ORD-Initiative des ETH-Rats. «PREMISE» fällt unter die Projektkategorie «Establish»; diese Art von Projekten soll es ermöglichen, bereits bestehende ORD-Praktiken breit zu etablieren, ihre Anwendbarkeit zu verbessern, ihr Qualitätsniveau anzuheben und sie als allgemein anerkannte Standards in der Forschungsgemeinschaft zu verankern. Das Konsortium besteht aus dem Projektleiter Giovanni Pizzi vom PSI, Carlo Pignedoli, Corsin Battaglia und Peter Kraus von der Empa sowie Bernd Rinn, Caterina Barillari und Henry Lütcke von der ETH Zürich.&lt;/p&gt;</text>
+      <contact>Dr. Carlo Pignedoli Empa-Abteilung nanotech@surfaces Tel. +41 58 765 42 06 carlo.pignedoli@empa.ch Dr. Corsin Battaglia Empa-Abteilung Materials for Energy Conversion Tel. +41 58 765 41 31 corsin.battaglia@empa.ch</contact>
+      <attachment id="239095">
+        <title>Wissenschaftliche Experimente und Computermodelle: Das ORD-Projekt will offene und reproduzierbare Forschung in einem frei zugänglichen Format fördern, das von der wissenschaftlichen Gemeinschaft genutzt werden kann. Bild: Empa</title>
+        <format>png</format>
+        <size-kb>939</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74090.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="239099">
+        <title>Das «PREMISE»-Projekt möchte erstmals eine nahtlose Integration offener Daten ermöglichen, die sowohl aus Laborexperimenten als auch aus Simulationen stammen. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>958</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74091.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="239104">
+        <title>Link zur Medienmitteilung der Empa</title>
+        <uri>https://www.empa.ch/web/s604/open-research-data-management</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Un consortium assure le financement d'un projet sur les procédures ORD</title>
+      <lead>Un consortium de chercheurs de l'Institut Paul Scherrer (PSI), de l'Empa et de l'ETH Zurich a obtenu près de 1,3 million de francs pour un projet de trois ans; il s'agit d'améliorer les procédures de gestion des données de recherche dans les sciences des matériaux, qui doivent être ouvertes et librement accessibles à tous – ce que l'on appelle communément "Open Research Data" (ORD). PREMISE, tel est le nom du projet, fait partie d'une initiative du Conseil des EPF visant à développer le traitement et la gestion des ORD.</lead>
+      <text link="no">&lt;p&gt;L'objectif du projet est d'établir, de promouvoir et de faciliter la diffusion de pratiques ORD conformes aux principes dits FAIR pour la gestion des données de recherche ("Trouvable, accessible, interopérable et réutilisable, tant pour les machines que pour les personnes"; https://www.nature.com/articles/sdata201618) dans le domaine des sciences des matériaux. Au cours de ce projet de trois ans, le consortium doit fournir les composants manquants afin de garantir une recherche ouverte, comparable et reproductible grâce à des formats de données librement accessibles et utilisables par l'ensemble de la communauté scientifique. Les chercheurs accordent une attention particulière à l'interopérabilité et à la compatibilité des données de simulation et des données expérimentales, car il n'existe actuellement aucune procédure de gestion des données de recherche permettant de réunir ces deux domaines.&lt;/p&gt;&lt;b&gt;Synergies entre les expériences et les simulations informatiques&lt;/b&gt;&lt;p&gt;Durant le projet, le consortium s'appuiera sur deux plateformes existantes: openBIS, un logiciel open source de gestion des données développé à l'ETH Zurich, et AiiDA, un système open source de gestion des flux de travail développé principalement à l'EPFL et au PSI dans le cadre du PRN MARVEL ("La révolution des matériaux : Conception et découverte computationnelles de nouveaux matériaux "; https://nccr-marvel.ch/). Ces deux plateformes couvrent différents domaines de la recherche quotidienne – et donc des données qui en résultent: celles issues d'expériences ou de simulations et de modèles informatiques. Les chercheurs sont convaincus que le lien et les synergies qui résultent des deux plateformes constituent le chaînon manquant pour automatiser l'ensemble de la "chaîne de valeur" expérimentale sur la voie des laboratoires autonomes "FAIR-by-design". Il n'existe actuellement aucune pratique ORD généralement acceptée pour cette étape cruciale. "L'idée est de réaliser des expériences de laboratoire de manière largement autonome, c'est-à-dire avec une intervention humaine minimale, tout en déclenchant automatiquement des simulations informatiques qui complètent les expériences", explique Carlo Pignedoli, chercheur à l'Empa et membre du consortium. "D'une part, une stratégie de gestion des données bien conçue est une condition préalable pour atteindre un haut degré d'automatisation; d'autre part, plus nous pouvons automatiser, plus les données ainsi générées sont alors, par définition, conformes à la norme FAIR".&lt;/p&gt; &lt;p&gt;Le financement du projet est lié à l'initiative ORD du Conseil des EPF. "PREMISE" relève de la catégorie de projets "Establish"; ce type de projets doit permettre d'établir largement des pratiques ORD déjà existantes, d'améliorer leur applicabilité, d'élever leur niveau de qualité et de les ancrer en tant que normes généralement reconnues dans la communauté des chercheurs. Le consortium est composé du chef de projet Giovanni Pizzi du PSI, de Carlo Pignedoli, Corsin Battaglia et Peter Kraus de l'Empa, ainsi que de Bernd Rinn, Caterina Barillari et Henry Lütcke de l'ETH Zurich.&lt;/p&gt;</text>
+      <contact>Dr. Carlo Pignedoli Empa Département nanotech@surfaces Tél.+41 58 765 42 06 carlo.pignedoli@empa.ch Dr. Corsin Battaglia Empa Département Materials for Energy Conversion Tél. +41 58 765 41 31 corsin.battaglia@empa.ch</contact>
+      <attachment id="239100">
+        <title>Expériences et simulations scientifiques : Le projet ORD veut promouvoir une recherche ouverte et reproductible dans un format accessible et partageable avec la grande communauté scientifique. Image : Empa</title>
+        <format>png</format>
+        <size-kb>939</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74092.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="239101">
+        <title>Le projet PREMISE vise à permettre pour la première fois l'intégration transparente de données ouvertes provenant à la fois d'expériences de laboratoire et de simulations. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>958</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74093.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="239105">
+        <title>Lien vers le communiqué de presse de l'Empa</title>
+        <uri>https://www.empa.ch/web/s604/open-research-data-management</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Consortium wins funding for project on ORD practices</title>
+      <lead>A consortium with researchers from the Paul Scherrer Institute (PSI), Empa and ETH Zurich has won funding of almost CHF1.3 million for a three-year project on open and reproducible materials science research. The project is part of the initiative of the ETH Board to further develop existing Open Research Data (ORD) management.</lead>
+      <text link="no">&lt;p&gt;The three-year project, dubbed PREMISE, aims to establish, promote and facilitate the adoption of ORD practices that adhere to FAIR data principles ("Findable, Accessible, Interoperable and Reusable both for machines and for people") in the field of materials science. During the course of the project, the consortium will provide the missing critical components to enable open and reproducible research in an accessible format that is shareable with the broad scientific community. They will place a particular focus on addressing interoperability between data from simulations and experiments because there are currently no established research data management practices for combining them.&lt;/p&gt;&lt;b&gt;Synergy between experiments and computer simulations&lt;/b&gt;&lt;p&gt;During the project, the researchers will draw on the existing platforms openBIS, an open-source data management platform developed at ETH Zurich, and AiiDA, an open-source workflow management system mainly developed at EPFL and PSI as part of the NCCR MARVEL (Materials’ Revolution: Computational Design and Discovery of Novel Materials; https://nccr-marvel.ch/). The two platforms focus on different parts of the data life cycle – experiments and simulations, respectively. The researchers are convinced that the synergy and connection between the two will also provide the missing link to enable the automation of the entire experimental "value chain", which will eventually lead to the establishment of autonomous FAIR-by-design laboratories. Such a link is a crucial step, for which ORD practices are currently missing. "The idea is really to run lab experiments autonomously, that is, with minimal human intervention and trigger the automatic execution of simulations that are complementary to the experiments", says Empa researcher Carlo Pignedoli who is part of the consortium. "On the one hand, a well-designed data management strategy is a prerequisite to achieving high levels of automation; on the other hand, the more we manage to automate, the more data are, by definition, compliant with the FAIR principles."&lt;/p&gt; &lt;p&gt;The funding for the project is linked to the ETH Board’s ORD initiative. PREMISE is an Establish project, meant to allow the establishment of ORD practices that already exist, bringing them to the next level, improving their scope, raising their level of quality and anchoring them as community standards. The consortium consists of project leader Giovanni Pizzi (PSI), Carlo Pignedoli, Corsin Battaglia and Peter Kraus (Empa), Bernd Rinn, Caterina Barillari and Henry Lütcke (ETH Zurich).&lt;/p&gt;</text>
+      <contact>Dr. Carlo Pignedoli Empa Department nanotech@surfaces Phone +41 58 765 42 06 carlo.pignedoli@empa.ch Dr. Corsin Battaglia Empa Department Materials for Energy Conversion Phone +41 58 765 41 31 corsin.battaglia@empa.ch</contact>
+      <attachment id="239102">
+        <title>Scientific experiments and simulations: The ORD project wants to promote open and reproducible research in an accessible format that is shareable with the broad scientific community. Image: Empa</title>
+        <format>png</format>
+        <size-kb>939</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74094.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="239103">
+        <title>The PREMISE project will put particular emphasis on enabling, for the first time, a seamless integration of open data originating from both experiments and simulations. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>958</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74095.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="239106">
+        <title>Link to the Empa media release</title>
+        <uri>https://www.empa.ch/web/s604/open-research-data-management</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
