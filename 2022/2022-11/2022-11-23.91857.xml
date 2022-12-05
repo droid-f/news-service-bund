@@ -34,6 +34,21 @@
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="404" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="en">Federal Office of Police</name>
+      <www lang="de">http://www.fedpol.admin.ch/fedpol/de/home.html</www>
+      <www lang="fr">http://www.fedpol.admin.ch/fedpol/fr/home.html</www>
+      <www lang="it">http://www.fedpol.admin.ch/fedpol/it/home.html</www>
+      <www lang="en">http://www.fedpol.admin.ch/fedpol/en/home.html</www>
+      <email lang="de">info@fedpol.admin.ch</email>
+      <email lang="fr">info@fedpol.admin.ch</email>
+      <email lang="it">info@fedpol.admin.ch</email>
+      <email lang="en">info@fedpol.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="1065" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Nachrichtendienst des Bundes</name>
@@ -62,6 +77,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
