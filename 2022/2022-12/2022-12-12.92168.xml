@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="92168" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2022-12-12</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="201" lead="yes" topnews="no">
@@ -19,6 +19,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
     <department id="201">
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
@@ -33,18 +48,32 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Schweiz und Rumänien unterzeichnen Abkommen zur Umsetzung des zweiten Schweizer Beitrags</title>
       <lead>Bundespräsident Ignazio Cassis ist am Montag, 12. Dezember 2022, in Bukarest mit dem rumänischen Präsidenten Klaus Werner Iohannis und dem Premierminister Nicolae Ciucă zusammengetroffen. Mit Finanzminister Adrian Câciu unterzeichnete der Bundespräsident ein Abkommen zur Umsetzung des zweiten Schweizer Beitrags. Das Abkommen sieht vor, dass die Schweiz 221.5 Millionen Franken zur Verfügung stellt, um bis 2029 verschiedene Projekte in Rumänien zu finanzieren. Im Vorfeld des Besuchs in Bukarest hatte der Bundespräsident ausserdem ein Arbeitstreffen mit der Präsidentin der Republik Moldova, Maia Sandu. </lead>
       <text link="no"> &lt;p&gt;Bundespräsident Cassis würdigte das Abkommen als Chance, die bilateralen Beziehungen weiter zu vertiefen: «Die Schweiz und Rumänien haben bereits im Rahmen des ersten Schweizer Beitrags in mehreren Themenbereichen zusammengearbeitet. Die enge Zusammenarbeit, die dabei aufgebaut wurde, hat sich positiv auf die Beziehungen zwischen unseren beiden Ländern ausgewirkt» sagte der Bundespräsident in Bukarest. Insbesondere die wirtschaftlichen Beziehungen haben sich in den letzten Jahren stark entwickelt und Rumänien ist heute der wichtigste Handelspartner der Schweiz in Südosteuropa. &lt;/p&gt; &lt;p&gt;Der zweite Schweizer Beitrag knüpft an den vorangegangenen Erweiterungsbeitrag der Schweiz an. Bereits zwischen 2009 und 2019 hat die Schweiz mit rund 180 Millionen Franken zahlreiche Projekte in Rumänien finanziert, die der Gesellschaft als Ganzes zugutekamen. Wie schon beim Erweiterungsbeitrag fliessen die Gelder des zweiten Schweizer Beitrags in Projekte, an denen sich Rumänien ebenfalls finanziell beteiligt. Expertinnen und Experten beider Länder werden an der Umsetzung des Programms arbeiten, zu dessen Schwerpunkten die Wirtschaftsentwicklung, die Förderung von Energieeffizienz und Nachhaltigkeit sowie die soziale Integration zählen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Europapolitik und Sicherheitslage &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Neben den bilateralen Beziehungen war auch die Europapolitik Thema der hochrangigen Gespräche. Bundespräsident Cassis verwies auf die intensiven Sondierungsgespräche, die derzeit zwischen der Schweiz und der EU laufen. Ziel des Bundesrats sei es, den bilateralen Weg mit der EU zu stabilisieren und weiterzuentwickeln. &lt;/p&gt; &lt;p&gt;Ebenfalls zur Sprache kamen der Krieg in der Ukraine und die Sicherheitslage in Europa. Die Schweiz würdigte dabei das Engagement Rumäniens zugunsten der Stabilität und Energieversorgung Moldovas, welches mit Rumänien eine Grenze teilt. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Arbeitstreffen mit Präsidentin Maia Sandu&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Bundespräsident Cassis tauschte sich im Vorfeld der Treffen in Bukarest mit Präsidentin Maia Sandu aus. Der Fokus des Gesprächs lag auf den Auswirkungen des Kriegs in der Ukraine auf Moldova und die Unterstützung der Schweiz in diesem Zusammenhang. Weiter wurden diverse bilaterale Themen besprochen.&lt;/p&gt; </text>
       <contact>Kommunikation EDA Bundeshaus West CH-3003 Bern Tel. Kommunikationsservice: +41 58 462 31 53 Tel. Medienstelle: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="240029">
+      <link id="240086">
         <title>Bilaterale Beziehungen Schweiz–Rumänien</title>
         <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/rumaenien/bilatereale-beziehungenschweizrumaenien.html</uri>
         <position>Content</position>
       </link>
-      <link id="240034">
+      <link id="240091">
         <title>Schweizer Beitrag an ausgewählte EU-Mitgliedstaaten</title>
         <uri>https://www.eda.admin.ch/schweizerbeitrag/de/home.html</uri>
         <position>Content</position>
@@ -57,12 +86,12 @@
       <lead>Le président de la Confédération Ignazio Cassis a rencontré le lundi 12 décembre 2022, à Bucarest, le président de la Roumanie Klaus Werner Iohannis et le premier ministre Nicolae Ciuca. Avec le ministre des finances Adrian Caciu, le président de la Confédération a signé un accord sur la mise en œuvre de la deuxième contribution de la Suisse. Cet accord prévoit que la Suisse débloquera 221,5 millions de francs pour financer différents projets en Roumanie jusqu’en 2029. Plus tôt dans la journée, le président de la Confédération s’est également entretenu avec la présidente de la République de Moldova Maia Sandu dans le cadre d’une réunion de travail. </lead>
       <text link="no"> &lt;p&gt;Le président de la Confédération Cassis a salué l’accord, en y voyant une chance de renforcer davantage les relations bilatérales entre la Suisse et la Roumanie. Il a ainsi rappelé à Bucarest que les deux pays avaient déjà coopéré dans plusieurs domaines dans le cadre de la première contribution de la Suisse, et que la collaboration étroite qui s’était établie à cette occasion avait eu un effet positif sur leurs relations. Les relations économiques, notamment, se sont fortement développées, au point que la Roumanie est aujourd’hui le principal partenaire commercial de la Suisse en Europe du Sud-Est. &lt;/p&gt; &lt;p&gt;La deuxième contribution de la Suisse s’inscrit dans la continuité de la précédente contribution à l’élargissement. Entre 2009 et 2019, la Suisse avait en effet déjà financé, à hauteur de quelque 180 millions de francs, de nombreux projets en Roumanie qui ont bénéficié à la société dans son ensemble. Comme cela était déjà le cas avec la contribution à l’élargissement, l’argent de la deuxième contribution suisse ira à des projets auxquels la Roumanie est associée financièrement. Des experts des deux pays s’attelleront à la mise en œuvre du programme, dont les priorités sont notamment le développement économique, la promotion de l’efficacité énergétique et de la durabilité ainsi que l’intégration sociale. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Politique européenne et situation sécuritaire &lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Au-delà des relations bilatérales, les entretiens de haut niveau ont également porté sur la politique européenne. Le président de la Confédération Ignazio Cassis a rappelé à cet égard les pourparlers exploratoires intenses qui ont lieu actuellement entre la Suisse et l’UE, l’objectif du Conseil fédéral étant de stabiliser et de développer la voie bilatérale avec l’UE. &lt;/p&gt; &lt;p&gt;La guerre en Ukraine et la situation sécuritaire en Europe ont également été évoquées. La Suisse a salué à cet égard l’engagement de la Roumanie en faveur de la stabilité et de l’approvisionnement énergétique de la Moldova, dont elle est limitrophe. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Réunion de travail avec la présidente Maia Sandu&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;En amont de la rencontre à Bucarest, le président Ignazio Cassis a eu des échanges avec la présidente Maia Sandu. Les entretiens ont porté essentiellement sur les répercussions en Moldova de la guerre en Ukraine et sur le soutien fourni par la Suisse dans ce contexte. D’autres thèmes bilatéraux de diverses natures ont été abordés.&lt;/p&gt; </text>
       <contact>Communication DFAE Palais fédéral ouest CH-3003 Berne Tél. Service de communication: +41 58 462 31 53 Tél. Service de presse: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="240030">
+      <link id="240087">
         <title>Relations bilatérales Suisse–Roumanie</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-pour-les-voyages/roumanie/suisse-roumanie.html</uri>
         <position>Content</position>
       </link>
-      <link id="240033">
+      <link id="240090">
         <title>Contribution de la Suisse en faveur de certains États membres de l’UE</title>
         <uri>https://www.eda.admin.ch/schweizerbeitrag/fr/home.html</uri>
         <position>Content</position>
@@ -75,12 +104,12 @@
       <lead>Lunedì 12 dicembre 2022 il presidente della Confederazione Ignazio Cassis ha incontrato a Bucarest il presidente della Romania Klaus Werner Iohannis e il primo ministro Nicolae Ciucă. Il presidente della Confederazione e il ministro delle finanze rumeno Adrian Câciu hanno firmato un accordo sull’attuazione del secondo contributo della Svizzera. L’accordo prevede che la Svizzera metta a disposizione 221,5 milioni di franchi circa per finanziare diversi progetti in Romania entro il 2029. Prima di recarsi a Bucarest il presidente della Confederazione ha inoltre avuto un incontro di lavoro con la presidente della Repubblica di Moldova, Maia Sandu.</lead>
       <text link="no"> &lt;p&gt;Il presidente della Confederazione Ignazio Cassis ha elogiato l’accordo in quanto opportunità per rafforzare ulteriormente le relazioni bilaterali: «Già nel quadro del primo contributo Svizzera e Romania avevano cooperato in diversi settori. La stretta collaborazione che si è stabilita in quell’occasione ha avuto ripercussioni positive sulle relazioni fra i nostri due Paesi» ha affermato a Bucarest il presidente della Confederazione. Negli ultimi anni soprattutto le relazioni economiche hanno conosciuto un forte sviluppo, tant’è che oggi la Romania è il principale partner commerciale della Svizzera nell’Europa sudorientale.&lt;/p&gt; &lt;p&gt;Il secondo contributo della Svizzera si riallaccia al precedente contributo all’allargamento. Fra il 2009 e il 2019 la Svizzera aveva già finanziato con circa 180 milioni di franchi numerosi progetti in Romania che hanno avuto ripercussioni positive per l’intera società. Come per il contributo all’allargamento anche i fondi del secondo contributo svizzero saranno destinati a progetti ai quali parteciperà finanziariamente anche la Romania. Esperti di entrambi i Paesi lavoreranno all’attuazione del programma, le cui priorità sono lo sviluppo economico, la promozione dell'efficienza energetica e della sostenibilità, nonché l’integrazione sociale.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Politica europea e sicurezza&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Oltre alle relazioni bilaterali, durante i colloqui ai massimi livelli è stato sollevato anche il tema della politica europea. Il presidente della Confederazione ha ricordato a tale proposito i colloqui esplorativi intensi attualmente in corso fra la Svizzera e l’UE. L’obiettivo del Consiglio federale è quello di stabilizzare e sviluppare la via bilaterale con l’UE.&lt;/p&gt; &lt;p&gt;Fra i temi dei colloqui anche la guerra in Ucraina e la sicurezza in Europa: la Svizzera ha riconosciuto a tale proposito l’impegno della Romania a favore della stabilità e dell’approvvigionamento energetico della confinante Moldova. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Incontro di lavoro con la presidente Maia Sandu&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Prima dell’incontro a Bucarest il presidente della Confederazione Ignazio Cassis ha avuto un colloquio con la presidente della Moldova Maia Sandu sulle ripercussioni della guerra in Ucraina e sul sostegno svizzero in questo contesto. Sono stati inoltre discussi diversi temi bilaterali. &lt;/p&gt; </text>
       <contact>Comunicazione DFAE Palazzo federale ovest CH-3003 Berna Tel. Servizio di comunicazione: +41 58 462 31 53 Tel. Servizio stampa: +41 58 460 55 55 E-Mail: kommunikation@eda.admin.ch Twitter: @EDA_DFAE</contact>
-      <link id="240031">
+      <link id="240088">
         <title>Relazioni bilaterali Svizzera–Romania</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/romania/svizzera-romania.html</uri>
         <position>Content</position>
       </link>
-      <link id="240035">
+      <link id="240092">
         <title>Contributo della Svizzera ad alcuni Stati membri dell’UE</title>
         <uri>https://www.eda.admin.ch/schweizerbeitrag/it/home.html</uri>
         <position>Content</position>
@@ -93,24 +122,32 @@
       <lead>On Monday, 12 December, President Ignazio Cassis met with President Klaus Werner Iohannis and Prime Minister Nicolae Ciucă in Bucharest. President Cassis then signed an agreement on the implementation of the second Swiss contribution with Finance Minister Adrian Câciu. Under the agreement, Switzerland will provide CHF 221.5 million to finance various projects in Romania until 2029. Prior to visiting Bucharest, Mr Cassis had a working meeting with the President of the Republic of Moldova, Maia Sandu.</lead>
       <text link="no"> &lt;p&gt;President Cassis praised the agreement as an opportunity to further deepen bilateral relations: "Switzerland and Romania have already worked together on several topics within the framework of the first Swiss contribution. The close cooperation that has been established has had a positive impact on the relations between our two countries," said Mr Cassis in Bucharest. In particular, economic relations have developed strongly in recent years and Romania is now Switzerland's most important trading partner in Southeast Europe.&lt;/p&gt; &lt;p&gt;The second Swiss contribution follows on from Switzerland's previous enlargement contribution. Between 2009 and 2019, Switzerland contributed around CHF 180 million to numerous projects in Romania, which benefited society as a whole. As with the enlargement contribution, the funds of the second Swiss contribution will flow into projects in which Romania is also participating financially. Experts from both countries will work on implementing the programme, which focuses on economic development, promoting energy efficiency and sustainability and social integration.&lt;/p&gt;&lt;p&gt;&lt;b&gt;European policy and security situation &lt;/b&gt;&lt;/p&gt; &lt;p&gt;In addition to bilateral relations, European policy was also a topic of the high-level talks. President Cassis referred to the intensive exploratory talks currently under way between Switzerland and the EU. The Federal Council's goal, he said, was to stabilise and further develop the bilateral path with the EU.&lt;/p&gt; &lt;p&gt;The war in Ukraine and the security situation in Europe were also discussed. Switzerland paid tribute to Romania's commitment to stability and energy supply in Moldova, which shares a border with Romania.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Working meeting with Moldovan President Maia Sandu&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Prior to the meetings in Bucharest, President Cassis held talks with President Maia Sandu. The exchange focused on the impact on Moldova of the war in Ukraine and Switzerland's support in that regard. A number of bilateral topics were also discussed.&lt;/p&gt; </text>
       <contact>FDFA Communication Federal Palace West Wing CH-3003 Bern, Switzerland Tel. Communication service: +41 58 462 31 53 Tel. Press service: +41 58 460 55 55 E-mail: kommunikation@eda.admin.ch Twitter: @SwissMFA</contact>
-      <link id="240032">
+      <link id="240089">
         <title>Bilateral relations Switzerland–Romania</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/romania/switzerland-romania.html</uri>
         <position>Content</position>
       </link>
-      <link id="240036">
+      <link id="240093">
         <title>Switzerland's contribution to the enlarged EU</title>
         <uri>https://www.eda.admin.ch/schweizerbeitrag/en/home.html</uri>
         <position>Content</position>
       </link>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="336" org-id="703">
+        <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
+        <name lang="fr">Coopération et développement économiques</name>
+        <name lang="it">Cooperazione e sviluppo economici</name>
+        <name lang="en">Economic Cooperation and Development</name>
+      </offer>
+    </offers>
     <topics>
-      <topic id="39">
-        <name lang="de">Schweiz und Ausland</name>
-        <name lang="fr">Suisse et étranger</name>
-        <name lang="it">Svizzero ed estero</name>
-        <name lang="en">Switzerland and Foreign Affairs</name>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
