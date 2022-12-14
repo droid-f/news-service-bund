@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="92198" revoked="no">
+    <version>1</version>
+    <pubdate>2022-12-14</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>energiedashboard.admin.ch veranschaulicht Energieversorgungssituation der Schweiz</title>
+      <lead>Das Bundesamt für Energie (BFE) hat heute ein Dashboard mit den wichtigsten Kennzahlen zur aktuellen Energieversorgungssituation der Schweiz aufgeschaltet (www.energiedashboard.admin.ch). Die Zahlen, beispielsweise zum Strom- und Gasverbrauch oder zur Inlandproduktion und zu Importen, werden laufend aktualisiert, so dass sich Interessierte jederzeit einen Überblick über die Versorgungslage verschaffen können. Das Dashboard wird in den kommenden Wochen weiterentwickelt und ausgebaut. Insbesondere soll die Datenqualität zum Stromverbrauch mit Hilfe von Methoden der Datenwissenschaft weiter verbessert werden.</lead>
+      <text link="no">&lt;p&gt;Die im Dashboard aggregierten Zahlen basieren einerseits auf öffentlich zugänglichen Quellen, wie jenen des BFE sowie von den europäischen Verbänden der Stromübertragungs- und Gasnetzbetreiber (ENTSO-E, ENTSO-G), von Swissgrid, von Strom- und Gasbörsen und MeteoSchweiz. Andererseits werden für das Dashboard nicht öffentliche Daten verwendet, insbesondere von Swissgrid. Das Dashboard deckt aktuell den Strom- und Gasbereich ab. Erweiterungen auf andere Energieträger und Informationen sind in Prüfung.&lt;/p&gt;&lt;h2&gt;Datenqualität wird laufend verbessert&lt;/h2&gt;&lt;p&gt;Nicht alle Daten sind derzeit auf Basis von Messungen verfügbar. Einige Daten werden von den jeweiligen Akteuren zudem relativ spät und in nicht vollständig befriedigender Qualität geliefert. Vor allem beim Stromverbrauch fliessen in das Dashboard deshalb Angaben ein, die auf Methoden der Datenwissenschaft beruhen, insbesondere des maschinellen Lernens. Das BFE arbeitet dazu mit dem Swiss Data Science Center zusammen.&lt;/p&gt;&lt;p&gt; Aufgrund der derzeit teils noch mangelhaften Datenqualität kann es im Dashboard in der Anfangszeit zu kurzfristigen Abweichungen und dadurch zu nachträglichen Anpassungen kommen. Das BFE treibt die Verbesserung der Datenqualität und Digitalisierung darum gemeinsam mit der Strom- und Gasbranche weiter voran. Bis Ende Januar soll so die Datenqualität insbesondere im Bereich des Stromverbrauchs stark verbessert werden. Dafür wird ein Modell erarbeitet, das auf anonymisierten Smart Meter-Daten beruht, die von einigen Schweizer Netzbetreibern mit einem hohen Smart Meter-Anteil in ihrem Netzgebiet zur Verfügung gestellt werden. In Kombination mit Wetterdaten und historischen Daten können so der Stromverbrauch und z.B. die Einsparungen in täglicher Auflösung für die Schweiz extrapoliert werden. Auch im Gasbereich sollte sich die Datenlage bis Ende Januar weiter verbessern.&lt;/p&gt;&lt;p&gt; Trotz diesen Schwachstellen, an deren Verbesserung intensiv gearbeitet wird, liefert das Dashboard bereits eine gute Übersicht zur Entwicklung der aktuellen Energieversorgungslage.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Leiterin Medien und Politik, Bundesamt für Energie (BFE) 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="240130">
+        <title>www.energiedashboard.admin.ch</title>
+        <uri>http://www.energiedashboard.admin.ch/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Suivre la situation de la Suisse en matière d’approvisionnement en énergie sur dashboardenergie.admin.ch</title>
+      <lead>L’Office fédéral de l’énergie (OFEN) a mis en ligne aujourd’hui un tableau de bord incluant les principaux indicateurs sur la situation actuelle de la Suisse en matière d’approvisionnement en énergie (www.dashboardenergie.admin.ch). Les chiffres représentant par exemple la consommation d’électricité et de gaz ou la production indigène et les importations seront actualisés en continu. Toute personne intéressée pourra ainsi se faire une idée de la situation d’approvisionnement en un seul coup d’œil. Le tableau de bord sera développé au cours des semaines à venir. La qualité des données portant sur la consommation d’électricité sera encore améliorée par des procédés tirés de la science des données.</lead>
+      <text link="no">&lt;p&gt;Les chiffres agrégés figurant dans le tableau de bord proviennent, d'une part, de sources accessibles au public. Il s'agit notamment de données de l'OFEN, des gestionnaires de réseau européens pour l'électricité ou le gaz (ENTSO-E et ENTSO-G), de Swissgrid, des bourses de l'électricité et du gaz et de MétéoSuisse. D'autre part, le tableau de bord puise dans des données non publiées, provenant en particulier de Swissgrid. Il couvre actuellement les secteurs de l'électricité et du gaz. La possibilité d'y ajouter d'autres agents énergétiques et d'autres types d'informations est en cours d'examen.&lt;/p&gt;&lt;h2&gt;Qualité des données améliorée en continu&lt;/h2&gt;&lt;p&gt;Les données ne sont pas toutes fondées sur des mesures. De plus, certaines données sont livrées relativement tard par les acteurs concernés et ne satisfont pas entièrement aux exigences de qualité. Dans le domaine de la consommation d'électricité en particulier, le tableau de bord comprend par conséquent également des indications obtenues par des procédés relevant de la science des données, notamment l'apprentissage automatique. L'OFEN collabore sur ce point avec le Swiss Data Science Center.&lt;/p&gt;&lt;p&gt; Sur le plan qualitatif, toutes les données ne donnent pas encore entièrement satisfaction. Par conséquent, il se peut, ces prochains temps, que des écarts apparaissent brièvement et soient corrigés après coup. L'OFEN s'efforce, en collaboration avec le secteur de l'électricité et celui du gaz, d'obtenir des données de meilleure qualité et de développer la numérisation. La qualité des données devrait ainsi s'améliorer nettement d'ici fin janvier, notamment dans le domaine de la consommation d'électricité. Un modèle est actuellement conçu à cet effet. Il se base sur des données anonymisées tirées de compteurs intelligents (smart meters) mises à disposition par quelques gestionnaires de réseau suisses comptant une forte proportion de tels compteurs dans leur région de desserte. Ces données, combinées à des données météorologiques et à des données historiques, permettent d'extrapoler la consommation d'électricité ainsi que, par exemple, les économies réalisées en Suisse dans une perspective quotidienne. Dans le domaine du gaz également, les données devraient s'améliorer d'ici fin janvier.&lt;/p&gt;&lt;p&gt; Malgré ces défauts de jeunesse, qui font l'objet d'un intense suivi, le tableau de bord permet de visualiser en continu l'évolution de la situation en matière d'approvisionnement en énergie.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, responsable Médias et politique, OFEN 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="240131">
+        <title>www.dashboardenergie.admin.ch</title>
+        <uri>https://www.dashboardenergie.admin.ch/dashboard</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>dashboardenergia.admin.ch informa sulla situazione dell'approvvigionamento energetico in Svizzera</title>
+      <lead>L'Ufficio federale dell'energia (UFE) ha attivato oggi un dashboard sulle principali informazioni concernenti la situazione dell'approvvigionamento energetico in Svizzera (dashboardenergia.admin.ch). I dati, ad esempio sul consumo di energia elettrica e gas oppure sulla produzione nazionale e le importazioni, vengono costantemente aggiornati, in modo che si possa avere in qualsiasi momento un quadro chiaro sulla situazione dell'approvvigionamento. Nelle prossime settimane il dashboard continuerà ad essere ampliato e ulteriormente sviluppato. Con l'applicazione dei principi metodologici della scienza dei dati sarà possibile migliorare costantemente soprattutto la qualità dei dati sul consumo di energia elettrica.</lead>
+      <text link="no">&lt;p&gt;Da un lato i dati aggregati visualizzati sul dashboard si basano su informazioni accessibili al pubblico, fornite ad esempio dall'UFE, dalle associazioni europee dei gestori delle reti di trasmissione elettriche (ENTSO-E) e di gas (ENTSO-G), da Swissgrid, dalle borse dell'elettricità e del gas o da MeteoSvizzera. Dall'altro, integrano dati non pubblicati, messi a disposizione in particolare da Swissgrid. Al momento il dashboard si concentra sui dati del settore dell'energia elettrica e del gas; è tuttavia al vaglio anche la possibilità di inserire i dati di altri vettori energetici e ulteriori informazioni.&lt;/p&gt;&lt;h2&gt;Miglioramento costante della qualità dei dati&lt;/h2&gt;&lt;p&gt;Attualmente non tutti i dati sono determinati sulla base di misurazioni. Alcuni vengono infatti forniti dagli operatori all'ultimo momento e talvolta con una qualità non del tutto soddisfacente. In particolare, per quanto riguarda il consumo di energia elettrica, il dashboard si basa su dati rilevati applicando i principi metodologici della scienza in materia, soprattutto nel settore dell'apprendimento automatico. L'UFE collabora perciò con lo Swiss Data Science Center.&lt;/p&gt;&lt;p&gt; A causa dell'attuale in parte ancora lacunosa qualità dei dati, è probabile che in una prima fase ci siano discrepanze che occorrerà successivamente correggere. L'UFE, insieme ai settori dell'energia elettrica e del gas, si impegna pertanto a promuovere una migliore qualità dei dati e la digitalizzazione. Entro la fine di gennaio si prospetta una migliore qualità dei dati soprattutto nel settore del consumo di energia elettrica grazie all'elaborazione di un modello basato sui dati anonimizzati dei contatori intelligenti (smart meter), forniti da diversi gestori di rete svizzeri che vantano un'alta percentuale di contatori intelligenti nel proprio comprensorio. Combinando tali dati con i dati meteorologici e storici, è pertanto possibile estrapolare i valori giornalieri relativi al consumo di energia elettrica e, ad esempio, anche in relazione al risparmio in Svizzera. Entro la fine di gennaio verrà ottimizzata anche la qualità dei dati relativi al settore del gas.&lt;/p&gt;&lt;p&gt; Nonostante tali lacune, su cui si sta lavorando intensamente per eliminarle, il dashboard è già in grado di fornire una buona panoramica sugli sviluppi dell'attuale situazione dell'approvvigionamento energetico.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, capo Media e Politica, Ufficio federale dell'energia (UFE) tel. 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="240132">
+        <title>www.dashboardenergia.admin.ch</title>
+        <uri>https://www.dashboardenergia.admin.ch/dashboard</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="270" org-id="808">
+        <name lang="de">Elektrizitätsversorgung</name>
+        <name lang="fr">Approvisionnement en electricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="en">Electricity Supply</name>
+      </keyword>
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="en">Energy Policy</name>
+      </keyword>
+      <keyword id="320" org-id="808">
+        <name lang="de">Energieversorgung</name>
+        <name lang="fr">Approvisionnement énergétique</name>
+        <name lang="it">Approvvigionamento energetico</name>
+        <name lang="en">Energy Supply</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
