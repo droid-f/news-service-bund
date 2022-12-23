@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="92335" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2022-12-21</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="403" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Bundesamt für Justiz</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@bj.admin.ch</email>
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -83,13 +83,18 @@
       <lead>Das binäre Geschlechtermodell ist in der schweizerischen Gesellschaft nach wie vor stark verankert. Dies hält der Bundesrat in einem Postulatsbericht fest, den er an seiner Sitzung vom 21. Dezember 2022 verabschiedet hat. Die gesellschaftlichen Voraussetzungen für die Einführung eines dritten Geschlechts oder für einen generellen Verzicht auf den Geschlechtseintrag im Personenstandsregister sind derzeit nicht gegeben. Eine Änderung des binären Geschlechtermodells wäre ausserdem mit zahlreichen Anpassungen der Verfassung und der Gesetze von Bund und Kantonen verbunden. </lead>
       <text link="no"> &lt;p&gt;In der Schweiz werden Personen ab dem Zeitpunkt der Geburt im Personenstandsregister als "männlich" oder "weiblich" eingetragen. Es ist nicht zulässig, den Eintrag offen zu lassen oder eine weitere Geschlechtskategorie zu wählen. Dies namentlich, weil an den Eintrag des Geschlechts zahlreiche rechtliche Konsequenzen geknüpft sind. Eine Änderung des binären Geschlechtermodells würde darum eine Vielzahl von rechtlichen Anpassungen bei Bund und Kantonen nötig machen. &lt;/p&gt; &lt;p&gt;Angepasst werden müsste auch die Bundesverfassung, da diese namentlich im Bereich der Militär- und Ersatzdienstpflicht keine Regelung für Personen enthält, die keinen Geschlechtseintrag haben oder die mit einem anderen Geschlecht als männlich oder weiblich im Register eingetragen sind. &lt;/p&gt; &lt;h3&gt;Gesellschaftlicher Diskurs muss einem neuen Geschlechtermodell vorangehen&lt;/h3&gt; &lt;p&gt;In seinem Bericht zur Erfüllung zweier Postulate aus dem Parlament (17.4121; 17.4185) macht der Bundesrat auf zahlreiche weitere Auswirkungen aufmerksam, welche die Einführung eines dritten Geschlechts oder ein genereller Verzicht auf den Geschlechtseintrag zur Folge hätte. So müssten etwa zahlreiche Register angepasst und die Statistikerhebung neu ausgestaltet werden. &lt;/p&gt; &lt;p&gt;Aufgrund seiner Ausführungen kommt der Bundesrat zum Schluss, dass die Auswirkungen eines neuen Geschlechtermodells in der Gesellschaft noch nicht ausreichend diskutiert worden und deshalb die Voraussetzungen für die Einführung eines dritten Geschlechts oder den generellen Verzicht auf den Geschlechtseintrag derzeit nicht gegeben sind. Diese Haltung teilt auch die Nationale Ethikkommission im Bereich der Humanmedizin (NEK) in ihrem Bericht aus dem Jahr 2020. Darin hält sie fest, dass die heutige Regelung und Praxis zwar unbefriedigend seien, zuerst aber die gesellschaftlichen Voraussetzungen für die Aufgabe des binären Geschlechtermodells geschaffen werden müssten.&lt;/p&gt; </text>
       <contact>David Rüetschi, Bundesamt für Justiz, T +41 58 462 44 18, david.rueetschi@bj.admin.ch</contact>
-      <attachment id="240605">
+      <attachment id="240757">
         <title>Bericht des Bundesrates</title>
         <format>pdf</format>
         <size-kb>319</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/74661.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="240761">
+        <title>Medienmitteilung der NEK vom 22.12.2022</title>
+        <uri>https://www.nek-cne.admin.ch/de/ueber-uns/news/news-details/die-nek-befuerwortet-die-einfuehrung-eines-dritten-amtlichen-geschlechtseintrags</uri>
+        <position>Context</position>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="fr">
@@ -98,13 +103,18 @@
       <lead>Le principe de la binarité des sexes reste profondément ancré dans la société suisse. C’est le constat dressé par Conseil fédéral dans un rapport en réponse à deux postulats, qu’il a adopté lors de sa séance du 21 décembre 2022. Les conditions sociales nécessaires à l’instauration d’un troisième sexe ou à l’abandon de la mention du sexe dans le registre de l’état civil ne sont pour l’heure pas réunies. Sortir du principe de la binarité nécessiterait par ailleurs de nombreuses adaptations de la Constitution et des lois fédérales et cantonales.</lead>
       <text link="no"> &lt;p&gt;En Suisse, les personnes sont enregistrées dès la naissance dans le registre de l'état civil en tant qu'"homme" ou "femme". Il est interdit de ne pas renseigner le sexe et il n'est pas possible de choisir une autre catégorie de genre, en particulier parce que cette indication a de nombreuses conséquences sur le plan légal. Abandonner le principe de la binarité des sexes impliquerait de procéder à de nombreuses adaptations des législations fédérales et cantonales.&lt;/p&gt; &lt;p&gt;La Constitution fédérale devrait être modifiée car dans le domaine du service militaire et du service civil de remplacement notamment, elle ne contient pas de règles concernant les personnes sans mention de sexe ou inscrites sous un autre sexe qu'homme ou femme.&lt;/p&gt; &lt;h3&gt;Nécessité d'un débat social avant l'adoption d'un nouveau principe&lt;/h3&gt; &lt;p&gt;Dans son rapport en réponse à deux postulats du Parlement (17.4121 et 17.4185), le Conseil fédéral rend attentif aux nombreuses autres conséquences que l'ajout d'un troisième sexe ou l'abandon général de l'inscription du sexe à l'état civil pourraient avoir : de nombreux registres devraient être adaptés et les enquêtes statistiques repensées.&lt;/p&gt; &lt;p&gt;Sur la base de ces explications, le Conseil fédéral conclut que les conséquences sociétales d'un nouveau modèle n'ont pas été suffisamment débattues et que les conditions sociales nécessaires à l'abandon de la mention du sexe ou à l'instauration d'un troisième sexe à l'état civil ne sont aujourd'hui pas réunies. La Commission d'éthique dans le domaine de la médecine humaine partage cette position dans son rapport de 2020. Elle y constate que la réglementation et les pratiques actuelles ne sont pas satisfaisantes, mais estime que les conditions sociales doivent d'abord être réunies avant d'envisager d'abandonner le principe de la binarité des sexes. &lt;/p&gt; </text>
       <contact>David Rüetschi, Office fédéral de la justice, T +41 58 462 44 18, david.rueetschi@bj.admin.ch</contact>
-      <attachment id="240606">
+      <attachment id="240758">
         <title>Rapport du Conseil fédéral</title>
         <format>pdf</format>
         <size-kb>353</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/74662.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="240761">
+        <title>Medienmitteilung der NEK vom 22.12.2022</title>
+        <uri>https://www.nek-cne.admin.ch/de/ueber-uns/news/news-details/die-nek-befuerwortet-die-einfuehrung-eines-dritten-amtlichen-geschlechtseintrags</uri>
+        <position>Context</position>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="it">
@@ -113,30 +123,35 @@
       <lead>Il binarismo dei sessi è un modello tuttora ben radicato nella società svizzera. Lo afferma il Consiglio federale nel rapporto in adempimento di due postulati adottato nella seduta del 21 dicembre 2022. Attualmente non sussistono le premesse sociali per introdurre un terzo sesso o per rinunciare del tutto all’iscrizione del sesso nel registro dello stato civile. Una modifica del binarismo dei sessi renderebbe inoltre necessari numerosi adeguamenti della Costituzione come pure delle leggi federali e cantonali.</lead>
       <text link="no"> &lt;p&gt;In Svizzera, alla nascita il sesso delle persone è iscritto nel registro dello stato civile come "maschile" o "femminile". Non è permesso lasciare vuota l'iscrizione o scegliere un'altra opzione, anche perché all'iscrizione sono connesse numerose conseguenze giuridiche. Una modifica del binarismo dei sessi renderebbe pertanto necessari numerosi adeguamenti legali a livello federale e cantonale.&lt;/p&gt; &lt;p&gt;Andrebbe adeguata anche la Costituzione federale, poiché in particolare nell'ambito dell'obbligo di prestare servizio militare o un servizio sostitutivo non è prevista una normativa per persone il cui sesso non è iscritto nel registro dello stato civile o che sono iscritte in una categoria diversa da "maschile" o "femminile".&lt;/p&gt; &lt;h3&gt;Un nuovo modello dei sessi deve essere dapprima discusso nella società&lt;/h3&gt; &lt;p&gt;Nel rapporto in adempimento di due postulati del Parlamento (17.4121; 17.4185), il Consiglio federale illustra numerose altre conseguenze dell'introduzione di un terzo sesso o della rinuncia all'iscrizione del sesso. Dovrebbero infatti essere adeguati numerosi registri e occorrerebbe rielaborare i rilevamenti statistici.&lt;/p&gt; &lt;p&gt;In seguito a quanto esposto, il Consiglio federale conclude che le ripercussioni di un nuovo modello di ripartizione dei sessi non sono state ancora sufficientemente discusse nella società. Non sussistono pertanto ancora le condizioni per introdurre un terzo sesso o rinunciare del tutto all'iscrizione del sesso. Questo parere è condiviso anche dalla Commissione nazionale d'etica per la medicina umana (CNE) in un rapporto del 2020, in cui osserva che, pur essendo la regolamentazione e la prassi attuali insoddisfacenti, per rinunciare al binarismo dei sessi andrebbero dapprima create le corrispondenti condizioni sociali.&lt;/p&gt; </text>
       <contact>David Rüetschi, Ufficio federale di giustizia, T +41 58 462 44 18, david.rueetschi@bj.admin.ch</contact>
-      <attachment id="240605">
+      <attachment id="240757">
         <title>Bericht des Bundesrates</title>
         <format>pdf</format>
         <size-kb>319</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/74661.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="240606">
+      <attachment id="240758">
         <title>Rapport du Conseil fédéral</title>
         <format>pdf</format>
         <size-kb>353</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/74662.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="240761">
+        <title>Medienmitteilung der NEK vom 22.12.2022</title>
+        <uri>https://www.nek-cne.admin.ch/de/ueber-uns/news/news-details/die-nek-befuerwortet-die-einfuehrung-eines-dritten-amtlichen-geschlechtseintrags</uri>
+        <position>Context</position>
+      </link>
       <revisions>
         <revision date="2022-12-21 11:28" type="R"/>
       </revisions>
     </content>
     <keywords>
-      <keyword id="143" org-id="403">
-        <name lang="de">Zivilstandsregister</name>
-        <name lang="fr">Registre de l’état civil</name>
-        <name lang="it">Registro dello stato civile</name>
-        <name lang="en">Civil status register</name>
+      <keyword id="122" org-id="401">
+        <name lang="de">Zivilstand</name>
+        <name lang="fr">Etat civil</name>
+        <name lang="it">Stato civile</name>
+        <name lang="en">Civil status</name>
       </keyword>
     </keywords>
     <topics>
