@@ -19,35 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="1094" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Sicherheitsverbund Schweiz</name>
-      <name lang="fr">Réseau national de sécurité</name>
-      <name lang="it">Rete integrata Svizzera per la sicurezza</name>
-      <name lang="en">Sicherheitsverbund Schweiz</name>
-      <www lang="de">https://www.svs.admin.ch/</www>
-      <www lang="fr">https://www.svs.admin.ch/fr/home.html</www>
-      <www lang="it">https://www.svs.admin.ch/it/home.html</www>
-      <www lang="en">https://www.svs.admin.ch/</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <originator department-msg="no" id="404" lead="no" topnews="no">
       <department-id>401</department-id>
@@ -64,20 +49,35 @@
       <email lang="it">info@fedpol.admin.ch</email>
       <email lang="en">info@fedpol.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
+    <originator department-msg="no" id="1094" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Sicherheitsverbund Schweiz</name>
+      <name lang="fr">Réseau national de sécurité</name>
+      <name lang="it">Rete integrata Svizzera per la sicurezza</name>
+      <name lang="en">Sicherheitsverbund Schweiz</name>
+      <www lang="de">https://www.svs.admin.ch/</www>
+      <www lang="fr">https://www.svs.admin.ch/fr/home.html</www>
+      <www lang="it">https://www.svs.admin.ch/it/home.html</www>
+      <www lang="en">https://www.svs.admin.ch/</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -93,20 +93,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="501">
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch</www>
-      <www lang="fr">http://www.vbs.admin.ch</www>
-      <www lang="it">http://www.vbs.admin.ch</www>
-      <www lang="en">http://www.vbs.admin.ch</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
-    </department>
     <department id="401">
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="fr">Département fédéral de justice et police</name>
@@ -120,6 +106,20 @@
       <email lang="fr">Info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -216,11 +216,17 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="69" org-id="401">
-        <name lang="de">Menschenhandel und -schmuggel</name>
-        <name lang="fr">Traite d'êtres humains et trafic de migrants</name>
-        <name lang="it">Tratta di esseri umani e di migranti</name>
-        <name lang="en">Trafficking and smuggling of human beings</name>
+      <keyword id="505" org-id="502">
+        <name lang="de">Sicherheitspolitik</name>
+        <name lang="fr">Politique de sécurité</name>
+        <name lang="it">Politica di sicurezza</name>
+        <name lang="en">Security Policy</name>
+      </keyword>
+      <keyword id="5001" org-id="502">
+        <name lang="de">Dossier Sicherheitsverbund Schweiz</name>
+        <name lang="fr">Dossier Réseau national de sécurité</name>
+        <name lang="it">Dossier Rete integrata Svizzera per la sicurezza</name>
+        <name lang="en">Dossier Sicherheitsverbund Schweiz</name>
       </keyword>
     </keywords>
     <topics>
