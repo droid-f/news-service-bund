@@ -19,6 +19,21 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
@@ -32,6 +47,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -66,30 +95,6 @@
       <revisions> </revisions>
     </content>
     <topics>
-      <topic id="5">
-        <name lang="de">Behörden</name>
-        <name lang="fr">Autorités</name>
-        <name lang="it">Autorità</name>
-        <name lang="en">Authorities</name>
-      </topic>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="33">
-        <name lang="de">Bundespräsident/-in</name>
-        <name lang="fr">Président/e de la Confédération</name>
-        <name lang="it">Presidente della Confederazione</name>
-        <name lang="en">President of the Swiss Confederation</name>
-      </topic>
-      <topic id="34">
-        <name lang="de">Europa</name>
-        <name lang="fr">Europe</name>
-        <name lang="it">Europa</name>
-        <name lang="en">Europe</name>
-      </topic>
       <topic id="39">
         <name lang="de">Schweiz und Ausland</name>
         <name lang="fr">Suisse et étranger</name>
