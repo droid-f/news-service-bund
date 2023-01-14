@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="92530" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2023-01-13</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -18,51 +18,6 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="201" lead="no" topnews="no">
-      <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="701" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="801" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="101" lead="no" topnews="no">
       <department-id>101</department-id>
@@ -93,48 +48,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="201">
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
-    </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </department>
-    <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-    </department>
     <department id="101">
       <name lang="de">Bundeskanzlei</name>
       <name lang="fr">Chancellerie fédérale</name>
@@ -153,10 +66,11 @@
       <city>Bern</city>
       <title>Das Programm der Mitglieder des Bundesrates am WEF-Jahrestreffen 2023</title>
       <lead>Das Jahrestreffen des World Economic Forum (WEF) 2023 findet nach einer pandemiebedingten Absage (2021) und einer Austragung im Frühling (2022) wieder an seinem tradierten Termin im Januar statt. Gemeinsam mit WEF-Gründer Prof. Klaus Schwab eröffnet Bundespräsident Alain Berset den Anlass am Dienstag, 17. Januar. </lead>
-      <text link="no">Das Jahrestreffen bietet den Mitgliedern des Bundesrates Gelegenheit für viele weitere Kontakte und Gespräche; es dürften mindestens 50 bilaterale Treffen stattfinden. Programmänderungen sind immer auch in letzter Minute noch möglich.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundespräsident Alain Berset&lt;/b&gt;, Vorsteher des Eidgenössischen Departements des Innern (EDI), wird in Davos gemeinsam mit der Vizepräsidentin des Bundesrates Viola Amherd mit UNO-Generalsekretär António Guterres zusammenkommen. Weitere Treffen wurden mit dem südafrikanischen Präsidenten Cyril Ramaphosa vereinbart und den Präsidenten Ecuadors und Kolumbiens, Guillermo Lasso und Gustavo Petro. Aus Europa trifft Bundespräsident Berset unter anderem den polnischen Präsidenten Andrzej Duda, die Staatsoberhäupter von Litauen, Gitanas Nauseda, Lettland, Egils Levits und Moldova, Maia Sandu, sowie die finnische Premierministerin Sanna Marin und den Premierminister Georgiens, Irakli Gharibashvili. Der Bundespräsident wird zudem an mehreren Panel-Veranstaltungen des WEF teilnehmen.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrätin Viola Amherd&lt;/b&gt;, Vizepräsidentin des Bundesrates und Vorsteherin des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS), Vizepräsidentin des Bundesrates und Chefin des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS), wird ihre niederländische Amtskollegin Kajsa Ollongren zu einem bilateralen Gespräch treffen. Zudem werden sie und Bundesrat Guy Parmelin mit dem kosovarischen Premierminister Albin Kurti zusammenkommen. Für Bundesrätin Amherd steht dabei die aktuelle sicherheitspolitische Lage im Norden des Kosovo im Fokus sowie der Einsatz der Schweiz im Rahmen der Swisscoy. Darüber hinaus wird die Chefin VBS den Armeeangehörigen eines Infanteriebataillons im Raum Davos bei ihrem Einsatz für die Sicherheit der Veranstaltung einen Besuch abstatten.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrat Ignazio Cassis&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA), stellt die Fortführung des Schweizer Engagements zum Wiederaufbau der Ukraine ins Zentrum seiner Gespräche am WEF-Jahrestreffen. Hierzu führt die Schweiz gemeinsam mit Vertretern Grossbritanniens und der Ukraine den Handover-Event der Ukraine Recovery Conference «From Lugano to London» durch. Weiter wird Bundesrat Cassis an Veranstaltungen teilnehmen, die den Krieg in der Ukraine und dessen globale Folgen thematisieren. Zudem prägen die Beziehungen zur EU und den europäischen Ländern seine diesjährige Agenda. Aussenminister Cassis wird unter anderem seine Amtskollegen aus den Niederlanden, Österreich, Schweden und Spanien sowie Vertreter der ukrainischen Regierung zu Gesprächen treffen.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bundesrätin Karin Keller-Sutter&lt;/b&gt;, Vorsteherin des Eidgenössischen Finanzdepartements (EFD), wird sich mit den Finanzministerinnen und Finanzministern mehrerer europäischer Länder (Deutschland, Niederlande, Polen, Luxemburg) austauschen und plant ein Gespräch mit EU-Wirtschaftskommissar Paolo Gentiloni. Zudem wird sie IWF-Generaldirektorin Kristalina Georgieva und OECD-Generalsekretär Mathias Cormann, den chinesischen Vize-Premierminister Liu He sowie die Finanzminister von Brasilien und Katar treffen.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrat Guy Parmelin&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), wird das Jahrestreffen in Davos nutzen, um verschiedene thematische Schwerpunkte in den Bereichen Wirtschaft, Handel, Forschung und Innovation voranzutreiben. Gemeinsam mit Bundesrat Albert Rösti wird er im Vorfeld des Jahrestreffens am Montag, 16. Januar 2023, mit Robert Habeck, dem deutschen Vizekanzler und Bundesminister für Wirtschaft und Klimaschutz, zusammenkommen. Zusätzlich zum Treffen mit dem kosovarischen Ministerpräsidenten Kurti sind bilaterale Gespräche unter anderem auch geplant mit der US-Handelsbeauftragten Katherine Tai, dem vietnamesischen Vize-Ministerpräsidenten Tran Hong Ha, der ukrainischen Wirtschaftsministerin Yuliia Svyrydenko, dem saudischen Investitionsminister Khalid al-Falih, dem tschechischen Handels- und Industrieminister Jozef Síkela sowie der Präsidentin der Europäischen Bank für Wiederaufbau und Entwicklung (EBRD), Odile Renaud-Basso. Am Rande des WEF findet zudem ein informelles Ministertreffen der Welthandelsorganisation (WTO) statt. Auf Einladung und unter der Leitung von Bundesrat Parmelin werden rund 30 WTO-Mitglieder die Ziele für die nächste ordentliche WTO-Ministerkonferenz beraten, die im Februar 2024 in den Vereinigten Arabischen Emiraten stattfinden wird.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bundesrat Albert Rösti&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK), wird mit dem deutschen Wirtschafts- und Klimaschutzminister Habeck unter anderem Fragen rund um die Energieversorgung als Folge der Gas- und Strommangellage besprechen. Am Dienstag und Mittwoch sind Gespräche zwischen Bundesrat Rösti und internationalen Akteuren im Energie- und Telekommunikationsbereich vorgesehen. Am Mittwoch eröffnet Bundesrat Rösti zusammen mit dem Exekutivdirektor der internationalen Energieagentur IEA, Fatih Birol, eine Podiumsdiskussion zum Thema Energieinfrastruktur und Dekarbonisierung. Die Veranstaltung am WEF wird vom Bundesamt für Energie BFE, vom Staatssekretariat für Wirtschaft SECO und von der ETH Zürich organisiert.&lt;br /&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Das «House of Switzerland» am WEF 2023&lt;/b&gt;&lt;br /&gt;Die offizielle Präsenz der Schweiz am WEF verkörpern und eine Plattform bieten für den Austausch und das Networking der Mitglieder des Bundesrates, der Schweizer Delegation und ihrer internationalen Gäste und Partner – dies ist das Ziel des «House of Switzerland», das auch dieses Jahr in Davos unter der Federführung von Präsenz Schweiz des EDA mit Unterstützung des Bundesamtes für Bauten und Logistik des EFD betrieben wird. Auch bei dieser vierten Ausgabe wird das «House of Switzerland» ein Treffpunkt sein für die offiziellen und die informellen Begegnungen der Schweiz als Gastland des WEF. Das «House of Switzerland» wird im Ortszentrum, im Eisstadion des HC Davos, wieder über Räume für Begegnungen und für den Dialog verfügen. Weiter wird eine Reihe von Veranstaltungen zum WEF-Thema 2023 «Cooperation in a fragmented world» (Zusammenarbeit in einer fragmentierten Welt) gemeinsam mit Institutionen und Akteuren aus Politik, Wirtschaft und Wissenschaft organisiert. Damit wird ein Raum geschaffen für den Gedankenaustausch zu den aktuellen und zu den globalen Herausforderungen in Bezug auf Innovation, Nachhaltigkeit und neue Technologien. Diese Anlässe bieten zudem Gelegenheit, Schweizer Spitzenleistungen in verschiedenen Bereichen zu präsentieren. &lt;br /&gt;Die offizielle Präsenz der Schweiz am WEF verkörpern und eine Plattform bieten für den Austausch und das Networking der Mitglieder des Bundesrates, der Schweizer Delegation und ihrer internationalen Gäste und Partner – dies ist das Ziel des «House of Switzerland», das auch dieses Jahr in Davos unter der Federführung von Präsenz Schweiz des EDA mit Unterstützung des Bundesamtes für Bauten und Logistik des EFD betrieben wird. Auch bei dieser vierten Ausgabe wird das «House of Switzerland» ein Treffpunkt sein für die offiziellen und die informellen Begegnungen der Schweiz als Gastland des WEF. Das «House of Switzerland» wird im Ortszentrum, im Eisstadion des HC Davos, wieder über Räume für Begegnungen und für den Dialog verfügen. Weiter wird eine Reihe von Veranstaltungen zum WEF-Thema 2023 «Cooperation in a fragmented world» (Zusammenarbeit in einer fragmentierten Welt) gemeinsam mit Institutionen und Akteuren aus Politik, Wirtschaft und Wissenschaft organisiert. Damit wird ein Raum geschaffen für den Gedankenaustausch zu den aktuellen und zu den globalen Herausforderungen in Bezug auf Innovation, Nachhaltigkeit und neue Technologien. Diese Anlässe bieten zudem Gelegenheit, Schweizer Spitzenleistungen in verschiedenen Bereichen zu präsentieren. &lt;/p&gt;</text>
+      <text link="no">Das Jahrestreffen bietet den Mitgliedern des Bundesrates Gelegenheit für viele weitere Kontakte und Gespräche; es dürften mindestens 50 bilaterale Treffen stattfinden. Programmänderungen sind immer auch in letzter Minute noch möglich.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundespräsident Alain Berset&lt;/b&gt;, Vorsteher des Eidgenössischen Departements des Innern (EDI), wird in Davos gemeinsam mit der Vizepräsidentin des Bundesrates Viola Amherd mit UNO-Generalsekretär António Guterres zusammenkommen. Weitere Treffen wurden mit dem südafrikanischen Präsidenten Cyril Ramaphosa vereinbart und den Präsidenten Ecuadors und Kolumbiens, Guillermo Lasso und Gustavo Petro. Aus Europa trifft Bundespräsident Berset unter anderem den polnischen Präsidenten Andrzej Duda, die Staatsoberhäupter von Litauen, Gitanas Nauseda, Lettland, Egils Levits und Moldova, Maia Sandu, sowie die finnische Premierministerin Sanna Marin und den Premierminister Georgiens, Irakli Gharibashvili. Der Bundespräsident wird zudem an mehreren Panel-Veranstaltungen des WEF teilnehmen.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrätin Viola Amherd&lt;/b&gt;, Vizepräsidentin des Bundesrates und Chefin des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS), wird ihre niederländische Amtskollegin Kajsa Ollongren zu einem bilateralen Gespräch treffen. Zudem werden sie und Bundesrat Guy Parmelin mit dem kosovarischen Premierminister Albin Kurti zusammenkommen. Für Bundesrätin Amherd steht dabei die aktuelle sicherheitspolitische Lage im Norden des Kosovo im Fokus sowie der Einsatz der Schweiz im Rahmen der Swisscoy. Darüber hinaus wird die Chefin VBS den Armeeangehörigen eines Infanteriebataillons im Raum Davos bei ihrem Einsatz für die Sicherheit der Veranstaltung einen Besuch abstatten.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrat Ignazio Cassis&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA), stellt die Fortführung des Schweizer Engagements zum Wiederaufbau der Ukraine ins Zentrum seiner Gespräche am WEF-Jahrestreffen. Hierzu führt die Schweiz gemeinsam mit Vertretern Grossbritanniens und der Ukraine den Handover-Event der Ukraine Recovery Conference «From Lugano to London» durch. Weiter wird Bundesrat Cassis an Veranstaltungen teilnehmen, die den Krieg in der Ukraine und dessen globale Folgen thematisieren. Zudem prägen die Beziehungen zur EU und den europäischen Ländern seine diesjährige Agenda. Aussenminister Cassis wird unter anderem seine Amtskollegen aus den Niederlanden, Österreich, Schweden und Spanien sowie Vertreter der ukrainischen Regierung zu Gesprächen treffen.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bundesrätin Karin Keller-Sutter&lt;/b&gt;, Vorsteherin des Eidgenössischen Finanzdepartements (EFD), wird sich mit den Finanzministerinnen und Finanzministern mehrerer europäischer Länder (Deutschland, Niederlande, Polen, Luxemburg) austauschen und plant ein Gespräch mit EU-Wirtschaftskommissar Paolo Gentiloni. Zudem wird sie IWF-Generaldirektorin Kristalina Georgieva und OECD-Generalsekretär Mathias Cormann, den chinesischen Vize-Premierminister Liu He sowie die Finanzminister von Brasilien und Katar treffen.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Bundesrat Guy Parmelin&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), wird das Jahrestreffen in Davos nutzen, um verschiedene thematische Schwerpunkte in den Bereichen Wirtschaft, Handel, Forschung und Innovation voranzutreiben. Gemeinsam mit Bundesrat Albert Rösti wird er im Vorfeld des Jahrestreffens am Montag, 16. Januar 2023, mit Robert Habeck, dem deutschen Vizekanzler und Bundesminister für Wirtschaft und Klimaschutz, zusammenkommen. Zusätzlich zum Treffen mit dem kosovarischen Ministerpräsidenten Kurti sind bilaterale Gespräche unter anderem auch geplant mit der US-Handelsbeauftragten Katherine Tai, dem vietnamesischen Vize-Ministerpräsidenten Tran Hong Ha, der ukrainischen Wirtschaftsministerin Yuliia Svyrydenko, dem saudischen Investitionsminister Khalid al-Falih, dem tschechischen Handels- und Industrieminister Jozef Síkela sowie der Präsidentin der Europäischen Bank für Wiederaufbau und Entwicklung (EBRD), Odile Renaud-Basso. Am Rande des WEF findet zudem ein informelles Ministertreffen der Welthandelsorganisation (WTO) statt. Auf Einladung und unter der Leitung von Bundesrat Parmelin werden rund 30 WTO-Mitglieder die Ziele für die nächste ordentliche WTO-Ministerkonferenz beraten, die im Februar 2024 in den Vereinigten Arabischen Emiraten stattfinden wird.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bundesrat Albert Rösti&lt;/b&gt;, Vorsteher des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK), wird mit dem deutschen Wirtschafts- und Klimaschutzminister Habeck unter anderem Fragen rund um die Energieversorgung als Folge der Gas- und Strommangellage besprechen. Am Dienstag und Mittwoch sind Gespräche zwischen Bundesrat Rösti und internationalen Akteuren im Energie- und Telekommunikationsbereich vorgesehen. Am Mittwoch eröffnet Bundesrat Rösti zusammen mit dem Exekutivdirektor der internationalen Energieagentur IEA, Fatih Birol, eine Podiumsdiskussion zum Thema Energieinfrastruktur und Dekarbonisierung. Die Veranstaltung am WEF wird vom Bundesamt für Energie BFE, vom Staatssekretariat für Wirtschaft SECO und von der ETH Zürich organisiert.&lt;br /&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Das «House of Switzerland» am WEF 2023&lt;/b&gt;&lt;br /&gt;Die offizielle Präsenz der Schweiz am WEF verkörpern und eine Plattform bieten für den Austausch und das Networking der Mitglieder des Bundesrates, der Schweizer Delegation und ihrer internationalen Gäste und Partner – dies ist das Ziel des «House of Switzerland», das auch dieses Jahr in Davos unter der Federführung von Präsenz Schweiz des EDA mit Unterstützung des Bundesamtes für Bauten und Logistik des EFD betrieben wird. Auch bei dieser vierten Ausgabe wird das «House of Switzerland» ein Treffpunkt sein für die offiziellen und die informellen Begegnungen der Schweiz als Gastland des WEF. Das «House of Switzerland» wird im Ortszentrum, im Eisstadion des HC Davos, wieder über Räume für Begegnungen und für den Dialog verfügen. Weiter wird eine Reihe von Veranstaltungen zum WEF-Thema 2023 «Cooperation in a fragmented world» (Zusammenarbeit in einer fragmentierten Welt) gemeinsam mit Institutionen und Akteuren aus Politik, Wirtschaft und Wissenschaft organisiert. Damit wird ein Raum geschaffen für den Gedankenaustausch zu den aktuellen und zu den globalen Herausforderungen in Bezug auf Innovation, Nachhaltigkeit und neue Technologien. Diese Anlässe bieten zudem Gelegenheit, Schweizer Spitzenleistungen in verschiedenen Bereichen zu präsentieren.&lt;/p&gt;</text>
       <contact>Serge Kuhn Kommunikation Präsidialdienst, Bundeskanzlei 058 463 71 34, serge.kuhn@bk.admin.ch</contact>
       <revisions>
         <revision date="2023-01-13 17:05" type="R"/>
+        <revision date="2023-01-14 17:27" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -167,6 +81,7 @@
       <contact>Serge Kuhn Service de communication du service présidentiel, Chancellerie fédérale 058 463 71 34, serge.kuhn@bk.admin.ch</contact>
       <revisions>
         <revision date="2023-01-13 17:05" type="R"/>
+        <revision date="2023-01-14 17:27" type="R"/>
       </revisions>
     </content>
     <content lang="it">
@@ -177,6 +92,7 @@
       <contact>Serge Kuhn Comunicazione del Servizio presidenziale, Cancelleria federale 058 463 71 34, serge.kuhn@bk.admin.ch</contact>
       <revisions>
         <revision date="2023-01-13 17:05" type="R"/>
+        <revision date="2023-01-14 17:27" type="R"/>
       </revisions>
     </content>
     <content lang="en">
@@ -187,22 +103,21 @@
       <contact>Serge Kuhn Communication Presidential Affairs Unit, Federal Chancellery 058 463 71 34, serge.kuhn@bk.admin.ch</contact>
       <revisions>
         <revision date="2023-01-13 17:05" type="R"/>
+        <revision date="2023-01-14 17:27" type="R"/>
       </revisions>
     </content>
-    <keywords>
-      <keyword id="210" org-id="801">
+    <topics>
+      <topic id="10">
         <name lang="de">Bundesrat</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="en">Federal Council</name>
-      </keyword>
-    </keywords>
-    <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
