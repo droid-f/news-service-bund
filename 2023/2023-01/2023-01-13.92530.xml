@@ -34,6 +34,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="301" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="601" lead="no" topnews="no">
       <department-id>601</department-id>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
@@ -63,6 +78,21 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <originator department-msg="no" id="101" lead="no" topnews="no">
       <department-id>101</department-id>
@@ -107,6 +137,20 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
     <department id="601">
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="fr">Département fédéral des finances</name>
@@ -134,6 +178,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <department id="101">
       <name lang="de">Bundeskanzlei</name>
@@ -214,11 +272,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="39">
-        <name lang="de">Schweiz und Ausland</name>
-        <name lang="fr">Suisse et étranger</name>
-        <name lang="it">Svizzero ed estero</name>
-        <name lang="en">Switzerland and Foreign Affairs</name>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
