@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="92563" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2023-01-18</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="505" lead="yes" topnews="no">
@@ -51,10 +51,12 @@
     <content lang="de">
       <city>Bern</city>
       <title>Der Chef der Armee nimmt am Treffen der NATO-Armeechefs in Brüssel teil</title>
-      <lead>Am 18. und 19. Januar 2023 nimmt der Chef der Armee, Korpskommmandant Thomas Süssli, am jährlichen Treffen der NATO-Armeechefs teil. Während seines Aufenthalts in Brüssel trifft er sich mit weiteren Amtskollegen und mit dem Vorsitzenden des EU-Militärausschusses zu bilateralen Gesprächen.</lead>
-      <text link="no">&lt;p&gt;Ein Traktandum des jährlichen Treffens der NATO-Armeechefs ist jeweils dem Einsatz der Kosovo Force (KFOR) gewidmet. An diesem Treffen nehmen alle truppenstellenden Länder teil, d.h. auch solche, die nicht Mitglieder der NATO sind. Korpskommandant Süssli wird sich dabei mit seinen Amtskollegen über die Lage auf dem Westbalkan und über die laufende militärische Friedensförderungsmission im Kosovo austauschen. Des Weiteren ist ein Treffen mit den Armeechefs der sogenannten Partner Interoperability Advocacy Group (PIAG) vorgesehen, einem informellen Zusammenschluss von Nicht-NATO-Mitgliedern, bestehend aus den PfP-Nationen Australien, Irland, Neuseeland, Österreich und der Schweiz, die namentlich im Bereich der Interoperabilität ähnliche Interessen haben und diese gegenüber der Allianz gemeinsam vertreten.&lt;/p&gt;&lt;p&gt;Im Rahmen seines Aufenthalts in Brüssel trifft sich der Chef der Armee auch mit dem Vorsitzenden des EU-Militärausschusses, General Robert Brieger. Themen sind dabei der strategische Kompass der EU, die permanente strukturierte Zusammenarbeit (Pesco) sowie mögliche militärische Beiträge von Drittstaaten an EU-Missionen in Afrika.&lt;/p&gt;&lt;p&gt;Korpskommandant Süssli wird sich zudem mit Generalleutnant Seán Clancy und Admiral Michel Hofman, den Armeechefs von Irland und Belgien, zu verschiedenen Themen der bilateralen Zusammenarbeit austauschen.&lt;br /&gt;&lt;/p&gt;</text>
+      <lead>Am 18. und 19. Januar 2023 nimmt der Chef der Armee, Korpskommandant Thomas Süssli, am jährlichen Treffen der NATO-Armeechefs teil. Während seines Aufenthalts in Brüssel trifft er sich mit weiteren Amtskollegen und mit dem Vorsitzenden des EU-Militärausschusses zu bilateralen Gesprächen.</lead>
+      <text link="no">&lt;p&gt;Ein Traktandum des jährlichen Treffens der NATO-Armeechefs ist jeweils dem Einsatz der Kosovo Force (KFOR) gewidmet. An diesem Treffen nehmen alle truppenstellenden Länder teil, d.h. auch solche, die nicht Mitglieder der NATO sind. Korpskommandant Süssli wird sich dabei mit seinen Amtskollegen über die Lage auf dem Westbalkan und über die laufende militärische Friedensförderungsmission im Kosovo austauschen. Des Weiteren ist ein Treffen mit den Armeechefs der sogenannten Partner Interoperability Advocacy Group (PIAG) vorgesehen, einem informellen Zusammenschluss von Nicht-NATO-Mitgliedern, bestehend aus den PfP-Nationen Australien, Irland, Neuseeland, Österreich und der Schweiz, die namentlich im Bereich der Interoperabilität ähnliche Interessen haben und diese gegenüber der Allianz gemeinsam vertreten.&lt;/p&gt;&lt;p&gt;Im Rahmen seines Aufenthalts in Brüssel trifft sich der Chef der Armee auch mit dem Vorsitzenden des EU-Militärausschusses, General Robert Brieger. Themen sind dabei der strategische Kompass der EU, die permanente strukturierte Zusammenarbeit (Pesco) sowie mögliche militärische Beiträge von Drittstaaten an EU-Missionen in Afrika.&lt;/p&gt;&lt;p&gt;Korpskommandant Süssli wird sich zudem mit Generalleutnant Seán Clancy und Admiral Michel Hofman, den Armeechefs von Irland und Belgien, zu verschiedenen Themen der bilateralen Zusammenarbeit austauschen.&lt;/p&gt;</text>
       <contact>Mathias Volken Armeesprecher +41 58 488 90 96</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2023-01-19 11:30" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -114,6 +116,12 @@
         <name lang="fr">Relations internationales</name>
         <name lang="it">Relazioni internazionali</name>
         <name lang="en">international relations</name>
+      </keyword>
+      <keyword id="509" org-id="502">
+        <name lang="de">NATO</name>
+        <name lang="fr">OTAN</name>
+        <name lang="it">NATO</name>
+        <name lang="en">NATO</name>
       </keyword>
     </keywords>
     <topics>

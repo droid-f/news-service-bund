@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="92575" revoked="no">
+    <version>1</version>
+    <pubdate>2023-01-19</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Umwelt: Was macht Feinstaub so gefährlich?</title>
+      <lead>Grosse Mengen Feinstaub in der Luft sind bekanntermassen gesundheitsschädlich. Doch im Detail sind noch viele Fragen offen: Welche Bestandteile sind besonders gefährlich? In welchen Konzentrationen? Das «oxidative Potenzial» von Feinstaub könnte in Zukunft als Kriterium für die Abschätzung von Risiken dienen – und Empa-Forschende haben es für die Schweiz erkundet. </lead>
+      <text link="no">&lt;p&gt;Entzündungen, Bronchitis, Asthma-Schübe, Herzkreislauf-Beschwerden … – ein Auszug aus der Liste möglicher Gesundheitsschäden durch hohe Konzentrationen von Feinstaub: Partikel mit einem Durchmesser von höchstens zehn Mikrometern – «PM10» genannt – und noch kleinere «PM2.5»-Teilchen, die durch Autoabgase, Heizungen, Industriebetriebe und natürliche Quellen in unsere Lungen gelangen. Zwar haben strenge Überwachung und Massnahmen zur Reduktion die Belastungen seit den Neunzigerjahren auch in der Schweiz gemindert, doch vielerorts, gerade in Städten, bleibt das Problem bestehen.&lt;br /&gt;&lt;br /&gt;Teilchengrösse, Zusammensetzung, Quellen und Wirkung von Feinstaub sind nicht einfach zu bestimmen. Sicher ist: Je kleiner die Partikel, desto tiefer gelangen sie in die menschliche Lunge. Doch welche Anteile sind besonders gefährlich? Und in welchen Kombinationen und Konzentrationen? Um das zu beschreiben, wurde vor einigen Jahren das neue Kriterium «oxidatives Potenzial» entwickelt: ein Begriff, der die Fähigkeit eingeatmeter Partikel beschreiben soll, die Bildung so genannter freier Radikale im Körper auszulösen, die letztlich zu Entzündungen führen können.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Messkampagne an fünf Schweizer Orten&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Eine Messgrösse für die Gesundheitsgefährdung also, deren Eignung die Empa-Forscher Stuart Grange und Christoph Hüglin von der Abteilung «Luftfremdstoffe / Umwelttechnik» für die Schweiz genauer erkundet haben – mit einer aufwändigen Messkampagne, unterstützt von der französischen «Université Grenoble Alpes». Mit Hilfe des Nationalen Beobachtungsnetzes für Luftfremdstoffe (NABEL), das die Empa mit dem Bundesamt für Umwelt (BAFU) betreibt, sammelten sie zwischen Juni 2018 und Mai 2019 Feinstaubproben der Kategorien PM2.5 und PM10 rund um die Uhr. Die Messstationen deckten die ganze Spanne von Feinstaubbelastungen ab und lagen in Städten, der Agglomeration und in ländlichen Gebieten südlich und nördlich der Alpen.&lt;br /&gt;&lt;br /&gt;Insgesamt analysierten die Fachleute im Labor rund 900 Proben – mit Testverfahren für das oxidative Potenzial, die mit unterschiedlichen Analysesubstanzen arbeiten: Ascorbinsäure (kurz: AA), Dithiothreitol (DTT) und Dichlorfluorescein (DFCH). Beim AA-Test erlaubt der Verbrauch von Ascorbinsäure, einem wichtigen Antioxidans, Rückschlüsse auf die oxidative «Giftigkeit» der Feinstaubprobe, zum Beispiel durch enthaltene Metalle. Die beiden weiteren Verfahren funktionieren in ähnlicher Weise, verwenden aber andere Substanzen zur Detektion. Vereinfacht gesagt, so Christoph Hüglin, bieten die drei Methoden unterschiedliche Perspektiven auf ähnliche biologische Prozesse.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Maschinelles Lernen reduziert Komplexität&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Neben dem oxidativen Potenzial wurde eine Vielzahl chemischer Inhaltstoffe des Feinstaubs analysiert. So entstand eine grosse Datenmenge über Elemente, Ionen und organische Stoffe, aus denen der Feinstaub in der Schweiz besteht. Um in diesen Datenmassen diejenigen «verdächtigen Inhaltstoffe» mit dem grössten oxidativen Potenzial zu identifizieren, setzten die Empa-Forscher auf Methoden des «maschinellen Lernens». Genauer: den Algorithmus «Random Forest», der, bildlich gesprochen, einen Wald aus unzähligen Bäumen wachsen lässt, die jeweils Entscheidungen über Zusammenhänge in den Daten treffen – wie in diesem Fall den Inhaltsstoffen von Feinstaub und dem zugehörigen oxidativen Potenzial. Am Ende wird aus den Entscheidungen des gesamten Waldes ein mittleres Modell gebildet.&lt;br /&gt;&lt;br /&gt;So reduzierten die Fachleute die Zahl der verdächtigen Inhaltstoffe auf rund ein Dutzend, die sie wiederum mit konventionellen Rechenverfahren und Modellen analysierten, um schliesslich den wichtigsten Gesundheitsgefährdern auf die Spur zu kommen – unterschiedliche Metalle oder auch organische Stoffe, die wiederum Hinweise auf Herkunft und Ursachen liefern.&lt;br /&gt;&lt;br /&gt;Die Resultate bestätigen bekannte Fakten wie ein klares Stadt-Land-Gefälle beim Feinstaub mit seinen gesundheitlichen Folgen sowie eine höhere Belastung im Winter als im Sommer. Freilich mit Ausnahmen: Die Werte für das oxidative Potenzial, bezogen auf das Luftvolumen, waren im Süden der Schweiz in der kalten Jahreszeit besonders deutlich gestiegen – in Gebieten, die in dieser Zeit durch den Rauch durch Holzverbrennung belastet waren.&lt;br /&gt;&lt;br /&gt;Die niedrigsten Mittelwerte zeigten ländliche Gegenden, während die höchsten Werte im gesamten Zeitraum von einer städtischen und verkehrsbelasteten Messstation stammten. An verkehrsreichen Knotenpunkten in Städten machen neben Abgasen auch andere Emissionen Sorgen: Metalle wie Kupfer, Zink, Mangan deuten auf Feinstaubbestandteile hin, die etwa aus dem Abrieb von Autoreifen oder Bremsbelägen stammen können. &lt;br /&gt;&lt;br /&gt;Wie genau das Kriterium des oxidativen Potenzials gesundheitliche Gefahren beschreiben kann, wird in der Fachwelt derzeit kontrovers diskutiert. Schliesslich beantworten selbst präziseste Messungen und Analysen von Luftschadstoffen keine offenen Fragen zu Entzündungsprozessen im menschlichen Körper. Doch Empa-Forscher Hüglin geht nach den Analysen mit seinem Team immerhin davon aus, dass sich daraus sinnvolle Massnahmen ableiten lassen: Zwar könnten sämtliche Feinstaubpartikel die Gesundheit beeinträchtigen – doch bezüglich des oxidativen Potenzials sollte man die Bestandteile aus dem Strassenverkehr, die nicht aus Abgasen stammen, und aus der Holzverbrennung bei Massnahmen zum Schutz der Bevölkerung besonders im Auge haben.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Gefahren durch Feinstaub&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;Feinstaub lässt sich als Gemisch von festen und auch flüssigen Teilchen in der Luft beschreiben – aus anthropogenen Quellen wie Motoren oder Industrieabgasen oder auch natürlichen Quellen wie Vulkanen. Während viele Partikel direkt durch Emissionen in die Luft gelangen (primäre Teilchen), entstehen sekundäre Partikel erst in der Atmosphäre durch chemische Reaktionen von gasförmigen Verbindungen. Für die menschliche Gesundheit ist vor allem lungengängiger Feinstaub von Bedeutung, dessen Teilchen einen aerodynamischen Durchmesser von weniger als zehn Mikrometer haben. Zum Feinstaub gehören zudem so genannte ultrafeine Partikel wie aus Abgasen von Dieselmotoren, die tief in die Lunge eindringen und schwere Schäden verursachen können.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Dr. Christoph Hüglin Air Pollution / Environmental Technology Tel. +41 58 765 4654 christoph.hueglin@empa.ch</contact>
+      <attachment id="241258">
+        <title>Empa-Forscher Christoph Hüglin von der Abteilung «Luftfremdstoffe / Umwelttechnik» hat Messgrössen für die Gesundheitsgefährdung für die Schweiz genauer erkundet. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>2037</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74911.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241259">
+        <title>Auch Feinstaub-Partikel, die nicht aus Abgasen stammen, machen Sorgen – wie der Abrieb von Bremsbelägen. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3304</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74912.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241260">
+        <title>Feinstaubproben (PM10) im NABEL-Messnetz: Durch diese Quarzfaserfilter wurde während 24 Stunden Luft gezogen wurde – im Prinzip wie bei einem Staubsauger. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3566</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74913.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="241257">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/oxidatives-potential-von-feinstaub</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Air pollutants: Les particules fines rendent malade</title>
+      <lead>On sait que de grandes quantités de poussières fines dans l'air sont nocives pour la santé. Mais dans le détail, de nombreuses questions restent sans réponse : Quels composants sont particulièrement dangereux ? Et à quelles concentrations ? Le "potentiel d'oxydation" des poussières fines pourrait servir à l'avenir de critère pour l'évaluation des risques - et des chercheurs de l'Empa l'ont étudié pour la Suisse. </lead>
+      <text link="no">&lt;p&gt;Inflammations, bronchites, crises d'asthme, troubles cardiovasculaires... - un extrait de la liste des dommages possibles pour la santé dus à des concentrations élevées de poussières fines : des particules d'un diamètre de dix micromètres au maximum - appelées "PM10" - et des particules encore plus petites "PM2.5", qui parviennent dans nos poumons par les gaz d'échappement des voitures, les chauffages, les entreprises industrielles et les sources naturelles. Certes, une surveillance stricte et des mesures de réduction ont permis de diminuer la pollution depuis les années 90 en Suisse également, mais le problème persiste en de nombreux endroits, notamment dans les villes.&lt;br /&gt;&lt;br /&gt;La taille des particules, la composition, les sources et les effets des poussières fines ne sont pas faciles à déterminer. Une chose est sûre : plus les particules sont petites, plus elles pénètrent profondément dans les poumons des individus. Mais quelles sont les fractions particulièrement dangereuses ? Et dans quelles combinaisons et concentrations ? Pour le décrire, un nouveau critère a été développé il y a quelques années, le "potentiel oxydatif" : un terme censé décrire la capacité des particules inhalées à déclencher la formation de ce que l'on appelle les radicaux libres dans l'organisme, qui peuvent finalement conduire à des inflammations.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cinq sites suisses&lt;/b&gt;&lt;/p&gt;&lt;p&gt; Les chercheurs de l'Empa Stuart Grange et Christoph Hüglin, du département "Pollution de l’air / Technologie environnementale", ont donc étudié de plus près l'adéquation de cette mesure pour la Suisse - en menant une campagne de mesure complexe, avec le soutien de l'Université française Grenoble Alpes. A l'aide du Réseau national d'observation des polluants atmosphériques (NABEL), que l'Empa gère avec l'Office fédéral de l'environnement (OFEV), ils ont collecté des échantillons de poussières fines des catégories PM2.5 et PM10 24 heures sur 24 entre juin 2018 et mai 2019. Les stations de mesure couvraient toute la gamme des pollutions par les particules fines et étaient situées dans des villes, dans des zones d’agglomération et dans des zones rurales au sud et au nord des Alpes.&lt;br /&gt;&lt;br /&gt;Au total, les spécialistes ont analysé environ 900 échantillons en laboratoire - à l'aide de méthodes de test du potentiel oxydatif utilisant différentes substances d'analyse : Acide ascorbique (en abrégé : AA), dithiothréitol (DTT) et dichlorofluorescéine (DFCH). Dans le test AA, la consommation d'acide ascorbique, un antioxydant important, permet de tirer des conclusions sur la "toxicité" oxydative de l'échantillon de poussières fines, par exemple en raison des métaux qu'il contient. Les deux autres procédés fonctionnent de manière similaire, mais utilisent d'autres substances pour la détection. Pour simplifier, explique Christoph Hüglin, les trois méthodes offrent des perspectives différentes sur des processus biologiques similaires.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;L'apprentissage automatique&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Outre le potentiel d'oxydation, un grand nombre de substances chimiques contenues dans les poussières fines ont été analysées. Il en est résulté une grande quantité de données sur les éléments, les ions et les substances organiques qui composent les poussières fines en Suisse. Pour identifier dans cette masse de données les "substances suspectes" ayant le plus grand potentiel d'oxydation, les chercheurs de l'Empa ont eu recours à des méthodes apprentissage automatique (en anglais : machine learning). Plus précisément, l'algorithme "Random Forest", qui, au sens figuré, fait pousser une forêt d'innombrables arbres qui prennent chacun des décisions sur les corrélations dans les données - comme dans ce cas les substances contenues dans les poussières fines et le potentiel oxydatif correspondant. Au final, un modèle moyen est formé à partir des décisions prises par l'ensemble de la forêt.&lt;br /&gt;&lt;br /&gt;Les spécialistes ont ainsi réduit le nombre de substances suspectes à une douzaine, qu'ils ont à leur tour analysées à l'aide de méthodes de calcul et de modèles conventionnels, pour finalement découvrir les principaux dangers pour la santé - différents métaux ou encore des substances organiques, qui fournissent à leur tour des indications sur leur origine et leurs causes.&lt;br /&gt;&lt;br /&gt;Les résultats confirment des faits connus tels qu'une nette disparité entre la ville et la campagne en ce qui concerne les poussières fines et leurs conséquences sur la santé, ainsi qu'une pollution plus élevée en hiver qu'en été. Avec toutefois des exceptions : Les valeurs du potentiel d'oxydation, rapportées au volume d'air, ont augmenté de manière particulièrement nette dans le sud de la Suisse pendant la saison froide - dans les régions qui étaient alors polluées par la fumée provenant de la combustion du bois.&lt;br /&gt;&lt;br /&gt;Les valeurs moyennes les plus basses ont été relevées dans les zones rurales, tandis que les valeurs les plus élevées ont été enregistrées dans une station de mesure urbaine et de trafic sur l'ensemble de la période. Aux carrefours urbains à forte circulation, d'autres émissions que les gaz d'échappement sont également préoccupantes : des métaux tels que le cuivre, le zinc et le manganèse indiquent la présence de composants de poussières fines qui peuvent provenir de l'abrasion des pneus ou des plaquettes de frein. &lt;br /&gt;&lt;br /&gt;La question de savoir comment le critère du potentiel d'oxydation peut décrire précisément les risques pour la santé fait actuellement l'objet de controverses parmi les spécialistes. Finalement, même les mesures et les analyses les plus précises des polluants atmosphériques ne répondent pas aux questions ouvertes sur les processus d'inflammation dans le corps humain. Mais après les analyses effectuées par son équipe, le chercheur de l'Empa Christoph Hüglin part tout de même du principe qu'il est possible d'en déduire des mesures judicieuses : Certes, toutes les particules fines pourraient nuire à la santé - mais en ce qui concerne le potentiel oxydatif, les composants issus du trafic routier, qui ne proviennent pas des gaz d'échappement, et de la combustion du bois devraient faire l'objet d'une attention particulière dans le cadre des mesures de protection de la population.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;i&gt;&lt;b&gt;Les dangers des particules fines&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;Les particules fines peuvent être décrites comme un mélange de particules solides et liquides dans l'air - provenant de sources anthropogènes comme les moteurs ou les gaz d'échappement industriels, ou de sources naturelles comme les volcans. Alors que de nombreuses particules sont directement émises dans l'air (particules primaires), les particules secondaires ne se forment que dans l'atmosphère par des réactions chimiques de composés gazeux. Pour la santé humaine, ce sont surtout les poussières fines respirables, dont les particules ont un diamètre aérodynamique inférieur à dix micromètres, qui sont importantes. Les poussières fines comprennent également les particules dites ultrafines, comme celles provenant des gaz d'échappement des moteurs diesel, qui pénètrent profondément dans les poumons et peuvent causer de graves dommages.&lt;/p&gt;</text>
+      <contact>Dr. Christoph Hüglin Air Pollution / Environmental Technology Tél. +41 58 765 4654 christoph.hueglin@empa.ch</contact>
+      <attachment id="241261">
+        <title>Les chercheur de l'Empa Christoph Hüglin, du département "Pollution de l’air / Technologie environnementale", a étudié de plus près les paramètres de mesure des risques sanitaires pour la Suisse. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>2037</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74914.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241262">
+        <title>Les particules fines qui ne proviennent pas des gaz d'échappement inquiètent également les spécialistes - comme par exemple l'abrasion des plaquettes de frein et des pneus de voiture. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3304</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74915.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241263">
+        <title>De l'air a été aspiré pendant 24 heures à travers ces filtres en fibres de quartz. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3566</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74916.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="241257">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/oxidatives-potential-von-feinstaub</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Air pollutants: What makes particulate matter so dangerous?</title>
+      <lead>Large amounts of particulate matter in the air are known to be harmful to human health. But many questions remain unanswered: Which components are particularly dangerous? At what concentrations? The "oxidative potential" of particulate matter could serve as a criterion for assessing risks in the future – and Empa researchers have explored it for Switzerland. </lead>
+      <text link="no">&lt;p&gt;Inflammation, bronchitis, asthma attacks, cardiovascular problems ... – an excerpt from the list of possible health problems caused by high concentrations of particulate matter: particles with a diameter of ten micrometers or less – called PM10 – and even smaller PM2.5 particles that can enter our lungs from car exhaust, heating systems, industrial operations and natural sources. Although strict monitoring and abatement measures have reduced pollution levels in Switzerland since the 1990s, the problem persists in many places, especially in cities.&lt;br /&gt;&lt;br /&gt;Particle size, composition, sources and effects of particulate matter are not easy to determine. One thing is certain: the smaller the particles, the deeper they reach the human lungs. But which fractions are particularly dangerous? And in what combinations and concentrations? To describe this, a new criterion termed oxidative potential had been developed a few years ago: a term intended to describe the ability of inhaled particles to trigger the formation of so-called free radicals in the body, which can ultimately lead to inflammation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Samples from five locations in Switzerland&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Empa researchers Stuart Grange and Christoph Hüglin from the Air Pollutants / Environmental Technology lab have investigated the suitability of this criterion for the assessment of health risks with samples collected Switzerland in greater detail – with an elaborate measurement campaign supported by the French Université Grenoble Alpes. With the help of the National Air Pollutant Monitoring Network (NABEL), which Empa operates together with the Federal Office for the Environment (FOEN), they collected particulate matter samples in the PM2.5 and PM10 categories around the clock between June 2018 and May 2019. The measuring stations covered the entire range of particulate pollution levels and were located in cities, the agglomeration and in rural areas south and north of the Alps.&lt;br /&gt;&lt;br /&gt;In total, the experts analyzed around 900 samples in the laboratory – using test methods for oxidative potential that work with different analysis substances: ascorbic acid (AA for short), dithiothreitol (DTT) and dichlorofluorescein (DFCH). In the AA test, the consumption of ascorbic acid, an important antioxidant, allows conclusions to be drawn about the oxidative toxicity of the sample under investigation, for example due to metals contained therein. The other two methods work in a similar way. Put simply, says Christoph Hüglin, the three methods offer different perspectives on similar biological processes.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Machine learning&lt;/b&gt;&lt;/p&gt;&lt;p&gt;In addition to the oxidative potential, a large number of chemical constituents of fine dust were analyzed. This resulted in a large amount of data on the elements, ions and organic substances that make up fine dust in Switzerland. In order to identify the suspicious substances with the greatest oxidative potential in these masses of data, the Empa researchers used machine learning methods. More precisely, they used the Random Forest algorithm, which, metaphorically speaking, allows a forest of countless trees to grow; each tree then makes decisions about relationships in the data – such as, in this case, the ingredients of particulate matter and the associated oxidative potential. In the end, a mean model is formed from the decisions of the entire forest.&lt;br /&gt;&lt;br /&gt;In this way, the experts reduced the number of suspicious constituents to about a dozen, which they in turn analyzed using conventional computational methods and models to finally track down the most important health hazards – different metals or even organic substances, which in turn provide clues to their origin.&lt;br /&gt;&lt;br /&gt;The results confirm known facts such as a clear urban-rural divide in particulate matter and its associated health consequences, as well as higher pollution in winter than in summer. Admittedly, there are exceptions: The oxidative potential, related to the air volume, had increased particularly significantly in Southern Switzerland during the cold season – in areas that were polluted by smoke from wood burning during this period.&lt;br /&gt;&lt;br /&gt;Rural areas showed the lowest mean values, while the highest values throughout the period came from an urban measuring station exposed to heavy traffic. At busy intersections in cities, other emissions besides exhaust gases are a cause for concern: Metals such as copper, zinc and manganese indicate particulate matter components that may originate from the abrasion of car tires or brake pads, for example. &lt;br /&gt;&lt;br /&gt;How exactly the criterion of oxidative potential can describe health hazards is currently the subject of controversial debates among experts. After all, even the most precise measurements and analyses of air pollutants do not answer open questions about inflammatory processes in the human body. But Empa researcher Hüglin assumes that sensible measures can be derived from their analyses: Although all fine dust particles could affect health, with regard to the oxidative potential, particles from road traffic, which do not originate from exhaust gases, as well as those from wood combustion should be given special attention in measures to protect public health.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;&lt;b&gt;Harmful particles&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;Particulate matter can be described as a mixture of solid and liquid particles in the air – from anthropogenic sources such as engines or industrial exhaust gases or also natural sources such as volcanoes. While many particles enter the air directly through emissions (primary particles), secondary particles are only formed in the atmosphere through chemical reactions of gaseous compounds. Of particular importance to human health is respirable particulate matter with particle aerodynamic diameters of less than ten micrometers. Particulate matter also includes so-called ultrafine particles, such as those from diesel engine exhaust, which can penetrate deep into the lungs and can cause severe damage.&lt;/p&gt;</text>
+      <contact>Dr. Christoph Hüglin Air Pollution / Environmental Technology Phone: +41 58 765 4654 christoph.hueglin@empa.ch</contact>
+      <attachment id="241264">
+        <title>Christoph Hüglin from the Air Pollutants / Environmental Technology lab has investigated the suitability of criteria for the assessment of health risks with samples collected Switzerland in greater detail. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>2037</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74917.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241265">
+        <title>Experts are concerned about particulate matter that does not come from exhaust gases – such as the abrasion of brake pads and car tires. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3304</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74918.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="241269">
+        <title>Air was drawn through these quartz fiber filters for 24 hours – in principle like a vacuum cleaner. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3566</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/74921.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="241257">
+        <title>Empa-Homepage</title>
+        <uri>https://www.empa.ch/web/s604/oxidatives-potential-von-feinstaub</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
