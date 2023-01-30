@@ -34,6 +34,21 @@
       <email lang="it">media@bag.admin.ch</email>
       <email lang="en">media@bag.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="1080" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <www lang="de">http://www.sbfi.admin.ch</www>
+      <www lang="fr">http://www.sbfi.admin.ch</www>
+      <www lang="it">http://www.sbfi.admin.ch</www>
+      <www lang="en">http://www.sbfi.admin.ch</www>
+      <email lang="de">info@sbfi.admin.ch</email>
+      <email lang="fr">info@sbfi.admin.ch</email>
+      <email lang="it">info@sbfi.admin.ch</email>
+      <email lang="en">info@sbfi.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -61,6 +76,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -136,11 +165,41 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="119" org-id="317">
-        <name lang="de">Pflegefinanzierung-DE</name>
-        <name lang="fr">Pflegefinanzierung-FR</name>
-        <name lang="it">Pflegefinanzierung-IT</name>
-        <name lang="en">Pflegefinanzierung-EN</name>
+      <keyword id="325.4" org-id="1080">
+        <name lang="de">Hochschullandschaft</name>
+        <name lang="fr">Paysage des hautes écoles</name>
+        <name lang="it">Panorama universitario</name>
+        <name lang="en">University landscape</name>
+      </keyword>
+      <keyword id="325.30" org-id="1080">
+        <name lang="de">Bildung</name>
+        <name lang="fr">Education</name>
+        <name lang="it">Educazione</name>
+        <name lang="en">Education</name>
+      </keyword>
+      <keyword id="325.31" org-id="1080">
+        <name lang="de">Berufsbildung</name>
+        <name lang="fr">Formation professionnelle</name>
+        <name lang="it">Formazione professionale</name>
+        <name lang="en">Vocational and Professional Education and Training</name>
+      </keyword>
+      <keyword id="325.32" org-id="1080">
+        <name lang="de">Berufliche Grundbildung</name>
+        <name lang="fr">Formation professionnelle initiale</name>
+        <name lang="it">Formazione professionale di base</name>
+        <name lang="en">Vocational Education and Training</name>
+      </keyword>
+      <keyword id="325.33" org-id="1080">
+        <name lang="de">Höhere Berufsbildung</name>
+        <name lang="fr">Formation professionnelle supérieure</name>
+        <name lang="it">Formazione professionale superiore</name>
+        <name lang="en">Professional Education and Training</name>
+      </keyword>
+      <keyword id="325.34" org-id="1080">
+        <name lang="de">Berufsmaturität</name>
+        <name lang="fr">Maturité professionnelle</name>
+        <name lang="it">Maturità professionale</name>
+        <name lang="en">Vocational Baccalaureate</name>
       </keyword>
     </keywords>
     <topics>
