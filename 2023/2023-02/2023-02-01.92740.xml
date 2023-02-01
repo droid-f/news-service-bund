@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="92740" revoked="no">
+    <version>3</version>
+    <pubdate>2023-02-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="707" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
+      <name lang="fr">Office fédéral pour l'approvisionnement économique du pays</name>
+      <name lang="it">Ufficio federale per l'approvvigionamento economico del Paese</name>
+      <name lang="en">Federal Office for National Economic Supply</name>
+      <www lang="de">http://www.bwl.admin.ch</www>
+      <www lang="fr">http://www.bwl.admin.ch</www>
+      <www lang="it">http://www.bwl.admin.ch</www>
+      <www lang="en">http://www.bwl.admin.ch</www>
+      <email lang="de">info@bwl.admin.ch</email>
+      <email lang="fr">info@bwl.admin.ch</email>
+      <email lang="it">info@bwl.admin.ch</email>
+      <email lang="en">info@bwl.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Verschärfung bei der Arzneimittelversorgung: Die wirtschaftliche Landesversorgung prüft weitere Massnahmen</title>
+      <lead>In den letzten Wochen hat sich die bereits angespannte Arzneimittel-Versorgungssituation weiter verschärft und den ambulanten Bereich erreicht. Der Bundesrat wurde in seiner Sitzung vom 01.02.2023 darüber informiert, dass die wirtschaftliche Landesversorgung die Situation im «Fachbereich Heilmittel» deshalb neu als problematisch einstuft. Im Rahmen einer Taskforce prüft sie gemeinsam mit anderen Bundesstellen kurzfristige Massnahmen. Zusätzlich werden die bereits laufenden Projekte zur langfristigen Gewährleistung der Versorgungssicherheit weitergeführt. </lead>
+      <text link="no"> &lt;p&gt;Die wirtschaftliche Landesversorgung hat am 31. Januar 2023 die Lage bei der Versorgung mit lebenswichtigen Arzneimitteln neu als problematisch eingestuft. Die WL sieht folgende Hauptgründe für die Verschärfung der Lage: &lt;/p&gt; &lt;p&gt;Der &lt;b&gt;weltweite Mangel an Antibiotika&lt;/b&gt; wurde durch Covid-19 und die Produktionsengpässe bei den Wirkstoffen bedingt durch Lockdowns insbesondere in China massiv verschärft. Dieses globale Problem sowie die aktuell starke und langandauernde Infektionswelle führen auch in der Schweiz dazu, dass die Nachfrage nicht mehr vollständig durch das Angebot gedeckt werden kann. &lt;/p&gt; &lt;p&gt;Die Versorgungsstörungen betreffen&lt;b&gt; zunehmend orale Formen und damit den ambulanten Bereich&lt;/b&gt; (zum Beispiel Apotheken und Arztpraxen oder Behandlung zu Hause) und nicht wie in den letzten Jahren die Spitäler. Der ambulante Bereich ist deutlich schwerer durch Massnahmen der wirtschaftlichen Landesversorgung kontrollierbar als der Spitalbereich: Erstens sind mehr Dienstleister (Ärzte und öffentliche Apotheken) betroffen und zweitens sind die Distributionswege (Verteilung über Grossisten) nicht mehr durch die Zulassungsinhaberin direkt zu kontrollieren. Bei Grossisten erfolgt die Bestellabwicklung grösstenteils vollautomatisiert, manuelle Kontrollen und Beschränkungen sind kaum umsetzbar.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Lage verschlechtert sich seit 2019 &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Die Versorgungslage bei Arzneimitteln verschlechtert sich seit mehreren Jahren stetig. Dies verdeutlicht die Statistik der Meldestelle der wirtschaftlichen Landesversorgung: Die Zulassungsinhaberinnen sind verpflichtet, Engpässe bei lebenswichtigen Medikamenten der Meldestelle zu melden. Im Jahr 2022 ist die Anzahl Meldungen auf der Heilmittelplattform um rund 9 % gegenüber 2019 gestiegen, dies nach einem Rückgang während der beiden Covid-Jahre. Über 150-mal wurde im Jahr 2022 ein Pflichtlagerbezug beantragt. Dies entspricht einem neuen Höchststand. In rund 120 Fällen wurde der Markt daraufhin mit Waren aus den Pflichtlagern versorgt. Die steigende Zahl an Marktrückzügen erschwert zudem den Ersatz betroffener Arzneimittel. Immer häufiger sind Produkte mit Monopolcharakter betroffen. Vor diesem Hintergrund beurteilte die wirtschaftliche Landesversorgung die Versorgungslage bei Arzneimitteln bisher bereits als «stark unter Druck» und gab bereits Pflichtlager frei. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Wirtschaftliche Landesversorgung setzt eine Taskforce ein&lt;/b&gt; &lt;/p&gt; &lt;p&gt;Als Konsequenz der verschärften Lage prüft die wirtschaftliche Landesversorgung mehrere Massnahmen in Absprache mit den betroffenen Stellen namentlich im Departement des Innern (EDI) sowie im Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS). &lt;/p&gt; &lt;p&gt;Als &lt;b&gt;kurzfristige Massnahme&lt;/b&gt; wurde die «Taskforce Engpass Medikamente» gebildet. Sie hat ihre Arbeiten unter der Leitung des Delegierten für wirtschaftliche Landesversorgung aufgenommen. Sie konzentriert sich auf die Möglichkeiten rasch umsetzbarer und sofort wirksamer Massnahmen. Diese beziehen sich auf die einzelnen Störungen und können bestenfalls Linderung bringen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Mittel- und langfristige Massnahmen &lt;/b&gt;zur Verbesserung der Arzneimittelversorgung werden bereits vom BWL und BAG gemeinsam evaluiert. Dabei geht es insbesondere darum, die Störungen früher und breiter zu erfassen, deren Management zu erleichtern sowie die Marktbedingungen insgesamt zu verbessern, mit dem Ziel weniger Störungen zu haben.&lt;/p&gt; </text>
+      <contact>Kommunikation GS-WBF info@gs-wbf.admin.ch +41 58 462 20 07</contact>
+      <link id="241979">
+        <title>Heilmittel</title>
+        <uri>https://www.bwl.admin.ch/bwl/de/home/themen/heilmittel.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Approvisionnement en médicaments : l’AEP étudie des mesures supplémentaires</title>
+      <lead>Les difficultés d’approvisionnement en médicaments se sont encore accentuées ces dernières semaines et touchent dorénavant aussi le domaine ambulatoire. Le Conseil fédéral a été informé durant sa séance du 1er février 2023 que l’Approvisionnement économique du pays (AEP) juge désormais la situation problématique. Le domaine Produits thérapeutiques examine diverses mesures à court terme au sein d’une task force regroupant plusieurs instances fédérales. Les projets en cours visant à assurer durablement la sécurité de l’approvisionnement se poursuivent en parallèle. </lead>
+      <text link="no"> &lt;p&gt;Le 31 janvier 2023, l'AEP a annoncé qu'il jugeait désormais la situation de l'approvisionnement en médicaments vitaux problématique. Il estime que plusieurs facteurs sont à l'œuvre.&lt;/p&gt; &lt;p&gt;Tout d'abord, &lt;b&gt;la pénurie mondiale d'antibiotiques&lt;/b&gt; s'est massivement aggravée du fait de la pandémie de COVID-19 et des perturbations de la production causées par les confinements, notamment en Chine. Ce problème, qui touche l'entier de la planète, ainsi que la forte vague de contaminations observée depuis un certain temps, font que, même en Suisse, l'offre ne suffit plus à couvrir entièrement la demande. &lt;/p&gt; &lt;p&gt;Les difficultés d'approvisionnement ne se limitent plus aux hôpitaux, comme ces dernières années, mais concernent &lt;b&gt;toujours plus aussi les formes orales, et donc le domaine ambulatoire&lt;/b&gt; (pharmacies, cabinets médicaux, traitement à domicile, etc.). Or, pour l'AEP, il est sensiblement plus difficile d'influer sur le secteur ambulatoire que sur le secteur hospitalier. Tout d'abord, le problème affecte un plus grand nombre de prestataires (médecins et pharmacies publiques) et ensuite, les canaux de distribution (grossistes) ne sont pas sous le contrôle direct des titulaires d'autorisation. La plupart des grossistes gèrent leurs commandes de façon entièrement automatisée, de sorte que les contrôles manuels et les restrictions sont difficiles à mettre en œuvre. &lt;/p&gt; &lt;p&gt;&lt;b&gt;La situation se dégrade depuis 2019&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La situation de l'approvisionnement en médicaments se dégrade continuellement depuis plusieurs années. C'est ce qui ressort des statistiques du bureau de notification de l'AEP, que les titulaires d'autorisations sont tenus d'avertir en cas de perturbation touchant les médicaments vitaux. Après avoir reculé durant les deux années de la crise du COVID-19, le nombre de notifications enregistrées sur la plateforme médicaments en 2022 a été supérieur d'environ 9 % à celui de 2019. Plus de 150 demandes de libération des réserves obligatoires ont par ailleurs été déposées en 2022, un nombre jamais atteint auparavant. Les réserves obligatoires ont été utilisées pour approvisionner le marché dans 120 cas environ. Il est également plus difficile de trouver des substituts pour les médicaments concernés, étant donné le nombre croissant de retraits du marché. Toujours plus souvent, aussi, les difficultés d'approvisionnement touchent des produits revêtant un caractère de monopole. L'AEP avait déjà estimé en 2022 que l'approvisionnement en médicaments était « fortement sous pression » et procédé à la libération de réserves obligatoires. &lt;/p&gt; &lt;p&gt;&lt;b&gt;L'AEP met sur pied une task force&lt;/b&gt; &lt;/p&gt; &lt;p&gt;En réponse à cette aggravation, l'AEP étudie diverses mesures en concertation avec les organismes concernés au sein du Département fédéral de l'intérieur (DFI) et du Département de la défense, de la protection de la population et des sports (DDPS). &lt;/p&gt; &lt;p&gt;Au titre des &lt;b&gt;mesures à court terme&lt;/b&gt;, l'AEP a mis en place une task force chargée de gérer les perturbations touchant l'approvisionnement en médicaments, qui a démarré ses travaux sous l'égide du délégué à l'approvisionnement économique du pays. La task force concentre ses efforts sur les mesures susceptibles d'être mises en œuvre et de déployer leurs effets rapidement. Ces mesures portent toutefois sur des perturbations isolées et peuvent au mieux détendre la situation ponctuellement. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Les mesures à moyen et à long terme&lt;/b&gt; destinées à améliorer l'approvisionnement en médicaments font déjà l'objet d'une évaluation commune par l'OFAE et l'OFSP. Ces mesures visent avant tout à détecter les perturbations plus rapidement et à plus large échelle, à faciliter la gestion de ces perturbations et à améliorer les conditions régissant le marché de façon à réduire le nombre de perturbations. &lt;/p&gt; </text>
+      <contact>Communication SG-DEFR info@gs-wbf.admin.ch +41 58 462 20 07</contact>
+      <link id="241980">
+        <title>Produits thérapeutiques</title>
+        <uri>https://www.bwl.admin.ch/bwl/fr/home/themen/heilmittel.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Difficoltà di approvvigionamento di medicamenti: l’UFAE valuta ulteriori misure</title>
+      <lead>La già tesa situazione che caratterizza la disponibilità di agenti terapeutici è peggiorata tanto che, da alcune settimane, ne risente anche il settore ambulatoriale. Nella seduta del 1° febbraio 2023 il Consiglio federale è stato informato del fatto che l’Approvvigionamento economico (AEP) ha definito problematica la situazione del settore Agenti terapeutici. Assieme ad altri uffici federali, ha quindi istituito una task force per valutare misure a breve termine. I progetti già in corso, che mirano a garantire la sicurezza dell’approvvigionamento a lungo termine continueranno a essere portati avanti. </lead>
+      <text link="no"> &lt;p&gt;Il 31 gennaio 2023, l'Ufficio federale per l'approvvigionamento economico del Paese (UFAE) ha definito problematica la situazione dell'approvvigionamento di medicamenti d'importanza vitale. L'AEP ritiene che il peggioramento della situazione sia dovuto soprattutto alle ragioni riportate di seguito. &lt;/p&gt; &lt;p&gt;La &lt;b&gt;penuria di antibiotici a livello internazionale,&lt;/b&gt; causata dalla pandemia di COVID-19 e dalle strozzature nella produzione dei principi attivi dovute ai lockdown, soprattutto in Cina. Questo problema di dimensioni globali e l'attuale ondata di contagi, diffusa e prolungata, fanno sì che anche in Svizzera l'offerta non sia più un grado di coprire la domanda. &lt;/p&gt; &lt;p&gt;I problemi di approvvigionamento che, a differenza degli scorsi anni, riguardano &lt;b&gt;sempre più spesso le formulazioni orali e quindi il settore ambulatoriale &lt;/b&gt;(farmacie, studi medici e cure a domicilio) e non solo gli ospedali. Rispetto al settore ospedaliero, quello ambulatoriale è molto più difficile da controllare attraverso misure dell'AEP: oltre a interessare un numero maggiore di fornitori di servizi (medici e farmacie pubbliche), i canali di distribuzione (grossisti) non possono infatti più essere gestiti direttamente dai titolari dell'omologazione. I sistemi di elaborazione degli ordini dei grossisti sono quasi completamente automatizzati; controlli manuali e restrizioni sono quindi solo difficilmente applicabili.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Costante peggioramento dal 2019&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Da ormai diversi anni la disponibilità di agenti terapeutici continua a peggiorare. Come dimostrano le statistiche del Centro di notifica dell'AEP, i titolari dell'omologazione sono tenuti a segnalare eventuali penurie di medicamenti d'importanza vitale al Centro di notifica. Dopo aver subìto una contrazione nei due anni di pandemia, nel 2022 il numero di segnalazioni sulla Piattaforma farmaci è aumentato di circa il 9 per cento rispetto al 2019. Nel 2022 è stata presentata una cifra record di più di 150 richieste di ricorso alle scorte obbligatorie. In circa 120 casi, il mercato ha potuto essere rifornito con beni provenienti dalle scorte obbligatorie. Il numero crescente di farmaci ritirati dal mercato complica inoltre la loro sostituzione. A essere sempre più colpiti sono i prodotti soggetti a monopolio. In questo contesto l'AEP ha definito «fortemente sotto pressione» la situazione dell'approvvigionamento di agenti terapeutici e ha già ordinato la liberazione di scorte obbligatorie. &lt;/p&gt; &lt;p&gt;&lt;b&gt;L'AEP istituisce una task force&lt;/b&gt; &lt;/p&gt; &lt;p&gt;Come conseguenza del peggioramento della situazione, l'AEP sta mettendo a punto diverse misure con gli altri uffici coinvolti, in particolare con il Dipartimento federale dell'interno (DFI) e con il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS). &lt;/p&gt; &lt;p&gt;Come &lt;b&gt;misure a breve termine&lt;/b&gt; è stata istituita la task force agenti terapeutici, che ha già cominciato i lavori sotto la guida del Delegato all'Approvvigionamento economico del Paese concentrandosi sulla ricerca di misure rapide ed efficaci. Si tratta di trovare una soluzione a singoli problemi di approvvigionamento e di ristabilire una situazione di distensione.&lt;/p&gt; &lt;p&gt;L'UFAE e l'Ufficio federale della sanità pubblica (UFSP) stanno discutendo misure a medio e lungo termine. Si tratta in particolare di individuare nel minor tempo possibile un numero più ampio di interruzioni, di gestirle con più facilità e di migliorare quindi la situazione del mercato in generale. L'obiettivo rimane quello di ridurre al minimo le interruzioni. &lt;/p&gt; </text>
+      <contact>Comunicazione SG-DEFR info@gs-wbf.admin.ch +41 58 462 20 07</contact>
+      <link id="241981">
+        <title>Agenti terapeutici</title>
+        <uri>https://www.bwl.admin.ch/bwl/it/home/themen/heilmittel.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions>
+        <revision date="2023-02-01 12:48" type="R"/>
+      </revisions>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
+      <topic id="37">
+        <name lang="de">Konsum</name>
+        <name lang="fr">Consommation</name>
+        <name lang="it">Consumo</name>
+        <name lang="en">Consumer Affairs</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
