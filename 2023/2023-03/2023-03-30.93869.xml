@@ -20,6 +20,21 @@
       <email lang="it">info@bfs.admin.ch</email>
       <email lang="en">info@bfs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="812" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Raumentwicklung</name>
+      <name lang="fr">Office fédéral du développement territorial</name>
+      <name lang="it">Ufficio federale dello sviluppo territoriale</name>
+      <name lang="en">Federal Office for Spatial Development</name>
+      <www lang="de">http://www.are.admin.ch</www>
+      <www lang="fr">https://www.are.admin.ch/are/fr/home.html</www>
+      <www lang="it">https://www.are.admin.ch/are/it/home.html</www>
+      <www lang="en">https://www.are.admin.ch/are/en/home.html</www>
+      <email lang="de">media@are.admin.ch</email>
+      <email lang="fr">media@are.admin.ch</email>
+      <email lang="it">media@are.admin.ch</email>
+      <email lang="en">media@are.admin.ch</email>
+    </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
@@ -33,6 +48,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="de">
       <city>Neuchâtel</city>
@@ -100,18 +129,56 @@
         <revision date="2023-03-30 16:49" type="I"/>
       </revisions>
     </content>
+    <offers>
+      <offer id="45" org-id="812">
+        <name lang="de">Agglomerationspolitik</name>
+        <name lang="fr">Politique des agglomérations</name>
+        <name lang="it">Politica degli agglomerati</name>
+        <name lang="en">Agglomeration policy</name>
+      </offer>
+      <offer id="47" org-id="812">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial planning</name>
+      </offer>
+      <offer id="57" org-id="812">
+        <name lang="de">Verkehr und Mobilität</name>
+        <name lang="fr">Transport et mobilité</name>
+        <name lang="it">Trasporti e mobilità</name>
+        <name lang="en">Transportation and mobility</name>
+      </offer>
+    </offers>
     <keywords>
-      <keyword id="317.3" org-id="318">
-        <name lang="de">Raum und Umwelt</name>
-        <name lang="fr">Espace et environnement</name>
-        <name lang="it">Territorio e ambiente</name>
-        <name lang="en">Territory and environment</name>
+      <keyword id="550" org-id="812">
+        <name lang="de">Infrastruktur</name>
+        <name lang="fr">Infrastruktur</name>
+        <name lang="it">Infrastruktur</name>
+        <name lang="en">Infrastruktur</name>
       </keyword>
-      <keyword id="317.12" org-id="318">
-        <name lang="de">Verkehr und Nachrichtenwesen</name>
-        <name lang="fr">Transports et communications</name>
-        <name lang="it">Trasporti e comunicazioni</name>
-        <name lang="en">Transport and communications</name>
+      <keyword id="991" org-id="812">
+        <name lang="de">Raumentwicklung</name>
+        <name lang="fr">Raumentwicklung</name>
+        <name lang="it">Raumentwicklung</name>
+        <name lang="en">Raumentwicklung</name>
+      </keyword>
+      <keyword id="2000" org-id="812">
+        <name lang="de">Veranstaltungen</name>
+        <name lang="fr">Manifestations</name>
+        <name lang="it">Manifestazioni</name>
+        <name lang="en">Events</name>
+      </keyword>
+      <keyword id="1500" org-id="812">
+        <name lang="de">Verkehrspolitik</name>
+        <name lang="fr">Verkehrspolitik</name>
+        <name lang="it">Verkehrspolitik</name>
+        <name lang="en">Verkehrspolitik</name>
+      </keyword>
+      <keyword id="1105" org-id="812">
+        <name lang="de">Verkehr und Raumordnung</name>
+        <name lang="fr">Transports et aménagement du territoire</name>
+        <name lang="it">Trasporti e ordinamento del territorio</name>
+        <name lang="en">Verkehr und Raumordnung</name>
       </keyword>
     </keywords>
     <topics>
@@ -120,18 +187,6 @@
         <name lang="fr">Aménagement du territoire</name>
         <name lang="it">Pianificazione del territorio</name>
         <name lang="en">Spatial Planning</name>
-      </topic>
-      <topic id="43">
-        <name lang="de">Statistik</name>
-        <name lang="fr">Statistiques</name>
-        <name lang="it">Statistica</name>
-        <name lang="en">Statistics</name>
-      </topic>
-      <topic id="46">
-        <name lang="de">Verkehr</name>
-        <name lang="fr">Transports</name>
-        <name lang="it">Trasporti</name>
-        <name lang="en">Transport</name>
       </topic>
     </topics>
   </message>
