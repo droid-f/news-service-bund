@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="812" lead="no" topnews="no">
+    <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Raumentwicklung</name>
-      <name lang="fr">Office fédéral du développement territorial</name>
-      <name lang="it">Ufficio federale dello sviluppo territoriale</name>
-      <name lang="en">Federal Office for Spatial Development</name>
-      <www lang="de">http://www.are.admin.ch</www>
-      <www lang="fr">https://www.are.admin.ch/are/fr/home.html</www>
-      <www lang="it">https://www.are.admin.ch/are/it/home.html</www>
-      <www lang="en">https://www.are.admin.ch/are/en/home.html</www>
-      <email lang="de">media@are.admin.ch</email>
-      <email lang="fr">media@are.admin.ch</email>
-      <email lang="it">media@are.admin.ch</email>
-      <email lang="en">media@are.admin.ch</email>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="811" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">info@bafu.admin.ch</email>
       <email lang="en">info@bafu.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
+    <originator department-msg="no" id="812" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
+      <name lang="de">Bundesamt für Raumentwicklung</name>
+      <name lang="fr">Office fédéral du développement territorial</name>
+      <name lang="it">Ufficio federale dello sviluppo territoriale</name>
+      <name lang="en">Federal Office for Spatial Development</name>
+      <www lang="de">http://www.are.admin.ch</www>
+      <www lang="fr">https://www.are.admin.ch/are/fr/home.html</www>
+      <www lang="it">https://www.are.admin.ch/are/it/home.html</www>
+      <www lang="en">https://www.are.admin.ch/are/en/home.html</www>
+      <email lang="de">media@are.admin.ch</email>
+      <email lang="fr">media@are.admin.ch</email>
+      <email lang="it">media@are.admin.ch</email>
+      <email lang="en">media@are.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -186,33 +186,45 @@
       </revisions>
     </content>
     <offers>
-      <offer id="143" org-id="811">
-        <name lang="de">Medienmitteilungen des BAFU</name>
-        <name lang="fr">Communiqués de l'OFEV</name>
-        <name lang="it">Comunicati dell'UFAM</name>
-        <name lang="en">Media releases of the FOEN</name>
+      <offer id="47" org-id="812">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial planning</name>
+      </offer>
+      <offer id="346" org-id="812">
+        <name lang="de">Sachpläne des Bundes</name>
+        <name lang="fr">Plans sectoriels de la Confédération</name>
+        <name lang="it">Piani settoriali della Confederazione</name>
+        <name lang="en">Sectoral Plans</name>
       </offer>
     </offers>
     <keywords>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
+      <keyword id="1100" org-id="812">
+        <name lang="de">Siedlung und Landschaft</name>
+        <name lang="fr">Urbanisation et paysage</name>
+        <name lang="it">Urbanizzazione e paesaggio</name>
+        <name lang="en">Settlement and Landscape</name>
       </keyword>
-      <keyword id="1600" org-id="804">
-        <name lang="de">Umweltpolitik</name>
-        <name lang="fr">Umweltpolitik</name>
-        <name lang="it">Umweltpolitik</name>
-        <name lang="en">Umweltpolitik</name>
+      <keyword id="991" org-id="812">
+        <name lang="de">Raumentwicklung</name>
+        <name lang="fr">Raumentwicklung</name>
+        <name lang="it">Raumentwicklung</name>
+        <name lang="en">Raumentwicklung</name>
+      </keyword>
+      <keyword id="110" org-id="812">
+        <name lang="de">Boden</name>
+        <name lang="fr">Sol</name>
+        <name lang="it">Suolo</name>
+        <name lang="en">Soil</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="29">
-        <name lang="de">Umwelt und Natur</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="en">Environment and Nature</name>
+      <topic id="25">
+        <name lang="de">Raumplanung</name>
+        <name lang="fr">Aménagement du territoire</name>
+        <name lang="it">Pianificazione del territorio</name>
+        <name lang="en">Spatial Planning</name>
       </topic>
     </topics>
   </message>
