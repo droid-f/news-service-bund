@@ -19,21 +19,6 @@
       <email lang="it">info@armasuisse.ch</email>
       <email lang="en">info@armasuisse.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Gruppe Verteidigung</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@vtg.admin.ch</email>
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -143,43 +143,43 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5160" org-id="505">
+      <keyword id="5160" org-id="502">
         <name lang="de">Verteidigung</name>
         <name lang="fr">Défense</name>
         <name lang="it">Difesa</name>
         <name lang="en">defence</name>
       </keyword>
-      <keyword id="5180" org-id="505">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5310" org-id="505">
+      <keyword id="5310" org-id="502">
         <name lang="de">Rüstung / Beschaffung</name>
         <name lang="fr">Armement / Acquisition d'armement</name>
         <name lang="it">Armamento / Acquisto d'armamenti</name>
         <name lang="en">Armament / Procurement</name>
       </keyword>
-      <keyword id="5320" org-id="505">
+      <keyword id="5320" org-id="502">
         <name lang="de">Rüstungspolitik</name>
         <name lang="fr">Politique d'armement</name>
         <name lang="it">Politica d'armamento</name>
         <name lang="en">Armament Policy</name>
       </keyword>
-      <keyword id="5360" org-id="505">
+      <keyword id="5360" org-id="502">
         <name lang="de">Technologie / Wissenschaft / Forschung</name>
         <name lang="fr">Technologies / Sciences / Recherche</name>
         <name lang="it">Tecnologia / Scienza / Ricerca</name>
         <name lang="en">Technology / Science / Research</name>
       </keyword>
-      <keyword id="5440" org-id="505">
+      <keyword id="5440" org-id="502">
         <name lang="de">Veranstaltung</name>
         <name lang="fr">Manifestation</name>
         <name lang="it">Manifestazione</name>
         <name lang="en">Event</name>
       </keyword>
-      <keyword id="5930" org-id="505">
+      <keyword id="5930" org-id="502">
         <name lang="de">Internationale Beziehungen</name>
         <name lang="fr">Relations internationales</name>
         <name lang="it">Relazioni internazionali</name>
