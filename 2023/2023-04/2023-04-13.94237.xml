@@ -34,6 +34,21 @@
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -61,6 +76,20 @@
       <email lang="fr">info@gs-efd.admin.ch</email>
       <email lang="it">info@gs-efd.admin.ch</email>
       <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -139,29 +168,23 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="176" org-id="602">
-        <name lang="de">E-Government</name>
-        <name lang="fr">Cyberadministration</name>
-        <name lang="it">E-Government</name>
-        <name lang="en">e-government</name>
+      <keyword id="5160" org-id="502">
+        <name lang="de">Verteidigung</name>
+        <name lang="fr">Défense</name>
+        <name lang="it">Difesa</name>
+        <name lang="en">defence</name>
       </keyword>
-      <keyword id="175" org-id="602">
-        <name lang="de">Informatik</name>
-        <name lang="fr">Informatique</name>
-        <name lang="it">Informatica</name>
-        <name lang="en">IT</name>
+      <keyword id="5980" org-id="502">
+        <name lang="de">Cyber Defence</name>
+        <name lang="fr">Cyber Defence</name>
+        <name lang="it">Cyber Defence</name>
+        <name lang="en">Cyber Defence</name>
       </keyword>
-      <keyword id="174" org-id="602">
-        <name lang="de">Informatik-Sicherheit</name>
-        <name lang="fr">Sécurité informatique</name>
-        <name lang="it">Sicurezza informatica</name>
-        <name lang="en">IT security</name>
-      </keyword>
-      <keyword id="223" org-id="602">
-        <name lang="de">Innere Sicherheit</name>
-        <name lang="fr">Sécurité intérieure</name>
-        <name lang="it">Sicurezza interna</name>
-        <name lang="en">Internal security</name>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
       </keyword>
     </keywords>
     <topics>
