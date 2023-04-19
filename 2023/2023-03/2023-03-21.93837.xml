@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="602" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Generalsekretariat EFD</name>
-      <name lang="fr">Secrétariat général DFF</name>
-      <name lang="it">Segreteria generale DFF</name>
-      <name lang="en">Secretariat-General FDF</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="fr">http://www.efd.admin.ch</www>
-      <www lang="it">http://www.efd.admin.ch</www>
-      <www lang="en">http://www.efd.admin.ch</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </originator>
     <originator department-msg="yes" id="1060" lead="no" topnews="no">
       <department-id>601</department-id>
       <name lang="de">Staatssekretariat für internationale Finanzfragen</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@sif.admin.ch</email>
       <email lang="it">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -138,49 +138,25 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="118" org-id="1060">
+      <keyword id="118" org-id="602">
         <name lang="de">Finanzmarktregulierung und -aufsicht</name>
         <name lang="fr">Réglementation et surveillance des marchés financiers</name>
         <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
         <name lang="en">Financial market regulation and supervision</name>
       </keyword>
-      <keyword id="126" org-id="1060">
+      <keyword id="126" org-id="602">
         <name lang="de">Finanzplatz Schweiz</name>
         <name lang="fr">Place financière suisse</name>
         <name lang="it">Piazza finanziaria svizzera</name>
         <name lang="en">Switzerland as a financial centre</name>
       </keyword>
-      <keyword id="1111" org-id="1060">
-        <name lang="de">Too big to fail</name>
-        <name lang="fr">Too big to fail</name>
-        <name lang="it">Too big to fail</name>
-        <name lang="en">Too big to fail</name>
-      </keyword>
     </keywords>
     <topics>
-      <topic id="35">
-        <name lang="de">Finanzplatz</name>
-        <name lang="fr">Place financière</name>
-        <name lang="it">Piazza finanziaria</name>
-        <name lang="en">Financial Centre</name>
-      </topic>
-      <topic id="39">
-        <name lang="de">Schweiz und Ausland</name>
-        <name lang="fr">Suisse et étranger</name>
-        <name lang="it">Svizzero ed estero</name>
-        <name lang="en">Switzerland and Foreign Affairs</name>
-      </topic>
-      <topic id="44">
-        <name lang="de">Steuern</name>
-        <name lang="fr">Impôts</name>
-        <name lang="it">Imposte</name>
-        <name lang="en">Taxation</name>
-      </topic>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
       </topic>
     </topics>
   </message>
