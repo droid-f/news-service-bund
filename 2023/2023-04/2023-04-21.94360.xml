@@ -19,6 +19,36 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">https://www.bafu.admin.ch</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
+      <www lang="it">https://www.bafu.admin.ch/it</www>
+      <www lang="en">https://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="808" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -108,74 +138,58 @@
         <revision date="2023-04-21 18:07" type="R"/>
       </revisions>
     </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+    </offers>
     <keywords>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </keyword>
-      <keyword id="1430" org-id="804">
-        <name lang="de">Energieverbrauch</name>
-        <name lang="fr">Energieverbrauch</name>
-        <name lang="it">Energieverbrauch</name>
-        <name lang="en">Energieverbrauch</name>
-      </keyword>
-      <keyword id="1600" org-id="804">
-        <name lang="de">Umweltpolitik</name>
-        <name lang="fr">Umweltpolitik</name>
-        <name lang="it">Umweltpolitik</name>
-        <name lang="en">Umweltpolitik</name>
-      </keyword>
-      <keyword id="310" org-id="804">
-        <name lang="de">Energiepolitik</name>
-        <name lang="fr">Energiepolitik</name>
-        <name lang="it">Energiepolitik</name>
-        <name lang="en">Energiepolitik</name>
-      </keyword>
-      <keyword id="300" org-id="804">
+      <keyword id="300" org-id="808">
         <name lang="de">Energieffizienz</name>
         <name lang="fr">Efficacité énergétique</name>
         <name lang="it">Efficienza energetica</name>
         <name lang="en">Energy Efficiency</name>
       </keyword>
-      <keyword id="350" org-id="804">
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="en">Energy Policy</name>
+      </keyword>
+      <keyword id="320" org-id="808">
+        <name lang="de">Energieversorgung</name>
+        <name lang="fr">Approvisionnement énergétique</name>
+        <name lang="it">Approvvigionamento energetico</name>
+        <name lang="en">Energy Supply</name>
+      </keyword>
+      <keyword id="340" org-id="808">
+        <name lang="de">Energiewirtschaft</name>
+        <name lang="fr">Economie énergétique</name>
+        <name lang="it">Economia energetica</name>
+        <name lang="en">Energy Economy</name>
+      </keyword>
+      <keyword id="350" org-id="808">
         <name lang="de">Erneuerbare Energien</name>
         <name lang="fr">Energies renouvelables</name>
         <name lang="it">Energie rinnovabili</name>
-        <name lang="en">Erneuerbare Energien</name>
+        <name lang="en">Renewable Energy</name>
       </keyword>
-      <keyword id="620" org-id="804">
-        <name lang="de">Klima</name>
-        <name lang="fr">Climat</name>
-        <name lang="it">Clima</name>
-        <name lang="en">Climate</name>
-      </keyword>
-      <keyword id="2086" org-id="804">
-        <name lang="de">Stromversorgung</name>
-        <name lang="fr">Approvisionnement en électricité</name>
-        <name lang="it">Approvvigionamento elettrico</name>
-        <name lang="en">Electricity supply</name>
+      <keyword id="1430" org-id="808">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="fr">Consommation énergétique</name>
+        <name lang="it">Consumo energetico</name>
+        <name lang="en">Energy Consumption</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
       <topic id="11">
         <name lang="de">Energie</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
         <name lang="en">Energy</name>
-      </topic>
-      <topic id="29">
-        <name lang="de">Umwelt und Natur</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="en">Environment and Nature</name>
       </topic>
     </topics>
   </message>
