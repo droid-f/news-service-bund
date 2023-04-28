@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="94662" revoked="no">
+    <version>2</version>
+    <pubdate>2023-04-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="107" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter</name>
+      <name lang="fr">Préposé fédéral à la protection des données et à la transparence</name>
+      <name lang="it">Incaricato federale della protezione dei dati e per la trasparenza</name>
+      <name lang="en">Federal Data Protection and Information Commissioner</name>
+      <www lang="de">http://www.edoeb.admin.ch/</www>
+      <www lang="fr">https://www.edoeb.admin.ch/edoeb/fr/home.html</www>
+      <www lang="it">https://www.edoeb.admin.ch/edoeb/it/home.html</www>
+      <www lang="en">https://www.edoeb.admin.ch/edoeb/en/home.html</www>
+      <email lang="de">info@edoeb.admin.ch</email>
+      <email lang="fr">info@edoeb.admin.ch</email>
+      <email lang="it">info@edoeb.admin.ch</email>
+      <email lang="en">info@edoeb.admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
+      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
+      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Abschluss der Sachverhaltsabklärung zur Datenbank privater Covid-19-Testzentren</title>
+      <lead>Nach Eingang eines Hinweises einer Privatperson führte der EDÖB eine Sachverhaltsabklärung zu einer unzureichend gesicherten Datenbank privater Covid-19-Testzentren durch. Im heute veröffentlichten Schlussbericht hält der Beauftragte fest, dass die in der Datenbank bearbeiteten Gesundheitsdaten aufgrund der angezeigten Schwachstelle beträchtlichen Sicherheitsrisiken ausgesetzt waren. Da die Verantwortlichen nach Bekanntwerden des Mangels angemessene Sofortmassnahmen eingeleitet hatten, konnte das Risiko für die Betroffenen minimiert werden. Das Verfahren wird deshalb ohne Empfehlungen abgeschlossen. </lead>
+      <text link="no">&lt;p&gt;Im November 2022 meldete eine Privatperson dem EDÖB und dem Nationalen Zentrum für Cybersicherheit (NCSC) einen Mangel der Zugriffskontrolle bei einer Datenbank, auf der Gesundheitsdaten gespeichert waren, die von privaten Covid-19-Testzentren mit mehreren Standorten in der Schweiz stammten. Die Privatperson hatte sich aufgrund einer Schwachstelle des Webservers Zugang zur Datenbank verschafft und eine Kopie der dort bearbeiteten Daten heruntergeladen. Die Verantwortlichen nahmen die Datenbank noch am Tag der Meldung vom Server und verschoben sie auf einen verschlüsselten physischen Datenträger. &lt;/p&gt;&lt;p&gt;Im Rahmen der Sachverhaltsabklärung, die der EDÖB im Nachgang an die erhaltene Meldung und darauf gestützte erste Abklärungen eröffnete, stellte er verschiedene Mängel in Bezug auf die Datensicherheit fest. Der für die Testzentren Verantwortliche konnte gestützt auf die Protokolle der Zugriffe nachweisen, dass kein weiterer unbefugter Zugriff auf die Daten stattgefunden hatte. Durch die ergriffenen Sofortmassnahmen bestand zudem kein Risiko für die betroffenen Personen mehr. Aufgrund dieser Konstellation und angesichts der Tatsache, dass der Betrieb der Covid-Testzentren schon einige Zeit vor Bekanntwerden der Schwachstelle eingestellt worden war, hat der EDÖB das Verfahren ohne Erlass einer Empfehlung abgeschlossen.&lt;br /&gt;&lt;br /&gt;Aufgrund des Auslandbezugs des Systems hatte sich der EDÖB amtshilfeweise mit verschiedenen Behörden, insbesondere mit den Datenschutzbehörden Österreichs und des Fürstentums Liechtenstein ausgetauscht.&lt;br /&gt;&lt;br /&gt;Der Fall zeigt einerseits auf, welche Risiken sich aus Schwachstellen in einer Datenbank ergeben können. Andererseits konnten dank des Ergreifens von Sofortmassnahmen und der Protokollierung der Zugriffe auf die Datenbank weitere Risiken für die Betroffenen ausgeschlossen werden.&lt;/p&gt;</text>
+      <contact>Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB), Tel. +41 58 464 94 10, info@edoeb.admin.ch</contact>
+      <attachment id="248719">
+        <title>Schlussbericht vom 16.03.2023 mit Ergänzungen 28.04.2023 (geschwärzt)</title>
+        <format>pdf</format>
+        <size-kb>213</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/77556.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Clôture de l’établissement des faits concernant la banque de données de centres privés de dépistage Covid-19</title>
+      <lead>Suite à la réception d’un signalement par un particulier, le Préposé a procédé à un établissement des faits concernant une banque de données insuffisamment sécurisée de centres privés de dépistage Covid-19. Dans son rapport final publié ce jour, il a établi que les données de santé traitées dans la banque de données avaient été exposées à des risques de sécurité considérables en raison de la faille signalée. Comme les responsables avaient pris les mesures immédiates appropriées après la découverte de cette faille, le risque pour les personnes concernées a pu être réduit. La procédure est ainsi close sans recommandation.</lead>
+      <text link="no">En novembre 2022, un particulier a signalé au Préposé fédéral et au Centre national pour la cybersécurité (NCSC) une faille du contrôle d’accès dans une banque de données stockant des données de santé provenant de centres de dépistage Covid-19 situés sur plusieurs sites en Suisse. Profitant d’une faille du serveur Internet, cette personne était entrée dans la banque de données et avait téléchargé une copie des données qui y étaient traitées. Le jour même de ce signalement, les responsables ont retiré la banque de données du serveur et l'ont déplacée sur un support physique chiffré.&lt;br /&gt;&lt;br /&gt;Dans le cadre de l'établissement des faits qu'il avait ouvert à la suite de l’annonce reçue et des premières investigations qui ont suivi, le Préposé fédéral a constaté diverses lacunes en matière de sécurité des données. Sur la base des journaux d'accès, le responsable des centres de dépistage a confirmé qu'aucun autre accès non autorisé aux données n'avait eu lieu. En outre, grâce aux mesures immédiates prises, il n'y avait plus de risque pour les personnes concernées. Compte tenu de cette situation et du fait que l'exploitation des centres de dépistage Covid-19 avait déjà été suspendue quelque temps avant la connaissance de la faille en question, le Préposé a clos la procédure sans émettre de recommandation.&lt;br /&gt;&lt;br /&gt;En raison du caractère transfrontière du système, le Préposé fédéral a été en échange avec plusieurs autorités dans le cadre de l’entraide administrative, notamment les autorités de protection des données d'Autriche et de la Principauté du Liechtenstein.&lt;br /&gt;&lt;br /&gt;Le cas démontre d'une part les risques qui peuvent résulter de failles dans une banque de données. D'autre part, la prise de mesures immédiates et la journalisation des accès à la banque de données ont permis d'exclure des risques supplémentaires pour les personnes concernées.</text>
+      <contact>Préposé fédéral à la protection des données et à la transparence (PFPDT), Tél. +41 58 464 94 10, info@edoeb.admin.ch</contact>
+      <attachment id="248720">
+        <title>Schlussbericht vom 16.03.2023 mit Ergänzungen 28.04.2023 (geschwärzt)</title>
+        <format>pdf</format>
+        <size-kb>213</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/77557.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions>
+        <revision date="2023-04-28 12:07" type="R"/>
+      </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Conclusione della procedura di accertamento dei fatti in relazione a una banca dati di centri privati per i test COVID-19</title>
+      <lead>A seguito della segnalazione di un privato, l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) ha condotto una procedura di accertamento dei fatti in relazione a una banca dati non sufficientemente protetta di centri privati per i test COVID-19. Nel rapporto finale pubblicato in data odierna, l’IFPDT ha concluso che i dati sanitari elaborati nella banca dati sono stati esposti a importanti rischi per la sicurezza a causa della vulnerabilità segnalata. Ma poiché, dopo essere venuti a conoscenza di tale vulnerabilità, i responsabili hanno reagito immediatamente con misure adeguate, il rischio per gli interessati è stato ridotto al minimo. Pertanto, la procedura si è conclusa senza raccomandazioni.</lead>
+      <text link="no">Nel novembre 2022 un privato ha segnalato all’IFPDT e al Centro nazionale per la cibersicurezza (National Cyber Security Centre, NCSC) una falla nel controllo degli accessi di una banca dati nella quale erano memorizzati dati sanitari provenienti da centri privati per i test COVID-19 in diverse regioni della Svizzera. A causa di una vulnerabilità nel server web, il privato ha avuto accesso alla banca dati e ha potuto scaricare una copia dei dati ivi elaborati. Il giorno stesso della segnalazione i responsabili hanno rimosso la banca dati dal server, trasferendola su un supporto dati fisico crittografato.&lt;br /&gt;&lt;br /&gt;Nell’ambito della procedura di accertamento dei fatti che ha avviato a seguito della segnalazione pervenuta e dei primi accertamenti effettuati in virtù di essa, l’IFPDT ha riscontrato diverse lacune nella sicurezza dei dati. Sulla base dei registri degli accessi, il medico responsabile dei centri per i test ha potuto dimostrare che nessun’altra persona non autorizzata ha avuto accesso ai dati. Le misure immediate adottate hanno inoltre escluso qualsiasi ulteriore rischio per gli interessati. Alla luce di queste considerazioni e del fatto che l’attività dei centri per i test COVID-19 era già stata sospesa prima che si venisse a conoscenza della vulnerabilità, la procedura si è conclusa senza la formulazione di raccomandazioni da parte dell’IFPDT.&lt;br /&gt;&lt;br /&gt;A causa della componente internazionale del sistema, nell’ambito di una procedura di assistenza amministrativa l’IFPDT ha scambiato informazioni con diverse autorità, in particolare con le autorità in materia di protezione dei dati di Austria e Principato del Liechtenstein.&lt;br /&gt;&lt;br /&gt;Da un lato, il caso illustra i rischi connessi alla vulnerabilità di una banca dati. Dall’altro, l’adozione di misure immediate e la registrazione degli accessi alla banca dati hanno permesso di escludere ulteriori rischi per gli interessati.</text>
+      <contact>Incaricato federale della protezione dei dati e della trasparenza (IFPDT), tel. +41 58 464 94 10, info@edoeb.admin.ch</contact>
+      <attachment id="248721">
+        <title>Schlussbericht vom 16.03.2023 mit Ergänzungen 28.04.2023 (geschwärzt)</title>
+        <format>pdf</format>
+        <size-kb>213</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/77558.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="en">Legal Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
