@@ -34,6 +34,21 @@
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="606" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
+      <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
+      <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
+      <name lang="en">Federal Office for Customs and Border Security</name>
+      <www lang="de">https://www.bazg.admin.ch</www>
+      <www lang="fr">https://www.bazg.admin.ch</www>
+      <www lang="it">https://www.bazg.admin.ch</www>
+      <www lang="en">https://www.bazg.admin.ch</www>
+      <email lang="de">zentrale@bazg.admin.ch</email>
+      <email lang="fr">zentrale@bazg.admin.ch</email>
+      <email lang="it">zentrale@bazg.admin.ch</email>
+      <email lang="en">zentrale@bazg.admin.ch</email>
+    </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
@@ -47,6 +62,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
