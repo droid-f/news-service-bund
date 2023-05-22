@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
+    <originator department-msg="no" id="804" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="804" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Generalsekretariat UVEK</name>
-      <name lang="fr">Secrétariat général DETEC</name>
-      <name lang="it">Segreteria generale DATEC</name>
-      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
-      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
-      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
-      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
-      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -78,20 +78,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="501">
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch</www>
-      <www lang="fr">http://www.vbs.admin.ch</www>
-      <www lang="it">http://www.vbs.admin.ch</www>
-      <www lang="en">http://www.vbs.admin.ch</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
-    </department>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -105,6 +91,20 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -173,41 +173,11 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="550" org-id="804">
-        <name lang="de">Infrastruktur</name>
-        <name lang="fr">Infrastructure</name>
-        <name lang="it">Infrastruttura</name>
-        <name lang="en">Infrastructure</name>
-      </keyword>
-      <keyword id="210" org-id="804">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </keyword>
-      <keyword id="1500" org-id="804">
-        <name lang="de">Verkehrspolitik</name>
-        <name lang="fr">Verkehrspolitik</name>
-        <name lang="it">Verkehrspolitik</name>
-        <name lang="en">Verkehrspolitik</name>
-      </keyword>
-      <keyword id="380" org-id="804">
-        <name lang="de">Flughafen</name>
-        <name lang="fr">Aéroports</name>
-        <name lang="it">Aeroporti</name>
-        <name lang="en">Flughafen</name>
-      </keyword>
-      <keyword id="780" org-id="804">
-        <name lang="de">Luftfahrt</name>
-        <name lang="fr">Transport aérien public</name>
-        <name lang="it">Traffico aereo pubblico</name>
-        <name lang="en">Aviation</name>
-      </keyword>
-      <keyword id="790" org-id="804">
-        <name lang="de">Luftfahrt: Infrastruktur</name>
-        <name lang="fr">Aviation : installations</name>
-        <name lang="it">Navigazione aerea: impianti</name>
-        <name lang="en">Aviation: Facilities</name>
+      <keyword id="5012" org-id="502">
+        <name lang="de">Dossier Militärflugplatz Dübendorf</name>
+        <name lang="fr">Dossier Base aérienne de Dübendorf</name>
+        <name lang="it">Dossier Aerodromo militare di Dübendorf</name>
+        <name lang="en">Dossier Militärflugplatz Dübendorf</name>
       </keyword>
     </keywords>
     <topics>
