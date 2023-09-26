@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="96667" revoked="no">
+    <version>2</version>
+    <pubdate>2023-07-12</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="404" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="en">Federal Office of Police</name>
+      <www lang="de">http://www.fedpol.admin.ch/fedpol/de/home.html</www>
+      <www lang="fr">http://www.fedpol.admin.ch/fedpol/fr/home.html</www>
+      <www lang="it">http://www.fedpol.admin.ch/fedpol/it/home.html</www>
+      <www lang="en">http://www.fedpol.admin.ch/fedpol/en/home.html</www>
+      <email lang="de">info@fedpol.admin.ch</email>
+      <email lang="fr">info@fedpol.admin.ch</email>
+      <email lang="it">info@fedpol.admin.ch</email>
+      <email lang="en">info@fedpol.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Hackerangriff auf die Firma Xplain: Auszug aus Informationssystem «HOOGAN» von 2015 im Darknet publiziert – Betroffene werden informiert</title>
+      <lead>Nach dem Ransomware-Angriff auf die IT-Dienstleisterin Xplain, zu deren Kunden auch fedpol gehört, wurde in den gestohlenen und veröffentlichten Daten auch ein acht Jahre alter Auszug aus dem Informationssystem HOOGAN festgestellt. fedpol informiert die Betroffenen direkt und kommuniziert im Sinne der Transparenz auch öffentlich.</lead>
+      <text link="no"> &lt;p&gt;Seit Bekanntwerden des Ransomware-Angriffs auf die IT-Dienstleisterin Xplain laufen in der Bundesverwaltung intensive Abklärungen zu den betroffenen Daten (vgl. Medienmitteilung des NCSC vom 14. Juni 2023). Zu den zahlreichen Kunden der Firma gehört auch das Bundesamt für Polizei fedpol. fedpol ist daran, jene Daten zu analysieren, die fedpol betreffen. Die Analysen haben in einer ersten Phase den Zweck, Risiken zu erkennen, um rasch und frühzeitig Massnahmen treffen zu können.&lt;/p&gt; &lt;h3&gt;Acht Jahre alter Auszug aus Informationssystem unter den Daten&lt;/h3&gt; &lt;p&gt;Bei diesen Analysen wurde unter den entwendeten und veröffentlichten Daten eine acht Jahre alte XML-Datei festgestellt, die auszugsweise Daten aus dem Informationssystem HOOGAN enthält. In HOOGAN werden Personen erfasst, die sich an Sportveranstaltungen im In- und Ausland gewalttätig verhalten haben und gegen die der zuständige Kanton oder fedpol eine Massnahme verhängt haben. Die XML-Datei, welche im Darknet publiziert wurde, enthält einen technischen Code mit Daten von 766 Personen, die im September 2015 im Informationssystem verzeichnet waren. Die Datei enthält keine Informationen zu Delikten oder verfügten Massnahmen. &lt;/p&gt; &lt;p&gt;Abklärungen zu den Auflagen und Umständen, unter denen die Datei an die Dienstleisterin übergeben wurde und dort verblieb, sind im Gang. XML ist ein gängiges Dateiformat, welches für den Austausch von Daten zwischen Computersystemen eingesetzt wird.&lt;/p&gt; &lt;p&gt;Dass diese Datei unter den publizierten Daten ist, hat keinen Einfluss auf den aktuellen operativen Einsatz des Informationssystems. fedpol hat weder Daten bei der Firma ausgelagert, noch werden dort Informationssysteme für fedpol betrieben. Die von fedpol betriebenen Informationssysteme laufen, wie die zugehörige Datenaufbewahrung, in einer gesicherten Infrastruktur des Bundes.&lt;/p&gt; &lt;h3&gt;Betroffene werden direkt informiert - Auskunftsformular steht bereit&lt;/h3&gt; &lt;p&gt;Als eine der betroffenen Kundinnen nimmt fedpol den Ransomware-Angriff gegen Xplain, den Datenabfluss und die damit verbundenen Risiken und Fragen sehr ernst. fedpol nimmt auch ihre Verantwortung als Datenherrin wahr: Sind bei einem Lieferanten Daten von fedpol abgeflossen, die Persönlichkeitsrechte verletzen könnten oder wenn Personen Nachteile drohen, informiert fedpol die Betroffenen aktiv und direkt. Dies unabhängig davon, ob ein eigenes oder ein Fehlverhalten des Lieferanten vorliegt. So wird dies auch im vorliegenden Fall gemacht. Die schriftliche Information der Betroffenen ist bereits im Gang.&lt;/p&gt; &lt;p&gt;Weiter stellt fedpol ein Web-Formular zur Verfügung, mit dem Personen anfragen können, ob Sie auf dem entwendeten und publizierten HOOGAN-Auszug aufgeführt sind.&lt;/p&gt; &lt;h3&gt;Wie fedpol öffentlich kommuniziert&lt;/h3&gt; &lt;p&gt;Im Sinne der Transparenz hat fedpol entschieden, von sich aus öffentlich mit einer Medienmitteilung zu kommunizieren, wenn beim Datendiebstahl Daten zahlreicher Personen in gleichem Masse betroffen sind und gesicherte Fakten vorliegen. Dabei beachtet fedpol den Datenschutz, schützt Persönlichkeits- und Verfahrensrechte. &lt;/p&gt; &lt;p&gt;Am 12. Juni 2023 hat fedpol Strafanzeige gegen Unbekannt erstattet, um zu klären, unter welchen Umständen operative Daten auf ein Dateisystem einer privaten Firma gelangen und dort angegriffen werden konnten. Diesem Verfahren kann und will fedpol nicht vorgreifen. &lt;/p&gt; &lt;p&gt;&lt;i&gt;Hinweis: Die Publikation von sensiblen Dateninhalten jeglicher Herkunft sind für den Schutz von Persönlichkeitsrechten und die Sicherheit kontraproduktiv. Eine Weiterverbreitung der illegal veröffentlichten Daten kann für sich sogar einen neuen Straftatbestand darstellen&lt;/i&gt;.&lt;/p&gt;</text>
+      <contact>Kommunikation fedpol, T+41 58 463 13 10, media@fedpol.admin.ch</contact>
+      <link id="257954">
+        <title>Auskunftsformular (Website fedpol)</title>
+        <uri>https://www.fedpol.admin.ch/fedpol/de/home/sicherheit/hooliganismus/anfrageformular.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="257955">
+        <title>Medienmitteilung des NCSC vom 14. Juni 2023</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/medienmitteilungen/newslist.msg-id-95683.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Cyberattaque contre l'entreprise Xplain: un extrait du système HOOGAN datant de 2015 publié sur le darknet – les personnes concernées sont informées</title>
+      <lead>À la suite de l'attaque par ransomware qui a visé le fournisseur informatique Xplain, dont fedpol est client, un extrait du système d'information HOOGAN datant de 2015 a refait surface parmi les données dérobées et publiées. fedpol en informe directement les personnes concernées et, par souci de transparence, rend cette découverte publique.</lead>
+      <text link="no"> &lt;p&gt;Depuis la révélation de l'attaque par ransomware contre le fournisseur informatique Xplain, de vastes analyses sont en cours au sein de l'administration fédérale (cf. communiqué de presse du NCSC du 14 juin 2023). L'Office fédéral de la police (fedpol), qui fait partie des nombreux clients de Xplain, est en train d'analyser les données qui le concernent. Dans un premier temps, les analyses visent à identifier les risques afin de pouvoir prendre des mesures au plus vite.&lt;/p&gt; &lt;h3&gt;Parmi les données dérobées, un extrait du système d'information HOOGAN vieux de huit ans&lt;/h3&gt; &lt;p&gt;Les analyses ont mis au jour, parmi les données dérobées et publiées, un fichier XML remontant à 2015 qui comprend certaines données du système d'information HOOGAN. Sont enregistrées dans ce système les personnes qui ont affiché un comportement violent lors de manifestations sportives en Suisse ou à l'étranger et contre qui le canton compétent ou fedpol a prononcé une mesure. Le fichier XML publié sur le darknet contient des données concernant 766 personnes enregistrées dans HOOGAN en septembre 2015. Il ne fournit aucune information sur des infractions ou des mesures prononcées.&lt;/p&gt; &lt;p&gt;Des clarifications sont en cours pour comprendre sous quelles conditions et dans quelles circonstances le fichier a été transmis au fournisseur et stocké auprès de ce dernier. XML est un format de fichier courant utilisé pour échanger des données entre systèmes informatiques.&lt;/p&gt; &lt;p&gt;Le fait que ce fichier fasse partie des données publiées n'a aucune incidence sur l'utilisation opérationnelle actuelle du système d'information. fedpol n'a pas externalisé de données auprès de l'entreprise, qui n'exploite aucun système pour son compte. Les systèmes d'information exploités par fedpol, tout comme les données qui y sont conservées, se trouvent dans une infrastructure sécurisée de la Confédération.&lt;/p&gt; &lt;h3&gt;Les personnes concernées sont informées directement - un formulaire d'information est disponible&lt;/h3&gt; &lt;p&gt;En tant que client concerné de Xplain, fedpol prend très au sérieux cette attaque par ransomware, la fuite des données ainsi que les risques et les questions qui en découlent. fedpol assume également ses responsabilités de maître du fichier: dès lors que la fuite de ses données de chez un fournisseur pourrait porter atteinte aux droits de la personnalité ou léser les personnes concernées, fedpol en informe directement et spontanément ces dernières, indépendamment du fait que le fournisseur ou l'office lui-même ait - ou non - commis une faute. Cela s'applique aussi au présent cas. Une communication écrite est adressée aux personnes concernées.&lt;/p&gt; &lt;p&gt;En outre, fedpol met un formulaire électronique à la disposition de toute personne qui souhaiterait demander si des données la concernant figurent dans l'extrait HOOGAN détourné et publié.&lt;/p&gt; &lt;h3&gt;Communication transparente avec le public&lt;/h3&gt; &lt;p&gt;Par souci de transparence, fedpol a décidé de communiquer de sa propre initiative avec le public au moyen d'un communiqué de presse dès lors que le vol de données touche un grand nombre de personnes dans la même mesure et que les faits sont avérés. Ce faisant, l'office garantit la protection des données et protège les droits de la personnalité et les droits de procédure. &lt;/p&gt; &lt;p&gt;Le 12 juin 2023, fedpol a déposé une plainte pénale contre inconnu afin de savoir dans quelles circonstances des données opérationnelles ont pu se trouver dans le système informatique d'une entreprise privée et y être la cible d'une attaque. fedpol ne peut ni ne veut anticiper cette procédure. &lt;/p&gt; &lt;p&gt;&lt;i&gt;Remarque: la publication de données sensibles, quelle que soit leur origine, porte atteinte à la protection des droits de la personnalité. La diffusion ultérieure des données publiées illégalement peut même constituer en soi une nouvelle infraction&lt;/i&gt;.&lt;/p&gt;</text>
+      <contact>Communication fedpol, T +41 58 463 13 10, media@fedpol.admin.ch</contact>
+      <link id="257956">
+        <title>Formulaire d'information (Site web fedpol)</title>
+        <uri>https://www.fedpol.admin.ch/fedpol/fr/home/sicherheit/hooliganismus/anfrageformular.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="257957">
+        <title>Communiqué de presse du NCSC du 14 juin 2023</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/fr/home/dokumentation/medienmitteilungen/newslist.msg-id-95683.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Attacco hacker contro Xplain: pubblicato nel dark web un estratto del sistema d’informazione «HOOGAN» del 2015 – le persone interessate saranno informate</title>
+      <lead>Dopo l’attacco ransomware perpetrato ai danni del fornitore di servizi informatici Xplain, un’azienda che fornisce servizi anche a fedpol, tra i dati sottratti e pubblicati nel dark web è stata rilevata la presenza anche di un estratto del sistema d’informazione HOOGAN risalente a otto anni fa. fedpol informa direttamente le persone interessate e, nel rispetto del principio della trasparenza, si rivolge all’opinione pubblica con un comunicato stampa.</lead>
+      <text link="no"> &lt;p&gt;Da quando è stato reso noto l'attacco ransomware contro il fornitore di servizi informatici Xplain, presso l'Amministrazione federale sono in corso verifiche approfondite sui dati interessati (cfr. comunicato stampa del Centro nazionale per la cibersicurezza (NCSC) del 14 giugno 2023). Tra i numerosi clienti dell'azienda figura anche l'Ufficio federale di polizia fedpol. fedpol sta lavorando all'analisi dei dati che lo riguardano. In una prima fase le analisi sono volte a individuare i rischi al fine di poter adottare rapidamente e tempestivamente le misure necessarie.&lt;/p&gt; &lt;h3&gt;Tra i dati sottratti un estratto del sistema d'informazione HOOGAN risalente a otto anni fa&lt;/h3&gt; &lt;p&gt;Durante le analisi dei dati sottratti e pubblicati è stato rilevato un documento in formato XML risalente a otto anni fa, contenente dati estratti dal sistema d'informazione HOOGAN. In HOOGAN sono registrate le persone che in occasione di manifestazioni sportive in Svizzera e all'estero hanno commesso atti violenti e contro le quali il rispettivo Cantone oppure fedpol ha pronunciato una misura. Il documento XML pubblicato nel dark web contiene i dati di 766 persone, che nel settembre 2015 risultavano registrate nel sistema d'informazione. Il documento non contiene alcuna informazione relativa ad atti illeciti o misure ordinate.&lt;/p&gt; &lt;p&gt;Sono tuttora in corso accertamenti per chiarire le condizioni e le circostanze in cui il documento è stato trasmesso a Xplain ed è rimasto tra i suoi record. XML è un formato di file comunemente utilizzato per lo scambio di dati tra sistemi informatici.&lt;/p&gt; &lt;p&gt;Il fatto che questo documento si trovi tra quelli pubblicati non ha alcuna ripercussione sull'attuale impiego operativo del sistema d'informazione. fedpol non ha né esternalizzato dati all'azienda né incaricato l'azienda di gestire i sistemi d'informazione. I sistemi d'informazione gestiti da fedpol, così come la relativa conservazione dei dati, sono amministrati all'interno di un'infrastruttura sicura della Confederazione.&lt;/p&gt; &lt;h3&gt;Le persone interessate saranno informate direttamente - il modulo d'informazione è pronto&lt;/h3&gt; &lt;p&gt;In qualità di cliente interessato, fedpol prende molto sul serio l'attacco ransomware contro Xplain, la fuga di dati, i rischi e le domande che ne derivano. fedpol tiene fede anche alle sue responsabilità di detentore dei dati: se da un fornitore defluiscono dati di fedpol che potrebbero violare i diritti della personalità o rappresentare una minaccia per le persone, fedpol informa attivamente e direttamente le persone coinvolte, indipendentemente dal fatto che sussista o meno una negligenza da parte di fedpol o del fornitore. Ed è quanto è stato fatto anche in questa circostanza. fedpol sta già procedendo a informare per iscritto le persone interessate.&lt;/p&gt; &lt;p&gt;Inoltre, sul sito di fedpol è disponibile un modulo tramite il quale le persone possono chiedere se il loro nome figura nell'estratto HOOGAN sottratto e pubblicato.&lt;/p&gt; &lt;h3&gt;In che modo fedpol informa l'opinione pubblica?&lt;/h3&gt; &lt;p&gt;Nel rispetto del principio della trasparenza, fedpol ha deciso di informare spontaneamente anche l'opinione pubblica per mezzo di un comunicato stampa, ogni qualvolta questo furto di dati riguardi nella stessa misura i dati di un gran numero di persone e sussistano fatti accertati. A tal fine fedpol tiene conto delle esigenze in materia di protezione dei dati, dei diritti della personalità e dei diritti procedurali. &lt;/p&gt; &lt;p&gt;Il 12 giugno 2023 fedpol ha sporto denuncia contro ignoti per chiarire le circostanze in cui i dati operativi sono finiti in un sistema di un'azienda privata e hanno potuto essere sottratti. fedpol non può e non intende rilasciare alcuna comunicazione in merito a questo procedimento.&lt;/p&gt; &lt;p&gt;&lt;i&gt;Nota: la pubblicazione di contenuti sensibili di qualsiasi provenienza è controproducente per la protezione dei diritti della personalità e la sicurezza. Un'ulteriore divulgazione dei dati pubblicati illegalmente può addirittura costituire una nuova fattispecie penale.&lt;/i&gt;&lt;/p&gt;</text>
+      <contact>Comunicazione fedpol, T +41 58 463 13 10, media@fedpol.admin.ch</contact>
+      <link id="257958">
+        <title>Modulo d’informazione (sito web fedpol)</title>
+        <uri>https://www.fedpol.admin.ch/fedpol/it/home/sicherheit/hooliganismus/anfrageformular.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="257959">
+        <title>Comunicato stampa del Centro nazionale per la cibersicurezza (NCSC) del 14 giugno 2023</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/it/home/dokumentation/medienmitteilungen/newslist.msg-id-95683.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <offers>
+      <offer id="348" org-id="602">
+        <name lang="de">Cybersecurity</name>
+        <name lang="fr">Cybersecurity</name>
+        <name lang="it">Cybersecurity</name>
+        <name lang="en">Cybersecurity</name>
+      </offer>
+      <offer id="351" org-id="602">
+        <name lang="de">NCSC - Nationales Zentrum für Cybersicherheit</name>
+        <name lang="fr">NCSC - Centre national pour la cybersécurité</name>
+        <name lang="it">NCSC - Centro nazionale per la cibersicurezza</name>
+        <name lang="en">NCSC - National Cyber Security Centre</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="174" org-id="602">
+        <name lang="de">Informatik-Sicherheit</name>
+        <name lang="fr">Sécurité informatique</name>
+        <name lang="it">Sicurezza informatica</name>
+        <name lang="en">IT security</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

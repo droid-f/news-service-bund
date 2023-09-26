@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="97812" revoked="no">
+    <version>1</version>
+    <pubdate>2023-09-21</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Virtueller Bahnlärm – nah an der Realität</title>
+      <lead>An der Empa erkunden Akustik-Fachleute seit Jahren, wie Lärm durch Personen- und Güterzüge entsteht – und welche technischen und baulichen Massnahmen dagegen besonders wirksam sind. Ihre theoretischen und praktischen Erkenntnisse sind nun in das Projekt «SILVARSTAR» eingeflossen. Das Resultat ist ein Simulationstool für Bahnlärm, das auch in der Praxis weiterhelfen kann.</lead>
+      <text link="no"> &lt;p&gt;Für Anwohner von Bahnstrecken ist er oftmals lästig – und für Fachleute, die ihnen helfen möchten, eine so vielschichtige Herausforderung, dass es eigentlich einen Plural von «Bahnlärm» geben müsste. Rollgeräusche von Stahlrädern auf rauen oder glatteren Schienen, Bremstöne in unterschiedlichen Frequenzen, Motorenlärm, aerodynamische Geräusche … – das alles gedämpft oder beeinflusst von Lärmschutzwänden, Böschungen, der Beschaffenheit des Bodens unter den Gleisen und auch von der Umgebung, in der sich die Schallwellen ausbreiten.&lt;/p&gt; &lt;p&gt;Wie komplex diese akustischen Folgen des Schienenverkehrs sind, wissen Empa-Forschende um Gruppenleiter Reto Pieren von der Abteilung «Akustik / Lärmminderung» aus praktischer und theoretischer Erfahrung. Seit Jahren erkunden sie das Phänomen mit Messungen, Simulationen, Validierungen: Erkenntnisse, die in das zweijährige EU-Projekt «SILVARSTAR» mit vielen Partnern (siehe Infobox) mündeten. Die Resultate präsentierte Pieren nun an der Fachtagung «forum acusticum» in Turin: eine akustische Simulation von Bahnlärm unterschiedlichster Ausprägungen – hör- und erlebbar mit Hilfe von virtueller Realität.&lt;/p&gt; &lt;p&gt;Solche Tools für die «Auralisation» gibt es vereinzelt als Prototypen in der Forschung, doch in der Praxis von Planung und Lärmschutz sind sie bislang nicht verfügbar. Das «Komplettpaket» SILVARSTAR soll das ändern – dank des gebündelten Wissens vieler Fachleute. Während das Empa-Team, das bei der Simulation die Projektleitung innehatte, sein akustisches Expertenwissen aus zahlreichen Projekten einfliessen liess, steuerten Fachleute von der «University Southampton» und der Zürcher Firma Bandara VR GmbH wertvolles Knowhow bei, um ein nutzerfreundliches System zu entwickeln. Als Grundlage dazu diente unter anderem die verbreitete Software «Unity» für professionelle Game-Entwickler.&lt;/p&gt; &lt;b&gt;Viele Faktoren, noch mehr Variationen &lt;/b&gt;&lt;p&gt;Ziel war schliesslich ein Tool, das auch Laien nutzen können. Zum Beispiel Verkehrspolitiker, die Auswirkungen einer künftigen Bahntrasse abschätzen möchten. Wie sie solche virtuellen Vorbeifahrten erleben, zeigt beispielhaft ein Video von Vorbeifahrten, das im SILVARSTAR-Webauftritt der Empa zu finden ist: Für eine einzige Strecke lassen sich mehrere Szenarien vergleichen, zum Beispiel mit Zugtypen vom Güterzug über eine Regionalbahn bis zum ICE, mit hohen oder niedrigen Lärmschutzwänden, spezifischen Rad- und Dämpfungstypen, die ebenfalls einen hörbaren Einfluss auf den Bahnlärm haben, und vielen weiteren Faktoren. Und weil auch die Umgebung eine Rolle spielt, können Nutzer zwischen «Stadt» oder «Land» entscheiden oder eine ebenerdige oder erhöhte Position wählen, etwa auf einem Balkon.&lt;/p&gt; &lt;p&gt;Hinter diesen Möglichkeiten stecken komplexe Algorithmen in einem physik-basierten Rechenmodell, das akustische Signale nicht aus archivierten Tondateien erzeugt, sondern allesamt einzeln berechnet und erzeugt – für hunderte Geräuschquellen und Einflussfaktoren, je nach Komplexität des Szenarios. Das stellte das Empa-Team auch vor Herausforderungen. Die grosse Vielfalt von Einflüssen ermöglicht zwar realitätsnahe Simulationen. Doch sie erforderte zugleich, das Geflecht der Algorithmen sinnvoll auf das Wesentliche zu reduzieren – auch mit Blick auf die nötige Rechenzeit: Bis zu drei Stunden benötigt ein moderner PC für eine Vorbeifahrt eines 500-Meter-Güterzugs, damit dessen Lärmemissionen unter verschiedenen Bedingungen hörbar gemacht werden können.&lt;/p&gt; &lt;b&gt;Positive Reaktionen bei den Vorführungen &lt;/b&gt;&lt;p&gt;Doch der Aufwand lohnt sich, wie die Validierung des Systems zeigte. Die Grafiken der synthetisierten Lärmverläufe liegen sehr nahe bei gemessenen Vergleichswerten und sind sogar teils deckungsgleich. Subjektive Eindrücke lieferten Vorführungen an Verkehrstechnik-Messen wie der «InnoTrans» im vergangenen Jahr in Berlin: Die Besucher attestierten der Simulation eine hohe Glaubwürdigkeit und zeigten grosses Interesse an der Anwendung des virtuellen «Bahnlärm-Spiels».&lt;/p&gt; &lt;p&gt;Für Interessenten ist der Download der Tools mitsamt Lizenzvereinbarung für nicht-kommerzielle Zwecke über die SILVARSTAR-Webseite der Empa möglich. «Die ersten Einsätze der Simulation beginnen bereits», sagt Empa-Forscher Reto Pieren, «wir sind mit den Resultaten sehr zufrieden und erwarten für die Zukunft zahlreiche Anwendungen.»&lt;/p&gt; &lt;b&gt;Internationales Projekt mit Förderung der EU &lt;/b&gt;&lt;p&gt;Das europäische Forschungsprojekt «SILVARSTAR», das gut zwei Jahre lief, wurde im Rahmen des EU-Programms «Horizon 2020» durch «Europe's Rail» gefördert. Im Projekt-Konsortium wirkten neben der Empa industrielle und akademische Partner aus fünf europäischen Ländern mit: Vibratec (Frankreich, Koordination), Wölfel Engineering (Deutschland), die «University of Southampton» (England), KU Leuven und UNIFE, die «Union des Industries Ferroviaires Européennes» (beide aus Belgien). Neben der Simulation von Bahnlärm entwickelte das Projekt ausserdem Modelle für die Erschütterungen des Untergrundes durch Zugverkehr.&lt;/p&gt;</text>
+      <contact>Dr. Reto Pieren Akustik / Lärmminderung Tel. +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Akustik / Lärmminderung Tel. +41 58 765 47 48 jean-marc.wunderli@empa.ch</contact>
+      <attachment id="262642">
+        <title>Güterzug-Vorbeifahrt spielerisch erleben: Der Monitor zeigt, was die Nutzerin in virtueller Realität dreidimensional sieht – mit dem realistischen Bahnlärm exakt in ihrer Position. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3397</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82764.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262645">
+        <title>Vergleich von Lärmszenarien im Video</title>
+        <uri>https://www.youtube.com/watch?v=tBbCufZ1ICM</uri>
+        <position>Context</position>
+      </link>
+      <link id="262648">
+        <title>Bilder in hoher Auflösung zum Download hier</title>
+        <uri>http://plus.empa.ch/images/2023-09-20-Silvarstar/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Bruit ferroviaire virtuel - proche de la réalité</title>
+      <lead>A l'Empa, des spécialistes de l'acoustique étudient depuis des années comment le bruit est généré par les trains de voyageurs et de marchandises - et quelles mesures techniques et architecturales sont particulièrement efficaces pour le combattre. Leurs connaissances théoriques et pratiques ont été intégrées dans le projet "SILVARSTAR". Le résultat est un outil de simulation du bruit ferroviaire qui peut également être utile dans la pratique.</lead>
+      <text link="no"> &lt;p&gt;Pour les riverains des voies ferrées, il s'agit souvent d'une nuisance - et pour les professionnels qui souhaitent les aider, d'un défi si complexe qu'il devrait y avoir plus d'un seul mot pour désigner le "bruit ferroviaire". Le bruit de roulement des roues en acier sur des rails rugueux ou plus lisses, les sons de freinage à différentes fréquences, le bruit des moteurs, les bruits aérodynamiques... - tout cela atténué ou influencé par les murs antibruit, les talus, la nature du sol sous les voies et également par l'environnement dans lequel les ondes sonores se propagent.&lt;/p&gt; &lt;p&gt;Les chercheurs de l'Empa réunis autour du chef de groupe Reto Pieren du département "Acoustique / Réduction du bruit" savent par expérience pratique et théorique à quel point ces conséquences acoustiques du trafic ferroviaire sont complexes. Depuis des années, ils étudient le phénomène par des mesures, des simulations et des validations : Des connaissances qui ont débouché sur le projet européen de deux ans "SILVARSTAR" avec de nombreux partenaires (voir l'encadré). Les résultats ont été présentés par Reto Pieren lors du congrès "forum acusticum" à Turin : une simulation acoustique du bruit ferroviaire de différentes natures - audible et perceptible à l'aide de la réalité virtuelle.&lt;/p&gt; &lt;p&gt;De tels outils pour l'"auralisation" existent sporadiquement sous forme de prototypes dans la recherche, mais ils ne sont pas encore disponibles dans la pratique de la planification et de la protection contre le bruit. Le "paquet complet" SILVARSTAR doit changer cela - grâce aux connaissances réunies de nombreux spécialistes. Alors que l'équipe de l'Empa, qui a dirigé le projet de simulation, a mis à profit son expertise acoustique issue de nombreux projets, des spécialistes de l'université de Southampton et de l'entreprise zurichoise Bandara VR GmbH ont apporté un précieux savoir-faire pour développer un système convivial. Le logiciel "Unity", largement utilisé par les développeurs de jeux professionnels, a notamment servi de base.&lt;/p&gt; &lt;b&gt;De nombreux facteurs, encore plus de variations &lt;/b&gt;&lt;p&gt;L'objectif était finalement de créer un outil que les non-spécialistes pourraient également utiliser. Par exemple, des politiciens des transports qui souhaitent évaluer l'impact d'un futur tracé ferroviaire. Une vidéo de passages, disponible sur le site Internet de SILVARSTAR de l'Empa, montre à titre d'exemple comment ils vivent de tels passages virtuels : pour une seule ligne, il est possible de comparer plusieurs scénarios, par exemple avec des types de trains allant du train de marchandises à l'ICE en passant par un train régional, avec des parois antibruit hautes ou basses, des types de roues et d'amortisseurs spécifiques qui ont également une influence audible sur le bruit des trains, et de nombreux autres facteurs. Et comme l'environnement joue également un rôle, les utilisateurs peuvent choisir entre "ville" ou "campagne" ou choisir une position de plain-pied ou surélevée, par exemple sur un balcon.&lt;/p&gt; &lt;p&gt;Derrière ces possibilités se cachent des algorithmes complexes dans un modèle de calcul basé sur la physique, qui ne produit pas de signaux acoustiques à partir de fichiers sonores archivés, mais les calcule et les génère tous individuellement - pour des centaines de sources de bruit et de facteurs d'influence, selon la complexité du scénario. Cela a également posé des défis à l'équipe de l'Empa. La grande diversité des influences permet certes des simulations proches de la réalité. Mais elle exigeait en même temps de réduire judicieusement l'enchevêtrement des algorithmes à l'essentiel - également en ce qui concerne le temps de calcul nécessaire : un PC moderne a besoin de jusqu'à trois heures pour faire passer un train de marchandises de 500 mètres, afin que ses émissions sonores puissent être rendues audibles dans différentes conditions.&lt;/p&gt; &lt;b&gt;Réactions positives lors des démonstrations &lt;/b&gt;&lt;p&gt;Mais l'effort en vaut la peine, comme l'a montré la validation du système. Les graphiques des courbes de bruit synthétisées sont très proches des valeurs comparatives mesurées et se recoupent même en partie. Des impressions subjectives ont été fournies par des démonstrations lors de salons de la technique des transports comme "InnoTrans" l'année dernière à Berlin : les visiteurs ont attesté d'une grande crédibilité de la simulation et ont montré un grand intérêt pour l'utilisation du "jeu de bruit ferroviaire" virtuel.&lt;/p&gt; &lt;p&gt;Pour les personnes intéressées, le téléchargement des outils, y compris le contrat de licence à des fins non commerciales, est possible sur le site Internet SILVARSTAR de l'Empa. "Les premières utilisations de la simulation commencent déjà", déclare Reto Pieren, chercheur à l'Empa, "nous sommes très satisfaits des résultats et nous attendons de nombreuses applications dans le futur".&lt;/p&gt; &lt;b&gt;Projet international soutenu par l'UE &lt;/b&gt;&lt;p&gt;Le projet de recherche européen "SILVARSTAR", qui a duré deux bonnes années, a été soutenu par "Europe's Rail" dans le cadre du programme européen "Horizon 2020". Outre l'Empa, des partenaires industriels et académiques de cinq pays européens ont participé au consortium du projet : Vibratec (France, coordination), Wölfel Engineering (Allemagne), l'"University of Southampton" (Angleterre), KU Leuven et UNIFE, l'"Union des Industries Ferroviaires Européennes" (toutes deux de Belgique). Outre la simulation du bruit ferroviaire, le projet a également développé des modèles pour les vibrations du sous-sol dues au trafic ferroviaire.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</text>
+      <contact>Dr. Reto Pieren Laboratory for Acustics / Noise Control Tél. +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Laboratory for Acustics / Noise Control Tél. +41 58 765 47 48 jean-marc.wunderli@empa.ch</contact>
+      <attachment id="262643">
+        <title>Vivre le passage d'un train de marchandises de manière ludique : L'écran montre ce que l'utilisatrice voit en trois dimensions dans la réalité virtuelle - avec le bruit réaliste du train exactement dans sa position. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>3397</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82765.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262646">
+        <title>Comparaison de scénarios de bruit en vidéo</title>
+        <uri>https://www.youtube.com/watch?v=tBbCufZ1ICM</uri>
+        <position>Context</position>
+      </link>
+      <link id="262649">
+        <title>Les images en haute résolution peuvent être téléchargées ici.</title>
+        <uri>https://plus.empa.ch/images/2023-09-20-Silvarstar/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Virtual rail noise – close to reality</title>
+      <lead>At Empa, acoustics experts have been investigating for years how noise is generated by passenger and cargo trains – and which technical and structural measures are particularly effective to prevent or at least reduce it. Their findings have now been incorporated into the SILVARSTAR project resulting in a simulation tool for rail noise that can help in practice.</lead>
+      <text link="no"> &lt;p&gt;It is often a nuisance for residents living near railroad lines – and such a multi-faceted challenge for experts that there should be more than one word for "railroad noise". Sounds from steel wheels on rough or smoother rails, braking sounds at different frequencies, engine noise, aerodynamic noise ... – all of it muffled or influenced by noise barriers, embankments, the nature of the ground beneath the tracks, and by the environment in which the sound waves propagate.&lt;/p&gt; &lt;p&gt;Empa researchers led by Reto Pieren from the Laboratory for Acoustics / Noise Control know from practical and theoretical experience just how complex these acoustic consequences of rail traffic are. For years, they have been exploring the phenomenon with measurements, simulations, validations: Findings that led to the two-year EU project SILVARSTAR with many partners (see infobox). Now Pieren presented the results at the "forum acusticum" conference in Turin: an acoustic simulation of various types of railroad noise – audible and tangible with the help of virtual reality.&lt;/p&gt; &lt;p&gt;Such tools for "auralisation" exist sporadically as prototypes in research, but they are not yet available in the practice of planning and noise control. The system SILVARSTAR aims to change that – thanks to the combined knowledge of numerous experts. While the Empa team, which was leading the simulation project, incorporated its acoustic expertise from numerous projects, experts from the University of Southampton and the Zurich-based company Bandara VR GmbH contributed valuable know-how to develop a user-friendly system. Among other things, the widely used Unity software for professional game developers served as the basis for this.&lt;/p&gt; &lt;b&gt;Many factors, even more variations &lt;/b&gt;&lt;p&gt;The ultimate goal was a tool that even laypersons could use. For example, transport politicians who want to assess the impact of a future railroad line. How they experience such virtual drive-bys is exemplified by a video of drive-bys (see video below), which can be found on Empa's SILVARSTAR website: For a single line, several scenarios can be compared, for example with train types ranging from cargo trains to a regional train to an ICE, with high or low noise barriers, specific wheel and damping types that also have an audible impact on railroad noise, and many other factors. And because the environment also plays a role, users can decide between "city" or "countryside" or even select a ground-level or elevated position, such as on a balcony.&lt;/p&gt; &lt;p&gt;Behind these possibilities are complex algorithms in a physics-based computational model that does not generate acoustic signals from archived sound files, but calculates and generates them all individually – for hundreds of noise sources and influencing factors, depending on the complexity of the scenario. This also presented challenges for the Empa team. The large variety of influences enables realistic simulations. But at the same time, it required the mesh of algorithms to be sensibly reduced to the essentials – also with the necessary computing time in mind: A modern PC needs up to three hours for a 500-meter long cargo train to pass by so that its noise emissions can be made audible under various conditions.&lt;/p&gt; &lt;b&gt;Positive reactions at the demonstrations &lt;/b&gt;&lt;p&gt;But the effort is worth it, as the validation of the system showed. The graphs of the synthesized noise curves are very close to measured real-world values and are even partly congruent. Subjective impressions were provided by demonstrations at transport technology trade fairs such as last year's InnoTrans in Berlin: Visitors attested to the simulation's high credibility and showed great interest in using the virtual "rail noise game".&lt;/p&gt; &lt;p&gt;For those interested, the tools, including a license agreement for non-commercial purposes, can be downloaded from Empa's SILVARSTAR website. "The first uses of the simulation are already starting," says Empa researcher Pieren, "we are very satisfied with the results and expect numerous applications in the future."&lt;/p&gt; &lt;b&gt;International project with EU funding &lt;/b&gt;&lt;p&gt;The European research project SILVARSTAR, which ran for a good two years, was funded by Europe's Rail as part of the EU's Horizon 2020 program. In addition to Empa, the project consortium included industrial and academic partners from five European countries: Vibratec (France, coordination), Wölfel Engineering (Germany), the University of Southampton (England), KU Leuven and Union des Industries Ferroviaires Européennes (UNIFE; both from Belgium). In addition to the simulation of railroad noise, the project also developed models for the vibrations of the subsurface caused by train traffic.&lt;/p&gt; </text>
+      <contact>Dr. Reto Pieren Laboratory for Acustics / Noise Control Phone: +41 58 765 60 31 reto.pieren@empa.ch Dr. Jean-Marc Wunderli Laboratory for Acustics / Noise Control Phone: +41 58 765 47 48 jean-marc.wunderli@empa.ch</contact>
+      <attachment id="262644">
+        <title>Experience a cargo train passing by in a playful way: The monitor shows what the user sees in 3D virtual reality – with the realistic rail noise exactly where she stands. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3397</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82766.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262647">
+        <title>Comparison of noise scenarios in a video</title>
+        <uri>https://www.youtube.com/watch?v=tBbCufZ1ICM</uri>
+        <position>Context</position>
+      </link>
+      <link id="262650">
+        <title>Images in high resolution can be downloaded here.</title>
+        <uri>http://plus.empa.ch/images/2023-09-20-Silvarstar/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="en">Transport</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

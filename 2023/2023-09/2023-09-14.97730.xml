@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="97730" revoked="no">
+    <version>1</version>
+    <pubdate>2023-09-14</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Mit Robotern die Batterieforschung beschleunigen</title>
+      <lead>Empa-Forscher wollen die Entwicklung dringend benötigter neuer Energiespeicher mit Hilfe des Batterieroboters «Aurora» beschleunigen. Das Projekt gehört zur europäischen Forschungsinitiative Battery2030+, die unlängst von der EU mit über 150 Millionen Euro gefördert wurde. Zudem ist das Projekt Teil der «Open Research Data»-Initiative des ETH-Rats, die die Digitalisierung und den freien Zugang zu Forschungsdaten vorantreibt.</lead>
+      <text link="no"> &lt;p&gt;Die Welt braucht dringend neuartige Energiespeicher. Komplett neue Konzepte für Batterien zu entwickeln und deren Potenzial zu erkunden, ist zurzeit allerdings ein langwieriger Prozess, wie Corsin Battaglia, Leiter des «Materials for Energy Conversion»-Labors der Empa in Dübendorf und Professor an der ETH Zürich, betont «Unser Ziel ist es, diesen Prozess zu beschleunigen», so Battaglia. Diese Beschleunigung manifestiert sich derzeit in Form der Roboterplattform «Aurora», die vollautomatisiert und künftig auch autonom Materialauswahl, Montage und Analyse von Batteriezellen im Labor übernehmen soll. Als Teil der europäischen «Materials Acceleration Platform», die innerhalb des europäischen «Battery2030+»-Projektes «BIG-MAP» aufgebaut wird, sollen die derzeitigen Entwicklungsprozesse rund zehnmal schneller ablaufen.&lt;/p&gt; &lt;p&gt;Für eine international wettbewerbsfähige Batterieforschung und -entwicklung werden nun zeitaufwändige und fehleranfällige Arbeitsschritte im Innovationsprozess mittels «Aurora» automatisiert. Die Roboterplattform wird derzeit in den Empa-Labors gemeinsam mit der Firma Chemspeed Technologies AG weiterentwickelt. Momentan implementiert Empa-Forscher Enea Svaluto-Ferro die Arbeitsschritte und «trainiert» Aurora. «Während der Roboter die einzelnen Zellkomponenten in konstanter Präzision wiegt, dosiert und zusammenbaut, Ladezyklen exakt initiiert und abschliesst oder andere repetitive Schritte vollführt, können Forschende aufgrund der generierte Daten den Innovationsprozess weiter vorantreiben», sagt Svaluto-Ferro.&lt;/p&gt;&lt;b&gt;Smart, autonom und Chemie-agnostisch&lt;/b&gt;&lt;p&gt;Künftig soll «Aurora» darüber hinaus aber auch lernen, autonom zu arbeiten. Mittels maschinellem Lernen könnte die «Aurora» KI so mathematische Modelle erstellen und entscheiden, welche Experimente in einem nächsten Schritt ausgeführt werden sollen und welche Materialien und Komponenten besonders vielversprechende Kandidaten für die gewünschte Batterieanwendung darstellen. Denn weltweit läuft derzeit die Suche nach neuen Batteriematerialien, die kostengünstig und gut verfügbar sind und keine technischen Nachteile mit sich bringen.&lt;/p&gt; &lt;p&gt;Da die Plattform unabhängig von Materialien, Batterie-Chemie und -Generation nutzbar ist, könnten mit ihr also nicht nur Lithium-Ionen-Batterien erforscht werden, sondern künftig auch alternative Natrium-Ionen-Batterien oder Batterien mit Selbstheilungsmechanismus getestet werden, so Svaluto-Ferro.« Mit der Chemie-agnostischen «Aurora» können wir zudem Prototypen aus unseren Labors, wie etwa Salzwasser-Batterien oder Feststoffbatterien, effizienter und schneller zur Marktfähigkeit bringen», sagt Laborleiter Battaglia.&lt;/p&gt; &lt;p&gt;«Aurora» ist dabei nicht allein. Die Roboterplattform ist eingebettet in die «Open Research Data»-Initiative des ETH-Rats, die zum Ziel hat, die Digitalisierung in der Forschung voranzutreiben und Daten der wissenschaftlichen Gemeinschaft frei zur Verfügung zu stellen. Genutzt wird dabei unter anderem «AiiDA», ein «Open Source Workflow Management»-System, das im Rahmen des Nationalen Forschungsschwerpunktes MARVEL entwickelt wurde. Für die Kommunikation zwischen der «Aurora» KI und der «AiiDA»-Plattform entwickeln Empa-Forschende derzeit in Zusammenarbeit mit Forschenden an der EPFL und am PSI die passende Software. Damit ist «Aurora» die erste Roboter-Plattform, die an das bestehende «AiiDA»-System angekoppelt wird. Daten werden schliesslich an das Daten-Management-System openBIS übergeben, dass an der ETH Zürich entwickelt wird.&lt;/p&gt; &lt;p&gt;Für die Batterieforschung bedeutet dies, dass die verschiedenen Prozessschritte, die die vielen Batteriezellen durchlaufen, effizient überwacht und ausgewertet werden und Daten jederzeit zu ihrem Ursprung zurückverfolgt werden können. «Das beschleunigt Innovationsprozesse enorm und stellt der «Industrie 4.0» eine umfassende Digitalisierungsstrategie im Bereich Forschung und Entwicklung zur Seite», so Empa-Forscher Corsin Battaglia.&lt;/p&gt;&lt;b&gt;EU investiert 150 Millionen Euro in nachhaltige Batterien&lt;/b&gt;&lt;p&gt;Battery 2030+ ist eine europäische Forschungsinitiative, die sich für die Entwicklung der Batterien der Zukunft einsetzt. Ihr Schwerpunkt liegt auf umweltfreundlichen, leistungsstarken und langlebigen Batterien, die für den Übergang zu einer klimaneutralen Gesellschaft wichtig sind. &lt;/p&gt;&lt;p&gt;Im Rahmen des EU-Forschungsprogramms «Horizon Europe» vergab die EU vor kurzem über 150 Millionen Euro für Forschungsprojekte, die von «Battery 2030+» koordiniert werden. Battery 2030+ hat zum Ziel, Europa zum Weltmarktführer bei der Entwicklung und Herstellung umweltfreundlicher Batterien zu machen.&lt;/p&gt;&lt;b&gt;Swiss Battery Days 2023&lt;/b&gt;&lt;p&gt;Vom 18.-20. September 2023 veranstalten PSI, Empa und iBAT bereits zum fünften Mal die «Swiss Battery Days». Forschende aus dem In- und Ausland präsentieren hier ihre neusten Ergebnisse aus den Gebieten der Synthese und Charakterisierung von Batterie-Materialien und der Herstellung und Analyse von Batterie-Elektroden und -zellen, so auch die Forschenden des Aurora Projektes.&lt;/p&gt;</text>
+      <contact>Prof. Dr. Corsin Battaglia Empa-Abteilung Materials for Energy Conversion Tel. +41 58 765 41 31 econversion@empa.ch Amira Abou-Hamdan Chemspeed Technologies AG amira.abou-hamdan@chemspeed.com</contact>
+      <attachment id="262268">
+        <title>Empa-Forscher Enea Svaluto-Ferro arbeitet gemeinsam mit dem Batterieroboter «Aurora». Die Entwicklungszeit von neuen Stromspeichern soll so künftig stark verkürzt werden. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>344</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82560.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="262269">
+        <title>«Aurora» arbeitet unter Schutzatmosphäre: In der Glove-Box kontrollieren Benjamin Kunz und Enea Svaluto-Ferro (rechts) die Prozessschritte. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>114</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82561.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262276">
+        <title>Bilder in hoher Auflösung zum Download hier</title>
+        <uri>https://plus.empa.ch/images/2023-09-12-Battery-Robot-Aurora-grosse-Bilder/</uri>
+        <position>Context</position>
+      </link>
+      <link id="262282">
+        <title>Youtube-Video zum Thema</title>
+        <uri>https://www.youtube.com/watch?v=UcR_erA3XQg</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Accélérer la recherche sur les batteries avec des robots</title>
+      <lead>Le projet fait partie de l'initiative de recherche européenne Battery2030+, récemment financée par l'UE à hauteur de plus de 150 millions d'euros. En outre, le projet fait partie de l'initiative "Open Research Data" du Conseil des EPF, qui promeut la numérisation et le libre accès aux données de recherche.</lead>
+      <text link="no"> &lt;p&gt;Le monde a un besoin urgent de nouveaux types de stockage d'énergie. Mais développer des concepts de batteries entièrement nouveaux et explorer leur potentiel est actuellement un processus de longue haleine, comme le souligne Corsin Battaglia, directeur du laboratoire "Materials for Energy Conversion" de l'Empa à Dübendorf et professeur à l'ETH Zurich : "Notre objectif est d'accélérer ce processus", explique Corsin Battaglia. Cette accélération se manifeste actuellement sous la forme de la plate-forme robotisée "Aurora", qui doit prendre en charge de manière entièrement automatisée et à l'avenir également autonome la sélection des matériaux, l'assemblage et l'analyse des cellules de batteries en laboratoire. Faisant partie de la "Materials Acceleration Platform" européenne, qui est mise en place dans le cadre du projet européen "Battery2030+" "BIG-MAP", les processus de développement actuels doivent se dérouler environ dix fois plus rapidement.&lt;/p&gt; &lt;p&gt;Pour une recherche et un développement de batteries compétitifs au niveau international, des étapes de travail longues et sujettes à des erreurs dans le processus d'innovation sont désormais automatisées au moyen d'"Aurora". La plate-forme robotique est actuellement en cours de développement dans les laboratoires de l'Empa, en collaboration avec la société Chemspeed Technologies AG. Actuellement, le chercheur de l'Empa Enea Svaluto-Ferro met en œuvre les étapes de travail et "entraîne" Aurora. "Pendant que le robot pèse, dose et assemble les différents composants de la batterie avec une haute précision, qu'il initie et termine les cycles de charge avec précision ou qu'il effectue d'autres étapes répétitives, les chercheurs peuvent faire avancer le processus d'innovation sur la base des données générées", explique Enea Svaluto-Ferro.&lt;/p&gt;&lt;b&gt;Smart, autonome et chimio-agnostique&lt;/b&gt;&lt;p&gt;A l'avenir, "Aurora" devrait également apprendre à travailler de manière autonome. Grâce à l'intelligence artificielle, "Aurora" pourrait ainsi créer des modèles mathématiques et décider quelles expériences doivent être réalisées dans une prochaine étape et quels matériaux et composants sont des candidats particulièrement prometteurs pour l'application de batterie souhaitée. En effet, la recherche de nouveaux matériaux de batterie peu coûteux, facilement disponibles et ne présentant pas d'inconvénients techniques est actuellement en cours dans le monde entier.&lt;/p&gt; &lt;p&gt;"Comme la plateforme est utilisable indépendamment des matériaux, de la chimie des batteries et de leur génération, elle pourrait donc non seulement servir à étudier les batteries lithium-ion, mais aussi à tester à l'avenir des batteries sodium-ion alternatives ou des batteries dotées d'un mécanisme d'auto-régénération", explique Enea Svaluto-Ferro. "Grâce à l'agnostique chimique "Aurora", nous pouvons en outre amener plus efficacement et plus rapidement des prototypes issus de nos laboratoires, comme les batteries à l'eau salée ou les batteries à l'état solide, à la viabilité commerciale", explique le directeur du laboratoire, Corsin Battaglia.&lt;/p&gt; &lt;p&gt;"Aurora" n'est pas seule dans ce cas. La plate-forme robotique est intégrée dans l'initiative "Open Research Data" du Conseil des EPF, qui a pour objectif de faire progresser la numérisation dans la recherche et de mettre les données à la disposition de la communauté scientifique. On utilise entre autres "AiiDA", un système de "gestion de flux de travail open source" développé dans le cadre du Pôle de recherche national MARVEL. Pour la communication entre l'IA "Aurora" et la plate-forme "AiiDA", les chercheurs de l'Empa développent actuellement le logiciel adéquat en collaboration avec des chercheurs de l'EPFL et du PSI. "Aurora" est ainsi la première plate-forme robotique à être couplée au système "AiiDA" existant. Les données sont finalement transmises au système de gestion des données openBIS, qui est développé à l'ETH Zurich.&lt;/p&gt; &lt;p&gt;Pour la recherche sur les batteries, cela signifie que les différentes étapes du processus par lesquelles passent les nombreuses cellules de la batterie sont surveillées et évaluées efficacement et que les données peuvent être retracées à tout moment jusqu'à leur origine. "Cela accélère énormément les processus d'innovation et place "l'industrie 4.0" à côté d'une numérisation complète dans le domaine de la recherche et du développement", explique Corsin Battaglia, chercheur à l'Empa.&lt;/p&gt;&lt;b&gt;L'UE investit 150 millions d'euros dans les batteries durables&lt;/b&gt;&lt;p&gt;Battery 2030+ est une initiative de recherche européenne qui vise à développer les batteries du futur. Elle se concentre sur les batteries respectueuses de l'environnement, performantes et durables, qui sont essentielles pour la transition vers une société neutre en termes de climat. Dans le cadre du programme de recherche européen "Horizon Europe", l'UE a récemment attribué plus de 150 millions d'euros à des projets de recherche coordonnés par "Battery 2030+". Battery 2030+ a pour objectif de faire de l'Europe le leader mondial en matière de développement et de production de batteries respectueuses de l'environnement.&lt;/p&gt; &lt;b&gt;Swiss Battery Days 2023 &lt;/b&gt;&lt;p&gt;Du 18 au 20 septembre 2023, le PSI, l'Empa et l'iBAT organisent pour la cinquième fois déjà les "Swiss Battery Days". Des chercheurs de Suisse et de l'étranger y présenteront leurs derniers résultats dans les domaines de la synthèse et de la caractérisation des matériaux de batteries ainsi que de la fabrication et de l'analyse d'électrodes et de cellules de batteries, dont les chercheurs du projet Aurora.&lt;/p&gt;</text>
+      <contact>Prof. Dr. Corsin Battaglia Département Empa Materials for Energy Conversion Tél. +41 58 765 41 31 econversion@empa.ch Amira Abou-Hamdan Chemspeed Technologies AG amira.abou-hamdan@chemspeed.com</contact>
+      <attachment id="262270">
+        <title>Le chercheur de l'Empa Enea Svaluto-Ferro travaille en collaboration avec le robot de batterie "Aurora". Le temps de développement de nouveaux accumulateurs d'électricité devrait ainsi être fortement réduit à l'avenir. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>344</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82562.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="262271">
+        <title>"Aurora" travaille sous atmosphère protectrice : dans la boîte à gants, Benjamin Kunz et Enea Svaluto-Ferro (à droite) contrôlent les étapes du processus. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>114</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82563.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262277">
+        <title>Les images en haute résolution peuvent être téléchargées ici.</title>
+        <uri>https://plus.empa.ch/images/2023-09-12-Battery-Robot-Aurora-grosse-Bilder/</uri>
+        <position>Context</position>
+      </link>
+      <link id="262283">
+        <title>Vidéo Youtube sur le sujet</title>
+        <uri>https://www.youtube.com/watch?v=UcR_erA3XQg</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Accelerating battery research with robots</title>
+      <lead>Empa researchers want to accelerate the development of urgently needed new energy storage systems with the help of the Aurora battery robot. The Aurora project is part of the European research initiative Battery2030+, which was recently awarded over 150 million euros in funding by the EU. In addition, the project is part of the ETH Board's "Open Research Data" initiative, which promotes digitization and free access to research data.</lead>
+      <text link="no"> &lt;p&gt;The world urgently needs new types of energy storage. Developing completely new concepts for batteries and exploring their potential is currently a lengthy process, as Corsin Battaglia, head of Empa's Materials for Energy Conversion laboratory in Dübendorf and professor at ETH Zurich, emphasizes: "Our goal is to accelerate this process," he says. This acceleration is currently manifesting itself in the form of the Aurora robot platform, which is to take over the fully automated and, in the future, autonomous material selection, assembly and analysis of battery cells in the laboratory. As part of the European Materials Acceleration Platform, which is being set up within the European Battery2030+ project BIG-MAP, the aim is to achieve a roughly tenfold acceleration of current development processes.&lt;/p&gt; &lt;p&gt;For internationally competitive battery research and development, time-consuming and error-prone steps in the innovation process are now being automated using Aurora. The robotic platform is currently being further developed in the Empa laboratories together with the company Chemspeed Technologies AG. Empa researcher Enea Svaluto-Ferro is implementing the work steps and "training" Aurora. "While the robot weighs, doses and assembles the individual cell components with constant precision, initiates and completes charging cycles precisely and performs other repetitive steps, researchers can use the generated data to drive the innovation process forward," says Svaluto-Ferro.&lt;/p&gt;&lt;b&gt;Smart, autonomous and chemistry-agnostic&lt;/b&gt;&lt;p&gt;In future, however, Aurora will also learn to work autonomously. Using machine learning, the Aurora AI could thus create mathematical models and decide which experiments should be carried out in the next step and which materials and components are particularly promising candidates for the desired battery application. This is because the search is currently underway worldwide for new battery materials that are inexpensive, readily available and do not entail any technical disadvantages.&lt;/p&gt; &lt;p&gt;Since the platform can be used independently of materials, battery chemistry and generation, it could therefore be used not only to improve lithium-ion batteries, but also to develop alternative sodium-ion batteries or batteries with a self-healing mechanism in the future, Svaluto-Ferro said." "With the chemistry-agnostic Aurora, we can also bring prototypes from our labs, such as salt water batteries or solid-state batteries, to market more efficiently and quickly," says lab head Corsin Battaglia.&lt;/p&gt; &lt;p&gt;Aurora is not alone in this effort. The robotic platform is embedded in the ETH Board's Open Research Data initiative, which aims to promote digitization in research and make data freely available to the scientific community. One of the tools used is AiiDA, an open source workflow management system developed as part of the National Center of Competence in Research MARVEL. For the communication between the Aurora AI and the AiiDA platform, Empa researchers are currently developing the appropriate software in collaboration with researchers at EPFL and PSI. This makes Aurora the first robot platform to be coupled to the existing AiiDA system. Data will finally be transferred to the data management system openBIS, which is being developed at ETH Zurich.&lt;/p&gt; &lt;p&gt;For battery research, this means that the numerous process steps during battery cell development and manufacturing can be efficiently monitored and evaluated, and data can be traced back to its source at any time. "This will allow innovation processes to be further accelerated and provide Industry 4.0 with a comprehensive digitalization strategy in the field of research and development," says Empa researcher Corsin Battaglia.&lt;/p&gt;&lt;b&gt;EU invests €150 million in sustainable batteries&lt;/b&gt;&lt;p&gt;Battery 2030+ is a pioneering European research initiative making strides to develop the batteries of the future. Their focus is on green, high-performing, and long-lasting batteries instrumental in the transition to a carbon-neutral society.&lt;/p&gt;&lt;p&gt; Under Horizon Europe, the EU's research program, over €150 million funding has been awarded to cutting-edge projects coordinated by Battery 2030+. This signifies a renewed confidence in Battery 2030+ with the goal to make Europe the world leader in the development and production of green batteries. &lt;/p&gt;&lt;p&gt;&lt;b&gt;Swiss Battery Days 2023 &lt;/b&gt;&lt;/p&gt;&lt;p&gt;From September 18 to 20, 2023, PSI, Empa and iBAT will host the fifth Swiss Battery Days, where researchers from Switzerland and abroad will present their latest results in the fields of synthesis and characterization of battery materials and the fabrication and analysis of battery electrodes and cells, including researchers from the Aurora project.&lt;/p&gt;</text>
+      <contact>Prof. Dr. Corsin Battaglia Empa Department Materials for Energy Conversion Phone +41 58 765 41 31 econversion@empa.ch Amira Abou-Hamdan Chemspeed Technologies AG amira.abou-hamdan@chemspeed.com</contact>
+      <attachment id="262273">
+        <title>Empa researcher Enea Svaluto-Ferro works together with the battery robot Aurora. The development time for new batteries should be greatly reduced in the future. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>344</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82565.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="262274">
+        <title>Aurora operates under a protective atmosphere: In the glove box, Benjamin Kunz and Enea Svaluto-Ferro (right) control the process steps. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>114</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/82567.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="262279">
+        <title>Images in high resolution can be downloaded here.</title>
+        <uri>https://plus.empa.ch/images/2023-09-12-Battery-Robot-Aurora-grosse-Bilder/</uri>
+        <position>Context</position>
+      </link>
+      <link id="262284">
+        <title>Youtube video on the subject</title>
+        <uri>https://www.youtube.com/watch?v=UcR_erA3XQg</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

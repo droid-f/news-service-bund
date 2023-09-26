@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="97469" revoked="no">
+    <version>1</version>
+    <pubdate>2023-08-24</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="505" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Datenabfluss bei Xplain: Fragmente aus Journal- und Rapportführungsprogramm der Militärpolizei betroffen - Strafanzeige eingereicht</title>
+      <lead>Die Analysen nach dem Angriff auf den Softwarehersteller Xplain haben gezeigt, dass die Täterschaft auch Fragmente des Journal- und Rapportführungssystems der Militärpolizei «JORASYS» sowie unvollständige und teils veraltete Nutzerprofile von Angehörigen der Militärpolizei entwendet hat. Die Armee hat eine Strafanzeige eingereicht und informiert die Betroffenen.</lead>
+      <text link="no">&lt;p&gt;Seit dem Datenabfluss beim Softwareanbieter Xplain sind in der Bundesverwaltung umfangreiche Abklärungen zum entwendeten Datenpaket eingeleitet worden. Fachspezialisten der Gruppe Verteidigung analysieren seither in Zusammenarbeit mit dem Nationalen Zentrum für Cybersicherheit (NCSC) jene Datensätze, welche die Armee betreffen. Die vertieften Abklärungen haben gezeigt, dass die Täterschaft Fragmente von Auszügen aus dem Journal- und Rapportführungssystem «JORASYS» entwendet hat, das die Militärpolizei benutzt. &lt;br /&gt;&lt;br /&gt;Bei den im Darknet publizierten Daten handelt es sich nicht um vollständige Datensätze, sondern um Logdaten, mit denen Xplain Fehler im Betrieb analysiert hatte. Die Fragmente stammen aus den Jahren 2018, 2022 sowie 2023. Sie enthalten Angaben von Personen, die dem Militärstrafrecht unterstehen sowie von Drittpersonen, die infolge von Vorfällen im Zusammenhang mit der Armee oder mit Angehörigen der Armee erfasst werden. Zudem veröffentlichte die Täterschaft im Darknet eine Liste aus dem Jahr 2020 mit rund 720 aktiven und inaktiven JORASYS-Nutzern der Armee. &lt;br /&gt;&lt;br /&gt;Nicht betroffen vom Hacker-Angriff ist die IT-Infrastruktur der Armee. Das von der Militärpolizei betriebene System läuft wie die zugehörige Datenaufbewahrung über eine gesicherte IT-Infrastruktur der Armee. Die Militärpolizei setzt das Programm weiterhin ein, wobei die Sicherheitsüberwachung zusätzlich verstärkt wurde.&lt;/p&gt;&lt;h2&gt;Betroffene werden informiert &lt;/h2&gt;&lt;p&gt;Die Gruppe Verteidigung informiert die betroffenen aktiven und inaktiven JORASYS-Nutzer der Armee und setzt auch die weiteren betroffenen Personen in Kenntnis. &lt;/p&gt;&lt;p&gt;Für die betroffenen Personen auf der entwendeten Liste der JORASYS-Nutzer ergeben sich keine Risiken. Vergleichbare Informationen sind über öffentliche Verzeichnisse wie der Staatskalender des Bundes oder weitere öffentliche Quellen verfügbar, zudem hat die Armee die Personen sensibilisiert.&lt;/p&gt;&lt;p&gt;Die Informationen im Darknet haben keinen Einfluss auf die operativen Einsätze der Armee und stellen kein Gefährdungspotenzial für die Armee und ihre Partnerorganisationen dar. &lt;/p&gt;&lt;h2&gt;Armee hat Strafanzeige eingereicht&lt;/h2&gt;&lt;p&gt;Um abzuklären, unter welchen Umständen diese Daten auf ein Dateisystem eines privaten Unternehmens gelangen und dort angegriffen werden konnten, hat die Gruppe Verteidigung Strafanzeige gegen Unbekannt eingereicht. Aufgrund der laufenden Ermittlungen erteilt die Gruppe Verteidigung dazu keine weiteren Auskünfte, um den weiteren Schritten nicht vorzugreifen oder diese zu beeinflussen.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Hinweis an die Redaktionen:&lt;/i&gt; Die Publikation von sensiblen Dateninhalten jeglicher Herkunft sind für den Schutz von Persönlichkeitsrechten und die Sicherheit kontraproduktiv. Eine Weiterverbreitung der illegal veröffentlichten Daten kann für sich sogar einen neuen Straftatbestand darstellen.&lt;/p&gt;</text>
+      <contact>Mathias Volken Armeesprecher +41 58 488 90 96</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Fuite de données chez Xplain : fragments du Système de journal et de rapport de la Police militaire concernés – plainte pénale déposée</title>
+      <lead>Les analyses effectuées après l’attaque contre le fournisseur de logiciels Xplain ont montré que les auteurs ont également dérobé des fragments de JORASYS, le Système de journal et de rapport de la Police militaire, ainsi que des profils d’utilisateurs incomplets et en partie obsolètes de membres de la Police militaire. L’armée a déposé une plainte pénale et informe les personnes concernées. </lead>
+      <text link="no">&lt;p&gt;Après la fuite de données dont le fournisseur de logiciels Xplain a été victime, l’administration fédérale a entrepris de vastes investigations concernant le paquet de données dérobées. Depuis, des spécialistes du Groupement Défense analysent les données qui concernent l’armée en collaboration avec le Centre national de cybersécurité (NCSC). Les analyses approfondies ont montré que les auteurs ont volé des fragments d’extraits du Système de journal et de rapport de la Police militaire JORASYS utilisé par la Police militaire.&lt;br /&gt;&lt;br /&gt;Les données publiées sur le Darknet ne sont pas des séries de données complètes, mais des données de journal avec lesquelles Xplain avait analysé des erreurs de fonctionnement. Les fragments datent de 2018, 2022 et 2023. Ils contiennent des informations sur des personnes soumises au droit pénal militaire ainsi que sur des tiers recensés à la suite d’incidents en rapport avec l’armée ou avec des militaires. En outre, les auteurs ont publié sur le Darknet une liste datant de 2020 et contenant environ 720 utilisateurs actifs et inactifs du programme JORASYS au sein de l’armée. &lt;br /&gt;&lt;br /&gt;L’infrastructure informatique de l’armée n’a pas été touchée par l’attaque des hackers. Le système exploité par la Police militaire tout comme la conservation des données correspondantes fonctionnent sur une infrastructure informatique sécurisée de l’armée. La Police militaire continue d’utiliser le programme, mais la surveillance de la sécurité a été renforcée. &lt;/p&gt;&lt;h2&gt;Information des personnes concernées &lt;/h2&gt;&lt;p&gt;Le Groupement Défense informe les utilisateurs actifs et inactifs du programme JORASYS au sein de l’armée et avise également les autres personnes concernées par cette fuite. &lt;/p&gt;&lt;p&gt;Cet événement ne représente aucun risque pour les personnes qui figurent sur la liste dérobée des utilisateurs de JORASYS. Des informations comparables à celles qui ont fuité sont disponibles dans des registres publics tels que l’annuaire fédéral ou d’autres sources accessibles au public. À noter en outre que les personnes concernées ont été sensibilisées par l’armée. &lt;/p&gt;&lt;p&gt;Les informations diffusées sur le Darknet n’ont aucune influence sur les engagements opérationnels de l’armée et ne constituent pas un danger potentiel pour l’armée et ses organisations partenaires.&lt;/p&gt;&lt;h2&gt;Plainte pénale déposée &lt;/h2&gt;&lt;p&gt;Le Groupement Défense a déposé une plainte pénale contre inconnu afin de déterminer dans quelles circonstances ces données ont pu parvenir sur un système de fichiers d’une entreprise privée et y être attaquées. En raison de l’enquête en cours, le Groupement Défense ne communiquera pas d’autres informations à ce sujet, afin de ne pas anticiper ou influencer les étapes ultérieures.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Remarque à l’attention des rédactions &lt;/i&gt;: La publication de données sensibles, quelle qu’en soit l’origine, est contre-productive pour la protection des droits de la personnalité et la sécurité. La rediffusion de données publiées illégalement peut même constituer en soi un nouveau délit.&lt;/p&gt;</text>
+      <contact>Mathias Volken Porte-parole de l’armée +41 58 488 90 96</contact>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Sporta una denuncia penale per la fuga di dati presso Xplain che ha interessato frammenti del programma di allestimento di giornali e di rapporti della polizia militare</title>
+      <lead>Le analisi in seguito all’attacco informatico al produttore di software Xplain hanno evidenziato che gli autori del reato hanno sottratto anche frammenti del sistema di allestimento di giornali e di rapporti della polizia militare «JORASYS» nonché profili incompleti e in parte obsoleti di membri della polizia militare. L’esercito ha pertanto sporto una denuncia penale e informato le persone interessate. </lead>
+      <text link="no">&lt;p&gt;Da quando si è verificata la fuga di dati presso il fornitore di software Xplain, in seno all’Amministrazione federale sono stati avviati accertamenti approfonditi relativi al pacchetto di dati sottratto. Da allora, gli specialisti dell’Aggruppamento Difesa analizzano quelle serie di dati che riguardano l’esercito insieme al Centro nazionale per la cibersicurezza (NCSC). Questi accertamenti approfonditi hanno evidenziato che gli autori del reato hanno sottratto frammenti degli estratti del sistema di allestimento di giornali e di rapporti della polizia militare «JORASYS», utilizzato dalla polizia militare. &lt;br /&gt;&lt;br /&gt;I dati pubblicati nella darknet non consistono in serie di dati non complete, ma in dati di log con i quali Xplain analizzava gli errori nell’esercizio. I frammenti sono relativi agli anni 2018, 2022 e 2023 e contengono dati di persone soggette al diritto penale militare nonché dati di terzi rilevati in seguito ad avvenimenti in relazione con l’esercito o con militari. Gli autori del reato hanno inoltre pubblicato nella darknet un elenco del 2020 con i nomi di circa 720 utenti dell’esercito attivi e inattivi del programma «JORASYS».&lt;br /&gt;&lt;br /&gt;L’attacco degli hacker non ha riguardato l’infrastruttura IT dell’esercito. Il sistema gestito dalla polizia militare si appoggia a un’infrastruttura informatica sicura dell’esercito, proprio come la relativa conservazione dei dati. La polizia militare continua a utilizzare il programma, tuttavia con una sorveglianza rafforzata della sicurezza.&lt;/p&gt;&lt;h2&gt;Le persone interessate sono informate&lt;/h2&gt;&lt;p&gt;L’Aggruppamento Difesa informa gli utenti dell’esercito attivi e inattivi del programma «JORASYS» interessati e mette al corrente anche le altre persone coinvolte. &lt;/p&gt;&lt;p&gt;Per le persone interessate che figurano nell’elenco sottratto degli utenti del programma «JORASYS» non sussistono rischi: informazioni analoghe sono disponibili sugli elenchi pubblici come l’Annuario federale della Confederazione o su altre fonti pubbliche; l’esercito ha inoltre informato queste persone. &lt;/p&gt;&lt;p&gt;Le informazioni nella darknet non influiscono sugli impieghi operativi dell’esercito e non rappresentano quindi un pericolo potenziale per l’esercito e le sue organizzazioni partner. &lt;/p&gt;&lt;h2&gt;L’esercito ha sporto denuncia penale&lt;/h2&gt;&lt;p&gt;L’Aggruppamento Difesa ha sporto una denuncia penale contro ignoti per chiarire in quali circostanze questi dati siano finiti sul file system di un’azienda privata e come sia stato possibile hackerarli. A causa delle indagini in corso, l’Aggruppamento Difesa non fornirà nessun’altra informazione per non anticipare le prossime misure o per non influenzarle.&lt;/p&gt;&lt;p&gt;Indicazione per le redazioni: la pubblicazione di dati dal contenuto sensibile da qualsiasi fonte è controproducente per la tutela dei diritti della personalità e la sicurezza. La diffusione di dati pubblicati illegalmente può persino costituire di per sé una nuova fattispecie penale.&lt;/p&gt;</text>
+      <contact>Mathias Volken Portavoce dell’esercito +41 58 488 90 96</contact>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5180" org-id="502">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">armed forces</name>
+      </keyword>
+      <keyword id="5420" org-id="502">
+        <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
+        <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
+        <name lang="it">Eventi straordinari / Incidenti straordinari</name>
+        <name lang="en">Exceptional Incidents / Accidents</name>
+      </keyword>
+      <keyword id="5500" org-id="502">
+        <name lang="de">Juristisches Verfahren / Untersuchung</name>
+        <name lang="fr">Procédure juridique / Enquête</name>
+        <name lang="it">Procedura giuridica / Inchiesta</name>
+        <name lang="en">legal procedure / investigation</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
