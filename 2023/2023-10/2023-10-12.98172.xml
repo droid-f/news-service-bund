@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98172" revoked="no">
-    <version>3</version>
+    <version>5</version>
     <pubdate>2023-10-12</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="505" lead="yes" topnews="no">
@@ -19,35 +19,20 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
+    <originator department-msg="no" id="1059" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="317" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Bundesamt für Gesundheit</name>
-      <name lang="fr">Office fédéral de la santé publique</name>
-      <name lang="it">Ufficio federale della sanità pubblica</name>
-      <name lang="en">Federal Office of Public Health</name>
-      <www lang="de">http://www.bag.admin.ch</www>
-      <www lang="fr">http://www.bag.admin.ch</www>
-      <www lang="it">http://www.bag.admin.ch</www>
-      <www lang="en">http://www.bag.admin.ch</www>
-      <email lang="de">media@bag.admin.ch</email>
-      <email lang="fr">media@bag.admin.ch</email>
-      <email lang="it">media@bag.admin.ch</email>
-      <email lang="en">media@bag.admin.ch</email>
+      <name lang="de">Nationale Alarmzentrale</name>
+      <name lang="fr">Centrale nationale d'alarme</name>
+      <name lang="it">Centrale nazionale d'allarme</name>
+      <name lang="en">National Emergency Operations Centre</name>
+      <www lang="de">http://www.naz.ch</www>
+      <www lang="fr">http://www.naz.ch</www>
+      <www lang="it">http://www.naz.ch</www>
+      <www lang="en">http://www.naz.ch</www>
+      <email lang="de">info@naz.ch</email>
+      <email lang="fr">info@naz.ch</email>
+      <email lang="it">info@naz.ch</email>
+      <email lang="en">info@naz.ch</email>
     </originator>
     <originator department-msg="no" id="507" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -64,20 +49,35 @@
       <email lang="it">info@babs.admin.ch</email>
       <email lang="en">info@babs.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1059" lead="no" topnews="no">
+    <originator department-msg="no" id="317" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="fr">Office fédéral de la santé publique</name>
+      <name lang="it">Ufficio federale della sanità pubblica</name>
+      <name lang="en">Federal Office of Public Health</name>
+      <www lang="de">http://www.bag.admin.ch</www>
+      <www lang="fr">http://www.bag.admin.ch</www>
+      <www lang="it">http://www.bag.admin.ch</www>
+      <www lang="en">http://www.bag.admin.ch</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="fr">media@bag.admin.ch</email>
+      <email lang="it">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Nationale Alarmzentrale</name>
-      <name lang="fr">Centrale nationale d'alarme</name>
-      <name lang="it">Centrale nazionale d'allarme</name>
-      <name lang="en">National Emergency Operations Centre</name>
-      <www lang="de">http://www.naz.ch</www>
-      <www lang="fr">http://www.naz.ch</www>
-      <www lang="it">http://www.naz.ch</www>
-      <www lang="en">http://www.naz.ch</www>
-      <email lang="de">info@naz.ch</email>
-      <email lang="fr">info@naz.ch</email>
-      <email lang="it">info@naz.ch</email>
-      <email lang="en">info@naz.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -112,20 +112,27 @@
       <title>Die Armeeapotheke versorgt die Bevölkerung mit Jodtabletten</title>
       <lead>Ab den kommenden Wochen und bis im April 2024 ersetzt die Armeeapotheke die Jodtabletten in allen Haushalten sowie in den Betrieben und öffentlichen Einrichtungen im Umkreis von 50 km um die Schweizer Kernkraftwerke. Diese Massnahme entspricht der Verordnung über die Versorgung der Bevölkerung mit Jodtabletten, die der Bundesrat am 1. März 2014 in Kraft gesetzt hat.</lead>
       <text link="no">&lt;p&gt;Die vorsorgliche Verteilung betrifft alle Haushalte, Betriebe und öffentlichen Einrichtungen im Umkreis von 50 km um die Kernkraftwerke Beznau I/II (AG), Gösgen (SO) und Leibstadt (AG). Um die Sicherheit der Schweizer Bevölkerung zu gewährleisten, hat der Bund zwölf Millionen Packungen Jodtabletten gekauft. Das Budget für die Verteilkampagne beläuft sich auf 34 Millionen Franken. 11 Millionen Franken davon werden durch die Kernkraftwerkbetreiber übernommen, die zwischen 2021 und 2029 jährlich 1,22 Millionen Franken in die allgemeine Bundeskasse einzahlen.&lt;/p&gt;&lt;h2&gt;Das Verteilgebiet&lt;/h2&gt;&lt;p&gt;Eine interaktive Karte der Schweiz zeigt auf, welche geografischen Gebiete Anspruch auf Tabletten haben. Ausserhalb des 50-Kilometer-Bereichs um die Schweizer Kernkraftwerke sorgen die Kantone für eine geeignete Lagerung von Kaliumiodidtabletten, um im Notfall die gesamte Bevölkerung damit versorgen zu können.&lt;br /&gt;&lt;br /&gt;Das Kernkraftwerk Mühleberg (BE), das 2019 vom Netz genommen wurde, wird derzeit zurückgebaut. Die Haushalte, Betriebe und öffentlichen Einrichtungen innerhalb des 50-Kilometer-Radius gehören deshalb nicht mehr zum obligatorischen Verteilgebiet. Für die betreffenden Gemeinden läuft derzeit die Vervollständigung der kantonalen Vorräte. &lt;/p&gt;&lt;h2&gt;In Zusammenarbeit mit dem BAG und der Schweizerischen Post &lt;/h2&gt;&lt;p&gt;Die Armeeapotheke als einzige Verwaltungseinheit des Bundes, welche über die Bewilligungen der Swissmedic zur Herstellung, zur Einfuhr, zum Grosshandel und zur Ausfuhr von Arzneimitteln verfügt, ist für die Beschaffung, Lagerung, Verteilung und Entsorgung verantwortlich. Ab Oktober 2023 wird sie die aktuellen violetten Packungen durch orangefarbige Packungen ersetzen.&lt;br /&gt;Die Verteilung soll bis Ende April 2024 abgeschlossen sein und wird alle Privathaushalte sowie die Betriebe und öffentlichen Einrichtungen in den festgelegten Gebieten um die erwähnten Kernkraftwerke abdecken. Dabei arbeitet die Armeeapotheke mit dem Bundesamt für Gesundheit (BAG) sowie der Schweizerischen Post als Logistikpartnerin zusammen.&lt;/p&gt;&lt;h2&gt;Verteilung von Jodtabletten: eine vorsorgliche Schutzmassnahme&lt;/h2&gt;&lt;p&gt;Kaliumiodidtabletten dürfen nur auf Anordnung der Behörden, insbesondere der Nationalen Alarmzentrale (NAZ), eingenommen werden. Sie können höchstens zehn Jahre gelagert und müssen anschliessend ausgetauscht werden. &lt;br /&gt;&lt;br /&gt;Jodtabletten verhindern, dass radioaktives Jod in die Schilddrüse aufgenommen wird und sich Schilddrüsenkrebs entwickelt. Ihre Einnahme ist nur im Falle eines schweren Kernkraftwerkunfalls mit Freisetzung von Radioaktivität vorgesehen.&lt;br /&gt;&lt;br /&gt;Die abgelaufenen Jodtabletten der Haushalte, Betriebe und öffentliche Einrichtungen werden fachgerecht entsorgt.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Hinweis an die Redaktionen:&lt;/b&gt;&lt;br /&gt;Das Bundesamt für Gesundheit, die Schweizerische Post und die Armee organisieren gemeinsam einen «Point de Presse» zur Verteilung von Jodtabletten und der damit verbundenen Logistik. Der Anlass findet wie folgt statt:&lt;br /&gt;&lt;br /&gt;Datum und Uhrzeit: Dienstag, 17. Oktober 2023; 14:00 &lt;br /&gt;Ort: Schweizerische Post, Zustellstelle Solothurn, Zuchwilerstrasse 27, 4500 Solothurn&lt;br /&gt;Anmeldungen: bis 16. Oktober 2023, 12:00 an: media@vtg.admin.ch&lt;br /&gt;Anreise Solothurn: &lt;br /&gt;&lt;b&gt;Auto&lt;/b&gt;: Einfahrt auf linker Seite des Gebäudes. Sie werden in das UG eingewiesen.&lt;br /&gt;&lt;b&gt;ÖV:&lt;/b&gt; Ab Bahnhof Solothurn 5 Minuten zu Fuss. Eingang auf rechter Seite des Gebäudes. &lt;br /&gt;&lt;br /&gt;Im Anschluss an die Kurzreferate stehen Vertreterinnen und Vertreter des Bundesamtes für Gesundheit, der Schweizerischen Post und der Armeeapotheke für Interviews zur Verfügung. Zudem ist ein Rundgang durch die Zustellstelle Solothurn vorgesehen.&lt;br /&gt; &lt;/p&gt;</text>
-      <contact>Beschaffung, Lagerung, Verteilung und Entsorgung: Stefan Hofer Armeesprecher +41 58 463 37 41 Medizinische Aspekte und Jod-Prophylaxe: Bundesamt für Gesundheit Kommunikation +41 58 462 95 05 media@bag.admin.ch Verteillogistik: Stefan Dauner Mediensprecher Schweizerische Post +41 58 341 19 22</contact>
-      <link id="263939">
+      <contact>BEVÖLKERUNG: Hotline Verteilung Jodtabletten 0848 44 22 00 www.jodtabletten.ch MEDIEN: Beschaffung, Lagerung, Verteilung und Entsorgung: Stefan Hofer Armeesprecher +41 58 463 37 41 Medizinische Aspekte und Jod-Prophylaxe: Bundesamt für Gesundheit Kommunikation +41 58 462 95 05 media@bag.admin.ch Verteillogistik: Stefan Dauner Mediensprecher Schweizerische Post +41 58 341 19 22</contact>
+      <link id="264429">
+        <title>Jodtabletten für die Schweiz</title>
+        <uri>https://jodtabletten.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="264423">
         <title>Interaktive Karte der Schweiz</title>
         <uri>https://www.jodtabletten.ch/de</uri>
         <position>Context</position>
       </link>
-      <link id="263940">
+      <link id="264424">
         <title>Jodtabletten-Verordnung SR 814.52</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2023/148/de</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 15:05" type="R"/>
         <revision date="2023-10-12 16:11" type="R"/>
+        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 16:07" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -133,20 +140,27 @@
       <title>La Pharmacie de l’armée approvisionne la population en comprimés d’iode</title>
       <lead>Dans les semaines à venir et jusqu’en avril 2024, la Pharmacie de l’armée remplacera les comprimés d’iode dans l’ensemble des ménages, entreprises et établissements publics situés dans un rayon de 50 km autour des centrales nucléaires suisses. Cette mesure répond à l’ordonnance du 22 janvier 2014 sur la distribution de comprimés d’iode à la population.</lead>
       <text link="no">&lt;p&gt;La distribution de comprimés d’iode, organisée à titre préventif, concerne l’ensemble des ménages, entreprises et établissements publics qui se trouvent dans un rayon de 50 km autour des centrales nucléaires de Beznau I/II (AG), Gösgen (SO) et Leibstadt (AG). Pour assurer la sécurité de la population suisse, la Confédération a acheté douze millions d’emballages de comprimés d'iode. Le budget pour les dépenses de la campagne de distribution d’iode s'élève à 34 millions de francs. Sur ce montant, 11 millions seront financés par les exploitants de centrales nucléaires, qui versent un montant de 1,22 million de francs par an à la caisse générale de la Confédération de 2021 à 2029.&lt;/p&gt;&lt;h2&gt;Zones de distribution&lt;/h2&gt;&lt;p&gt;Une carte interactive de la Suisse indique les zones géographiques qui reçoivent les comprimés. Au-delà du rayon de 50 km autour des centrales nucléaires suisses, les cantons veillent à ce que les comprimés d’iodure de potassium soient stockés de manière appropriée afin de pouvoir approvisionner toute la population en cas d’urgence.&lt;br /&gt;&lt;br /&gt;La centrale nucléaire de Mühleberg (BE), mise hors service en 2019, est actuellement en cours de démantèlement. Les ménages, entreprises et établissements publics situés dans un rayon de moins de 50 km autour de l’ancienne centrale ne font plus partie du rayon de distribution obligatoire. Actuellement, les stocks cantonaux sont complétés pour couvrir les besoins des communes concernées. &lt;/p&gt;&lt;h2&gt;Collaboration avec l’OFSP et La Poste Suisse&lt;/h2&gt;&lt;p&gt;La Pharmacie de l’armée, seule unité administrative de la Confédération à disposer des autorisations de Swissmedic pour la fabrication, l’importation, le commerce de gros et l’exportation de médicaments, est responsable de leur acquisition, de leur stockage, de leur distribution et de leur élimination. À partir d’octobre 2023, elle remplacera les actuelles boîtes violettes par des boîtes de couleur orange.&lt;/p&gt;&lt;p&gt;D’ici fin avril 2024, la distribution sera terminée et couvrira tous les ménages privés, ainsi que les entreprises et les établissements publics situés dans les zones prédéfinies autour des centrales nucléaires susmentionnées. Pour ce faire, la Pharmacie de l’armée travaille en collaboration avec l’Office fédéral de la santé publique (OFSP) et La Poste Suisse en tant que partenaire logistique.&lt;/p&gt;&lt;h2&gt;Distribution de comprimés d’iode : une mesure de protection préventive&lt;/h2&gt;&lt;p&gt;La prise de comprimés d’iodure de potassium est prescrite uniquement sur ordre des autorités, en particulier de la Centrale nationale d’alarme (CENAL). Ils peuvent être stockés au maximum dix ans et doivent être remplacés après cette période. &lt;br /&gt;&lt;br /&gt;Ces comprimés empêchent l’accumulation d’iode radioactif dans la thyroïde et préviennent ainsi l’apparition d’un cancer dans cette glande. La prise des comprimés n’est prévue qu’en cas d’accident nucléaire grave lors duquel de la radioactivité serait libérée. &lt;br /&gt;&lt;br /&gt;Les comprimés d’iode périmés des ménages, entreprises et établissements publics sont éliminés dans les règles de l’art. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Note à l’attention des rédactions :&lt;/b&gt;&lt;br /&gt;L’Office fédéral de la santé publique, La Poste Suisse et l’armée organisent conjointement un point de presse au sujet de la distribution des comprimés d’iode et des aspects logistiques qui y sont liés. Il aura lieu le :&lt;br /&gt;&lt;br /&gt;Date et heure : mardi 17 octobre 2023 à 14h00 &lt;br /&gt;Lieu : La Poste Suisse, centre de distribution de Soleure, Zuchwilerstrasse 27, 4500 Soleure&lt;br /&gt;Inscriptions : jusqu’au 16 octobre 2023, à 12h00 : media@vtg.admin.ch&lt;br /&gt;Arrivée : &lt;b&gt;en voiture &lt;/b&gt;: entrée sur le côté gauche du bâtiment. Vous serez dirigé vers le sous-sol.&lt;br /&gt;&lt;b&gt;en transports publics&lt;/b&gt; : 5 minutes à pied de la gare de Soleure. Entrée sur le côté droit du bâtiment.&lt;br /&gt;&lt;br /&gt;Après les brefs exposés, des représentants de l’Office fédéral de la santé publique, de La Poste Suisse et de la Pharmacie de l’armée se tiendront à votre disposition pour répondre à vos questions. De plus, une visite du centre de distribution de Soleure vous sera proposée.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
-      <contact>Acquisition, stockage, distribution et élimination : Stefan Hofer Porte-parole de l’armée +41 58 463 37 41 Aspects médicaux et prophylaxie de l’iode : Office fédéral de la santé publique Communication +41 58 462 95 05 media@bag.admin.ch Logistique de distribution : Stefan Dauner Porte-parole de La Poste Suisse +41 58 341 19 22</contact>
-      <link id="263941">
+      <contact>Population: Hotline Verteilung Jodtabletten 0848 44 22 00 www.jodtabletten.ch Acquisition, stockage, distribution et élimination : Stefan Hofer Porte-parole de l’armée +41 58 463 37 41 Aspects médicaux et prophylaxie de l’iode : Office fédéral de la santé publique Communication +41 58 462 95 05 media@bag.admin.ch Logistique de distribution : Stefan Dauner Porte-parole de La Poste Suisse +41 58 341 19 22</contact>
+      <link id="264429">
+        <title>Jodtabletten für die Schweiz</title>
+        <uri>https://jodtabletten.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="264425">
         <title>Carte interactive de la Suisse</title>
         <uri>https://comprimesiode.ch/fr</uri>
         <position>Context</position>
       </link>
-      <link id="263942">
+      <link id="264426">
         <title>Ordonnance sur la distribution de comprimés d’iode RS 814.52</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2023/148/fr</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 15:05" type="R"/>
         <revision date="2023-10-12 16:11" type="R"/>
+        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 16:07" type="R"/>
       </revisions>
     </content>
     <content lang="it">
@@ -154,48 +168,55 @@
       <title>La Farmacia dell’esercito approvvigiona la popolazione con compresse allo iodio</title>
       <lead>A partire dalle prossime settimane e fino al mese di aprile 2024, la Farmacia dell’esercito sostituirà le compresse allo iodio in tutte le economie domestiche, le aziende e in tutti gli enti pubblici situati entro un raggio di 50 km dalle centrali nucleari svizzere. Tale misura è conforme all’ordinanza sulla distribuzione di compresse allo iodio alla popolazione, messa in vigore dal Consiglio federale il 1° marzo 2014. </lead>
       <text link="no">&lt;p&gt;La distribuzione a titolo preventivo concerne tutte le economie domestiche, le aziende e gli enti pubblici che si trovano entro un raggio di 50 km dalle centrali nucleari di Beznau I/II (AG), Gösgen (SO) e Leibstadt (AG). Per garantire la sicurezza della popolazione svizzera, la Confederazione ha acquistato dodici milioni di confezioni di compresse allo iodio. Il budget per la campagna di distribuzione delle compresse allo iodio ammonta a 34 milioni di franchi. Di questo importo, 11 milioni di franchi sono finanziati dai gestori delle centrali nucleari mediante il versamento di 1,22 milioni di franchi all’anno dal 2021 al 2029, che confluiscono nella cassa generale della Confederazione.&lt;/p&gt;&lt;h2&gt;L’area di distribuzione&lt;/h2&gt;&lt;p&gt;Una mappa interattiva della Svizzera indica quali aree geografiche hanno diritto alle compresse. Al di fuori del raggio di 50 chilometri dalle centrali nucleari, i Cantoni provvedono a uno stoccaggio appropriato delle compresse di ioduro di potassio, per poter approvvigionare l’intera popolazione in caso d’urgenza. &lt;/p&gt;&lt;p&gt;La centrale nucleare di Mühleberg (BE) è stata staccata dalla rete nel 2019 e si trova attualmente in fase di smantellamento. Le economie domestiche, le aziende e gli enti pubblici che si trovano nel raggio di 50 chilometri non fanno perciò più parte dell’area di distribuzione obbligatoria. Per i comuni interessati attualmente è in corso il completamento delle scorte cantonali. &lt;/p&gt;&lt;h2&gt;In collaborazione con l’UFSP e La Posta Svizzera &lt;/h2&gt;&lt;p&gt;Quale unica unità amministrativa della Confederazione, la Farmacia dell’esercito, che dispone delle autorizzazioni di Swissmedic per la fabbricazione, l’importazione, il commercio all’ingrosso e l’esportazione di medicamenti, è responsabile dell’acquisto, dello stoccaggio, della distribuzione e dello smaltimento. Da ottobre del 2023 sostituisce le attuali confezioni viola con confezioni di colore arancione.&lt;/p&gt;&lt;p&gt;La distribuzione dovrà essere conclusa entro fine aprile del 2024 e comprenderà tutte le economie domestiche private nonché le aziende e gli enti pubblici situati nelle aree definite attorno alle centrali nucleari summenzionate. A tale scopo la Farmacia dell’esercito opera in collaborazione con l’Ufficio federale della sanità pubblica (UFSP) e La Posta quale partner logistico.&lt;/p&gt;&lt;h2&gt;Distribuzione di compresse allo iodio: una misura di protezione preventiva&lt;/h2&gt;&lt;p&gt;Le compresse allo iodio possono essere assunte esclusivamente su ordine delle autorità, in particolare da parte della Centrale nazionale d’allarme (CENAL). Possono essere conservate per una durata massima di dieci anni e vanno sostituite dopo tale periodo.&lt;br /&gt;&lt;br /&gt;Le compresse allo iodio impediscono l’accumulo di iodio radioattivo nella tiroide e prevengono così che si manifesti un relativo cancro. La loro assunzione è prevista esclusivamente in caso d’incidente nucleare grave con fuoriuscita di radioattività. &lt;/p&gt;&lt;p&gt;Le compresse allo iodio scadute delle economie domestiche, delle aziende e degli enti pubblici vengono smaltite a regola d’arte. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Indicazione per le redazioni:&lt;br /&gt;&lt;/b&gt;L’Ufficio federale della sanità pubblica, La Posta Svizzera e l’esercito organizzano congiuntamente un «punto stampa» relativo alla distribuzione di compresse allo iodio e alla relativa logistica. La manifestazione si terrà come segue:&lt;br /&gt;&lt;br /&gt;Data e ora: martedì 17 ottobre 2023, ore 14.00&lt;br /&gt;Luogo: La Posta Svizzera, Zustellstelle Solothurn (filiale di Soletta), Zuchwilerstrasse 27, 4500 Soletta&lt;br /&gt;Iscrizioni: entro il 16 ottobre 2023, ore 12.00 a: media@vtg.admin.ch&lt;br /&gt;Itinerario: &lt;b&gt;in auto:&lt;/b&gt; accesso sul lato sinistro dell’edificio. Sarete indirizzati al piano interrato.&lt;br /&gt;&lt;b&gt;con i mezzi pubblici:&lt;/b&gt; 5 minuti a piedi dalla stazione ferroviaria di Soletta. Accesso sul lato destro dell’edificio.&lt;br /&gt;&lt;br /&gt;Dopo le brevi presentazioni i rappresentati dell’Ufficio federale della sanità pubblica, de La Posta Svizzera e della Farmacia dell’esercito saranno disponibili per interviste. È inoltre prevista una visita della filiale di Soletta.&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
-      <contact>Acquisto, stoccaggio, distribuzione e smaltimento: Stefan Hofer Portavoce dell’esercito +41 58 463 37 41 Aspetti medici e profilassi con lo iodio: Ufficio federale della sanità pubblica Comunicazione +41 58 462 95 05 media@bag.admin.ch Logistica di distribuzione: Stefan Dauner Portavoce de La Posta Svizzera +41 58 341 19 22</contact>
-      <link id="263943">
+      <contact>Popolazione: Hotline Verteilung Jodtabletten 0848 44 22 00 www.jodtabletten.ch Media: Acquisto, stoccaggio, distribuzione e smaltimento: Stefan Hofer Portavoce dell’esercito +41 58 463 37 41 Aspetti medici e profilassi con lo iodio: Ufficio federale della sanità pubblica Comunicazione +41 58 462 95 05 media@bag.admin.ch Logistica di distribuzione: Stefan Dauner Portavoce de La Posta Svizzera +41 58 341 19 22</contact>
+      <link id="264429">
+        <title>Jodtabletten für die Schweiz</title>
+        <uri>https://jodtabletten.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="264427">
         <title>Mappa interattiva della Svizzera</title>
         <uri>https://comprimesiode.ch/it</uri>
         <position>Context</position>
       </link>
-      <link id="263944">
+      <link id="264428">
         <title>Ordinanza sulle compresse allo iodio RS 814.52</title>
         <uri>https://www.fedlex.admin.ch/eli/oc/2023/148/it</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 15:05" type="R"/>
         <revision date="2023-10-12 16:11" type="R"/>
+        <revision date="2023-10-12 16:05" type="R"/>
+        <revision date="2023-10-20 16:07" type="R"/>
       </revisions>
     </content>
     <keywords>
-      <keyword id="5150" org-id="507">
+      <keyword id="5150" org-id="502">
         <name lang="de">Warnung und Alarmierung</name>
         <name lang="fr">Alerte et Alarme</name>
-        <name lang="it">Preallarme e Allarme</name>
-        <name lang="en">Warning an Alerting</name>
+        <name lang="it">Preallarme e allarme</name>
+        <name lang="en">Warning and Alerting</name>
       </keyword>
-      <keyword id="5180" org-id="507">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5380" org-id="507">
+      <keyword id="5380" org-id="502">
         <name lang="de">Bevölkerungsschutz</name>
         <name lang="fr">Protection de la population</name>
         <name lang="it">Protezione della popolazione</name>
         <name lang="en">civil protection</name>
       </keyword>
-      <keyword id="5420" org-id="507">
+      <keyword id="5420" org-id="502">
         <name lang="de">Ausserordentliche Ereignisse / Unfälle</name>
         <name lang="fr">Evénements extraordinaires / Accidents extraordinaires</name>
         <name lang="it">Eventi straordinari / Incidenti straordinari</name>
         <name lang="en">Exceptional Incidents / Accidents</name>
       </keyword>
-      <keyword id="5780" org-id="507">
+      <keyword id="5780" org-id="502">
         <name lang="de">Gesundheit</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
