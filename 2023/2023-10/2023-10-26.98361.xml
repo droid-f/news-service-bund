@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="98361" revoked="no">
+    <version>2</version>
+    <pubdate>2023-10-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="808" lead="yes" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="en">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>EnergyInfoSwiss: Neue App mit aktuellen Daten zur Energieversorgung der Schweiz</title>
+      <lead>Seit Dezember 2022 zeigt des Energiedashboard des Bundesamts für Energie (BFE) eine umfassende Übersicht zur aktuellen Energieversorgungssituation der Schweiz (www.energiedashboard.admin.ch). Das neueste Release zeigt zusätzlich neben den bisherigen Daten zu Energieproduktion und -verbrauch in der Schweiz auch die Börsenstrompreise in Europa, die Heizgradtage pro Gemeinde und den Verlauf und die Herkunft der Gasimporte nach Europa. Mit der neuen App «EnergyInfoSwiss» sind diese Daten jederzeit auch mobil noch einfacher verfügbar. Die App kann in den App-Stores für iPhone und Android heruntergeladen werden.</lead>
+      <text link="no">&lt;p&gt;Das Energiedashboard des BFE zeigt neu die Heizgradtage pro Gemeinde, die massgebend für den Heizbedarf sind. Weiter werden die Strompreise der Börsen (Day Ahead Base) im europäischen Vergleich auf einer Karte dargestellt sowie der Verlauf der Einfuhr von Gas nach Europa und dessen Herkunft. Darüber hinaus wurde das Dashboard noch nutzerfreundlicher und übersichtlicher gestaltet. &lt;/p&gt;&lt;p&gt;Neu kann das Energiedashboard auch über die App «EnergyInfoSwiss» auf mobilen Endgeräten genutzt werden. Die Applikation erleichtert den Zugang zu den Daten. Die dargestellten Informationen und die Navigation lassen sich durch die Userinnen und User personalisieren. So können sie beispielsweise Informationen, sei es zur Strom- oder zur Gasversorgung, auf dem Home-Screen der App verankern.&lt;/p&gt;&lt;p&gt;Die Userinnen und User können sich zudem auch Push-Informationen anzeigen lassen und sind so blitzschnell über wichtige Entwicklungen informiert. Es besteht die Möglichkeit, sich freiwillig zu registrieren, um künftig auch personalisierte Informationen zur Energieversorgung zu erhalten, beispielsweise pro Kanton oder pro Gemeinde. Solche Daten werden im Rahmen der kommenden Releases des Energiedashboards aufgeschaltet.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, Leiterin Medien und Politik, Bundesamt für Energie (BFE) 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="264654">
+        <title>App Store</title>
+        <uri>https://apps.apple.com/ch/app/energyinfoswiss/id6469721367</uri>
+        <position>Context</position>
+      </link>
+      <link id="264655">
+        <title>Playstore</title>
+        <uri>https://play.google.com/store/apps/details?id=ch.bfe.energyinfoswiss&amp;pcampaignid=web_share</uri>
+        <position>Context</position>
+      </link>
+      <link id="264647">
+        <title>www.energiedashboard.admin.ch</title>
+        <uri>https://www.energiedashboard.admin.ch/dashboard</uri>
+        <position>Context</position>
+      </link>
+      <link id="264648">
+        <title>ElCom: Aktuelle Informationen zur Stromversorgungssicherheit</title>
+        <uri>https://www.elcom.admin.ch/elcom/de/home/themen/versorgungssicherheit/aktuelle-informationen-stromversorgungssicherheit.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>EnergyInfoSwiss: la nouvelle application pour des données actualisées concernant l’approvisionnement en énergie de la Suisse</title>
+      <lead>Depuis décembre 2022, le Dashboard de l’énergie de l’Office fédéral de l’énergie (OFEN) fournit une vue d’ensemble concernant la situation actuelle de l’approvisionnement en énergie de la Suisse (www.dashboardenergie.admin.ch). Outre les données actuelles concernant la production et la consommation d’énergie en Suisse, la dernière version montre aussi les prix de l’électricité à la bourse en Europe, les degrés-jours de chauffage par commune ainsi que l’évolution et l’origine des importations de gaz en Europe. La nouvelle application «EnergyInfoSwiss» permet d’accéder encore plus facilement et à tout moment à ces données avec son téléphone portable. Vous pouvez la télécharger sur l’app store pour iPhone et Android.</lead>
+      <text link="no">&lt;p&gt;Le Dashboard de l'énergie de l'OFEN montre désormais les degrés-jours de chauffage par commune, déterminants pour le besoin en chaleur. On retrouve également les prix de l'électricité à la bourse (Day Ahead Base) en comparaison européenne sur une carte, tout comme l'évolution des importations de gaz en Europe et leur origine. Par ailleurs, le Dashboard a été repensé pour offrir davantage de convivialité et une meilleure vue d'ensemble. &lt;/p&gt;&lt;p&gt;Le Dashboard de l'énergie peut désormais aussi être utilisé via l'application «EnergyInfoSwiss» sur des appareils mobiles. L'application simplifie l'accès aux données. Les utilisateurs et utilisatrices peuvent personnaliser les informations affichées et la navigation. Ils peuvent par exemple verrouiller sur l'accueil de l'application diverses informations, telles que l'approvisionnement en électricité et en gaz, ou encore activer les notifications afin d'être informés en temps réel des développements importants. Il est aussi possible de s'abonner pour recevoir des informations personnalisées concernant l'approvisionnement en énergie, par exemple par canton ou par commune. Ces données seront mises en ligne dans le cadre de la prochaine version du Dashboard de l'énergie.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, responsable Médias et politique, Office fédéral de l’énergie (OFEN) 058 462 56 75, marianne.zuend@bfe.admin.ch</contact>
+      <link id="264654">
+        <title>App Store</title>
+        <uri>https://apps.apple.com/ch/app/energyinfoswiss/id6469721367</uri>
+        <position>Context</position>
+      </link>
+      <link id="264655">
+        <title>Playstore</title>
+        <uri>https://play.google.com/store/apps/details?id=ch.bfe.energyinfoswiss&amp;pcampaignid=web_share</uri>
+        <position>Context</position>
+      </link>
+      <link id="264649">
+        <title>dashboardenergie.admin.ch</title>
+        <uri>http://www.energiedashboard.admin.ch/</uri>
+        <position>Context</position>
+      </link>
+      <link id="264650">
+        <title>ElCom: Informations actuelles sur la sécurité de l’approvisionnement en électricité</title>
+        <uri>https://www.elcom.admin.ch/elcom/fr/home/themes/securite-de-l_approvisionnement/aktuelle-informationen-stromversorgungssicherheit.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>EnergyInfoSwiss: nuova app con dati aggiornati sull'approvvigionamento energetico in Svizzera</title>
+      <lead>Dal dicembre 2022, il dashboard sull’energia dell'Ufficio federale dell'energia (UFE) fornisce una panoramica completa dell’attuale situazione dell'approvvigionamento energetico in Svizzera (www.dashboardenergia.admin.ch). Oltre ai dati attuali sulla produzione e sul consumo di energia in Svizzera, l'ultima versione del dashboard mostra anche i prezzi dell’elettricità delle borse europee, i gradi giorno di riscaldamento per Comune nonché l'andamento e l'origine delle importazioni di gas in Europa. Grazie alla nuova app EnergyInfoSwiss, questi dati saranno accessibili ancora più facilmente in qualsiasi momento sul proprio dispositivo mobile. La app può essere scaricata dagli app store per iPhone e Android.</lead>
+      <text link="no">&lt;p&gt;Il dashboard sull'energia dell'UFE mostra ora anche i gradi giorno di riscaldamento per ciascun Comune, che sono determinanti per il fabbisogno di riscaldamento. Possono inoltre essere visualizzati su una mappa e confrontati a livello europeo i prezzi dell'elettricità delle borse (day ahead base), insieme ai dati relativi all'andamento delle importazioni di gas in Europa e la loro origine. Ora il dashboard risulta anche più semplice da utilizzare e le informazioni sono presentate con maggiore chiarezza. &lt;/p&gt;&lt;p&gt;Inoltre, potrà essere consultato anche da tutti i dispositivi mobili tramite la App «EnergyInfoSwiss», che rende più facile l'accesso ai dati. L'utente può personalizzare la visualizzazione delle informazioni e la navigazione nella app. Ad esempio, i dati sull'approvvigionamento di elettricità o di gas possono essere aggiunti alla schermata iniziale della app.&lt;/p&gt;&lt;p&gt;L'utente può inoltre attivare le notifiche push ed essere così sempre al corrente degli sviluppi importanti nel settore. È possibile registrarsi per ricevere in futuro anche informazioni personalizzate sull'approvvigionamento energetico, ad esempio per Cantone o per Comune. Tali dati saranno disponibili nelle future versioni del dashboard.&lt;/p&gt;</text>
+      <contact>Marianne Zünd, capo Media e politica, Ufficio federale dell'energia (UFE) Tel.: 058 462 56 75, E-mail: marianne.zuend@bfe.admin.ch</contact>
+      <link id="264654">
+        <title>App Store</title>
+        <uri>https://apps.apple.com/ch/app/energyinfoswiss/id6469721367</uri>
+        <position>Context</position>
+      </link>
+      <link id="264655">
+        <title>Playstore</title>
+        <uri>https://play.google.com/store/apps/details?id=ch.bfe.energyinfoswiss&amp;pcampaignid=web_share</uri>
+        <position>Context</position>
+      </link>
+      <link id="264651">
+        <title>www.dashboardenergia.admin.ch</title>
+        <uri>http://www.dashboardenergia.admin.ch/</uri>
+        <position>Context</position>
+      </link>
+      <link id="264652">
+        <title>ElCom: Aktuelle Informationen zur Stromversorgungssicherheit (in tedesco)</title>
+        <uri>https://www.elcom.admin.ch/elcom/de/home/themen/versorgungssicherheit/aktuelle-informationen-stromversorgungssicherheit.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="264653">
+        <title>ElCom: Informations actuelles sur la sécurité de l’approvisionnement en électricité (in francese)</title>
+        <uri>https://www.elcom.admin.ch/elcom/fr/home/themes/securite-de-l_approvisionnement/aktuelle-informationen-stromversorgungssicherheit.html</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="en">Energy Policy</name>
+      </keyword>
+      <keyword id="320" org-id="808">
+        <name lang="de">Energieversorgung</name>
+        <name lang="fr">Approvisionnement énergétique</name>
+        <name lang="it">Approvvigionamento energetico</name>
+        <name lang="en">Energy Supply</name>
+      </keyword>
+      <keyword id="340" org-id="808">
+        <name lang="de">Energiewirtschaft</name>
+        <name lang="fr">Economie énergétique</name>
+        <name lang="it">Economia energetica</name>
+        <name lang="en">Energy Economy</name>
+      </keyword>
+      <keyword id="1430" org-id="808">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="fr">Consommation énergétique</name>
+        <name lang="it">Consumo energetico</name>
+        <name lang="en">Energy Consumption</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
