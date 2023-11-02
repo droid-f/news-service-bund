@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98421" revoked="no">
-    <version>1</version>
+    <version>4</version>
     <pubdate>2023-11-01</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -34,21 +34,6 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="603" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidg. Finanzverwaltung</name>
-      <name lang="fr">Administration fédérale des finances</name>
-      <name lang="it">Amministrazione federale delle finanze</name>
-      <name lang="en">Federal Finance Administration</name>
-      <www lang="de">http://www.efv.admin.ch</www>
-      <www lang="fr">http://www.efv.admin.ch</www>
-      <www lang="it">http://www.efv.admin.ch</www>
-      <www lang="en">http://www.efv.admin.ch</www>
-      <email lang="de">kommunikation@efv.admin.ch</email>
-      <email lang="fr">kommunikation@efv.admin.ch</email>
-      <email lang="it">kommunikation@efv.admin.ch</email>
-      <email lang="en">info@efv.admin.ch</email>
-    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,27 +62,17 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bewaffneter Konflikt im Nahen Osten: Der Bundesrat erinnert daran, dass das humanitäre Völkerrecht unbedingt eingehalten werden muss, und beantragt 90 Millionen Franken für humanitäre Hilfe</title>
-      <lead>Der Bundesrat verurteilt die Terrorakte, welche die Hamas seit dem 7. Oktober 2023 verübt, erneut auf das Schärfste und fordert die sofortige Freilassung aller Geiseln. Er anerkennt das Recht Israels auf Selbstverteidigung und Sicherheit und erinnert daran, dass sich alle Parteien an das humanitäre Völkerrecht halten müssen. Angesichts der äusserst besorgniserregenden humanitären Lage beantragt der Bundesrat dem Parlament weitere 90 Millionen Franken zur Unterstützung der Region.</lead>
-      <text link="no"> &lt;p&gt;Der bewaffnete Konflikt im Nahen Osten hat verheerende humanitäre Folgen für Israel, das Besetzte Palästinensische Gebiet und die betroffenen Nachbarländer. Der Bundesrat beantragt dem Parlament daher zusätzliche Mittel in der Höhe von 90 Millionen Franken für die humanitäre Nothilfe in der gesamten Region. &lt;/p&gt; &lt;p&gt;Die Mittel sind vor allem für die Rotkreuz- und Rothalbmondbewegung, die UNO sowie internationale Nichtregierungsorganisationen bestimmt, die im humanitären Bereich tätig sind. Diese Organisationen bieten konfliktbetroffenen Personen Schutz und Unterkunft und versorgen sie mit Grundnahrungsmitteln, Medikamenten und Hygieneartikeln. &lt;/p&gt; &lt;p&gt;Seit dem 7. Oktober 2023 sind Tausende von Zivilpersonen ums Leben gekommen. Der Bundesrat hat die terroristischen Angriffe der Hamas auf die israelische Zivilbevölkerung auf das Schärfste verurteilt. Die humanitäre Lage in Gaza ist katastrophal. Gemäss Schätzungen der UNO von Mitte Oktober beläuft sich die Zahl der Binnenvertriebenen im Gazastreifen auf 1,4 Millionen. Auch im Westjordanland ist die Lage sehr instabil. &lt;/p&gt; &lt;p&gt;Der Bundesrat anerkennt das Recht Israels auf Selbstverteidigung und Sicherheit und erinnert daran, dass beide Parteien verpflichtet sind, die Zivilbevölkerung zu schützen und das humanitäre Völkerrecht zu beachten. Es braucht humanitäre Feuerpausen oder Waffenruhen, um den Zugang von Hilfsgütern zu ermöglichen und die Bevölkerung zu versorgen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Gefahr einer Destabilisierung der Region &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Konflikt im Nahen Osten droht die ganze Region zu destabilisieren, vor allem bei grossen zusätzlichen Fluchtbewegungen aus dem Gazastreifen. Die Zahl der Menschen in der Region, die auf humanitäre Hilfe angewiesen sind, wird wahrscheinlich weiter ansteigen.&lt;/p&gt; </text>
+      <lead>Der Bundesrat verurteilt die Terrorakte, welche die Hamas seit dem 7. Oktober 2023 verübt, erneut auf das Schärfste und fordert die sofortige Freilassung aller Geiseln. Er anerkennt das Recht Israels, seine Verteidigung und Sicherheit sicherzustellen und erinnert daran, dass sich alle Parteien an das humanitäre Völkerrecht halten müssen. Angesichts der äusserst besorgniserregenden humanitären Lage beantragt der Bundesrat dem Parlament weitere 90 Millionen Franken zur Unterstützung der Region.</lead>
+      <text link="no"> &lt;p&gt;Der bewaffnete Konflikt im Nahen Osten hat verheerende humanitäre Folgen für Israel, das Besetzte Palästinensische Gebiet und die betroffenen Nachbarländer. Der Bundesrat beantragt dem Parlament daher zusätzliche Mittel in der Höhe von 90 Millionen Franken für die humanitäre Nothilfe in der gesamten Region. &lt;/p&gt; &lt;p&gt;Die Mittel sind vor allem für die Rotkreuz- und Rothalbmondbewegung, die UNO sowie internationale Nichtregierungsorganisationen bestimmt, die im humanitären Bereich tätig sind. Diese Organisationen bieten konfliktbetroffenen Personen Schutz und Unterkunft und versorgen sie mit Grundnahrungsmitteln, Medikamenten und Hygieneartikeln. &lt;/p&gt; &lt;p&gt;Seit dem 7. Oktober 2023 sind Tausende von Zivilpersonen ums Leben gekommen. Der Bundesrat hat die terroristischen Angriffe der Hamas auf die israelische Zivilbevölkerung auf das Schärfste verurteilt. Die humanitäre Lage in Gaza ist katastrophal. Gemäss Schätzungen der UNO von Mitte Oktober beläuft sich die Zahl der Binnenvertriebenen im Gazastreifen auf 1,4 Millionen. Auch im Westjordanland ist die Lage sehr instabil. &lt;/p&gt; &lt;p&gt;Der Bundesrat anerkennt das Recht Israels, seine Verteidigung und Sicherheit sicherzustellen und erinnert daran, dass beide Parteien verpflichtet sind, die Zivilbevölkerung zu schützen und das humanitäre Völkerrecht zu beachten. Es braucht humanitäre Feuerpausen oder Waffenruhen, um den Zugang von Hilfsgütern zu ermöglichen und die Bevölkerung zu versorgen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Gefahr einer Destabilisierung der Region &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Konflikt im Nahen Osten droht die ganze Region zu destabilisieren, vor allem bei grossen zusätzlichen Fluchtbewegungen aus dem Gazastreifen. Die Zahl der Menschen in der Region, die auf humanitäre Hilfe angewiesen sind, wird wahrscheinlich weiter ansteigen.&lt;/p&gt; </text>
       <contact>für weitere Informationen: Kommunikation EDA Tel. Medienstelle +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2023-11-02 10:54" type="R"/>
+        <revision date="2023-11-02 10:13" type="R"/>
+        <revision date="2023-11-02 11:32" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -123,14 +98,6 @@
       <contact>For further information: FDFA Communication Tel. Press service +41 460 55 55 kommunikation@eda.admin.ch</contact>
       <revisions> </revisions>
     </content>
-    <keywords>
-      <keyword id="101" org-id="603">
-        <name lang="de">Budget</name>
-        <name lang="fr">Budget</name>
-        <name lang="it">Consuntivo</name>
-        <name lang="en">Budget</name>
-      </keyword>
-    </keywords>
     <topics>
       <topic id="39">
         <name lang="de">Schweiz und Ausland</name>
