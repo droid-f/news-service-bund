@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98455" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2023-11-03</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="804" lead="yes" topnews="no">
@@ -18,21 +18,6 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="808" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Energie</name>
-      <name lang="fr">Office fédéral de l'énergie</name>
-      <name lang="it">Ufficio federale dell'energia</name>
-      <name lang="en">Swiss Federal Office of Energy</name>
-      <www lang="de">http://www.bfe.admin.ch</www>
-      <www lang="fr">http://www.bfe.admin.ch</www>
-      <www lang="it">http://www.bfe.admin.ch</www>
-      <www lang="en">http://www.bfe.admin.ch</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
     </originator>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
@@ -52,14 +37,16 @@
       <city>Bern</city>
       <title>Bundesrat Albert Rösti traf in Paris Agnès Pannier-Runacher, die französische Ministerin für die Energiewende</title>
       <lead>Am Freitag, dem 3. November 2023, hat sich Bundesrat Albert Rösti in Paris mit der französischen Ministerin für die Energiewende, Agnès Pannier-Runacher, zu einem Austausch getroffen. Gesprächsthemen waren die Energieversorgung und insbesondere die Stromimporte und der Gasbereich. Zusätzlich wurden auch bilaterale Fragen besprochen, so etwa die Bewirtschaftung des Doubs.</lead>
-      <text link="no">&lt;p&gt;Der Vorsteher des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK), Albert Rösti, erinnerte beim Treffen daran, dass die Schweiz und Frankreich im Gassektor eng miteinander verflochten seien. So würden beispielsweise einige französische Grenzregionen von der Schweiz versorgt. Die Gaslieferungen aus Frankreich seien für die Energieversorgung der Schweiz von entscheidender Bedeutung. Ausserdem würden diese über die Schweiz auch nach Deutschland und Italien gelangen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Energiemärkte&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Weiter erinnerte Bundesrat Rösti daran, dass die Schweiz gewillt ist, mit ihren Nachbarländern im Energiebereich enge Beziehungen zu pflegen, insbesondere auch, solange es kein Stromabkommen mit der EU gibt. Die Schweiz ist eng in das europäische Stromnetz eingebunden und trägt mit ihren Wasserkraftwerken zu dessen Stabilität und Flexibilität bei.&lt;/p&gt;&lt;p&gt;Die französische Ministerin Agnès Pannier-Runacher hat bestätigt, dass die Notwendigkeit einer Beibehaltung der engen Verflechtung des Stromhandels zwischen der Schweiz und den EU-Ländern notwendig und unbestritten ist. So soll die Schweiz insbesondere keine Kapazitätseinschränkungen im grenzüberschreitenden Handel erfahren (70%-Regel). Die Ministerin zeigte sich erfreut, dass sich die Schweiz zum europäischen Strommarkt bekennt.&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Der Vorsteher des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK), Albert Rösti, erinnerte beim Treffen daran, dass die Schweiz und Frankreich im Gassektor eng miteinander verflochten seien. So würden beispielsweise einige französische Grenzregionen von der Schweiz versorgt. Die Gaslieferungen aus Frankreich seien für die Energieversorgung der Schweiz von entscheidender Bedeutung. Ausserdem würden diese über die Schweiz auch nach Deutschland und Italien gelangen.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Energiemärkte&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Weiter erinnerte Bundesrat Rösti daran, dass die Schweiz gewillt ist, mit ihren Nachbarländern im Energiebereich enge Beziehungen zu pflegen, insbesondere auch, solange es kein Stromabkommen mit der EU gibt. Die Schweiz ist eng in das europäische Stromnetz eingebunden und trägt mit ihren Wasserkraftwerken zu dessen Stabilität und Flexibilität bei.&lt;/p&gt;&lt;p&gt;Die französische Ministerin Agnès Pannier-Runacher hat die unbestrittene Notwendigkeit einer Beibehaltung der engen Verflechtung des Stromhandels zwischen der Schweiz und den EU-Ländern bestätigt. So soll die Schweiz insbesondere keine Kapazitätseinschränkungen im grenzüberschreitenden Handel erfahren (70%-Regel). Die Ministerin zeigte sich erfreut, dass sich die Schweiz zum europäischen Strommarkt bekennt.&lt;/p&gt;</text>
       <contact>Kommunikation UVEK, Emanuela Tonasso, emanuela.tonasso@gs-uvek.admin.ch, 058 481 80 68</contact>
-      <link id="264990">
+      <link id="265009">
         <title>Dossier UVEK</title>
         <uri>https://www.uvek.admin.ch/uvek/de/home/uvek/bundesrat-albert-roesti/anlaesse/london-paris-2023.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2023-11-04 02:10" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -67,7 +54,7 @@
       <lead>Le conseiller fédéral Albert Rösti a rencontré la ministre française de la transition énergétique Agnès Pannier-Runacher vendredi 3 novembre 2023 à Paris. Les discussions ont porté sur l’approvisionnement énergétique et en particulier sur le gaz. D’autres questions bilatérales ont été abordées, comme l’exploitation du Doubs.</lead>
       <text link="no">&lt;p&gt;Le chef du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) Albert Rösti a profité de l’occasion pour rappeler que la France et la Suisse sont étroitement liées dans le domaine du gaz. Certaines régions frontalières françaises sont par exemple approvisionnées par la Suisse. Les livraisons de gaz de France sont essentielles pour l’approvisionnement helvétique. Acheminées à travers la Suisse, elles desservent aussi l’Allemagne et l’Italie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Marchés énergétiques&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Le conseiller fédéral Albert Rösti a profité de la rencontre pour rappeler que la Suisse tient à entretenir des relations étroites avec les pays voisins en matière d’énergie, dans l’attente d’un accord sur l’électricité avec l’Union européenne (UE). La Suisse est très intégrée au réseau électrique européen, offrant stabilité et flexibilité grâce à ses centrales hydrauliques.&lt;/p&gt;&lt;p&gt;La ministre française Agnès Pannier-Runacher a confirmé la nécessité incontestée de maintenir les liens étroits entre la Suisse et les pays de l'UE dans le domaine des échanges d'électricité. La Suisse ne doit en particulier pas subir de restrictions de capacité dans les échanges transfrontaliers (règle des 70%). La ministre s’est félicitée de l’intérêt manifesté par la Suisse d’être partie prenante au marché européen de l’électricité. &lt;/p&gt;</text>
       <contact>Communication DETEC, tél. +41 58 462 55 11</contact>
-      <link id="264991">
+      <link id="265010">
         <title>Dossier DETEC</title>
         <uri>https://www.uvek.admin.ch/uvek/fr/home/uvek/bundesrat-albert-roesti/anlaesse/london-paris-2023.html</uri>
         <position>Context</position>
@@ -80,7 +67,7 @@
       <lead>Venerdì 3 novembre 2023 il consigliere federale Albert Rösti ha incontrato a Parigi la ministra francese per la transizione energetica. Le discussioni erano incentrate sull'approvvigionaemento energetico, in particolare quello del gas. Sono inoltre state affrontate alcune questioni bilaterali, quali ad esempio la gestione delle acque del Doubs.</lead>
       <text link="no">&lt;p&gt;Il capo del Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni (DATEC) Albert Rösti ha colto l’occasione per ricordare che la Francia e la Svizzera intrattengono relazioni strette nel settore del gas. La Svizzera, ad esempio, rifornisce di gas alcune regioni frontaliere francesi. Le forniture di gas dalla Francia, dal canto loro, sono essenziali per l'approvvigionamento in Svizzera. La Francia rifornisce Germania e Italia, passando attraverso la Svizzera.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mercati energetici&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Il consigliere federale Albert Rösti ha approfittato dell'incontro per ricordare che la Svizzera si impegna a favore di relazioni strette con i Paesi limitrofi in campo energetico, nell’attesa di un accordo sull'elettricità con l'Unione europea. La Svizzera è ben integrata nella rete elettrica europea ed è garante di stabilità e flessibilità grazie alle sue centrali idroelettriche.&lt;/p&gt;&lt;p&gt;La ministra francese Agnès Pannier-Runacher ha confermato l’indiscutibile necessità di mantenere la stretta integrazione del commercio di elettricità tra la Svizzera e i Paesi dell'UE. In particolare, la Svizzera non deve subire alcuna restrizione di capacità nel commercio transfrontaliero (regola del 70%). La ministra ha accolto con favore l'interesse della Svizzera a partecipare al mercato elettrico europeo.&lt;/p&gt;</text>
       <contact>Servizio stampa DATEC, Emanuela Tonasso, emanuela.tonasso@gs-uvek.admin.ch, tel. 058 481 80 68</contact>
-      <link id="264992">
+      <link id="265011">
         <title>Dossier DATEC</title>
         <uri>https://www.uvek.admin.ch/uvek/it/home/uvek/bundesrat-albert-roesti/anlaesse/london-paris-2023.html</uri>
         <position>Context</position>
@@ -126,11 +113,29 @@
       </keyword>
     </keywords>
     <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
       <topic id="11">
         <name lang="de">Energie</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
         <name lang="en">Energy</name>
+      </topic>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
