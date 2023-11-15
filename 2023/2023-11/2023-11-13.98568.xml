@@ -34,6 +34,21 @@
       <email lang="it">info@blv.admin.ch</email>
       <email lang="en">info@blv.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="705" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="811" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Bundesamt für Umwelt BAFU</name>
@@ -62,6 +77,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
