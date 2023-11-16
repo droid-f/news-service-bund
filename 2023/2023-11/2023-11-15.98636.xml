@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98636" revoked="no">
-    <version>1</version>
+    <version>3</version>
     <pubdate>2023-11-15</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="201" lead="no" topnews="no">
-      <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </originator>
     <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -49,6 +49,21 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="501" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -64,20 +79,20 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="701" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+    <originator department-msg="no" id="801" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -93,19 +108,19 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="201">
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
-      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
-      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
-      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -121,6 +136,20 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
@@ -135,37 +164,39 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
       <title>Schweiz und Frankreich bekräftigen und vertiefen Beziehungen bei Staatsbesuch von Präsident Emmanuel Macron</title>
       <lead>Der Bundesrat in corpore hat am Mittwoch, 15. November 2023, den französischen Präsidenten Emmanuel Macron und dessen Gattin Brigitte Macron zum Staatsbesuch empfangen. Nach den militärischen Ehren auf dem Bundesplatz folgten die offiziellen Ansprachen und Gespräche. Die Schweiz und Frankreich bekräftigten ihren Willen, die bilateralen Beziehungen weiterzuentwickeln und unterzeichneten zwei Absichtserklärungen. Zentrale Gesprächsthemen waren zudem die Europapolitik und die aktuelle internationale Lage. Der zweite Besuchstag ist der Zusammenarbeit in Forschung, Innovation und Bildung sowie gesamteuropäischen Herausforderungen gewidmet.</lead>
-      <text link="no">Neben Bundespräsident Alain Berset nahmen die Vizepräsidentin des Bundesrates Viola Amherd, die Bundesräte Guy Parmelin, Ignazio Cassis und Albert Rösti sowie Bundesrätin Elisabeth Baume-Schneider an den offiziellen Gesprächen im Bernerhof teil. Zur französischen Delegation zählten auch Aussenministerin Catherine Colonna, die Ministerin für Hochschulbildung und Forschung, Sylvie Retailleau, und Industrieminister Roland Lescure. &lt;br /&gt;&lt;br /&gt;Beide Seiten würdigten die tiefen Wurzeln der freundschaftlichen Beziehungen zwischen der Schweiz und Frankreich – verbrieft unter anderem durch den 1516 geschlossenen Ewigen Frieden und immer wieder erneuert durch enge Kontakte auf allen Ebenen. Gleichzeitig betonten die Delegationen die Notwendigkeit, wichtige bilaterale Dossiers voranzutreiben. Zur Sprache kamen etwa die laufenden Verhandlungen über die Regulierung des Genfersees und über den Doubs, sowie das Kooperationsabkommen zur Rhone, welches fertig verhandelt und bereit zur Unterschrift ist.&lt;br /&gt;&lt;br /&gt;Weitere Themen waren die Wirtschaftsbeziehungen, der Ausbau des öffentlichen Verkehrs im grenznahen Raum und die Zusammenarbeit bei der Energieversorgung. Unterzeichnet wurden im Anschluss an die Gespräche Absichtserklärungen zum Austausch von Studierenden und zur Zusammenarbeit bei der Forschung über Gletscher und Pole (Kryosphäre). &lt;br /&gt;&lt;br /&gt;Mit Blick auf die Gefahr eines neuen globalen Blockdenkens und auf den russischen Angriffskrieg gegen die Ukraine tauschten sich die beiden Seiten aus über europäische Werte und Perspektiven. Die Delegation des Bundesrates würdigte das neue Format der Europäischen Politischen Gemeinschaft als Chance für mehr Dialog auf dem Kontinent. Ausserdem betonte die Schweizer Seite das Ziel, den bilateralen Weg mit der Europäischen Union (EU) zu konsolidieren und weiterzuentwickeln. Dies, nachdem der Bundesrat vergangene Woche beschlossen hatte, ein Mandat für Verhandlungen mit der EU vorzubereiten. &lt;br /&gt;&lt;br /&gt;Der Multilateralismus und die Zusammenarbeit zwischen der Schweiz und Frankreich auf internationaler Ebene waren ebenfalls zentrale Themen. Zur Sprache kamen neben dem russischen Angriffskrieg auch die Lage im Nahen Osten und die Arbeit des UNO-Sicherheitsrates, die Bedeutung des internationalen Genfs und die Wissenschaftsdiplomatie als Mittel, um den Multilateralismus zu stärken. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Zweiter Tag in Lausanne und Genf &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Am Donnerstag, 16. November, besuchen Bundespräsident Berset und Präsident Macron in Lausanne die Jean Monnet-Stiftung, wo die Archive des Wegbereiters der europäischen Einigung aufbewahrt werden. An der Universität Lausanne ist anschliessend eine Veranstaltung für Studierende geplant, an der die französischen Ideen zur Zukunft des Kontinents im Zentrum stehen werden. Im Sonderzugnach Genf ist ein Austausch mit Repräsentanten von Start-Up-Unternehmen angesetzt. Ebenfalls auf dem Programm steht ein Besuch bei der Europäischen Organisation für Kernforschung (CERN) in Genf, womit die hervorragende Zusammenarbeit zwischen der Schweiz und Frankreich im Bereich der Forschung unterstrichen wird. </text>
+      <text link="no">Neben Bundespräsident Alain Berset nahmen die Vizepräsidentin des Bundesrates Viola Amherd, die Bundesräte Guy Parmelin, Ignazio Cassis und Albert Rösti sowie Bundesrätin Elisabeth Baume-Schneider an den offiziellen Gesprächen im Bernerhof teil. Zur französischen Delegation zählten auch Aussenministerin Catherine Colonna, die Ministerin für Hochschulbildung und Forschung, Sylvie Retailleau, und Industrieminister Roland Lescure. &lt;br /&gt;&lt;br /&gt;Beide Seiten würdigten die tiefen Wurzeln der freundschaftlichen Beziehungen zwischen der Schweiz und Frankreich – verbrieft unter anderem durch den 1516 geschlossenen Ewigen Frieden und immer wieder erneuert durch enge Kontakte auf allen Ebenen. Gleichzeitig betonten die Delegationen die Notwendigkeit, wichtige bilaterale Dossiers voranzutreiben. Zur Sprache kamen etwa die laufenden Verhandlungen über die Regulierung des Genfersees und über den Doubs, sowie das Kooperationsabkommen zur Rhone, welches fertig verhandelt und bereit zur Unterschrift ist.&lt;br /&gt;&lt;br /&gt;Weitere Themen waren die Wirtschaftsbeziehungen, der Ausbau des öffentlichen Verkehrs im grenznahen Raum und die Zusammenarbeit bei der Energieversorgung. Unterzeichnet wurden im Anschluss an die Gespräche Absichtserklärungen zum Austausch von Studierenden und zur Zusammenarbeit bei der Forschung über Gletscher und Pole (Kryosphäre). &lt;br /&gt;&lt;br /&gt;Mit Blick auf die Gefahr eines neuen globalen Blockdenkens und auf den russischen Angriffskrieg gegen die Ukraine tauschten sich die beiden Seiten aus über europäische Werte und Perspektiven. Die Delegation des Bundesrates würdigte das neue Format der Europäischen Politischen Gemeinschaft als Chance für mehr Dialog auf dem Kontinent. Ausserdem betonte die Schweizer Seite das Ziel, den bilateralen Weg mit der Europäischen Union (EU) zu konsolidieren und weiterzuentwickeln. Dies, nachdem der Bundesrat vergangene Woche beschlossen hatte, ein Mandat für Verhandlungen mit der EU vorzubereiten. &lt;br /&gt;&lt;br /&gt;Der Multilateralismus und die Zusammenarbeit zwischen der Schweiz und Frankreich auf internationaler Ebene waren ebenfalls zentrale Themen. Zur Sprache kamen neben dem russischen Angriffskrieg auch die Lage im Nahen Osten und die Arbeit des UNO-Sicherheitsrates, die Bedeutung des internationalen Genfs und die Wissenschaftsdiplomatie als Mittel, um den Multilateralismus zu stärken. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Zweiter Tag in Lausanne und Genf &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Am Donnerstag, 16. November, besuchen Bundespräsident Berset und Präsident Macron in Lausanne die Jean Monnet-Stiftung, wo die Archive des Wegbereiters der europäischen Einigung aufbewahrt werden. An der Universität Lausanne ist anschliessend eine Veranstaltung für Studierende geplant, an der die französischen Ideen zur Zukunft des Kontinents im Zentrum stehen werden. Im Sonderzug nach Genf ist ein Austausch mit Repräsentanten von Start-Up-Unternehmen angesetzt. Ebenfalls auf dem Programm steht ein Besuch bei der Europäischen Organisation für Kernforschung (CERN) in Genf, womit die hervorragende Zusammenarbeit zwischen der Schweiz und Frankreich im Bereich der Forschung unterstrichen wird. </text>
       <contact>André Simonazzi, Bundesratssprecher, +41 (0)79 597 64 49 Kommunikation GS-EDI, Tel. +41 58 462 85 79, media@gs-edi.admin.ch</contact>
-      <link id="265745">
+      <link id="265778">
         <title>Bundesrat empfängt Frankreichs Präsidenten Macron zum Staatsbesuch</title>
         <uri>https://www.edi.admin.ch/edi/de/home/dokumentation/anlaesse/staatsbesuch_frankreich.html</uri>
         <position>Context</position>
       </link>
-      <link id="265750">
+      <link id="265782">
         <title>Bilaterale Beziehungen Schweiz–Frankreich</title>
         <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/frankreich/bilatereale-beziehungenschweizfrankreich.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2023-11-16 09:06" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -173,12 +204,12 @@
       <lead>Le Conseil fédéral in corpore a reçu mercredi 15 novembre 2023 le président français, Emmanuel Macron, et son épouse, Brigitte Macron, dans le cadre d’une visite d’État. Les discours et les entretiens officiels ont débuté après que les honneurs militaires ont été rendus sur la Place fédérale. La Suisse et la France ont réaffirmé leur volonté de développer leurs relations bilatérales et ont signé deux déclarations d’intention. La politique européenne et la situation internationale ont également été au cœur des discussions. Le deuxième jour de la visite sera consacré à la coopération en matière de recherche, d’innovation et d’éducation ainsi qu’aux défis paneuropéens.</lead>
       <text link="no">Outre le président de la Confédération, Alain Berset, la vice-présidente du Conseil fédéral, Viola Amherd, les conseillers fédéraux Guy Parmelin, Ignazio Cassis et Albert Rösti ainsi que la conseillère fédérale Elisabeth Baume-Schneider ont participé aux entretiens officiels au Bernerhof. Quant à la délégation française, elle était également constituée de la ministre des Affaires étrangères, Catherine Colonna, de la ministre de l’Enseignement supérieur et de la Recherche, Sylvie Retailleau, et du ministre de l’Industrie, Roland Lescure.&lt;br /&gt;&lt;br /&gt;Les deux parties ont rappelé les racines profondes des relations d’amitié qui unissent la Suisse et la France, dont atteste entre autres la signature de la Paix perpétuelle en 1516 et que ne cessent de renouveler des contacts étroits à tous les niveaux. Les délégations ont dans le même temps souligné la nécessité de faire avancer d’importants dossiers bilatéraux. Ont ainsi été évoquées les négociations en cours sur la régularisation du lac Léman et sur le Doubs, de même que l’accord de coopération concernant le Rhône, désormais prêt à être signé.&lt;br /&gt;&lt;br /&gt;Autres sujets abordés : les relations économiques, le développement des transports publics dans la zone frontalière et la coopération en matière d’approvisionnement énergétique. Des déclarations d’intention concernant l’échange d’étudiants et la coopération en matière de recherche sur les glaciers et les pôles (cryosphère) ont été signées à l’issue des entretiens.&lt;br /&gt;&lt;br /&gt;Face au risque d’une nouvelle logique des blocs et en réponse à la guerre d’agression de la Russie contre l’Ukraine, les deux parties se sont entretenues sur les valeurs et les perspectives européennes. La délégation du Conseil fédéral a déclaré voir dans cette nouvelle structure qu’est la Communauté politique européenne une chance d’intensifier le dialogue sur le continent. Elle a en outre souligné l’objectif de consolider et de développer la voie bilatérale avec l’Union européenne, ceci après que le Conseil fédéral a décidé la semaine dernière de préparer un mandat de négociation avec cette dernière.&lt;br /&gt;&lt;br /&gt;Le multilatéralisme et la coopération entre la Suisse et la France au niveau international ont également été des thèmes centraux. Outre la guerre d’agression russe, la situation au Proche-Orient et le travail du Conseil de sécurité de l’ONU, l’importance de la Genève internationale et la diplomatie scientifique comme moyen de renforcer le multilatéralisme ont été discutés.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;À Lausanne et à Genève le deuxième jour&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Jeudi 16 novembre, le président de la Confédération Alain Berset et le président français Emmanuel Macron se rendront à Lausanne à la Fondation Jean Monnet, où sont conservées les archives du précurseur de l’unification européenne. S’ensuivra une rencontre avec des étudiants à l’Université de Lausanne, qui portera surtout sur les idées de la France quant à l’avenir de l’Europe. Un échange avec des représentants de start-up est ensuite prévu dans un train spécial pour Genève. Une visite de l’Organisation européenne pour la recherche nucléaire (CERN) à Genève sera aussi au programme, pour souligner l’excellente coopération entre la Suisse et la France dans le domaine de la recherche.</text>
       <contact>André Simonazzi, porte-parole du Conseil fédéral, +41 (0)79 597 64 49 Communication SG-DFI, tél. +41 58 462 85 79, media@gs-edi.admin.ch</contact>
-      <link id="265747">
+      <link id="265779">
         <title>Le Conseil fédéral reçoit le président français, Emmanuel Macron, pour une visite d’État</title>
         <uri>https://www.edi.admin.ch/edi/fr/home/documentation/manifestations/staatsbesuch_frankreich.html</uri>
         <position>Context</position>
       </link>
-      <link id="265751">
+      <link id="265783">
         <title>Relations bilatérales Suisse–France</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-pour-les-voyages/france/suisse-france.html</uri>
         <position>Context</position>
@@ -191,12 +222,12 @@
       <lead>Mercoledì 15 novembre 2023 il Consiglio federale in corpore ha accolto il presidente francese Emmanuel Macron e la consorte Brigitte Macron giunti in Svizzera per una visita di Stato. Agli onori militari in Piazza federale hanno fatto seguito i discorsi e i colloqui ufficiali. La Svizzera e la Francia hanno ribadito la volontà di sviluppare ulteriormente le loro relazioni bilaterali e hanno firmato due dichiarazioni d’intenti. Al centro delle discussioni sono inoltre stati posti la politica europea e l’attuale situazione internazionale. La seconda giornata della visita è dedicata alla cooperazione nei campi della ricerca, dell’innovazione e della formazione nonché alle sfide paneuropee.</lead>
       <text link="no">Oltre al presidente della confederazione Alain Berset, ai colloqui ufficiali al Bernerhof hanno partecipato la vicepresidente del Consiglio federale Viola Amherd e i consiglieri federali Guy Parmelin, Ignazio Cassis, Albert Rösti e Elisabeth Baume-Schneider. La delegazione francese comprendeva anche la ministra degli esteri Catherine Colonna, la ministra dell’istruzione superiore e della ricerca Sylvie Retailleau e il ministro dell’industria Roland Lescure. &lt;br /&gt;&lt;br /&gt;Entrambe le parti hanno ricordato le profonde radici delle relazioni amichevoli tra Svizzera e Francia, consacrate tra l’altro nella Pace perpetua sottoscritta nel 1516 e continuamente rinnovate da stretti contatti a tutti i livelli. Contemporaneamente le delegazioni hanno evidenziato la necessità di portare avanti gli importanti dossier bilaterali. Sono per esempio state citate le trattative in corso sulla regolazione delle acque del Lago Lemano e sul fiume Doubs come anche l’accordo di cooperazione relativo al Rodano, le cui trattative sono già concluse e che è pronto per essere firmato. &lt;br /&gt;&lt;br /&gt;Ulteriori temi trattati sono stati le relazioni economiche, il potenziamento dei mezzi di trasporto pubblici nelle regioni di confine e la collaborazione nell’approvvigionamento energetico. A conclusione dei colloqui sono state firmate delle dichiarazioni d’intenti sullo scambio di studenti e sulla collaborazione nella ricerca sui ghiacciai e i poli (criosfera). &lt;br /&gt;&lt;br /&gt;Nell’ottica del pericolo di una rinascita a livello globale della logica dei blocchi e sulla scia della guerra d’aggressione russa contro l’Ucraina, le due parti hanno parlato di valori europei e di prospettive. La delegazione del Consiglio federale ha accolto favorevolmente il nuovo formato della Comunità politica europea quale opportunità per incrementare il dialogo nel continente. Inoltre la Svizzera ha ribadito il suo obiettivo di consolidare e sviluppare ulteriormente la via bilaterale con l’Unione europea (UE), dopo che la scorsa settimana il Consiglio federale aveva deciso di preparare un mandato pertinente per negoziati con l’UE. &lt;br /&gt;&lt;br /&gt;Il multilateralismo e la collaborazione tra la Svizzera e la Francia a livello internazionale sono stati un ulteriore tema centrale dei colloqui. Oltre alla guerra d’aggressione russa le delegazioni hanno discusso della situazione in Vicino Oriente, dell’attività del Consiglio di sicurezza dell’ONU, dell’importanza della Ginevra internazionale e della diplomazia scientifica quale mezzo per rafforzare il multilateralismo. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Seconda giornata a Losanna e Ginevra &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Giovedì 16 novembre il presidente della Confederazione Alain Berset e il presidente francese Macron visitano a Losanna la fondazione Jean Monnet, che custodisce gli archivi del pioniere dell’unità europea. Presso l’Università di Losanna si terrà poi un evento per gli studenti, focalizzato sulle idee francesi per il futuro del continente. Sul treno speciale in direzione di Ginevra il programma prevede uno scambio di opinioni con dei rappresentanti di imprese start-up. È anche prevista una visita all’Organizzazione europea per la ricerca nucleare (CERN) a Ginevra, che sottolinea l’eccellente cooperazione tra la Svizzera e la Francia nel settore della ricerca. </text>
       <contact>André Simonazzi, portavoce del Consiglio federale, +41 (0)79 597 64 49 Comunicazione SG-DFAE, tel. +41 58 462 85 79, media@gs-edi.admin.ch</contact>
-      <link id="265748">
+      <link id="265780">
         <title>Il Consiglio federale riceve il presidente francese Macron per una visita di Stato</title>
         <uri>https://www.edi.admin.ch/edi/it/home/dokumentation/manifestazioni/staatsbesuch_frankreich.html</uri>
         <position>Context</position>
       </link>
-      <link id="265752">
+      <link id="265784">
         <title>Relazioni bilaterali Svizzera–Francia</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/francia/svizzera-francia.html</uri>
         <position>Context</position>
@@ -209,12 +240,12 @@
       <lead>On 15 November, the entire Federal Council welcomed the French president, Emmanuel Macron, and his wife, Brigitte Macron, on a state visit. The military honours on the Bundesplatz were followed by official speeches and talks. Switzerland and France reaffirmed their commitment to deepen bilateral relations and signed two memorandums of understanding. European policy and the current international situation were also key topics of the talks. The second day of the visit will be dedicated to cooperation in the areas of research, innovation and education, and to pan-European challenges. </lead>
       <text link="no">The official talks at the Bernerhof were attended by President Alain Berset, Vice President Viola Amherd and Federal Councillors Guy Parmelin, Ignazio Cassis, Albert Rösti and Elisabeth Baume-Schneider. The French delegation included Minister for Europe and Foreign Affairs Catherine Colonna, Minister of Higher Education and Research Sylvie Retailleau and Minister for Industry Roland Lescure.&lt;br /&gt;&lt;br /&gt;Both sides recognised the deep-rooted friendly relations between Switzerland and France, which were enshrined, among other things, in the Treaty of Perpetual Peace signed in 1516 and are repeatedly renewed through close contacts at all levels. At the same time, the delegations emphasised the need to press ahead with important bilateral topics. They discussed the ongoing negotiations on the regularisation of Lake Geneva and the River Doubs, as well as the cooperation agreement on the Rhone, which has been finalised and is ready to be signed.&lt;br /&gt;&lt;br /&gt;Other topics included economic relations, the expansion of public transport in the border region and the cooperation on energy supply. Following the talks, memorandums of understanding were signed on the exchange of students and cooperation in glacier and cryosphere research.&lt;br /&gt;In view of the threat of a new global bloc mentality and the Russian war of aggression against Ukraine, the two sides exchanged views on European values and perspectives. The Federal Council delegation welcomed the new European Political Community forum as an opportunity for more dialogue on the continent. The Swiss side also emphasised the goal of developing and consolidating the bilateral path with the European Union (EU). This follows the Federal Council’s decision last week to prepare a mandate for negotiations with the EU. &lt;br /&gt;&lt;br /&gt;Multilateralism and cooperation between Switzerland and France at international level were also key topics. In addition to the Russian war of aggression, the situation in the Middle East and the work of the UN Security Council, the importance of International Geneva and scientific diplomacy as a means of strengthening multilateralism were also discussed.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Second day in Lausanne and Geneva&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;On Thursday, 16 November, President Berset and President Macron will visit the Jean Monnet Foundation in Lausanne, which houses the archives of the pioneer of European unification. Afterwards, an event for students is planned at the University of Lausanne, which will focus on French ideas for the future of the continent. An exchange with representatives of start-up companies is scheduled on a special charter train to Geneva. A visit to the European Organization for Nuclear Research (CERN) in Geneva is also on the agenda, underlining the excellent cooperation between Switzerland and France in the field of research.</text>
       <contact>André Simonazzi, Federal Council Spokesperson +41 79 597 64 49 GS FDHA Communications, +41 58 462 85 79 media@gs-edi.admin.ch</contact>
-      <link id="265749">
+      <link id="265781">
         <title>Federal Council to welcome France’s President Emmanuel Macron on state visit</title>
         <uri>https://www.edi.admin.ch/edi/en/home/dokumentation/anlaesse/staatsbesuch_frankreich.html</uri>
         <position>Context</position>
       </link>
-      <link id="265753">
+      <link id="265785">
         <title>Bilateral relations Switzerland–France</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/france/switzerland-france.html</uri>
         <position>Context</position>
@@ -248,11 +279,23 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
