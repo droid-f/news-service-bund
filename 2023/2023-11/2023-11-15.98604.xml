@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98604" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2023-11-15</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,59 +63,73 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Anpassungen der Verordnungen zur Fernmeldeüberwachung an die Entwicklung der Telekommunikationstechnologie</title>
       <lead>Drei Ausführungserlasse des Bundesgesetzes über die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) werden an technologische Entwicklungen, unter anderem die 5G-Technologie, angepasst. Die entsprechenden Verordnungen treten per 1. Januar 2024 in Kraft. Ziel ist, Lücken in der Fernmeldeüberwachung zu vermeiden, präzisere Positionsbestimmungen zu ermöglichen und weiterhin eine wirksame Strafverfolgung zu gewährleisten.</lead>
       <text link="no"> &lt;p&gt;Der rasante Fortschritt der Telekommunikationstechnologie erfordert die Überarbeitung der Ausführungserlasse des BÜPF. Vor allem die 5G-Technologie verlangt nach zusätzlichen Auskunfts- und Überwachungstypen, um Überwachungslücken zu verhindern. Dies bedarf Anpassungen in der Verordnung über die Überwachung des Post- und Fernmeldeverkehrs (VÜPF), in der Verordnung über das Verarbeitungssystem für die Überwachung des Post- und Fernmeldeverkehrs (VVS-ÜPF) sowie in der Verordnung des EJPD über die Durchführung der Überwachung des Post- und Fernmeldeverkehrs (VD-ÜPF). Der Bundesrat hat am 15. November 2023 die Teilrevisionen der VÜPF und der VVS-ÜPF verabschiedet und die Inkraftsetzung auf den 1. Januar 2024 festgelegt. Das Eidgenössische Justiz- und Polizeidepartement (EJPD) setzt die revidierte VD-ÜPF ebenfalls auf den 1. Januar 2024 in Kraft.&lt;/p&gt; &lt;h3&gt;Neue Auskunfts- und Überwachungstypen&lt;/h3&gt; &lt;p&gt;In der VÜPF werden drei Auskunfts- und vier Überwachungstypen neu eingeführt. Zwei neue Auskunftstypen dienen zur Abfrage von Identifikatoren der 5G-Technologie, einer davon in Echtzeit. Ein weiterer Auskunftstyp beseitigt spezifische Identifikationsprobleme bei gefälschter (Spoofing) oder unbekannter Telefonnummer des Anrufers oder Absenders. Im Anwendungsfall erlaubt dies zum Beispiel, Anrufe bei anonymen Bombendrohungen nachverfolgen zu können.&lt;/p&gt; &lt;p&gt;Weiter werden vier neue Überwachungstypen zur präziseren Positionsbestimmung im Mobilfunk bei Notsuchen oder Echtzeitüberwachungen geschaffen. Denn bei Notsuchen müssen die an Leib und Leben bedrohten Personen schnellstmöglich lokalisiert und gefunden werden können.&lt;/p&gt; &lt;h3&gt;Regelung der Zugriffe auf Daten im Verarbeitungssystem&lt;/h3&gt; &lt;p&gt;In der VVS-ÜPF werden die Zugriffe auf Daten im Verarbeitungssystem und die Aufbewahrungsdauer der Protokolle über die Datenvernichtung neu geregelt. Diese Protokolle müssen zwei Jahre aufbewahrt werden.&lt;/p&gt; &lt;h3&gt;Kürzere Bearbeitungsfristen&lt;/h3&gt; &lt;p&gt;Um dem dringenden Bedürfnis der Strafverfolgungsbehörden nach kürzeren Fristen bei der Erteilung von Auskünften nachzukommen, sind einige Bearbeitungsfristen der VD-ÜPF im Sinne der Strafverfolgungsbehörden angepasst worden. Beispielsweise gilt für manuell erteilte Auskünfte in der Regel eine Bearbeitungsfrist von einem Arbeitstag. In der Praxis wurde diese Frist von den Behörden als zu lang erachtet, wenn sie dringende Anfragen zur Identifikation der Täterschaft an Wochenenden oder Feiertagen stellen. Diese Frist wird daher für die pikettpflichtigen Anbieterinnen auf 6 Stunden verkürzt. Auch die zwei technischen Anhänge wurden aktualisiert, um der technologischen Entwicklung Rechnung zu tragen.&lt;/p&gt; &lt;h3&gt;Berücksichtigung der Ergebnisse aus der Vernehmlassung&lt;/h3&gt; &lt;p&gt;Aufgrund der Rückmeldungen in der Vernehmlassung hat der Bundesrat die Vorlage angepasst. Die geplante Verpflichtung der Anbieterinnen abgeleiteter Kommunikationsdienste (AAKD), bei angeordneten Überwachungen ihre selbst angebrachten Verschlüsselungen zu entfernen, setzt der Bundesrat vorläufig nicht um. Zudem erhalten die Mitwirkungspflichtigen (MWP) für die Umsetzung der meisten Änderungen 24 Monate Zeit. Ursprünglich waren zwischen 12 und 18 Monaten vorgesehen.&lt;/p&gt; &lt;p&gt;Das vorliegende Revisionspaket ist unerlässlich, um trotz der schnellen technologischen Entwicklung im Fernmeldebereich Lücken in der Fernmeldeüberwachung zu vermeiden, präzisere Positionsbestimmungen zu ermöglichen und weiterhin eine wirksame Strafverfolgung gewährleisten zu können.&lt;/p&gt; </text>
       <contact>Jean-Louis Biberstein (Leiter Recht &amp; Controlling, Stv. Leiter Dienst ÜPF), Dienst Überwachung Post- und Fernmeldeverkehr, T +41 58 462 26 27, jean-louis.biberstein@isc-ejpd.admin.ch</contact>
-      <attachment id="265676">
+      <attachment id="266383">
         <title>Vernehmlassungsergebnisse</title>
         <format>pdf</format>
         <size-kb>465</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84132.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265679">
+      <attachment id="266386">
         <title>VÜPF</title>
         <format>pdf</format>
         <size-kb>338</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84135.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265682">
+      <attachment id="266389">
         <title>VD-ÜPF</title>
         <format>pdf</format>
         <size-kb>116</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84138.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265685">
+      <attachment id="266392">
         <title>Annex 1 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>5750</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84141.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265686">
+      <attachment id="266393">
         <title>Annex 2 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>1352</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84142.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265687">
+      <attachment id="266394">
         <title>VVS-ÜPF</title>
         <format>pdf</format>
         <size-kb>139</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84143.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265690">
+      <attachment id="266397">
         <title>Erläuterungen</title>
         <format>pdf</format>
-        <size-kb>860</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84146.pdf</uri>
+        <size-kb>877</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84374.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
@@ -140,53 +140,53 @@
       <lead>Trois ordonnances d’exécution de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LSCPT) sont modifiées pour répondre à l’évolution technologique, et notamment à l’arrivée de la 5G. Elles entreront en vigueur le 1er janvier 2024. L’objectif est d’éviter des lacunes dans la surveillance des télécommunications, de permettre une détermination plus précise de la position et de continuer de garantir l’efficacité de la poursuite pénale.</lead>
       <text link="no"> &lt;p&gt;Les progrès rapides des technologies de télécommunication nécessitent la révision des ordonnances d'exécution de la LSCPT. La technologie 5G, en particulier, impose de définir de nouveaux types de renseignements et de surveillances pour éviter l'apparition de lacunes dans les mesures de surveillance. Des adaptations doivent donc être apportées dans l'ordonnance sur la surveillance de la correspondance par poste et télécommunication (OSCPT), dans l'ordonnance sur le système de traitement pour la surveillance de la correspondance par poste et télécommunication (OST-SCPT) et dans l'ordonnance du DFJP sur la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (OME-SCPT). Le Conseil fédéral a adopté les révisions partielles de l'OSCPT et de l'OST-SCPT le 15 novembre 2023, fixant leur entrée en vigueur au 1er janvier 2024. Le Département fédéral de justice et police (DFJP) a décidé de l'entrée en vigueur à la même date de l'OME-SCPT. &lt;/p&gt; &lt;h3&gt;Nouveaux types de renseignements et de surveillances&lt;/h3&gt; &lt;p&gt;Trois nouveaux types de renseignements et quatre nouveaux types de surveillances sont introduits dans l'OSCPT. Pour les renseignements, deux des nouveaux types servent à obtenir des identifiants de la 5G, pour l'un d'eux, en temps réel. Le troisième type de renseignements nouvellement créé élimine des problèmes spécifiques d'identification dans les cas où le numéro de l'appelant ou de l'émetteur est usurpé (&lt;i&gt;spoofing&lt;/i&gt;) ou inconnu. Cette technique permet par exemple de retracer un appel anonyme d'alerte à la bombe. &lt;/p&gt; &lt;p&gt;Pour les surveillances, les nouveaux types permettront une détermination plus précise de la position dans la téléphonie mobile pour des surveillances en temps réel ou des recherches en cas d'urgence lorsque chaque minute compte pour retrouver des personnes dont la vie ou l'intégrité physique est en danger. &lt;/p&gt; &lt;h3&gt;Réglementation de l'accès aux données dans le système de traitement&lt;/h3&gt; &lt;p&gt;Dans l'OST-SCPT, la révision concerne l'accès aux données enregistrées dans le système de traitement et la durée de conservation des fichiers de journalisation de la destruction de données, qui doivent désormais être conservés pendant deux ans. &lt;/p&gt; &lt;h3&gt;Délais de traitement plus courts&lt;/h3&gt; &lt;p&gt;Certains délais de traitement fixés dans l'OME-SCPT ont été raccourcis pour répondre aux demandes pressantes des autorités de poursuite pénale, qui souhaitent plus de rapidité dans la fourniture des renseignements. Les renseignements fournis manuellement, par exemple, doivent en principe être fournis dans un délai d'un jour ouvré, ce que les autorités, dans la pratique, considèrent trop long pour des demandes urgentes visant à identifier un auteur faites le week-end ou un jour férié. Ce délai est ainsi ramené à six heures pour les fournisseurs qui sont tenus d'avoir un service de piquet. Les deux annexes techniques ont par ailleurs été mises à jour pour suivre l'évolution technologique. &lt;/p&gt; &lt;h3&gt;Prise en compte des résultats de la consultation&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral a remanié son projet pour tenir compte des avis exprimés lors de la consultation. Il renonce ainsi, pour l'instant, à obliger les fournisseurs de services de communication dérivés (FSCD) à supprimer les chiffrements qu'ils ont eux-mêmes opérés. Pour la plupart des modifications, le délai de mise en œuvre imparti aux personnes obligées de collaborer (POC) sera par ailleurs de 24 mois, plutôt que de 12 à 18 mois comme prévu à l'origine. &lt;/p&gt; &lt;p&gt;Avec l'évolution rapide de la technologie, ces modifications sont indispensables pour éviter des lacunes dans la surveillance des télécommunications, permettre une détermination plus précise de la position et continuer de garantir l'efficacité de la poursuite pénale. &lt;/p&gt; </text>
       <contact>Jean-Louis Biberstein (responsable Droit et contrôle de gestion, responsable suppléant du Service SCPT), Service Surveillance de la correspondance par poste et télécommunication, T +41 58 462 26 27, jean-louis.biberstein@isc-ejpd.admin.ch</contact>
-      <attachment id="265677">
+      <attachment id="266384">
         <title>Résultats de la procédure de consultation</title>
         <format>pdf</format>
         <size-kb>469</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84133.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265680">
+      <attachment id="266387">
         <title>OSCPT</title>
         <format>pdf</format>
         <size-kb>326</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84136.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265683">
+      <attachment id="266390">
         <title>OME-SCPT</title>
         <format>pdf</format>
         <size-kb>115</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84139.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265685">
+      <attachment id="266392">
         <title>Annex 1 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>5750</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84141.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265686">
+      <attachment id="266393">
         <title>Annex 2 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>1352</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84142.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265688">
+      <attachment id="266395">
         <title>OST-SCPT</title>
         <format>pdf</format>
         <size-kb>132</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84144.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265691">
+      <attachment id="266398">
         <title>Rapport explicatif</title>
         <format>pdf</format>
-        <size-kb>874</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84147.pdf</uri>
+        <size-kb>888</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84375.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
@@ -197,53 +197,53 @@
       <lead>Il Consiglio federale modifica tre ordinanze esecutive della legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT) per adeguarle ai progressi tecnologici e in particolare alla tecnologia 5G. Le nuove disposizioni entreranno in vigore il 1° gennaio 2024. La revisione intende evitare lacune nella sorveglianza del traffico delle telecomunicazioni, determinare con più precisione la posizione dei target e continuare ad assicurare un procedimento penale.</lead>
       <text link="no"> &lt;p&gt;La rapida evoluzione tecnologica delle telecomunicazioni e soprattutto l'avvento della tecnologia 5G impongono di rivedere le disposizioni esecutive della LSCPT e in particolare di introdurre nuovi tipi di informazione e sorveglianza per evitare lacune nelle intercettazioni. Concretamente occorre modificare l'ordinanza sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OSCPT), l'ordinanza sul sistema di trattamento per la sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OST-SCPT) e l'ordinanza del DFGP sull'esecuzione della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OE-SCPT). Il 15 novembre 2023 il Consiglio federale ha adottato la revisione parziale della OSCPT e della OST-SCPT fissandone l'entrata in vigore per il 1° gennaio 2024, data in cui entra in vigore anche la OE-SCPT secondo quanto stabilito dal Dipartimento federale di giustizia e polizia (DFGP).&lt;/p&gt; &lt;h3&gt;Nuovi tipi di informazione e sorveglianza&lt;/h3&gt; &lt;p&gt;La revisione introduce nella OSCPT tre nuovi tipi di informazione e quattro nuovi tipi di sorveglianza. Due dei nuovi tipi di informazione, uno dei quali in tempo reale, servono per ottenere gli identificativi della tecnologia 5G, mentre il terzo elimina problemi specifici di identificazione in caso di numeri di telefono falsificati (spoofing) o sconosciuti consentendo così di riuscire a rintracciare le chiamate in caso di minacce dinamitarde anonime.&lt;/p&gt; &lt;p&gt;Inoltre, in caso di ricerche d'emergenza o di sorveglianze in tempo reale, i quattro nuovi tipi di sorveglianza determinano in modo più preciso la posizione dei target nelle reti di telefonia mobile; nelle ricerche d'emergenza è infatti fondamentale localizzare e trovare il più rapidamente possibile la persona la cui vita e integrità fisica sono in pericolo. &lt;/p&gt; &lt;h3&gt;Disciplinamento degli accessi ai dati nel sistema di trattamento&lt;/h3&gt; &lt;p&gt;Sono riviste le disposizioni della OST-SCPT riguardanti l'accesso ai dati nel sistema di trattamento e la durata di conservazione dei verbali relativi alla distruzione dei dati che ora vanno conservati per due anni. &lt;/p&gt; &lt;h3&gt;Termini più brevi per il trattamento&lt;/h3&gt; &lt;p&gt;Per soddisfare l'urgente necessità delle autorità di perseguimento penale di ridurre i tempi di trasmissione delle informazioni, la OE-SCPT prevede ora in alcuni casi tempi di trattamento più brevi. Ad esempio per le informazioni fornite manualmente l'attuale termine di trattamento è, di regola, di un giorno lavorativo. Nella pratica questo lasso di tempo è troppo lungo per le autorità che inoltrano nel fine settimana o in giorni festivi richieste urgenti di informazioni sull'identità di un delinquente. Detto termine è dunque ridotto a sei ore per i fornitori di servizi di telecomunicazione tenuti ad assicurare un servizio di picchetto. Anche i due allegati tecnici sono stati aggiornati per tener conto dei progressi tecnologici.&lt;/p&gt; &lt;h3&gt;Risultati della consultazione&lt;/h3&gt; &lt;p&gt;Sulla base dei risultati della consultazione, il Consiglio federale ha adattato il progetto tralasciando, per il momento, il previsto obbligo dei fornitori di servizi di comunicazione derivati di rimuovere, in caso di mandati di sorveglianza, i criptaggi da loro applicati. Inoltre le persone obbligate a collaborare hanno ora a disposizione 24 mesi per implementare la maggior parte delle modifiche e non più 12 o 18 mesi a seconda dei casi.&lt;/p&gt; &lt;p&gt;Il presente pacchetto di revisione è indispensabile per tre motivi: evita lacune nella sorveglianza delle telecomunicazioni visti i rapidi progressi tecnologici in tale settore, permette di determinare con maggiore precisione la posizione dei target e continua ad assicurare un procedimento penale. &lt;/p&gt; </text>
       <contact>Jean-Louis Biberstein (responsabile Diritto e controlling, sost. responsabile del Servizio SCPT), Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, T +41 58 462 26 27, jean-louis.biberstein@isc-ejpd.admin.ch</contact>
-      <attachment id="265678">
+      <attachment id="266385">
         <title>Risultati della consultazione</title>
         <format>pdf</format>
         <size-kb>446</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84134.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265681">
+      <attachment id="266388">
         <title>OSCPT</title>
         <format>pdf</format>
         <size-kb>344</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84137.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265684">
+      <attachment id="266391">
         <title>OE-SCPT</title>
         <format>pdf</format>
         <size-kb>112</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84140.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265685">
+      <attachment id="266392">
         <title>Annex 1 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>5750</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84141.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265686">
+      <attachment id="266393">
         <title>Annex 2 to the VD-ÜPF / OME-SCPT / OE-SCPT</title>
         <format>pdf</format>
         <size-kb>1352</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84142.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265689">
+      <attachment id="266396">
         <title>OST-SCPT</title>
         <format>pdf</format>
         <size-kb>129</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84145.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="265692">
+      <attachment id="266399">
         <title>Rapporto esplicativo</title>
         <format>pdf</format>
-        <size-kb>1011</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84148.pdf</uri>
+        <size-kb>1035</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84376.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
