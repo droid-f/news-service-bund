@@ -49,6 +49,21 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="609" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
+      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">http://www.bit.admin.ch</www>
+      <www lang="fr">http://www.bit.admin.ch</www>
+      <www lang="it">http://www.bit.admin.ch</www>
+      <www lang="en">http://www.bit.admin.ch</www>
+      <email lang="de">info@bit.admin.ch</email>
+      <email lang="fr">info@bit.admin.ch</email>
+      <email lang="it">info@bit.admin.ch</email>
+      <email lang="en">info@bit.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -76,6 +91,20 @@
       <email lang="fr">Info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -263,11 +292,17 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="16" org-id="403">
-        <name lang="de">E-ID (elektronische Identifizierungsdienste)</name>
-        <name lang="fr">E-ID (services d’identification électronique)</name>
-        <name lang="it">Ie (servizi d’identificazione elettronica)</name>
-        <name lang="en">E-ID (electronic identification services)</name>
+      <keyword id="176" org-id="609">
+        <name lang="de">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
+        <name lang="it">E-Government</name>
+        <name lang="en">e-Government</name>
+      </keyword>
+      <keyword id="175" org-id="609">
+        <name lang="de">Informatik</name>
+        <name lang="fr">Informatique</name>
+        <name lang="it">Informatica</name>
+        <name lang="en">IT</name>
       </keyword>
     </keywords>
     <topics>
