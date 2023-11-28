@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="405" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Staatssekretariat für Migration</name>
-      <name lang="fr">Secrétariat d’Etat aux migrations</name>
-      <name lang="it">Segreteria di Stato della migrazione</name>
-      <name lang="en">State Secretariat for Migration</name>
-      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
-      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
-      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
-      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
-      <email lang="de">info@sem.admin.ch</email>
-      <email lang="fr">info@sem.admin.ch</email>
-      <email lang="it">info@sem.admin.ch</email>
-      <email lang="en">info@sem.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -48,6 +33,21 @@
       <email lang="fr">Info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="405" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -152,7 +152,7 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="156" org-id="401">
+      <keyword id="156" org-id="405">
         <name lang="de">Ukraine</name>
         <name lang="fr">Ukraine</name>
         <name lang="it">Ucraina</name>
