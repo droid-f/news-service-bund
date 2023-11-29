@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98732" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2023-11-22</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,26 +63,38 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bundesrat befürwortet zusätzliche Richterstellen am BVGer und am BStGer</title>
       <lead>Der Bundesrat befürwortet eine vorübergehende Erhöhung der Richterstellen am Bundesverwaltungsgericht (BVGer) sowie die Schaffung einer zusätzlichen Stelle für nebenamtliche Richterinnen und Richter am Bundesstrafgericht (BStGer). Diese Erhöhung soll einen vorübergehenden Engpass überbrücken sowie einer besseren Vertretung der Landessprachen dienen. Dies geht aus seinen Stellungnahmen zu zwei parlamentarischen Initiativen der Kommission für Rechtsfragen des Ständerates (RK-S) hervor, die er an seiner Sitzung vom 22. November 2023 verabschiedet hat. Er beantragt dem Parlament, die beiden Entwürfe der RK-S anzunehmen.</lead>
       <text link="no">&lt;p&gt; Die parlamentarische Initiative 23.449 fordert eine vorübergehende Aufstockung der Richterstellen am BVGer, das unter anderem Beschwerdeinstanz in Asylverfahren ist. Die Erhöhung von 65 auf 70 Vollzeitstellen soll bis zum 31. Dezember 2029 gelten. Danach werden altersbedingt zurücktretende Richterinnen und Richtern nicht mehr ersetzt, bis erneut noch 65 Vollzeitstellen besetzt sind. In seiner Stellungnahme hält der Bundesrat fest, dass die starke aktuelle und erwartete Zunahme der Beschwerden im Asylbereich die vorübergehende Erhöhung rechtfertigen. Mit der parlamentarischen Initiative 23.431 beantragt die RK-S zudem die Schaffung einer zusätzlichen Stelle für nebenamtliche Richterinnen und Richter am BStGer. Die neue Richterperson soll italienischer Muttersprache sein. Der Bundesrat ist auch mit dieser Änderung einverstanden. Die neue Stelle erhöht den Handlungsspielraum der Strafkammer in italienischsprachigen Fällen, insbesondere wenn die derzeit einzige ordentliche Richterin italienischer Muttersprache verhindert ist.&lt;/p&gt;</text>
       <contact>Medienstelle, Bundesamt für Justiz, T +41 58 462 48 48, media@bj.admin.ch</contact>
-      <attachment id="266063">
-        <title>Stellungnahme des Bundesrates (Richterstellen am Bundesstrafgericht)</title>
-        <format>pdf</format>
-        <size-kb>104</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84239.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="266065">
+      <attachment id="267241">
         <title>Stellungnahme des Bundesrates (Richterstellen am Bundesverwaltungsgericht)</title>
         <format>pdf</format>
         <size-kb>100</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84241.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="267243">
+        <title>Stellungnahme des Bundesrates (Richterstellen am Bundesstrafgericht) (BBl 2023 2686)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2686/de</uri>
+        <position>Context</position>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="fr">
@@ -105,20 +103,18 @@
       <lead>Le Conseil fédéral approuve une augmentation temporaire du nombre de postes de juge au Tribunal administratif fédéral (TAF) et la création d'un poste de juge suppléant au Tribunal pénal fédéral (TPF), comme il ressort des avis qu’il a émis sur deux initiatives parlementaires de la Commission des affaires juridiques du Conseil des États (CAJ-E) lors de sa séance du 22 novembre 2023. Ce renforcement des effectifs doit permettre dans un cas de faire face à une surcharge de travail temporaire et dans l’autre, d’assurer une meilleure représentation des langues nationales. Le Conseil fédéral propose au Parlement d’adopter les projets en question de la CAJ-E.</lead>
       <text link="no"> &lt;p&gt;L'initiative parlementaire 23.449 propose une augmentation temporaire du nombre de postes de juge du TAF, qui est notamment l'instance de recours pour les décisions en matière d'asile. Il s'agit de faire passer le nombre de postes de juge à plein temps de 65 à 70. Après le 31 décembre 2029, les juges quittant leurs fonctions pour des raisons d'âge ne seront pas remplacés jusqu'à ce que le nombre de postes de juge à plein temps s'élève à nouveau à 65. Dans son avis, le Conseil fédéral note que cette augmentation a pour but de faire face à la forte hausse, en cours et à venir, du nombre de recours dans le domaine de l'asile. &lt;/p&gt; &lt;p&gt; L'initiative parlementaire 23.431 propose quant à elle la création d'un nouveau poste de juge suppléant au TPF, lequel devra être de langue maternelle italienne. Le Conseil fédéral approuve cette modification également. Il souligne que la création d'un poste de juge suppléant accroîtra la marge de manœuvre de la Cour des affaires pénales pour les affaires jugées en italien, en particulier en cas d'empêchement de la seule juge ordinaire italophone. &lt;/p&gt;</text>
       <contact>Service d’information, Office fédéral de la justice, T +41 58 462 48 48, media@bj.admin.ch</contact>
-      <attachment id="266064">
-        <title>Avis du Conseil fédéral (postes de juge au Tribunal pénal fédéral)</title>
-        <format>pdf</format>
-        <size-kb>101</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84240.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="266066">
+      <attachment id="267242">
         <title>Avis du Conseil fédéral (postes de juge au Tribunal administratif fédéral)</title>
         <format>pdf</format>
         <size-kb>97</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84242.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="267244">
+        <title>Avis du Conseil fédéral (postes de juge au Tribunal pénal fédéral) (FF 2023 2686)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2686/fr</uri>
+        <position>Context</position>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="it">
@@ -127,34 +123,25 @@
       <lead>Il Consiglio federale è favorevole a un aumento provvisorio dei posti di giudice presso il Tribunale amministrativo federale (TAF) e alla creazione di un posto supplementare di giudice non di carriera al Tribunale penale federale (TPF). Questo aumento intende permettere di superare mancanze temporanee di personale nonché garantire una migliore rappresentanza delle lingue nazionali. È quanto emerge dal parere espresso dall’Esecutivo in merito a due iniziative parlamentari della Commissione degli affari giuridici del Consiglio degli Stati (CAG-S) adottate nella seduta del 22 novembre 2023. Il Consiglio federale propone al Parlamento di accogliere i due progetti della CAG-S.</lead>
       <text link="no">&lt;p&gt; L'iniziativa parlamentare 23.449 propone di aumentare provvisoriamente da 65 a 70 il numero dei posti di giudice a tempo pieno presso il TAF, che è, tra le altre cose, l'autorità di ricorso per le procedure d'asilo. Dopo il 31 dicembre 2029 i giudici uscenti per raggiunti limiti di età non saranno più sostituiti fintanto che il numero dei posti a tempo pieno non sarà ridotto a 65. Nel suo parere, il Consiglio federale ha affermato che la proposta di aumento è giustificata dal forte incremento, attuale e previsto, dei ricorsi nel settore dell'asilo. Con l'iniziativa parlamentare 23.431 la CAG-S propone di creare un posto supplementare di giudice non di carriera di lingua italiana presso il TPF. Il Consiglio federale appoggia anche questa modifica. Il nuovo posto aumenta il margine di manovra della Corte penale per i procedimenti in italiano, in particolare in caso di impedimento dell'unica giudice ordinaria di lingua italiana.&lt;/p&gt;</text>
       <contact>Servizio stampa, Ufficio federale di giustizia, T +41 58 462 48 48, media@bj.admin.ch</contact>
-      <attachment id="266063">
-        <title>Stellungnahme des Bundesrates (Richterstellen am Bundesstrafgericht)</title>
-        <format>pdf</format>
-        <size-kb>104</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84239.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="266064">
-        <title>Avis du Conseil fédéral (postes de juge au Tribunal pénal fédéral)</title>
-        <format>pdf</format>
-        <size-kb>101</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84240.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="266065">
+      <attachment id="267241">
         <title>Stellungnahme des Bundesrates (Richterstellen am Bundesverwaltungsgericht)</title>
         <format>pdf</format>
         <size-kb>100</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84241.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266066">
+      <attachment id="267242">
         <title>Avis du Conseil fédéral (postes de juge au Tribunal administratif fédéral)</title>
         <format>pdf</format>
         <size-kb>97</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84242.pdf</uri>
         <position>Context</position>
       </attachment>
+      <link id="267245">
+        <title>Parere del Consiglio federale (posti di giudice presso il Tribunale penale federale) (FF 2023 2686)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2686/it</uri>
+        <position>Context</position>
+      </link>
       <revisions> </revisions>
     </content>
     <keywords>
