@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98908" revoked="no">
-    <version>1</version>
+    <version>3</version>
     <pubdate>2023-11-29</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="413" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössische Spielbankenkommission</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@esbk.admin.ch</email>
       <email lang="it">info@esbk.admin.ch</email>
       <email lang="en">info@esbk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -81,58 +81,60 @@
       <city>Bern</city>
       <title>Bundesrat vergibt Spielbankenkonzessionen: Kontinuität in der Casinolandschaft</title>
       <lead>Der Bundesrat hat in seiner Sitzung vom 29. November 2023 die Spielbankenkonzessionen für die Jahre 2025 bis 2044 in 22 von 23 Zonen vergeben. In der grossen Mehrheit der Zonen dürfen die bisherigen Casinos ihren Betrieb fortsetzen. In Lausanne und Winterthur kommen ab 2025 zwei neue Spielbanken hinzu. Im Online-Bereich gibt es mehr Wettbewerb: Neu erhalten zwölf Spielbanken die Erlaubnis, Spielbankenspiele im Internet anzubieten. Weiter hat der Bundesrat den Auftrag für die Erstellung eines neuen Casinolandschaftsbericht erteilt. Gestützt auf diesen Bericht wird der Bundesrat 2028 die Gesamtsituation neu beurteilen und über das weitere Vorgehen, auch bezüglich der Konzession der Zone Schaffhausen, entscheiden.</lead>
-      <text link="no"> &lt;p&gt;Ende 2024 laufen die bisherigen Spielbankenkonzessionen aus. Um einen lückenlosen Weiterbetrieb zu gewährleisten, hatte der Bundesrat 2022 die Eidgenössische Spielbankenkommission (ESBK) mit dem Ausschreibungsverfahren zur Neuvergabe der Konzessionen beauftragt. Für die ausgeschriebenen 23 Zonen, in denen je eine Spielbankenkonzession vorgesehen ist, gingen bei der ESBK 29 Gesuche ein. Nach eingehender Prüfung schlug die ESBK dem Bundesrat 22 Gesuche zur Annahme vor, aufgeteilt in zehn Konzessionen des Typs A und zwölf Konzessionen des Typs B. Der Bundesrat ist dem Antrag der ESBK gefolgt und erteilte mit seinem heutigen Entscheid 22 Konzessionen für den Betrieb von 2025 bis Ende 2044. &lt;/p&gt; &lt;h3&gt;Bisherige Konzessionsinhaberinnen in vielen Zonen unbestritten&lt;/h3&gt; &lt;p&gt;In der grossen Mehrheit der Zonen bewarben sich nur die heutigen Konzessionsinhaberinnen um eine neue Konzession. Alle erfüllten die gesetzlich vorgeschriebenen Konzessionsvoraussetzungen. Deshalb hat der Bundesrat diesen Gesuchstellerinnen auf Empfehlung der ESBK eine neue Konzession erteilt. Die bisherigen Spielbankenbetreiberinnen in den Zonen Baden-Aarau, Bern, Berner Oberland Ost, Genf, Fribourg, Jura, Luzern, Lugano, Locarno, Mendrisio, Montreux, Neuchâtel, Nordbünden, Südbünden, Sarganserland, Schwyz und Zürich dürfen ihre Casinos über 2024 hinaus weiterführen. Auch in der neu geschaffenen Zone Winterthur bewarb sich nur ein Unternehmen um die Konzession, der Bundesrat nahm auch dieses Gesuch der Swiss Casinos Winterthur AG an.&lt;/p&gt;In den vier Zonen Basel, Lausanne, St. Gallen und Wallis, in denen sich mehrere Gesuchstellerinnen beworben hatten, wurden die Gesuche beurteilt und aufgrund der Konkurrenzsituation bewertet. Die ESBK evaluierte namentlich, welches Gesuch die gestellten Anforderungen im Vergleich zu den Konkurrenzgesuchen besser erfüllt und mit welchem Standort innerhalb der Zone das Marktpotenzial am besten erschlossen und genutzt werden kann. In den Zonen Basel, St. Gallen und Wallis setzten sich die bisherigen Konzessionsinhaberinnen durch. In der neuen Zone Lausanne erteilte der Bundesrat der Projet Casino Prilly AG die Konzession. &lt;p&gt;Das Angebot für Online-Spielbankenspiele wird weiter zunehmen. Der Bundesrat erteilte zwölf Gesuchstellerinnen eine entsprechende Konzessionserweiterung. Das ist die höchste Anzahl seit Inkrafttreten des neuen Geldspielgesetzes 2019. &lt;/p&gt; &lt;h3&gt;Neuer Casinolandschaftsbericht bis 2028&lt;/h3&gt; &lt;p&gt;Weiter hat der Bundesrat heute den Auftrag zur Erstellung eines neuen Casinolandschaftsberichts erteilt. Die ESBK wird diesen Bericht verfassen und 2028 zusammen mit Empfehlungen zuhanden des EJPDs verabschieden. Gestützt darauf wird der Bundesrat die Gesamtsituation neu beurteilen und über das weitere Vorgehen, auch bezüglich der Konzession der Zone Schaffhausen, entscheiden. In der Zone Schaffhausen hat der Bundesrat keine Konzession erteilt. Die einzige Gesuchstellerin schied im April 2023 aus dem Verfahren aus. &lt;/p&gt; &lt;p&gt;Mit dem heutigen Entscheid ist das 2022 eröffnete Verfahren zur Neuvergabe der Spielbankenkonzessionen abgeschlossen. Der Entscheid des Bundesrats ist nicht anfechtbar. &lt;/p&gt; </text>
+      <text link="no"> &lt;p&gt;Ende 2024 laufen die bisherigen Spielbankenkonzessionen aus. Um einen lückenlosen Weiterbetrieb zu gewährleisten, hatte der Bundesrat 2022 die Eidgenössische Spielbankenkommission (ESBK) mit dem Ausschreibungsverfahren zur Neuvergabe der Konzessionen beauftragt. Für die ausgeschriebenen 23 Zonen, in denen je eine Spielbankenkonzession vorgesehen ist, gingen bei der ESBK 29 Gesuche ein. Nach eingehender Prüfung schlug die ESBK dem Bundesrat 22 Gesuche zur Annahme vor, aufgeteilt in zehn Konzessionen des Typs A und zwölf Konzessionen des Typs B. Der Bundesrat ist dem Antrag der ESBK gefolgt und erteilte mit seinem heutigen Entscheid 22 Konzessionen für den Betrieb von 2025 bis Ende 2044. &lt;/p&gt; &lt;h3&gt;Bisherige Konzessionsinhaberinnen in vielen Zonen unbestritten&lt;/h3&gt; &lt;p&gt;In der grossen Mehrheit der Zonen bewarben sich nur die heutigen Konzessionsinhaberinnen um eine neue Konzession. Alle erfüllten die gesetzlich vorgeschriebenen Konzessionsvoraussetzungen. Deshalb hat der Bundesrat diesen Gesuchstellerinnen auf Empfehlung der ESBK eine neue Konzession erteilt. Die bisherigen Spielbankenbetreiberinnen in den Zonen Baden-Aarau, Bern, Berner Oberland Ost, Genf, Fribourg, Jura, Luzern, Lugano, Locarno, Mendrisio, Montreux, Neuchâtel, Nordbünden, Südbünden, Sarganserland, Schwyz und Zürich dürfen ihre Casinos über 2024 hinaus weiterführen. Auch in der neu geschaffenen Zone Winterthur bewarb sich nur ein Unternehmen um die Konzession, der Bundesrat nahm auch dieses Gesuch der Swiss Casinos Winterthur AG an.&lt;/p&gt;&lt;p&gt;In den vier Zonen Basel, Lausanne, St. Gallen und Wallis, in denen sich mehrere Gesuchstellerinnen beworben hatten, wurden die Gesuche beurteilt und aufgrund der Konkurrenzsituation bewertet. Die ESBK evaluierte namentlich, welches Gesuch die gestellten Anforderungen im Vergleich zu den Konkurrenzgesuchen besser erfüllt und mit welchem Standort innerhalb der Zone das Marktpotenzial am besten erschlossen und genutzt werden kann. In den Zonen Basel, St. Gallen und Wallis setzten sich die bisherigen Konzessionsinhaberinnen durch. In der neuen Zone Lausanne erteilte der Bundesrat der Projet Casino Prilly AG die Konzession. &lt;/p&gt;&lt;p&gt;Das Angebot für Online-Spielbankenspiele wird weiter zunehmen. Der Bundesrat erteilte zwölf Gesuchstellerinnen eine entsprechende Konzessionserweiterung. Das ist die höchste Anzahl seit Inkrafttreten des neuen Geldspielgesetzes 2019. &lt;/p&gt; &lt;h3&gt;Neuer Casinolandschaftsbericht bis 2028&lt;/h3&gt; &lt;p&gt;Weiter hat der Bundesrat heute den Auftrag zur Erstellung eines neuen Casinolandschaftsberichts erteilt. Die ESBK wird diesen Bericht verfassen und 2028 zusammen mit Empfehlungen zuhanden des EJPDs verabschieden. Gestützt darauf wird der Bundesrat die Gesamtsituation neu beurteilen und über das weitere Vorgehen, auch bezüglich der Konzession der Zone Schaffhausen, entscheiden. In der Zone Schaffhausen hat der Bundesrat keine Konzession erteilt. Die einzige Gesuchstellerin schied im April 2023 aus dem Verfahren aus. &lt;/p&gt; &lt;p&gt;Mit dem heutigen Entscheid ist das 2022 eröffnete Verfahren zur Neuvergabe der Spielbankenkonzessionen abgeschlossen. Der Entscheid des Bundesrats ist nicht anfechtbar. &lt;/p&gt; </text>
       <contact>Generalsekretariat EJPD, Christoph Lenz, Co-Leiter Kommunikation, T +41 58 465 82 15, christoph.lenz@gs-ejpd.admin.ch Eidgenössische Spielbankenkommission, Charlotte Schläpfer, Fachspezialistin Kommunikation, T +41 58 465 63 15, charlotte.schlaepfer@esbk.admin.ch</contact>
-      <attachment id="267042">
+      <attachment id="267363">
         <title>Neukonzessionierung: Factsheet</title>
         <format>pdf</format>
         <size-kb>285</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84754.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267045">
+      <attachment id="267366">
         <title>Karte Neue Casinolandschaft ab 2025</title>
         <format>pdf</format>
         <size-kb>442</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84757.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267048">
+      <attachment id="267369">
         <title>Neukonzessionierung: Liste gutgeheissene und abgewiesene Gesuche</title>
         <format>pdf</format>
         <size-kb>87</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84760.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267051">
+      <attachment id="267372">
         <title>Bericht: Neukonzessionierung der Schweizer Spielbanken ab 1. Januar 2025</title>
         <format>pdf</format>
-        <size-kb>4764</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84763.pdf</uri>
+        <size-kb>4176</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84950.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267054">
+      <attachment id="267375">
         <title>Zusammenfassung Bericht</title>
         <format>pdf</format>
         <size-kb>92</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84766.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267057">
+      <attachment id="267378">
         <title>Präsentation Hintergrundgespräch</title>
         <format>pdf</format>
         <size-kb>1470</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84769.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267059">
+      <attachment id="267380">
         <title>Checkliste Beurteilungs- und Bewertungskriterien der ESBK für die 6 Prüfbereiche</title>
         <format>pdf</format>
         <size-kb>889</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84771.pdf</uri>
         <position>Context</position>
       </attachment>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2023-11-30 09:07" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -140,49 +142,49 @@
       <lead>Lors de sa séance du 29 novembre 2023, le Conseil fédéral a attribué les concessions pour l’exploitation de maisons de jeu pour la période de 2025 à 2044 dans 22 zones sur 23. Dans la grande majorité des zones, les casinos actuels pourront continuer leur activité. Deux nouvelles maisons de jeu verront le jour à Lausanne et à Winterthour. La concurrence se renforce également dans le secteur des jeux en ligne, puisque désormais douze maisons de jeu ont obtenu l’autorisation d’en proposer. Le Conseil fédéral a par ailleurs donné mandat de rédiger un nouveau rapport sur le paysage des casinos en Suisse, sur lequel il se fondera pour procéder à une nouvelle évaluation globale de la situation en 2028 et décider de la suite, concernant notamment la concession de la zone de Schaffhouse.</lead>
       <text link="no"> &lt;p&gt;Les actuelles concessions des maisons de jeu arrivent à échéance à la fin de 2024. Afin de garantir une poursuite de l'exploitation sans interruption, le Conseil fédéral avait, en 2022, chargé la Commission fédérale des maisons de jeu (CFMJ) de procéder à un appel d'offres pour l'attribution de nouvelles concessions. La CFMJ a reçu 29 demandes pour les 23 zones délimitées pour accueillir chacune une maison de jeu. Après un examen approfondi des dossiers, la CFMJ a proposé au Conseil fédéral d'accepter 22 de ces demandes, avec dix concessions de type A et douze de type B. Le Conseil fédéral a suivi la proposition de la CFMJ et a, par sa décision d'aujourd'hui, attribué 22 concessions pour l'exploitation de maisons de jeu de 2025 à la fin de 2044. &lt;/p&gt; &lt;h3&gt;Actuels titulaires des concessions non contestés dans de nombreuses zones&lt;/h3&gt; &lt;p&gt;Dans la grande majorité des zones, seuls les actuels titulaires de la concession ont présenté un dossier pour obtenir une nouvelle concession. Tous répondaient aux conditions prévues par la législation, de sorte que le Conseil fédéral a suivi les recommandations de la CFMJ et accordé une nouvelle concession à ces requérants. Concrètement, les exploitants actuels pourront poursuivre leur activité au-delà de 2024 dans les zones de Baden-Aarau, Berne, Oberland bernois est, Genève, Fribourg, Jura, Lucerne, Lugano, Locarno, Mendrisio, Montreux, Neuchâtel, Nord des Grisons, Sud des Grisons, Sarganserland, Schwyz et Zurich. La zone nouvellement créée de Winterthour n'a elle aussi intéressé qu'un seul requérant. Le Conseil fédéral a donc accepté la demande de l'entreprise Swiss Casinos Winterthur AG.&lt;/p&gt; &lt;p&gt;Dans les quatre zones « Bâle », « Lausanne », « Saint-Gall » et « Valais », pour lesquelles plusieurs requérants étaient en concurrence, les demandes ont subi, après leur qualification, une procédure d'évaluation. La CFMJ a notamment examiné chaque demande afin de déterminer laquelle satisfaisait le mieux aux exigences par rapport aux demandes concurrentes et avec quel emplacement à l'intérieur de la zone le potentiel de marché existant pouvait être le mieux exploité. Pour les zones de Bâle, Saint-Gall et du Valais, les actuels titulaires de la concession se sont imposés. Dans la nouvelle zone de Lausanne, le Conseil fédéral a octroyé la concession au Projet Casino Prilly SA.&lt;/p&gt; &lt;p&gt;L'offre de jeux de casino en ligne va encore s'étoffer. Le Conseil fédéral a en effet octroyé à douze requérants une extension de concession leur permettant de proposer des jeux sur Internet. Ce nombre est un record depuis l'entrée en vigueur de la nouvelle loi sur les jeux d'argent en 2019. &lt;/p&gt; &lt;h3&gt;Nouveau rapport sur le paysage des casinos en 2028&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral a par ailleurs donné aujourd'hui mandat à la CFMJ de rédiger un nouveau rapport sur le paysage des casinos en Suisse, assorti de propositions au DFJP, pour 2028. Le Conseil fédéral se fondera sur ce rapport pour procéder à une nouvelle évaluation globale de la situation et décider de la suite de la procédure, concernant notamment la concession de la zone de Schaffhouse. Le Conseil fédéral n'a pas octroyé de concession pour cette zone aujourd'hui, le seul requérant ayant été écarté de la procédure en avril 2023. &lt;/p&gt; &lt;p&gt;La décision d'aujourd'hui clôt la procédure d'attribution des nouvelles concessions ouverte en 2022. La décision du Conseil fédéral n'est pas sujette à recours. &lt;/p&gt; </text>
       <contact>Secrétariat général du DFJP, Christoph Lenz, co-chef de la communication, T +41 58 465 82 15, christoph.lenz@gs-ejpd.admin.ch Commission fédérale des maisons de jeu, Charlotte Schläpfer, spécialiste communication, T +41 58 465 63 15, charlotte.schlaepfer@esbk.admin.ch</contact>
-      <attachment id="267043">
+      <attachment id="267364">
         <title>Attribution des nouvelles concessions : fiche d’information</title>
         <format>pdf</format>
         <size-kb>281</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84755.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267046">
+      <attachment id="267367">
         <title>Carte du nouveau paysage des casinos à partir de 2025</title>
         <format>pdf</format>
         <size-kb>439</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84758.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267049">
+      <attachment id="267370">
         <title>Attribution des nouvelles concessions : liste des demandes approuvées et rejetées</title>
         <format>pdf</format>
         <size-kb>87</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84761.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267052">
+      <attachment id="267373">
         <title>Rapport de la CFMJ sur l'attribution des nouvelles concessions pour l'exploitation des maisons de jeu suisses</title>
         <format>pdf</format>
         <size-kb>4182</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84764.pdf</uri>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84951.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267055">
+      <attachment id="267376">
         <title>Résumé du rapport</title>
         <format>pdf</format>
         <size-kb>91</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84767.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267058">
+      <attachment id="267379">
         <title>Présentation point de presse</title>
         <format>pdf</format>
         <size-kb>1635</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84770.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267059">
+      <attachment id="267380">
         <title>Checkliste Beurteilungs- und Bewertungskriterien der ESBK für die 6 Prüfbereiche</title>
         <format>pdf</format>
         <size-kb>889</size-kb>
@@ -197,56 +199,56 @@
       <lead>Nella seduta del 29 novembre 2023 il Consiglio federale ha rilasciato alle case da gioco le concessioni per 22 zone su 23 per il periodo 2025 – 2044. Nella maggior parte delle zone le case da gioco esistenti possono portare avanti la propria attività. Dal 2025 apriranno i battenti due nuovi casinò, rispettivamente a Losanna e Winterthur. Più accesa la concorrenza nel settore online: in futuro saranno 12 le case da gioco autorizzate a offrire giochi online. Il Consiglio federale ha inoltre commissionato un nuovo rapporto sulla situazione delle case da gioco, in base al quale nel 2028 intende valutare la situazione generale e decidere come procedere, anche riguardo alla concessione per la zona di Sciaffusa.</lead>
       <text link="no"> &lt;p&gt;A fine 2024 scadono le concessioni attuali delle case da gioco. Per garantire la continuità d'esercizio, nel 2022 il Consiglio federale aveva incaricato la Commissione federale delle case da gioco (CFCG) di mettere a concorso le nuove concessioni. Per le 23 concessioni messe a concorso nelle altrettante zone sono pervenute 29 richieste. Al termine di un approfondito esame, la CFCG ha proposto al Consiglio federale di accoglierne 22, dieci per concessioni di tipo A e 12 per concessioni di tipo B. Il Consiglio federale ha dato seguito alla proposta della CFCG decidendo oggi di rilasciare 22 concessioni per il periodo dal 2025 alla fine del 2044. &lt;/p&gt; &lt;h3&gt;Concessionari attuali riconfermati in molte zone&lt;/h3&gt; &lt;p&gt;Nella maggior parte delle zone erano i titolari attuali a chiedere la concessione. Tutti adempiono le condizioni previste dalla legge e quindi il Consiglio federale, dietro raccomandazione della CFCG, ha rilasciato loro una nuova concessione. I concessionari attuali delle zone Baden-Aarau, Berna, Oberland bernese orientale, Ginevra, Friburgo, Giura, Lucerna, Lugano, Locarno, Mendrisio, Montreux, Neuchâtel, Grigioni settentrionale, Grigioni meridionale, Sarganserland, Svitto e Zurigo possono portare avanti la loro attività dopo il 2024. Anche per la nuova zona di Winterthur si è fatto avanti un solo richiedente, Swiss Casinos Winterthur AG, cui il Consiglio federale ha rilasciato la concessione. &lt;/p&gt; &lt;p&gt;Nelle zone di Basilea, di San Gallo, di Losanna e del Vallese, in cui due o più candidati concorrevano per la stessa concessione, le richieste sono state sottoposte a qualificazione e valutate in base alla situazione concorrenziale. La CFCG ha segnatamente provveduto a individuare la richiesta che meglio adempie i requisiti rispetto alla concorrenza e l'ubicazione che meglio permette di sfruttare il potenziale di mercato esistente nella zona. Nelle zone di Basilea, di San Gallo e del Vallese l'hanno spuntata i concessionari attuali, mentre in quella nuova di Losanna la concessione è andata a Projet Casino Prilly SA. &lt;/p&gt; &lt;p&gt;Si allargherà l'offerta di giochi online; il Consiglio federale ha infatti rilasciato la pertinente estensione della concessione a 12 richiedenti: è il numero più elevato dall'entrata in vigore della legge sui giochi in denaro nel 2019. &lt;/p&gt; &lt;h3&gt;Nuovo rapporto sulla situazione delle case da gioco nel 2028&lt;/h3&gt; &lt;p&gt;Il Consiglio federale ha inoltre commissionato un nuovo rapporto sulla situazione delle case da gioco. Sarà la CFCG a redigerlo e trasmetterlo al DFGP nel 2028 insieme alle sue raccomandazioni. Il Consiglio federale se ne servirà per valutare la situazione generale e decidere come procedere, anche riguardo alla concessione per la zona di Sciaffusa, per la quale non è stata rilasciata alcuna concessione visto che l'unico richiedente è stato scartato in aprile 2023. &lt;/p&gt; &lt;p&gt;L'odierna decisione chiude la procedura avviata nel 2022 per l'assegnazione delle nuove concessioni alle case da gioco. La decisione del Consiglio federale non è impugnabile.&lt;/p&gt; </text>
       <contact>Segreteria generale DFGP, Christoph Lenz, co-responsabile Comunicazione, T +41 58 465 82 15, christoph.lenz@gs-ejpd.admin.ch Commissione federale delle case da gioco, Charlotte Schläpfer, specialista Comunicazione, T +41 58 465 63 15, charlotte.schlaepfer@esbk.admin.ch</contact>
-      <attachment id="267044">
+      <attachment id="267365">
         <title>Nuove concessioni: scheda informativa</title>
         <format>pdf</format>
         <size-kb>153</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84756.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267047">
+      <attachment id="267368">
         <title>Mappa: nuova situazione delle case da gioco dal 2025</title>
         <format>pdf</format>
         <size-kb>233</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84759.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267050">
+      <attachment id="267371">
         <title>Nuove concessioni: elenco delle richieste accolte e respinte</title>
         <format>pdf</format>
         <size-kb>91</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84762.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267053">
+      <attachment id="267374">
         <title>Rapporto sulle nuove concessioni per le case da gioco svizzere, valide dal 1° gennaio 2025</title>
         <format>pdf</format>
-        <size-kb>4191</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84765.pdf</uri>
+        <size-kb>4190</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84952.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267056">
+      <attachment id="267377">
         <title>Sintesi del rapporto</title>
         <format>pdf</format>
         <size-kb>91</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84768.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267057">
+      <attachment id="267378">
         <title>Präsentation Hintergrundgespräch</title>
         <format>pdf</format>
         <size-kb>1470</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84769.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267058">
+      <attachment id="267379">
         <title>Présentation point de presse</title>
         <format>pdf</format>
         <size-kb>1635</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84770.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="267059">
+      <attachment id="267380">
         <title>Checkliste Beurteilungs- und Bewertungskriterien der ESBK für die 6 Prüfbereiche</title>
         <format>pdf</format>
         <size-kb>889</size-kb>
