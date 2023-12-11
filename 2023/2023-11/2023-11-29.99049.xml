@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -108,35 +108,29 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="505" org-id="502">
-        <name lang="de">Sicherheitspolitik</name>
-        <name lang="fr">Politique de sécurité</name>
-        <name lang="it">Politica di sicurezza</name>
-        <name lang="en">Security Policy</name>
-      </keyword>
-      <keyword id="5180" org-id="502">
+      <keyword id="5180" org-id="505">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5300" org-id="502">
-        <name lang="de">Unterstützung aus der Luft / Lufttransport</name>
-        <name lang="fr">Appui aérien / Transport aérien</name>
-        <name lang="it">Sostegno aereo / Trasporto aereo</name>
-        <name lang="en">aerial support / air transport</name>
-      </keyword>
-      <keyword id="507" org-id="502">
+      <keyword id="507" org-id="505">
         <name lang="de">Subsidiärer Einsatz</name>
         <name lang="fr">Engagement subsidiaire</name>
         <name lang="it">Impieghi sussidiari</name>
         <name lang="en">Subsidiary Operations</name>
       </keyword>
-      <keyword id="5530" org-id="502">
+      <keyword id="5530" org-id="505">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
+        <name lang="en">federal policy, Federal Council(lor)</name>
+      </keyword>
+      <keyword id="5900" org-id="505">
+        <name lang="de">Flugbetrieb</name>
+        <name lang="fr">Service de vol</name>
+        <name lang="it">Esercizio di volo</name>
+        <name lang="en">flight operations</name>
       </keyword>
     </keywords>
     <topics>
