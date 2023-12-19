@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="98758" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2023-11-22</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -49,21 +49,6 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="609" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
-      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
-      <name lang="it">Ufficio federale dell'informatica e della telecomunicazione</name>
-      <name lang="en">The Federal Office of Information Technology, Systems and Telecommunication</name>
-      <www lang="de">http://www.bit.admin.ch</www>
-      <www lang="fr">http://www.bit.admin.ch</www>
-      <www lang="it">http://www.bit.admin.ch</www>
-      <www lang="en">http://www.bit.admin.ch</www>
-      <email lang="de">info@bit.admin.ch</email>
-      <email lang="fr">info@bit.admin.ch</email>
-      <email lang="it">info@bit.admin.ch</email>
-      <email lang="en">info@bit.admin.ch</email>
-    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -92,55 +77,38 @@
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>E-ID: Bundesrat verabschiedet Botschaft</title>
       <lead>Mit der neuen elektronischen Identität (E-ID) des Bundes sollen sich Nutzerinnen und Nutzer künftig sicher, schnell und unkompliziert digital ausweisen können. Der Bundesrat hat an seiner Sitzung vom 22. November 2023 die Botschaft zum neuen Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E ID-Gesetz, BGEID) verabschiedet. Die E-ID soll vom Bund herausgegeben werden, den grösstmöglichen Schutz der persönlichen Daten gewährleisten, kostenlos und freiwillig sein. Der Bundesrat schlägt vor, dass die für den Betrieb der E-ID erforderliche Infrastruktur auch von kantonalen und kommunalen Behörden sowie von Privaten für die Ausstellung von elektronischen Nachweisen genutzt werden kann.</lead>
       <text link="no"> &lt;p&gt;Alle Personen, die über eine Schweizer Identitätskarte, einen Schweizer Pass oder einen von der Schweiz ausgestellten Ausländerausweis verfügen, sollen eine E-ID beantragen können. Aufgrund von Rückmeldungen aus der Vernehmlassung schlägt der Bundesrat vor, dass die E-ID nicht nur online, sondern auch im Passbüro ausgestellt wird.&lt;/p&gt; &lt;p&gt;Die Nutzung der E-ID ist freiwillig und kostenlos. Diese kann sowohl im Internet - zum Beispiel bei der elektronischen Bestellung eines Strafregisterauszugs - als auch in der physischen Welt - beispielsweise im Laden zum Altersnachweis beim Kauf von Alkohol - zum Einsatz kommen. Sämtliche Dienstleistungen des Bundes, bei denen die E-ID zum Einsatz kommen kann, werden weiterhin analog angeboten. Gleichzeitig müssen alle Schweizer Behörden die E-ID als einen gültigen Identitätsnachweis akzeptieren, sofern sie elektronische Identitätsnachweise im Grundsatz zulassen. &lt;/p&gt; &lt;h3&gt;Bund schafft Grundlage für die digitale Transformation&lt;/h3&gt; &lt;p&gt;Der Bund soll für die Herausgabe der E-ID verantwortlich sein und die für den Betrieb notwendige Infrastruktur anbieten. So stellt er die notwendige App bereit, damit die Nutzerinnen und Nutzer ihre E-ID auf ihrem Smartphone speichern können. Die App soll auch Menschen mit Behinderung ohne Einschränkung zugänglich sein. Anders als in der Vernehmlassung vorgesehen, werden nicht die Kantone, sondern der Bund den Support für die Nutzerinnen und Nutzer erbringen.&lt;/p&gt; &lt;p&gt;Der Bundesrat schlägt weiter vor, dass die zum Zweck der E-ID geschaffene staatliche Infrastruktur auch kantonalen und kommunalen Behörden sowie Privaten zur Verfügung steht (Ökosystem). So sollen Dokumente wie Wohnsitzbestätigungen, Betriebsregisterauszüge, Diplome, Tickets oder Mitgliederausweise, die heute meist physisch oder allenfalls als PDF-Dokument ausgestellt werden, künftig auch als digitale Nachweise auf dem Smartphone verwaltet werden können. Damit schafft der Bund die Grundlage für die digitale Transformation der Schweiz. &lt;/p&gt; &lt;h3&gt;E-ID garantiert den bestmöglichen Datenschutz&lt;/h3&gt; &lt;p&gt;Die Nutzerinnen und Nutzer der künftigen staatlich anerkannten E‑ID sollen die grösstmögliche Kontrolle über ihre Daten haben (Self-Sovereign Identity). Der Datenschutz soll erstens durch das System selber (Privacy by Design), zweitens durch die Minimierung der nötigen Datenflüsse (Prinzip der Datensparsamkeit) und drittens durch die ausschliessliche Speicherung der E-ID auf dem Smartphone der Nutzerin oder des Nutzers (dezentrale Datenspeicherung) gewährleistet werden. Im Zusammenhang mit dem Datenschutz schlägt der Bundesrat aufgrund der Vernehmlassungsergebnisse eine weitere Massnahme vor: Um dem Prinzip der Datensparsamkeit Nachdruck zu verleihen, soll öffentlich gemacht werden, wenn jemand mehr E-ID-Daten verlangt, als im konkreten Fall notwendig. &lt;/p&gt; &lt;p&gt;Um auf technische und gesellschaftliche Entwicklungen reagieren zu können, ist das Gesetz technologieneutral formuliert. Schliesslich soll das Schweizer E-ID-System internationale Standards einhalten. Damit soll sichergestellt werden, dass die E-ID künftig auch im Ausland anerkannt und eingesetzt werden könnte.&lt;/p&gt; &lt;p&gt;Der Bundesrat plant, die E-ID ab 2026 anzubieten. Um diesen Zeitplan einzuhalten, wurden die Vorarbeiten für den Aufbau der notwendigen Infrastruktur bereits eingeleitet. Insgesamt werden im Zeitraum 2023 bis 2028 für die Entwicklung und den Betrieb der Vertrauensinfrastruktur, die Ausgabe der E-ID und die Pilotprojekte rund 182 Millionen Franken benötigt. Die Betriebskosten ab 2029 werden mit rund 25 Millionen Franken pro Jahr veranschlagt. &lt;/p&gt; &lt;p&gt;Ein erstes E-ID-Gesetz war in der Volksabstimmung vom 7. März 2021 gescheitert. Im Gegensatz zur neuen Vorlage war darin vorgesehen gewesen, dass die E-ID nicht vom Bund, sondern von Privaten herausgegeben wird.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Erklärung der Fachbegriffe&lt;br /&gt; &lt;br /&gt;&lt;/b&gt;&lt;i&gt;Self-Sovereign Identity&lt;/i&gt; (&lt;i&gt;selbstbestimmte Identität&lt;/i&gt;): Grösstmögliche Kontrolle der Nutzerinnen und Nutzer über ihre Daten. So wird die E-ID beispielsweise nur auf dem Smartphone gespeichert. Die Nutzerin oder der Nutzer bestimmt, wann und wo die E-ID zum Einsatz kommt.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Privacy by Design (Datenschutzfreundliche Hard- und Software):&lt;/i&gt; Der Datenschutz wird bei der Entwicklung des Gesamtsystems ab Entwicklungsbeginn mitgedacht. So hat beispielsweise die Ausstellerin der E-ID keine Kenntnisse, wann und wo jemand seine E-ID nutzt. &lt;br /&gt; &lt;br /&gt;&lt;i&gt;Datensparsamkeit: &lt;/i&gt;Nur die für einen bestimmten Zweck unbedingt erforderlichen E-ID-Daten werden bei der Nutzung übermittelt. So erhält beispielsweise ein Webshop bei einem Kauf, der ein Mindestalter von 18 Jahren voraussetzt, nur die Information, dass die Kundin oder der Kunde dieses Mindestalter erreicht hat. Andere persönliche Daten wie das Geburtsdatum werden nicht übermittelt.&lt;/p&gt; </text>
       <contact>Rolf Rauschenbach, Bundesamt für Justiz, T +41 58 465 31 20, rolf.rauschenbach@bj.admin.ch</contact>
-      <attachment id="266482">
+      <attachment id="268790">
         <title>Vernehmlassungsergebnisse</title>
         <format>pdf</format>
         <size-kb>446</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84257.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266485">
-        <title>Botschaft</title>
-        <format>pdf</format>
-        <size-kb>755</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84260.pdf</uri>
+      <link id="268802">
+        <title>Botschaft (BBl 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/de</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266488">
-        <title>Entwurf</title>
-        <format>pdf</format>
-        <size-kb>251</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84263.pdf</uri>
+      </link>
+      <link id="268805">
+        <title>Entwurf (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/de</uri>
         <position>Context</position>
-      </attachment>
-      <link id="266491">
+      </link>
+      <link id="268799">
         <title>Ausführungen von Bundesrätin Elisabeth Baume-Schneider</title>
         <uri>https://www.ejpd.admin.ch/ejpd/de/home/aktuell/reden.msg-id-98895.html</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-11-22 15:33" type="R"/>
         <revision date="2023-11-23 10:57" type="R"/>
+        <revision date="2023-11-22 15:33" type="R"/>
+        <revision date="2023-12-19 08:49" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -149,35 +117,32 @@
       <lead>La nouvelle identité électronique (e-ID) émise par la Confédération permettra de prouver son identité de manière simple, sûre et rapide. Le Conseil fédéral a adopté le message concernant la nouvelle loi fédérale sur l’identité électronique et d’autres moyens de preuves électroniques (loi sur l’e-ID, LeID) le 22 novembre 2023. L’e-ID, qui restera gratuite et facultative, sera émise par la Confédération. Elle offrira la meilleure protection possible des données personnelles. Le Conseil fédéral propose que l’infrastructure technique mise en place pour exploiter l’e-ID puisse aussi servir pour d’autres types de preuves électroniques et qu’elle soit ouverte tant aux autorités cantonales et communales qu’aux acteurs du secteur privé.</lead>
       <text link="no"> &lt;p&gt;Quiconque dispose d'une carte d'identité ou d'un passeport suisse, ou encore d'un titre de séjour pour étranger, pourra demander l'obtention d'une e-ID. Suite aux suggestions émises lors de la consultation, le Conseil fédéral propose que l'e-ID puisse certes être demandée en ligne mais aussi obtenue auprès du service des passeports.&lt;/p&gt; &lt;p&gt;L'utilisation de l'e-ID sera facultative et gratuite. Il sera possible de s'en servir sur internet - par exemple pour demander un extrait du casier judiciaire - mais aussi dans le monde physique - par exemple pour prouver son âge en achetant de l'alcool. Toutes les démarches auprès de la Confédération qui pourront se faire virtuellement, avec présentation de l'e-ID, pourront continuer de se faire physiquement. En même temps, toutes les autorités suisses seront tenues d'accepter l'e-ID comme document d'identité valable si elles acceptent le principe d'une preuve électronique de l'identité.&lt;/p&gt; &lt;h3&gt;La Confédération jette les bases de la transformation numérique&lt;/h3&gt; &lt;p&gt;L'émission de l'e-ID sera du ressort de la Confédération, qui offrira l'infrastructure nécessaire à son utilisation. Elle fournira par exemple l'application pour smartphone qui permettra aux utilisateurs de sauvegarder leur e-ID. Cette application sera aussi pleinement accessible aux personnes handicapées. Contrairement à ce que prévoyait l'avant-projet, ce ne sont pas les cantons mais la Confédération qui fournira une assistance technique aux utilisateurs.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral propose en outre que l'infrastructure créée pour exploiter l'e-ID soit ouverte aux autorités cantonales et communales, de même qu'aux acteurs du secteur privé, de manière à former un écosystème de preuves numériques. Il sera ainsi possible de faire usage de cette infrastructure pour établir et utiliser des documents tels que des attestations de domicile, des extraits de registres, des diplômes, des billets pour des manifestations culturelles ou des cartes de membre. Ce type de document, qui existe aujourd'hui surtout sur papier ou sous forme de fichier PDF, pourrait alors être géré sur le smartphone de l'utilisateur. En ouvrant grand le champ de ces possibilités, la Confédération jette les bases de la transformation numérique de la Suisse.&lt;/p&gt; &lt;h3&gt;Les meilleures garanties possibles pour la protection des données&lt;/h3&gt; &lt;p&gt;Les futurs utilisateurs de l'e-ID étatique garderont le contrôle de leurs données selon le système le plus rigoureux à cet égard (identité souveraine). La protection des données sera inhérente au système (principe de la protection des données dès la conception) ; elle sera en outre garantie par la minimisation des flux de données et par le fait que les données seront enregistrées uniquement sur le smartphone du titulaire de l'e-ID. Concernant la protection des données, le Conseil fédéral propose encore une autre précaution, issue de la consultation : afin de souligner davantage le principe de la minimisation des données, les cas dans lesquels plus de données contenues dans l'e-ID sont exigées qu'il n'est concrètement nécessaire seront rendus publics.&lt;/p&gt; &lt;p&gt;La loi est formulée de telle manière qu'elle ne dit rien sur les technologies à employer. Il sera ainsi plus facile à la Confédération d'adapter les systèmes choisis en fonction des évolutions techniques et sociales. Enfin, ces systèmes répondront aux normes internationales, de sorte que l'e-ID puisse à l'avenir être utilisée aussi à l'étranger.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral estime que l'e-ID pourrait être disponible à partir de 2026. Pour tenir ce délai, il a déjà engagé les travaux de mise en place de l'infrastructure nécessaire. Au total, le développement et l'exploitation de l'infrastructure de confiance, l'émission de l'e-ID et les projets-pilotes nécessitent une enveloppe de 182 millions de francs pour la période 2023 à 2028. Les frais d'exploitation à partir de 2029 sont estimés à environ 25 millions de francs par an.&lt;/p&gt; &lt;p&gt; Une première loi sur l'e-ID avait été rejetée en votation populaire le 7 mars 2021. Contrairement au nouveau projet, elle prévoyait que l'e-ID était établie non pas par la Confédération mais par des acteurs du secteur privé.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Termes techniques&lt;br /&gt; &lt;br /&gt;&lt;/b&gt;&lt;i&gt;Identité souveraine (self-sovereign identity)&lt;/i&gt; : l’utilisateur a un contrôle maximal de ses données. L’e-ID n’est enregistrée que sur son smartphone. Son titulaire détermine quand et où il l’utilise.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Protection des données dès la conception (privacy by design)&lt;/i&gt; : la protection des données est intégrée à la conception des matériels et des logiciels dès le début. Par exemple, l’autorité qui émet l’e-ID ne peut pas savoir quand et où le titulaire d’une e-ID en fait usage. &lt;br /&gt; &lt;br /&gt;&lt;i&gt;Minimisation des données&lt;/i&gt; : seules les données contenues dans l’e-ID qui sont absolument indispensables en une occurrence donnée sont transmises à celui qui veut vérifier l’identité du titulaire. Par exemple, le vendeur en ligne d’un produit réservé aux plus de 18 ans reçoit comme seule information le fait que le titulaire de l’e-ID est majeur. Il n’accède pas même à la date de naissance exacte.&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;</text>
       <contact>Rolf Rauschenbach, Office fédéral de la justice, T +41 58 465 31 20, rolf.rauschenbach@bj.admin.ch</contact>
-      <attachment id="266483">
+      <attachment id="268791">
         <title>Résultats de la procédure de consultation</title>
         <format>pdf</format>
         <size-kb>445</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84258.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266486">
-        <title>Message</title>
-        <format>pdf</format>
-        <size-kb>691</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84261.pdf</uri>
+      <link id="268803">
+        <title>Message (FF 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/fr</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266489">
-        <title>Projet</title>
-        <format>pdf</format>
-        <size-kb>248</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84264.pdf</uri>
+      </link>
+      <link id="268806">
+        <title>Projet (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/fr</uri>
         <position>Context</position>
-      </attachment>
-      <link id="266492">
+      </link>
+      <link id="268800">
         <title>Exposé de la conseillère fédérale Elisabeth Baume-Schneider</title>
         <uri>https://www.ejpd.admin.ch/ejpd/fr/home/actualite/discours.msg-id-98895.html</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-11-22 15:33" type="R"/>
         <revision date="2023-11-23 10:57" type="R"/>
+        <revision date="2023-11-22 15:33" type="R"/>
+        <revision date="2023-12-19 08:49" type="R"/>
       </revisions>
     </content>
     <content lang="it">
@@ -186,35 +151,32 @@
       <lead>Il nuovo mezzo di identificazione elettronico (Id-e) della Confederazione consentirà agli utenti di identificarsi nel mondo virtuale in modo semplice, sicuro e veloce. Nella seduta del 22 novembre 2023, il Consiglio federale ha adottato il messaggio concernente la nuova legge federale sul mezzo d’identificazione elettronico e altri mezzi di autenticazione elettronici (legge sull'Id-e, LIdE). L'Id-e sarà emesso dalla Confederazione, garantirà la massima protezione possibile dei dati e inoltre sarà gratuito e facoltativo. Il Consiglio federale propone che l'infrastruttura necessaria per la gestione degli Id-e possa essere utilizzata anche dalle autorità cantonali e comunali nonché dai privati per emettere altri mezzi di autenticazione elettronici.</lead>
       <text link="no"> &lt;p&gt;I titolari di una carta di identità o di un passaporto svizzeri oppure di una carta di soggiorno per stranieri rilasciata da un'autorità svizzera potranno richiedere un Id-e. Sulla base dei pareri espressi in sede di consultazione, il Consiglio federale propone che l'Id-e possa essere emesso non solo online, ma anche dall'ufficio dei passaporti.&lt;/p&gt; &lt;p&gt;L'Id-e, il cui utilizzo è volontario e facoltativo, può essere impiegato sia in Internet, ad esempio per ordinare online un estratto del registro delle esecuzioni, sia nel mondo fisico, ad esempio in un negozio per certificare la propria età al momento di acquistare alcolici. Tutte le prestazioni della Confederazione per le quali sarà possibile utilizzare l'Id-e continueranno a essere offerte anche in forma analogica. Nel contempo, le autorità svizzere dovranno accettare l'Id-e come mezzo di identificazione se in linea di massima ammettono mezzi di identificazione di questo tipo. &lt;/p&gt; &lt;h3&gt;La Confederazione crea le basi per la transizione digitale&lt;/h3&gt; &lt;p&gt;La Confederazione non solo sarà responsabile dell'emissione dell'Id-e ma implementerà anche l'infrastruttura necessaria per gestirlo e inoltre metterà a disposizione degli utenti l'applicazione necessaria per salvarlo sullo smartphone. L'applicazione sarà completamente accessibile anche alle persone con disabilità. Diversamente da come previsto nell'avamprogetto, sarà la Confederazione, e non i Cantoni, a fornire assistenza tecnica agli utenti.&lt;/p&gt; &lt;p&gt;Il Consiglio federale propone inoltre che l'infrastruttura statale per l'emissione dell'Id-e possa essere utilizzata anche dalle autorità cantonali e comunali e dai privati (ecosistema). Documenti come certificati di domicilio, estratti del registro delle esecuzioni, diplomi, biglietti per manifestazioni o tessere associative, attualmente emessi per lo più in forma fisica o eventualmente come documenti PDF, in futuro potranno essere gestiti sullo smartphone anche come mezzi di autenticazione elettronici. In questo modo la Confederazione crea le basi per la transizione digitale della Svizzera.&lt;/p&gt; &lt;h3&gt;L'Id-e garantisce la massima protezione possibile dei dati&lt;/h3&gt; &lt;p&gt;Gli utenti del futuro Id-e statale avranno il massimo controllo possibile sui loro dati (self-sovereign identity). La protezione dei dati sarà garantita anzitutto dal sistema stesso (principio della protezione dei dati fin dalla progettazione) ma anche dalla limitazione dei flussi necessari di dati (principio della minimizzazione dei dati) e infine dal salvataggio dell'Id-e esclusivamente sullo smartphone dell'utente (salvataggio decentralizzato dei dati). In base ai risultati della consultazione, il Consiglio federale propone un'altra misura per la protezione dei dati: per rafforzare il principio della minimizzazione dei dati, saranno resi noti i casi in cui un verificatore chiede più dati dell'Id-e di quanti richiesti nel caso specifico.&lt;/p&gt; &lt;p&gt;Per poter reagire ai progressi tecnici e sociali, la legge è formulata in modo neutro sotto il profilo tecnico. Infine, il sistema svizzero di identificazione elettronica rispetterà gli standard internazionali affinché l'Id-e possa essere riconosciuto e impiegato anche all'estero.&lt;/p&gt; &lt;p&gt;Il Consiglio federale intende offrire l'Id-e a partire dal 2026; per rispettare tale termine, i lavori di preparazione per implementare l'infrastruttura necessaria sono già iniziati. Tra il 2023 e il 2028 saranno necessari 182 milioni di franchi circa per lo sviluppo e la gestione dell'infrastruttura di fiducia, l'emissione degli Id-e e i progetti pilota. A partire dal 2029 i costi operativi sono stimati a circa 25 milioni di franchi l'anno. &lt;/p&gt; &lt;p&gt;Diversamente dal nuovo disegno di legge, la prima legge sull'Id-e, respinta dal Popolo in occasione della votazione del 7 marzo 2021, prevedeva che l'Id-e sarebbe stata emessa da privati e non dalla Confederazione. &lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Spiegazione delle nozioni tecniche&lt;br /&gt; &lt;br /&gt;&lt;/b&gt;&lt;i&gt;Self-sovereign identity&lt;/i&gt; (&lt;i&gt;identità autosovrana&lt;/i&gt;): l'utente esercita il maggior controllo possibile sui suoi dati, infatti l'Id-e è salvato ad esempio solo sullo smartphone. È l'utente a stabilire quando e dove impiegarlo.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Privacy by &lt;/i&gt;&lt;i&gt;d&lt;/i&gt;&lt;i&gt;esign (protezione dei dati fin dalla progettazione):&lt;/i&gt; si tiene conto della protezione dei dati fin dall'inizio nello sviluppo dell'intero sistema. Ne consegue che ad esempio l'emittente dell'Id-e non sa né quando né dove vengono utilizzati gli Id-e. &lt;br /&gt; &lt;br /&gt;&lt;i&gt;Minimizzazione dei dati: &lt;/i&gt;al momento dell'impiego, sono trasmessi solamente i dati dell'Id-e strettamente necessari per un dato scopo. Ad esempio, nel caso di un acquisto che richiede un'età minima di 18 anni, il negozio online riceve solamente l'informazione che l'acquirente ha l'età minima richiesta. Altri dati personali come la data di nascita non sono trasmessi.&lt;/p&gt; </text>
       <contact>Rolf Rauschenbach, Ufficio federale di giustizia, T +41 58 465 31 20, rolf.rauschenbach@bj.admin.ch</contact>
-      <attachment id="266484">
+      <attachment id="268792">
         <title>Risultati della consultazione</title>
         <format>pdf</format>
         <size-kb>441</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84259.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266487">
-        <title>Messaggio</title>
-        <format>pdf</format>
-        <size-kb>760</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84262.pdf</uri>
+      <link id="268804">
+        <title>Messaggio (FF 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/it</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266490">
-        <title>Disegno</title>
-        <format>pdf</format>
-        <size-kb>255</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84265.pdf</uri>
+      </link>
+      <link id="268807">
+        <title>Disegno (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/it</uri>
         <position>Context</position>
-      </attachment>
-      <link id="266493">
+      </link>
+      <link id="268801">
         <title>Commento della Consigliera federale Elisabeth Baume-Schneider</title>
         <uri>https://www.ejpd.admin.ch/ejpd/it/home/attualita/reden.msg-id-98895.html</uri>
         <position>Context</position>
       </link>
       <revisions>
-        <revision date="2023-11-22 15:33" type="R"/>
         <revision date="2023-11-23 10:57" type="R"/>
+        <revision date="2023-11-22 15:33" type="R"/>
+        <revision date="2023-12-19 08:49" type="R"/>
       </revisions>
     </content>
     <content lang="en">
@@ -223,86 +185,84 @@
       <lead>The Confederation's new electronic identity (e-ID) will enable users to identify themselves digitally in a secure, fast and uncomplicated way. At its meeting on 22 November 2023, the Federal Council adopted the dispatch on the new Federal Act on Electronic Identity Credentials and Other Electronic Credentials (E-ID Act). The e-ID will be issued by the Confederation, will guarantee the greatest possible protection of personal data, and its use will be free of charge and voluntary. The Federal Council is proposing that the infrastructure required to operate the e-ID can also be used by cantonal and communal authorities and by private individuals and entities to issue electronic credentials.</lead>
       <text link="no"> &lt;p&gt;Anyone who has a Swiss identity card, a Swiss passport or a foreign national identity card issued in Switzerland will be able to apply for an e-ID. In response to feedback from the consultation process, the Federal Council is proposing that the e-ID be issued both online and at passport offices.&lt;/p&gt; &lt;p&gt;Use of the e-ID is voluntary and free of charge. It can be used both on the internet - for example when ordering a criminal records extract online - and in face-to-face situations - for example in shops as proof of age when buying alcohol. All federal services for which the e-ID can be used will continue to be offered in analogue form. At the same time, all Swiss authorities must accept the e-ID as a valid proof of identity, provided they accept electronic credentials in principle. &lt;/p&gt; &lt;h3&gt;Federal government paves the way for digital transformation&lt;/h3&gt; &lt;p&gt;The Confederation is to be responsible for issuing the e-ID and will provide the infrastructure required to operate it. It will also provide the app required by users to save their e-ID on their smartphone. This will also be accessible without restrictions to people with disabilities. Contrary to what was envisaged in the consultation, the Confederation rather than the cantons will provide support for users.&lt;/p&gt; &lt;p&gt;The Federal Council is also proposing that the state infrastructure created for the e-ID should be made available to cantonal and communal authorities and private individuals. Documents such as confirmation of residence, business register extracts, diplomas, tickets or membership cards, which today are usually issued physically or at best as PDF documents, will in future also be available as digital credentials on a smartphone. In this way, the Confederation is laying the foundations for Switzerland's digital transformation.&lt;/p&gt; &lt;h3&gt;E-ID guarantees the best possible data protection&lt;/h3&gt; &lt;p&gt;Users of the state-recognised e-ID will have the best possible control over their data (self-sovereign identity). Data protection will be guaranteed firstly by the system itself (privacy by design), secondly by minimising the data that must be disclosed (data minimisation) and thirdly by storing the e-ID exclusively on the user's smartphone (decentralised data storage). As regards data protection, in view of the results of the consultation the Federal Council is proposing a further measure: as a deterrent to ensure data minimisation, if someone requests more e-ID data than is necessary in a specific case, public notice will be given of this. &lt;/p&gt; &lt;p&gt;The legislation is formulated to be technology-neutral, so that it will still be relevant and applicable even if major technical and societal developments occur. And lastly, the Swiss e-ID system is intended to comply with international standards, which will ensure that the e-ID can also be recognised and used abroad going forward.&lt;/p&gt; &lt;p&gt;The Federal Council plans to offer the e-ID from 2026. In order to keep to this schedule, the preparatory work for building the required infrastructure has already begun. Around CHF 182 million will be required between 2023 and 2028 to develop and operate the trust infrastructure, issue the e-ID and run the pilot projects. The operating costs from 2029 are estimated at around CHF 25 million per year. &lt;/p&gt; &lt;p&gt;A previous e-ID Act was rejected in a referendum on 7 March 2021. In contrast to the new proposal, the previous legislation envisaged a system in which the e-ID would be issued by private providers rather than by the Confederation.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Explanation of technical terms&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Self-sovereign identity (i.e. self-determined identity&lt;/i&gt;): Maximum user control over personal data. For example, the e-ID is only stored on the smartphone. The user determines when and where the e-ID is used.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Privacy by design (data protection-friendly hardware and software):&lt;/i&gt; Data protection is taken into account in the development of the entire system from the very beginning. For example, the issuer of the e-ID has no knowledge of when and where someone uses an e-ID.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Data minimisation: &lt;/i&gt;Only the e-ID data that are absolutely necessary for a specific purpose are transmitted when the e-ID is used. For example, if a customer must be at least 18 years old to make a purchase, a web shop only receives the information that the customer has reached this minimum age. Other personal data such as the actual date of birth are not transmitted.&lt;/p&gt; </text>
       <contact>Rolf Rauschenbach, Federal Office of Justice, T +41 58 465 31 20, rolf.rauschenbach@bj.admin.ch</contact>
-      <attachment id="266482">
+      <attachment id="268790">
         <title>Vernehmlassungsergebnisse</title>
         <format>pdf</format>
         <size-kb>446</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84257.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266483">
+      <attachment id="268791">
         <title>Résultats de la procédure de consultation</title>
         <format>pdf</format>
         <size-kb>445</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84258.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266484">
+      <attachment id="268792">
         <title>Risultati della consultazione</title>
         <format>pdf</format>
         <size-kb>441</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/84259.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="266485">
-        <title>Botschaft</title>
-        <format>pdf</format>
-        <size-kb>755</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84260.pdf</uri>
+      <link id="268802">
+        <title>Botschaft (BBl 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/de</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266486">
-        <title>Message</title>
-        <format>pdf</format>
-        <size-kb>691</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84261.pdf</uri>
+      </link>
+      <link id="268803">
+        <title>Message (FF 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/fr</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266487">
-        <title>Messaggio</title>
-        <format>pdf</format>
-        <size-kb>760</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84262.pdf</uri>
+      </link>
+      <link id="268804">
+        <title>Messaggio (FF 2023 2842)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2842/it</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266488">
-        <title>Entwurf</title>
-        <format>pdf</format>
-        <size-kb>251</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84263.pdf</uri>
+      </link>
+      <link id="268805">
+        <title>Entwurf (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/de</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266489">
-        <title>Projet</title>
-        <format>pdf</format>
-        <size-kb>248</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84264.pdf</uri>
+      </link>
+      <link id="268806">
+        <title>Projet (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/fr</uri>
         <position>Context</position>
-      </attachment>
-      <attachment id="266490">
-        <title>Disegno</title>
-        <format>pdf</format>
-        <size-kb>255</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/84265.pdf</uri>
+      </link>
+      <link id="268807">
+        <title>Disegno (FF 2023 2843)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2023/2843/it</uri>
         <position>Context</position>
-      </attachment>
+      </link>
+      <link id="268799">
+        <title>Ausführungen von Bundesrätin Elisabeth Baume-Schneider</title>
+        <uri>https://www.ejpd.admin.ch/ejpd/de/home/aktuell/reden.msg-id-98895.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="268800">
+        <title>Exposé de la conseillère fédérale Elisabeth Baume-Schneider</title>
+        <uri>https://www.ejpd.admin.ch/ejpd/fr/home/actualite/discours.msg-id-98895.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="268801">
+        <title>Commento della Consigliera federale Elisabeth Baume-Schneider</title>
+        <uri>https://www.ejpd.admin.ch/ejpd/it/home/attualita/reden.msg-id-98895.html</uri>
+        <position>Context</position>
+      </link>
       <revisions>
-        <revision date="2023-11-22 15:33" type="R"/>
         <revision date="2023-11-23 10:57" type="R"/>
+        <revision date="2023-11-22 15:33" type="R"/>
+        <revision date="2023-12-19 08:49" type="R"/>
       </revisions>
     </content>
     <keywords>
-      <keyword id="176" org-id="609">
-        <name lang="de">E-Government</name>
-        <name lang="fr">Cyberadministration</name>
-        <name lang="it">E-Government</name>
-        <name lang="en">e-Government</name>
-      </keyword>
-      <keyword id="175" org-id="609">
-        <name lang="de">Informatik</name>
-        <name lang="fr">Informatique</name>
-        <name lang="it">Informatica</name>
-        <name lang="en">IT</name>
+      <keyword id="16" org-id="403">
+        <name lang="de">E-ID (elektronische Identifizierungsdienste)</name>
+        <name lang="fr">E-ID (services d’identification électronique)</name>
+        <name lang="it">Ie (servizi d’identificazione elettronica)</name>
+        <name lang="en">E-ID (electronic identification services)</name>
       </keyword>
     </keywords>
     <topics>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99463" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2023-12-15</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -34,50 +34,20 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="317" lead="no" topnews="no">
+    <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Gesundheit</name>
-      <name lang="fr">Office fédéral de la santé publique</name>
-      <name lang="it">Ufficio federale della sanità pubblica</name>
-      <name lang="en">Federal Office of Public Health</name>
-      <www lang="de">http://www.bag.admin.ch</www>
-      <www lang="fr">http://www.bag.admin.ch</www>
-      <www lang="it">http://www.bag.admin.ch</www>
-      <www lang="en">http://www.bag.admin.ch</www>
-      <email lang="de">media@bag.admin.ch</email>
-      <email lang="fr">media@bag.admin.ch</email>
-      <email lang="it">media@bag.admin.ch</email>
-      <email lang="en">media@bag.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="701" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -136,34 +106,6 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </department>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </department>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -184,105 +126,105 @@
       <lead>Der Bundesrat hat an seiner Sitzung vom 15. Dezember 2023 den Entwurf eines Mandates für Verhandlungen mit der Europäischen Union (EU) verabschiedet. Das Mandat enthält die Leitlinien für die Verhandlungen. Diese sollen beginnen, sobald das Mandat nach Konsultation des Parlaments und der Kantone definitiv verabschiedet worden ist. </lead>
       <text link="no"> &lt;p&gt;Der Entwurf des Verhandlungsmandats basiert auf den Eckwerten, die der Bundesrat am 21. Juni 2023 genehmigt hat, auf den Ergebnissen der Sondierungsgespräche mit der EU und der Arbeit mit den Sozial- und Wirtschaftspartnern in der Schweiz. Er enthält die Leitlinien, an denen sich die Schweizer Delegation in den einzelnen Bereichen des Verhandlungspakets zu orientieren hat. &lt;/p&gt; &lt;p&gt;Das EDA wird nun in Zusammenarbeit mit dem EDI, dem EJPD, dem EFD, dem WBF und dem UVEK Konsultationen zu diesem Mandatsentwurf bei den Aussenpolitischen Kommissionen des Parlaments und bei den Kantonen durchführen. Die Wirtschafts- und Sozialpartner werden ebenfalls zur Stellungnahme eingeladen. &lt;/p&gt; &lt;p&gt;Der Bundesrat hat ausserdem den Bericht über die Sondierungsgespräche verabschiedet. Dieser Bericht geht auf das Ziel der Gespräche ein, erläutert die Ergebnisse und informiert über den parallellaufenden innenpolitischen Prozess, der bis zum Abschluss der Gespräche mit der EU weitergeführt wird. &lt;/p&gt; &lt;p&gt;Das übergeordnete Ziel des Bundesrates ist es, den bilateralen Weg langfristig zu stabilisieren und weiterzuentwickeln. Zu diesem Zweck hatte die Regierung am 25. Februar 2022 beschlossen, einen umfassenden Ansatz, beruhend auf einem Paket von Kooperations- und Marktzugangsabkommen, zu verabschieden. Im Vergleich zum institutionellen Abkommen – welches der Bundesrat 2021 beendet hatte – bietet der Paketansatz mehr Flexibilität und Handlungsspielraum, um die Interessen der Schweiz während der Verhandlungen zu wahren.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Hauptziele &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der hindernisfreie Zugang zum EU-Binnenmarkt ist das Kernstück des Pakets. Es geht darum, die bestehenden Binnenmarktabkommen zu aktualisieren und neue sektorielle Abkommen in den Bereichen Strom und Lebensmittelsicherheit abzuschliessen. Diese Abkommen ermöglichen der Schweiz einen dauerhaften Zugang zu ihrem grössten Exportmarkt und den Aufbau bzw. die Weiterführung von Kooperationen in Bereichen, die für die Schweiz sehr wichtig sind. Im Paket sind Ausnahmen zum Schutz der wesentlichen Interessen der Schweiz vorgesehen. Institutionelle Fragen werden direkt in den einzelnen Binnenmarktabkommen geregelt. Zudem sollen Regeln über staatliche Beihilfen in das Luft- und das Landverkehrsabkommen sowie in das zukünftige Stromabkommen aufgenommen werden. &lt;/p&gt; &lt;p&gt;Das Paket beinhaltet auch ein Abkommen über die Zusammenarbeit im Gesundheitsbereich und die systematische Teilnahme an EU-Programmen, insbesondere in den Bereichen Bildung und Forschung (z. B. Horizon Europe und Erasmus+). Schliesslich ist ein regelmässiger Beitrag der Schweiz an die Kohäsion innerhalb der EU Teil des Pakets.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Ergebnis der Sondierungen und Verhandlungsrahmen &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Die Sondierungsgespräche wurden im März 2022 aufgenommen und Ende Oktober 2023 abgeschlossen. Die Ergebnisse wurden in einem technischen Dokument der beiden Delegationen, dem &lt;i&gt;«common understanding»&lt;/i&gt;, festgehalten. Dieses Dokument umfasst die Linien der gemeinsamen Verständigung, welche die Delegationen der Schweiz und der EU in den einzelnen Bereichen des Pakets festgelegt haben. &lt;/p&gt; &lt;p&gt;Das &lt;i&gt;common understanding&lt;/i&gt; hält die Ergebnisse der Sondierungsgespräche fest. Die darin skizzierten Lösungen schaffen günstige Voraussetzungen für die Aufnahme von Verhandlungen zwischen der Schweiz und der EU. Es geht nun darum, diese zu konkretisieren und Lösungen für noch offene Fragen zu finden. &lt;/p&gt; &lt;p&gt;In diesem Zusammenhang beschloss der Bundesrat auch, die innenpolitischen Gespräche mit den betroffenen Partnern in den Bereichen Lohnschutz, Strom und Landverkehr fortzusetzen. &lt;/p&gt; &lt;p&gt;Das Verhandlungsmandat umreisst die Ziele, die sich der Bundesrat gesetzt hat. Nach Abschluss der Verhandlungen wird die Regierung eine sorgfältige Abwägung der Vor- und Nachteile vornehmen. &lt;/p&gt; &lt;p&gt;Der Bundesrat ist der Ansicht, dass die Ergebnisse der Sondierungsarbeiten eine solide und ausgewogene Grundlage für die Aufnahme von Verhandlungen darstellen. So konnten Lösungsmöglichkeiten für mehrere Fragen gefunden werden, die sich bei den Gesprächen über das institutionelle Abkommen im Jahr 2021 als Hürden erwiesen hatten, insbesondere im Bereich der Personenfreizügigkeit. Auch die Frage der staatlichen Beihilfen konnte geklärt werden. Es gibt jedoch noch offene Punkte, die bei den Verhandlungen angesprochen werden müssen. &lt;/p&gt; &lt;p&gt;In 11 Sondierungsrunden und 46 Gesprächen auf technischer Ebene und unterstützt durch regelmässige Kontakte auf politischer Ebene mit der EU wurden für sämtliche Paketbestandteile mögliche Lösungsansätze umrissen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Zusammensetzung der Schweizer Delegation &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Bundesrat hat im Weiteren die Zusammensetzung der Schweizer Delegation festgelegt, die mit der EU über die verschiedenen Bereiche des Pakets verhandeln soll. Die operative Gesamtleitung der Verhandlungen wird dem Leiter der Abteilung Europa des EDA, dem stellvertretenden Staatssekretär Patric Franzen, obliegen, der als Chefunterhändler fungieren wird. Er wird diese Aufgabe in gemeinsamer Verantwortung mit den Verhandlungsleitenden der für die verschiedenen Bereiche des Pakets zuständigen Departemente wahrnehmen. Die Verhandlungen werden in den einzelnen Bereichen parallel geführt und sollen nach der endgültigen Genehmigung des Mandats durch die Schweiz und der Verabschiedung eines entsprechenden Verhandlungsmandats durch die EU beginnen. &lt;/p&gt; </text>
       <contact>für weitere Informationen: Kommunikation EDA Tel. Medienstelle +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
-      <attachment id="268685">
+      <attachment id="268811">
         <title>Faktenblatt Strom</title>
         <format>pdf</format>
         <size-kb>234</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85451.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268686">
+      <attachment id="268812">
         <title>Faktenblatt Staatliche Beihilfen</title>
         <format>pdf</format>
         <size-kb>220</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85452.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268687">
+      <attachment id="268813">
         <title>Faktenblatt Schweizer Beitrag</title>
         <format>pdf</format>
         <size-kb>217</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85453.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268688">
+      <attachment id="268814">
         <title>Faktenblatt Politischer Dialog</title>
         <format>pdf</format>
         <size-kb>217</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85454.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268689">
+      <attachment id="268815">
         <title>Faktenblatt Lebensmittelsicherheit</title>
         <format>pdf</format>
         <size-kb>219</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85455.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268690">
+      <attachment id="268816">
         <title>Faktenblatt Landverkehr</title>
         <format>pdf</format>
         <size-kb>235</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85456.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268691">
+      <attachment id="268817">
         <title>Faktenblatt Zuwanderung - UBRL</title>
         <format>pdf</format>
         <size-kb>304</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85457.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268692">
+      <attachment id="268818">
         <title>Faktenblatt Paketansatz</title>
         <format>pdf</format>
         <size-kb>293</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85458.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268693">
+      <attachment id="268819">
         <title>Faktenblatt MRA</title>
         <format>pdf</format>
         <size-kb>281</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85459.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268694">
+      <attachment id="268820">
         <title>Faktenblatt Luftverkehr</title>
         <format>pdf</format>
         <size-kb>278</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85460.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268695">
+      <attachment id="268821">
         <title>Faktenblatt Lohnschutz</title>
         <format>pdf</format>
         <size-kb>300</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85461.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268696">
+      <attachment id="268822">
         <title>Faktenblatt Institutionelle Elemente</title>
         <format>pdf</format>
         <size-kb>375</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85462.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268697">
+      <attachment id="268823">
         <title>Faktenblatt Gesundheit</title>
         <format>pdf</format>
         <size-kb>290</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85463.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268698">
+      <attachment id="268824">
         <title>Faktenblatt EU-Programme</title>
         <format>pdf</format>
         <size-kb>279</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85464.pdf</uri>
         <position>Content</position>
       </attachment>
-      <link id="268741">
+      <link id="268867">
         <title>Paketansatz</title>
         <uri>https://www.eda.admin.ch/europa/de/home/bilateraler-weg/weiterentwicklung-bilateraler-weg/paketansatz.html</uri>
         <position>Content</position>
@@ -295,105 +237,105 @@
       <lead>Lors de sa séance du 15 décembre 2023, le Conseil fédéral a approuvé le projet de mandat de négociation avec l’Union européenne (UE). Le mandat contient les lignes directrices de négociation. Les négociations commenceront lorsque le mandat sera définitivement approuvé, après consultation du Parlement et des cantons.</lead>
       <text link="no"> &lt;p&gt;Le projet de mandat de négociation se base sur les paramètres approuvés par le Conseil fédéral le 21 juin dernier, ainsi que sur les résultats des discussions exploratoires avec l’UE et des travaux avec les partenaires sociaux et économiques en Suisse. Il contient les lignes directrices qui devront être suivies par la délégation suisse dans chacun des domaines du paquet de négociation.&lt;/p&gt; &lt;p&gt;Le DFAE est chargé, en coopération avec le DFI, le DFJP, le DFF, le DEFR et le DETEC, de mener les consultations sur ce document auprès des Commissions de politique extérieure du Parlement ainsi que des cantons. Les partenaires sociaux et économiques seront invités à prendre position.&lt;/p&gt; &lt;p&gt;Le Conseil fédéral a également adopté le rapport sur les discussions exploratoires. Ce rapport rappelle l’objectif de ces travaux, détaille leur résultat et informe sur le processus interne qui se déroule d’ores et déjà en Suisse et cela jusqu’au terme des discussions avec l’UE.&lt;/p&gt; &lt;p&gt;L’objectif premier du Conseil fédéral est de stabiliser et de développer la voie bilatérale avec l’UE. Dans ce but, le gouvernement avait décidé d'adopter, le 25 février 2022, une approche globale basée sur un paquet d’accords de coopération et d’accès au marché. En comparaison avec l’accord institutionnel – auquel le Conseil fédéral a mis fin en 2021 – le paquet permet plus de flexibilité et de marge de manœuvre pour soutenir les intérêts de la Suisse durant les négociations.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Principaux objectifs&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L’accès sans obstacle au marché de l’UE est le pilier du paquet. Il s’agit d’assurer l’actualisation des accords existants sur le marché intérieur et de conclure de nouveaux accords sectoriels dans les domaines de l'électricité et de la sécurité alimentaire. Ces accords permettent à la Suisse un accès durable à son plus grand marché d’exportation et l’établissement de coopérations dans des domaines très importants pour elle. Dans ce cadre, des exceptions visant à protéger les intérêts essentiels de la Suisse sont prévues. Les questions institutionnelles seront réglées directement dans les accords sur le marché intérieur. L’adoption de règles sur les aides d’État est prévue dans les accords sur le transport aérien, les transports terrestres et l’électricité.&lt;/p&gt; &lt;p&gt;Le paquet prévoit également un accord sur la coopération en matière de santé ainsi que la participation systématique aux programmes de l’UE, notamment dans les domaines de l’éducation et de la recherche (à l’exemple d’Horizon Europe et Erasmus+). Enfin, une contribution suisse régulière à la cohésion au sein de l’UE fait partie du paquet.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Résultat des explorations et cadre de la négociation &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Entamées en mars 2022, les discussions exploratoires se sont conclues à la fin du mois d’octobre 2023. Les résultats sont consignés dans un document technique des délégations, le &lt;i&gt;« common understanding&lt;/i&gt; ». Ce document contient les zones d’entente communes que la délégation suisse et celle de l’UE ont définies lors des discussions exploratoires dans chaque domaine du paquet. &lt;/p&gt; &lt;p&gt;Le &lt;i&gt;common understanding&lt;/i&gt; reflète les conclusions du processus exploratoire. Les solutions esquissées dans le document permettent à la Suisse et à l’UE d’engager les négociations dans un cadre favorable. Il s’agira de les concrétiser et de trouver des solutions pour les questions encore ouvertes. &lt;/p&gt; &lt;p&gt;A cet égard, le Conseil fédéral a également décidé de poursuivre avec les partenaires concernés les discussions sur le plan intérieur dans les domaines de la protection des salaires, de l’électricité et des transports terrestres. &lt;/p&gt; &lt;p&gt;Le mandat de négociation définit les buts que le Conseil fédéral s’est fixés. A la fin des négociations, le gouvernement procédera à une pondération des avantages et des inconvénients. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral estime que les résultats des travaux exploratoires constituent une base solide et équilibrée pour entamer des négociations. Il a notamment été possible de trouver des solutions potentielles pour plusieurs obstacles apparus lors des discussions sur l'accord institutionnel en 2021, notamment en matière de libre circulation des personnes. Il a aussi été possible de clarifier la question des aides d'État. Il reste néanmoins des points ouverts qu’il faudra aborder lors des négociations. &lt;/p&gt; &lt;p&gt;Onze rondes exploratoires et 46 discussions techniques avec l’UE, encadrées par des contacts réguliers au niveau politique, ont permis de définir des pistes de solution pour tous les éléments du paquet. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Composition de la délégation suisse &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le Conseil fédéral a également défini la composition de la délégation suisse qui négociera avec l’UE les différents domaines du paquet. La conduite opérationnelle globale des négociations incombera au chef de la Division Europe du DFAE, le secrétaire d’Etat adjoint Patric Franzen, qui sera le négociateur en chef. Il assumera cette tâche en coresponsabilité avec les négociateurs des départements compétents pour les différents domaines du paquet. Les négociations seront menées parallèlement dans chaque domaine et commenceront après l’approbation définitive du mandat par la Suisse et une fois que l’UE aura également adopté son propre mandat de négociation. &lt;/p&gt; </text>
       <contact>Pour plus d'informations: Communication DFAE Tél. Service de presse +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
-      <attachment id="268699">
+      <attachment id="268825">
         <title>Fiche transport terrestre</title>
         <format>pdf</format>
         <size-kb>233</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85465.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268700">
+      <attachment id="268826">
         <title>Fiche sécurité alimentaire</title>
         <format>pdf</format>
         <size-kb>217</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85466.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268701">
+      <attachment id="268827">
         <title>Fiche programmes UE</title>
         <format>pdf</format>
         <size-kb>216</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85468.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268702">
+      <attachment id="268828">
         <title>Fiche électricité</title>
         <format>pdf</format>
         <size-kb>233</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85469.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268703">
+      <attachment id="268829">
         <title>Fiche dialogue politique</title>
         <format>pdf</format>
         <size-kb>213</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85470.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268704">
+      <attachment id="268830">
         <title>Fiche contribution suisse</title>
         <format>pdf</format>
         <size-kb>217</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85471.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268705">
+      <attachment id="268831">
         <title>Fiche aides d'État</title>
         <format>pdf</format>
         <size-kb>220</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85472.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268706">
+      <attachment id="268832">
         <title>Fiche transport aérien</title>
         <format>pdf</format>
         <size-kb>279</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85473.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268707">
+      <attachment id="268833">
         <title>Fiche santé</title>
         <format>pdf</format>
-        <size-kb>289</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85474.pdf</uri>
+        <size-kb>279</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85529.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268708">
+      <attachment id="268834">
         <title>Fiche questions institutionnelles</title>
         <format>pdf</format>
         <size-kb>371</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85475.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268709">
+      <attachment id="268835">
         <title>Fiche protection des salaires</title>
         <format>pdf</format>
         <size-kb>298</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85476.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268710">
+      <attachment id="268836">
         <title>Fiche directive sur la libre circulation des citoyens de l’Union</title>
         <format>pdf</format>
         <size-kb>307</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85477.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268711">
+      <attachment id="268837">
         <title>Fiche ARM</title>
         <format>pdf</format>
         <size-kb>280</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85478.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268712">
+      <attachment id="268838">
         <title>Fiche approche par paquet</title>
         <format>pdf</format>
         <size-kb>294</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85479.pdf</uri>
         <position>Content</position>
       </attachment>
-      <link id="268742">
+      <link id="268868">
         <title>Approche par paquet</title>
         <uri>https://www.eda.admin.ch/europa/fr/home/bilateraler-weg/weiterentwicklung-bilateraler-weg/paketansatz.html</uri>
         <position>Content</position>
@@ -406,105 +348,105 @@
       <lead>Nella sua seduta del 15 dicembre 2023 il Consiglio federale ha approvato il progetto di mandato negoziale con l’Unione europea (UE). Quest’ultimo contiene le linee guida dei negoziati, che avranno inizio dopo l’approvazione definitiva del mandato al termine delle consultazioni del Parlamento e dei Cantoni. </lead>
       <text link="no"> &lt;p&gt;Il progetto di mandato negoziale si basa sui parametri adottati dal Consiglio federale lo scorso 21 giugno e sull’esito dei colloqui esplorativi con l’UE, così come sui lavori condotti con le parti sociali e gli attori economici in Svizzera. Contiene le linee guida che la delegazione svizzera dovrà seguire in ognuno degli ambiti del pacchetto di negoziati.&lt;/p&gt; &lt;p&gt;Il Dipartimento federale degli affari esteri (DFAE) è stato incaricato – in collaborazione con il Dipartimento federale dell’interno (DFI), il Dipartimento federale di giustizia e polizia (DFGP), il Dipartimento federale delle finanze (DFF), il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) – di svolgere le consultazioni delle Commissioni della politica estera del Parlamento e dei Cantoni in merito a tale documento. Le parti sociali e gli attori economici saranno invitati a prendere posizione.&lt;/p&gt; &lt;p&gt;Il Consiglio federale ha anche adottato il rapporto sui colloqui esplorativi, che ribadisce l’obiettivo di questi lavori, ne descrive nel dettaglio l’esito e informa riguardo al processo interno già in corso a livello nazionale, che si protrarrà fino al termine delle discussioni con l’UE.&lt;/p&gt; &lt;p&gt;Il principale obiettivo dell’Esecutivo è stabilizzare e ampliare la via bilaterale con l’UE. A tale scopo, il 25 febbraio 2022 il Governo aveva deciso di adottare un approccio globale basato su un pacchetto di accordi di cooperazione e di accesso al mercato. Rispetto all’accordo istituzionale, a cui il Consiglio federale ha messo fine nel 2021, tale pacchetto offre una maggiore flessibilità e un margine di manovra più ampio a sostegno degli interessi della Svizzera durante i negoziati.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Obiettivi principali&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L’accesso privo di ostacoli al mercato interno dell’UE è la colonna portante del pacchetto. In concreto, l’obiettivo è aggiornare gli accordi esistenti sul mercato interno e concludere nuovi accordi settoriali nell’ambito dell’energia elettrica e della sicurezza alimentare. Questi accordi garantiscono alla Svizzera un accesso duraturo al suo principale mercato di esportazione e le consentono di avviare e proseguire cooperazioni in settori per lei molto importanti. In questo quadro sono previste eccezioni volte a proteggere gli interessi fondamentali del nostro Paese. Le questioni istituzionali saranno risolte direttamente negli accordi sul mercato interno. L’adozione di disposizioni sugli aiuti di Stato è prevista negli accordi relativi al trasporto aereo, ai trasporti terrestri e all’elettricità.&lt;/p&gt; &lt;p&gt;Il pacchetto prevede inoltre un accordo sulla cooperazione in materia di sanità pubblica come anche la partecipazione sistematica ai programmi dell’UE, in particolare nel campo dell’istruzione e della ricerca (p. es. Orizzonte Europa ed Erasmus+). Fa infine parte del pacchetto anche un contributo svizzero periodico a favore della coesione nell’UE.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Esito dei colloqui esplorativi e quadro dei negoziati &lt;/b&gt;&lt;/p&gt; &lt;p&gt;I colloqui esplorativi, avviati nel marzo del 2022, si sono conclusi alla fine di ottobre 2023. I risultati sono riportati in un documento tecnico delle delegazioni, detto «common understanding», che illustra le aree d’intesa comune che la delegazione svizzera e quella dell’UE hanno definito durante i colloqui esplorativi per ogni ambito del pacchetto. &lt;/p&gt; &lt;p&gt;Il «common understanding» rispecchia le conclusioni del processo esplorativo. Le soluzioni delineate permettono alle due parti di intavolare i negoziati in un contesto favorevole. Occorrerà poi concretizzarle e risolvere le questioni ancora in sospeso. &lt;/p&gt; &lt;p&gt;A questo proposito, il Consiglio federale ha anche deciso di portare avanti con le parti interessate le discussioni a livello nazionale nei settori della protezione dei salari, dell’energia elettrica e dei trasporti terrestri. &lt;/p&gt; &lt;p&gt;Il mandato negoziale definisce gli obiettivi fissati dall’Esecutivo. Al termine dei negoziati, il Governo effettuerà una ponderazione dei vantaggi e degli svantaggi. &lt;/p&gt; &lt;p&gt;Il Consiglio federale ritiene che i risultati dei colloqui esplorativi costituiscano una base solida ed equilibrata per avviare i negoziati. È in particolare stato possibile trovare potenziali soluzioni per diversi ostacoli sorti nel 2021 durante le discussioni sull’accordo istituzionale, soprattutto in materia di libera circolazione delle persone, ed è stata chiarita la questione degli aiuti di Stato. Rimangono comunque punti in sospeso che andranno affrontati nel quadro dei negoziati. &lt;/p&gt; &lt;p&gt;Un totale di 11 tornate di colloqui esplorativi e 46 discussioni tecniche con l’UE, oltre a contatti regolari sul piano politico, ha permesso di definire soluzioni possibili per tutti gli elementi del pacchetto.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Composizione della delegazione svizzera &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il Consiglio federale ha anche definito la composizione della delegazione svizzera che condurrà i negoziati con l’UE per le diverse aree tematiche del pacchetto. La gestione operativa globale delle trattative spetterà al capo della Divisione Europa del DFAE e segretario di Stato supplente, Patric Franzen, che assumerà il ruolo di capo negoziatore. Svolgerà questo compito in corresponsabilità con i negoziatori dei dipartimenti competenti per i vari ambiti del pacchetto. I negoziati avranno luogo in parallelo per i singoli settori e inizieranno dopo l’approvazione definitiva del mandato da parte della Svizzera, e una volta che l’UE avrà a sua volta adottato il proprio mandato negoziale.&lt;/p&gt; </text>
       <contact>Informazioni: Comunicazione DFAE Tel. Servizio stampa +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
-      <attachment id="268727">
+      <attachment id="268853">
         <title>Scheda Trasporto terrestre</title>
         <format>pdf</format>
         <size-kb>221</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85494.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268728">
+      <attachment id="268854">
         <title>Scheda Trasporto aereo</title>
         <format>pdf</format>
         <size-kb>268</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85495.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268729">
+      <attachment id="268855">
         <title>Scheda Sicurezza alimentare</title>
         <format>pdf</format>
         <size-kb>207</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85496.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268730">
+      <attachment id="268856">
         <title>Scheda Sanità</title>
         <format>pdf</format>
         <size-kb>219</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85497.pdf</uri>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85528.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268731">
+      <attachment id="268857">
         <title>Scheda Protezione dei salari</title>
         <format>pdf</format>
         <size-kb>221</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85498.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268732">
+      <attachment id="268858">
         <title>Scheda Programma UE</title>
         <format>pdf</format>
         <size-kb>207</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85499.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268733">
+      <attachment id="268859">
         <title>Scheda Elettricità</title>
         <format>pdf</format>
         <size-kb>223</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85500.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268734">
+      <attachment id="268860">
         <title>Scheda Elementi istituzionali</title>
         <format>pdf</format>
         <size-kb>225</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85501.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268735">
+      <attachment id="268861">
         <title>Scheda Direttiva sulla libera circolazione dei cittadini UE</title>
         <format>pdf</format>
         <size-kb>292</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85502.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268736">
+      <attachment id="268862">
         <title>Scheda Dialogo politico</title>
         <format>pdf</format>
         <size-kb>205</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85503.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268737">
+      <attachment id="268863">
         <title>Scheda Contributo svizzero</title>
         <format>pdf</format>
         <size-kb>207</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85504.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268738">
+      <attachment id="268864">
         <title>Scheda ARM</title>
         <format>pdf</format>
         <size-kb>208</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85505.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268739">
+      <attachment id="268865">
         <title>Scheda Approccio a pacchetto</title>
         <format>pdf</format>
         <size-kb>281</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85506.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268740">
+      <attachment id="268866">
         <title>Scheda Aiuti di Stato</title>
         <format>pdf</format>
         <size-kb>209</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85507.pdf</uri>
         <position>Content</position>
       </attachment>
-      <link id="268743">
+      <link id="268869">
         <title>Approccio «a pacchetto»</title>
         <uri>https://www.eda.admin.ch/europa/it/home/bilateraler-weg/weiterentwicklung-bilateraler-weg/paketansatz.html</uri>
         <position>Content</position>
@@ -517,105 +459,105 @@
       <lead>At its meeting on 15 December, the Federal Council approved the draft negotiating mandate with the European Union (EU). The mandate sets out guidelines for the negotiations, which will get under way once the mandate is definitively adopted, after consultation with Parliament and the cantons. </lead>
       <text link="no"> &lt;p&gt;The draft negotiating mandate is based on the parameters approved by the Federal Council on 21 June this year, as well as the outcomes of the exploratory talks with the EU and the discussions held with social and economic partners in Switzerland. It sets out the guidelines to be followed by the Swiss delegation in each component of the negotiating package.&lt;/p&gt; &lt;p&gt;The FDFA has been instructed to conduct consultations on this document with the Foreign Affairs Committees and the cantons, in collaboration with the FDHA, the FDJP, the FDF, the EAER and DETEC. The social and economic partners will be invited to comment.&lt;/p&gt; &lt;p&gt;In addition, the Federal Council adopted the report on the exploratory talks. The report sets out the objective of the talks, details the outcomes, and reports on the internal process that is already taking place in Switzerland and will continue until the end of the talks with the EU.&lt;/p&gt; &lt;p&gt;The Federal Council's primary objective is to consolidate and further develop the bilateral path with the EU. To this end, on 25 February 2022, the federal government decided to adopt a comprehensive approach based on a package of cooperation and market access agreements. Compared with the institutional agreement – which the Federal Council terminated in 2021 – the package allows greater flexibility and scope for action to safeguard Switzerland's interests during the negotiations.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Main objectives&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Barrier-free access to the EU market is the cornerstone of the package, which seeks to update existing agreements on the single market and to conclude new sectoral agreements in electricity and food safety. These agreements will provide Switzerland with lasting access to its largest export market and allow it to develop partnerships in key areas. Within this framework, there are also exceptions to safeguard Switzerland's vital interests. The institutional issues will be regulated directly in the single market agreements. The package also provides for the adoption of state aid rules in the agreements on air transport, overland transport and electricity.&lt;/p&gt; &lt;p&gt;In addition, the package envisages a cooperation agreement on health and systematic participation in EU programmes, particularly in education and research (like Horizon Europe and Erasmus+). Finally, it includes a regular Swiss contribution towards greater cohesion within the EU.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Outcome of exploratory talks and negotiating framework &lt;/b&gt;&lt;/p&gt; &lt;p&gt;The exploratory talks started in March 2022 and were concluded at the end of October 2023. The outcomes are recorded in a technical document that sets out the areas of common understanding defined by the Swiss and EU delegations during the exploratory talks in each area of the package. &lt;/p&gt; &lt;p&gt;The common understanding reflects the outcomes of the exploratory process. The solutions it outlines will provide Switzerland and the EU with a conducive framework in which to embark on the negotiations. These solutions will need to be fleshed out and other solutions will need to be found for the outstanding issues. &lt;/p&gt; &lt;p&gt;In this context, the Federal Council has also decided to pursue domestic discussions with the partners concerned on wage protection, electricity and overland transport. &lt;/p&gt; &lt;p&gt;The negotiating mandate defines the goals that the Federal Council has set itself. Once the negotiations are over, the federal government will weigh up the benefits and disadvantages.&lt;/p&gt; &lt;p&gt;The Federal Council thinks the outcome of the exploratory talks constitutes a solid and balanced basis on which to start the negotiations. For example, it was possible to find potential solutions to a number of obstacles that emerged during the talks on the institutional agreement in 2021, in particular regarding the free movement of persons. The issue of state aid was also clarified. However, there are still some pending issues that will need to be addressed during the negotiations. &lt;/p&gt; &lt;p&gt;Eleven rounds of exploratory talks and 46 technical discussions with the EU within the framework of regular contact at political level allowed potential solutions to be defined for all components of the package.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Composition of Swiss delegation &lt;/b&gt;&lt;/p&gt; &lt;p&gt;The Federal Council also set out the composition of the Swiss delegation that will negotiate the various areas of the package with the EU. Patric Franzen, deputy state secretary and head of the FDFA's Europe Division, will take on the overall operational lead of the negotiations and will act as chief negotiator. He will perform this task in collaboration with negotiators from the departments responsible for the different areas of the package. The negotiations will be conducted simultaneously in each area and will start once the mandate has been definitively approved by Switzerland and once the EU has also adopted its own negotiating mandate. &lt;/p&gt; </text>
       <contact>For further information: FDFA Communication Tel. Press service +41 460 55 55 kommunikation@eda.admin.ch</contact>
-      <attachment id="268713">
+      <attachment id="268839">
         <title>Factsheet Wage protection</title>
         <format>pdf</format>
         <size-kb>236</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85480.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268714">
+      <attachment id="268840">
         <title>Factsheet Swiss contribution</title>
         <format>pdf</format>
         <size-kb>216</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85481.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268715">
+      <attachment id="268841">
         <title>Factsheet State Aid</title>
         <format>pdf</format>
         <size-kb>221</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85482.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268716">
+      <attachment id="268842">
         <title>Factsheet Political Dialog</title>
         <format>pdf</format>
         <size-kb>274</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85483.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268717">
+      <attachment id="268843">
         <title>Factsheet Package approach</title>
         <format>pdf</format>
         <size-kb>290</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85484.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268718">
+      <attachment id="268844">
         <title>Factsheet Overland Transport</title>
         <format>pdf</format>
         <size-kb>237</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85485.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268719">
+      <attachment id="268845">
         <title>Factsheet MRA</title>
         <format>pdf</format>
         <size-kb>217</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85486.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268720">
+      <attachment id="268846">
         <title>Factsheet Institutional Issues</title>
         <format>pdf</format>
         <size-kb>309</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85487.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268721">
+      <attachment id="268847">
         <title>Factsheet Immigration - CRD</title>
         <format>pdf</format>
         <size-kb>307</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85488.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268722">
+      <attachment id="268848">
         <title>Factsheet Health</title>
         <format>pdf</format>
         <size-kb>292</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85489.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268723">
+      <attachment id="268849">
         <title>Factsheet Food Safety</title>
         <format>pdf</format>
         <size-kb>219</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85490.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268724">
+      <attachment id="268850">
         <title>Factsheet EU-Programmes</title>
         <format>pdf</format>
         <size-kb>215</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85491.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268725">
+      <attachment id="268851">
         <title>Factsheet Electricity</title>
         <format>pdf</format>
         <size-kb>235</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85492.pdf</uri>
         <position>Content</position>
       </attachment>
-      <attachment id="268726">
+      <attachment id="268852">
         <title>Factsheet Air Transport</title>
         <format>pdf</format>
         <size-kb>280</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85493.pdf</uri>
         <position>Content</position>
       </attachment>
-      <link id="268744">
+      <link id="268870">
         <title>Package approach</title>
         <uri>https://www.eda.admin.ch/europa/en/home/bilateraler-weg/weiterentwicklung-bilateraler-weg/paketansatz.html</uri>
         <position>Content</position>
@@ -673,11 +615,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
