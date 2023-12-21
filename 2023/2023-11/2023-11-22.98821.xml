@@ -19,35 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="505" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Gruppe Verteidigung</name>
-      <name lang="fr">Groupement de la Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="en">Defence</name>
-      <www lang="de">http://www.vtg.admin.ch</www>
-      <www lang="fr">http://www.vtg.admin.ch</www>
-      <www lang="it">http://www.vtg.admin.ch</www>
-      <www lang="en">http://www.vtg.admin.ch</www>
-      <email lang="de">info@vtg.admin.ch</email>
-      <email lang="fr">info@vtg.admin.ch</email>
-      <email lang="it">info@vtg.admin.ch</email>
-      <email lang="en">info@vtg.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="506" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">armasuisse</name>
-      <name lang="fr">Armasuisse</name>
-      <name lang="it">Armasuisse</name>
-      <name lang="en">Armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/</www>
-      <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
-      <email lang="de">info@armasuisse.ch</email>
-      <email lang="fr">info@armasuisse.ch</email>
-      <email lang="it">info@armasuisse.ch</email>
-      <email lang="en">info@armasuisse.ch</email>
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
     </originator>
     <originator department-msg="no" id="501" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -64,20 +49,35 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="703" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
+    <originator department-msg="no" id="506" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -93,20 +93,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
-    <department id="501">
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch</www>
-      <www lang="fr">http://www.vbs.admin.ch</www>
-      <www lang="it">http://www.vbs.admin.ch</www>
-      <www lang="en">http://www.vbs.admin.ch</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
-    </department>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
@@ -120,6 +106,20 @@
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>

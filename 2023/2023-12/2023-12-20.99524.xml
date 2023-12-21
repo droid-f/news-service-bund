@@ -19,6 +19,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -62,6 +77,20 @@
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -109,6 +138,14 @@
       <contact>FDFA Communication Federal Palace West Wing CH-3003 Bern, Switzerland Tel. Press service: +41 58 460 55 55 E-mail: kommunikation@eda.admin.ch Twitter: @SwissMFA</contact>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="336" org-id="703">
+        <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
+        <name lang="fr">Coopération et développement économiques</name>
+        <name lang="it">Cooperazione e sviluppo economici</name>
+        <name lang="en">Economic Cooperation and Development</name>
+      </offer>
+    </offers>
     <keywords>
       <keyword id="1011" org-id="502">
         <name lang="de">Dossier Ukraine</name>
@@ -118,29 +155,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="3">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">Armed Forces</name>
-      </topic>
-      <topic id="30">
-        <name lang="de">Ausserordentliche Lagen</name>
-        <name lang="fr">Situations extraordinaires</name>
-        <name lang="it">Situazioni straordinarie</name>
-        <name lang="en">Special Situations</name>
-      </topic>
-      <topic id="39">
-        <name lang="de">Schweiz und Ausland</name>
-        <name lang="fr">Suisse et étranger</name>
-        <name lang="it">Svizzero ed estero</name>
-        <name lang="en">Switzerland and Foreign Affairs</name>
-      </topic>
-      <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="en">Security</name>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
