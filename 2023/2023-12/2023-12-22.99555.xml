@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="99555" revoked="no">
+    <version>1</version>
+    <pubdate>2023-12-22</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Administrativuntersuchung zu fehlerhafter Berechnung bei eidgenössischen Wahlen: Bericht stellt keine Verletzung der Sorgfalts-pflicht fest</title>
+      <lead>Nach Feststellung der fehlerhaften Berechnung der aggregierten nationalen Parteistärken bei den eidgenössischen Wahlen vom 22. Oktober 2023 gab EDI-Vorsteher Alain Berset eine Administrativuntersuchung in Auftrag. Diese stellt im zuständigen Bundesamt für Statistik BFS keine offensichtlichen Sorgfalts-pflichtverletzungen fest. Der Bericht empfiehlt verschiedene Massnahmen. Das BFS hat nun den Auftrag zu prüfen, wie diese umgesetzt werden können. Das EDI hat den Bundesrat an seiner Sitzung vom 22. Dezember 2023 über die Re-sultate der Untersuchung informiert. </lead>
+      <text link="no"> &lt;p&gt;Bei den eidgenössischen Wahlen ist das BFS zuständig für die Erstellung der Wahlstatistik. Dazu gehören das Sammeln, Aufbereiten und Publizieren der Ergebnisse am Wahltag. Nach der Auszählung aller Kantone werden die kantonalen Resultate aggregiert und die nationalen Parteistärken als Statistik veröffentlicht. Hierbei kam es am 22. Oktober 2023 zur Publikation von fehlerhaften Ergebnissen. Das korrigierte Resultat der aggregierten nationalen Parteistärken wurde am 25. Oktober 2023 publiziert. EDI-Departementsvorsteher Alain Berset gab daraufhin eine Administrativuntersuchung in Auftrag. Der Bericht liegt nun vor.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Programmierfehler führte zu falscher Berechnung&lt;br /&gt;&lt;/b&gt;Der Bericht bestätigt, dass ein Programmierfehler in einem Importskript der Grund für den Fehler war. Dieser führte dazu, dass in drei Kantonen Stimmen mehrfach gezählt wurden. Bei den eidgenössischen Wahlen wurden 13 verschiedene Datenstandards von den Kantonen eingesetzt. Für jeden Standard musste das BFS ein eigenes Importskript entwickeln. Der Bericht hält fest, dass die kantonalen und kommunalen Wahlergebnisse sowie die Sitzverteilung und die Gewählten vom Fehler nicht betroffen waren.&lt;/p&gt; &lt;p&gt;Der Bericht kommt zum Schluss, dass die Qualitätssicherung und Kontrolle grundsätzlich sichergestellt wäre, im konkreten Fall aber teilweise nicht gegriffen habe. Der Bericht führt auf, dass die personellen Ressourcen in der betroffenen Sektion nicht ausreichend gewesen seien beziehungsweise mehr Kontrollpersonal nötig gewesen wäre. Dies hätte ausgiebigeres Testen im Vorfeld des Wahlsonntags und raschere Nachkontrollen erlaubt. Im Bericht werden keine offensichtlichen Sorgfaltspflichtverletzungen festgestellt, auch andere Dienstpflichts- oder Vertragsverletzungen lägen nicht vor. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Empfehlungen zur Optimierung der Prozesse&lt;br /&gt;&lt;/b&gt;Der Bericht schliesst mit Empfehlungen zur Optimierung der Prozesse und Abläufe, um Fehler künftig zu verhindern. So sollen etwa die kantonalen Datenlieferungen standardisiert werden. Das BFS soll überdies die Personalorganisation in der betroffenen Sektion überprüfen und anpassen und die eingesetzten technischen Lösungen reevaluieren. Das EDI hat dem BFS den Auftrag erteilt zu prüfen, wie diese Empfehlungen umgesetzt werden können.&lt;/p&gt;</text>
+      <contact>Gianna Blum, Co-Leiterin Kommunikation EDI, +41 58 46 50951, gianna.blum@gs-edi.admin.ch</contact>
+      <attachment id="269013">
+        <title>Bericht</title>
+        <format>pdf</format>
+        <size-kb>880</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85576.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Enquête administrative sur les erreurs de calcul lors des élections fédérales: aucune violation constatée du devoir de diligence</title>
+      <lead>Après le constat d’une erreur dans le calcul de la force agrégée des partis au Conseil national lors des élections fédérales du 22 octobre 2023, le chef du Département fédéral de l’intérieur (DFI) Alain Berset a ordonné une enquête administrative. Celle-ci ne constate aucune violation manifeste du devoir de diligence au sein de l’unité compétente, l’Office fédéral de la statistique (OFS). Le rapport recommande différentes mesures. L’OFS est maintenant chargé d’examiner comment les mettre en œuvre. Le DFI a informé le Conseil fédéral des résultats de l’enquête lors de sa séance du 22 décembre 2023.</lead>
+      <text link="no"> &lt;p&gt;Lors des élections fédérales, l'OFS est chargé de l'établissement des statistiques électorales. Cela comprend la collecte, le traitement et la publication des résultats le jour du scrutin. Une fois le dépouillement effectué dans tous les cantons, l'OFS agrège les résultats cantonaux et publie la force des partis au Conseil national sous forme de statistiques. Le 22 octobre dernier, les résultats publiés étaient erronés. Un correctif a été publié le 25 octobre. Le chef du DFI, Alain Berset, a alors ordonné une enquête administrative dont le rapport vient de paraître.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Une erreur de programmation à la source du problème&lt;br /&gt;&lt;/b&gt;Le rapport confirme que cette erreur de calcul est due à une erreur de programmation dans un script d'importation. Dans trois cantons, des voix ont été comptées plusieurs fois. Lors des élections fédérales, l'OFS a dû utiliser 13 standards de données différents en provenance des cantons. Pour chaque standard, l'OFS avait développé un script d'importation spécifique. Le rapport constate que cette erreur n'a pas affecté le résultat des élections aux niveaux communal et cantonal, ni la répartition des sièges et la désignation des personnes élues.&lt;/p&gt; &lt;p&gt;Le rapport conclut que l'assurance qualité et le contrôle sont en principe garantis, mais qu'ils ont partiellement échoué dans ce cas. Les ressources en personnel de la section responsable n'étaient pas suffisantes et il aurait fallu davantage de personnes pour le contrôle. Cela aurait permis de procéder à des tests plus approfondis avant le dimanche des élections et à des vérifications plus rapides le jour même. Le rapport ne fait état d'aucune violation manifeste du devoir de diligence, ni d'aucune autre faute professionnelle ou violation de contrat.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Recommandation d'optimiser les processus&lt;br /&gt;&lt;/b&gt;Le rapport se termine par des recommandations visant à optimiser les processus et les procédures afin d'éviter des erreurs à l'avenir. Il faudrait ainsi standardiser la livraison des données cantonales. L'OFS doit en outre réexaminer et adapter l'organisation du personnel dans la section concernée et réévaluer les solutions techniques utilisées. Le DFI a chargé l'OFS d'examiner comment concrétiser ces recommandations.&lt;/p&gt; </text>
+      <contact>Gianna Blum, co-responsable de la communication DFI, +41 58 465 09 51, gianna.blum@gs-edi.admin.ch</contact>
+      <attachment id="269014">
+        <title>Rapport (en allemand)</title>
+        <format>pdf</format>
+        <size-kb>880</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85577.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Inchiesta amministrativa sull’errore di calcolo alle elezioni federali: il rapporto non rileva alcuna violazione dell’obbligo di diligenza</title>
+      <lead>A seguito dell’errore nel calcolo dei dati aggregati sulle forze partitiche nazionali alle elezioni federali del 22 ottobre 2023, il capo del Dipartimento federale dell’interno DFI Alain Berset ha commissionato un’inchiesta amministrativa dalla quale emerge chiaramente che l’Ufficio federale di statistica UST non ha violato l’obbligo di diligenza. Il rapporto raccomanda tuttavia l’adozione di diverse misure che l’UST è incaricato di esaminare. Il DFI ha informato il Consiglio federale dei risultati dell’inchiesta nella sua seduta del 22 dicembre 2023. </lead>
+      <text link="no"> &lt;p&gt;In occasione delle elezioni federali, l'UST è responsabile della compilazione delle statistiche elettorali. Questo compito comprende la raccolta, l'elaborazione e la pubblicazione dei risultati il giorno delle elezioni. Dopo che tutti i Cantoni sono stati scrutinati, i risultati cantonali vengono aggregati e i dati sulle forze partitiche nazionali pubblicati sotto forma di statistiche. È in questo contesto che, il 22 ottobre 2023, sono stati divulgati dati errati. Il risultato corretto del calcolo dei dati aggregati sulle forze partitiche nazionali è stato pubblicato il 25 ottobre 2023. A seguito di questo errore, il capo del DFI Alain Berset ha commissionato un'inchiesta amministrativa di cui è ora disponibile il rapporto con i risultati.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Calcolo errato dovuto a un errore di programmazione&lt;br /&gt;&lt;/b&gt;Il rapporto conferma che l'errore di calcolo è dovuto a un errore di programmazione in uno script d'importazione, a seguito del quale in tre Cantoni i voti sono stati conteggiati più di una volta. Nelle elezioni federali, i Cantoni hanno applicato 13 diversi standard di dati. Per ciascuno di essi, l'UST ha dovuto sviluppare un apposito script d'importazione. Il rapporto stabilisce altresì che l'errore di calcolo non ha invalidato né i risultati cantonali e comunali delle elezioni, né la ripartizione dei seggi e dei candidati eletti.&lt;/p&gt; &lt;p&gt;Giunge inoltre alla conclusione che l'assicurazione e il controllo della qualità sono sostanzialmente stati garantiti, ma in alcuni casi non sono stati efficaci. Il rapporto evidenzia anche che le risorse umane nella sezione interessata non erano sufficienti e che sarebbe stato necessario più personale di controllo. Maggiori risorse avrebbero consentito di effettuare test più approfonditi prima della domenica elettorale e controlli più rapidi in seguito. Il rapporto non ravvisa alcuna manifesta violazione dell'obbligo di diligenza e nemmeno violazioni dei doveri di servizio o di obblighi contrattuali. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Raccomandazioni per l'ottimizzazione dei processi&lt;br /&gt;&lt;/b&gt;Il rapporto si conclude con una serie di raccomandazioni per ottimizzare i processi e le procedure al fine di prevenire errori in futuro. Una delle misure riguarda la fornitura dei dati cantonali, che dovrà essere standardizzata. L'UST dovrà inoltre rivedere e adeguare di conseguenza l'organizzazione del personale nella sezione interessata e rivalutare le soluzioni tecniche utilizzate. Il DFI ha incaricato l'UST di esaminare in che modo attuare queste raccomandazioni. &lt;/p&gt; </text>
+      <contact>Gianna Blum, co-responsabile della comunicazione DFI, +41 58 465 09 51, gianna.blum@gs-edi.admin.ch</contact>
+      <attachment id="269015">
+        <title>Rapporto (in tedesco)</title>
+        <format>pdf</format>
+        <size-kb>880</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85578.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
