@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99583" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2023-12-31</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -49,20 +49,35 @@
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="501" lead="no" topnews="no">
+    <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sports DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch</www>
-      <www lang="fr">http://www.vbs.admin.ch</www>
-      <www lang="it">http://www.vbs.admin.ch</www>
-      <www lang="en">http://www.vbs.admin.ch</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="601" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </originator>
     <originator department-msg="no" id="701" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -135,6 +150,20 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">http://www.efd.admin.ch</www>
+      <www lang="fr">http://www.dff.admin.ch</www>
+      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
+      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </department>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
@@ -155,17 +184,17 @@
       <lead>Die Bundeskanzlei hat das offizielle Bundesratsfoto 2024 veröffentlicht. Mit dem Bild der Fotografin Sina Guntern will Bundespräsidentin Viola Amherd die Werte Zuversicht, Verbundenheit und Weitsicht vermitteln. </lead>
       <text link="no">Das Foto zeigt die sieben Mitglieder des Bundesrates und den Bundeskanzler im Bundeshaus Ost, vor einer Leinwand mit Bergpanorama: Zu erkennen sind Berge aus verschiedenen Regionen der Schweiz, beispielsweise das Matterhorn, der San Salvatore, der Chasseral und der Säntis. &lt;br /&gt;&lt;br /&gt;Die Bergwelt im Spiel von Licht und Schatten soll typische Schweizer Werte versinnbildlichen. Im Präsidialjahr von Bundespräsidentin Viola Amherd stehen insbesondere drei Werte im Vordergrund, die in schwierigen Zeiten an Bedeutung gewinnen: Zuversicht, dass die Schweiz mit ihren Stärken die Herausforderungen der Zeit meistern kann. Verbundenheit, um die Verantwortung gemeinsam zu tragen und mutige Entscheide zu treffen. Weitsicht, heute die richtigen Schritte zu tun, um die Hürden der Zukunft mit Schwung zu überwinden.&lt;br /&gt;&lt;br /&gt;«Die weltweiten Geschehnisse verunsichern viele Menschen in der Schweiz. In solchen Zeiten braucht es entschiedenes Handeln. Der rote Faden dafür sollen unsere geteilten Werte sein», sagt Bundesrätin Viola Amherd, die im Jahr 2024 Bundespräsidentin ist. Das Foto symbolisiert, dass auch der Bundesrat für diese Werte einsteht und vor dem Hintergrund dieser Werte zusammenarbeitet. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Die Berge ins Bundeshaus gebracht&lt;/b&gt;&lt;br /&gt;Die Berner Fotografin Sina Guntern hat das Bergpanorama aus Diffusorfolie, Karton, Holz und Stoff selbst gestaltet. Inspirieren lassen hat sie sich von der verbindenden Wirkung der Berge, die das ganze Land prägen, und von der Weitsicht ihrer Gipfel: «Die Bundesrätinnen und Bundesräte lenken vom Bundeshaus aus die Geschicke des ganzen Landes. Deshalb wollte ich Berge aus allen Ecken der Schweiz zu ihnen bringen.»&lt;br /&gt;&lt;br /&gt;Das offizielle Bundesratsfoto wurde in einer Auflage von 40’000 Exemplaren gedruckt. Es kann heruntergeladen und bestellt werden unter www.admin.ch. Dort zeigt ein kurzer Film, wie das Bundesratsfoto entstanden ist.&lt;br /&gt;&lt;br /&gt;(Bildlegende)&lt;br /&gt;&lt;br /&gt;Von links nach rechts: Bundeskanzler Viktor Rossi (GLP), Bundesratsmitglieder Elisabeth Baume-Schneider (SP), Ignazio Cassis (FDP), Karin Keller-Sutter (FDP), Viola Amherd (Die Mitte), Guy Parmelin (SVP), Albert Rösti (SVP), Beat Jans (SP).&lt;br /&gt;&lt;br /&gt;Alle Berge von hinten nach vorne und links nach rechts: Moléson, Pilatus, S-chalambert, Eiger, Mönch und Jungfrau, Säntis, Dents du midi, Matterhorn, Tschingelhörner, San Salvatore, Chasseral.</text>
       <contact>André Simonazzi Bundesratssprecher 079 597 64 49</contact>
-      <link id="269100">
+      <link id="269370">
         <title>Making of</title>
         <uri>https://youtu.be/BwMeKuu9x9Y</uri>
         <position>Context</position>
       </link>
-      <link id="269101">
+      <link id="269371">
         <title>BBL-Shop</title>
         <uri>https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start.do</uri>
         <position>Context</position>
       </link>
-      <link id="269102">
+      <link id="269372">
         <title>Bundesratsfotos seit 1993</title>
         <uri>https://www.admin.ch/gov/de/start/bundesrat/bilder-und-reden-des-bundesrats/offizielle-bundesratsbilder.html</uri>
         <position>Context</position>
@@ -178,17 +207,17 @@
       <lead>La Chancellerie fédérale a publié la photo officielle du Conseil fédéral de 2024. Avec cette photo, réalisée par la photographe Sina Guntern, la présidente de la Confédération Viola Amherd veut mettre en avant les valeurs d’optimisme, de cohésion et d’anticipation. </lead>
       <text link="no">La photo montre les sept conseillers fédéraux et le chancelier de la Confédération au Palais fédéral est, devant une toile de fond représentant des silhouettes de montagnes dans lesquelles on reconnaît des sommets de différentes régions suisses : Cervin, San Salvatore, Chasseral ou encore Säntis. &lt;br /&gt;&lt;br /&gt;Ces profils de montagnes se détachant dans un jeu d’ombre et de lumière illustrent des vertus typiquement suisses. Durant son année présidentielle, Viola Amherd entend mettre l’accent sur trois valeurs particulièrement importantes dans les périodes difficiles : l’optimisme, qui permet de croire en la capacité qu’a la Suisse de relever les défis de notre époque en mettant à profit ses atouts ; la cohésion, qui permet d’assumer ensemble les responsabilités et de prendre des décisions courageuses ; l’anticipation, qui permet de prendre aujourd’hui l’élan nécessaire pour franchir les obstacles de demain.&lt;br /&gt;&lt;br /&gt;« De nombreux habitants de notre pays sont profondément ébranlés par ce qui se passe dans le monde. Dans des périodes comme celle-ci, il est essentiel d’agir avec détermination. Nos valeurs partagées doivent nous servir de fil conducteur », indique la conseillère fédérale Viola Amherd, qui assurera la présidence de la Confédération en 2024. La photo symbolise aussi le fait que l’ensemble du Conseil fédéral défend ces valeurs et en fait la toile de fond de son action.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Faire entrer les montagnes au Palais fédéral&lt;/b&gt;&lt;br /&gt;La photographe bernoise Sina Guntern a créé elle-même le panorama montagneux qui sert d’arrière-plan à la photo en se servant de film transparent, de carton, de bois et de tissu. Son inspiration lui est venue de l’effet fédérateur des montagnes, qui dominent tout le territoire, et de la vue que l’on a depuis leur sommet : « Les conseillers fédéraux dirigent l’ensemble du pays depuis le Palais fédéral. C’est pour cela que j’ai voulu faire venir à eux des montagnes de toutes les régions de Suisse. »&lt;br /&gt;&lt;br /&gt;La photo officielle du Conseil fédéral a été imprimée à 40 000 exemplaires. Elle peut être téléchargée ou commandée sur le site www.admin.ch, où se trouve aussi une vidéo consacrée à sa création. &lt;br /&gt;&lt;br /&gt;(Légende)&lt;br /&gt;&lt;br /&gt;De gauche à droite : le chancelier de la Confédération Viktor Rossi (PVL), les chanceliers fédéraux Elisabeth Baume-Schneider (PS), Ignazio Cassis (PLR), Karin Keller-Sutter (PLR), Viola Amherd (Le Centre), Guy Parmelin (UDC), Albert Rösti (UDC) et Beat Jans (PS).&lt;br /&gt;&lt;br /&gt;Montagnes représentées (de l’arrière à l’avant et de gauche à droite) : Moléson, Pilate, S-chalambert, Eiger, Mönch, Jungfrau, Säntis, Dents-du-Midi, Cervin, Tschingelhörner, San Salvatore, Chasseral.</text>
       <contact>André Simonazzi Porte-parole du Conseil fédéral 079 597 64 49</contact>
-      <link id="269100">
+      <link id="269370">
         <title>Making of</title>
         <uri>https://youtu.be/BwMeKuu9x9Y</uri>
         <position>Context</position>
       </link>
-      <link id="269101">
+      <link id="269371">
         <title>BBL-Shop</title>
         <uri>https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start.do</uri>
         <position>Context</position>
       </link>
-      <link id="269103">
+      <link id="269373">
         <title>Photos officielles du Conseil fédéral depuis 1993</title>
         <uri>https://www.admin.ch/gov/fr/accueil/conseil-federal/photos-discours-conseil-federal/photos-officielles-du-conseil-federal.html</uri>
         <position>Context</position>
@@ -201,17 +230,17 @@
       <lead>La Cancelleria federale ha pubblicato la fotografia ufficiale del Consiglio federale per il 2024. Con questo scatto della fotografa Sina Guntern, la presidente della Confederazione Viola Amherd vuole trasmettere i valori di fiducia, unità e lungimiranza.</lead>
       <text link="no">La fotografia ritrae i sette membri del Consiglio federale e il cancelliere della Confederazione nel Palazzo federale Est davanti a una tela con un panorama alpino in cui si riconoscono montagne di varie regioni della Svizzera, come il Cervino, il San Salvatore, il Chasseral e il Säntis. &lt;br /&gt;&lt;br /&gt;Questo panorama di montagne, che si stagliano in un gioco di luci e ombre, simboleggia i valori tipici della Svizzera. Nel suo anno presidenziale Viola Amherd intende porre l’accento soprattutto su tre valori particolarmente importanti in questi tempi difficili: la fiducia, con cui la Svizzera può affrontare le sfide del tempo con i suoi punti di forza; l’unità, che consente di condividere le responsabilità e prendere decisioni coraggiose; la lungimiranza, che ci fa fare i passi giusti oggi per superare con slancio gli ostacoli di domani.&lt;br /&gt;&lt;br /&gt;«Molte persone in Svizzera sono turbate da quel che accade nel mondo. In tempi come questi è necessario agire con decisione. Dobbiamo farlo sulla base dei nostri valori comuni», afferma la consigliera federale Viola Amherd, che nel 2024 assumerà la carica di presidente della Confederazione. La fotografia simboleggia il fatto che anche il Consiglio federale difende questi valori e li tiene sempre ben presenti. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Le montagne entrano a Palazzo federale&lt;/b&gt;&lt;br /&gt;La fotografa bernese Sina Guntern ha creato lei stessa il panorama di montagne sullo sfondo utilizzando lamina diffusore, cartone, legno e tessuto. Si è ispirata al senso di unità emanato dalle montagne, che sono il segno distintivo di tutto il territorio svizzero, e alla possibilità di scrutare l’orizzonte dalle loro vette: «Da Palazzo federale i consiglieri federali reggono le sorti dell’intero Paese. Ho così voluto fare entrare a Palazzo le montagne di tutte le regioni della Svizzera».&lt;br /&gt;&lt;br /&gt;La fotografia ufficiale del Consiglio federale è stata stampata in 40 000 copie e può essere ordinata sul sito Internet www.admin.ch, da dove può anche essere scaricata. Un breve filmato mostra come è stata realizzata.&lt;br /&gt;&lt;br /&gt;(Didascalia)&lt;br /&gt;&lt;br /&gt;Da sinistra a destra: il cancelliere della Confederazione Viktor Rossi (PVL), i consiglieri federali Elisabeth Baume-Schneider (PS), Ignazio Cassis (PLR), Karin Keller-Sutter (PLR), Viola Amherd (Il Centro), Guy Parmelin (UDC), Albert Rösti (UDC), Beat Jans (PS).&lt;br /&gt;&lt;br /&gt;Le montagne ritratte (da dietro a davanti e da sinistra a destra): Moléson, Pilatus, S-chalambert, Eiger, Mönch e Jungfrau, Säntis, Dents du midi, Cervino, Tschingelhörner, San Salvatore, Chasseral.</text>
       <contact>André Simonazzi Portavoce del Consiglio federale 079 597 64 49</contact>
-      <link id="269100">
+      <link id="269370">
         <title>Making of</title>
         <uri>https://youtu.be/BwMeKuu9x9Y</uri>
         <position>Context</position>
       </link>
-      <link id="269101">
+      <link id="269371">
         <title>BBL-Shop</title>
         <uri>https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start.do</uri>
         <position>Context</position>
       </link>
-      <link id="269104">
+      <link id="269374">
         <title>Foto ufficiali del Consiglio federale dal 1993</title>
         <uri>https://www.admin.ch/gov/it/pagina-iniziale/consiglio-federale/foto-e-discorsi-del-consiglio-federale/foto-ufficiali-del-consiglio-federale.html</uri>
         <position>Context</position>
@@ -219,11 +248,11 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="5530" org-id="501">
-        <name lang="de">Bundespolitik / Bundesrat</name>
-        <name lang="fr">Politique fédérale</name>
-        <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
+      <keyword id="5981" org-id="502">
+        <name lang="de">Departementschef</name>
+        <name lang="fr">Departementschef</name>
+        <name lang="it">Departementschef</name>
+        <name lang="en">Departementschef</name>
       </keyword>
     </keywords>
     <topics>
