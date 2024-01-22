@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99693" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2024-01-15</pubdate>
     <type>Memorandum</type>
     <originator department-msg="yes" id="502" lead="yes" topnews="no">
@@ -34,21 +34,6 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="703" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
-    </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
@@ -63,48 +48,34 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
-    <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Die Schweiz und China erneuern hochrangige Kontakte und vertiefen Beziehungen vor Jubiläumsjahr</title>
       <lead>Eine Delegation des Bundesrates unter der Leitung von Bundespräsidentin Viola Amherd hat am Montag, 15. Januar 2024, eine chinesische Delegation unter der Leitung von Premierminister Li Qiang im Landgut Lohn zu einem offiziellen Besuch in der Schweiz empfangen. Es handelte sich um das erste derart hochrangige Treffen seit der Pandemie. Zur Sprache kamen die tiefen und vielfältigen bilateralen Beziehungen, die sich durch Dialoge in rund 30 Bereichen auszeichnen, sowie Fragen der internationalen Aktualität. </lead>
       <text link="no">&lt;p&gt;Für die Landesregierung nahm auch Bundesrat Guy Parmelin, Vorsteher des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF) an den Gesprächen teil. Zur chinesischen Delegation zählten MofCom Vice Minister Wang Shouwen, der Gouverneur der Zentralbank Pan Gongsheng und hochrangige Vertreter mehrerer Ministerien, darunter der stellvertretende Aussenminister Ma Zhaoxu. Beide Seiten würdigten den Umstand, dass im Jahr vor dem 75-jährigen Bestehen der diplomatischen Beziehungen zwischen der Schweiz und China wieder Kontakte auf höchster Ebene stattfinden. Es ist ein gemeinsames Ziel für 2024, die bilateralen Dialoge fortzuführen und die 2016 vereinbarte «innovative strategische Partnerschaft» weiter zu vertiefen. &lt;/p&gt;&lt;p&gt;Zur Sprache kam am Montag der Dialog zwischen den Aussenministerien, der dieses Jahr wiederaufgenommen werden soll. Thematisiert werden in diesem Rahmen unter anderem Entwicklungszusammenarbeit, Mediation und Menschenrechte. Weitere bilaterale Dialoge gibt es etwa in den Bereichen Wissenschaft, Migration, Arbeit und Beschäftigung, geistiges Eigentum, Gesundheit und Umwelt. Auch im Wirtschafts- und Finanzbereich werden die Dialoge nach dem pandemiebedingten Unterbruch wiederaufgenommen. Ebenfalls Thema war, ob China die Schweiz in die Liste der Länder aufnimmt, deren Bewohnerinnen und Bewohner von einer visumsfreien Einreise für 15 Tage profitieren.&lt;/p&gt;&lt;p&gt;Nach dem Austausch im Lohn wurde eine gemeinsame Erklärung unterzeichnet. Diese hält insbesondere fest, dass eine 2017 lancierte, gemeinsame Studie zur Weiterentenwicklung des Freihandelsabkommens Schweiz-China abgeschlossen werden konnte. Dies bedeutet einen wichtigen Schritt im Hinblick auf die Aufnahme möglicher Verhandlungen. &lt;/p&gt;&lt;h2&gt;Breite Themenpalette &lt;/h2&gt;&lt;p&gt;Ebenfalls Gesprächsthema war der chinesisch-europäische Cyberdialog, an dem die Schweiz beteiligt ist. Die Schweizer Delegation betonte die Bedeutung der multilateralen Zusammenarbeit mit China und anderen internationalen Partnern, um Stabilität und Sicherheit im Cyberraum zu fördern. Die Schweiz misst der Achtung der Grundfreiheiten auch im digitalen Zeitalter grosse Bedeutung bei. &lt;/p&gt;&lt;p&gt;Bei den globalen Themen standen auch die Bekämpfung des Klimawandels und die Ergebnisse der UNO-Klimakonferenz von Dubai, der russische Angriffskrieg gegen die Ukraine, der Krieg im Nahen Osten und die Lage in Ostasien und allgemein die Entwicklung der Sicherheitsarchitektur und des Multilateralismus auf der Traktandenliste. Die Schweizer Delegation betonte die Notwendigkeit einer internationalen Ordnung, die auf dem Recht und den Grundsätzen der Charta der Vereinten Nationen beruht.&lt;/p&gt;&lt;h2&gt;Enge Kontakte seit Jahrzehnten&lt;/h2&gt;&lt;p&gt;Die Schweiz und China pflegen bereits seit Jahrzehnten enge Kontakte. Als einer der ersten westlichen Staaten anerkannte die Schweiz am 17. Januar 1950 die Volksrepublik China. Seit 2010 ist China der wichtigste Handelspartner der Schweiz in Asien und der insgesamt drittwichtigste Handelspartner hinter der EU und den USA. Die Schweiz zählt zudem zu den rund 60 Staaten, die mit China eine „strategische Partnerschaft“ unterhalten. 2017 weilte der chinesische Präsident Xi Jinping für einen Staatsbesuch in der Schweiz. 2019 wurde Bundespräsident Ueli Maurer in China zum Staatsbesuch empfangen. &lt;/p&gt;</text>
       <contact>Kommunikation VBS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="269493">
+      <attachment id="269671">
         <title>Foto 01 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5819</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85720.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269494">
+      <attachment id="269672">
         <title>Foto 02 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5638</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85726.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269497">
+      <attachment id="269675">
         <title>Foto 03 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>4393</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85728.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="269489">
+      <link id="269667">
         <title>Bilaterale Beziehungen Schweiz–China</title>
         <uri>https://www.eda.admin.ch/countries/china/de/home/bilaterale-beziehungen/in-kuerze.html</uri>
         <position>Context</position>
@@ -119,28 +90,28 @@
       <lead>Une délégation du Conseil fédéral, conduite par la présidente de la Confédération Viola Amherd, a reçu lundi 15 janvier 2024 au domaine du Lohn une délégation chinoise, conduite par le premier ministre Li Qiang, dans le cadre d’une visite officielle en Suisse. Cette rencontre de haut niveau, la première depuis la pandémie, a été l’occasion d’évoquer la profondeur et la diversité des relations bilatérales que les deux pays entretiennent dans une trentaine de domaines, ainsi que différentes questions relevant de l’actualité internationale.</lead>
       <text link="no">&lt;p&gt;Du côté du gouvernement suisse, le conseiller fédéral Guy Parmelin, chef du Département fédéral de l’économie, de la formation et de la recherche (DEFR), a également participé aux entretiens. Quant à la délégation chinoise, elle comprenait aussi MofCom Vice Minister Wang Shouwen, le gouverneur de la banque centrale Pan Gongsheng et des représentants de haut niveau de plusieurs ministères, dont le vice-ministre des affaires étrangères Ma Zhaoxu. Les deux délégations ont apprécié le fait que des contacts de haut niveau aient à nouveau lieu l’année précédant le 75e anniversaire des relations diplomatiques entre la Suisse et la Chine. Pour 2024, les deux pays se sont fixé l’objectif commun de poursuivre les dialogues bilatéraux et d’approfondir le « partenariat stratégique innovateur » convenu en 2016. &lt;/p&gt;&lt;p&gt;Le dialogue entre les ministères des affaires étrangères, qui doit être relancé cette année, a aussi été évoqué lundi. Il s’agira d’aborder notamment les thèmes de la coopération au développement, de la médiation et des droits de l’homme. D’autres dialogues bilatéraux existent par exemple dans les domaines de la science, de la migration, du travail, de l’emploi, de la propriété intellectuelle, de la santé et de l’environnement. Après avoir été interrompus en raison de la pandémie, les dialogues ont aussi repris dans les domaines économique et financier. Enfin, les parties ont aussi discuté de la possibilité d’ajouter la Suisse sur la liste des États dont les ressortissants peuvent se rendre en Chine pour 15 jours sans visa. &lt;/p&gt;&lt;p&gt;Une déclaration commune a été signée à l’issue de l’échange au Lohn. Elle rappelle notamment qu’une étude commune lancée en 2017 sur le développement de l’accord de libre-échange entre la Suisse et la Chine a pu être réalisée. Ce travail représente une étape importante en vue de l’ouverture d’éventuelles négociations. &lt;/p&gt;&lt;h2&gt;Un large éventail de thèmes&lt;/h2&gt;&lt;p&gt;Le cyberdialogue sino-européen a fait l’objet de discussions. La délégation suisse a souligné l’importance de la coopération multilatérale avec la Chine et d’autres partenaires pour la stabilité et la sécurité dans le cyberespace. Dans le contexte numérique aussi, la Suisse attache une grande importance au respect des libertés fondamentales. &lt;/p&gt;&lt;p&gt;Différents thèmes relevant de l’actualité internationale ont été abordés : la lutte contre le changement climatique et les résultats de la conférence de l’ONU sur le climat à Dubaï, la guerre d’agression menée par la Russie contre l’Ukraine, la guerre au Proche-Orient, la situation en Asie de l’Est et, plus généralement, le développement de l’architecture de sécurité et du multilatéralisme. La délégation suisse a insisté sur la nécessité d’un ordre international fondé sur le droit et sur les principes de la Charte des Nations unies.&lt;/p&gt;&lt;h2&gt;Plusieurs décennies de relations étroites &lt;/h2&gt;&lt;p&gt;La Suisse et la Chine entretiennent depuis plusieurs décennies des relations étroites. La Suisse a été l’un des premiers pays occidentaux à reconnaître, le 17 janvier 1950, la République populaire de Chine. Depuis 2010, la Chine est le premier partenaire commercial de la Suisse en Asie et le troisième au niveau mondial après les États-Unis et l’Union européenne. En outre, la Suisse fait partie des quelque 60 États qui ont établi avec la Chine un « partenariat stratégique ». Enfin, le président chinois Xi Jinping avait été reçu en Suisse en 2017 pour une visite d’État. Inversement, en 2019, le président de la Confédération Ueli Maurer s’était rendu en Chine, aussi dans le cadre d’une visite d’État. &lt;/p&gt;</text>
       <contact>Communication DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="269495">
+      <attachment id="269673">
         <title>Photo 01 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5819</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85722.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269496">
+      <attachment id="269674">
         <title>Photo 02 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5638</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85727.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269498">
+      <attachment id="269676">
         <title>Photo 03 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>4393</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85729.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="269490">
+      <link id="269668">
         <title>Relations bilatérales Suisse-Chine</title>
         <uri>https://www.eda.admin.ch/countries/china/fr/home/relations-bilaterales/bilaterale.html</uri>
         <position>Context</position>
@@ -155,28 +126,28 @@
       <lead>Lunedì 15 gennaio 2024 una delegazione del Consiglio federale guidata dalla presidente della Confederazione Viola Amherd ha ricevuto presso la Residenza del Lohn una delegazione cinese guidata dal primo ministro Li Qiang in visita ufficiale in Svizzera. Si è trattato del primo incontro di alto livello dopo la pandemia, durante il quale si è discusso delle intense e diversificate relazioni bilaterali, caratterizzate dal dialogo su circa 30 tematiche diverse, nonché di questioni di attualità internazionale.</lead>
       <text link="no">&lt;p&gt;In rappresentanza del Governo, ai colloqui ha partecipato anche il consigliere federale Guy Parmelin, capo del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR). La delegazione cinese era composta dal MofCom Vice Minister Wang Shouwen, dal governatore della banca centrale cinese Pan Gongsheng e da alti rappresentanti di vari ministeri, tra cui il sostituto del ministro degli affari esteri Ma Zhaoxu. Entrambe le parti hanno espresso soddisfazione per i nuovi contatti di alto livello nell’anno che precede il 75° anniversario delle relazioni diplomatiche tra Svizzera e Cina. Uno degli obiettivi comuni per il 2024 è proprio quello di portare avanti i dialoghi bilaterali e di approfondire ulteriormente il «partenariato strategico innovativo» concordato nel 2016.&lt;/p&gt;&lt;p&gt;Lunedì si è discusso del dialogo tra i ministri degli affari esteri, che dovrà essere ripreso quest’anno. Alcuni dei temi affrontati in questa occasione sono la cooperazione allo sviluppo, la mediazione e i diritti umani. Ulteriori colloqui bilaterali hanno riguardato, ad esempio, la scienza, la migrazione, il lavoro e l’occupazione, la proprietà intellettuale, la salute e l’ambiente. Dopo l’interruzione dovuta alla pandemia, il dialogo riprenderà anche nei settori economico e finanziario. Si è inoltre parlato della possibilità che la Cina inserisca la Svizzera nella lista di Paesi i cui cittadini possono soggiornare nel Paese asiatico per 15 giorni senza dover ottenere un visto.&lt;/p&gt;&lt;p&gt;Dopo i colloqui nella Residenza del Lohn è stata firmata una dichiarazione congiunta. Quest’ultima rileva, in particolare, che è stato portato a termine uno studio comune avviato nel 2017 per l’aggiornamento dell’Accordo di libero scambio tra la Svizzera e la Cina. Ciò rappresenta un passo importante in vista di un possibile avvio dei negoziati.&lt;/p&gt;&lt;h2&gt;Ampia gamma di temi trattati&lt;/h2&gt;&lt;p&gt;Un altro tema dei colloqui è stato il dialogo digitale tra Cina ed Europa, al quale partecipa anche la Svizzera. La delegazione elvetica ha ribadito l’importanza della collaborazione multilaterale con la Cina e altri partner internazionali al fine di promuovere la stabilità e la sicurezza nel ciberspazio. Il nostro Paese attribuisce grande importanza al rispetto delle libertà fondamentali anche nell’era digitale.&lt;/p&gt;&lt;p&gt;I temi di portata globale all’ordine del giorno comprendevano la lotta al cambiamento climatico e i risultati della Conferenza dell’ONU sul clima tenutasi a Dubai, la guerra di aggressione della Russia contro l’Ucraina, la guerra nel Vicino Oriente, la situazione in Asia orientale e, in generale, lo sviluppo dell’architettura di sicurezza e del multilateralismo. La delegazione elvetica ha sottolineato la necessità di un ordine internazionale fondato sul diritto e sui principi dello Statuto delle Nazioni Unite.&lt;/p&gt;&lt;h2&gt;Stretti contatti da vari decenni&lt;/h2&gt;&lt;p&gt;Svizzera e Cina intrattengono stretti contatti già da decenni. Il 17 gennaio 1950 la Svizzera è stata uno dei primi Paesi occidentali a riconoscere la neocostituita Repubblica popolare cinese. Dal 2010 la Cina è il principale partner commerciale della Svizzera in Asia e il terzo partner commerciale in assoluto dopo l’Unione europea e gli Stati Uniti. La Svizzera figura inoltre tra i circa 60 Stati con i quali la Cina ha stabilito un partenariato strategico. Nel 2017 il presidente cinese Xi Jinping ha compiuto una visita di Stato in Svizzera e nel 2019 il presidente della Confederazione Ueli Maurer è stato ricevuto in Cina per una visita di Stato.&lt;/p&gt;</text>
       <contact>Comunicazione DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="269493">
+      <attachment id="269671">
         <title>Foto 01 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5819</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85720.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269494">
+      <attachment id="269672">
         <title>Foto 02 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5638</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85726.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269497">
+      <attachment id="269675">
         <title>Foto 03 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>4393</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85728.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="269491">
+      <link id="269669">
         <title>Relazioni bilaterali Svizzera–Cina</title>
         <uri>https://www.eda.admin.ch/countries/china/it/home/la-svizzera-e/relazioni-bilaterali.html</uri>
         <position>Context</position>
@@ -191,28 +162,28 @@
       <lead>On Monday, 15 January, a Federal Council delegation led by President Viola Amherd received a Chinese delegation led by Premier Li Qiang at the Lohn Estate for an official visit to Switzerland. This was the first such high-level meeting since the pandemic. The delegations discussed the deep and wide-ranging bilateral relations characterised by dialogue on around 30 issues, as well as a range of current international affairs.</lead>
       <text link="no">&lt;p&gt;Federal Councillor Guy Parmelin, head of the Federal Department of Economic Affairs, Education and Research (EAER), also attended the talks on behalf of the Swiss government. The Chinese delegation included MofCom Vice Minister Wang Shouwen, the governor of the People’s Bank of China Pan Gongsheng and high-ranking representatives from several other ministries, including Deputy Foreign Minister Ma Zhaoxu. Both sides welcomed the fact that contacts are once again taking place at the highest level in the year leading up to the 75th anniversary of diplomatic relations between Switzerland and China. They agreed that a common goal for 2024 is to continue bilateral dialogue and further deepen the ‘innovative strategic partnership’ agreed in 2016.&lt;/p&gt;&lt;p&gt;One of the topics discussed on Monday was the dialogue between the foreign ministries, which is to be resumed this year. Among other things the dialogue will cover development cooperation, mediation and human rights. Bilateral dialogues are expected to take place on a range of further topics such as science, migration, labour and employment, intellectual property, health and the environment. Dialogue will also be resumed in the area of economic and financial matters following the pandemic-related interruption. A further topic of discussion was whether Switzerland would be included on the list of countries whose residents benefit from visa-free entry to China for stays of up to 15 days.&lt;/p&gt;&lt;p&gt;Following the discussions at the Lohn Estate, a joint declaration was signed with reference in particular to the finalisation of a joint study launched in 2017 on the further development of the free trade agreement between Switzerland and China. This marks an important step towards the start of possible negotiations.&lt;/p&gt;&lt;h2&gt;Broad range of topics&lt;/h2&gt;&lt;p&gt;The Sino-European Cyber Dialogue, in which Switzerland is involved, was also a topic of discussion. The Swiss delegation emphasised the importance of multilateral cooperation with China and other international partners in order to promote stability and security in cyberspace. Switzerland also attaches great importance to respect for fundamental freedoms in the digital age.&lt;/p&gt;&lt;p&gt;Among the global issues on the agenda were the fight against climate change and the results of the UN Climate Change Conference in Dubai, Russia’s war of aggression against Ukraine, the war in the Middle East and the situation in East Asia and, more generally, the development of global security architecture and multilateralism. The Swiss delegation emphasised the need for an international order based on the rule of law and the principles of the United Nations Charter.&lt;/p&gt;&lt;h2&gt;Close contacts over several decades&lt;/h2&gt;&lt;p&gt;Switzerland and China have maintained close contacts for many decades. Switzerland was one of the first Western countries to recognise the People's Republic of China, doing so on 17 January 1950. Since 2010, China has been Switzerland's most important trading partner in Asia and its third most important trading partner overall behind the USA and the EU. Switzerland is also one of around 60 countries that maintain a ‘strategic partnership’ with China. In 2017, President Xi Jinping paid a state visit to Switzerland. In 2019, President Ueli Maurer was received in China on a state visit.&lt;/p&gt;</text>
       <contact>DDPS Communications +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="269495">
+      <attachment id="269673">
         <title>Photo 01 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5819</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85722.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269496">
+      <attachment id="269674">
         <title>Photo 02 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>5638</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85727.jpg</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269498">
+      <attachment id="269676">
         <title>Photo 03 ©Bundeskanzlei Béatrice Devènes VBS/DDPS</title>
         <format>jpg</format>
         <size-kb>4393</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85729.jpg</uri>
         <position>Context</position>
       </attachment>
-      <link id="269492">
+      <link id="269670">
         <title>Bilateral relations Switzerland–China</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/china/switzerland-china.html</uri>
         <position>Context</position>
@@ -236,11 +207,29 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
   </message>
