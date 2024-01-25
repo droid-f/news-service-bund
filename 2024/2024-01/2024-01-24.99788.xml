@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99788" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2024-01-24</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="403" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Bundesamt für Justiz</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@bj.admin.ch</email>
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -83,14 +83,14 @@
       <lead>Ehepartnerinnen und Ehepartner sollen künftig wieder einen Doppelnamen tragen dürfen. Der Bundesrat begrüsst in seiner Stellungnahme vom 24. Januar 2024 den entsprechenden Vorschlag der Rechtskommission des Nationalrats (RK-N). Neu sollen auch die Kinder einen Doppelnamen tragen können, unabhängig davon, ob ihre Eltern miteinander verheiratet sind. </lead>
       <text link="no"> &lt;p&gt;Seit dem Jahr 2013 müssen sich Ehepaare bei der Heirat entscheiden, ob sie ihren jeweiligen Namen behalten oder einen gemeinsamen Familiennamen tragen möchten. Doppelnamen sind nicht mehr zulässig. Es besteht lediglich die Möglichkeit, den nicht amtlichen Allianznamen zu verwenden. Die Kinder erhalten entweder den gemeinsamen Familiennamen oder den Namen eines der beiden Eltern, den diese bei der Eheschliessung als Namen der Kinder bestimmt haben. Bei unverheirateten Paaren tragen die Kinder den Namen eines Elternteils.&lt;/p&gt; &lt;p&gt;Gemäss geltendem Recht ist es somit nicht möglich, die Zusammengehörigkeit eines Ehepaares über den Namen zum Ausdruck zu bringen, ohne dass einer der Ehegatten auf den bisherigen Namen verzichtet. Ausserdem kann eine namensmässige Verbindung zwischen beiden Eltern und dem Kind nur bei verheirateten Eltern geschaffen werden.&lt;/p&gt; &lt;h3&gt;Namensrecht soll vereinfacht werden&lt;/h3&gt; &lt;p&gt;Die gesellschaftliche Realität zeigt, dass die Ehegatten oft ihren bisherigen Namen behalten möchten. Gleichzeitig besteht häufig der Wunsch, eine namensmässige Verbindung zueinander und zu den gemeinsamen Kindern sichtbar machen zu können. Die Rechtskommission des Nationalrats (RK-N) schlägt deshalb vor, dass verheiratete Paare künftig wieder einen Doppelnamen tragen können. Dieser besteht aus den Namen beider Ehegatten. Neu soll der Doppelname mit oder ohne Bindestrich geführt werden können. Zudem ist vorgesehen, dass der Doppelname auch für Kinder ermöglicht wird, unabhängig davon, ob die Eltern miteinander verheiratet sind. Die Kinder sollen ausserdem auch dann einen Doppelnamen tragen dürfen, wenn die verheirateten Eltern ihre Namen behalten. &lt;/p&gt; &lt;p&gt;Der Bundesrat begrüsst in seiner Stellungnahme vom 24. Januar 2024 den entsprechenden Entwurf der RK-N. Er regt jedoch an, die neuen Gesetzesbestimmungen einfacher zu formulieren und gleichzeitig weitere Möglichkeiten für die Namensbildung zu prüfen. So soll es beispielsweise möglich sein, die Reihenfolge der Doppelnamen den Ehegatten zu überlassen. Jeder Ehegatte könnte für sich entscheiden, welcher der erste und welcher der zweite Name sein soll. &lt;/p&gt; </text>
       <contact>Fabia Nyffeler, Bundesamt für Justiz, T +41 58 483 95 26, fabia.nyffeler@bj.admin.ch</contact>
-      <attachment id="269800">
+      <attachment id="269830">
         <title>Stellungnahme des Bundesrates</title>
         <format>pdf</format>
         <size-kb>309</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85808.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269802">
+      <attachment id="269832">
         <title>Infografik</title>
         <format>pdf</format>
         <size-kb>399</size-kb>
@@ -105,14 +105,14 @@
       <lead>Les conjoints devraient de nouveau pouvoir porter un double nom. Le Conseil fédéral approuve la proposition de la Commission des affaires juridiques du Conseil national (CAJ-N) dans son avis du 24 janvier 2024. À l’avenir, les enfants devraient aussi pouvoir porter un double nom et ce, que leurs parents soient mariés ou non. </lead>
       <text link="no"> &lt;p&gt;Depuis 2013, les doubles noms ne sont plus admis et les futurs époux doivent décider lors du mariage s'ils préfèrent conserver chacun leur nom ou porter un nom de famille commun. Le double nom ne subsiste que dans le nom d'alliance non officiel. Les enfants reçoivent soit le nom de famille commun, soit le nom de l'un des parents qui aura été retenu pour les enfants au moment du mariage. Les enfants de couples non mariés portent le nom de l'un des parents.&lt;/p&gt; &lt;p&gt;Le droit en vigueur ne permet donc pas d'exprimer par le nom le lien qui unit un couple sans que l'un des époux ne doive renoncer au nom qu'il portait auparavant. De plus, seuls les parents mariés peuvent tous deux exprimer par le nom le lien qui les unit à leurs enfants.&lt;/p&gt; &lt;h3&gt;Le Conseil fédéral propose de simplifier le projet&lt;/h3&gt; &lt;p&gt;Dans les faits, les époux souhaitent encore souvent conserver leur nom, mais aussi pouvoir rendre visible par cet attribut le lien qui les unit entre eux, d'une part, et à leurs enfants, d'autre part. La CAJ-N propose donc de permettre aux couples mariés de porter à nouveau un double nom composé de leurs deux noms et formé avec ou sans trait d'union. Elle entend également permettre de donner un double nom aux enfants et ce, que les parents soient mariés ou non. Les enfants pourraient d'ailleurs porter un double nom même si leurs parents ont tous deux conservé leur propre nom. &lt;/p&gt; &lt;p&gt;Dans son avis du 24 janvier 2024, le Conseil fédéral approuve le projet de la CAJ-N. Il suggère toutefois de simplifier la formulation des nouvelles dispositions et d'étudier d'autres options de formation du nom. Par exemple, les époux devraient pouvoir choisir l'ordre des éléments du double nom, chacun pouvant décider pour soi-même lequel placer en premier ou en deuxième. &lt;/p&gt; </text>
       <contact>Fabia Nyffeler, Office fédéral de la justice, T +41 58 483 95 26, fabia.nyffeler@bj.admin.ch</contact>
-      <attachment id="269801">
+      <attachment id="269831">
         <title>Avis du Conseil fédéral</title>
         <format>pdf</format>
         <size-kb>299</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/85809.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269803">
+      <attachment id="269833">
         <title>Infographique</title>
         <format>pdf</format>
         <size-kb>397</size-kb>
@@ -127,21 +127,14 @@
       <lead>In futuro, i coniugi dovranno avere di nuovo la possibilità di portare il doppio cognome. Nel parere del 24 gennaio 2024 il Consiglio federale approva la relativa proposta della Commissione degli affari giuridici del Consiglio nazionale (CAG-N). Anche i figli potranno ora assumere un doppio cognome a prescindere dal fatto che i genitori siano sposati. </lead>
       <text link="no"> &lt;p&gt;Dal 2013 i coniugi devono decidere, al momento del matrimonio, se mantenere il proprio cognome o scegliere un cognome coniugale. Il doppio cognome non è più consentito. Vi è solo la possibilità di optare per un cognome di affinità non ufficiale. I figli possono assumere il cognome coniugale o il cognome di uno dei due genitori, scelto come cognome dei figli al momento del matrimonio. I figli di coppie non sposate portano il cognome di uno dei genitori.&lt;/p&gt; &lt;p&gt;Secondo il diritto vigente, per una coppia sposata non è quindi possibile esprimere il suo legame tramite il cognome, senza che uno dei coniugi rinunci al cognome attuale. Inoltre, solo i genitori sposati possono evidenziare verso l'esterno mediante il cognome il legame che li unisce ai propri figli.&lt;/p&gt; &lt;h3&gt;Semplificazione del diritto del cognome&lt;/h3&gt; &lt;p&gt;La realtà sociale mostra che spesso i coniugi vorrebbero mantenere il proprio cognome. Allo stesso tempo è frequente il desiderio di poter rendere visibile mediante il cognome il legame tra i coniugi e i loro figli. Per questo motivo la CAG-N propone che le coppie sposate possano tornare ad avere un doppio cognome composto dai cognomi di entrambi i coniugi, con o senza trattino. È inoltre previsto che anche i figli possano assumere il doppio cognome, a prescindere dal fatto che i loro genitori siano sposati o che mantengano il cognome attuale. &lt;/p&gt; &lt;p&gt;Nel parere del 24 gennaio 2024, il Consiglio federale approva il relativo progetto della CAG-N, suggerendo tuttavia di semplificare le nuove disposizioni di legge e di esaminare al contempo nuove possibilità per la composizione del cognome, lasciando ad esempio decidere a ciascun coniuge l'ordine dei cognomi nel doppio cognome.&lt;/p&gt; </text>
       <contact>Fabia Nyffeler, Ufficio federale di giustizia, T +41 58 483 95 26, fabia.nyffeler@bj.admin.ch</contact>
-      <attachment id="269800">
-        <title>Stellungnahme des Bundesrates</title>
+      <attachment id="269835">
+        <title>Parere del Consiglio federale</title>
         <format>pdf</format>
-        <size-kb>309</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85808.pdf</uri>
+        <size-kb>317</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85857.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="269801">
-        <title>Avis du Conseil fédéral</title>
-        <format>pdf</format>
-        <size-kb>299</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85809.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="269804">
+      <attachment id="269834">
         <title>Infografica</title>
         <format>pdf</format>
         <size-kb>397</size-kb>
@@ -151,11 +144,11 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="130" org-id="403">
-        <name lang="de">Namensrecht</name>
-        <name lang="fr">Droit du nom</name>
-        <name lang="it">Diritto del cognome</name>
-        <name lang="en">Name right</name>
+      <keyword id="122" org-id="401">
+        <name lang="de">Zivilstand</name>
+        <name lang="fr">Etat civil</name>
+        <name lang="it">Stato civile</name>
+        <name lang="en">Civil status</name>
       </keyword>
     </keywords>
     <topics>

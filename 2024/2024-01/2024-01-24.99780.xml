@@ -116,7 +116,27 @@
       </link>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="en">Media releases of the FOEN</name>
+      </offer>
+      <offer id="145" org-id="811">
+        <name lang="de">Newsletter Umweltrecht des BAFU</name>
+        <name lang="fr">Newsletter Droit de l’environnement de l'OFEV</name>
+        <name lang="it">Newsletter Diritto ambientale dell'UFAM</name>
+        <name lang="en">Environmental law newsletter of the FOEN</name>
+      </offer>
+    </offers>
     <keywords>
+      <keyword id="980" org-id="811">
+        <name lang="de">Recht</name>
+        <name lang="fr">Recht</name>
+        <name lang="it">Recht</name>
+        <name lang="en">Recht</name>
+      </keyword>
       <keyword id="620" org-id="811">
         <name lang="de">Klima</name>
         <name lang="fr">Climat</name>
@@ -128,6 +148,12 @@
         <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
         <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
         <name lang="en">Federal Office for the Environment: Homepage</name>
+      </keyword>
+      <keyword id="1808" org-id="811">
+        <name lang="de">Vernehmlassungen</name>
+        <name lang="fr">Consultations</name>
+        <name lang="it">Consultazione</name>
+        <name lang="en">Vernehmlassungen</name>
       </keyword>
     </keywords>
     <topics>
