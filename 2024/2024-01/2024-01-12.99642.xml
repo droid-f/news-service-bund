@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99642" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-01-12</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,19 +63,31 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bundesrat will die Vorgaben zur Aufbewahrung amtlicher Dokumente prüfen</title>
       <lead>Der Bundesrat will einzelne Aspekte der Aufbewahrung und Archivierung von amtlichen Dokumenten und des Zugangs der Öffentlichkeit zu diesen Dokumenten prüfen lassen. In seiner Stellungnahme vom 10. Januar 2024 hat er die entsprechenden Empfehlungen der Geschäftsprüfungskommission des Ständerats (GPK-S) zur Kenntnis genommen. Weiter hat der Bundesrat das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, die Empfehlungen bis Ende 2024 zu überprüfen und ihm Vorschläge zum weiteren Vorgehen zu unterbreiten. </lead>
       <text link="no"> &lt;p&gt;In ihrem Bericht vom 10. Oktober 2023 hat die Geschäftsprüfungskommission des Ständerats (GPK-S) abgeklärt, welche Vorgaben zur Aufbewahrung und Archivierung von Unterlagen in der Bundesverwaltung existieren und in welche Dokumente der Öffentlichkeit Einsicht zu gewähren ist. Dazu hat sie die einschlägigen gesetzlichen Grundlagen analysiert und fünf Empfehlungen an den Bundesrat gerichtet. &lt;/p&gt; &lt;p&gt;Der Bundesrat teilt die Meinung der GPK-S, dass die Transparenz und die Nachvollziehbarkeit des Verwaltungshandelns für das Vertrauen der Bevölkerung in die Behörden zentral ist. In seiner Stellungnahme vom 10. Januar 2024 hat er die Empfehlungen der GPK-S zur Kenntnis genommen und dem EJPD den Auftrag erteilt, diese zu prüfen und ihm bis Ende 2024 Vorschläge zum weiteren Vorgehen zu unterbreiten. &lt;/p&gt; &lt;h3&gt;Wissenstransfer beim Weggang von Mitarbeitenden&lt;/h3&gt; &lt;p&gt;Zum einen will der Bundesrat überprüfen, ob es sinnvoll ist, für die Mitarbeitenden der Bundesverwaltung (insbesondere für die höheren Kaderfunktionen) bei Beendigung ihrer Anstellung beim Bund besondere Massnahmen zur Einhaltung der Aufbewahrungs- und Archivierungspflicht zu ergreifen. Dies könnten beispielsweise Schulungen und Merkblätter sein, mit welchen die Mitarbeitenden auf die Ablage von geschäftsrelevanten Informationen sensibilisiert werden. Des Weiteren soll geprüft werden, ob die Aufbewahrungsfrist für elektronische Daten von ausscheidenden Mitarbeitenden verlängert werden soll - dies unter Berücksichtigung des Daten- und Persönlichkeitsschutzes der betroffenen Personen.&lt;/p&gt; &lt;h3&gt;Zugang zu Dokumenten mit amtlichem und privatem Charakter&lt;/h3&gt; &lt;p&gt;Zum anderen will der Bundesrat prüfen lassen, ob und in welchem Umfang Dokumente, die sowohl einen Bezug zur amtlichen Tätigkeit als auch zum Privatleben des Verwaltungsmitarbeitenden haben, der Öffentlichkeit zugänglich gemacht werden müssen. In diesem Zusammenhang stellt sich auch die Frage, ob der Situation von Magistratspersonen speziell Rechnung getragen werden soll.&lt;/p&gt; &lt;h3&gt;Einsichtsrecht des EDÖB in amtliche Dokumente&lt;/h3&gt; &lt;p&gt;Gegenstand der Prüfung soll ausserdem das Einsichtsrecht des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) in die Dokumente der Bundesverwaltung sein. Der Bundesrat will allfällige Interventionsmöglichkeiten des EDÖB prüfen lassen, wenn dessen Einsichtsrecht nicht gewahrt wird. Die Empfehlung der GPK-S, ein Recht des EDÖB auf den Erlass einer Verfügung zu prüfen, lehnt der Bundesrat hingegen ab. Der EDÖB nimmt im Bereich des Öffentlichkeitsrechts keine Aufsichts-, sondern eine Schlichtungsfunktion wahr. Nach Ansicht des Bundesrats würde die Einführung einer Verfügungskompetenz dem Charakter des informellen Schlichtungsverfahrens zwischen der Bundesverwaltung und der Öffentlichkeit deshalb widersprechen.&lt;/p&gt; </text>
       <contact>Monique Cossali, Bundesamt für Justiz, T +41 58 462 47 89, monique.cossali@bj.admin.ch</contact>
-      <attachment id="269256">
-        <title>Stellungnahme des Bundesrates</title>
-        <format>pdf</format>
-        <size-kb>172</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85702.pdf</uri>
+      <link id="269878">
+        <title>Stellungnahme des Bundesrates (BBl 2024 83)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2024/83/de</uri>
         <position>Context</position>
-      </attachment>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="fr">
@@ -98,13 +96,11 @@
       <lead>Suite à des recommandations de la Commission de gestion du Conseil des États, le Conseil fédéral a décidé d’examiner certaines questions relatives à la conservation des documents officiels et à l’accès du public à ces documents. Il a chargé le Département fédéral de justice et police d’étudier ces recommandations et de lui soumettre avant la fin de l’année des propositions quant aux mesures à prendre.</lead>
       <text link="no"> &lt;p&gt;Dans un rapport du 10 octobre 2023, la Commission de gestion du Conseil des États (CdG-E) s'est penchée sur les règles régissant la conservation des documents au sein de l'administration fédérale. Elle s'est également demandé à quels documents officiels il convient d'accorder l'accès en vertu de la loi sur la transparence. Elle a adressé cinq recommandations au Conseil fédéral.&lt;/p&gt; &lt;p&gt;Comme la CdG-E, le Conseil fédéral estime que la transparence de l'activité administrative contribue de manière centrale à la confiance de la population dans les autorités. Le 10 janvier 2024, il a pris acte des recommandations de la CdG-E et chargé le Département fédéral de justice et police d'examiner ces dernières et de lui soumettre, avant la fin de l'année, des propositions quant aux mesures à prendre.&lt;/p&gt; &lt;h3&gt;Classement de documents lors du départ de collaborateurs&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral examinera s'il convient de prévoir des mesures particulières pour garantir que les obligations de classement et d'archivage sont respectées lorsque des collaborateurs - et notamment des cadres - quittent l'administration fédérale. Il pourrait notamment s'agir de formations ou de mémentos attirant l'attention de ces personnes sur la nécessité de conserver les informations ayant trait à l'activité de l'administration. L'opportunité de prolonger le délai de conservation des données électroniques en cas de départ sera également étudiée ; la protection des données et de la sphère personnelle des employés concernés devra naturellement être préservée.&lt;/p&gt; &lt;h3&gt;Accès à des documents de nature à la fois privée et professionnelle&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral entend également se pencher sur la problématique des documents de nature à la fois privée et professionnelle : dans quelle mesure peut-on accorder le droit de les consulter ? Il faudra déterminer à cet égard si le cas des magistrats doit être considéré à part.&lt;/p&gt; &lt;h3&gt;Accès du PFPDT aux documents officiels&lt;/h3&gt; &lt;p&gt;Seront également mises à l'étude les possibilités qu'a le Préposé fédéral à la protection des données et à la transparence (PFPDT) lorsque l'accès à un document de l'administration fédérale lui est refusé. Le Conseil fédéral rejette toutefois l'idée de lui donner un droit de décision, comme l'envisage la CdG-E. Dans le domaine du droit de la transparence, le PFPDT est un organe de médiation et non de surveillance. Lui conférer une compétence décisionnelle serait incompatible avec l'esprit de la procédure informelle de conciliation entre l'administration fédérale et le public.&lt;/p&gt; </text>
       <contact>Monique Cossali, Office fédéral de la justice, T +41 58 462 47 89, monique.cossali@bj.admin.ch</contact>
-      <attachment id="269257">
-        <title>Avis du Conseil fédéral</title>
-        <format>pdf</format>
-        <size-kb>165</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85703.pdf</uri>
+      <link id="269879">
+        <title>Avis du Conseil fédéral (FF 2024 83)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2024/83/fr</uri>
         <position>Context</position>
-      </attachment>
+      </link>
       <revisions> </revisions>
     </content>
     <content lang="it">
@@ -113,13 +109,11 @@
       <lead>Il Consiglio federale intende far analizzare singoli aspetti della conservazione e dell’archiviazione di documenti ufficiali nonché dell’accesso ad essi da parte del pubblico. Nel suo parere del 10 gennaio 2024 ha preso atto delle pertinenti raccomandazioni della Commissione della gestione del Consiglio degli Stati (CdG-S) e incaricato il Dipartimento federale di giustizia e polizia (DFGP) di esaminarle e di sottoporgli, entro fine 2024, alcune proposte su come procedere.</lead>
       <text link="no"> &lt;p&gt;Nel suo rapporto del 10 ottobre 2023, la CdG-S ha chiarito quali disposizioni si applicano alla conservazione e all'archiviazione di documenti dell'Amministrazione federale e quali documenti vanno resi accessibili al pubblico. A tal fine ha analizzato le pertinenti basi legali e formulato all'attenzione del Consiglio federale cinque raccomandazioni.&lt;/p&gt; &lt;p&gt;Il Consiglio federale condivide l'opinione della CdG-S secondo cui la trasparenza e la tracciabilità dell'attività amministrativa è fondamentale per creare fiducia nelle istituzioni. Nel suo parere del 10 gennaio 2024, ha preso atto delle raccomandazioni della CdG-S e ha incaricato il DFGP di esaminarle e di sottoporgli entro la fine del 2024 eventuali proposte su come procedere. &lt;/p&gt; &lt;h3&gt;Trasferimento delle conoscenze in caso di partenza di un collaboratore&lt;/h3&gt; &lt;p&gt;Anzitutto il Consiglio federale intende far esaminare se sia opportuno adottare misure specifiche, finalizzate all'adempimento degli obblighi di conservazione e archiviazione, nel caso in cui un collaboratore, in particolare se si tratta di un quadro superiore, ponga fine al rapporto di lavoro con la Confederazione. Si potrebbero prendere in considerazione formazioni e promemoria per sensibilizzare i collaboratori in merito alla classificazione di informazioni pertinenti agli affari. Inoltre occorre verificare se sia opportuno prolungare il termine di conservazione dei dati elettronici dei collaboratori che lasciano l'Amministrazione federale, questo tenendo conto della protezione dei dati e della personalità degli interessati.&lt;/p&gt; &lt;h3&gt;Accesso a documenti di carattere ufficiale e privato&lt;/h3&gt; &lt;p&gt;In secondo luogo il Consiglio federale intende far esaminare se e in che misura documenti relativi sia all'attività ufficiale sia alla sfera privata del collaboratore dell'Amministrazione federale debbano essere resi accessibili al pubblico. In tale contesto si pone inoltre la questione se la situazione dei magistrati meriti un'attenzione particolare.&lt;/p&gt; &lt;h3&gt;Diritto dell'IFPDT di consultare documenti ufficiali&lt;/h3&gt; &lt;p&gt;Anche il diritto dell'Incaricato federale della protezione dei dati e della trasparenza (IFPDT) a consultare i documenti dell'Amministrazione federale va verificato. Il Consiglio federale intende far esaminare le possibilità di intervento dell'IFPDT nel caso in cui a quest'ultimo sia negato il diritto di consultazione. Per contro, respinge la raccomandazione della CdG-S di considerare un eventuale diritto dell'IFPDT di pronunciare decisioni: nell'ambito della normativa in materia di trasparenza, l'IFPDT assolve infatti una funzione di mediazione e non di sorveglianza. Secondo il Consiglio federale, l'introduzione di una competenza decisionale contraddirebbe infatti il carattere informale della procedura di mediazione tra l'Amministrazione federale e la controparte.&lt;/p&gt; </text>
       <contact>Monique Cossali, Ufficio federale di giustizia, T +41 58 462 47 89, monique.cossali@bj.admin.ch</contact>
-      <attachment id="269258">
-        <title>Parere del Consiglio federale</title>
-        <format>pdf</format>
-        <size-kb>169</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85704.pdf</uri>
+      <link id="269880">
+        <title>Parere del Consiglio federale (FF 2024 83)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2024/83/it</uri>
         <position>Context</position>
-      </attachment>
+      </link>
       <revisions> </revisions>
     </content>
     <keywords>
