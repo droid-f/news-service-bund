@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99886" revoked="no">
-    <version>4</version>
+    <version>5</version>
     <pubdate>2024-01-31</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="502" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">https://www.vbs.admin.ch/</www>
-      <www lang="fr">https://www.vbs.admin.ch/</www>
-      <www lang="it">https://www.vbs.admin.ch/</www>
-      <www lang="en">https://www.vbs.admin.ch/</www>
-      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
-      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="505" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Gruppe Verteidigung</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@vtg.admin.ch</email>
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -83,7 +83,7 @@
       <lead>An seiner Sitzung vom 31. Januar 2024 hat der Bundesrat beschlossen, dass vom 4. bis 6. Juni 2024 ein Abschnitt auf der Nationalstrasse A1 im Kanton Waadt während maximal 36 Stunden für eine Überprüfung des Verteidigungsdispositivs der Luftwaffe gesperrt wird. Die Armee verfolgt mit dieser Massnahme das Ziel, die Fähigkeit zur Dezentralisierung ihrer Luftverteidigungsmittel zu testen. </lead>
       <text link="no">&lt;p&gt;Um die Verteidigungsfähigkeit der Armee zu stärken, prüft die Luftwaffe die Fähigkeit, ihre Kampfflugzeuge auch von improvisierten Standorten aus einzusetzen. Damit erweitert die Luftwaffe die Fähigkeit zur Dezentralisierung ihrer Luftverteidigungsmittel im ganzen Land. In der ersten Juniwoche 2024 wird dies praktisch getestet. Dies beinhaltet Landungen und Starts von Kampfflugzeugen des Typs F/A-18 auf einem dafür vorbereiteten Teilstück der Nationalstrasse A1 im Kanton Waadt. &lt;/p&gt;&lt;p&gt;Die Sperrung eines Abschnittes der Nationalstrasse setzt den Beschluss durch den Bundesrat voraus. Dieser hat das VBS ermächtigt, den Nationalstrassenabschnitts A1 zwischen Avenches und Payerne für die Dauer der Überprüfung des Verteidigungsdispositivs der Luftwaffe während 36 Stunden zu sperren. Diese Sperrung ist vorgesehen vom Dienstag, 4. Juni 2024, 21 Uhr, bis Donnerstag, 6. Juni 2024, 9 Uhr.&lt;/p&gt;&lt;p&gt;Die Planung erfolgt in enger Zusammenarbeit mit dem Bundesamt für Strassen (ASTRA) sowie der Kantonspolizei Waadt und Freiburg. Während der Sperrung des Autobahnabschnittes ist eine Verkehrsumleitung über das kantonale Strassenverkehrsnetz sichergestellt.&lt;/p&gt;&lt;h2&gt;Dezentralisierung der Luftverteidigungsmittel stärkt die Verteidigungsfähigkeit&lt;/h2&gt;&lt;p&gt;Die Sicherheitslage in Europa hat sich in den letzten Jahren weiter verschlechtert, namentlich mit dem russischen Angriffskrieg auf die Ukraine. Um ihren Kernauftrag, die Schweiz und deren Bevölkerung zu schützen, weiterhin erfüllen zu können, muss die Armee ihre Verteidigungsfähigkeit in allen Wirkungsräumen (Boden, Luft und Cyberraum) umfassend, zeitgemäss und konsequent stärken. Der Schutz des Luftraums bildet dabei ein Schlüsselelement der Verteidigungsfähigkeit. &lt;/p&gt;&lt;p&gt;Die Luftwaffe verfügt heute neben den Lufttransport-Standorten in Dübendorf, Alpnach und Locarno über die drei Jet-Flugplätze Payerne, Emmen und Meiringen. Damit sind alle Mittel der Luftwaffe an wenigen Orten konzentriert, was sie für weitreichende Waffensysteme verwundbar macht. Um dieses Risiko zu minimieren, setzt die Luftwaffe unter anderem auf die Dezentralisierung als passive Luftverteidigungsmassnahme. Die Dezentralisierung beschreibt dabei die Fähigkeit, die Truppe und das Material innert kürzester Zeit im ganzen Land zu verteilen.&lt;/p&gt;&lt;p&gt;Die Mittel der Luftwaffe sollen nach Möglichkeit auch von dezentralen, unter Umständen temporären Standorten aus operieren können. Vergleichbare Tests hat die Luftwaffe in den 70er und 80er-Jahren mit Kampfflugzeugen des Typs Hunter und F5-Tiger auf Autobahnabschnitten im Mittelland durchgeführt. &lt;/p&gt;</text>
       <contact>Mathias Volken Armeesprecher +41 58 488 90 96</contact>
-      <link id="269997">
+      <link id="270096">
         <title>Übung ALPHA UNO</title>
         <uri>https://www.vtg.admin.ch/de/aktuell/mitteilungen/alpha-uno.html</uri>
         <position>Context</position>
@@ -98,7 +98,7 @@
       <lead>Lors de sa séance du 31 janvier 2024, le Conseil fédéral a décidé la fermeture d’un tronçon de la route nationale A1 dans le canton de Vaud entre le 4 et le 6 juin 2024, pendant 36 heures au maximum, pour permettre aux Forces aériennes de vérifier leur dispositif de défense. L’objectif de l’armée est de tester sa capacité à décentraliser ses moyens de défense aérienne.</lead>
       <text link="no">&lt;p&gt;Afin de renforcer la capacité de défense de l’armée, les Forces aériennes contrôlent leur capacité à engager des avions de combat à partir de sites improvisés. Elles entendent ainsi augmenter leur aptitude à décentraliser leurs moyens de défense aérienne dans l’ensemble du pays. Un test pratique, réalisé au cours de la première semaine du mois de juin 2024, comprendra des atterrissages et des décollages d’avions de combat de type F/A-18 sur et à partir d’un tronçon de la route nationale, spécialement préparé à cet effet dans le canton de Vaud.&lt;/p&gt;&lt;p&gt;La fermeture d’un tronçon de route nationale requiert une décision du Conseil fédéral. Celui-ci a autorisé le DDPS à fermer l’autoroute A1 entre Avenches et Payerne pendant 36 heures, le temps de tester le dispositif de défense des Forces aériennes.&lt;/p&gt;&lt;p&gt;Cette fermeture, prévue entre le mardi 4 juin à 21 h et le jeudi 6 juin 2024 à 9 h, a été planifiée en étroite collaboration avec l’Office fédéral des routes (OFROU) et avec les polices cantonales vaudoise et fribourgeoise. Le trafic sera dévié sur le réseau routier cantonal pendant toute la durée de fermeture du tronçon.&lt;/p&gt;&lt;h2&gt;Décentralisation des moyens de défense aérienne pour renforcer la capacité de défense&lt;/h2&gt;&lt;p&gt;La situation en matière de sécurité a continué de se dégrader en Europe ces dernières années, notamment en raison de l’attaque de l’Ukraine par la Russie. Afin de pouvoir continuer de remplir sa mission principale, qui est de protéger la Suisse et sa population, l’armée doit renforcer pleinement, résolument et à temps sa capacité de défense dans tous les espaces d’opération (sol, air, cyberespace). La protection de l’espace aérien constitue, dans ce contexte, un élément clé de la capacité de défense.&lt;/p&gt;&lt;p&gt;Outre les sites de Dübendorf, Alpnach et Locarno, destinés au transport, les Forces aériennes disposent aujourd’hui de trois bases d’où peuvent décoller des avions de combat : Payerne, Emmen et Meiringen. Les moyens des Forces aériennes sont ainsi concentrés sur un nombre restreint de sites, ce qui les rend vulnérables aux systèmes d’armes à longue portée. Les Forces aériennes recourent donc à des mesures passives, entre autres à la décentralisation, pour réduire ce risque. Par décentralisation, l’on entend la capacité à répartir, en très peu de temps, des troupes et du matériel dans l’ensemble du pays.&lt;/p&gt;&lt;p&gt;Les Forces aériennes doivent donc aussi avoir la possibilité d’engager leurs moyens depuis d’autres sites, voire même, selon les circonstances, depuis des emplacements temporaires. Elles ont déjà effectué des tests comparables dans les années 70 et 80 avec des avions de combat de type Hunter et F5-Tiger sur des tronçons d’autoroute situés dans la région du Plateau.&lt;/p&gt;</text>
       <contact>Mathias Volken Porte-parole de l’armée +41 58 488 90 96</contact>
-      <link id="269998">
+      <link id="270097">
         <title>Exercice ALPHA UNO</title>
         <uri>https://www.vtg.admin.ch/fr/actualite/messages/alpha-uno.html</uri>
         <position>Context</position>
@@ -113,9 +113,9 @@
       <lead>Durante la riunione del 31 gennaio 2024 il Consiglio federale ha deciso che dal 4 al 6 giugno 2024 verrà chiuso un tratto della strada nazionale A1 nel Cantone di Vaud per un massimo di 36 ore per una verifica del dispositivo di difesa delle Forze aeree. L’obiettivo di questa misura è quello di testare la capacità dell’esercito di decentrare i propri mezzi di difesa aerea. </lead>
       <text link="no">&lt;p&gt;Per rafforzare la capacità di difesa dell’esercito, le Forze aeree esaminano la possibilità di impiegare i propri aerei da combattimento da ubicazioni improvvisate. In questo modo le Forze aeree ampliano la capacità di decentrare i propri mezzi di difesa aerea in tutto il Paese. Nella prima settimana di giugno 2024 tutto questo sarà sottoposto a una verifica pratica che includerà atterraggi e decolli di aerei da combattimento del tipo F/A-18 su un tratto della strada nazionale A1 nel Cantone di Vaud preparato per questo scopo. &lt;/p&gt;&lt;p&gt;La chiusura di un tratto di una strada nazionale richiede una decisione del Consiglio federale, che ha autorizzato il DDPS a chiudere il tratto autostradale A1 tra Avenches e Payerne per 36 ore, ovvero per tutta la durata della verifica del dispositivo di difesa delle Forze aeree. La chiusura è prevista dalle ore 21 di martedì 4 giugno 2024 alle ore 9 di giovedì 6 giugno 2024.&lt;/p&gt;&lt;p&gt;La pianificazione viene effettuata in stretta collaborazione con l’Ufficio federale delle strade (USTRA) e la Polizia cantonale di Vaud e Friburgo. Durante la chiusura del tratto autostradale il traffico sarà deviato sulla rete stradale cantonale.&lt;/p&gt;&lt;h2&gt;La decentralizzazione dei mezzi di difesa aerea rafforza la capacità di difesa&lt;/h2&gt;&lt;p&gt;Negli ultimi anni la situazione della sicurezza in Europa è ulteriormente peggiorata, in particolare con la guerra di aggressione russa contro l’Ucraina. Per poter adempiere anche in futuro il suo compito fondamentale di difendere il Paese e la sua popolazione, l’esercito deve rafforzare la propria capacità di difesa in tutte le zone d’efficacia (a terra, nello spazio aereo e nel ciberspazio), in modo complessivo, consono ai tempi e coerente. La protezione dello spazio aereo è un elemento chiave della capacità di difesa. &lt;/p&gt;&lt;p&gt;Oltre alle ubicazioni di trasporto aereo a Dübendorf, Alpnach e Locarno, oggi le Forze aeree dispongono di tre aerodromi per jet a Payerne, Emmen e Meiringen. Ciò significa che tutti i mezzi delle Forze aeree sono concentrati in poche ubicazioni, pertanto sono rese vulnerabili ai sistemi d’arma a lunga gittata. Per ridurre al minimo questo rischio, le Forze aeree puntano, tra l’altro, sulla decentralizzazione come misura passiva di difesa aerea. La decentralizzazione rappresenta la capacità di distribuire la truppa e il materiale in tutto il Paese in brevissimo tempo.&lt;/p&gt;&lt;p&gt;Se possibile, i mezzi delle Forze aeree dovrebbero anche essere in grado di operare da ubicazioni decentrate ed eventualmente temporanee. Le Forze aeree hanno effettuato test simili negli anni Settanta e Ottanta con aerei da combattimento del tipo Hunter e F5 Tiger su tratti autostradali dell’Altopiano. &lt;/p&gt;</text>
       <contact>Mathias Volken Portavoce dell’esercito +41 58 488 90 96</contact>
-      <link id="269997">
-        <title>Übung ALPHA UNO</title>
-        <uri>https://www.vtg.admin.ch/de/aktuell/mitteilungen/alpha-uno.html</uri>
+      <link id="270098">
+        <title>Esercizio ALPHA UNO</title>
+        <uri>https://www.vtg.admin.ch/it/attualita/messaggi/alpha-uno.html</uri>
         <position>Context</position>
       </link>
       <revisions>
@@ -123,35 +123,23 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="505" org-id="505">
+      <keyword id="505" org-id="502">
         <name lang="de">Sicherheitspolitik</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
         <name lang="en">Security Policy</name>
       </keyword>
-      <keyword id="5160" org-id="505">
-        <name lang="de">Verteidigung</name>
-        <name lang="fr">Défense</name>
-        <name lang="it">Difesa</name>
-        <name lang="en">defence</name>
-      </keyword>
-      <keyword id="5180" org-id="505">
+      <keyword id="5180" org-id="502">
         <name lang="de">Armee</name>
         <name lang="fr">Armée</name>
         <name lang="it">Esercito</name>
         <name lang="en">armed forces</name>
       </keyword>
-      <keyword id="5530" org-id="505">
+      <keyword id="5530" org-id="502">
         <name lang="de">Bundespolitik / Bundesrat</name>
         <name lang="fr">Politique fédérale</name>
         <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy, Federal Council(lor)</name>
-      </keyword>
-      <keyword id="5900" org-id="505">
-        <name lang="de">Flugbetrieb</name>
-        <name lang="fr">Service de vol</name>
-        <name lang="it">Esercizio di volo</name>
-        <name lang="en">flight operations</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
       </keyword>
     </keywords>
     <topics>

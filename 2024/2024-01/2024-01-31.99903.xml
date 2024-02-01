@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="99903" revoked="no">
+    <version>1</version>
+    <pubdate>2024-01-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Wetter- und Klimamodell ICON als Open-Source veröffentlicht - Meilenstein in der Klima- und Wetterforschung</title>
+      <lead>Ein Forschungsteam aus Deutschland und der Schweiz mit Beteiligung der Empa setzt einen Meilenstein in der Klima- und Wetterforschung: Seit Anfang Februar steht das renommierte Klima- und Wettermodell ICON allen Interessierten unter einer «Open-Source»-Lizenz zur Verfügung. Dies soll die Wissenschaft und die wissenschaftlichen Dienste dahinter transparenter machen. Gleichzeitig werden weitere wissenschaftliche Fortschritte in einem Gebiet ermöglicht, von dem die Gesellschaft in Zeiten des Klimawandels besonders profitieren kann. </lead>
+      <text link="no">&lt;p&gt;ICON («ICOsahedral Non-hydrostatic modelling framework») ist ein numerisches Wettermodell und berechnet mittels dreidimensionaler Computersimulation die Veränderung der Atmosphäre über die nächsten Stunden und Tage. Solche Wettermodelle werden vor allem von nationalen Wetterdiensten wie dem Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) genutzt. Die Forschungsinstitutionen hinter ICON und dessen heutige Entwickler sind das Schweizer «Center for Climate Systems Modeling» (C2SM, also das Bundesamt für Meteorologie und Klimatologie MeteoSchweiz, die ETH Zürich, die Empa und das WSL), das Deutsche Klimarechenzentrum (DKRZ), der Deutsche Wetterdienst (DWD), das Karlsruher Institut für Technologie (KIT) sowie das Max-Planck-Institut für Meteorologie (MPI-M).&lt;/p&gt;&lt;p&gt;ICON zeigt, wie gewinnbringend die Zusammenarbeit zwischen der Forschung und den nationalen Wetterdiensten ist: Die enge Kooperation in den Entwicklungsphasen mündet in sehr effizienten Wetterprognosen und Klimaprojektionen, von denen neben der Forschungsgemeinschaft vor allem auch die Bevölkerung profitiert. Die Bereitstellung des Codes ist ein wichtiger Schritt, um das Vertrauen in die Wissenschaft und die Forschungsinstitutionen zu stärken. Oliver Fuhrer, Leiter des «Numerical Prediction Department» von MeteoSchweiz, unterstreicht dies: «Die Open Source-Verfügbarkeit des ICON-Modells markiert einen entscheidenden Moment in der meteorologischen Forschung. Das ICON-Modell läuft bei MeteoSchweiz zurzeit in der Testphase mit dem Ziel, es noch dieses Jahr für die tägliche Wettervorhersage einzusetzen.»&lt;/p&gt;&lt;p&gt; ICON wurde zunächst gemeinsam vom DWD und vom MPI-M als Atmosphären- bzw. Wettervorhersagemodell entwickelt und wird heute in Deutschland und in der Schweiz für die operationelle Wettervorhersage eingesetzt. Im Hinblick auf die Klimaforschung hat das MPI-M passende Modelle weiterer Komponenten des Erdsystems entwickelt, die es erlauben, ICON als vollständig gekoppeltes Klima- und Erdsystemmodell zu nutzen. Neben der Modellkomponente für die Ozeanzirkulation gibt es eine für die marine Biogeochemie sowie für die Landbiosphäre und die hydrologischen Prozesse.&lt;br /&gt;&lt;br /&gt;Das eigens entwickelte «Community Interface» ComIn beispielsweise ermöglicht Wissenschaftlerinnen und Wissenschaftlern, das ICON-Modell durch eigene Plug-Ins zu erweitern, ohne den komplexen Modellcode ändern zu müssen. Dies fördert nicht nur die Flexibilität in der Forschung, sondern entfesselt auch die Innovationskraft innerhalb der wissenschaftlichen Gemeinschaft.&lt;br /&gt;&lt;br /&gt;Das KIT hat eine Modellkomponente – ICON-ART – entwickelt, die die Vorhersage von Aerosolen und atmosphärischer Chemie und deren Wechselwirkung mit dem physikalischen Zustand der Atmosphäre erlaubt. Aerosole und die chemische Zusammensetzung der Atmosphäre bestimmen die Luftqualität und beeinflussen auch Sonneneinstrahlung, Wolken und Niederschlag. Die Empa war an der Entwicklung von ICON-ART ebenfalls beteiligt und hat etwa ein Modul für die effiziente Einbindung von Emissionsdaten entwickelt und ein detailliertes Schema zu chemischen Reaktionen implementiert, das für Simulationen der Luftqualität wichtig ist. Die für die Kopplung der Teilmodelle notwendige Softwarekomponente YAC wurde gemeinsam vom DKRZ und vom MPI-M entwickelt und von Anfang an als Open Source veröffentlicht.&lt;br /&gt;&lt;br /&gt;Alle Teilmodelle und Versionen sind in dem Open-Source-Release enthalten, so dass ICON in verschiedensten Auflösungen und Konfigurationen genutzt werden kann, um eine ganze Bandbreite von Anwendungen zu ermöglichen – von globalen und regionalen Wettervorhersagen über Klimaprojektionen bis hin zu sehr hoch aufgelösten digitalen Zwillingen des Erdsystems.&lt;br /&gt;&lt;br /&gt;Die Bereitstellung des ICON-Modellcodes unter einer «Open-Source»-Lizenz bedeutet einen entscheidenden Schritt hin zu offener, transparenter, qualitätsgesicherter und kollaborativer Wissenschaft. Forscherinnen und Forscher weltweit erhalten die Möglichkeit, auf einem der führenden Modelle für Wettervorhersagen und Klimasimulationen aufzubauen und gemeinsam an zukunftsweisenden Projekten zu arbeiten. Zudem wird unter der Lizenz auch eine kommerzielle Nutzung möglich. Die Veröffentlichung erfolgt vor dem Hintergrund einer sich wandelnden Forschungslandschaft, die eine verstärkte Zusammenarbeit und den Austausch von Erkenntnissen fördert.&lt;br /&gt;&lt;br /&gt;Die Open-Source-Veröffentlichung erleichtert die Einbindung von ICON in internationale Forschungskooperationen und stärkt die Position Europas auf dem Gebiet der Klima- und Wetterforschung. Zudem ermöglicht sie eine effizientere Zusammenarbeit mit Herstellern von Supercomputern, die die Leistungsfähigkeit ihrer Hardware mithilfe von Wetter- und Klimamodellen testen und verbessern können&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Wissenschaftlicher Nutzen und breitere Anwendung&lt;/b&gt;&lt;/p&gt;&lt;p&gt;«Die Open-Source Lizenzierung wird den Austausch mit unseren Partnern in der Wissenschaft vereinfachen und könnte die Gründung neuer innovativer Startups im Umweltbereich unterstützen», ist Dominik Brunner, Leiter der Gruppe Atmosphärische Modellierung und Fernerkundung in der Empa-Abteilung «Air Pollution / Environmental Technology» überzeugt. Zudem, so Brunner, erlaube es ICON-ART, zusammen mit Messungen am Boden und von Satelliten aus die Quellen von Treibhausgasen und Luftschadstoffen noch zuverlässiger aufzuspüren und zu quantifizieren.&lt;br /&gt;&lt;br /&gt;Ein eindrückliches Beispiel hierfür hat Brunners Team soeben auf der Expertenplattform «EGUsphere» veröffentlicht. Die Forschenden haben mit Hilfe von ICON-ART die Methanemissionen über ganz Europa abgeschätzt und diese mit den von den einzelnen Staaten offiziell rapportierten Mengen verglichen. Bei vielen Ländern stimme das sehr gut überein, so der Empa-Forscher, einige Länder hätten sogar geringere Emissionen als rapportiert – andere dagegen zum Teil deutlich höhere. Die Studie erscheint demnächst im Fachjournal «Atmospheric Chemistry and Physics».&lt;/p&gt;</text>
+      <contact>Prof. Dr. Dominik Brunner Empa, Luftfremdstoffe / Umwelttechnik Tel. +41 58 765 49 44 dominik.brunner@empa.ch</contact>
+      <attachment id="270035">
+        <title>Klima-schädliches Methan wird etwa bei der Förderung von fossilen Energieträgern oder in der Landwirtschaft freigesetzt.</title>
+        <format>jpg</format>
+        <size-kb>1161</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85932.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="270033">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/icon-weather-climate-model</uri>
+        <position>Context</position>
+      </link>
+      <link id="270034">
+        <title>Further information on the ICON model</title>
+        <uri>https://www.icon-model.org/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Le modèle météorologique et climatique ICON publié en open source - Une étape importante dans la recherche sur la météo et le climat</title>
+      <lead>Une équipe de chercheurs allemands et suisses impliquant l'Empa franchit une étape importante dans la recherche sur la météo et le climat : Depuis le début du mois de février, le fameux modèle climatique et météorologique ICON est mis à disposition de tous les intéressés sous une licence open source. Cette initiative vise à rendre la science et les services scientifiques qui l'accompagnent plus transparents. Parallèlement, cela favorise de nouvelles avancées scientifiques dans un domaine qui peut particulièrement bénéficier à la société à l'heure du changement climatique. </lead>
+      <text link="no">&lt;p&gt;ICON (ICOsahedral Non-hydrostatic modelling framework) est un modèle météorologique numérique qui utilise une simulation informatique tridimensionnelle pour calculer les changements dans l'atmosphère au cours des heures et des jours à venir. De tels modèles météorologiques sont principalement utilisés par les services météorologiques nationaux tels que l'Office fédéral de météorologie et de climatologie (MeteoSwiss). Les institutions de recherche à l'origine d'ICON et ses développeurs actuels sont le Center for Climate Systems Modeling (C2SM, lui-même composé de l'Office fédéral de météorologie et de climatologie MeteoSwiss, l'ETH Zurich, l'Empa et le WSL), le Centre allemand de calcul climatique (DKRZ), le Service météorologique allemand (DWD), l'Institut de technologie de Karlsruhe (KIT) et l'Institut Max Planck pour la météorologie (MPI-M).&lt;br /&gt;&lt;br /&gt;ICON montre à quel point la collaboration entre la recherche et les services météorologiques nationaux est bénéfique: La coopération étroite permet des prévisions météorologiques et des projections climatiques très précises, qui profitent non seulement à la communauté scientifique mais aussi au grand public. La publication du code est une étape importante vers le renforcement de la confiance dans la science et les institutions de recherche. Oliver Fuhrer, chef du département des prévisions numériques à MétéoSuisse, le souligne: "La mise à disposition en libre accès du modèle ICON marque un moment décisif dans la recherche météorologique. Le modèle ICON est actuellement en phase de test à MétéoSuisse, l'objectif étant de l'utiliser pour les prévisions météorologiques quotidiennes dans le courant de l'année".&lt;/p&gt;&lt;p&gt;ICON a été initialement développé conjointement par le DWD et le MPI-M en tant que modèle de prévision atmosphérique et météorologique et est désormais utilisé en Allemagne et en Suisse pour la prévision météorologique opérationnelle. En ce qui concerne la recherche climatique, le MPI-M a développé des modèles adaptés à d'autres composantes du système terrestre qui permettent à ICON d'être utilisé comme un modèle climatique et de système terrestre couplé. En plus de la composante du modèle pour la circulation océanique, d'autres existent pour la biogéochimie marine ainsi que pour la biosphère terrestre et les processus hydrologiques.&lt;br /&gt;&lt;br /&gt;L'Interface Communautaire spécialement développée (ComIn), par exemple, permet aux scientifiques d'étendre le modèle ICON avec leurs propres modules complémentaires sans avoir à modifier le code complexe du modèle. Cela favorise non seulement la flexibilité dans la recherche, mais libère également le pouvoir d'innovation au sein de la communauté scientifique.&lt;br /&gt;&lt;br /&gt;Le KIT a développé une composante de modèle – ICON-ART – qui permet la prédiction des aérosols et de la chimie atmosphérique et de leur interaction avec l'état physique de l'atmosphère. Les aérosols et la composition chimique de l'atmosphère déterminent la qualité de l'air et influencent le rayonnement solaire, les nuages et les précipitations. L'Empa a également participé au développement d'ICON-ART et a développé un module pour l'intégration efficace des données d'émission et mis en œuvre un schéma détaillé pour les réactions chimiques, qui est important pour les simulations de la qualité de l'air. Le composant logiciel YAC nécessaire pour coupler les sous-modèles a été développé conjointement par le DKRZ et le MPI-M et publié en open source dès le départ.&lt;br /&gt;&lt;br /&gt;Tous les sous-modèles sont inclus dans la version open source, permettant ainsi à ICON d'être utilisé dans une large gamme de résolutions et de configurations pour une multitude d'applications - des prévisions météorologiques mondiales et régionales et des projections climatiques aux "jumeaux numériques" à très haute résolution du système terrestre.&lt;br /&gt;&lt;br /&gt;La publication du code source du modèle ICON sous une licence open source constitue une étape décisive vers une science ouverte, transparente, de qualité et collaborative. Les chercheurs du monde entier auront l'opportunité de s'appuyer sur l'un des principaux modèles de prévisions météorologiques et de simulations climatiques et de travailler ensemble sur des projets pionniers. L'utilisation commerciale est également possible sous licence. Cette publication intervient dans un contexte transformation du paysage de la recherche qui favorise une collaboration accrue et l'échange de connaissances.&lt;br /&gt;&lt;br /&gt;La version open source facilite l'intégration d'ICON dans les collaborations internationales de recherche et renforce la position de l'Europe dans le domaine de la recherche sur le climat et les conditions météorologiques. Elle permet également une collaboration plus efficace avec les fabricants de superordinateurs, qui peuvent tester et améliorer les performances de leur matériel à l'aide de modèles météorologiques et climatiques.&lt;/p&gt;&lt;p&gt;Avantages scientifiques et applications élargies&lt;/p&gt;&lt;p&gt;"La licence open source simplifiera l'échange avec nos partenaires scientifiques et pourrait soutenir la création de nouvelles start-ups innovantes dans le secteur environnemental", déclare Dominik Brunner, responsable du groupe de Modélisation Atmosphérique et Télédétection dans le laboratoire de Pollution de l'Air / Technologie Environnementale d'Empa. Selon Brunner, ICON-ART, associé aux mesures au sol et aux données satellitaires, permet également de détecter et de quantifier de manière encore plus fiable les sources de gaz à effet de serre et de polluants atmosphériques.&lt;br /&gt;&lt;br /&gt;L'équipe de Brunner vient de publier un exemple impressionnant sur la plateforme experte EGUsphere. Les chercheurs ont utilisé ICON-ART pour estimer les émissions de méthane à travers l'Europe et les ont comparées aux quantités officiellement rapportées par les pays individuels. Selon le chercheur de l'Empa, il y a une très bonne correspondance pour de nombreux pays, certains ayant même des émissions inférieures à celles rapportées - tandis que d'autres ont des émissions nettement plus élevées. L'étude sera bientôt publiée dans la revue Atmospheric Chemistry and Physics.&lt;/p&gt;</text>
+      <contact>Prof. Dr. Dominik Brunner Empa, Air Pollution / Environmental Technology Tél. +41 58 765 49 44 dominik.brunner@empa.ch</contact>
+      <attachment id="270036">
+        <title>Le méthane, nocif pour le climat, est libéré, par exemple, lors de l'extraction des combustibles fossiles ou dans l'agriculture.</title>
+        <format>jpg</format>
+        <size-kb>1161</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85933.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="270033">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/icon-weather-climate-model</uri>
+        <position>Context</position>
+      </link>
+      <link id="270034">
+        <title>Further information on the ICON model</title>
+        <uri>https://www.icon-model.org/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>ICON weather and climate model published as open source - A milestone in weather and climate research</title>
+      <lead>A team of researchers from Germany and Switzerland involving Empa is setting a milestone in weather and climate research: At the beginning of February, the renowned climate and weather model ICON has become available to all interested parties under an open source license. This is intended to make science and the scientific services behind it more transparent. At the same time, further scientific progress is made possible in an area from which society can particularly benefit in times of climate change.</lead>
+      <text link="no">&lt;p&gt;ICON (ICOsahedral Non-hydrostatic modelling framework) is a numerical weather model and uses three-dimensional computer simulation to calculate changes in the atmosphere over the next few hours and days. Such weather models are mainly used by national weather services such as the Federal Office of Meteorology and Climatology (MeteoSwiss). The research institutions behind ICON and its current developers are the Swiss Center for Climate Systems Modeling (C2SM, i.e. the Federal Office of Meteorology and Climatology MeteoSwiss, ETH Zurich, Empa and WSL), the German Climate Computing Center (DKRZ), the German Weather Service (DWD), the Karlsruhe Institute of Technology (KIT) and the Max Planck Institute for Meteorology (MPI-M).&lt;br /&gt;&lt;br /&gt;ICON shows how beneficial the collaboration between research and the national weather services is: The close cooperation results in very efficient weather forecasts and climate projections, which benefit not only the research community but also the public. The release of the code is an important step towards strengthening trust in science and research institutions. Oliver Fuhrer, Head of the Numerical Prediction Department at MeteoSwiss, underlines this: "The open source availability of the ICON model marks a decisive moment in meteorological research. The ICON model is currently in the test phase at MeteoSwiss with the aim of using it for daily weather forecasts later this year."&lt;/p&gt;&lt;p&gt;CON was initially developed jointly by the DWD and MPI-M as an atmospheric and weather forecasting model and is now used in Germany and Switzerland for operational weather forecasting. With regard to climate research, MPI-M has developed suitable models of other components of the Earth system that allow ICON to be used as a fully coupled climate and Earth system model. In addition to the model component for ocean circulation, there is one for marine biogeochemistry as well as for the land biosphere and hydrological processes.&lt;br /&gt;&lt;br /&gt;The specially developed Community Interface (ComIn), for example, enables scientists to extend the ICON model with their own plug-ins without having to change the complex model code. This not only promotes flexibility in research, but also unleashes the power of innovation within the scientific community.&lt;br /&gt;&lt;br /&gt;KIT has developed a model component – ICON-ART – that allows the prediction of aerosols and atmospheric chemistry and their interaction with the physical state of the atmosphere. Aerosols and the chemical composition of the atmosphere determine air quality and influence solar radiation, clouds and precipitation. Empa was also involved in the development of ICON-ART and has developed a module for the efficient integration of emission data and implemented a detailed scheme for chemical reactions, which is important for simulations of air quality. The YAC software component required for coupling the sub-models was developed jointly by DKRZ and MPI-M and published as open source from the outset.&lt;br /&gt;&lt;br /&gt;All sub-models are included in the open source release, so that ICON can be used in a wide range of resolutions and configurations to enable a whole range of applications – from global and regional weather forecasts and climate projections to very high-resolution digital twins of the Earth system.&lt;br /&gt;&lt;br /&gt;The release of the ICON model code under an open source license is a decisive step towards open, transparent, quality-assured and collaborative science. Researchers worldwide will have the opportunity to build on one of the leading models for weather forecasts and climate simulations and work together on pioneering projects. Commercial use is also possible under the license. The publication takes place against the backdrop of a changing research landscape that promotes increased collaboration and the exchange of knowledge.&lt;br /&gt;&lt;br /&gt;The open source release facilitates the integration of ICON into international research collaborations and strengthens Europe's position in the field of climate and weather research. It also enables more efficient collaboration with supercomputer manufacturers, who can test and improve the performance of their hardware using weather and climate models.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Scientific benefits and broader applications&lt;/b&gt;&lt;/p&gt;&lt;p&gt;"Open source licensing will simplify the exchange with our partners in science and could support the creation of new innovative start-ups in the environmental sector", says Dominik Brunner, head of the Atmospheric Modeling and Remote Sensing group in Empa's Air Pollution / Environmental Technology lab. According to Brunner, ICON-ART, together with measurements on the ground and from satellites, also makes it possible to detect and quantify the sources of greenhouse gases and air pollutants even more reliably.&lt;br /&gt;&lt;br /&gt;Brunner's team has just published an impressive example of this on the EGUsphere expert platform. The researchers used ICON-ART to estimate methane emissions across Europe and compared them with the quantities officially reported by the individual countries. According to the Empa researcher, this corresponds very well for many countries, with some countries even having lower emissions than reported – while some others have significantly higher emissions. The study will soon be published in the journal Atmospheric Chemistry and Physics.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Prof. Dr. Dominik Brunner Empa, Air Pollution / Environmental Technology Phone +41 58 765 49 44 dominik.brunner@empa.ch</contact>
+      <attachment id="270037">
+        <title>Climate-damaging methane is released, for example, during the extraction of fossil fuels or in agriculture.</title>
+        <format>jpg</format>
+        <size-kb>1161</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/85934.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="270033">
+        <title>Empa Homepage</title>
+        <uri>https://www.empa.ch/web/s604/icon-weather-climate-model</uri>
+        <position>Context</position>
+      </link>
+      <link id="270034">
+        <title>Further information on the ICON model</title>
+        <uri>https://www.icon-model.org/</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
