@@ -19,21 +19,6 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="506" lead="no" topnews="no">
-      <department-id>501</department-id>
-      <name lang="de">armasuisse</name>
-      <name lang="fr">Armasuisse</name>
-      <name lang="it">Armasuisse</name>
-      <name lang="en">Armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/</www>
-      <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
-      <email lang="de">info@armasuisse.ch</email>
-      <email lang="fr">info@armasuisse.ch</email>
-      <email lang="it">info@armasuisse.ch</email>
-      <email lang="en">info@armasuisse.ch</email>
-    </originator>
     <originator department-msg="no" id="502" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">Generalsekretariat VBS</name>
@@ -48,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="506" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -108,6 +108,20 @@
         <revision date="2024-02-02 10:34" type="R"/>
       </revisions>
     </content>
+    <keywords>
+      <keyword id="5620" org-id="502">
+        <name lang="de">Budget / Finanzen</name>
+        <name lang="fr">Budget / Finances</name>
+        <name lang="it">Budget / Finanze</name>
+        <name lang="en">budget / finances</name>
+      </keyword>
+      <keyword id="1022" org-id="502">
+        <name lang="de">Dossier Finanzierung</name>
+        <name lang="fr">Dossier Finanzierung</name>
+        <name lang="it">Dossier Finanzierung</name>
+        <name lang="en">Dossier Finanzierung</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="40">
         <name lang="de">Sicherheit</name>
