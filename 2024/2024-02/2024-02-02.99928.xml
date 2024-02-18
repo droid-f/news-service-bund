@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="99928" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-02-02</pubdate>
     <type>Memorandum</type>
     <originator department-msg="yes" id="502" lead="yes" topnews="no">
@@ -19,21 +19,6 @@
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="101" lead="no" topnews="no">
-      <department-id>101</department-id>
-      <name lang="de">Bundeskanzlei</name>
-      <name lang="fr">Chancellerie fédérale</name>
-      <name lang="it">Cancelleria federale</name>
-      <name lang="en">Federal Chancellery</name>
-      <www lang="de">http://www.bk.admin.ch</www>
-      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
-      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
-      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
-      <email lang="de">infokomm@admin.ch</email>
-      <email lang="fr">infokomm@admin.ch</email>
-      <email lang="it">infokomm@admin.ch</email>
-      <email lang="en">infokomm@admin.ch</email>
-    </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
@@ -48,37 +33,25 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
-    <department id="101">
-      <name lang="de">Bundeskanzlei</name>
-      <name lang="fr">Chancellerie fédérale</name>
-      <name lang="it">Cancelleria federale</name>
-      <name lang="en">Federal Chancellery</name>
-      <www lang="de">http://www.bk.admin.ch</www>
-      <www lang="fr">http://www.bk.admin.ch/index.html?lang=fr</www>
-      <www lang="it">http://www.bk.admin.ch/index.html?lang=it</www>
-      <www lang="en">http://www.bk.admin.ch/index.html?lang=en</www>
-      <email lang="de">infokomm@admin.ch</email>
-      <email lang="fr">infokomm@admin.ch</email>
-      <email lang="it">infokomm@admin.ch</email>
-      <email lang="en">infokomm@admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bundespräsidentin Amherd reist nach Estland und Norwegen</title>
       <lead>Bundespräsidentin Viola Amherd besucht kommende Woche Estland und Norwegen. Die Schweiz pflegt enge Beziehungen zu beiden Ländern. In Estland sind am Dienstag, 6. Februar 2024, Treffen mit Präsident Alar Karis und Premierministerin Kaja Kallas angesetzt. Mit dem norwegischen Premierminister Jonas Gahr Støre wird die Bundespräsidentin am Mittwoch, 7. Februar, zusammenkommen. In Oslo ist auch ein Austausch mit König Harald V. geplant.</lead>
       <text link="no">&lt;p&gt;Neben den Gesprächen auf Stufe Staatschef und Regierungschefin steht in Estland zudem ein Treffen mit Verteidigungsminister Hanno Pevkur auf dem Programm und in Norwegen eines mit Parlamentspräsident Masud Gharahkhani. Gesprächsthemen der Präsidialbesuche sind die bilateralen Beziehungen, die Europapolitik und Sicherheitsfragen, dies insbesondere mit Blick auf den russischen Angriffskrieg gegen die Ukraine. Sowohl Estland wie Norwegen sind direkte Nachbarländer Russlands.&lt;br /&gt;&lt;br /&gt;Ein wichtiges Element der ausgezeichneten Beziehungen zu Estland ist die Zusammenarbeit im Rahmen der Schweizer Beiträge an ausgewählte EU-Mitgliedstaaten. Mit diesen Beiträgen leistet die Schweiz eine Investition in Sicherheit, Stabilität und Wohlstand in Europa. Neben den politischen Gesprächen ist in Tallinn ein Besuch der internationalen Organisation «Cooperative Cyber Defence Centre of Excellence (CCD COE)» vorgesehen. Das Zentrum unterstützt NATO-Mitglieder wie Estland und weitere Länder, zu denen auch die Schweiz gehört, mit Ausbildung, Forschung und Erfahrungsaustausch in Fragen der Cyberabwehr. Das Zentrum wurde 2008 gegründet, seit 2020 nimmt auch die Schweiz an seinen Aktivitäten teil. &lt;br /&gt;&lt;br /&gt;Der offizielle Besuch von Bundespräsidentin Amherd in Oslo zeugt von den exzellenten bilateralen Beziehungen zwischen der Schweiz und Norwegen. Beide Länder gehören der Europäischen Freihandelsassoziation (EFTA) an. Bei den Gesprächen werden die bilateralen Beziehungen sowie Kooperationsprojekte, beispielsweise im Klimaschutz, zur Sprache kommen und neben der Europapolitik und dem russischen Angriffskrieg gegen die Ukraine insbesondere auch die nordeuropäische Sicherheitsarchitektur. Am Donnerstag, 8. Februar, wird die Bundespräsidentin ihren Besuch in Norwegen mit einem Treffen mit König Harald V. abschliessen.&lt;/p&gt;</text>
-      <contact>Kommunikation VBS +41 58 464 50 38 kommunikation@gs-vbs.admin.ch</contact>
-      <link id="270112">
+      <contact>Kommunikation VBS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
+      <link id="270632">
         <title>Bilaterale Beziehungen Schweiz–Estland</title>
         <uri>https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/estland/bilatereale-beziehungenschweizestland.html</uri>
         <position>Context</position>
       </link>
-      <link id="270116">
+      <link id="270633">
         <title>Bilaterale Beziehungen Schweiz–Norwegen</title>
         <uri>https://www.eda.admin.ch/countries/norway/de/home/bilaterale-beziehungen/in-kuerze.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-02-16 16:09" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -86,12 +59,12 @@
       <lead>La présidente de la Confédération Viola Amherd se rendra la semaine prochaine en Estonie et en Norvège, pays avec lesquels la Suisse entretient des liens étroits. Le mardi 6 février 2024, elle rencontrera en Estonie le président Alar Karis et la première ministre Kaja Kallas. Le mercredi 7 février 2024, elle se rendra en Norvège pour échanger avec le premier ministre Jonas Gahr Støre. Un entretien est également prévu à Oslo avec le roi Harald V.</lead>
       <text link="no">&lt;p&gt;En plus des rendez-vous avec les chefs d’État et de gouvernement, Viola Amherd rencontrera le ministre de la défense estonien Hanno Pevkur et le président du parlement norvégien Masud Gharahkhani. Les discussions de la visite présidentielle porteront sur les relations bilatérales et la politique européenne. Les questions de sécurité seront également abordées, en particulier celles ayant trait à la guerre d’agression menée par la Russie contre l’Ukraine. En effet, l’Estonie et la Norvège partagent toutes deux une frontière avec la Russie. &lt;br /&gt;&lt;br /&gt;Un aspect important des relations excellentes avec l’Estonie concerne la coopération dans le cadre des contributions de la Suisse à certains États membres de l’UE. Ces contributions constituent un investissement dans la sécurité, la stabilité et la prospérité de l’Europe. En marge des entretiens politiques, la présidente de la Confédération a prévu de profiter de sa visite à Tallin pour se rendre au Centre d’excellence de cyberdéfense coopérative de l’OTAN. Ce centre, fondé en 2008, assiste les États membres de l’OTAN comme l’Estonie, mais aussi d’autres États dont la Suisse, en matière de formation, de recherche et de partage d'expérience sur les questions de cyberdéfense. La Suisse participe à ses activités depuis 2020.&lt;br /&gt;&lt;br /&gt;La visite officielle de la présidente de la Confédération Viola Amherd à Oslo témoigne des excellentes relations qu’entretiennent la Suisse et la Norvège, toutes deux membres de l’Association européenne de libre-échange (AELE). Les discussions porteront sur les relations bilatérales, les projets de coopération, notamment en matière de protection du climat, la politique européenne et la guerre d’agression menée par la Russie contre l’Ukraine. L’architecture sécuritaire de l’Europe du Nord fera l’objet d’une attention particulière. La présidente de la Confédération achèvera sa visite en Norvège le jeudi 8 février par un entretien avec le roi Harald V.&lt;/p&gt;</text>
       <contact>Communication DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <link id="270113">
+      <link id="270634">
         <title>Relations bilatérales Suisse–Estonie</title>
         <uri>https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-pour-les-voyages/estonie/suisse-estonie.html</uri>
         <position>Context</position>
       </link>
-      <link id="270117">
+      <link id="270635">
         <title>Relations bilatérales Suisse–Norvège</title>
         <uri>https://www.eda.admin.ch/countries/norway/fr/home/relations-bilaterales/bilaterale.html</uri>
         <position>Context</position>
@@ -104,12 +77,12 @@
       <lead>La prossima settimana la presidente della Confederazione Viola Amherd si recherà in Estonia e Norvegia, Paesi con cui la Svizzera intrattiene strette relazioni. Martedì 6 febbraio 2024 si incontrerà in Estonia con il presidente Alar Karis e con la Prima ministra Kaja Kallas, mentre mercoledì 7 febbraio 2024 si incontrerà con il primo ministro norvegese Jonas Gahr Støre. A Oslo è previsto anche un colloquio con il re Harald V.</lead>
       <text link="no">&lt;p&gt;Oltre ai colloqui a livello di capi di Stato e di Governo, in Estonia si terrà anche un incontro con il ministro della difesa Hanno Pevkur e in Norvegia avrà luogo un incontro con il presidente del Parlamento Masud Gharahkhani. I temi trattati nella visita presidenziale sono le relazioni bilaterali, la politica europea e le questioni in materia di sicurezza, in particolare quanto all’aggressione militare da parte della Russia contro l’Ucraina. Sia l’Estonia che la Norvegia sono Paesi immediatamente confinanti con la Russia.&lt;br /&gt;&lt;br /&gt;Un importante elemento delle relazioni eccellenti con l’Estonia è la collaborazione nel contesto dei contributi svizzeri ad alcuni Stati membri dell’UE. Con questi contributi la Svizzera concorre alla sicurezza, alla stabilità e al benessere in Europa. Oltre ai colloqui politici è prevista a Tallinn una visita dell’organizzazione internazionale «Cooperative Cyber Defence Centre of Excellence (CCD COE)». Fondato nel 2008, questo centro sostiene i membri della NATO come l’Estonia e altri Paesi, tra cui la Svizzera, con la formazione, la ricerca e lo scambio di esperienze nelle questioni di ciberdifesa. Dal 2020 anche la Svizzera partecipa alle sue attività. &lt;br /&gt;&lt;br /&gt;La visita ufficiale della presidente della Confederazione Amherd a Oslo testimonia le eccellenti relazioni bilaterali tra la Svizzera e la Norvegia. Entrambi i Paesi aderiscono all’Associazione europea di libero scambio (AELS). I colloqui si incentreranno sulle relazioni bilaterali e sui progetti di cooperazione, come ad esempio la protezione del clima, nonché sulla politica europea e, nel contesto dell’aggressione militare da parte della Russia, anche sull’architettura della sicurezza nordeuropea. Giovedì 8 febbraio la presidente della Confederazione concluderà la sua visita in Norvegia con un incontro con il re Harald V.&lt;/p&gt;</text>
       <contact>Comunicazione DDPS tel. +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <link id="270114">
+      <link id="270636">
         <title>Relazioni bilaterali Svizzera–Estonia</title>
         <uri>https://www.eda.admin.ch/eda/it/dfae/rappresentanze-e-consigli-di-viaggio/estonia/svizzera-estonia.html</uri>
         <position>Context</position>
       </link>
-      <link id="270118">
+      <link id="270637">
         <title>Relazioni bilaterali Svizzera–Norvegia</title>
         <uri>https://www.eda.admin.ch/countries/norway/it/home/la-svizzera-e/relazioni-bilaterali.html</uri>
         <position>Context</position>
@@ -122,12 +95,12 @@
       <lead>President Viola Amherd will pay a visit to Estonia and Norway next week. Switzerland maintains close relations with both countries. In Estonia, meetings are scheduled with President Alar Karis and Prime Minister Kaja Kallas on Tuesday, 6 February. Ms Amherd will then meet with Norwegian Prime Minister Jonas Gahr Støre on Wednesday, 7 February. An exchange with King Harald V is also planned in Oslo.</lead>
       <text link="no">&lt;p&gt;In addition to holding talks at head of state and government level, meetings are also set to take place with Estonian Defence Minister Hanno Pevkur and the president of the Norwegian parliament, Masud Gharahkhani. The topics for discussion during the presidential visits will include bilateral relations, European policy and security issues, particularly with regard to Russia’s war of aggression against Ukraine. Both Estonia and Norway share a border with Russia.&lt;br /&gt;&lt;br /&gt;An important element of the excellent relations with Estonia is cooperation within the framework of Switzerland’s contributions to selected EU member states. These contributions are intended as an investment in security, stability and prosperity in Europe. In addition to the political talks, a visit is planned to the Cooperative Cyber Defence Centre of Excellence (CCD COE) in Tallinn. The international centre supports NATO members such as Estonia and other countries, including Switzerland, with training, research and exchanges on cyber defence issues. The centre was set up in 2008 and Switzerland has been participating in its activities since 2020.&lt;br /&gt;&lt;br /&gt;President Amherd's official visit to Oslo is testimony to the excellent bilateral relations between Switzerland and Norway. Both countries are members of the European Free Trade Association (EFTA). Discussions will focus on bilateral relations and cooperation projects in the field of climate protection, for example, as well as on European policy and Russia’s war of aggression against Ukraine, and in particular the Northern European security architecture. On Thursday, 8 February, Ms Amherd will round off her visit to Norway by meeting King Harald V.&lt;/p&gt;</text>
       <contact>DDPS Communications +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <link id="270115">
+      <link id="270638">
         <title>Bilateral relations Switzerland–Estonia</title>
         <uri>https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/estonia/switzerland-estonia.html</uri>
         <position>Context</position>
       </link>
-      <link id="270119">
+      <link id="270639">
         <title>Bilateral relations Switzerland–Norway</title>
         <uri>https://www.eda.admin.ch/countries/norway/en/home/switzerland-and/bilateral-relations.html</uri>
         <position>Context</position>
