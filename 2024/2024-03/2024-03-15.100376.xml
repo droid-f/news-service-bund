@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="100376" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-03-15</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="401" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
@@ -34,35 +49,6 @@
       <email lang="it">info@bj.admin.ch</email>
       <email lang="en">info@bj.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="1070" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </department>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -77,27 +63,41 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </department>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Grenzüberschreitende Zivilprozesse: Erleichterter Einsatz elektronischer Kommunikation</title>
       <lead>Wer von der Schweiz aus an einem ausländischen Zivilverfahren teilnimmt, soll künftig ohne behördliche Genehmigung per Telefon- oder Videokonferenz befragt oder angehört werden können. Der Bundesrat hat an seiner Sitzung vom 15. März 2024 die Vernehmlassungsergebnisse zur geplanten Änderung der Rechtsgrundlagen zur Kenntnis genommen und die Botschaft zuhanden des Parlaments verabschiedet.</lead>
       <text link="no"> &lt;p&gt;Nach geltendem Recht braucht es eine vorgängige Genehmigung durch das Bundesamt für Justiz (BJ), wenn eine Person in der Schweiz im Rahmen eines ausländischen Zivilverfahrens mittels Telefon- oder Videokonferenz befragt werden soll. Diese Regelung mit Einzelfallgenehmigung wird angesichts der voranschreitenden Digitalisierung sowie den Erfahrungen während der Covid-19-Pandemie zunehmend als schwerfällig beurteilt. Das Parlament hat den Bundesrat deshalb mit der Motion 20.4266 der Rechtskommission des Ständerats beauftragt, den Einsatz elektronischer Kommunikationsmittel in internationalen Zivilprozessen einfacher zu gestalten.&lt;/p&gt; &lt;p&gt;In Umsetzung dieser Motion schlägt der Bundesrat nun vor, dass die Befragung einer Person in der Schweiz im Rahmen eines ausländischen Zivilverfahrens per Telefon- oder Videokonferenz künftig ohne vorgängige behördliche Genehmigung zulässig sein soll. Dies gilt unter der Voraussetzung, dass gewisse Bedingungen zur Wahrung der schweizerischen Souveränität und zum Schutz der betroffenen Personen eingehalten werden. So muss beispielsweise eine Mitteilung an die schweizerischen Behörden erfolgen. Damit soll unter anderem der zuständigen kantonalen Rechtshilfebehörde die Teilnahme an der Konferenz ermöglicht werden, wenn sie dies wünscht. &lt;/p&gt; &lt;p&gt;Den betroffenen Personen stehen weiterhin bestimmte Rechte zu, beispielsweise in ihrer Muttersprache befragt zu werden. Ausserdem bleibt die Voraussetzung unverändert, dass die betroffene Person der Teilnahme an der Befragung oder Anhörung zustimmt. Neu soll die Regelung auch Anhörungen ausserhalb des Beweisverfahrens erfassen, beispielsweise zu den Vorbringen der Prozessparteien. Sie soll zudem auch in Bezug auf Staaten gelten, die nicht dem Haager Beweisaufnahmeübereinkommen von 1970 (HBewÜ) angehören. &lt;/p&gt; &lt;p&gt;In der Vernehmlassung ist der Vorentwurf auf breite Zustimmung gestossen. Einzelne Stellungnahmen kritisierten, dass auch die Teilnahme an Verhandlungen ausserhalb des Beweisverfahrens erfasst werden. Geändert werden soll die Erklärung der Schweiz zum HBewÜ sowie das Bundesgesetz über das Internationale Privatrecht (IPRG).&lt;/p&gt; </text>
       <contact>Niklaus Meier, Bundesamt für Justiz, T +41 58 462 53 56, niklaus.meier@bj.admin.ch</contact>
-      <attachment id="271852">
+      <attachment id="272011">
         <title>Ergebnis des Vernehmlassungsverfahrens</title>
         <format>pdf</format>
         <size-kb>298</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/86608.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271854">
+      <attachment id="272013">
         <title>Botschaft</title>
         <format>pdf</format>
         <size-kb>373</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/86610.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271856">
+      <attachment id="272015">
         <title>Entwurf</title>
         <format>pdf</format>
         <size-kb>154</size-kb>
@@ -112,21 +112,21 @@
       <lead>Toute personne participant depuis la Suisse à une procédure civile étrangère pourra à l’avenir être interrogée ou entendue par téléconférence ou vidéoconférence sans autorisation préalable. Lors de sa séance du 15 mars 2024, le Conseil fédéral a pris acte des résultats de la consultation sur les modifications législatives proposées et adopté le message à l’intention du Parlement. </lead>
       <text link="no"> &lt;p&gt;Il faut actuellement une autorisation préalable de l'Office fédéral de la justice pour interroger une personne séjournant en Suisse par téléconférence ou vidéoconférence dans le cadre d'une procédure civile étrangère. Dans un contexte de numérisation croissante et suite à l'expérience de la pandémie, ce régime d'autorisations au cas par cas est, de plus en plus, jugé compliqué. Le Parlement, par la motion 20.4266 « Moderniser les procédures civiles transfrontalières » de la Commission des affaires juridique du Conseil des États, a de ce fait demandé au Conseil fédéral de simplifier le recours aux moyens de communication électroniques dans ces procédures. &lt;/p&gt; &lt;p&gt;Pour mettre en œuvre cette motion, le Conseil fédéral propose de renoncer à l'autorisation préalable de l'autorité compétente et d'assortir la permission générale de procéder à des téléconférences ou à des vidéoconférences de conditions visant à préserver la souveraineté suisse et à protéger les personnes concernées. Les autorités suisses recevront notamment une communication détaillée annonçant la téléconférence ou la vidéoconférence, qui permettra en particulier à l'autorité cantonale d'entraide judiciaire d'y participer si elle le souhaite. &lt;/p&gt; &lt;p&gt;Les personnes concernées jouiront comme actuellement de droits, dont celui d'être interrogées dans leur langue maternelle. Elles devront en outre, comme c'est le cas sous l'empire du droit en vigueur, consentir à être interrogées ou entendues.&lt;/p&gt; &lt;p&gt;La nouvelle réglementation englobe les auditions menées en dehors d'une procédure d'obtention des preuves, visant par exemple à permettre aux parties à l'instance d'exposer leur point de vue. Elle s'appliquera de plus aux États qui ne sont pas parties à la Convention de La Haye de 1970 sur l'obtention des preuves à l'étranger en matière civile ou commerciale (CLaH70). &lt;/p&gt; &lt;p&gt;Le projet mis en consultation a reçu un accueil largement favorable. Certains participants ont néanmoins critiqué que la suppression de l'autorisation préalable s'applique également aux auditions en dehors d'une procédure d'obtention des preuves. Le Conseil fédéral a adopté le message présentant les modifications prévues dans la déclaration de la Suisse relative à la CLaH70 et dans la loi fédérale sur le droit international privé.&lt;/p&gt; </text>
       <contact>Niklaus Meier, Office fédéral de la justice, T +41 58 462 53 56, niklaus.meier@bj.admin.ch</contact>
-      <attachment id="271853">
+      <attachment id="272012">
         <title>Résultats de la procédure de consultation</title>
         <format>pdf</format>
         <size-kb>300</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/86609.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271855">
+      <attachment id="272014">
         <title>Message</title>
         <format>pdf</format>
         <size-kb>402</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/86611.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271857">
+      <attachment id="272016">
         <title>Projet</title>
         <format>pdf</format>
         <size-kb>123</size-kb>
@@ -141,46 +141,25 @@
       <lead>Chi parteciperà dalla Svizzera a un procedimento civile estero potrà essere interrogato o sentito, mediante audioconferenza o videoconferenza, senza autorizzazione delle autorità. Nella seduta del 15 marzo 2014 il Consiglio federale ha preso atto della prevista modifica delle basi legali e adottato il messaggio all’attenzione del Parlamento.</lead>
       <text link="no"> &lt;p&gt;Secondo il diritto vigente, prima di poter interrogare, mediante audioconferenza o videoconferenza, una persona che si trova in Svizzera nel quadro di un procedimento civile estero è necessaria l'autorizzazione dell'Ufficio federale di giustizia. Con l'avanzare della digitalizzazione e alla luce delle esperienze raccolte durante la pandemia da COVID-19, il requisito dell'autorizzazione caso per caso è vieppiù giudicato oneroso. Con la mozione 20.4266, depositata dalla Commissione degli affari giuridici del Consiglio degli Stati, il Parlamento ha quindi incaricato il Consiglio federale di semplificare l'impiego dei mezzi di comunicazione elettronici nei procedimenti civili internazionali.&lt;/p&gt; &lt;p&gt;In adempimento della mozione, il Consiglio federale propone ora di ammettere, nel quadro di un procedimento civile estero, l'interrogatorio di una persona che si trova in Svizzera mediante audioconferenza o videoconferenza senza richiedere previamente l'autorizzazione delle autorità a condizione che siano rispettate determinate condizioni a tutela della sovranità svizzera e dell'interessato. Una di queste condizioni è ad esempio una pertinente comunicazione alle autorità svizzere di modo che la competente autorità cantonale di assistenza giudiziaria possa partecipare alla conferenza audiovisiva se lo desidera. &lt;/p&gt; &lt;p&gt;Gli interessati continuano inoltre a godere di determinati diritti, come ad esempio, quello di essere interrogati nella loro lingua madre. Inoltre resta invariata la condizione secondo la quale l'interessato deve acconsentire a partecipare all'interrogatorio o all'audizione. Adesso la regolamentazione contempla anche le audizioni al di fuori della procedura probatoria, ad esempio quelle sulle allegazioni delle parti processuali, e sarà applicata anche agli Stati non aderenti alla Convenzione dell'Aja del 1970 sull'assunzione all'estero delle prove in materia civile o commerciale (CLA70).&lt;/p&gt; &lt;p&gt;In sede di consultazione, l'avamprogetto ha raccolto un ampio consenso. Singoli partecipanti hanno tuttavia criticato il fatto che comprenda la partecipazione a udienze al di fuori della procedura probatoria. Le modifiche previste interessano la dichiarazione della Svizzera alla CLA70 e la legge federale sul diritto internazionale privato (LDIP).&lt;/p&gt; </text>
       <contact>Niklaus Meier, Ufficio federale di giustizia, T +41 58 462 53 56, niklaus.meier@bj.admin.ch</contact>
-      <attachment id="271852">
-        <title>Ergebnis des Vernehmlassungsverfahrens</title>
+      <attachment id="272017">
+        <title>Risultati della consultazione</title>
         <format>pdf</format>
-        <size-kb>298</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86608.pdf</uri>
+        <size-kb>312</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86680.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271853">
-        <title>Résultats de la procédure de consultation</title>
+      <attachment id="272018">
+        <title>Messaggio</title>
         <format>pdf</format>
-        <size-kb>300</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86609.pdf</uri>
+        <size-kb>359</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86681.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="271854">
-        <title>Botschaft</title>
+      <attachment id="272019">
+        <title>Disegno</title>
         <format>pdf</format>
-        <size-kb>373</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86610.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="271855">
-        <title>Message</title>
-        <format>pdf</format>
-        <size-kb>402</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86611.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="271856">
-        <title>Entwurf</title>
-        <format>pdf</format>
-        <size-kb>154</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86612.pdf</uri>
-        <position>Context</position>
-      </attachment>
-      <attachment id="271857">
-        <title>Projet</title>
-        <format>pdf</format>
-        <size-kb>123</size-kb>
-        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86613.pdf</uri>
+        <size-kb>149</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86682.pdf</uri>
         <position>Context</position>
       </attachment>
       <revisions> </revisions>
