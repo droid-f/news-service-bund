@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="100522" revoked="no">
+    <version>1</version>
+    <pubdate>2024-03-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Wenn das Smartphone das Gebäude steuert: Ein zweiter Frühling für ausgediente Smartphones</title>
+      <lead>Die Automation von Gebäudesystemen bietet ein grosses Einsparungspotenzial beim Energieverbrauch von Immobilien. Studien über solche Systeme zeigen, dass durch optimierte Lösungen der Energiebedarf für Gebäude im Schnitt um rund 30 Prozent gesenkt werden kann. Damit dafür nicht wiederum CO2-intensive Computerchips produziert werden müssen, untersucht Empa-Forscher Hanmin Cai aktuell, inwiefern liquidierte und beschädigte Smartphones diese Aufgaben steuern könnten.</lead>
+      <text link="no"> &lt;p&gt;In nahezu jedem Bereich unseres Lebens hält zunehmend die Digitalisierung Einzug. Nach der grossen Revolution in der Kommunikation, der Transformation der Industrie und der bevorstehenden Wende im Mobilitätssektor, widmete man sich in den letzten Jahren auch verstärkt dem Gebäudepark. Mit gutem Grund, denn dieser zeichnet für rund 40 Prozent des hiesigen Energieverbrauchs verantwortlich. Das sollen selbstlernende Algorithmen ändern, die Gebäude aufgrund ihrer baulichen Merkmale und ihrer Nutzung optimal betreiben können. So kann etwa das System von viboo, einem Start-up das aus einem Forschungsprojekt an der Empa entstanden ist, allein durch die automatisierte und vorausschauende Raumklimatisierung Energieeinsparungen von rund 30 Prozent verzeichnen. &lt;/p&gt; &lt;p&gt;Allerdings benötigen diese Gebäudesysteme wiederum entsprechende Hardware – vornehmlich Rechen- und Kommunikationsleistung. Dieser Umstand brachte Hanmin Cai, Forscher an der Empa im Bereich urbane Energiesysteme, ins Grübeln. Denn auch in seinem aktuellen Projekt stelle der ökologische Fussabdruck der benötigten Hardware ein Dilemma dar, so Cai: «Diese Systeme sollen ja Energieverbrauch und CO2-Ausstoss vermindern. Wenn wir dazu aber neue Hardware herstellen müssen, deren Produktion und Transport wertvolle Ressourcen benötigen und grosse Mengen CO2 verursachen, dann verschieben wir einen Teil der Emissionen einfach auf andere Sektoren». Als er zu Hause in einer Schublade seine alten Smartphones entdeckte, kam ihm jedoch eine Idee: Was, wenn statt neuer Hardware wiederverwendete zum Einsatz kommen könnte, die ohnehin in grosser Zahl vorhanden ist? Denn oft werden Smartphones aufgrund eines beschädigten Bildschirms oder der Akkulaufzeit ersetzt, während Prozessor und Speicher immer noch einwandfrei funktionieren. Um dies zu demonstrieren, hat er untersucht, inwiefern sich grundlegende Kontroll- und Kommunikationsaufgaben mit herkömmlichen Smartphones durchführen lassen, welche Leistung diese erbringen und welche Software-Applikationen dazu benötigt werden. Dazu hat er den von ihm mitentwickelten Algorithmus mit Hilfe von open-source Software auf sein altes Smartphone gespielt, um so die Raumtemperatur in einer NEST-Unit, innerhalb einer von ihm festgelegten Komfortzone, zu kontrollieren. In einem zweiten Versuch kontrollierte er damit den Lade- bzw. Entladevorgang einer elektrischen Batterie, die mit einem simulierten Stromnetz verbunden war.&lt;/p&gt;&lt;p&gt;Die ersten Ergebnisse sind insofern zufriedenstellend, als dass beide Aufgaben mit ansprechender Genauigkeit ausgeführt werden konnten. Auch bezüglich der Kommunikationsgeschwindigkeit lag der Smartphone-Controller in einem Bereich, der für die Gebäudesteuerung ausreichend ist. Der augenscheinliche Vorteil dieses Setups, laut Cai: «Wir alle kaufen uns etwa alle fünf Jahre ein neues Smartphone. Dazu kommt, dass in den meisten Haushalten mehr als eine Person lebt. Die Ressourcen wären also zur Genüge vorhanden». Trotzdem steht die Idee noch ganz am Anfang. Wichtige Fragen, etwa zur Sicherheit der Software-Kette, zur Skalierbarkeit der Anwendung oder der Lebensdauer eines solchen Smartphone-Controllers, sind noch nicht abschliessend beantwortet. Noch zuvor steht eine fundierte Analyse des CO2-Verbrauchs über den gesamten Lebenszyklus des Smartphone-Controllers an. Dadurch werden die Forschenden genau beziffern können, wie viele Emissionen gegenüber einem neu produzierten Gerät schliesslich eingespart werden können.&lt;/p&gt; </text>
+      <contact>Dr. Hanmin Cai Urban Energy Systems Tel. +41 58 765 40 77 hanmin.cai@empa.ch</contact>
+      <attachment id="272221">
+        <title>Auch ein oberflächlich beschädigtes Smartphone (links) kann problemlos die gleichen Aufgaben erfüllen, wie eine neuwertige Kontrolleinheit (rechts). (Bild: Hanmin Cai)</title>
+        <format>jpg</format>
+        <size-kb>2478</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86742.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="272222">
+        <title>In jedem unserer Smartphones stecken wertvolle und leistungsfähige Ressourcen (Bild: Hanmin Cai)</title>
+        <format>jpg</format>
+        <size-kb>1591</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86744.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="272225">
+        <title>NEST-Podcast</title>
+        <uri>https://www.empa.ch/web/nest/podcast</uri>
+        <position>Context</position>
+      </link>
+      <link id="272226">
+        <title>H Cai; Circular economy meets building automation; Journal of Physics: Conference Series (2023); doi: 10.1088/1742-6596/2600/19/192011</title>
+        <uri>https://www.empa.ch/documents/56164/28805609/Cai+Hanmin+ReUse+Smartphones/c9eec646-7ec5-4b35-a579-9704f1448a00</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Circular economy: How discarded smartphones can help decarbonize the building sector</title>
+      <lead>Automated building systems offer a great potential for reducing the energy consumption of properties. Studies on such systems show that optimized solutions can reduce the energy requirements of buildings by around 30 percent on average. In order to avoid the necessity to produce new and emission-heavy computer chips, Empa researcher Hanmin Cai is currently investigating the extent to which damaged smartphones that are no longer used could perform these control and maintenance tasks.</lead>
+      <text link="no"> &lt;p&gt;Digitalization is increasingly finding its way into almost every area of our lives. Following the revolution in communication, the transformation of industry and the imminent turnaround in the mobility sector, there has also been an increasing focus on the building stock in recent years. And with good reason, as it is responsible for around 40 percent of Switzerland's energy consumption. Self-learning algorithms that can optimize the operation of buildings based on their structural characteristics and usage are set to change this. Take, for instance, the solution of viboo, a startup that emerged from a research project at Empa: Their smart control system achieves energy savings of around 30 percent through automated heating and cooling alone.&lt;/p&gt; &lt;p&gt;However, these building systems in turn require corresponding hardware – primarily computing power and communication channels. This circumstance got Hanmin Cai, a researcher at Empa in the field of urban energy systems, thinking about an entirely new approach. His current research focuses on automated building systems, and he thus is facing a similar dilemma concerning computing power, as he explains: "These systems are primarily designed to reduce energy consumption and CO2 emissions. But if we have to manufacture new hardware from valuable resources that causes itself large amounts of carbon emissions, just to operate those systems, then this is contradictory to their original purpose." So he thought about his old smartphones, which he hadn't have the heart to dispose of, and quickly realized that they carried an unutilized potential: Often times, they are replaced because of a damaged screen or receding battery capacity, while the computing power still works perfectly fine. To prove his point, he ran the algorithm, which he co-developed, over his old smartphone using open-source software applications. In a first test, he had this smartphone controller regulate the room temperature of a room at NEST within a comfort zone he had previously defined. In a second experiment, he let the algorithm control charging and discharging of an electrical battery in conjunction with a simulated power grid.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The initial results are satisfactory in that both tasks could be carried out with reasonable accuracy. In terms of communication speed, the smartphone controller was also within a range that is sufficient for building control. The obvious advantage of this setup, according to Cai: "We all buy a new smartphone every five years or so. What's more, most households have more than one person living in them. So there would be plenty of resources available."&lt;/p&gt; &lt;p&gt;Nevertheless, the project is still in a very early stage. Important matters, such as standardization and security of the software chain, are still unresolved. Prior to a longer-term study on their longevity, Cai and his team additionally need to perform a proper analysis on the life cycle emissions of such a smartphone controller. This will enable them to put a number on the amount of emissions saved, compared to a newly manufactured control unit. &lt;/p&gt; </text>
+      <contact>Dr. Hanmin Cai Urban Energy Systems Tel. +41 58 765 40 77 hanmin.cai@empa.ch</contact>
+      <attachment id="272223">
+        <title>Even a damaged smartphone could provide enough computing power to replace a newly built control unit. (Photo: Hanmin Cai)</title>
+        <format>jpg</format>
+        <size-kb>2478</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86745.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="272224">
+        <title>Hidden behind its surface, every smartphone contains valuable and powerful hardware. (Photo: Hanmin Cai)</title>
+        <format>jpg</format>
+        <size-kb>1591</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86746.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="272225">
+        <title>NEST-Podcast</title>
+        <uri>https://www.empa.ch/web/nest/podcast</uri>
+        <position>Context</position>
+      </link>
+      <link id="272226">
+        <title>H Cai; Circular economy meets building automation; Journal of Physics: Conference Series (2023); doi: 10.1088/1742-6596/2600/19/192011</title>
+        <uri>https://www.empa.ch/documents/56164/28805609/Cai+Hanmin+ReUse+Smartphones/c9eec646-7ec5-4b35-a579-9704f1448a00</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
