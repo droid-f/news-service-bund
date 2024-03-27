@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="100539" revoked="no">
+    <version>1</version>
+    <pubdate>2024-03-27</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1070" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1102" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Staatssekretariat für Sicherheitspolitik</name>
+      <name lang="fr">Secrétariat d’État à la politique de sécurité</name>
+      <name lang="it">Segreteria di Stato della politica di sicurezza</name>
+      <name lang="en">State Secretariat for Security Policy</name>
+      <www lang="de">https://www.sepos.admin.ch/de</www>
+      <www lang="fr">https://www.sepos.admin.ch/fr</www>
+      <www lang="it">https://www.sepos.admin.ch/it</www>
+      <www lang="en">https://www.sepos.admin.ch/de</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
+    <originator department-msg="no" id="201" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </originator>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="201">
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <www lang="de">https://www.eda.admin.ch/eda/de/home.html</www>
+      <www lang="fr">https://www.eda.admin.ch/eda/fr/dfae.html</www>
+      <www lang="it">https://www.eda.admin.ch/eda/it/dfae.html</www>
+      <www lang="en">https://www.eda.admin.ch/eda/en/home.html</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Kernwaffenverbotsvertrag: Bundesrat will zum jetzigen Zeitpunkt keinen Richtungswechsel</title>
+      <lead>Auf Basis einer erneuten umfassenden Auslegeordnung hat der Bundesrat in seiner Sitzung vom 27. März 2024 beschlossen, dass es in der aktuellen Lage keinen Anlass für eine Neupositionierung zum 2021 in Kraft getretenen Kernwaffenverbotsvertrag (TPNW) gibt. Damit bleibt er bei seiner Beurteilung von 2018 und 2019 und tritt dem TPNW weiterhin nicht bei. Für den Bundesrat war nebst der damaligen Analyse die Einschätzung der sicherheitspolitischen Entwicklungen in Europa und weltweit von entscheidender Bedeutung. Der Bundesrat erachtet den Schweizer Einsatz für eine Welt ohne Kernwaffen im Rahmen des Atomwaffensperrvertrags (NPT) als zielführender. </lead>
+      <text link="no"> &lt;p&gt;In der Aussenpolitischen Strategie (APS) 2024−2027 spricht sich der Bundesrat unmissverständlich für eine nuklearwaffenfreie Welt aus. Der Einsatz von Kernwaffen wäre mit dem humanitären Völkerrecht kaum vereinbar. Vor zehn Tagen bezog die Schweiz im UNO-Sicherheitsrat entsprechend deutlich Stellung und erklärte, dass ein Atomkrieg keine Gewinner kennen würde und darum auch niemals geführt werden dürfe. &lt;/p&gt; &lt;p&gt;Die Frage, wie das Ziel einer nuklearwaffenfreien Welt realisiert werden kann, wird auch in der Schweiz kontrovers diskutiert. Der Bundesrat liess deshalb seine früheren Entscheidgrundlagen zum TPNW durch eine interdepartementale Arbeitsgruppe (IDAG) mit Vertretern aus dem EDA, VBS, UVEK und dem WBF umfassend aktualisieren und nahm darauf basierend eine erneute Beurteilung vor. In den Bericht flossen neu die sicherheitspolitischen Entwicklungen seit 2018, die Erkenntnisse aus der NPT- Überprüfungskonferenz sowie die Einschätzungen externer Expertinnen und Experten mit ein. Mit dem Postulat Dittli (22.3800) forderte das Parlament auch einen spezifischen Bericht zu den aussen- und sicherheitspolitischen Auswirkungen eines allfälligen TPNW-Beitritts, namentlich vor dem Hintergrund des Krieges gegen die Ukraine und dessen Folgen für die Sicherheitsarchitektur Europas. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Verschlechterte Sicherheitslage&lt;/b&gt;&lt;/p&gt; &lt;p&gt;In seiner Sitzung vom 27. März 2024 nahm der Bundesrat den Bericht der Arbeitsgruppe zur Kenntnis und verabschiedete den Bericht in Erfüllung des Postulats 22.3800. Auf der Grundlage dieser zwei Berichte kam der Bundesrat zum Schluss, dass es derzeit keinen Bedarf für einen Richtungswechsel gibt, und er dem TPNW im Moment nicht beitreten wird. Der Bundesrat ist überzeugt, dass ein Beitritt im gegenwärtigen internationalen Umfeld, in welchem mit einem neuen Krieg in Europa sicherheitspolitische Aspekte wieder in den Vordergrund gerückt sind, nicht im Interesse der Schweiz liegt. &lt;/p&gt; &lt;p&gt;Weiterhin beurteilt der Bundesrat die Wirkung des TPNW als gering, weil er von den Atomwaffenbesitzern, aber auch von fast allen westlichen und europäischen Ländern, nicht anerkannt wird. Eine Welt ohne Kernwaffen kann aber nur &lt;i&gt;mit&lt;/i&gt;, und nicht &lt;i&gt;gegen&lt;/i&gt;, die Besitzerstaaten erreicht werden. Auch wenn die nukleare Abrüstung derzeit stockt und gar gegenläufige Tendenzen aufweist, wird die Schweiz weiterhin einfordern, dass die betroffenen Staaten ihren Abrüstungsverpflichtungen nachkommen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Die Schweiz setzt sich weiterhin für die nukleare Abrüstung ein&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Im Rahmen der «Strategie Rüstungskontrolle und Abrüstung 2022-2025» setzt sich der Bundesrat für die Eindämmung der nuklearen Risiken und die Entwicklung von verifizierbaren künftigen Abrüstungsverträgen ein. Zudem ist die Schweiz seit 1977 Mitglied des Atomwaffensperrvertrags&lt;b&gt; &lt;/b&gt;(NPT), der von 191 Mitgliedsstaaten, darunter auch die Kernwaffenstaaten USA, Russland, China, Frankreich und das Vereinigte Königreich, unterzeichnet wurde. Der NPT ist der Eckpfeiler der nuklearen Rüstungskontrolle und der globalen Sicherheitsarchitektur. Die Schweiz setzt sich aktiv für die Stärkung dieser Architektur ein.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;Der TPNW&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Kernwaffenverbotsvertrag wurde 2017 in der UNO verhandelt. Er enthält ein umfassendes und ausdrückliches Verbot für Kernwaffen, verbietet also den Einsatz, die Androhung des Einsatzes, die Herstellung, die Lagerung, den Erwerb, den Besitz, die Stationierung, die Weitergabe sowie Tests von Kernwaffen und die Unterstützung dieser verbotenen Tätigkeiten. Er trat 2021 in Kraft. Bis heute wurde er von 70 Staaten ratifiziert. Unter anderem sind die Kernwaffenbesitzer und die mit ihnen verbündeten Staaten ihm bisher nicht beigetreten.&lt;/p&gt; &lt;u&gt; &lt;/u&gt;</text>
+      <contact>für weitere Informationen: Kommunikation EDA Tel. Medienstelle +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
+      <attachment id="272285">
+        <title>Bericht des Bundesrates in Erfüllung des Postulats 22.3800 Dittli vom 27. September 2022</title>
+        <format>pdf</format>
+        <size-kb>152</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86770.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="272288">
+        <title>Update zum Bericht der Arbeitsgruppe zur Analyse des Kernwaffenverbotsvertrags</title>
+        <format>pdf</format>
+        <size-kb>545</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86773.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="272277">
+        <title>Nukleare Abrüstung</title>
+        <uri>https://www.eda.admin.ch/eda/de/home/aussenpolitik/sicherheitspolitik/abruestung-und-nonproliferation/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="272281">
+        <title>Strategie Rüstungskontrolle und Abrüstung 2022–2025</title>
+        <uri>https://www.eda.admin.ch/eda/de/home/das-eda/publikationen.html/content/publikationen/de/eda/schweizer-aussenpolitik/Strategie_Ruestungskontrolle_Abruestung_2022-25</uri>
+        <position>Content</position>
+      </link>
+      <link id="272315">
+        <title>EDA Newsartikel</title>
+        <uri>https://www.eda.admin.ch/eda/de/home/das_eda/aktuell/newsuebersicht/2024/03/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Traité sur l’interdiction des armes nucléaires: le Conseil fédéral maintient sa position à l’heure actuelle</title>
+      <lead>À la suite d’une nouvelle analyse approfondie de la situation, le Conseil fédéral a décidé, lors de sa séance du 27 mars 2024, que dans le contexte actuel, il n’y a pas lieu de revoir la position de la Suisse concernant le Traité sur l’interdiction des armes nucléaires (TIAN) entré en vigueur en 2021. Il s’en tient à son évaluation de 2018 et 2019 et renonce à adhérer au TIAN. Outre l’analyse effectuée à l’époque, le Conseil fédéral a également tenu compte des évolutions en matière de politique de sécurité en Europe et dans le monde. Il estime que l’engagement de la Suisse en faveur d’un monde sans armes nucléaires dans le cadre du Traité sur la non-prolifération des armes nucléaires (TNP) est plus pertinent. </lead>
+      <text link="no"> &lt;p&gt;Dans sa stratégie de politique extérieure (SPE) 2024-2027, le Conseil fédéral se prononce expressément en faveur d’un monde sans armes nucléaires. L'utilisation d'armes nucléaires ne serait guère compatible avec le droit international humanitaire. Il y a dix jours, la Suisse a pris clairement position en ce sens au Conseil de sécurité des Nations Unies en affirmant qu’une guerre nucléaire ne peut pas être gagnée et ne doit jamais être menée.&lt;/p&gt; &lt;p&gt;La question de savoir comment concrétiser l’objectif d’un monde sans armes nucléaires fait débat en Suisse également. C’est pourquoi le Conseil fédéral a chargé un groupe de travail interdépartemental, composé de représentants du DFAE, du DDPS, du DETEC et du DEFR, d’actualiser l’ensemble de ses analyses sur le TIAN, puis a procédé à une nouvelle évaluation sur cette base-là . Le rapport intègre désormais les évolutions en matière de politique de sécurité depuis 2018, les observations faites lors de la conférence d’examen du TNP et les avis d’expertes et experts externes. Avec le postulat Dittli (22.3800), le Parlement a également chargé le Conseil fédéral d’établir un rapport spécifique sur les conséquences qu’une adhésion de la Suisse au TIAN aurait en termes de politique étrangère et de sécurité, en particulier dans le contexte de la guerre en Ukraine et de ses conséquences sur l’architecture de sécurité en Europe.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Dégradation de la situation en matière de sécurité&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Lors de sa séance du 27 mars 2024, le Conseil fédéral a pris connaissance du rapport du groupe de travail et a adopté le rapport élaboré en réponse au postulat 22.3800. Sur la base de ces deux rapports, il est parvenu à la conclusion qu’il n’y avait pas lieu actuellement de changer de position et que pour l’heure, la Suisse n’adhérerait pas au TIAN. Le Conseil fédéral est convaincu qu’une adhésion n’est pas dans l’intérêt de la Suisse dans le contexte international actuel, caractérisé par le retour sur le devant de la scène des questions de politique de sécurité, du fait de la nouvelle guerre en Europe. &lt;/p&gt; &lt;p&gt;Par ailleurs, le Conseil fédéral juge faible l’impact du TIAN, celui-ci n’étant pas reconnu par les détenteurs de l’arme nucléaire, ni par la quasi-totalité des pays occidentaux et européens. Un monde sans armes nucléaires ne pourra toutefois émerger qu’&lt;i&gt;en coopération&lt;/i&gt; avec les États dotés de l’arme nucléaire, et non &lt;i&gt;en opposition&lt;/i&gt; avec ceux-ci. Même si le désarmement nucléaire se trouve actuellement dans une impasse, voire fait face à des tendances contraires, la Suisse continuera d’exiger des États concernés qu’ils respectent leurs obligations de désarmement. &lt;/p&gt; &lt;p&gt;&lt;b&gt;La Suisse continue de s’engager en faveur du désarmement nucléaire&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dans le cadre de la « Stratégie de maîtrise des armements et désarmement 2022–2025 », le Conseil fédéral s’engage pour la réduction des risques nucléaires et l’élaboration de nouveaux traités de désarmement vérifiables. La Suisse est en outre membre du Traité sur la non-prolifération des armes nucléaires (TNP) depuis 1977, accord signé par 191 États membres, dont les puissances nucléaires que sont les États-Unis, la Russie, la Chine, la France et le Royaume-Uni. Le TNP constitue la pierre angulaire du contrôle de l’armement nucléaire et de l’architecture mondiale de sécurité. La Suisse soutient activement la consolidation de cette architecture.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;Le TIAN&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le Traité sur l’interdiction des armes nucléaires a été négocié au sein de l’ONU en 2017. Il comporte une interdiction globale et explicite des armes nucléaires, en interdisant l’usage, la menace d’usage, la fabrication, le stockage, l’acquisition, la possession, le stationnement, la transmission et la mise à l’essai d’armes nucléaires, ainsi que le soutien à de telles activités. Il est entré en vigueur en 2021. À ce jour, il a été ratifié par 70 États. Les États dotés de l’arme nucléaire et leurs alliés, en particulier, n’ont pas adhéré au traité.&lt;/p&gt; </text>
+      <contact>Pour plus d'informations: Communication DFAE Tél. Service de presse +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
+      <attachment id="272286">
+        <title>Rapport du Conseil fédéral donnant suite au postulat 22.3800 Dittli du 27 septembre 2022</title>
+        <format>pdf</format>
+        <size-kb>157</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86771.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <attachment id="272289">
+        <title>Mise à jour du rapport du groupe de travail sur l’analyse du Traité sur l’interdiction des armes nucléaires</title>
+        <format>pdf</format>
+        <size-kb>517</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86774.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="272278">
+        <title>Désarmement nucléaire</title>
+        <uri>https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/politique-securite/desarmement-non-proliferation/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="272282">
+        <title>Stratégie de maîtrise des armements et de désarmement 2022–2025</title>
+        <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/publikationen.html/content/publikationen/fr/eda/schweizer-aussenpolitik/Strategie_Ruestungskontrolle_Abruestung_2022-25</uri>
+        <position>Content</position>
+      </link>
+      <link id="272316">
+        <title>Article DFAE</title>
+        <uri>https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/newsuebersicht/2024/03/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Trattato sulla proibizione delle armi nucleari: il Consiglio federale non intende cambiare rotta al momento</title>
+      <lead>Sulla base di una nuova valutazione globale, il Consiglio federale ha deciso nella riunione del 27 marzo 2024, che nella situazione attuale non è necessario un riposizionamento rispetto al Trattato sulla proibizione delle armi nucleari (TPNW), entrato in vigore nel 2021. Si allinea pertanto alla sua valutazione del 2018 e del 2019 e rinuncia ad aderirvi. Questa decisione è motivata, oltre che dalle analisi effettuate in precedenza, dalle considerazioni relative agli sviluppi della politica di sicurezza in Europa e nel mondo. Il Consiglio federale ritiene che la Svizzera possa contribuire in modo più significativo a un mondo senza armi nucleari nel quadro del Trattato di non proliferazione nucleare (TNP). </lead>
+      <text link="no"> &lt;p&gt;Nella Strategia di politica estera 2024–2027, il Consiglio federale dichiara inequivocabilmente il suo impegno a favore di un mondo privo di armi nucleari. L'uso di armi nucleari difficilmente sarebbe compatibile con il diritto internazionale umanitario. Dieci giorni fa la Svizzera ha preso una posizione chiara in seno al Consiglio di sicurezza dell’ONU, dichiarando che una guerra nucleare non può essere vinta e non deve essere combattuta.&lt;/p&gt; &lt;p&gt;La questione di come realizzare l’obiettivo di un mondo libero da armi nucleari è oggetto di accese discussioni anche nel nostro Paese. Il Consiglio federale ha pertanto incaricato un gruppo di lavoro interdipartimentale (GLID) – composto da rappresentanti del Dipartimento federale degli affari esteri (DFAE), del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) e del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) – di aggiornare completamente le sue precedenti basi decisionali e, in seguito, ha effettuato una nuova valutazione. Nel nuovo rapporto sono confluiti gli sviluppi della politica di sicurezza dal 2018, i risultati della conferenza di revisione sul TNP e le considerazioni di esperte ed esperti esterni. Con il postulato Dittli (22.3800) il Parlamento ha inoltre richiesto la stesura di un rapporto specifico sulle implicazioni legate alla politica estera e di sicurezza di un’eventuale adesione al TPNW, in particolare alla luce della guerra contro l’Ucraina e delle sue conseguenze per l’architettura di sicurezza dell’Europa.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Il Trattato sulla proibizione delle armi nucleari (TPNW)&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il TPNW è stato negoziato nel 2017 in seno all’ONU e sancisce il divieto totale ed esplicito delle armi nucleari. Vieta in particolare l’impiego, la minaccia di utilizzare, la produzione, lo stoccaggio, l’acquisto, il possesso, lo stazionamento e il trasferimento di tali armi, i relativi test e il sostegno alle attività vietate. Il trattato è entrato in vigore nel 2021 e ad oggi è stato ratificato da 70 Stati. Diversi Paesi, inclusi quelli in possesso di armi nucleari e i loro alleati, non vi hanno ancora aderito.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Deterioramento della situazione in termini di sicurezza&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Nella sua seduta del 27 marzo 2024, il Consiglio federale ha preso atto del rapporto del GLID e ha adottato il rapporto in adempimento del postulato 22.3800. Sulla base di questi due documenti, è giunto alla conclusione che attualmente non è necessario un riposizionamento e ha deciso di non aderire, per ora, al TPNW. L’Esecutivo è convinto che nell’attuale contesto internazionale, caratterizzato da un nuovo conflitto in Europa che ha riportato in primo piano questioni legate alla politica di sicurezza, l’adesione a tale trattato non sarebbe nell’interesse della Svizzera. &lt;/p&gt; &lt;p&gt;Il Consiglio federale ritiene inoltre che il TPNW abbia un impatto limitato poiché non è riconosciuto dagli Stati in possesso di armi nucleari e dalla stragrande maggioranza dei Paesi occidentali ed europei. L’obiettivo di un mondo privo di armi nucleari può essere concretizzato solo &lt;i&gt;collaborando&lt;/i&gt; con gli Stati che le detengono, e non &lt;i&gt;opponendosi&lt;/i&gt; a questi. Anche se il disarmo nucleare ha subito una battuta d’arresto e, in parte, segna persino un’inversione di tendenza, la Svizzera continuerà a esortare gli Stati interessati ad adempiere i loro obblighi in materia. &lt;/p&gt; &lt;p&gt;&lt;b&gt;La Svizzera continua a impegnarsi per il disarmo nucleare&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Nel quadro della “Strategia di controllo degli armamenti e di disarmo 2022–2025”, il Consiglio federale si adopera per limitare i rischi legati alle armi nucleari e per elaborare futuri trattati di disarmo verificabili. Dal 1977 la Svizzera partecipa inoltre al Trattato di non proliferazione nucleare (TNP), che conta 191 Stati membri, tra cui anche Stati dotati di armi nucleari come la Cina, la Francia, il Regno Unito, la Russia e gli Stati Uniti. Questo trattato costituisce la pietra angolare del controllo degli armamenti nucleari e dell’architettura di sicurezza globale. Architettura che la Svizzera si impegna attivamente a rafforzare. &lt;/p&gt; </text>
+      <contact>Informazioni: Comunicazione DFAE Tel. Servizio stampa +41 58 460 55 55 kommunikation@eda.admin.ch</contact>
+      <attachment id="272287">
+        <title>Rapporto del Consiglio federale in adempimento del postulato Dittli 22.3800 del 27 settembre 2022</title>
+        <format>pdf</format>
+        <size-kb>148</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86772.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="272279">
+        <title>Disarmo nucleare</title>
+        <uri>https://www.eda.admin.ch/eda/it/dfae/politica-estera/politica-sicurezza/armo-non-proliferazione/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="272283">
+        <title>Strategia di controllo degli armamenti e di disarmo 2022–2025</title>
+        <uri>https://www.eda.admin.ch/eda/it/dfae/dfae/publikationen.html/content/publikationen/it/eda/schweizer-aussenpolitik/Strategie_Ruestungskontrolle_Abruestung_2022-25</uri>
+        <position>Content</position>
+      </link>
+      <link id="272317">
+        <title>Articolo DFAE</title>
+        <uri>https://www.eda.admin.ch/eda/it/dfae/dfae/aktuell/newsuebersicht/2024/03/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Treaty on the Prohibition of Nuclear Weapons: Federal Council sees no need to change direction at this time</title>
+      <lead>On the basis of a new comprehensive reassessment, the Federal Council decided at its meeting on 27 March 2024, that there is currently no reason to change its position on the Treaty on the Prohibition of Nuclear Weapons (TPNW), which entered into force in 2021. It has therefore reaffirmed the conclusion it reached in 2018 and 2019 and has decided that Switzerland will not join the TPNW for the time being. The Federal Council's conclusion is based both on the assessment made in 2018–19 and recent security policy developments in Europe and globally. The Federal Council considers Switzerland's commitment to a world without nuclear weapons, pursued within the framework of the Nuclear Non-Proliferation Treaty (NPT), to be a more effective approach. </lead>
+      <text link="no"> &lt;p&gt;In its Foreign Policy Strategy 2024−27, the Federal Council unequivocally advocates for a world free of nuclear weapons. The use of nuclear weapons would hardly be compatible with international humanitarian law. Ten days ago, Switzerland took a clear position in the UN Security Council, declaring that a nuclear war cannot be won and must never be fought.&lt;/p&gt; &lt;p&gt;The question of how to achieve the goal of a world free of nuclear weapons is also hotly debated in Switzerland. To thoroughly reassess its earlier decisions on the TPNW, the Federal Council commissioned an interdepartmental working group (IDWG) with representatives from the FDFA, DDPS, DETEC, and EAER. The latest report weighed security policy developments since 2018, the findings of the NPT Review Conference, and the assessments of external experts. With the Dittli postulate (22.3800), Parliament also called for a specific report on the foreign and security policy implications of potential TPNW accession, particularly in light of Russia's war against Ukraine and its consequences for Europe's security architecture. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Deteriorating security environment &lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;At its meeting on 27 March 2024, the Federal Council took note of the IDWG's report and adopted its report in fulfilment of postulate 22.3800. Based on these two reports, the Federal Council concluded that there is currently no need to change its position and that Switzerland will not join the TPNW for the time being. The Federal Council is convinced that joining the TPNW is not in Switzerland's interests, given the current international context and the war in Europe, which have highlighted the renewed urgency of security considerations. &lt;/p&gt; &lt;p&gt;The Federal Council still holds the view that the effectiveness of the TPNW is limited, since neither the nuclear-armed states nor the majority of Western and European countries recognise it. Moreover, a world free of nuclear weapons can only be achieved &lt;i&gt;with&lt;/i&gt;, not &lt;i&gt;against&lt;/i&gt;, the nuclear-armed states. Despite the current standstill in nuclear disarmament efforts and clear indications of an arms build-up, Switzerland will continue to call on the states concerned to fulfil their disarmament obligations. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Switzerland maintains its commitment to nuclear disarmament&lt;/b&gt;&lt;/p&gt; &lt;p&gt;As part of its “Strategy Arms Control and Disarmament Strategy 2022 -2025”, the Federal Council is working to reducing nuclear risks and developing verifiable future disarmament treaties. Switzerland has been a member of the Nuclear Non-Proliferation Treaty (NPT) since 1977, which has been signed by 191 states parties, including the nuclear-weapon states United States, Russia, China, France and the United Kingdom. The NPT is the cornerstone of nuclear arms control efforts and the global security architecture. Switzerland actively works to strengthen this architecture.&lt;/p&gt; &lt;p&gt;&lt;b&gt;The TPNW&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The Treaty on the Prohibition of Nuclear Weapons (TPNW) was negotiated at the United Nations in 2017. It contains a comprehensive and explicit ban on nuclear weapons, prohibiting their use, threat of use, production, stockpiling, acquisition, possession, deployment, transfer, testing, and any support for these prohibited activities. It entered into force in 2021 and has been ratified by 70 states to date. The nuclear-weapon states, their allies and other states have not yet acceded to the treaty.&lt;/p&gt; </text>
+      <contact>For further information: FDFA Communication Tel. Press service +41 460 55 55 kommunikation@eda.admin.ch</contact>
+      <attachment id="272290">
+        <title>Update on the report of the working group analysing the Treaty on the Prohibition of Nuclear Weapons</title>
+        <format>pdf</format>
+        <size-kb>531</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/86775.pdf</uri>
+        <position>Content</position>
+      </attachment>
+      <link id="272280">
+        <title>Nuclear disarmament</title>
+        <uri>https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/security-policy/disarmament-non-proliferation/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <link id="272284">
+        <title>Arms Control and Disarmament Strategy 2022–2025</title>
+        <uri>https://www.eda.admin.ch/eda/en/fdfa/fdfa/publikationen.html/content/publikationen/en/eda/schweizer-aussenpolitik/Strategie_Ruestungskontrolle_Abruestung_2022-25</uri>
+        <position>Content</position>
+      </link>
+      <link id="272318">
+        <title>FDFA Article</title>
+        <uri>https://www.eda.admin.ch/eda/en/fdfa/fdfa/aktuell/newsuebersicht/2024/03/nukleare-abruestung.html</uri>
+        <position>Content</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="505" org-id="502">
+        <name lang="de">Sicherheitspolitik</name>
+        <name lang="fr">Politique de sécurité</name>
+        <name lang="it">Politica di sicurezza</name>
+        <name lang="en">Security Policy</name>
+      </keyword>
+      <keyword id="5530" org-id="502">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
