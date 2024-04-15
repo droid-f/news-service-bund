@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="1080" lead="no" topnews="no">
-      <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
-      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
-      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
-      <name lang="en">State Secretariat for Education, Research and Innovation</name>
-      <www lang="de">http://www.sbfi.admin.ch</www>
-      <www lang="fr">http://www.sbfi.admin.ch</www>
-      <www lang="it">http://www.sbfi.admin.ch</www>
-      <www lang="en">http://www.sbfi.admin.ch</www>
-      <email lang="de">info@sbfi.admin.ch</email>
-      <email lang="fr">info@sbfi.admin.ch</email>
-      <email lang="it">info@sbfi.admin.ch</email>
-      <email lang="en">info@sbfi.admin.ch</email>
-    </originator>
     <originator department-msg="yes" id="1035" lead="no" topnews="no">
       <department-id>701</department-id>
       <name lang="de">Ecole Polytechnique Fédérale de Lausanne</name>
@@ -48,6 +33,21 @@
       <email lang="fr">actualites@epfl.ch</email>
       <email lang="it">actualites@epfl.ch</email>
       <email lang="en">actualites@epfl.ch</email>
+    </originator>
+    <originator department-msg="yes" id="1080" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <www lang="de">http://www.sbfi.admin.ch</www>
+      <www lang="fr">http://www.sbfi.admin.ch</www>
+      <www lang="it">http://www.sbfi.admin.ch</www>
+      <www lang="en">http://www.sbfi.admin.ch</www>
+      <email lang="de">info@sbfi.admin.ch</email>
+      <email lang="fr">info@sbfi.admin.ch</email>
+      <email lang="it">info@sbfi.admin.ch</email>
+      <email lang="en">info@sbfi.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
