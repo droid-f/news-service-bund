@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="100884" revoked="no">
+    <version>1</version>
+    <pubdate>2024-05-01</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="107" lead="yes" topnews="no">
+      <department-id>101</department-id>
+      <name lang="de">Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter</name>
+      <name lang="fr">Préposé fédéral à la protection des données et à la transparence</name>
+      <name lang="it">Incaricato federale della protezione dei dati e per la trasparenza</name>
+      <name lang="en">Federal Data Protection and Information Commissioner</name>
+      <www lang="de">http://www.edoeb.admin.ch/</www>
+      <www lang="fr">https://www.edoeb.admin.ch/edoeb/fr/home.html</www>
+      <www lang="it">https://www.edoeb.admin.ch/edoeb/it/home.html</www>
+      <www lang="en">https://www.edoeb.admin.ch/edoeb/en/home.html</www>
+      <email lang="de">info@edoeb.admin.ch</email>
+      <email lang="fr">info@edoeb.admin.ch</email>
+      <email lang="it">info@edoeb.admin.ch</email>
+      <email lang="en">info@edoeb.admin.ch</email>
+    </originator>
+    <department id="101">
+      <name lang="de">Bundeskanzlei</name>
+      <name lang="fr">Chancellerie fédérale</name>
+      <name lang="it">Cancelleria federale</name>
+      <name lang="en">Federal Chancellery</name>
+      <www lang="de">http://www.bk.admin.ch</www>
+      <www lang="fr">https://www.bk.admin.ch/bk/fr/home.html</www>
+      <www lang="it">https://www.bk.admin.ch/bk/it/home.html</www>
+      <www lang="en">https://www.bk.admin.ch/bk/en/home.html</www>
+      <email lang="de">infokomm@admin.ch</email>
+      <email lang="fr">infokomm@admin.ch</email>
+      <email lang="it">infokomm@admin.ch</email>
+      <email lang="en">infokomm@admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>EDÖB schliesst Untersuchungen gegen das Unternehmen Xplain und die Bundesämter fedpol und BAZG ab</title>
+      <lead>Der EDÖB hat bei den drei Untersuchungen Verletzungen des Datenschutzgesetzes festgestellt, die auf Fehler im Supportprozess zurückzuführen sind. Die Ergebnisse der Untersuchungen zeigen auf, dass Personendaten vom fedpol und BAZG einerseits ohne die notwendigen Datenschutzvorkehrungen an Xplain gelangten und diese andererseits anschliessend datenschutz- und teilweise vertragswidrig von Xplain aufbewahrt wurden. </lead>
+      <text link="no">Nach dem Ransomware-Vorfall auf das Unternehmen Xplain im Mai 2023 wurden zahlreiche Personendaten der Bundesverwaltung, darunter auch besonders schützenswerte Personendaten, im Darknet publiziert. Diese Daten waren auf einem Server von Xplain gespeichert. Der EDÖB hat daraufhin am 20.06.23 gegen die Bundesämter für Polizei (fedpol) und Zoll und Grenzsicherheit (BAZG) und am 13.07.23 gegen das Unternehmen Xplain je eine Untersuchung eröffnet. Er hat insbesondere untersucht, unter welchen Umständen die Daten von den untersuchten Bundesämtern an Xplain übermittelt und auf den Server von Xplain gespeichert wurden. &lt;br /&gt;&lt;br /&gt;In seinen Berichten kommt der EDÖB zum Schluss, dass weder das fedpol noch das BAZG mit Xplain klar vereinbart hatten, ob bzw. unter welchen Voraussetzungen Personendaten im Rahmen von Supportleistungen durch Xplain auf deren Server gespeichert werden dürfen. Es hätte ausdrücklich festgehalten werden müssen, in welchem Umfang Personendaten an Xplain übermittelt und von Xplain gespeichert werden dürfen. Der tatsächliche Prozess war so ausgestaltet, dass Personendaten im Rahmen von Supportfällen an Xplain gelangten, ohne dass genaue Anforderungen für die Übermittlung und die Erfüllung der Datensicherheit bei Xplain definiert wurden. Dadurch entstand auf dem Server von Xplain eine Sammlung von unstrukturierten Daten aus den Bundesämtern. Der EDÖB stellte zudem fest, dass die Menge an Personendaten, die im Rahmen dieses Prozesses übertragen wurden, unverhältnismässig war.&lt;br /&gt;&lt;br /&gt;Xplain hatte keine Zugriffsmöglichkeiten auf die Datenbanken des fedpols oder des BAZG. Das Unternehmen hätte jedoch wissen müssen, dass die von ihr programmierten Supportfunktionen auch Personendaten enthalten können und diese damit im Rahmen der Supportprozesse auf ihrem Server bearbeitet werden. Für diese Bearbeitungen hat Xplain als Auftragsbearbeiterin keine angemessenen Massnahmen zur Gewährleistung der Datensicherheit oder des Informationsschutzes gemäss Best Practice getroffen. Was die Aufbewahrung von Personendaten der Bundesverwaltung betrifft, verletzte Xplain die datenschutzrechtlichen Grundsätze der Zweckbindung und der Verhältnismässigkeit. Zudem hat Xplain, trotz vereinzelt vorhandener vertraglicher Löschpflichten, diese Personendaten vertragswidrig aufbewahrt.&lt;br /&gt;&lt;br /&gt;Der EDÖB hat gegenüber dem BAZG, fedpol und Xplain Empfehlungen ausgesprochen, deren Umsetzung die Risiken weiterer Datenschutzverletzungen nachhaltig minimieren sollen. Die drei Adressaten haben eine dreissigtägige Frist, um dem EDÖB mitzuteilen, ob sie die Empfehlungen annehmen. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Hinweis: Parallel zu der vom EDÖB als unabhängige Untersuchungsbehörde nach Massgabe des DSG durchgeführten Untersuchung führte der Bundesrat in Anwendung des Regierungs- und Verwaltungsorganisationsgesetzes (RVOG) eine Administrativuntersuchung durch, die sich ebenfalls mit dem Datenabfluss bei der Xplain AG befasste und deren Schlussbericht ebenfalls am 01.05.2024 publiziert wird. Die beiden Untersuchungen wurden voneinander unabhängig durchgeführt.&lt;/i&gt;</text>
+      <contact>Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB), Katja Zürcher-Mäder, Tel. +41 58 462 99 31, info@edoeb.admin.ch</contact>
+      <attachment id="273495">
+        <title>Schlussbericht Xplain vom 25. April 2024</title>
+        <format>pdf</format>
+        <size-kb>1713</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87346.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273496">
+        <title>Schlussbericht fedpol vom 25. April 2024</title>
+        <format>pdf</format>
+        <size-kb>2266</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87347.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273497">
+        <title>Schlussbericht BAZG vom 25. April 2024</title>
+        <format>pdf</format>
+        <size-kb>1276</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87348.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le PFPDT clôt les enquêtes contre l’entreprise Xplain, ainsi que les offices fédéraux fedpol et OFDF</title>
+      <lead>Dans les trois enquêtes, le PFPDT a constaté des violations de la loi sur la protection des données dues à des erreurs dans les processus de support. Les résultats des enquêtes montrent que, d’une part, les mesures nécessaires en matière de protection des données n’ont pas été prises lors de la transmission des données personnelles par les offices fédéraux de la police ainsi que de la douane et de la sécurité des frontières à Xplain et que, d’autre part, ces données ont ensuite été conservées par Xplain en violation de la protection des données et en partie en violation des obligations contractuelles. </lead>
+      <text link="no">À la suite d’une attaque au rançongiciel contre l’entreprise Xplain en mai 2023, une grande quantité de données personnelles de l’administration fédérale, parmi lesquelles des données sensibles, ont été publiées sur le darknet. Ces données avaient été stockées sur un serveur de Xplain. Le PFPDT a alors ouvert, le 20 juin 2023, deux enquêtes contre les offices fédéraux de la police (fedpol) et de la douane et de la sécurité des frontières (OFDF), puis le 13 juillet 2023 une enquête contre l’entreprise Xplain. Il a notamment examiné les circonstances dans lesquelles les offices soumis aux enquêtes avaient transmis des données à Xplain et les circonstances dans lesquelles Xplain les avait conservées sur son serveur. &lt;br /&gt;&lt;br /&gt;Dans ses rapports, le PFPDT constate que ni fedpol ni l’OFDF n’avaient clairement convenu avec Xplain si, et dans quelles conditions, des données personnelles pouvaient être conservées sur le serveur de Xplain dans le cadre du support. Il aurait fallu prévoir explicitement dans quelle mesure des données personnelles pouvaient être transmises à Xplain et conservées par cette dernière. Le processus en place était organisé de manière à ce que des données personnelles soient transmises à Xplain dans le cadre du support, sans qu’aucune exigence précise n’ait été définie pour la transmission et le respect de la sécurité des données du côté de l’entreprise. Ainsi, le serveur de Xplain contenait une collection de données non structurées provenant des offices fédéraux. Le PFPDT a également constaté que la quantité de données personnelles transmises dans ce contexte était disproportionnée.&lt;br /&gt;&lt;br /&gt;Xplain n’avait pas accès aux banques de données de fedpol ou de l’OFDF. Mais l’entreprise aurait dû savoir que les fonctions de support qu’elle avait programmées pouvaient contenir des données personnelles et que, par conséquent, ces données pouvaient être traitées sur son serveur. En tant que sous-traitant, Xplain n’a pas pris les mesures appropriées pour garantir la sécurité des données et la protection de l’information que requièrent les bonnes pratiques. Du point de vue de la protection des données, l’entreprise a violé les principes de finalité et de proportionnalité qui régissent la conservation de données personnelles. Elle a en outre violé ses obligations contractuelles concernant la conservation de ces données personnelles, qui prévoyaient malgré tout l’effacement ponctuel des données. &lt;br /&gt;&lt;br /&gt;Le PFPDT a fait des recommandations à l’OFDF, à fedpol et à Xplain dont la mise en œuvre vise à réduire durablement le risque de nouvelle violation de la protection des données. Les trois destinataires disposent d’un délai de 30 jours pour dire au PFPDT s’ils acceptent ses recommandations. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Note: Parallèlement à l’enquête menée par le PFPDT, en tant qu’autorité d’enquête indépendante conformément à la loi sur la protection des données, une enquête administrative a été ordonnée par le Conseil fédéral en application de la loi sur l'organisation du gouvernement et de l'administration. Le rapport final de cette enquête qui porte également sur les flux de données de Xplain AG, est également publié le 1er mai 2024. Les deux enquêtes ont été menées séparément.&lt;/i&gt;</text>
+      <contact>Préposé fédéral à la protection des données et à la transparence (PFPDT), Katja Zürcher-Mäder, Tél. +41 58 462 99 31, info@edoeb.admin.ch</contact>
+      <attachment id="273498">
+        <title>Rapport final Xplain du 25 avril 2024 (en allemand)</title>
+        <format>pdf</format>
+        <size-kb>1713</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87349.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273500">
+        <title>Rapport final fedpol du 25 avril 2024 (en allemand)</title>
+        <format>pdf</format>
+        <size-kb>2266</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87351.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273502">
+        <title>Rapport final OFDF du 25 avril 2024 (en allemand)</title>
+        <format>pdf</format>
+        <size-kb>1276</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87353.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>L’IFPDT conclude le inchieste nei confronti della ditta Xplain e degli uffici federali fedpol e UDSC</title>
+      <lead>Nel quadro delle tre inchieste, l’IFPDT ha rilevato delle violazioni alla legge sulla protezione dei dati, riconducibili a errori nel processo di supporto. I risultati delle inchieste mostrano, da un lato, che dati personali di fedpol e dell’UDSC sono confluiti alla ditta Xplain senza le necessarie misure di protezione dei dati e, dall’altro, che quest’ultima li ha successivamente conservati contravvenendo alle norme di protezione dei dati e in parte anche ai contratti stipulati. </lead>
+      <text link="no">Dopo l’attacco ransomware subito dalla ditta Xplain nel maggio 2023, sono stati pubblicati sul darknet numerosi dati personali dell’Amministrazione federale, tra cui anche dati personali degni di particolare protezione. Questi dati erano memorizzati su un server di Xplain. L’IFPDT ha quindi dato avvio il 20 giugno 2023 a due inchieste nei confronti dell’Ufficio federale di polizia (fedpol) e dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC). Il 13 luglio 2023 ha aperto una terza inchiesta riguardante la ditta privata Xplain. L’IFPDT ha in particolare analizzato le circostanze in cui i dati sono stati trasmessi a Xplain dai due uffici federali e memorizzati sul server della ditta. &lt;br /&gt;&lt;br /&gt;Nei suoi rapporti, l’IFPDT giunge alla conclusione che né fedpol né l’UDSC avevano concordato in modo chiaro se fosse consentito, ed eventualmente a quali condizioni, memorizzare dati personali sul server di Xplain nel quadro delle attività di supporto fornite da quest’ultima. Sarebbe stato necessario stabilire esplicitamente in quale misura i dati personali potevano essere trasmessi a Xplain ed essere memorizzati dalla stessa. Secondo la struttura effettiva del processo, i dati personali giungevano alla ditta Xplain nel quadro di casi di supporto, senza che quest’ultima avesse definito requisiti precisi per la trasmissione e la sicurezza dei dati. Sul server di Xplain si sono quindi accumulati dati non strutturati provenienti dagli uffici federali. L’IFPDT ha anche constatato che la quantità di dati personali trasmessi nell’ambito di questo processo era sproporzionata.&lt;br /&gt;&lt;br /&gt;Xplain non aveva alcuna possibilità di accedere alle banche dati di fedpol e dell’UDSC. La ditta avrebbe tuttavia dovuto sapere che le funzioni di supporto, da essa stessa programmate, avrebbero potuto contenere anche dati personali e che questi ultimi sarebbero stati trattati sul suo server nel quadro dei processi di supporto. Per tali trattamenti, la ditta Xplain in veste di responsabile non ha adottato misure adeguate a garantire la sicurezza dei dati e la protezione delle informazioni secondo la buona prassi (best practice). Per quanto riguarda la custodia di dati personali dell’Amministrazione federale, Xplain ha violato due principi in materia di protezione dei dati: quello della destinazione vincolata e quello della proporzionalità. Inoltre, nonostante i contratti comprendessero sporadicamente degli obblighi di cancellazione, la ditta ha conservato tali dati personali in violazione dei contratti.&lt;br /&gt;&lt;br /&gt;L’IFPDT ha formulato delle raccomandazioni rivolte all’UDSC, a fedpol e alla ditta Xplain, con l’obiettivo di minimizzare in modo duraturo i rischi di ulteriori violazioni delle norme di protezione dei dati. I tre destinatari devono ora comunicare entro 30 giorni all’IFPDT se accettano le raccomandazioni. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Nota: Parallelamente all’inchiesta svolta sulla base della LPD dall’IFPDT in veste di autorità indipendente, il Consiglio federale ha condotto un’inchiesta amministrativa in applicazione della legge sull’organizzazione del Governo e dell’Amministrazione (LOGA) in cui ha pure analizzato il flusso di dati relativo alla ditta Xplain AG e il cui rapporto finale è parimenti pubblicato il 01.05.2024. Le due inchieste si sono svolte in modo indipendente l’una dall’altra. &lt;/i&gt;</text>
+      <contact>Incaricato federale della protezione dei dati e della trasparenza (IFPDT), Katja Zürcher-Mäder, Tel. +41 58 462 99 31, info@edoeb.admin.ch</contact>
+      <attachment id="273507">
+        <title>Rapporto finale Xplain del 25 aprile 2024 (in tedesco)</title>
+        <format>pdf</format>
+        <size-kb>1713</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87358.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273508">
+        <title>Rapporto finale fedpol del 25 aprile 2024 (in tedesco)</title>
+        <format>pdf</format>
+        <size-kb>2266</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87359.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273509">
+        <title>Rapporto finale UDSC del 25 aprile 2024 (in tedesco)</title>
+        <format>pdf</format>
+        <size-kb>1276</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87360.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>FDPIC concludes investigations into the company Xplain and the federal offices fedpol and FOCBS</title>
+      <lead>In the three investigations, the FDPIC found violations of the Data Protection Act attributable to errors in the support process. The results of the investigations show that personal data from fedpol and the FOCBS were transferred to Xplain without the required data protection precautions being taken. The data were subsequently stored by Xplain in breach of data protection requirements and in some cases in breach of contractual obligations. </lead>
+      <text link="no">Following the ransomware incident at the company Xplain in May 2023, a large volume of personal data from the Federal Administration, including sensitive personal data, was published on the darknet. This data had been stored on an Xplain server. The FDPIC subsequently opened an investigation into the Federal Office of Police (fedpol) and the Federal Office for Customs and Border Security (FOCBS) on 20 June 2023, and into the company Xplain on 13 July 2023. In particular, it investigated the circumstances in which the data was transferred to Xplain by the federal offices under investigation and thereafter stored on Xplain's server. &lt;br /&gt;&lt;br /&gt;In its reports, the FDPIC concludes that neither fedpol nor the FOCBS had reached any clear agreement with Xplain on whether and if so on what terms personal data could be stored on Xplain's servers as part of support services that the company provided. The extent to which personal data could be transferred to Xplain and stored by Xplain should have been expressly regulated. The actual process was designed in such a way that personal data was sent to Xplain in the course of support cases without precise requirements for the transfer and compliance with data security at Xplain being defined. As a result, a collection of unstructured data from the federal offices was held on the Xplain server. The FDPIC also found that an unnecessarily large volume of personal data was transferred as part of this process.&lt;br /&gt;&lt;br /&gt;Xplain had no access to the fedpol or FOCBS databases. However, the company must have been aware that the support functions it had programmed could also contain personal data and that this would be processed on its server as part of the support processes. Xplain, as the processor, failed in these processing operations to take appropriate measures in accordance with the best practices to ensure data security or information protection. With regard to the retention of personal data from the Federal Administration, Xplain violated the data protection principles of purpose limitation and proportionality. In addition, Xplain retained the personal data in breach of contract, as it was subject to contractual obligations to delete the data in certain cases.&lt;br /&gt;&lt;br /&gt;The FDPIC has issued recommendations to the FOCBS, fedpol and Xplain, the implementation of which should minimise the risks of further data protection breaches. The three parties have thirty days to inform the FDPIC whether they accept the recommendations. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Note: Parallel to the investigation conducted by the FDPIC as an independent investigative authority under the Data Protection Act, the Federal Council has conducted an administrative investigation in terms of the Government and Administration Organisation Act, which also dealt with the data leak at Xplain AG and whose final report will also be published on 1 May 2024. The two studies were conducted independently of each other.&lt;/i&gt;</text>
+      <contact>Federal Data Protection and Information Commissioner (FDPIC), Katja Zürcher-Mäder, Tel. +41 58 462 99 31, info@edoeb.admin.ch</contact>
+      <attachment id="273510">
+        <title>Final Report Xplain of 25 April 2024 (in German)</title>
+        <format>pdf</format>
+        <size-kb>1713</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87361.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273511">
+        <title>Final Report fedpol of 25 April 2024 (in German)</title>
+        <format>pdf</format>
+        <size-kb>2266</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87362.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="273512">
+        <title>Final Report FOCBS of 25 April 2024 (in German)</title>
+        <format>pdf</format>
+        <size-kb>1276</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87363.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="en">Legal Affairs</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
