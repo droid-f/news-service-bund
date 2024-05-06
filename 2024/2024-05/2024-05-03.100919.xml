@@ -20,6 +20,21 @@
       <email lang="it">info@bfs.admin.ch</email>
       <email lang="en">info@bfs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="708" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Wohnungswesen</name>
+      <name lang="fr">Office fédéral du logement</name>
+      <name lang="it">Ufficio federale delle abitazioni</name>
+      <name lang="en">Federal Housing Office</name>
+      <www lang="de">http://www.bwo.admin.ch/</www>
+      <www lang="fr">http://www.ofl.admin.ch/</www>
+      <www lang="it">http://www.ufab.admin.ch/</www>
+      <www lang="en">http://www.bwo.admin.ch/</www>
+      <email lang="de">info@bwo.admin.ch</email>
+      <email lang="fr">info@bwo.admin.ch</email>
+      <email lang="it">info@bwo.admin.ch</email>
+      <email lang="en">info@bwo.admin.ch</email>
+    </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
@@ -33,6 +48,20 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Neuchâtel</city>
@@ -100,18 +129,6 @@
         <name lang="fr">Aménagement du territoire</name>
         <name lang="it">Pianificazione del territorio</name>
         <name lang="en">Spatial Planning</name>
-      </topic>
-      <topic id="37">
-        <name lang="de">Konsum</name>
-        <name lang="fr">Consommation</name>
-        <name lang="it">Consumo</name>
-        <name lang="en">Consumer Affairs</name>
-      </topic>
-      <topic id="43">
-        <name lang="de">Statistik</name>
-        <name lang="fr">Statistiques</name>
-        <name lang="it">Statistica</name>
-        <name lang="en">Statistics</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft</name>
