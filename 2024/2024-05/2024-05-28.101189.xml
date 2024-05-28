@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="101189" revoked="no">
+    <version>1</version>
+    <pubdate>2024-05-28</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Bildsensor: Mit Perovskit zu besseren Kameras</title>
+      <lead>Dreimal so viel Licht einfangen: Empa- und ETH-Forschende entwickeln einen Bildsensor aus Perovskit, der auch bei schlechten Lichtverhältnissen farbgetreue Fotos liefern soll. Der Trick dabei: Wo die Pixel für Rot, Grün und Blau bei herkömmlichen Bildsensoren nebeneinanderliegen, lassen sich Perovskit-Pixel platzsparend stapeln, was die Bildqualität verbessert.</lead>
+      <text link="no"> &lt;p&gt;Familie, Freunde, Ferien, Vierbeiner: Heute lichten wir alles ab, was uns vors Objektiv kommt. Digitale Fotografie, ob mit Handy oder Kamera, ist simpel und entsprechend weit verbreitet. Jedes Jahr versprechen die neuesten Geräte einen noch besseren Bildsensor mit noch mehr Megapixeln. Die gängigste Art von Sensor basiert dabei auf Silicium, das durch spezielle Filter in einzelne Pixel für rotes, grünes oder blaues (RGB-) Licht unterteilt wird. Dies ist allerdings nicht die einzige Möglichkeit, einen digitalen Bildsensor herzustellen – und möglicherweise auch nicht die beste. &lt;/p&gt; &lt;p&gt;Forschende der Empa und der ETH Zürich arbeiten an einer Alternative. Ein Konsortium, bestehend aus Maksym Kovalenko aus dem Empa-Labor «Thin Film and Photovoltaics», Ivan Shorubalko aus dem Empa-Labor «Transport at Nanoscale Interfaces» sowie den ETH-Forschenden Taekwang Jang und Sergii Yakunin, entwickelt einen Bildsensor aus Perovskit. Dieser ist in der Lage, wesentlich mehr Licht einzufangen als sein Gegenspieler aus Silicium. In einem Silicium-Bildsensor sind die RGB-Pixel gitterförmig nebeneinander angeordnet. Dabei fängt jeder Pixel nur rund ein Drittel des einfallenden Lichts ein; die restlichen zwei Drittel werden vom Farbfilter blockiert.&lt;/p&gt; &lt;p&gt;Pixel aus Bleihalogenid-Perovskiten brauchen keinen Extra-Filter: Der Filter ist im Material sozusagen «eingebaut». Den Empa- und ETH-Forschenden ist es gelungen, Bleihalogenid-Perovskite so herzustellen, dass sie nur das Licht einer bestimmten Wellenlänge – und somit Farbe – absorbieren, für andere Wellenlängen hingegen transparent sind. Somit lassen sich die Pixel für Rot, Grün und Blau übereinanderschichten, anstatt sie nebeneinander anzuordnen. Der resultierende Pixel kann alle Wellenlängen des Lichts absorbieren. «Mit einem Perovskit-Sensor liesse sich also dreimal so viel Licht pro Fläche einfangen wie mit einem herkömmlichen Silicium-Sensor», erklärt Empa-Forscher Shorubalko. Ausserdem konvertiert Perovskit einen grösseren Anteil des absorbierten Lichts zu einem elektrischen Signal, was dem Bildsensor eine noch höhere Effizienz verleiht.&lt;/p&gt; &lt;p&gt;Die Herstellung von einzelnen funktionierenden dreifarbigen Perovskit-Pixeln konnte die Forschungsgruppe von Kovalenko an der Empa und der ETH Zürich bereits 2017 zeigen. Um den nächsten Schritt in Richtung echter Bildsensoren zu machen, hat sich das von Kovalenko geleitete ETH-Empa-Konsortium mit der Elektronikindustrie zusammengetan. «Zu den Herausforderungen, die es zu bewältigen gilt, gehören die Suche nach neuen Verfahren zur Herstellung und Strukturierung von Materialien sowie das Design und die Implementierung von Perovskit-kompatiblen elektronischen Auslese-Architekturen», betont Kovalenko. Nun arbeiten die Forschenden daran, die ursprünglich bis zu fünf Millimeter grossen Pixel zu miniaturisieren und zu einem funktionierenden Bildsensor zusammenzufügen. «Im Labor stellen wir zwar nicht die grossen Sensoren mit mehreren Megapixeln her, wie sie in Kameras zum Einsatz kommen», erklärt Shorubalko, «aber bereits mit einer Grösse von rund 100'000 Pixeln können wir zeigen, dass die Technologie funktioniert.»&lt;/p&gt; &lt;p&gt;&lt;b&gt;Gute Leistung ganz ohne Schmelze&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Ein weiterer Vorteil von Perovskit-basierten Bildsensoren ist ihre Herstellung. Im Gegensatz zu anderen Halbleitern sind Perovskite wenig empfindlich auf Materialdefekte und lassen sich dadurch verhältnismässig unkompliziert herstellen, etwa indem man sie aus einer Lösung auf das Trägermaterial ablagert. Konventionelle Bildsensoren brauchen hingegen hochreines monokristallines Silicium, das in einem langsamen Verfahren bei fast 1500 Grad Celsius hergestellt wird.&lt;/p&gt; &lt;p&gt;Die Vorteile von Perovskit-basierten Bildsensoren liegen auf der Hand. Nicht überraschend also, dass das Forschungsprojekt auch eine Industriepartnerschaft umfasst. Die Herausforderung liegt in der Stabilität des Perovskits, das empfindlicher auf Umwelteinflüsse reagiert als Silicium. «Mit Standardverfahren würde man das Material zerstören», sagt Shorubalko. «Also entwickeln wir neuartige Verfahren, bei denen das Perovskit stabil bleibt. Und unsere Partnergruppen an der ETH Zürich arbeiten daran, die Stabilität des Bildsensors im Betrieb zu gewährleisten.»&lt;/p&gt; &lt;p&gt;Sollte dies im Rahmen des noch bis Ende 2025 laufenden Projekts gelingen, ist die Technologie bereit für den Transfer in die Industrie. Shorubalko ist zuversichtlich, dass das Versprechen von einem besseren Bildsensor Handyhersteller anzieht. «Viele Menschen suchen sich heute ihr Smartphone anhand der Kameraqualität aus, weil sie dann keine separate Kamera mehr brauchen», sagt der Forscher. Da könnte ein Sensor, der bei viel weniger Licht erstklassige Bilder liefert, durchaus ein Pluspunkt sein.&lt;/p&gt; </text>
+      <contact>Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Tel. +41 58 765 48 74 ivan.shorubalko@empa.ch</contact>
+      <attachment id="274780">
+        <title>Innovativer Bildsensor: Nun arbeiten die Empa-Forschenden daran, die ursprünglich bis zu fünf Millimeter grossen Pixel zu miniaturisieren und zu einem funktionierenden Bildsensor zusammenzufügen. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>5461</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87904.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274781">
+        <title>Empa-Forscher Erfu Wu und Ivan Shorubalko (rechts) untersuchen den Bildsensor. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3810</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87905.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274782">
+        <title>3D-Druck ist ein möglicher Schritt im Herstellungsprozess der Bildsensoren. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>4872</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87906.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="274787">
+        <title>Mit Perovskit zu besseren Kameras</title>
+        <uri>https://www.empa.ch/web/s604/perovskit-bildsensor</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Capteur d'images : De meilleures caméras grâce à la pérovskite</title>
+      <lead>Capter trois fois plus de lumière : Des chercheurs de l'Empa et de l'EPFZ développent un capteur d'images en pérovskite qui doit fournir des photos aux couleurs fidèles même dans des conditions de faible luminosité. L'astuce : là où les pixels pour le rouge, le vert et le bleu sont juxtaposés sur les capteurs d'images traditionnels, les pixels de pérovskite peuvent être empilés pour gagner de la place – et ainsi améliorer la qualité de l'image.</lead>
+      <text link="no"> &lt;p&gt;Famille, amis, vacances, animaux : aujourd’hui, nous photographions tout ce qui passe devant notre objectif. La photographie numérique, que ce soit avec un téléphone portable ou un appareil photo, est simple et donc très répandue. Chaque année, les nouveaux appareils promettent un capteur d’image encore plus performant avec encore plus de mégapixels. Le type de capteur le plus courant est basé sur le silicium, qui est divisé par des filtres spéciaux en pixels individuels pour la lumière rouge, verte ou bleue (RVB). Ce n’est toutefois pas la seule manière de fabriquer un capteur d’image numérique – et peut-être pas la meilleure non plus.&lt;/p&gt; &lt;p&gt;Des chercheurs de l’Empa et de l’EPFZ travaillent sur une alternative. Un consortium composé de Maksym Kovalenko du laboratoire « Thin Film and Photovoltaics » de l’Empa, d’Ivan Shorubalko du laboratoire « Transport at Nanoscale Interfaces » de l’Empa ainsi que des chercheurs de l’EPFZ Taekwang Jang et Sergii Yakunin, développe un capteur d’image en pérovskite. Celui-ci est capable de capter beaucoup plus de lumière que son homologue en silicium. Dans un capteur d’image en silicium, les pixels RGB sont disposés en grille les uns à côté des autres. Chaque pixel ne capte qu’un tiers environ de la lumière incidente, les deux tiers restants étant bloqués par le filtre de couleur.&lt;/p&gt; &lt;p&gt;Les pixels en pérovskites aux halogénures de plomb n’ont pas besoin de filtre supplémentaire : le filtre est pour ainsi dire « intégré » dans le matériau. En effet, les chercheurs de l’Empa et de l’EPFZ ont réussi à fabriquer des pérovskites à l’halogénure de plomb de telle sorte qu’elles n’absorbent que la lumière d’une certaine longueur d’onde – et donc d’une certaine couleur – et qu’elles soient transparentes pour les autres longueurs d’onde. Il est ainsi possible de superposer les pixels pour le rouge, le vert et le bleu au lieu de les disposer les uns à côté des autres. Le pixel qui en résulte peut absorber toutes les longueurs d’onde de la lumière. « Avec un capteur en pérovskite, il serait donc possible de capter trois fois plus de lumière par surface qu’avec un capteur en silicium traditionnel », explique le chercheur de l’Empa Ivan Shorubalko. En outre, la perovskite convertit une plus grande partie de la lumière absorbée en un signal électrique, ce qui confère au capteur d’image une efficacité encore plus grande.&lt;/p&gt; &lt;p&gt;Le groupe de recherche de Maksym Kovalenko à l’Empa et à l’EPFZ a déjà pu montrer en 2017 la fabrication de pixels de pérovskite individuels empilés et fonctionnels. Pour franchir la prochaine étape vers de véritables capteurs d’images, le consortium EPFZ-Empa dirigé par Maksym Kovalenko s’est associé à l’industrie électronique. « Parmi les défis à relever figurent la recherche de nouveaux procédés de fabrication et de structuration des matériaux ainsi que la conception et la mise en oeuvre d’architectures électroniques de lecture compatibles avec perovskite », souligne Maksym Kovalenko. Les chercheurs travaillent maintenant à la miniaturisation des pixels, qui mesuraient à l’origine jusqu’à cinq millimètres, et à leur assemblage en un capteur d’image fonctionnel. « En laboratoire, nous ne fabriquons certes pas les grands capteurs de plusieurs mégapixels utilisés dans les appareils photo », explique Ivan Shorubalko, « mais avec une taille d’environ 100’000 pixels, nous pouvons déjà montrer que la technologie fonctionne ». &lt;/p&gt; &lt;p&gt;&lt;b&gt;De bonnes performances avec un processus de fabrication simple&lt;/b&gt; &lt;/p&gt; &lt;p&gt;Un autre avantage des capteurs d’images à base de perovskite est leur fabrication. Contrairement à d’autres semi-conducteurs, les pérovskites sont peu sensibles aux défauts du matériau et peuvent donc être fabriquées relativement facilement, par exemple en les déposant sur le matériau de support à partir d’une solution. Les capteurs d’images conventionnels ont en revanche besoin de silicium monocristallin très pur, fabriqué selon un procédé lent à près de 1500 degrés Celsius.&lt;/p&gt; &lt;p&gt;Les avantages des capteurs d’images à base de pérovskite sont évidents. Il n’est donc pas surprenant que le projet de recherche comprenne également un partenariat industriel. Le défi réside dans la stabilité de la pérovskite, qui est plus sensible aux influences environnementales que le silicium. « Avec des procédés standard, on détruirait le matériau », explique Ivan Shorubalko. « Nous développons donc de nouveaux procédés dans lesquels la pérovskite reste stable. Et nos groupes partenaires à l’EPFZ travaillent à garantir la stabilité du capteur d’images en fonctionnement ».&lt;/p&gt; &lt;p&gt;Si cela s’avère possible d’ici la fin du projet, qui se poursuivra jusqu’à fin 2025, la technologie sera prête à être transférée à l’industrie. Ivan Shorubalko est persuadé que la promesse d’un meilleur capteur d’image attirera les fabricants de téléphones portables. « Aujourd’hui, de nombreuses personnes choisissent leur smartphone en fonction de la qualité de l’appareil photo, car elles n’ont alors plus besoin d’un appareil photo séparé », explique le chercheur. Dans ce contexte, un capteur capable de fournir des images de première qualité avec beaucoup moins de lumière pourrait bien être un atout.&lt;/p&gt; </text>
+      <contact>Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Tél. +41 58 765 4874 ivan.shorubalko@empa.ch</contact>
+      <attachment id="274783">
+        <title>Les chercheurs travaillent maintenant à la miniaturisation des pixels, qui mesuraient à l’origine jusqu’à cinq millimètres. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>5461</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87908.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274784">
+        <title>Les chercheurs de l’Empa Erfu Wu et Ivan Shorubalko examinent le capteur d’images. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>3810</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87909.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274785">
+        <title>Travail délicat : Il est possible de fabriquer les capteurs d’images par impression 3D. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>4872</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87910.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="274786">
+        <title>De meilleures caméras grâce à la pérovskite</title>
+        <uri>https://www.empa.ch/web/s604/perovskit-bildsensor</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Image sensor: Better cameras with perovskite</title>
+      <lead>Capturing three times more light: Empa and ETH researchers are developing an image sensor made of perovskite that could deliver true-color photos even in poor lighting conditions. Unlike conventional image sensors, where the pixels for red, green and blue lie next to each other in a grid, perovskite pixels can be stacked thus greatly increasing the amount of light each individual pixel can capture.</lead>
+      <text link="no"> &lt;p&gt;Family, friends, vacations, pets: Today, we take photos of everything that comes in front of our lens. Digital photography, whether with a cell phone or camera, is simple and hence widespread. Every year, the latest devices promise an even better image sensor with even more megapixels. The most common type of sensor is based on silicon, which is divided into individual pixels for red, green and blue (RGB) light using special filters. However, this is not the only way to make a digital image sensor – and possibly not even the best.&lt;/p&gt; &lt;p&gt;A consortium comprising Maksym Kovalenko from Empa's Thin Films and Photovoltaics laboratory, Ivan Shorubalko from Empa's Transport at Nanoscale Interfaces laboratory, as well as ETH Zurich researchers Taekwang Jang and Sergii Yakunin, is working on an image sensor made of perovskite capable of capturing considerably more light than its silicon counterpart. In a silicon image sensor, the RGB pixels are arranged next to each other in a grid. Each pixel only captures around one-third of the light that reaches it. The remaining two-thirds are blocked by the color filter.&lt;/p&gt; &lt;p&gt;Pixels made of lead halide perovskites do not need an additional filter: it is already "built into" the material, so to speak. Empa and ETH researchers have succeeded in producing lead halide perovskites in such a way that they only absorb the light of a certain wavelength – and therefore color – but are transparent to the other wavelengths. This means that the pixels for red, green and blue can be stacked on top of each other instead of being arranged next to each other. The resulting pixel can absorb the entire wavelength spectrum of visible light. "A perovskite sensor could therefore capture three times as much light per area as a conventional silicon sensor," explains Empa researcher Shorubalko. Moreover, perovskite converts a larger proportion of the absorbed light into an electrical signal, which makes the image sensor even more efficient.&lt;/p&gt; &lt;p&gt;Kovalenko's team was first able to fabricate individual functioning stacked perovskite pixels in 2017. To make the next step towards real image sensors, the ETH-Empa consortium led by Kovalenko had partnered with the electronics industry. "The challenges to address include finding new materials fabrication and patterning processes, as well as design and implementation of the perovskite-compatible read-out electronic architectures", emphasizes Kovalenko. The researchers are now working on miniaturizing the pixels, which were originally up to five millimeters in size, and assembling them into a functioning image sensor. "In the laboratory, we don't produce the large sensors with several megapixels that are used in cameras," explains Shorubalko, "but with a sensor size of around 100'000 pixels, we can already show that the technology works."&lt;/p&gt; &lt;p&gt;&lt;b&gt;Good performance with less energy&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Another advantage of perovskite-based image sensors is their manufacture. Unlike other semiconductors, perovskites are less sensitive to material defects and can therefore be fabricated relatively easily, for example by depositing them from a solution onto the carrier material. Conventional image sensors, on the other hand, require high-purity monocrystalline silicon, which is produced in a slow process at almost 1500 degrees Celsius.&lt;/p&gt; &lt;p&gt;The advantages of perovskite-based image sensors are apparent. It is therefore not surprising that the research project also includes a partnership with industry. The challenge lies in the stability of perovskite, which is more sensitive to environmental influences than silicon. "Standard processes would destroy the material," says Shorubalko. "So we are developing new processes in which the perovskite remains stable. And our partner groups at ETH Zurich are working on ensuring the stability of the image sensor during operation."&lt;/p&gt; &lt;p&gt;If the project, which will run until the end of 2025, is successful, the technology will be ready for transfer to industry. Shorubalko is confident that the promise of a better image sensor will attract cell phone manufacturers. "Many people today choose their smartphone based on the camera quality because they no longer have a stand-alone camera," says the researcher. A sensor delivering excellent images in much poorer lighting conditions could be a major advantage.&lt;/p&gt; </text>
+      <contact>Dr. Ivan Shorubalko Transport at Nanoscale Interfaces Phone +41 58 765 4874 ivan.shorubalko@empa.ch</contact>
+      <attachment id="274776">
+        <title>Innovative light sensor: The researchers are now working on miniaturizing the pixels, which were originally up to five millimeters in size, and assembling them into a functioning image sensor. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>5461</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87902.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274777">
+        <title>Empa researchers Erfu Wu and Ivan Shorubalko (right) work on the sensor. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3810</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87901.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="274778">
+        <title>Delicate work: 3D printing is one way of manufacturing the perovskite image sensors. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>4872</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/87907.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="274779">
+        <title>Better cameras with perovskite</title>
+        <uri>https://www.empa.ch/web/s604/perovskit-bildsensor</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
