@@ -19,20 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="702" lead="no" topnews="no">
+    <originator department-msg="no" id="703" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Generalsekretariat WBF</name>
-      <name lang="fr">Secrétariat général DEFR</name>
-      <name lang="it">Segreteria generale DEFR</name>
-      <name lang="en">Secretariat-General EAER</name>
-      <www lang="de">http://www.wbf.admin.ch</www>
-      <www lang="fr">http://www.wbf.admin.ch</www>
-      <www lang="it">http://www.wbf.admin.ch</www>
-      <www lang="en">http://www.wbf.admin.ch</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
     </originator>
     <originator department-msg="no" id="201" lead="no" topnews="no">
       <department-id>201</department-id>
@@ -49,20 +49,20 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="703" lead="no" topnews="no">
+    <originator department-msg="yes" id="702" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
+      <name lang="de">Generalsekretariat WBF</name>
+      <name lang="fr">Secrétariat général DEFR</name>
+      <name lang="it">Segreteria generale DEFR</name>
+      <name lang="en">Secretariat-General EAER</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -217,11 +217,11 @@
       </offer>
     </offers>
     <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
       </topic>
     </topics>
   </message>
