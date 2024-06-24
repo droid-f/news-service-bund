@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="101528" revoked="no">
+    <version>2</version>
+    <pubdate>2024-06-20</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="1101" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Bundesamt für Cybersicherheit</name>
+      <name lang="fr">Office fédéral de la cybersécurité</name>
+      <name lang="it">Ufficio federale della cibersicurezza</name>
+      <name lang="en">National Cyber Security Centre</name>
+      <www lang="de">https://www.bacs.admin.ch</www>
+      <www lang="fr">https://www.ofcs.admin.ch</www>
+      <www lang="it">https://www.ufcs.admin.ch</www>
+      <www lang="en">https://www.ncsc.admin.ch/ncsc/en/home.html</www>
+      <email lang="de">media@ncsc.admin.ch</email>
+      <email lang="fr">media@ncsc.admin.ch</email>
+      <email lang="it">media@ncsc.admin.ch</email>
+      <email lang="en">media@ncsc.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Hochrangige Konferenz zum Frieden in der Ukraine: Erste Bilanz des BACS zu den Arbeiten des Cyberlageverbunds</title>
+      <lead>Bereits im Vorfeld der hochrangigen Konferenz zum Frieden in der Ukraine wurde mit Cyberangriffen auf die Konferenz und auf Infrastrukturen in der Schweiz gerechnet. Tatsächlich kam es dann auch zu verschiedenen Cyberangriffen, die jedoch alle frühzeitig erkannt und rasch abgewehrt werden konnten. Um gemeinsam gegen die erwarteten Cyberangriffe vorzugehen, wurde in der Schweiz ein Cyberlageverbund lanciert, der vom Bundesamt für Cybersicherheit (BACS) koordiniert wurde. Das BACS publiziert heute eine erste Bilanz über den Einsatz des Cyberlageverbundes.</lead>
+      <text link="no">&lt;p&gt;Grossveranstaltungen und internationale Konferenzen werden gerne als Anlass für Cyberangriffe verwendet. Dies galt auch für hochrangige Konferenz zum Frieden in der Ukraine, welche vom 15. bis 16. Juni 2024 auf dem Bürgenstock unter Beteiligung von Delegationen aus fast hundert Staaten stattfand. Bereits im Vorfeld wurde mit Cyberangriffen auf die Konferenz und auf Infrastrukturen in der Schweiz gerechnet.&lt;/p&gt;&lt;h2&gt;Breit abgestützter Lageverbund&lt;/h2&gt;&lt;p&gt;Um gemeinsam gegen die erwarteten Cyberangriffe vorzugehen, wurde in der Schweiz ein Cyberlageverbund lanciert. Dieser wurde vom BACS koordiniert und umfasste knapp hundert Spezialistinnen und Spezialisten von nationalen und kantonalen Behörden sowie Organisationen aus der Privatwirtschaft («Private-Public-Partnership»). Die breite Abstützung des Cyberlageverbunds hat wesentlich dazu beigetragen, dass bereits im Vorfeld der Konferenz die Cyberresilienz erhöht sowie auf Cyberangriffe, die die Konferenz zu stören versuchten, rasch und effizient reagiert werden konnte. Dank dem hohen Engagement aller Beteiligten und der guten Vorbereitung hat die Zusammenarbeit zu jedem Zeitpunkt reibungslos funktioniert. Das BACS beendete den Einsatz des Cyberlageverbunds am Sonntagabend, 16. Juni 2024.&lt;/p&gt;&lt;h2&gt;Erste Bilanz des BACS&lt;/h2&gt;&lt;p&gt;Kurz vor, während und für kurze Zeit nach der Konferenz kam es in der Schweiz zu verschiedenen Ereignissen im Cyberraum. Dazu zählten Überlastungsangriffe (sogenannte «DDoS-Angriffe») gegen Webseiten von Behörden und in die Konferenz involvierte Organisationen. Diese wurden nachweislich von einer pro-russischen Hacktivisten-Gruppe namens «NoName057(16)» ausgeführt. Sie lagen im Bereich des Erwarteten und führten lediglich zu kleineren Störungen von IT-Infrastrukturen. Es bestand jedoch zu keiner Zeit eine Gefährdung von IT-Systemen oder Daten der Konferenz oder in die Durchführung der Konferenz involvierten Organisationen. Zurzeit stellt das BACS noch einzelne DDoS-Angriffe auf Ziele in der Schweiz fest. Es ist davon auszugehen, dass sich die Lage in den kommenden Tagen wieder normalisiert. Des Weiteren wurden digitale Einbruchsversuche in IT-Systeme der involvierten Kantone Nidwalden und Obwalden sowie Phishing-Angriffe gegen Mitarbeitende der Sanitätsnotrufzentrale Luzern registriert. Bei den technischen Problemen während der Live-Übertragung und beim Stromausfall vom Sonntag in der Region Bern handelte es sich nicht um Cybervorfälle.&lt;/p&gt;&lt;p&gt;Das BACS hat erste Erkenntnisse zu den Arbeiten des Cyberlageverbunds sowie eine Übersicht zu den Vorkommnissen im Cyberraum aufgrund der hochrangigen Konferenz zum Frieden in der Ukraine in einem Bericht zusammengefasst. &lt;/p&gt;</text>
+      <contact>Kommunikation BACS media@ncsc.admin.ch +41 58 465 53 56</contact>
+      <attachment id="276027">
+        <title>Bericht: Erste Ergebnisse des BACS zu Cyberangriffe aufgrund der hochrangigen Konferenz zum Frieden in der Ukraine</title>
+        <format>pdf</format>
+        <size-kb>121</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88341.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Conférence de haut niveau sur la paix en Ukraine: premier bilan de l’OFCS sur les travaux du réseau de suivi de la cybersituation</title>
+      <lead>Des attaques informatiques contre la conférence et les infrastructures en Suisse étaient déjà attendues avant la conférence de haut niveau sur la paix en Ukraine. Plusieurs cyberattaques ont effectivement eu lieu, mais elles ont toutes été identifiées à temps et rapidement contrées. Afin d’agir ensemble contre les cyberattaques redoutées, un réseau de suivi de la cybersituation a été lancé en Suisse sous la coordination de l’Office fédéral de la cybersécurité (OFCS). L’OFCS publie aujourd’hui un premier bilan de l’engagement de ce réseau de suivi de la cybersituation.</lead>
+      <text link="no">&lt;p&gt;Les grandes manifestations et les conférences internationales sont souvent le prétexte à des cyberattaques. Tel a été le cas pour la conférence de haut niveau sur la paix en Ukraine, qui s’est tenue les 15 et 16 juin 2024 au Bürgenstock avec la participation de délégations de près de cent États. Des cyberattaques contre la conférence et les infrastructures en Suisse étaient déjà attendues avant la conférence.&lt;/p&gt;&lt;h2&gt;Un réseau de suivi de la situation largement établi&lt;/h2&gt;&lt;p&gt;Afin de lutter ensemble contre les cyberattaques attendues, un réseau de suivi de la cybersituation a été lancé en Suisse. Coordonné par l’OFCS, il a réuni une centaine de spécialistes des autorités nationales et cantonales ainsi que des organisations du secteur privé (Private-Public-Partnership). Porté par un large soutien, le réseau de suivi de la cybersituation a considérablement contribué à renforcer la cyberrésilience avant la conférence et à réagir rapidement et efficacement aux cyberattaques qui ont tenté de la perturber. Grâce à l’engagement de toutes les parties concernées et à une bonne préparation, la coopération a fonctionné en permanence et sans accroc. L’OFCS a mis fin à l’engagement du réseau de suivi de la cybersituation le dimanche 16 juin 2024 au soir.&lt;/p&gt;&lt;h2&gt;Premier bilan de l’OFCS&lt;/h2&gt;&lt;p&gt;Plusieurs événements se sont produits dans le cyberespace en Suisse peu avant, pendant et peu après la conférence. Il s’agissait notamment d’attaques par saturation (dites attaques DDoS) contre des sites web d’autorités et d’organisations impliquées dans l’événement. Ces attaques ont été menées par un groupe d’hacktivistes pro-russes appelé «NoName057(16)». Elles se sont situées dans la plage attendue et n’ont entraîné que des perturbations mineures des infrastructures informatiques. À aucun moment les systèmes informatiques et les données de la conférence ou des organisations impliquées dans l’événement n’ont été menacés. L’OFSC constate encore quelques attaques DDoS sur des cibles en Suisse. La situation devrait se normaliser dans les jours à venir. Par ailleurs, des tentatives d’intrusion numérique dans les systèmes informatiques des cantons impliqués, Nidwald et Obwald, ainsi que des attaques de phishing (hameçonnage) contre des employés de la centrale d’appels sanitaires urgents de Lucerne ont été enregistrées. Les problèmes techniques survenus pendant la retransmission en direct et la panne de courant de dimanche dans la région de Berne n’étaient pas des cyberincidents.&lt;/p&gt;&lt;p&gt;L’OFCS a compilé dans un rapport les premiers enseignements tirés des travaux du réseau de suivi de la cybersituation ainsi qu’un aperçu des incidents survenus dans le cyberespace suite à la conférence de haut niveau sur la paix en Ukraine. &lt;/p&gt;</text>
+      <contact>Communication OFCS media@ncsc.admin.ch +41 58 465 53 56</contact>
+      <attachment id="276028">
+        <title>Rapport: Premiers enseignements de l’OFCS sur les cyberattaques suite à la conférence de haut niveau sur la paix en Ukraine</title>
+        <format>pdf</format>
+        <size-kb>133</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88342.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Conferenza di alto livello sulla pace in Ucraina: primo bilancio dell’UFCS sui lavori della Rete integrata della situazione ciber</title>
+      <lead>Già prima della conferenza di alto livello sulla pace in Ucraina erano prevedibili ciberattacchi contro la conferenza e le infrastrutture in Svizzera. Effettivamente hanno avuto luogo diversi ciberattacchi, tutti tempestivamente individuati e rapidamente respinti. Per far fronte congiuntamente ai previsti ciberattacchi è stata istituita in Svizzera una Rete integrata della situazione ciber, coordinata dall’Ufficio federale della cibersicurezza (UFCS). L’UFCS pubblica in data odierna un primo bilancio sull’impiego della Rete integrata della situazione ciber.</lead>
+      <text link="no">&lt;p&gt;I grandi eventi e le conferenze internazionali sono spesso utilizzati come punto di partenza per attacchi informatici. Ciò vale anche per la conferenza di alto livello sulla pace in Ucraina svoltasi il 15 e il 16 giugno 2024 sul Bürgenstock con la partecipazione di delegazioni provenienti da un centinaio di Stati. Già prima della conferenza erano prevedibili ciberattacchi contro la conferenza e le infrastrutture in Svizzera.&lt;/p&gt;&lt;h2&gt;Rete integrata della situazione fondata su una vasta collaborazione nazionale&lt;/h2&gt;&lt;p&gt;Per far fronte congiuntamente ai previsti ciberattacchi è stata istituita in Svizzera una Rete integrata della situazione ciber coordinata dall’UFCS e comprendente un centinaio di specialisti di autorità nazionali e cantonali nonché di organizzazioni dell’economia privata («private-public-partnership»). La vasta cerchia di partner della Rete integrata della situazione ciber ha contribuito in maniera essenziale all’aumento della ciberresilienza già prima della conferenza e a un disbrigo rapido ed efficiente dei ciberattacchi perpetrati per perturbare la conferenza. Grazie al grande impegno di tutte le parti coinvolte e alla buona preparazione, la collaborazione si è svolta in ogni momento senza attriti. L’UFCS ha concluso l’impiego della Rete integrata della situazione ciber domenica sera 16 giugno 2024.&lt;/p&gt;&lt;h2&gt;Primo bilancio dell’UFCS&lt;/h2&gt;&lt;p&gt;Poco prima, durante e per un breve periodo dopo la conferenza, si sono registrati diversi incidenti nel ciberspazio svizzero, comprendenti tra l’altro attacchi di sovraccarico (cosiddetti attacchi DDoS) contro i siti web delle autorità e delle organizzazioni coinvolte nella conferenza. È stato accertato che tali attacchi sono stati eseguiti da un gruppo di hacktivisti filorussi denominato «NoName057(16)». Gli attacchi sferrati si sono mantenuti entro i limiti del previsto e hanno comportato soltanto brevi perturbazioni delle infrastrutture informatiche. In nessun momento vi è stata una minaccia concreta per i sistemi informatici e i dati della conferenza o delle organizzazioni coinvolte nel suo svolgimento. L'OFSC sta ancora notando alcuni attacchi DDoS a obiettivi in Svizzera. La situazione dovrebbe normalizzarsi nei prossimi giorni. Sono stati inoltre rilevati tentativi di intrusione digitale nei sistemi informatici dei Cantoni di Nidvaldo e Obvaldo e attacchi di phishing contro i collaboratori della centrale per le chiamate d’urgenza di Lucerna. I problemi tecnici verificatisi durante la trasmissione in diretta e l’interruzione di corrente di domenica nella regione di Berna non sono stati provocati da ciberincidenti.&lt;/p&gt;&lt;p&gt;L’UFCS ha riassunto in un rapporto i primi risultati dei lavori della Rete integrata della situazione ciber e gli eventi nel ciberspazio riconducibili allo svolgimento della conferenza di alto livello sulla pace in Ucraina.&lt;/p&gt;</text>
+      <contact>Comunicazione UFCS media@ncsc.admin.ch +41 58 465 53 56</contact>
+      <attachment id="276030">
+        <title>Rapporto: Primo bilancio dell’UFCS sui lavori della Rete integrata della situazione ciber in relazione con la conferenza di pace di alto livello sull’Ucraina</title>
+        <format>pdf</format>
+        <size-kb>114</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88376.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Summit on Peace in Ukraine: first NCSC report on Cyber Situation Network</title>
+      <lead>Even before the Summit on Peace in Ukraine got under way, cyberattacks on the conference and network infrastructure in Switzerland were expected. A number of cyberattacks were then confirmed, but they were all detected early and quickly averted. In order to jointly counter the expected cyberattacks, Switzerland set up a Cyber Situation Network coordinated by the National Cyber Security Centre (NCSC). Today, the NCSC published an initial review of the work of the Cyber Situation Network.</lead>
+      <text link="no">&lt;p&gt;Large events and international conferences are often used as opportunities for cyberattacks. This was the case with the Summit on Peace in Ukraine, which took place on 15–16 June at the Bürgenstock resort and was attended by delegations from almost 100 countries. Even in the run-up to the event, cyberattacks on the conference and network infrastructure in Switzerland were expected.&lt;/p&gt;&lt;h2&gt;Broad-based situation network&lt;/h2&gt;&lt;p&gt;Switzerland launched a Cyber Situation Network as a joint approach to combat the expected cyberattacks. This was coordinated by the NCSC as a public-private partnership with almost 100 experts from national and cantonal authorities and private sector organisations. The broad support provided by the Cyber Situation Network was crucial in building cyber resilience ahead of the conference and enabling a rapid and effective response to cyber threats that attempted to disrupt the event. Cooperation was smooth at all times, thanks to the high level of commitment and thorough preparation of all those involved. The NCSC stood down the Cyber Situation Network on the evening of Sunday, 16 June.&lt;/p&gt;&lt;h2&gt;Initial assessment by the NCSC&lt;/h2&gt;&lt;p&gt;Switzerland experienced a number of cyber incidents shortly before, during and briefly after the summit. These included several DDoS attacks attempting to overload the websites of authorities and organisations involved in the summit, which were clearly perpetrated by the pro-Russian hacktivist group 'NoName057(16)'. They were within the expected range and caused only minor disruption to IT infrastructures. However, at no time was there any threat to the IT systems or data of the summit itself or the organisations involved in its organisation. The NCSC is currently still detecting individual DDoS attacks on targets in Switzerland. It can be assumed that the situation will normalise again in the coming days. There were also digital intrusion attempts against the IT systems of the cantons involved, Nidwalden and Obwalden, and a number of phishing attacks against employees of Lucerne's medical emergency call centre. The technical problems experienced during the live broadcast and the power outage on Sunday in the Bern region were not cybersecurity incidents.&lt;/p&gt;&lt;p&gt;The NCSC has published a report with an initial assessment of the work of the Cyber Situation Network and an overview of cyber incidents related to the Summit on Peace in Ukraine. &lt;/p&gt;</text>
+      <contact>NCSC Communication media@ncsc.admin.ch +41 58 465 53 56</contact>
+      <attachment id="276029">
+        <title>Report: Initial NCSC report on cyberattacks following the Summit on Peace in Ukraine</title>
+        <format>pdf</format>
+        <size-kb>110</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88343.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="34">
+        <name lang="de">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+      <topic id="36">
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="en">IT and E-Government</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>

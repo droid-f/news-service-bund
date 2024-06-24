@@ -49,6 +49,51 @@
       <email lang="it">info@fedpol.admin.ch</email>
       <email lang="en">info@fedpol.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1065" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Nachrichtendienst des Bundes</name>
+      <name lang="fr">Service de renseignement de la Confédération</name>
+      <name lang="it">Servizio delle attività informative della confederazione</name>
+      <name lang="en">Federal intelligence service</name>
+      <www lang="de">http://www.ndb.admin.ch</www>
+      <www lang="fr">http://www.ndb.admin.ch</www>
+      <www lang="it">http://www.ndb.admin.ch</www>
+      <www lang="en">http://www.ndb.admin.ch</www>
+      <email lang="de">info@ndb.admin.ch</email>
+      <email lang="fr">info@ndb.admin.ch</email>
+      <email lang="it">info@ndb.admin.ch</email>
+      <email lang="en">info@ndb.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1102" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Staatssekretariat für Sicherheitspolitik</name>
+      <name lang="fr">Secrétariat d’État à la politique de sécurité</name>
+      <name lang="it">Segreteria di Stato della politica di sicurezza</name>
+      <name lang="en">State Secretariat for Security Policy</name>
+      <www lang="de">https://www.sepos.admin.ch/de</www>
+      <www lang="fr">https://www.sepos.admin.ch/fr</www>
+      <www lang="it">https://www.sepos.admin.ch/it</www>
+      <www lang="en">https://www.sepos.admin.ch/de</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -76,6 +121,20 @@
       <email lang="fr">Info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -130,17 +189,11 @@
       <revisions> </revisions>
     </content>
     <keywords>
-      <keyword id="112" org-id="404">
-        <name lang="de">Terrorismus</name>
-        <name lang="fr">Terrorisme</name>
-        <name lang="it">Terrorismo</name>
-        <name lang="en">Terrorism</name>
-      </keyword>
-      <keyword id="37" org-id="404">
-        <name lang="de">Extremismus</name>
-        <name lang="fr">Extrémisme</name>
-        <name lang="it">Estremismo</name>
-        <name lang="en">Extremism</name>
+      <keyword id="5720" org-id="502">
+        <name lang="de">Nachrichtendienst</name>
+        <name lang="fr">Service de renseignement</name>
+        <name lang="it">Servizio informazioni</name>
+        <name lang="en">intelligence service</name>
       </keyword>
     </keywords>
     <topics>
