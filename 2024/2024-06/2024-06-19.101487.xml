@@ -19,35 +19,20 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="yes" id="705" lead="no" topnews="no">
+    <originator department-msg="yes" id="703" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Bundesamt für Landwirtschaft</name>
-      <name lang="fr">Office fédéral de l'agriculture</name>
-      <name lang="it">Ufficio federale dell'agricoltura</name>
-      <name lang="en">Swiss Federal Office for Agriculture</name>
-      <www lang="de">http://www.blw.admin.ch</www>
-      <www lang="fr">http://www.blw.admin.ch</www>
-      <www lang="it">http://www.blw.admin.ch</www>
-      <www lang="en">http://www.blw.admin.ch</www>
-      <email lang="de">info@blw.admin.ch</email>
-      <email lang="fr">info@blw.admin.ch</email>
-      <email lang="it">info@blw.admin.ch</email>
-      <email lang="en">info@blw.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="811" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Umwelt BAFU</name>
-      <name lang="fr">Office fédéral de l'environnement OFEV</name>
-      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
-      <name lang="en">Federal Office for the Environment FOEN</name>
-      <www lang="de">https://www.bafu.admin.ch</www>
-      <www lang="fr">https://www.bafu.admin.ch/fr</www>
-      <www lang="it">https://www.bafu.admin.ch/it</www>
-      <www lang="en">https://www.bafu.admin.ch/en</www>
-      <email lang="de">info@bafu.admin.ch</email>
-      <email lang="fr">info@bafu.admin.ch</email>
-      <email lang="it">info@bafu.admin.ch</email>
-      <email lang="en">info@bafu.admin.ch</email>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
     </originator>
     <originator department-msg="yes" id="1047" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -64,20 +49,35 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
-    <originator department-msg="yes" id="703" lead="no" topnews="no">
+    <originator department-msg="no" id="811" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="en">Federal Office for the Environment FOEN</name>
+      <www lang="de">https://www.bafu.admin.ch</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
+      <www lang="it">https://www.bafu.admin.ch/it</www>
+      <www lang="en">https://www.bafu.admin.ch/en</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="en">info@bafu.admin.ch</email>
+    </originator>
+    <originator department-msg="yes" id="705" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
-      <name lang="fr">Secrétariat d'Etat à l'économie</name>
-      <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="en">State Secretariat for Economic Affairs</name>
-      <www lang="de">http://www.seco.admin.ch</www>
-      <www lang="fr">http://www.seco.admin.ch</www>
-      <www lang="it">http://www.seco.admin.ch</www>
-      <www lang="en">http://www.seco.admin.ch</www>
-      <email lang="de">info@seco.admin.ch</email>
-      <email lang="fr">info@seco.admin.ch</email>
-      <email lang="it">info@seco.admin.ch</email>
-      <email lang="en">info@seco.admin.ch</email>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="en">Swiss Federal Office for Agriculture</name>
+      <www lang="de">http://www.blw.admin.ch</www>
+      <www lang="fr">http://www.blw.admin.ch</www>
+      <www lang="it">http://www.blw.admin.ch</www>
+      <www lang="en">http://www.blw.admin.ch</www>
+      <email lang="de">info@blw.admin.ch</email>
+      <email lang="fr">info@blw.admin.ch</email>
+      <email lang="it">info@blw.admin.ch</email>
+      <email lang="en">info@blw.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -270,11 +270,11 @@
       </keyword>
     </keywords>
     <topics>
-      <topic id="47">
-        <name lang="de">Wirtschaft</name>
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
-        <name lang="en">Economic Affairs</name>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
       </topic>
     </topics>
   </message>

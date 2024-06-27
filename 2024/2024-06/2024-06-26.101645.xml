@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="101645" revoked="no">
+    <version>1</version>
+    <pubdate>2024-06-26</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Treibstoffe und Chemikalien aus CO₂: Zehnmal schneller experimentieren</title>
+      <lead>Warum nur ein Experiment auf einmal machen, wenn man auch zehn machen kann? Empa-Forschende haben ein System entwickelt, mit dem sich Katalysatoren, Elektroden und Reaktionsbedingungen für die Elektrolyse von Kohlendioxid bis zu zehnmal schneller erforschen lassen. Ergänzt wird das System von einer «open source»-Software zur Datenauswertung.</lead>
+      <text link="no"> &lt;p&gt;Mischt man einen fossilen Brennstoff mit etwas Sauerstoff und fügt einen Funken hinzu, entstehen dabei drei Dinge: Wasser, klimaschädliches Kohlendioxid und jede Menge Energie. Diese grundlegende chemische Reaktion findet in jedem Verbrennungsmotor statt, ob er mit Gas, Benzin oder Kerosin betrieben wird. Theoretisch lässt sich diese Reaktion umkehren: Aus freigesetztem CO₂ könnte man unter Zuführung von (erneuerbarer) Energie wieder Treibstoffe herstellen.&lt;/p&gt; &lt;p&gt;Dies ist die Idee hinter der vom ETH-Rat finanzierten «Joint Initiative» namens «SynFuels». Forschende der Empa und des Paul Scherrer Instituts (PSI) suchten während drei Jahren nach Möglichkeiten, wirtschaftlich und effektiv synthetische Treibstoffe – sogenannte Synfuels – aus CO₂ herzustellen. Denn diese Reaktion birgt einige Herausforderungen. Zum Einen: Bei der Elektrolyse von CO₂ entsteht nicht bloss der Treibstoff, der vorher verbrennt wurde. Vielmehr können sich über 20 verschiedene Produkte gleichzeitig bilden, die sich nur schwer voneinander trennen lassen.&lt;/p&gt; &lt;p&gt;Die Zusammensetzung dieser Produkte lässt sich auf diverse Arten steuern, etwa durch die Reaktionsbedingungen, durch den benutzten Katalysator sowie durch die Mikrostruktur der Elektroden. Die Anzahl möglicher Kombinationen ist enorm. Wie sollen Forschende da die beste finden? Jede Kombination einzeln untersuchen würde zu lange dauern. Empa-Forschende haben diesen Prozess nun um den Faktor 10 beschleunigt.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Die Forschung beschleunigen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Im Rahmen des «SynFuels»-Projekts haben Forschende rund um Corsin Battaglia und Alessandro Senocrate aus dem Empa-Labor «Materials for Energy Conversion» eine Anlage entwickelt, mit der sich bis zu zehn unterschiedliche Reaktionsbedingungen sowie Katalysator- und Elektrodenmaterialien gleichzeitig untersuchen lassen. Den Bauplan für das System und die dazugehörige Software haben die Forschenden nun in der Zeitschrift «Nature Catalysis» veröffentlicht.&lt;/p&gt; &lt;p&gt;Das System besteht aus zehn «Reaktoren»: Kleinen Kammern mit Katalysator und Elektroden, in denen die eigentliche Reaktion stattfindet. Jeder Reaktor ist über hunderte von Metern von Schläuchen an mehrere Zu- und Ableitungen für Gase und Flüssigkeiten sowie an diverse Messinstrumente angeschlossen. Zahlreiche Parameter werden vollautomatisch erfasst, etwa der Druck, die Temperatur, die Gasflüsse sowie die flüssigen und gasförmigen Reaktionsprodukte – und das alles mit einer hohen zeitlichen Auflösung.&lt;/p&gt; &lt;p&gt;«Soweit wir wissen, ist dies das erste System seiner Art für CO₂-Elektrolyse», sagt Empa-Postdoktorand Alessandro Senocrate. «Es liefert eine grosse Anzahl hochwertiger Datensätze, die uns helfen werden, schneller Entdeckungen zu machen.» Während der Entwicklungsphase des Systems waren noch nicht einmal alle benötigten Instrumente auf dem Markt erhältlich. In Zusammenarbeit mit dem Unternehmen Agilent Technologies haben die Empa-Forschenden das weltweit erste Online-Flüssigchromatographie-Gerät mitentwickelt. Es identifiziert und quantifiziert die flüssigen Reaktionsprodukte in Echtzeit noch während der Elektrolyse.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Forschungsdaten teilen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Zehnmal schneller Experimente durchführen generiert auch zehnmal so viele Daten. Um diese Daten auszuwerten, haben die Forschenden eine Software entwickelt, die sie Wissenschaftlerinnen und Wissenschaftlern an anderen Institutionen «open source» zur Verfügung stellen. Und auch die Daten selbst wollen sie mit anderen Forschenden teilen. «Forschungsdaten verschwinden heute oft in der Schublade, sobald die Ergebnisse publiziert sind», erklärt Corsin Battaglia, Leiter des Empa-Labors «Materials for Energy Conversion». Ein gemeinsames Forschungsprojekt der Empa, des PSI und der ETH Zürich, das den Namen «PREMISE» trägt, soll dies verhindern: «Wir wollen standardisierte Methoden schaffen, Daten zu speichern und zu teilen», so Battaglia. «Dann können andere Forschende neue Erkenntnisse aus unseren Daten gewinnen – und umgekehrt.»&lt;/p&gt; &lt;p&gt;Der offene Zugang zu Forschungsdaten ist auch in weiteren Forschungsaktivitäten des «Materials for Energy Conversion»-Labors eine Priorität. So auch im Nationalen Forschungsschwerpunkt «NCCR Catalysis», in dem es um die nachhaltige Produktion von Chemikalien geht. Das neue Parallelsystem für die CO₂-Elektrolyse soll in der zweiten Phase dieses grossen nationalen Projekts erneut eine wichtige Rolle spielen. Sowohl die generierten Daten als auch das Knowhow werden anderen Schweizer Forschungsinstitutionen zur Verfügung stehen. Dafür wollen die Empa-Forschenden sowohl die Hardware als auch die Software fortlaufend weiterentwickeln. &lt;/p&gt; </text>
+      <contact>Prof. Dr. Corsin Battaglia Materials for Energy Conversion Tel. +41 58 765 41 31 corsin.battaglia@empa.ch Dr. Alessandro Senocrate Materials for Energy Conversion Tel. +41 58 765 41 48 alessandro.senocrate@empa.ch</contact>
+      <attachment id="276444">
+        <title>Zehn Experimente parallel: Die neue Anlage der Empa kann die Forschung zur CO₂-Elektrolyse bis zu zehnmal beschleunigen. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3978</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88606.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276445">
+        <title>Einer von Vielen: Jeder Reaktor ist über hunderte von Metern von Schläuchen an mehrere Zu- und Ableitungen für Gase und Flüssigkeiten sowie an diverse Messinstrumente angeschlossen. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88607.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276446">
+        <title>Alessandro Senocrate baut das System im neuen Laborgebäude der Empa zusammen. Bild: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>4487</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88608.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276447">
+        <title>Corsin Battaglia inspiziert einen der zehn Reaktoren. Bild: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>5786</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88609.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="276448">
+        <title>Treibstoffe und Chemikalien aus CO₂: Zehnmal schneller experimentieren</title>
+        <uri>https://www.empa.ch/web/s604/parallel-co2-electrolysis</uri>
+        <position>Context</position>
+      </link>
+      <link id="276449">
+        <title>A Senocrate, F Bernasconi, P Kraus, N Plainpan, J Trafkowski, F Tolle, T Weber, U Sauter, C Battaglia; Parallel experiments in electrochemical CO₂ reduction enabled by standardized analytics; Nature Catalysis (2024); doi: 10.1038/s41929-024-01172-x</title>
+        <uri>https://www.nature.com/articles/s41929-024-01172-x</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Carburants et produits chimiques issus du CO₂ : Expérimenter dix fois plus vite</title>
+      <lead>Pourquoi faire une seule expérience à la fois quand on peut en faire dix ? Des chercheurs de l'Empa ont développé un système qui permet d'étudier jusqu'à dix fois plus vite les catalyseurs, les électrodes et les conditions de réaction pour l'électrolyse du dioxyde de carbone. Le système est complété par un logiciel "open source" pour l'évaluation des données.</lead>
+      <text link="no"> &lt;p&gt;Si l'on mélange un combustible fossile avec un peu d'oxygène et que l'on y ajoute une étincelle, il en résulte trois choses : De l'eau, du dioxyde de carbone nuisible au climat et beaucoup d'énergie. Cette réaction chimique fondamentale se produit dans tout moteur à combustion, qu'il fonctionne au gaz, à l'essence ou au kérosène. En théorie, cette réaction peut être inversée : A partir du CO₂ libéré, il serait possible de produire à nouveau des carburants en y ajoutant de l'énergie (renouvelable).&lt;/p&gt; &lt;p&gt;C'est l'idée qui a présidé à la "Joint Initiative" financée par le Conseil des EPF et baptisée "SynFuels". Des chercheurs de l'Empa et de l'Institut Paul Scherrer (PSI) ont cherché pendant trois ans des possibilités de produire de manière économique et efficace des carburants synthétiques – appelés synfuels – à partir du CO₂. Car cette réaction comporte plusieurs défis. D'une part : L'électrolyse du CO₂ ne produit pas seulement le carburant qui a été brûlé auparavant. Au contraire, plus de 20 produits différents peuvent se former simultanément et être difficiles à séparer les uns des autres. &lt;/p&gt; &lt;p&gt;La composition de ces produits peut être contrôlée de diverses manières, par exemple par les conditions de réaction, par le catalyseur utilisé ainsi que par la microstructure des électrodes. Le nombre de combinaisons possibles est énorme. Comment les chercheurs peuvent-ils trouver la meilleure ? Étudier chaque combinaison séparément prendrait trop de temps. Les chercheurs de l'Empa ont désormais accéléré ce processus d'un facteur 10. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Accélérer la recherche&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dans le cadre du projet "SynFuels", des chercheurs autour de Corsin Battaglia et Alessandro Senocrate du laboratoire "Materials for Energy Conversion" de l'Empa ont développé une installation permettant d'étudier simultanément jusqu'à dix conditions de réaction différentes ainsi que des matériaux de catalyseurs et d'électrodes. Les chercheurs ont publié le plan de construction du système et le logiciel correspondant dans la revue "Nature Catalysis".&lt;/p&gt; &lt;p&gt;Le système se compose de dix "réacteurs" : de petites chambres contenant le catalyseur et les électrodes, dans lesquelles se déroule la réaction proprement dite. Chaque réacteur est relié par des centaines de mètres de tuyaux à plusieurs conduites d'alimentation et d'évacuation de gaz et de liquides ainsi qu'à divers instruments de mesure. De nombreux paramètres sont enregistrés de manière entièrement automatique, comme la pression, la température, les flux de gaz ainsi que les produits de réaction liquides et gazeux – et tout cela avec une résolution temporelle élevée. &lt;/p&gt; &lt;p&gt;"Pour autant que nous le sachions, il s'agit du premier système de ce type pour l'électrolyse du CO₂", explique Alessandro Senocrate, post-doctorant à l'Empa. "Il fournit un grand nombre de jeux de données de haute qualité qui nous aideront à faire des découvertes plus rapidement". Lorsque le système a vu le jour, tous les instruments nécessaires n'étaient même pas encore disponibles sur le marché. En collaboration avec l'entreprise Agilent Technologies, les chercheurs de l'Empa ont contribué au développement du premier appareil de chromatographie liquide en ligne au monde. Il identifie et quantifie les produits de réaction liquides en temps réel pendant l'électrolyse. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Partager les données &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Réaliser des expériences dix fois plus vite génère aussi dix fois plus de données. Pour analyser ces données, les chercheurs ont développé un logiciel qu'ils mettent à la disposition des scientifiques d'autres institutions en "open source". Et ils souhaitent également partager les données elles-mêmes avec d'autres chercheurs. "Aujourd'hui, les données de recherche disparaissent souvent dans un tiroir dès que les résultats sont publiés", explique Corsin Battaglia, directeur du laboratoire "Materials for Energy Conversion" de l'Empa. Un projet de recherche commun de l'Empa, du PSI et de l'ETH Zurich, baptisé "PREMISE", doit empêcher cela : "Nous voulons créer des méthodes standardisées pour stocker et partager les données", sait Corsin Battaglia. "D'autres chercheurs pourront alors tirer de nouvelles connaissances de nos données – et inversement". &lt;/p&gt; L'accès ouvert aux données de recherche est également une priorité dans d'autres activités de recherche du laboratoire "Materials for Energy Conversion". C'est notamment le cas du Pôle de recherche national "NCCR Catalysis", qui porte sur la production durable de produits chimiques. Le nouveau système parallèle pour l'électrolyse du CO₂ devrait jouer un rôle important dans la deuxième phase de ce grand projet national. Tant les données générées que le savoir-faire seront mis à la disposition d'autres institutions de recherche suisses. Pour ce faire, les chercheurs de l'Empa veulent développer en permanence aussi bien le matériel que le logiciel. </text>
+      <contact>Prof. Dr. Corsin Battaglia Materials for Energy Conversion Tél. +41 58 765 41 31 corsin.battaglia@empa.ch Dr. Alessandro Senocrate Materials for Energy Conversion Tél. +41 58 765 41 48 alessandro.senocrate@empa.ch</contact>
+      <attachment id="276450">
+        <title>Dix expériences en parallèle : la nouvelle installation de l'Empa peut accélérer jusqu'à dix fois la recherche sur l'électrolyse du CO₂. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>3978</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88610.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276451">
+        <title>Un parmi tant d'autres : Chaque réacteur est relié par des centaines de mètres de tuyaux à plusieurs conduites d'alimentation et d'évacuation de gaz et de liquides ainsi qu'à divers instruments de mesure. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>3240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88611.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276452">
+        <title>Alessandro Senocrate assemble le système dans le nouveau bâtiment de laboratoire de l'Empa. Image : Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>4487</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88612.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276453">
+        <title>Corsin Battaglia inspecte l'un des dix réacteurs. Image : Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>5786</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88613.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="276449">
+        <title>A Senocrate, F Bernasconi, P Kraus, N Plainpan, J Trafkowski, F Tolle, T Weber, U Sauter, C Battaglia; Parallel experiments in electrochemical CO₂ reduction enabled by standardized analytics; Nature Catalysis (2024); doi: 10.1038/s41929-024-01172-x</title>
+        <uri>https://www.nature.com/articles/s41929-024-01172-x</uri>
+        <position>Context</position>
+      </link>
+      <link id="276454">
+        <title>Carburants et produits chimiques issus du CO₂ : Expérimenter dix fois plus vite</title>
+        <uri>https://www.empa.ch/web/s604/parallel-co2-electrolysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Combustibili e prodotti chimici dalla CO₂: Esperimenti dieci volte più veloci</title>
+      <lead>Perché fare un solo esperimento alla volta quando se ne possono fare dieci? I ricercatori dell'Empa hanno sviluppato un sistema che consente di studiare catalizzatori, elettrodi e condizioni di reazione per l'elettrolisi dell'anidride carbonica fino a dieci volte più velocemente. Il sistema include un software open source per l'analisi dei dati.</lead>
+      <text link="no"> &lt;p&gt;Se si mescola un combustibile fossile con un po' di ossigeno e si aggiunge una scintilla, si producono tre cose: Molta energia, acqua, ed anidride carbonica dannosa per il clima. Questa reazione chimica avviene in ogni motore a combustione, sia esso a gas, a benzina o a kerosene. In teoria, la reazione può essere invertita: La CO₂ rilasciata potrebbe essere utilizzata per produrre nuovamente combustibili, a patto di aggiungere energia (rinnovabile).&lt;/p&gt; &lt;p&gt;È questa l'idea alla base dell'"Iniziativa congiunta" finanziata dal Consiglio dei PF chiamata "SynFuels". I ricercatori dell'Empa e dell'Istituto Paul Scherrer (PSI) hanno trascorso tre anni alla ricerca di modi per produrre carburanti sintetici – noti come synfuels – a partire dalla CO₂ in modo economico ed efficiente. Questa reazione presenta una serie di sfide: una per tutte, l'elettrolisi della CO₂ non produce solo il combustibile precedentemente bruciato, ma si possono formare contemporaneamente più di 20 prodotti diversi, difficili da separare l'uno dall'altro.&lt;/p&gt; &lt;p&gt;La composizione di questi prodotti può essere controllata in vari modi, ad esempio modificando le condizioni di reazione, il catalizzatore utilizzato o la microstruttura degli elettrodi. Il numero di combinazioni possibili è enorme. Come possono i ricercatori trovare la migliore? Analizzare singolarmente ogni combinazione richiederebbe troppo tempo. I ricercatori dell'Empa hanno reso questo processo dieci volte più veloce. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Accelerare la ricerca&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Nell'ambito del progetto "SynFuels", i ricercatori guidati da Corsin Battaglia e Alessandro Senocrate del laboratorio "Materials for Energy Conversion" dell'Empa hanno sviluppato un sistema che può essere utilizzato per analizzare simultaneamente fino a dieci diverse condizioni di reazione, e materiali per catalizzatori ed elettrodi. I ricercatori hanno pubblicato la configurazione del sistema ed il relativo software sulla rivista "Nature Catalysis".&lt;/p&gt; &lt;p&gt;Il sistema è composto da dieci "reattori": piccole camere con catalizzatore ed elettrodi in cui avviene la reazione vera e propria. Ogni reattore è collegato, tramite centinaia di metri di tubi, a diverse linee di alimentazione e scarico di gas e liquidi, ed a vari strumenti di misura. Numerosi parametri vengono registrati in modo completamente automatico, come la pressione, la temperatura, i flussi di gas e i prodotti di reazione liquidi e gassosi, il tutto con un'elevata risoluzione temporale. &lt;/p&gt; &lt;p&gt;"Per quanto ne sappiamo, questo è il primo sistema di questo tipo per l'elettrolisi della CO₂", afferma il ricercatore dell'Empa Alessandro Senocrate. "Ci fornisce moltissimi dati di alta qualità che ci aiuteranno a fare scoperte più rapidamente". Al momento dello sviluppo del sistema, non tutti gli strumenti necessari erano disponibili sul mercato. In collaborazione con l'azienda Agilent Technologies, i ricercatori dell'Empa hanno co-sviluppato il primo dispositivo di cromatografia liquida online al mondo. Il dispositivo identifica e quantifica i prodotti liquidi di reazione in tempo reale durante l'elettrolisi.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Condividere i dati della ricerca&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Condurre gli esperimenti dieci volte più velocemente genera anche una quantità di dati dieci volte superiore. Per analizzare questi dati, i ricercatori hanno sviluppato un software open source che stanno mettendo a disposizione agli scienziati di altre istituzioni. Vogliono anche condividere i dati stessi con altri ricercatori. "Oggi i dati della ricerca spesso scompaiono in un cassetto non appena i risultati vengono pubblicati", spiega Corsin Battaglia, responsabile del Laboratorio Materiali per la Conversione di Energia dell'Empa. Un progetto di ricerca congiunto tra l'Empa, il PSI e il Politecnico di Zurigo, denominato "PREMISE", mira a evitare che ciò accada: "Vogliamo creare metodi standardizzati per l'archiviazione e la condivisione dei dati", spiega Battaglia. "Così altri ricercatori potranno estrarre nuove informazioni dai nostri dati e viceversa". &lt;/p&gt; &lt;p&gt;L'accesso libero ai dati scientifici è una priorità anche in altre attività del Laboratorio Materiali per la Conversione di Energia. Ad esempio, il gruppo è coinvolto nelle attività del Centro nazionale di competenza per la ricerca "NCCR Catalysis", che si concentra sulla produzione sostenibile di sostanze chimiche. Il nuovo sistema parallelo per l'elettrolisi della CO₂ è destinato a svolgere un ruolo importante nella seconda fase di questo importante progetto nazionale. Sia i dati generati che le competenze acquisite saranno messi a disposizione di altri istituti di ricerca svizzeri. A tal fine, i ricercatori dell'Empa intendono continuare a migliorare sia l'hardware che il software.&lt;/p&gt; </text>
+      <contact>Prof. Dr. Corsin Battaglia Materials for Energy Conversion Tel. +41 58 765 41 31 corsin.battaglia@empa.ch Dr. Alessandro Senocrate Materials for Energy Conversion Tel. +41 58 765 41 48 alessandro.senocrate@empa.ch</contact>
+      <attachment id="276455">
+        <title>Dieci esperimenti in parallelo: il nuovo sistema di analisi dell'Empa può accelerare fino a dieci volte la ricerca sull'elettrolisi della CO₂. Immagine: Empa</title>
+        <format>jpg</format>
+        <size-kb>3978</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88614.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276456">
+        <title>Uno dei tanti: Ogni reattore è collegato, tramite centinaia di metri di tubi, a diverse linee di alimentazione e scarico di gas e liquidi e a vari strumenti di misura. Immagine: Empa</title>
+        <format>jpg</format>
+        <size-kb>3240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88615.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276457">
+        <title>Alessandro Senocrate assembla il sistema nel nuovo edificio dei laboratori dell'Empa. Immagine: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>4487</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88616.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276458">
+        <title>Corsin Battaglia ispeziona uno dei dieci reattori. Immagine: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>5786</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88617.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="276449">
+        <title>A Senocrate, F Bernasconi, P Kraus, N Plainpan, J Trafkowski, F Tolle, T Weber, U Sauter, C Battaglia; Parallel experiments in electrochemical CO₂ reduction enabled by standardized analytics; Nature Catalysis (2024); doi: 10.1038/s41929-024-01172-x</title>
+        <uri>https://www.nature.com/articles/s41929-024-01172-x</uri>
+        <position>Context</position>
+      </link>
+      <link id="276459">
+        <title>Combustibili e prodotti chimici dalla CO₂: Esperimenti dieci volte più veloci</title>
+        <uri>https://www.empa.ch/web/s604/parallel-co2-electrolysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Synthetic fuels and chemicals from CO₂: Ten experiments in parallel</title>
+      <lead>Why do just one experiment at a time when you can do ten? Empa researchers have developed an automated system, which allows them to research catalysts, electrodes, and reaction conditions for CO₂ electrolysis up to ten times faster. The system is complemented by an open-source software for data analysis.</lead>
+      <text link="no"> &lt;p&gt;If you mix fossil fuel with a little oxygen and add a spark, three things are produced: water, climate-warming carbon dioxide, and lots of energy. This fundamental chemical reaction takes place in every combustion engine, whether it runs on gasoline, petrol, or kerosene. In theory, this reaction can be reversed: with the addition of (renewable) energy, previously released CO₂ can be converted back into a (synthetic) fuel.&lt;/p&gt; &lt;p&gt;This was the key idea behind the ETH Board funded Joint Initiative SynFuels. Researchers at Empa and the Paul Scherrer Institute (PSI) spent three years working on ways to produce synthetic fuels – known as synfuels – economically and efficiently from CO₂. This reaction, however, comes with challenges: for one, CO₂ electrolysis does not just yield the fuel that was previously burned. Rather, more than 20 different products can be simultaneously formed, and they are difficult to separate from each other.&lt;/p&gt; &lt;p&gt;The composition of these products can be controlled in various ways, for example via the reaction conditions, the catalyst used, and the microstructure of the electrodes. The number of possible combinations is enormous and examining each one individually would take too long. How are scientists supposed to find the best one? Empa researchers have now accelerated this process by a factor of 10.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Accelerating research&lt;/b&gt;&lt;/p&gt; &lt;p&gt;As part of the SynFuels project, researchers led by Corsin Battaglia and Alessandro Senocrate from Empa's Materials for Energy Conversion laboratory have developed a system that can be used to investigate up to ten different reaction conditions as well as catalyst and electrode materials simultaneously. The researchers have recently published the blueprint for the system and the accompanying software in the journal Nature Catalysis.&lt;/p&gt; &lt;p&gt;The system consists of ten "reactors": small chambers with catalysts and electrodes in which the reaction takes place. Each reactor is connected to multiple gas and liquid in- and outlets and various instruments via hundreds of meters of tubing. Numerous parameters are recorded fully automatically, such as the pressure, the temperature, gas flows, and the liquid and gaseous reaction products – all with high temporal resolution.&lt;/p&gt; &lt;p&gt;"As far as we know, this is the first system of its kind for CO₂ electrolysis," says Empa postdoctoral researcher Alessandro Senocrate. "It yields a large number of high-quality datasets, which will help us make accelerated discoveries". When the system was being developed, some of the necessary instruments were not even available on the market. In collaboration with the company Agilent Technologies, Empa researchers co-developed the world's first online liquid chromatography device, which identifies and quantifies the liquid reaction products in real time during CO₂ electrolysis.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Sharing research data&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Conducting experiments ten times faster also generates ten times as much data. In order to analyze this data, the researchers have developed a software solution that they are making available to scientists at other institutions on an open-source basis. They also want to share the data itself with other researchers. "Today, research data often disappears in a drawer as soon as the results are published," explains Corsin Battaglia, Head of Empa's Materials for Energy Conversion laboratory. A joint research project between Empa, PSI and ETH Zurich, which bears the name PREMISE, aims to prevent this: "We want to create standardized methods for storing and sharing data," says Battaglia. "Then other researchers can gain new insights from our data – and vice versa."&lt;/p&gt; Open access to research data is also a priority in other research activities of the Materials for Energy Conversion laboratory. This includes the National Center of Competence in Research NCCR Catalysis, which focuses on sustainable chemistry. The new parallel CO₂ electrolysis system is set to play an important role in the second phase of this large-scale national project, with both the data generated and the know-how made available to other Swiss research institutions. To this end, the Empa researchers will continue to refine both the hardware and the software in the future.</text>
+      <contact>Prof. Dr. Corsin Battaglia Materials for Energy Conversion Phone +41 58 765 41 31 corsin.battaglia@empa.ch Dr. Alessandro Senocrate Materials for Energy Conversion Phone +41 58 765 41 48 alessandro.senocrate@empa.ch</contact>
+      <attachment id="276460">
+        <title>Ten experiments in parallel: The new system built by Empa researchers can accelerate research on CO₂ electrolysis up to ten times. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3978</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88618.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276461">
+        <title>One of many: Each of the reactors is connected to multiple gas and liquid in- and outlets and various instruments via hundreds of meters of tubing. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88619.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276462">
+        <title>Corsin Battaglia examines one of the ten reactors. Image: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>5786</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88620.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="276463">
+        <title>Alessandro Senocrate assembles the system in Empa's new laboratory building. Image: Marion Nitsch</title>
+        <format>jpg</format>
+        <size-kb>4487</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/88621.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="276449">
+        <title>A Senocrate, F Bernasconi, P Kraus, N Plainpan, J Trafkowski, F Tolle, T Weber, U Sauter, C Battaglia; Parallel experiments in electrochemical CO₂ reduction enabled by standardized analytics; Nature Catalysis (2024); doi: 10.1038/s41929-024-01172-x</title>
+        <uri>https://www.nature.com/articles/s41929-024-01172-x</uri>
+        <position>Context</position>
+      </link>
+      <link id="276464">
+        <title>Synthetic fuels and chemicals from CO₂: Ten experiments in parallel</title>
+        <uri>https://www.empa.ch/web/s604/parallel-co2-electrolysis</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="en">Energy</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="en">Environment and Nature</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
