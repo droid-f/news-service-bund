@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="101768" revoked="no">
+    <version>1</version>
+    <pubdate>2024-07-05</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="506" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Studienergebnisse zu Bedrohungen und Auswirkungen von generativer künstlicher Intelligenz auf die Cybersicherheit</title>
+      <lead>Mit dem Aufkommen neuer Cyber-Technologien gehen auch neue Bedrohungen und Auswirkungen einher. Der Cyber-Defence Campus des Bundesamtes für Rüstung armasuisse veröffentlicht zum zweiten Mal eine Open Access Studie zu diesem Thema. Diese beleuchtet die Risiken und Herausforderungen, die durch den Einsatz generativer künstlicher Intelligenz (KI) in der Cybersicherheit entstehen. Die Studie hilft Fachpersonen und Entscheidungsträgern aus der öffentlichen Verwaltung und der Wirtschaft bei der Beurteilung von Einsatzrisiken und der Entwicklung von Sicherheitsmassnahmen. </lead>
+      <text link="no">&lt;p&gt;Die Entwicklung und Verbreitung von künstlicher Intelligenz stellt grosse Herausforderungen für die Sicherheit im Cyberraum dar. Insbesondere maschinelle Lernmodelle zur Generierung von Texten, Bildern oder Videos, besser bekannt unter dem Begriff «generative künstliche Intelligenz (KI)», werden immer leistungsfähiger. Deren Einsatz findet weite Verbreitung in der Bevölkerung. Dabei bietet die generative KI erhebliche Missbrauchsrisiken wie etwa Deep Fakes, gefälschte Nachrichten oder Betrugsversuche. Gleichzeitig kann der bewusste Einsatz von KI auch positive Effekte mit sich bringen.&lt;/p&gt;&lt;h2&gt;Einfluss von Large Language Models auf Cybersicherheit&lt;/h2&gt;&lt;p&gt;Die Studie zeigt auf, dass die Manipulation und der Missbrauch von Lernalgorithmen die Sicherheit der genutzten KI-Anwendungen gefährden kann. Beispielsweise können maschinelle Lernmodelle Text oder Software generieren, die teilweise subtile Fehler enthalten, jedoch nur schwer zu finden sind. Grosse Sprachmodelle (Large Language Models, LLMs) haben das Verständnis von Sprache revolutioniert und werden bereits heute in sicherheitsrelevanten Produkten und Anwendungen eingesetzt. Einerseits ermöglichen es LLMs, Cyberangriffe effizienter zu bekämpfen, gleichzeitig können bösartige Akteure LLMs verwenden, um kostengünstig Malware, Phishing-Nachrichten und bösartigen Chatbots zu erstellen.&lt;/p&gt;&lt;h2&gt;Stärkung der Cybersicherheit&lt;/h2&gt;&lt;p&gt;LLMs werden heute mehrheitlich im Ausland hergestellt. Es ist für staatliche Akteure wie die Schweiz entsprechend wichtig zu verstehen, welche Abhängigkeiten von diesen ausländischen Herstellern bestehen und welche Risiken damit verbunden sind. Diese öffentlich zugängliche (Open Access) Studie bietet wertvolle Einblicke für Fachpersonen und Entscheidungsträger im Bereich der Cybersicherheit. Der CYD Campus und die Fachhochschule Westschweiz (HES-SO) verdeutlichen mit dieser gemeinsam erarbeiteten Studie die Notwendigkeit, sich mit den schnell wachsenden technologischen Entwicklungen auseinanderzusetzen und proaktive Massnahmen zu ergreifen.&lt;/p&gt;&lt;p&gt;Die wichtigsten Erkenntnisse der Studie lauten:&lt;br /&gt;• Generative künstliche Intelligenz und insbesondere grosse Sprachmodelle (LLMs) bringen erhebliche neue Bedrohungen in Bezug auf Cybersicherheit;&lt;br /&gt;• Die Verwendung von generativer künstlicher Intelligenz beim Staat, in der Wirtschaft und in der Gesellschaft soll mit Sorgfalt erfolgen;&lt;br /&gt;• Für eine sichere Entwicklung und einen sicheren Einsatz von generativer künstlicher Intelligenz, müssen Sicherheitskontrollen in der Datenverarbeitungskette eingesetzt werden.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Zum Cyber-Defence Campus&lt;br /&gt;&lt;/b&gt;Der Cyber-Defence Campus wurde im Januar 2019 gegründet, um Cyber-Entwicklungen schneller zu antizipieren. Er bildet das Bindeglied zwischen VBS, Industrie und Wissenschaft in der Forschung, Entwicklung und Ausbildung für die Cyber-Verteidigung. Er ist beim Bundesamt für Rüstung armasuisse im VBS angesiedelt.&lt;b&gt;&lt;br /&gt;&lt;br /&gt;Zur Fachhochschule Westschweiz Wallis &lt;br /&gt;&lt;/b&gt;Die Fachhochschule Westschweiz Wallis (HES-SO Valais-Wallis) ist eine Hochschule für angewandte Wissenschaften in der Westschweiz. Sie ist die grösste Fachhochschule der Schweiz und die zweitgrössten Hochschule nach der Universität Zürich und sie umfasst insgesamt 28 Schulen in den Kantonen Freiburg, Genf, Jura, Neuenburg, Wallis, Waadt und Bern.&lt;/p&gt;</text>
+      <contact>Samanta Leiser Kommunikation armasuisse +41 58 465 33 79</contact>
+      <link id="276864">
+        <title>Large Language Models in Cybersecurity – Threats, Exposure and Mitigation</title>
+        <uri>https://link.springer.com/book/10.1007/978-3-031-54827-7</uri>
+        <position>Context</position>
+      </link>
+      <link id="276865">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="276869">
+        <title>Fachhochschule Westschweiz</title>
+        <uri>https://www.hes-so.ch/de/startseite</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Résultats de l’étude sur les menaces et les répercussions de l’intelligence artificielle générative sur la cybersécurité</title>
+      <lead>L’apparition de nouvelles cybertechnologies s’accompagne également de nouvelles menaces et répercussions. Le Cyber-Defence Campus de l’Office fédéral de l’armement armasuisse publie pour la deuxième fois une étude en libre accès sur ce thème. Cette étude met en lumière les risques et les défis liés à l’utilisation de l’intelligence artificielle (IA) générative en ce qui concerne la cybersécurité. Elle a vocation à aider les spécialistes et les décideurs de l’administration publique et de l’économie à évaluer les risques liés à l’utilisation de cette technologie et à définir les mesures de sécurité appropriées. </lead>
+      <text link="no">&lt;p&gt;Le développement et la diffusion de l’intelligence artificielle posent des défis majeurs en matière de sécurité dans le cyberespace. Les modèles d’apprentissage automatique en particulier, qui permettent de générer des textes, des images ou des vidéos (et mieux connus sous le nom « d’intelligence artificielle (IA) générative ») sont toujours plus performants. Leur utilisation est désormais largement répandue au sein de la population. Cependant, l’IA générative comporte des risques d’abus considérables, à l’image des infox vidéo, des messages falsifiés ou des tentatives de fraude. Dans le même temps, l’utilisation raisonnée de l’IA peut aussi avoir des effets positifs.&lt;/p&gt;&lt;h2&gt;Influence des Large Language Models sur la cybersécurité&lt;/h2&gt;&lt;p&gt;L’étude révèle que la manipulation et le mauvais usage des algorithmes d’apprentissage peuvent compromettre la sécurité des applications d’IA. Par exemple, les modèles d’apprentissage automatique peuvent générer des textes ou des logiciels contenant des erreurs parfois subtiles, mais difficilement repérables. Les grands modèles de langage (Large Language Models, LLM) ont révolutionné la compréhension du langage et sont déjà utilisés dans des applications et des produits déterminants pour la sécurité. Les LLM permettent de mieux lutter contre les cyberattaques, mais des acteurs mal intentionnés peuvent également utiliser les LLM pour créer à peu de frais des programmes malveillants, des messages de phishing et des chatbots malveillants.&lt;/p&gt;&lt;h2&gt;Renforcement de la cybersécurité&lt;/h2&gt;&lt;p&gt;Aujourd’hui, les LLM sont conçus en majorité à l’étranger. Il est important pour les acteurs étatiques comme la Suisse de comprendre en conséquence quelles sont les dépendances vis-à-vis de ces éditeurs étrangers ainsi que les risques qui en découlent. Cette étude en libre accès fournit de précieuses informations aux spécialistes et aux décideurs dans le domaine de la cybersécurité. Fruit du travail commun du CYD Campus et de la Haute École Spécialisée de Suisse occidentale (HES-SO), cette étude explique la nécessité de prêter attention aux développements technologiques qui affichent une progression rapide et de prendre des mesures proactives.&lt;/p&gt;&lt;p&gt;Les principales conclusions de l’étude sont les suivantes :&lt;br /&gt;• L’IA générative et en particulier les grands modèles de langage (LLM) présentent de nouvelles menaces considérables en matière de cybersécurité.&lt;br /&gt;• L’État, l’économie et la société doivent utiliser l’IA générative avec précaution.&lt;br /&gt;• Pour permettre le développement et l’utilisation de l’IA générative en toute sécurité, il convient de mettre en place des contrôles de sécurité dans la chaîne de traitement des données.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;À propos du Cyber-Defence Campus&lt;/b&gt;&lt;br /&gt;Le Cyber-Defence Campus a été créé en janvier 2019 afin de mieux anticiper les développements dans le domaine cyber. Il sert d’interface entre le DDPS, l’industrie et la science dans le domaine de la recherche, du développement et de la formation en matière de cyberdéfense. Le Cyber-Defence Campus est rattaché à l’Office fédéral de l’armement armasuisse.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;À propos de la Haute École Spécialisée de Suisse occidentale Valais-Wallis&lt;/b&gt;&lt;br /&gt;La Haute École Spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis) est une haute école de suisse romande spécialisée dans les sciences appliquées. Plus grande haute école spécialisée de Suisse et deuxième haute école après l’Université de Zurich, elle regroupe au total 28 établissements dans les cantons de Fribourg, de Genève, du Jura, de Neuchâtel, du Valais, de Vaud et de Berne.&lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Samanta Leiser Communication armasuisse +41 58 465 33 79</contact>
+      <link id="276864">
+        <title>Large Language Models in Cybersecurity – Threats, Exposure and Mitigation</title>
+        <uri>https://link.springer.com/book/10.1007/978-3-031-54827-7</uri>
+        <position>Context</position>
+      </link>
+      <link id="276866">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/fr</uri>
+        <position>Context</position>
+      </link>
+      <link id="276870">
+        <title>Haute École Spécialisée de Suisse occidentale</title>
+        <uri>https://www.hes-so.ch/accueil</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Risultati dello studio sulle minacce e sulle conseguenze dell’intelligenza artificiale generativa a livello di cibersicurezza</title>
+      <lead>Il proliferare di nuove tecnologie informatiche porta con sé anche nuove minacce e conseguenze. Il Cyber-Defence Campus dell’Ufficio federale dell'armamento armasuisse pubblica per la seconda volta uno studio Open Access su questo argomento, con l’intento di far luce su rischi e sfide a livello di cibersicurezza in conseguenza dell'impiego dell’intelligenza artificiale (IA) generativa. Lo studio aiuta specialisti e decisori dell’amministrazione pubblica e dell’economia a valutare i rischi di tale impiego e a sviluppare misure di sicurezza. </lead>
+      <text link="no">&lt;p&gt;Lo sviluppo e la diffusione dell’intelligenza artificiale pongono grandi sfide per quanto riguarda la sicurezza nel ciberspazio. Sempre più potenti risultano in particolare i modelli per la produzione di testi, immagini o video basati sull’apprendimento automatico, meglio noti con il termine «intelligenza artificiale generativa». Il loro impiego è molto diffuso nella popolazione. Tuttavia, l’IA generativa comporta notevoli rischi di abuso, quali per esempio deep fake, messaggi contraffatti o tentativi di frode. Al tempo stesso, l'impiego consapevole dell’IA può produrre anche effetti positivi.&lt;/p&gt;&lt;h2&gt;L’influenza dei modelli linguistici di grandi dimensioni sulla cibersicurezza&lt;/h2&gt;&lt;p&gt;Lo studio evidenzia che la manipolazione e l’abuso degli algoritmi di apprendimento può mettere in pericolo la sicurezza delle applicazioni IA utilizzate. Per esempio, i modelli basati sull’apprendimento automatico sono in grado di generare testi o software contenenti in parte lievi errori, che sono tuttavia molto difficili da individuare. I cosiddetti modelli linguistici di grandi dimensioni (Large Language Model, LLM) hanno rivoluzionato la comprensione linguistica e vengono impiegati già oggi in prodotti e applicazioni rilevanti per la sicurezza. Da un lato gli LLM consentono di contrastare in maniera più efficiente gli attacchi informatici, ma al tempo stesso i malintenzionati possono ricorrervi per generare a basso costo malware, messaggi di phishing e chatbot malevoli.&lt;/p&gt;&lt;h2&gt;Rafforzamento della cibersicurezza&lt;/h2&gt;&lt;p&gt;Attualmente gli LLM vengono prodotti prevalentemente all’estero. Per attori statali come la Svizzera è dunque importante capire quali siano i rapporti di dipendenza dai produttori esteri e quali rischi comporti tale situazione. Lo studio in questione, liberamente accessibile (Open Access), offre preziosi spunti per specialisti e decisori nel settore della cibersicurezza. Con questo contributo elaborato congiuntamente, il CYD Campus e la Scuola universitaria professionale della Svizzera occidentale (HES-SO) sottolineano la necessità di confrontarsi con il proliferare di sviluppi tecnologici e di adottare misure proattive.&lt;/p&gt;&lt;p&gt;Dallo studio è possibile trarre le seguenti considerazioni principali:&lt;br /&gt;• l’intelligenza artificiale generativa e in particolare i modelli linguistici di grandi dimensioni (LLM) comportano nuove notevoli minacce sul piano della cibersicurezza;&lt;br /&gt;• l’impiego dell’intelligenza artificiale generativa da parte dello Stato, dell’economia e della società deve avvenire con cautela;&lt;br /&gt;• per uno sviluppo e un impiego sicuri dell’intelligenza artificiale generativa devono essere attuati controlli di sicurezza nella catena di trattamento dei dati.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;Informazioni sul Cyber-Defence Campus&lt;/b&gt;&lt;br /&gt;Il Cyber-Defence Campus (CYD) è stato creato nel gennaio 2019 per anticipare più rapidamente gli sviluppi informatici. Integrato nel DDPS presso l’Ufficio federale dell’armamento armasuisse, il Campus rappresenta il collegamento tra l’Amministrazione federale, l’industria e il mondo accademico nei settori della ricerca, dello sviluppo e della formazione.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Informazioni sulla Scuola universitaria professionale della Svizzera occidentale Vallese &lt;/b&gt;&lt;br /&gt;La HES-SO Vallese è una scuola universitaria professionale di scienze applicate collocata nella Svizzera occidentale. È la maggiore scuola universitaria professionale svizzera e la seconda scuola universitaria dietro all’Università di Zurigo; nel complesso comprende 28 scuole nei Cantoni di Friburgo, Ginevra, Giura, Neuchâtel, Vallese, Vaud e Berna.&lt;br /&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
+      <contact>Samanta Leiser Comunicazione armasuisse +41 58 465 33 79</contact>
+      <link id="276864">
+        <title>Large Language Models in Cybersecurity – Threats, Exposure and Mitigation</title>
+        <uri>https://link.springer.com/book/10.1007/978-3-031-54827-7</uri>
+        <position>Context</position>
+      </link>
+      <link id="276867">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/it</uri>
+        <position>Context</position>
+      </link>
+      <link id="276869">
+        <title>Fachhochschule Westschweiz</title>
+        <uri>https://www.hes-so.ch/de/startseite</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Study results on threats and impacts of generative artificial intelligence on cyber security</title>
+      <lead>The emergence of new cyber technologies is also accompanied by new threats and impacts. The Cyber-Defence Campus of the Federal Office for Defence Procurement armasuisse is publishing an Open Access study on this topic for the second time. This highlights the risks and challenges which arise through the use of generative artificial intelligence (AI) in cyber security. The study helps experts and decision-makers from public administration and industry in assessing the risks of use and the development of security measures.</lead>
+      <text link="no">&lt;p&gt;The development and spread of artificial intelligence present major challenges for security in cyberspace. In particular, machine learning models for generating texts, images and videos, better known by the term “generative artificial intelligence (AI)” are becoming increasing powerful. They are widely used among the population. However, generative AI offers considerable risks of misuse, such as Deep Fakes, fake news and attempted frauds. At the same time, the conscious use of AI can also have positive effects.&lt;/p&gt;&lt;h2&gt;Influence of Large Language Models on cyber security&lt;/h2&gt;&lt;p&gt;The study shows that the manipulation and misuse of learning algorithms can jeopardise the security of the AI applications used. For example, machine learning models can generate text or software, some of which contain subtle errors which, however, can only be found with difficulty. Large Language Models (LLMs) have revolutionised the understanding of language and are already used today in security-relevant products and applications. On the one hand, LLMs enable cyber attacks to be combated more efficiently, yet at the same time, malicious actors can use LLMs to create malware, phishing messages and malicious chatbots inexpensively.&lt;/p&gt;&lt;h2&gt;Strengthening cyber security&lt;/h2&gt;&lt;p&gt;The majority of LLMs today are manufactured abroad. Accordingly, it is important for state actors like Switzerland to understand which dependencies on these foreign manufacturers exist and which risks are involved. This open access study offers valuable insights for experts and decision-makers in the area of cyber security. With this jointly developed study, the CYD Campus and the University of Applied Sciences and Arts of Western Switzerland (HES-SO) underline the necessity of confronting the rapidly growing technological developments and taking proactive measures.&lt;/p&gt;&lt;p&gt;The most important findings of the study are:&lt;br /&gt;• generative artificial intelligence and in particular Large Language Models (LLM) involve substantial new threats with regard to cyber security;&lt;br /&gt;• the use of generative artificial intelligence in government, the economy or in society must be performed with caution;&lt;br /&gt;• safety checks must be deployed in the data processing chain for a secure development and secure usage of generative artificial intelligence.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;&lt;b&gt;The Cyber-Defence Campus&lt;br /&gt;&lt;/b&gt;The Cyber-Defence Campus was founded in January 2019 to anticipate cyber developments more rapidly. It forms the link between DDPS, industry and science in research, development and training for cyber defence. It is part of the Federal Office for Defence Procurement armasuisse in the DDPS.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;The University of Applied Sciences and Arts of Western Switzerland Valais&lt;br /&gt;&lt;/b&gt;The University of Applied Sciences and Arts of Western Switzerland Valais (HES-SO Valais-Wallis) is a university for applied sciences and arts in French-speaking Switzerland. It is the largest university of applied sciences in Switzerland and the second largest higher education institution after the University of Zurich. It encompasses altogether 28 schools in the cantons of Fribourg, Geneva, Jura, Neuchâtel, Valais, Vaud and Bern.&lt;br /&gt;&lt;/p&gt;</text>
+      <contact>Samanta Leiser Communication armasuisse +41 58 465 33 79</contact>
+      <link id="276864">
+        <title>Large Language Models in Cybersecurity – Threats, Exposure and Mitigation</title>
+        <uri>https://link.springer.com/book/10.1007/978-3-031-54827-7</uri>
+        <position>Context</position>
+      </link>
+      <link id="276868">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/en</uri>
+        <position>Context</position>
+      </link>
+      <link id="276872">
+        <title>University of Applied Sciences and Arts Western Switzerland</title>
+        <uri>https://www.hes-so.ch/en/homepage</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <keywords>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <topics>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
