@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="101777" revoked="no">
-    <version>1</version>
+    <version>3</version>
     <pubdate>2024-07-08</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="505" lead="yes" topnews="no">
@@ -50,27 +50,34 @@
     </department>
     <content lang="de">
       <city>Bern</city>
-      <title>Schweizer Luftwaffe trainiert mit zwei Helikopter-Einheiten der französischen Luftstreitkräfte in Payerne</title>
-      <lead>Vom 8. bis 12. Juli 2024 trainieren Angehörige der Schweizer Luftwaffe zusammen mit den französischen Luftstreitkräften. Zwei französische Helikopter-Einheiten werden dazu auf dem Militärflugplatz Payerne eintreffen. Die Übung dient der Weiterentwicklung der taktischen Fähigkeiten mit anderen Nationen und fördert die militärische Zusammenarbeit zwischen der Schweiz und Frankreich.</lead>
-      <text link="no">&lt;p&gt;Um die Zusammenarbeit mit den anderen europäischen Staaten zu intensivieren, findet in diesem Jahr ein Arbeitsbesuch und Austausch in Payerne statt. In diesem Rahmen werden vom 8. bis 12. Juli 2024 Angehörige der französischen Luftstreitkräfte mit je einem Helikopter des Typs Cougar und Tiger zu einem gemeinsamen Training anreisen.&lt;/p&gt;&lt;h2&gt;Gemeinsames Training stärkt die Verteidigungsfähigkeit&lt;/h2&gt;&lt;p&gt;Insgesamt nehmen rund 10 Angehörige der Schweizer Luftwaffe mit ihren Helikoptern an der Übung teil. Das Training wird von der Schweizer Luftwaffe organisiert und bietet den Teilnehmenden die Möglichkeit, insbesondere die Fähigkeiten für das gemeinsame operative Vorgehen zu fördern.&lt;br /&gt;&lt;br /&gt;Durch den Austausch von Wissen und verschiedenen Vorgehensweisen können die Partnerstaaten ihre eigene Effizienz und Einsatzbereitschaft steigern. Zudem werden die Hubschraubereinheiten der französischen Luftstreitkräfte im Hochgebirgsflug trainieren können. &lt;br /&gt;&lt;/p&gt;</text>
+      <title>Schweizer Luftwaffe trainiert mit zwei Helikopter-Einheiten der französischen Heeresflieger in Payerne</title>
+      <lead>Vom 8. bis 12. Juli 2024 trainieren Angehörige der Schweizer Luftwaffe zusammen mit den französischen Heeresfliegern (Aviation légère de l’armée de terre française ALAT). Zwei französische Helikopter-Einheiten werden dazu auf dem Militärflugplatz Payerne eintreffen. Die Übung dient der Weiterentwicklung der taktischen Fähigkeiten mit anderen Nationen und fördert die militärische Zusammenarbeit zwischen der Schweiz und Frankreich.</lead>
+      <text link="no">&lt;p&gt;Um die Zusammenarbeit mit den anderen europäischen Staaten zu intensivieren, findet in diesem Jahr ein Arbeitsbesuch und Austausch in Payerne statt. In diesem Rahmen werden vom 8. bis 12. Juli 2024 Angehörige der französischen Heeresflieger mit je einem Helikopter des Typs Cougar und Tiger zu einem gemeinsamen Training anreisen.&lt;/p&gt;&lt;h2&gt;Gemeinsames Training stärkt die Verteidigungsfähigkeit&lt;/h2&gt;&lt;p&gt;Insgesamt nehmen rund 10 Angehörige der Schweizer Luftwaffe mit ihren Helikoptern an der Übung teil. Das Training wird von der Schweizer Luftwaffe organisiert und bietet den Teilnehmenden die Möglichkeit, insbesondere die Fähigkeiten für das gemeinsame operative Vorgehen zu fördern.&lt;br /&gt;&lt;br /&gt;Durch den Austausch von Wissen und verschiedenen Vorgehensweisen können die Partnerstaaten ihre eigene Effizienz und Einsatzbereitschaft steigern. Zudem werden die Hubschraubereinheiten der französischen Heeresflieger im Hochgebirgsflug trainieren können. &lt;/p&gt;</text>
       <contact>Stefan Hofer Armeesprecher +41 58 463 37 41</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-09 12:01" type="R"/>
+        <revision date="2024-07-09 14:33" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
-      <title>Les Forces aériennes suisses s’entraînent avec deux unités d’hélicoptères de l’Armée de l’air française à Payerne</title>
-      <lead>Du 8 au 12 juillet 2024, les Forces aériennes suisses (FA) s’entraînent avec l’Armée de l’air française, dont deux unités d’hélicoptères se rendent pour l’occasion sur la Base aérienne de Payerne. L’exercice en question a pour but de développer les capacités tactiques au niveau international et de promouvoir la coopération militaire entre la Suisse et la France. </lead>
-      <text link="no">&lt;p&gt;Pour intensifier la collaboration avec d’autres États européens, une visite de travail et un échange ont lieu cette année en Suisse. Dans ce cadre, deux hélicoptères de l’Armée de l’air française, un Cougar et un Tiger, se trouveront à partir du 8 juillet 2024 avec leur équipage sur la Base aérienne de Payerne. Ils y resteront jusqu’au 12 juillet 2024 pour mener un exercice commun. &lt;/p&gt;&lt;h2&gt;L’exercice commun renforce la capacité de défense&lt;/h2&gt;&lt;p&gt;Au total, une dizaine de personnes travaillant pour les FA participent à l’exercice, avec leurs hélicoptères. Cet entraînement organisé par les FA permet notamment aux militaires de développer leurs compétences dans le domaine des processus opérationnels communs. &lt;br /&gt;&lt;br /&gt;Grâce à l’échange de connaissances et de méthodes, les États partenaires peuvent améliorer leur efficacité et leur disponibilité opérationnelle respectives. En Suisse, Les unités d’hélicoptères de l’Armée de l’air française ont de plus la possibilité de s’exercer au vol en haute montagne. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</text>
+      <title>Les Forces aériennes suisses s’entraînent avec deux unités d’hélicoptères de l’aviation légère de l’armée de terre française à Payerne</title>
+      <lead>Du 8 au 12 juillet 2024, les Forces aériennes suisses (FA) s’entraînent avec l’aviation légère de l’armée de terre française, dont deux unités d’hélicoptères se rendent pour l’occasion sur la Base aérienne de Payerne. L’exercice en question a pour but de développer les capacités tactiques au niveau international et de promouvoir la coopération militaire entre la Suisse et la France. </lead>
+      <text link="no">&lt;p&gt;Pour intensifier la collaboration avec d’autres États européens, une visite de travail et un échange ont lieu cette année en Suisse. Dans ce cadre, deux hélicoptères de l’aviation légère de l’armée de terre française, un Cougar et un Tiger, se trouveront à partir du 8 juillet 2024 avec leur équipage sur la Base aérienne de Payerne. Ils y resteront jusqu’au 12 juillet 2024 pour mener un exercice commun. &lt;/p&gt;&lt;h2&gt;L’exercice commun renforce la capacité de défense&lt;/h2&gt;&lt;p&gt;Au total, une dizaine de personnes travaillant pour les FA participent à l’exercice, avec leurs hélicoptères. Cet entraînement organisé par les FA permet notamment aux militaires de développer leurs compétences dans le domaine des processus opérationnels communs. &lt;br /&gt;&lt;br /&gt;Grâce à l’échange de connaissances et de méthodes, les États partenaires peuvent améliorer leur efficacité et leur disponibilité opérationnelle respectives. En Suisse, les unités d’hélicoptères de l’aviation légère de l’armée de terre française ont de plus la possibilité de s’exercer au vol en haute montagne. &lt;/p&gt;</text>
       <contact>Stefan Hofer Porte-parole de l’armée +41 58 463 37 41</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-09 12:01" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
-      <title>Le Forze aeree svizzere si allenano a Payerne assieme a due unità di elicotteri dell’aviazione militare francese</title>
-      <lead>Dall’8 al 12 luglio 2024 le Forze aeree svizzere eseguiranno un allenamento congiunto con l’aviazione militare francese. A tal fine due unità di elicotteri dell’aviazione militare francese si recheranno all’aerodromo militare di Payerne. L’esercizio servirà a sviluppare ulteriormente le capacità tattiche assieme ai militari di un altro Stato e a promuovere la cooperazione militare tra la Svizzera e la Francia.</lead>
-      <text link="no">&lt;p&gt;Nel quadro dell’intensificazione della cooperazione con altri Stati europei, dall’8 al 12 luglio 2024 avrà luogo a Payerne una visita di lavoro comprendente un allenamento congiunto e uno scambio di esperienze con militari francesi alla guida di elicotteri del tipo Cougar e Tiger.&lt;/p&gt;&lt;h2&gt;Gli allenamenti congiunti rafforzano la capacità di difesa&lt;/h2&gt;&lt;p&gt;All’esercizio parteciperanno elicotteri delle Forze aeree svizzere con a bordo complessivamente una decina di militari. L’allenamento è organizzato dalle Forze aeree svizzere e offre ai partecipanti la possibilità di sviluppare ulteriormente, in particolare, le capacità necessarie per operazioni congiunte.&lt;br /&gt;&lt;br /&gt;Lo scambio di conoscenze e procedure consente agli Stati partner di incrementare la propria efficienza e prontezza all’impiego. Le unità di elicotteri dell’aviazione militare francese avranno inoltre la possibilità di esercitarsi nel volo in alta montagna.&lt;/p&gt;</text>
+      <title>Le Forze aeree svizzere si allenano a Payerne assieme a due unità di elicotteri dell’aviazione leggera delle forze terrestri francese</title>
+      <lead>Dall’8 al 12 luglio 2024 le Forze aeree svizzere eseguiranno un allenamento congiunto con l’aviazione leggera delle forze terrestri francese. A tal fine due unità di elicotteri dell’aviazione militare francese si recheranno all’aerodromo militare di Payerne. L’esercizio servirà a sviluppare ulteriormente le capacità tattiche assieme ai militari di un altro Stato e a promuovere la cooperazione militare tra la Svizzera e la Francia.</lead>
+      <text link="no">&lt;p&gt;Nel quadro dell’intensificazione della cooperazione con altri Stati europei, dall’8 al 12 luglio 2024 avrà luogo a Payerne una visita di lavoro comprendente un allenamento congiunto e uno scambio di esperienze con militari francesi alla guida di elicotteri del tipo Cougar e Tiger.&lt;/p&gt;&lt;h2&gt;Gli allenamenti congiunti rafforzano la capacità di difesa&lt;/h2&gt;&lt;p&gt;All’esercizio parteciperanno elicotteri delle Forze aeree svizzere con a bordo complessivamente una decina di militari. L’allenamento è organizzato dalle Forze aeree svizzere e offre ai partecipanti la possibilità di sviluppare ulteriormente, in particolare, le capacità necessarie per operazioni congiunte.&lt;br /&gt;&lt;br /&gt;Lo scambio di conoscenze e procedure consente agli Stati partner di incrementare la propria efficienza e prontezza all’impiego. Le unità di elicotteri dell’aviazione leggera delle forze terrestri francese avranno inoltre la possibilità di esercitarsi nel volo in alta montagna.&lt;/p&gt;</text>
       <contact>Stefan Hofer Portavoce dell’esercito +41 58 463 37 41</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-09 12:01" type="R"/>
+      </revisions>
     </content>
     <topics>
       <topic id="3">
