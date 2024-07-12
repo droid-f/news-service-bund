@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="101823" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-07-11</pubdate>
     <blocking-period>2024-07-10</blocking-period>
     <type>Memorandum</type>
@@ -38,68 +38,98 @@
       <city>Bern</city>
       <title>Ausbreitung des Japankäfers: Diesen Sommer ist Vorsicht geboten</title>
       <lead>Der Japankäfer wurde in der Schweiz erstmals 2017 im Kanton Tessin gesichtet und hat sich inzwischen weiterverbreitet. Dieser Käfer kann insbesondere in der Landwirtschaft erhebliche Schäden anrichten, indem er ganze Ernten zerstört. Daher ruft das Bundesamt für Landwirtschaft (BLW) die Bevölkerung diesen Sommer zur Vorsicht auf. Denn der Japankäfer könnte unbemerkt in Autos und Züge gelangen, dort als blinder Passagier grosse Strecken zurücklegen und in weiteren Regionen der Schweiz Schaden anrichten.</lead>
-      <text link="no">&lt;p&gt;Der Japankäfer gelangte 2017 von Norditalien über den Kanton Tessin in die Schweiz. Auch im Wallis schaffte er seitdem den Sprung über die schweizerisch-italienische Grenze und ist dort südlich der Alpen im Simplongebiet anzutreffen. Später wurden an weiteren Orten zwei isolierte Populationen (sog. Befallsherde) entdeckt: 2023 im Kanton Zürich sowie jüngst bei Basel. Der ausgesprochen gefrässige Käfer ernährt sich von über 400 Pflanzenarten (u. a. Weinrebe, Mais, Apfel, Tomate, Erdbeere) und ist eine grosse Gefahr für die Landwirtschaft, den produzierenden Gartenbau und die Umwelt.&lt;/p&gt;&lt;p&gt;Der ausgewachsene Japankäfer ist so gross wie ein Fünfrappenstück. Seine Flugzeit geht von Juni bis Anfang September. Es besteht die Gefahr, dass er sich in anderen Regionen ausbreitet, wenn er bei der Ferienrückkehr aus den befallenen Gebieten in der Schweiz oder in Norditalien unbemerkt per Zug oder Auto eingeschleppt wird. Deshalb sollten Sie Ihre Gepäckstücke und Fahrzeuge sorgfältig kontrollieren. Falls Sie einen verdächtigen Käfer entdecken, fangen Sie ihn sofort ein und melden Sie ihn dem zuständigen kantonalen Pflanzenschutzdienst. Der Japankäfer ist leicht mit bestimmten heimischen Arten wie dem Junikäfer und dem Gartenlaubkäfer zu verwechseln. Daher ist es wichtig, sie voneinander unterscheiden zu können.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Erkennungsmerkmale des Japankäfers:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ausgewachsene Käfer sind 10‒12 mm lang und haben einen grün-metallisch schimmernden Körper mit kupferfarbenen Flügeldecken, die den Hinterleib nicht vollständig bedecken.&lt;/li&gt;&lt;li&gt;An jeder Seite des Hinterleibs sind fünf weisse Haarbüschel zu erkennen. Zwei weitere breitere Haarbüschel befinden sich zuhinterst am Hinterleib.&lt;/li&gt;&lt;li&gt;Eier, Larven und Puppen leben im Boden und sind daher schwieriger zu sichten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Vorgehen bei Verdacht:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fangen Sie den Käfer ein und lassen Sie ihn nicht wieder frei. Prüfen Sie, ob die weissen Haarbüschel auf beiden Seiten des Hinterleibs vorhanden sind.&lt;/li&gt;&lt;li&gt;Machen Sie, wenn möglich, ein Foto des Käfers, notieren Sie den genauen Standort und allenfalls den Namen der Pflanze, auf der er gesichtet wurde. Frieren Sie den Käfer ein.&lt;/li&gt;&lt;li&gt;Kontaktieren Sie so rasch wie möglich den Pflanzenschutzdienst Ihres Kantons (Telefonnummern siehe Flyer). &lt;/li&gt;&lt;/ul&gt; </text>
+      <text link="no">&lt;p&gt;Der Japankäfer gelangte 2017 von Norditalien über den Kanton Tessin in die Schweiz. Auch im Wallis schaffte er seitdem den Sprung über die schweizerisch-italienische Grenze und ist dort südlich der Alpen im Simplongebiet anzutreffen. Später wurden an weiteren Orten zwei isolierte Populationen (sog. Befallsherde) entdeckt: 2023 im Kanton Zürich sowie jüngst bei Basel. Der ausgesprochen gefrässige Käfer ernährt sich von über 400 Pflanzenarten (u. a. Weinrebe, Mais, Apfel, Tomate, Erdbeere) und ist eine grosse Gefahr für die Landwirtschaft, den produzierenden Gartenbau und die Umwelt.&lt;/p&gt;&lt;p&gt;Der ausgewachsene Japankäfer ist so gross wie ein Fünfrappenstück. Seine Flugzeit geht von Juni bis Anfang September. Es besteht die Gefahr, dass er sich in anderen Regionen ausbreitet, wenn er bei der Ferienrückkehr aus den befallenen Gebieten in der Schweiz oder in Norditalien unbemerkt per Zug oder Auto eingeschleppt wird. Deshalb sollten Sie Ihre Gepäckstücke und Fahrzeuge sorgfältig kontrollieren. Falls Sie einen verdächtigen Käfer entdecken, fangen Sie ihn sofort ein und melden Sie ihn dem zuständigen kantonalen Pflanzenschutzdienst. Der Japankäfer ist leicht mit bestimmten heimischen Arten wie dem Junikäfer und dem Gartenlaubkäfer zu verwechseln. Daher ist es wichtig, sie voneinander unterscheiden zu können.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Erkennungsmerkmale des Japankäfers:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ausgewachsene Käfer sind 10‒12 mm lang und haben einen grün-metallisch schimmernden Körper mit kupferfarbenen Flügeldecken, die den Hinterleib nicht vollständig bedecken.&lt;/li&gt;&lt;li&gt;An jeder Seite des Hinterleibs sind fünf weisse Haarbüschel zu erkennen. Zwei weitere breitere Haarbüschel befinden sich zuhinterst am Hinterleib.&lt;/li&gt;&lt;li&gt;Eier, Larven und Puppen leben im Boden und sind daher schwieriger zu sichten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Vorgehen bei Verdacht:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fangen Sie den Käfer ein und lassen Sie ihn nicht wieder frei. Prüfen Sie, ob die weissen Haarbüschel auf beiden Seiten des Hinterleibs vorhanden sind.&lt;/li&gt;&lt;li&gt;Machen Sie, wenn möglich, ein Foto des Käfers, notieren Sie den genauen Standort und allenfalls den Namen der Pflanze, auf der er gesichtet wurde. Frieren Sie den Käfer ein.&lt;/li&gt;&lt;li&gt;Kontaktieren Sie so rasch wie möglich den Pflanzenschutzdienst Ihres Kantons (Telefonnummern siehe Flyer).&lt;/li&gt;&lt;/ul&gt; </text>
       <contact>Florie Marion, BLW, Fachbereich Kommunikation und Sprachdienste, Tel. +41 58 461 14 41 Hugo Wyler, BLW, Fachbereich Kommunikation und Sprachdienste, Tel. + 41 58 483 92 78</contact>
-      <attachment id="277022">
+      <attachment id="277071">
         <title>Bild: © Maurizio Pavesi, Museo di Storia Naturale di Milano (IT)</title>
         <format>png</format>
         <size-kb>582</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/88742.png</uri>
         <position>Context</position>
       </attachment>
-      <link id="277026">
+      <link id="277072">
         <title>Flyer und Website</title>
         <uri>https://www.blw.admin.ch/blw/de/home/nachhaltige-produktion/Pflanzengesundheit/schaedlingeundkrankheiten/quarantaeneorganismen/popillia_japonica.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-12 08:59" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Propagation du scarabée japonais : la vigilance est de mise pour cet été</title>
       <lead>Le scarabée japonais a été observé pour la première fois en Suisse en 2017 dans le canton du Tessin. Cet insecte nuisible peut causer de graves dommages, surtout agricoles, en détruisant des récoltes entières. Cet été, l’Office fédéral de l’agriculture (OFAG) appelle la population à la vigilance. En effet, le scarabée japonais pourrait se glisser clandestinement à bord de voitures et de trains et couvrir ainsi de grandes distances avant de s’attaquer à d’autres régions du pays.</lead>
-      <text link="no">&lt;p&gt;Le scarabée japonais est arrivé en Suisse en 2017 par le canton du Tessin. Depuis 2023, il a été retrouvé en petit nombre dans le canton du Valais. Par la suite deux petites populations isolées ont été observées dans le canton de Zürich en 2023, puis Bâle en juin 2024. Ce coléoptère très vorace se nourrit de plus de 400 espèces végétales (vigne, maïs, pommier, tomate, fraise, etc.) et constitue un grave danger pour l’agriculture, l’horticulture productrice et l’environnement.&lt;/p&gt; &lt;p&gt;Le scarabée japonais adulte a la taille d’une pièce de cinq centimes et vole de juin à début septembre. Il y a donc tout lieu de craindre qu’il se propage dans d’autres régions en se déplaçant avec les vacanciers rentrant en train ou en voiture des régions infestées de Suisse ou du nord de l’Italie. Il est en conséquence crucial de passer au crible vos bagages et votre véhicule. Si vous découvrez un coléoptère suspect, capturez-le immédiatement pour le signaler au service phytosanitaire de votre canton. Le scarabée japonais peut être confondu avec certaines espèces de coléoptères indigènes, comme le hanneton de la Saint-Jean ou le hanneton des jardins ; il importe donc de connaître ce qui l’en différencie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Signes distinctifs :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;L’adulte mesure de 10 à 12 mm de longueur ; le corps est vert métallique, en partie couvert par des ailes rigides brunes.&lt;/li&gt;&lt;li&gt;L’abdomen porte sur chaque côté cinq touffes caractéristiques de poils blancs, et deux autres touffes plus allongées à son extrémité postérieure.&lt;/li&gt;&lt;li&gt;Les œufs, les larves et les pupes vivent dans le sol et sont donc plus difficiles à voir. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Que faire si vous découvrez un coléoptère suspect ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Capturez l’animal et ne le relâchez pas. Contrôlez la présence des touffes de poils des deux côtés de l’abdomen.&lt;/li&gt;&lt;li&gt;Si possible, photographiez-le et notez l’endroit exact ainsi que le nom de la plante où vous l’avez découvert. Congelez l’insecte.&lt;/li&gt;&lt;li&gt;Veuillez contacter dès que possible le service phytosanitaire de votre canton (numéros de téléphone : cf. dépliant). &lt;/li&gt;&lt;/ul&gt;</text>
-      <contact>Florie Marion, OFAG, secteur Communication et services linguistiques, tél. +41 58 461 14 41 Hugo Wyler, OFAG, secteur Communication et services linguistiques, tél. + 41 58 483 92 78</contact>
-      <attachment id="277022">
+      <text link="no">&lt;p&gt;Le scarabée japonais est arrivé en Suisse en 2017 depuis le nord de l'Italie en passant par le canton du Tessin. Depuis, il a également réussi à franchir la frontière italo-suisse en Valais, où il est présent au sud des Alpes dans la région du Simplon. Par la suite deux petites populations isolées ont été observées dans le canton de Zürich en 2023, puis Bâle en juin 2024. Ce coléoptère très vorace se nourrit de plus de 400 espèces végétales (vigne, maïs, pommier, tomate, fraise, etc.) et constitue un grave danger pour l’agriculture, l’horticulture productrice et l’environnement.&lt;/p&gt; &lt;p&gt;Le scarabée japonais adulte a la taille d’une pièce de cinq centimes et vole de juin à début septembre. Il y a donc tout lieu de craindre qu’il se propage dans d’autres régions en se déplaçant avec les vacanciers rentrant en train ou en voiture des régions infestées de Suisse ou du nord de l’Italie. Il est en conséquence crucial de passer au crible vos bagages et votre véhicule. Si vous découvrez un coléoptère suspect, capturez-le immédiatement pour le signaler au service phytosanitaire de votre canton. Le scarabée japonais peut être confondu avec certaines espèces de coléoptères indigènes, comme le hanneton de la Saint-Jean ou le hanneton des jardins ; il importe donc de connaître ce qui l’en différencie.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Signes distinctifs :&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;L’adulte mesure de 10 à 12 mm de longueur ; le corps est vert métallique, en partie couvert par des ailes rigides brunes.&lt;/li&gt;&lt;li&gt;L’abdomen porte sur chaque côté cinq touffes caractéristiques de poils blancs, et deux autres touffes plus allongées à son extrémité postérieure.&lt;/li&gt;&lt;li&gt;Les œufs, les larves et les pupes vivent dans le sol et sont donc plus difficiles à voir. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Que faire si vous découvrez un coléoptère suspect ?&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Capturez l’animal et ne le relâchez pas. Contrôlez la présence des touffes de poils des deux côtés de l’abdomen.&lt;/li&gt;&lt;li&gt;Si possible, photographiez-le et notez l’endroit exact ainsi que le nom de la plante où vous l’avez découvert. Congelez l’insecte.&lt;/li&gt;&lt;li&gt;Veuillez contacter dès que possible le service phytosanitaire de votre canton (numéros de téléphone : cf. dépliant). &lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Florie Marion, OFAG, secteur Communication et services linguistiques, tél. +41 58 461 14 41 Hugo Wyler, OFAG, secteur Communication et services linguistiques, tél. +41 58 483 92 78</contact>
+      <attachment id="277071">
         <title>Bild: © Maurizio Pavesi, Museo di Storia Naturale di Milano (IT)</title>
         <format>png</format>
         <size-kb>582</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/88742.png</uri>
         <position>Context</position>
       </attachment>
-      <link id="277027">
+      <link id="277073">
         <title>Flyer und Site internet</title>
         <uri>https://www.blw.admin.ch/blw/fr/home/nachhaltige-produktion/Pflanzengesundheit/schaedlingeundkrankheiten/quarantaeneorganismen/popillia_japonica.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-12 08:59" type="I"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
       <title>Diffusione del coleottero giapponese: quest’estate la vigilanza è d’obbligo</title>
-      <lead>Il coleottero giapponese è stato osservato in Svizzera per la prima volta nel 2017 nel Cantone Ticino e nel frattempo si è diffuso ulteriormente. L’insetto può causare ingenti danni, soprattutto in agricoltura, arrivando a distruggere interi raccolti. Pertanto quest’estate l'Ufficio federale dell'agricoltura (UFAG) invita la popolazione a essere vigile. Infatti il coleottero giapponese può copri-re lunghe distanze nascondendosi a bordo di auto e treni e mettere così in pe-ricolo altre regioni della Svizzera.</lead>
-      <text link="no">Popillia japonica è un piccolo coleottero originario del Giappone estremamente vorace che si nutre di oltre 400 piante (vite, mais, meli, pomodori, fragole, ecc.) e rappresenta una grave minaccia per l'agricoltura, l'ortoflorovivaismo esercitato a titolo professionale e l’ambiente. Dall’Italia settentrionale i primi individui hanno raggiunto la Svizzera nel 2017 attraverso il Cantone Ticino. Anche in Vallese il coleottero giapponese ha varcato la frontiera italo-svizzera e si è insediato a Sud delle Alpi, nella regione del Sempione. In seguito sono state scoperte due popolazioni isolate (cosiddetti focolai d’infestazione) in altre località, segnatamente nel Cantone di Zurigo nel 2023 e recentemente presso Basilea. Il periodo di volo del coleottero giapponese adulto, grande quanto una moneta da 5 centesimi, va da giugno a inizio settembre. Intrufolandosi nelle automobili o nelle car-rozze dei treni che riportano a casa i vacanzieri che hanno soggiornato nelle zone in-festate della Svizzera o dell’Italia settentrionale, vi è il rischio che venga inavvertita-mente introdotto in altre regioni. È quindi fondamentale controllare accuratamente i bagagli e i veicoli per rilevarne l’eventuale presenza. Chiunque trovi un esemplare so-spetto deve catturarlo immediatamente e segnalarlo al servizio fitosanitario cantonale competente. Il coleottero giapponese può essere facilmente confuso con specie autoc-tone come il maggiolino e il maggiolino degli orti, quindi è importante conoscerne le differenze. Come si riconosce il coleottero giapponese? - I coleotteri adulti sono lunghi 10-12 mm e hanno un corpo color verde me-tallizzato, in parte coperto da ali brune. - Su ciascun lato dell’addome si notano cinque ciuffi bianchi e altri due ciuffi dello stesso colore ma più grandi si trovano sulla parte posteriore del corpo dell’insetto. - Uova, larve e pupe vivono nel terreno e quindi sono più difficili da vedere. Cosa fare in caso di sospetta presenza del coleottero giapponese? - Catturare il coleottero e non lasciarlo scappare. Verificare se sono presenti dei ciuffi bianchi su entrambi i lati dell’addome. - Se possibile, fotografare il coleottero, annotare la posizione esatta e il nome della pianta ospite sulla quale è stato avvistato. Mettere il coleottero nel congelatore. - Contattare il più rapidamente possibile il servizio fitosanitario cantonale (re-capiti telefonici nel flyer). </text>
+      <lead>Il coleottero giapponese è stato osservato in Svizzera per la prima volta nel 2017 nel Cantone Ticino e nel frattempo si è diffuso ulteriormente. L’insetto può causare ingenti danni, soprattutto in agricoltura, arrivando a distruggere interi raccolti. Pertanto quest’estate l'Ufficio federale dell'agricoltura (UFAG) invita la popolazione a essere vigile. Infatti il coleottero giapponese può coprire lunghe distanze nascondendosi a bordo di auto e treni e mettere così in pericolo altre regioni della Svizzera.</lead>
+      <text link="no"> &lt;p&gt;&lt;i&gt;Popillia japonica&lt;/i&gt; è un piccolo coleottero originario del Giappone estremamente vorace che si nutre di oltre 400 piante (vite, mais, meli, pomodori, fragole, ecc.) e rappresenta una grave minaccia per l'agricoltura, l'ortoflorovivaismo esercitato a titolo professionale e l'ambiente. Dall'Italia settentrionale i primi individui hanno raggiunto la Svizzera nel 2017 attraverso il Cantone Ticino. Anche in Vallese il coleottero giapponese ha varcato la frontiera italo-svizzera e si è insediato a Sud delle Alpi, nella regione del Sempione. In seguito sono state scoperte due popolazioni isolate (cosiddetti focolai d'infestazione) in altre località, segnatamente nel Cantone di Zurigo nel 2023 e recentemente presso Basilea. &lt;/p&gt; &lt;p&gt;Il periodo di volo del coleottero giapponese adulto, grande quanto una moneta da 5 centesimi, va da giugno a inizio settembre. Intrufolandosi nelle automobili o nelle carrozze dei treni che riportano a casa i vacanzieri che hanno soggiornato nelle zone infestate della Svizzera o dell'Italia settentrionale, vi è il rischio che venga inavvertitamente introdotto in altre regioni. È quindi fondamentale controllare accuratamente i bagagli e i veicoli per rilevarne l'eventuale presenza. Chiunque trovi un esemplare sospetto deve catturarlo immediatamente e segnalarlo al servizio fitosanitario cantonale competente. Il coleottero giapponese può essere facilmente confuso con specie autoctone come il maggiolino e il maggiolino degli orti, quindi è importante conoscerne le differenze.&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Come si riconosce il coleottero giapponese?&lt;/b&gt;&lt;/p&gt; &lt;ul&gt;&lt;li&gt;I coleotteri adulti sono lunghi 10-12 mm e hanno un corpo color verde metallizzato, in parte coperto da ali brune. &lt;/li&gt;&lt;li&gt; Su ciascun lato dell'addome si notano cinque ciuffi bianchi e altri due ciuffi dello stesso colore ma più grandi si trovano sulla parte posteriore del corpo dell'insetto. &lt;/li&gt;&lt;li&gt; Uova, larve e pupe vivono nel terreno e quindi sono più difficili da vedere. &lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Cosa fare in caso di sospetta presenza del coleottero giapponese?&lt;/b&gt;&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Catturare il coleottero e non lasciarlo scappare. Verificare se sono presenti dei ciuffi bianchi su entrambi i lati dell'addome.&lt;/li&gt;&lt;li&gt; Se possibile, fotografare il coleottero, annotare la posizione esatta e il nome della pianta ospite sulla quale è stato avvistato. Mettere il coleottero nel congelatore.&lt;/li&gt;&lt;li&gt; Contattare il più rapidamente possibile il servizio fitosanitario cantonale (recapiti telefonici nel flyer).&lt;/li&gt;&lt;/ul&gt; </text>
       <contact>Florie Marion, Settore Comunicazione e servizi linguistici, tel. +41 58 461 14 41 Hugo Wyler, Settore Comunicazione e servizi linguistici, tel. + 41 58 483 92 78</contact>
-      <attachment id="277022">
+      <attachment id="277071">
         <title>Bild: © Maurizio Pavesi, Museo di Storia Naturale di Milano (IT)</title>
         <format>png</format>
         <size-kb>582</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/88742.png</uri>
         <position>Context</position>
       </attachment>
-      <link id="277028">
+      <link id="277074">
         <title>Flyer und Sito Web</title>
         <uri>https://www.blw.admin.ch/blw/it/home/nachhaltige-produktion/Pflanzengesundheit/schaedlingeundkrankheiten/quarantaeneorganismen/popillia_japonica.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-12 08:59" type="R"/>
+      </revisions>
     </content>
     <topics>
+      <topic id="2">
+        <name lang="de">Arbeit</name>
+        <name lang="fr">Travail</name>
+        <name lang="it">Lavoro</name>
+        <name lang="en">Labour</name>
+      </topic>
+      <topic id="30">
+        <name lang="de">Ausserordentliche Lagen</name>
+        <name lang="fr">Situations extraordinaires</name>
+        <name lang="it">Situazioni straordinarie</name>
+        <name lang="en">Special Situations</name>
+      </topic>
       <topic id="38">
         <name lang="de">Landwirtschaft</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
         <name lang="en">Agriculture</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="en">Switzerland and Foreign Affairs</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="en">Economic Affairs</name>
       </topic>
     </topics>
   </message>
