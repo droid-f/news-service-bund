@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="101915" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2024-07-25</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="806" lead="yes" topnews="no">
@@ -36,54 +36,62 @@
     <content lang="de">
       <city>Bern</city>
       <title>#DrohneSicherFliegen: Das BAZL klärt auf</title>
-      <lead>Über 80 000 registrierte Drohnen zählt die Schweiz; Tendenz steigend. Wo darf ich meine Drohne fliegen? Wo nicht? Das Bundesamt für Zivilluftfahrt (BAZL) lanciert die Kampagne #DrohneSicherFliegen. Das Ziel: Drohnenpilotinnen und -piloten an die geltenden Regeln erinnern und über Gefahren aufklären.</lead>
+      <lead>Über 80 000 registrierte Drohnenbetreiber zählt die Schweiz; Tendenz steigend. Wo darf ich meine Drohne fliegen? Wo nicht? Das Bundesamt für Zivilluftfahrt (BAZL) lanciert die Kampagne #DrohneSicherFliegen. Das Ziel: Drohnenpilotinnen und -piloten an die geltenden Regeln erinnern und über Gefahren aufklären.</lead>
       <text link="no"> &lt;p&gt;Menschen retten, Medikamente transportieren, Salat vor Pilzkrankheiten schützen, Rehkitze sichten, Hochzeitsfotos schiessen und, und, und – die Zahl der Drohnenoperationen nahm in den letzten Jahren stark zu. Gleichzeitig steigt die Anzahl unerlaubter Drohnenflüge. Das BAZL verzeichnet immer mehr Meldungen der Polizei und Heliports.&lt;/p&gt; &lt;p&gt;Nicht erlaubtes Fliegen mit Drohnen gefährdet die Sicherheit am Boden und in der Luft.&lt;/p&gt; &lt;p&gt;#DrohneSicherFliegen heisst die Informationskampagne des BAZL. Sie startet jetzt. Mit einprägsamen Sprüchen wie «Ich kam, ich sah, ich flog anderswo» verweist das BAZL auf die geltenden Drohnenregeln. Um das Sicherheitsniveau gezielt zu verbessern, fokussiert die Kampagne auf wiederkehrende Szenarien wie das Überfliegen von Menschenansammlungen, Fliegen nahe eines Heliports, über Naturschutzgebieten, Sportanlässen, Festivals.&lt;/p&gt; &lt;p&gt;Auf der Homepage, in den Social Media und auf Plakaten streut das BAZL die Informationen. Und setzt auf Zusammenarbeit: Kantone, Gemeinden, Vereine, Organisatoren von Sportevents, das Gast- und Tourismusgewerbe helfen mit, die Botschaften zu verbreiten.&lt;/p&gt; </text>
       <contact>Für Medienschaffende: Kommunikation BAZL Telefon: +41 58 464 23 35</contact>
-      <link id="277346">
+      <link id="277397">
         <title>#FlyDronesSafely auf BAZL website</title>
         <uri>https://www.bazl.admin.ch/drohnenkampagne</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-30 12:26" type="I"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>#UtiliserSonDroneEnTouteSécurité : l’OFAC fait campagne</title>
-      <lead>Les drones ont le vent en poupe : plus de 80 000 appareils de ce type sont déjà enregistrés en Suisse. Où a-t-on le droit de les faire voler ? Où est-ce interdit ? Afin de rappeler aux télépilotes les règles en vigueur et de les sensibiliser aux dangers que comporte l’exploitation des drones, l’Office fédéral de l’aviation civile (OFAC) lance la campagne #UtiliserSonDroneEnTouteSécurité.</lead>
+      <lead>Les drones ont le vent en poupe : plus de 80 000 opérateurs se sont déjà enregistrés en Suisse. Où ont-ils le droit de faire voler leurs appareils ? Où est-ce interdit ? Afin de rappeler aux télépilotes les règles en vigueur et de les sensibiliser aux dangers que comporte l’exploitation des drones, l’Office fédéral de l’aviation civile (OFAC) lance la campagne #UtiliserSonDroneEnTouteSécurité.</lead>
       <text link="no"> &lt;p&gt;Au fil des ans, usages des drones se sont fortement diversifiés. Aujourd’hui, ils servent à sauver des vies, à transporter des médicaments, à traiter les cultures contre les maladies fongiques, à repérer les faons, à immortaliser des mariages, pour ne citer que les usages les plus courants. Revers de la médaille, on constate une recrudescence des drones en infraction comme en témoignent les avis notifiés par la police et les héliports à l’OFAC.&lt;/p&gt; &lt;p&gt;Ces vols mettent en péril la sécurité sol et la sécurité air.&lt;/p&gt; &lt;p&gt;Ce constat a amené l’OFAC à lancer une campagne de sensibilisation #UtiliserSonDroneEnTouteSécurité qui démarre ces jours. À l’aide de slogans accrocheurs comme « Veni, vidi et non fairum volare mon drone », l’OFAC en appelle au respect des règles applicables aux exploitations de drones. La campagne cible des situations récurrentes comme le survol de rassemblements de personnes, de réserves naturelles, de manifestations sportives, de festivals de musique ou encore le vol à proximité d’un héliport.&lt;/p&gt; &lt;p&gt;L’Internet, les médias sociaux et un jeu d’affiches servent de support à la campagne. L’OFAC mise également sur la collaboration des cantons, des communes, des associations, des organisateurs de manifestations sportives et du secteur du tourisme et de l’hôtellerie pour faire passer le message.&lt;/p&gt; </text>
       <contact>Pour les professionnels des médias: Communication OFAC Téléphone: +41 58 464 72 87</contact>
-      <link id="277348">
+      <link id="277399">
         <title>#UtiliserSonDroneEnTouteSécurité sur le site web de l'OFAC</title>
         <uri>https://www.bazl.admin.ch/campagne-drones</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-30 12:26" type="I"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
       <title>#PilotareDroniInSicurezza: l’UFAC fa chiarezza</title>
-      <lead>In Svizzera risultano registrati oltre 80 000 droni e la tendenza è in aumento. Dove posso far volare il mio drone? dove non è consentito? L’Ufficio federale dell’aviazione civile (UFAC) lancia la campagna #PilotareDroniInSicurezza. L’obiettivo è ricordare ai piloti di droni le regole in vigore e informarli dei pericoli.</lead>
+      <lead>In Svizzera risultano registrati oltre 80 000 operatori di droni e la tendenza è in aumento. Dove possono far volare il proprio drone? dove non è consentito? L’Ufficio federale dell’aviazione civile (UFAC) lancia la campagna #PilotareDroniInSicurezza. L’obiettivo è ricordare ai piloti di droni le regole in vigore e informarli dei pericoli.</lead>
       <text link="no"> &lt;p&gt;Soccorrere persone, trasportare medicinali, proteggere la lattuga dalle malattie fungine, avvistare cerbiatti, scattare le foto di un matrimonio e tanto altro: l’utilizzo dei droni è notevolmente aumentato negli ultimi anni. Allo stesso tempo è in aumento anche il numero di voli non autorizzati con questo tipo di apparecchio. L’UFAC riceve infatti sempre più segnalazioni della polizia e degli eliporti.&lt;/p&gt; &lt;p&gt;L’utilizzo non autorizzato dei droni mette a rischio la sicurezza a terra e in aria.&lt;/p&gt; &lt;p&gt;#PilotareDroniInSicurezza è il nome della campagna informativa dell’UFAC che è appena iniziata. Con slogan accattivanti come «Vengo, vedo e volo via» l’UFAC ricorda le regole in vigore per l’utilizzo dei droni. Per migliorare in modo mirato il livello di sicurezza, la campagna si concentra su situazioni ricorrenti, quali il sorvolo di assembramenti di persone, il volo in prossimità degli eliporti e il sorvolo di riserve naturali o di luoghi in cui si svolgono eventi sportivi e festival.&lt;/p&gt; &lt;p&gt;L’UFAC informa attraverso la sua homepage, i social media e appositi manifesti e conta sulla collaborazione di Cantoni, Comuni, associazioni, organizzatori di eventi sportivi e del settore dell’ospitalità e del turismo per diffondere il messaggio.&lt;/p&gt; </text>
       <contact>Per gli operatori dei media: Comunicazione UFAC Telefono: +41 58 464 72 87</contact>
-      <link id="277349">
+      <link id="277400">
         <title>#PilotareDroniInSicurezza sul sito web dell'UFAC</title>
         <uri>https://www.bazl.admin.ch/campagna-droni</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-30 12:26" type="I"/>
+      </revisions>
     </content>
     <content lang="en">
       <city>Bern</city>
       <title>#FlyDronesSafely: FOCA information campaign</title>
-      <lead>Switzerland has over 80,000 registered drones and the number is growing all the time. Where can I fly my drone? And where not? The Federal Office of Civil Aviation (FOCA) is today launching its #FlyDronesSafely campaign to remind drone pilots of the rules and raise awareness of the dangers.</lead>
+      <lead>Switzerland has over 80,000 registered drone operators and the number is growing all the time. Where can I fly my drone? And where not? The Federal Office of Civil Aviation (FOCA) is today launching its #FlyDronesSafely campaign to remind drone pilots of the rules and raise awareness of the dangers.</lead>
       <text link="no"> &lt;p&gt;The number of drone flights has increased dramatically in recent years. Drones are now being used for everything from rescue missions and delivering medical supplies to spraying fungicides on lettuce fields, detecting the presence of fawns and taking wedding photos. At the same time, the FOCA is also receiving a growing number of police and heliport reports of unauthorised drone operations.&lt;/p&gt; &lt;p&gt;Unauthorised drone flights pose a safety risk, both on the ground and in the air.&lt;/p&gt; &lt;p&gt;The FOCA is today launching the information campaign #FlyDronesSafely to raise awareness of the rules, using slogans like 'I came, I saw, I flew elsewhere'. The campaign aims to improve safety in specific areas by focusing on common scenarios such as flying over crowds of people, in the vicinity of heliports, and over nature reserves, sports events and festivals.&lt;/p&gt; &lt;p&gt;The FOCA is sharing this information on its website, in social media and on posters. It is also counting on the participation of the cantons, communes, associations, sports event organisers and the hospitality and tourism sector to help spread the message.&lt;/p&gt; </text>
       <contact>Media contacts: Communications FOCA, Telephone +41 58 464 23 35</contact>
-      <link id="277347">
+      <link id="277398">
         <title>#FlyDronesSafely on FOCA website</title>
         <uri>https://www.bazl.admin.ch/drones-campaign</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-07-30 12:26" type="I"/>
+      </revisions>
     </content>
     <offers>
       <offer id="221" org-id="806">
