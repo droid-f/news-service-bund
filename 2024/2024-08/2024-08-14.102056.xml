@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="401" lead="no" topnews="no">
-      <department-id>401</department-id>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">http://www.ejpd.admin.ch</www>
-      <www lang="fr">http://www.ejpd.admin.ch</www>
-      <www lang="it">http://www.ejpd.admin.ch</www>
-      <www lang="en">http://www.ejpd.admin.ch</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">Info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="405" lead="no" topnews="no">
       <department-id>401</department-id>
       <name lang="de">Staatssekretariat für Migration</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@sem.admin.ch</email>
       <email lang="it">info@sem.admin.ch</email>
       <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="401" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -472,25 +472,25 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="8" org-id="405">
+      <keyword id="8" org-id="401">
         <name lang="de">Asyl</name>
         <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="en">Asylum</name>
       </keyword>
-      <keyword id="72" org-id="405">
+      <keyword id="72" org-id="401">
         <name lang="de">Migrationspolitik international</name>
         <name lang="fr">Politique migratoire internationale</name>
         <name lang="it">Politica migratoria internazionale</name>
         <name lang="en">International politics of migration</name>
       </keyword>
-      <keyword id="55" org-id="405">
+      <keyword id="55" org-id="401">
         <name lang="de">Illegale Migration</name>
         <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
         <name lang="en">Illegal migration</name>
       </keyword>
-      <keyword id="123" org-id="405">
+      <keyword id="123" org-id="401">
         <name lang="de">Zusammenarbeit</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
