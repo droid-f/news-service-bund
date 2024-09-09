@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="319" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Bundesamt für Sozialversicherungen</name>
-      <name lang="fr">Office fédéral des assurances sociales</name>
-      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
-      <name lang="en">Federal Social Insurance Office</name>
-      <www lang="de">http://www.bsv.admin.ch</www>
-      <www lang="fr">http://www.ofas.admin.ch</www>
-      <www lang="it">http://www.ufas.admin.ch</www>
-      <www lang="en">http://www.bsv.admin.ch</www>
-      <email lang="de"/>
-      <email lang="fr"/>
-      <email lang="it"/>
-      <email lang="en"/>
-    </originator>
     <originator department-msg="no" id="301" lead="no" topnews="no">
       <department-id>301</department-id>
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="319" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
