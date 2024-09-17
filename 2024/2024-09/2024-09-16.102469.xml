@@ -19,6 +19,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
     <department id="201">
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
@@ -32,6 +47,20 @@
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -145,6 +174,20 @@
       </link>
       <revisions> </revisions>
     </content>
+    <keywords>
+      <keyword id="5330" org-id="502">
+        <name lang="de">Friedensförderung</name>
+        <name lang="fr">Promotion de la paix</name>
+        <name lang="it">Promovimento della pace</name>
+        <name lang="en">peace support</name>
+      </keyword>
+      <keyword id="1011" org-id="502">
+        <name lang="de">Dossier Ukraine</name>
+        <name lang="fr">Dossier Ukraine</name>
+        <name lang="it">Dossier Ucraina</name>
+        <name lang="en">Dossier Ukraine</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
