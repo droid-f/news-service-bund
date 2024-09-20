@@ -20,6 +20,36 @@
       <email lang="it"/>
       <email lang="en"/>
     </originator>
+    <originator department-msg="no" id="701" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1080" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="fr">Secrétariat d'Etat à la formation, à la recherche et à l'innovation</name>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <www lang="de">http://www.sbfi.admin.ch</www>
+      <www lang="fr">http://www.sbfi.admin.ch</www>
+      <www lang="it">http://www.sbfi.admin.ch</www>
+      <www lang="en">http://www.sbfi.admin.ch</www>
+      <email lang="de">info@sbfi.admin.ch</email>
+      <email lang="fr">info@sbfi.admin.ch</email>
+      <email lang="it">info@sbfi.admin.ch</email>
+      <email lang="en">info@sbfi.admin.ch</email>
+    </originator>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
@@ -107,18 +137,6 @@
       <revisions> </revisions>
     </content>
     <topics>
-      <topic id="2">
-        <name lang="de">Arbeit</name>
-        <name lang="fr">Travail</name>
-        <name lang="it">Lavoro</name>
-        <name lang="en">Labour</name>
-      </topic>
-      <topic id="8">
-        <name lang="de">Bildung und Forschung</name>
-        <name lang="fr">Formation et recherche</name>
-        <name lang="it">Formazione e ricerca</name>
-        <name lang="en">Education and Research</name>
-      </topic>
       <topic id="47">
         <name lang="de">Wirtschaft</name>
         <name lang="fr">Économie</name>
