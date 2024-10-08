@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="102538" revoked="no">
-    <version>3</version>
+    <version>4</version>
     <pubdate>2024-09-20</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -53,10 +53,10 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="en">Federal Department of Finance</name>
-      <www lang="de">http://www.efd.admin.ch</www>
-      <www lang="fr">http://www.dff.admin.ch</www>
-      <www lang="it">https://www.efd.admin.ch/efd/it/home.html</www>
-      <www lang="en">https://www.efd.admin.ch/efd/en/home.html</www>
+      <www lang="de">https://www.efd.admin.ch/de</www>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="de">info@gs-efd.admin.ch</email>
       <email lang="fr">info@gs-efd.admin.ch</email>
       <email lang="it">info@gs-efd.admin.ch</email>
@@ -67,117 +67,123 @@
       <title>Bundesrat legt Eckwerte des Entlastungspakets für den Bundeshaushalt fest</title>
       <lead>An seiner Sitzung vom 20. September 2024 hat der Bundesrat festgelegt, welche Entlastungsmassnahmen aus dem Bericht der von ihm eingesetzten Expertengruppe «Ausgaben- und Subventionsüberprüfung» weiterverfolgt werden sollen. Der Bundesrat will hauptsächlich Massnahmen auf der Ausgabenseite ergreifen, er sieht aber auch einnahmenseitige Massnahmen vor. Gleichzeitig berücksichtigt er jüngere Volksentscheide und trägt dem Projekt zur Aufgabenentflechtung mit den Kantonen Rechnung. Voraussichtlich im Januar 2025 soll die Vernehmlassung eröffnet werden.</lead>
       <text link="no">Die Medienmitteilung ist als PDF verfügbar.</text>
-      <contact>Kommunikation EFD Tel. +41 58 458 60 63, kommunikation@gs-efd.admin.ch</contact>
-      <attachment id="279839">
+      <contact>Kommunikation EFD Tel. +41 (0)58 462 60 33, kommunikation@gs-efd.admin.ch</contact>
+      <attachment id="279888">
         <title>Medienmitteilung</title>
         <format>pdf</format>
         <size-kb>192</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89762.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279840">
+      <attachment id="279889">
         <title>Massnahmenliste</title>
         <format>pdf</format>
         <size-kb>81</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89779.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279841">
+      <attachment id="279890">
         <title>Überblick: Bereits geplante Steuererhöhungen und Massnahmen der Ausgaben- und Subventionsüberprüfung</title>
         <format>pdf</format>
         <size-kb>86</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89755.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="279842">
+      <link id="279891">
         <title>Bericht Expertengruppe zur Aufgaben- und Subventionsüberprüfung (Link Medienmitteilung 5.9.2024)</title>
         <uri>https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-102357.html</uri>
         <position>Context</position>
       </link>
-      <link id="279843">
+      <link id="279892">
         <title>Entflechtung 27 (Link Medienmitteilung vom 21.6.2024)</title>
         <uri>https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-101545.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-09-24 10:04" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Le Conseil fédéral fixe les grandes lignes du programme d’allégement des finances fédérales</title>
       <lead>Lors de sa séance du 20 septembre 2024, le Conseil fédéral a défini les mesures d’allégement qu’il entend reprendre du rapport du groupe d’experts chargé du réexamen des tâches et des subventions. Si la plupart des mesures retenues portent sur les dépenses, certaines touchent également les recettes. Le Conseil fédéral s’appuie aussi sur les votations populaires les plus récentes et sur le projet de désenchevêtrement des tâches entre la Confédération et les cantons. La procédure de consultation devrait être ouverte en janvier 2025.</lead>
       <text link="no">&lt;p&gt;Le communiqué est disponible en tant que document pdf.&lt;/p&gt;</text>
-      <contact>Communication DFF Tél. +41 58 458 60 63, kommunikation@gs-efd.admin.ch</contact>
-      <attachment id="279844">
+      <contact>Communication DFF Tél. +41 (0)58 462 60 33, kommunikation@gs-efd.admin.ch</contact>
+      <attachment id="279893">
         <title>Communiqué de presse</title>
         <format>pdf</format>
         <size-kb>189</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89758.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279845">
+      <attachment id="279894">
         <title>Liste des mesures</title>
         <format>pdf</format>
         <size-kb>80</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89780.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279846">
+      <attachment id="279895">
         <title>Aperçu : augmentations d’impôts prévues et mesures découlant du réexamen des tâches et des subventions</title>
         <format>pdf</format>
         <size-kb>80</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89757.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="279847">
+      <link id="279896">
         <title>Rapport du groupe d’experts (« Réexamen 2024 des tâches et des subventions ») (communiqué de presse du 5.9.2024)</title>
         <uri>https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-102357.html</uri>
         <position>Context</position>
       </link>
-      <link id="279848">
+      <link id="279897">
         <title>Désenchevêtrement 27 (communiqué de presse du 21.6.2024)</title>
         <uri>https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-101545.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-09-24 10:04" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
       <title>Il Consiglio federale definisce i valori di riferimento del pacchetto di sgravio per il bilancio della Confederazione</title>
       <lead>Nella seduta del 20 settembre 2024, il Consiglio federale ha determinato quali misure intende perseguire tra quelle proposte nel rapporto «Verifica dei compiti e riesame dei sussidi» dal gruppo di esperti istituito dallo stesso Esecutivo. Si tratta principalmente di provvedimenti sul fronte delle uscite, ma alcune interessano anche le entrate. Il Consiglio federale tiene conto anche delle recenti decisioni del Popolo e del progetto relativo alla dissociazione dei compiti tra Confederazione e Cantoni. La procedura di consultazione sarà presumibilmente avviata a gennaio 2025.</lead>
       <text link="no">&lt;p&gt;Il comunicato stampa è disponibile in formato pdf.&lt;/p&gt;</text>
-      <contact>Comunicazione DFF Tel. +41 58 458 60 63, kommunikation@gs-efd.admin.ch</contact>
-      <attachment id="279849">
+      <contact>Comunicazione DFF Tel. +41 (0)58 462 60 33, kommunikation@gs-efd.admin.ch</contact>
+      <attachment id="279898">
         <title>Comunicato stampa</title>
         <format>pdf</format>
         <size-kb>184</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89759.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279850">
+      <attachment id="279899">
         <title>Elenco delle misure</title>
         <format>pdf</format>
         <size-kb>76</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89781.pdf</uri>
         <position>Context</position>
       </attachment>
-      <attachment id="279851">
+      <attachment id="279900">
         <title>Panoramica: aumenti d’imposta già previsti e misure proposte in seguito alla verifica dei compiti e al riesame dei sussidi</title>
         <format>pdf</format>
         <size-kb>81</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/89761.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="279852">
+      <link id="279901">
         <title>Rapporto gruppo di esperti verifica dei compiti e riesame dei sussidi (link al comunicato stampa del 5.9.2024)</title>
         <uri>https://www.admin.ch/gov/it/pagina-iniziale/documentazione/comunicati-stampa.msg-id-102357.html</uri>
         <position>Context</position>
       </link>
-      <link id="279853">
+      <link id="279902">
         <title>Dissociazione 27 (link al comunicato stampa del 21.6.2024)</title>
         <uri>https://www.admin.ch/gov/it/pagina-iniziale/documentazione/comunicati-stampa.msg-id-101545.html</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-09-24 10:04" type="R"/>
+      </revisions>
     </content>
     <keywords>
       <keyword id="111" org-id="603">
