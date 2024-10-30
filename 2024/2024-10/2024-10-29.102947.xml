@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="102947" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-10-29</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="508" lead="yes" topnews="no">
@@ -33,6 +33,21 @@
       <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
       <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="1100" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Eidgenössische Hochschule für Sport Magglingen EHSM</name>
+      <name lang="fr">Haute école fédérale de sport de Macolin HEFSM</name>
+      <name lang="it">Scuola universitaria federale dello sport di Macolin SUFSM</name>
+      <name lang="en">Eidgenössische Hochschule für Sport Magglingen EHSM</name>
+      <www lang="de">https://www.ehsm.admin.ch/de</www>
+      <www lang="fr">https://www.ehsm.admin.ch/fr</www>
+      <www lang="it">https://www.ehsm.admin.ch/de</www>
+      <www lang="en">https://www.ehsm.admin.ch/de/home.html</www>
+      <email lang="de">ehsm@baspo.admin.ch</email>
+      <email lang="fr">ehsm@baspo.admin.ch</email>
+      <email lang="it">ehsm@baspo.admin.ch</email>
+      <email lang="en">ehsm@baspo.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
