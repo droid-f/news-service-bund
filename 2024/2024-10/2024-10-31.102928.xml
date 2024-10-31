@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="102928" revoked="no">
+    <version>1</version>
+    <pubdate>2024-10-31</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Ein Schritt näher zu Quantentechnologien: Fundamentales Quantenmodell exakt nachgebaut</title>
+      <lead>Quantentechnologien nutzen die ungewöhnlichen Eigenschaften der fundamentalen Bausteine der Materie. Sie versprechen Durchbrüche in der Kommunikation, der Rechenleistung, der Messtechnik und vieles mehr. Doch sind Quantenzustände fragil und deren Effekte schwer zu fassen. Entsprechend herausfordernd gestaltet sich die Forschung an realen Anwendungen. Empa-Forschenden und ihren Partnern ist nun ein Durchbruch gelungen: Sie konnten mit einer Art «Quanten-Lego» ein lange bekanntes theoretisches quantenphysikalisches Modell in einem synthetischen Material exakt nachbauen.</lead>
+      <text link="no"> &lt;p&gt;Die kleinste Informationseinheit in einem Computer ist das Bit: ein oder aus, 1 oder 0. Aus der Verknüpfung und Verschaltung unzähliger Einsen und Nullen setzt sich heute die gesamte Rechenleistung der Menschheit zusammen. Quantencomputer haben ebenfalls eine solche Einheit, das Qubit. Auch dieses hat grundsätzlich zwei mögliche Zustände. Der wesentliche Unterschied: Quanteneffekte erlauben eine Überlagerung (engl. «Superposition») der beiden Zustände, sodass das Qubit nicht entweder 1 oder 0 ist, sondern sowohl als auch. Mit verschiedenen Mischungen von 0 und 1 kann das Qubit theoretisch unendlich viele Zustände annehmen.&lt;/p&gt; &lt;p&gt;Diese Vieldeutigkeit sollte Quantencomputern wahre «Zauberkräfte» verleihen. Zumindest in der Theorie können quantenbasierte Rechner so in Sekundenbruchteilen Berechnungen vornehmen, an denen heutige Supercomputer scheitern. Noch ist das Quantenrechnen aber nicht ausgewachsen. Eine der grossen Herausforderungen ist das Verknüpfen der Qubits miteinander – denn ein (Qu)Bit allein macht noch keinen Computer.&lt;/p&gt; &lt;p&gt;Eine Möglichkeit, die 0 und die 1 des Qubits zu realisieren, ist über die Ausrichtung des sogenannten Elektronenspins. Der Spin ist eine grundlegende quantenmechanische Eigenschaft von Elektronen und anderen Teilchen, eine Art Drehmoment, das, vereinfacht gesagt nach «oben» oder nach «unten» also «up» (1) oder «down» (0) zeigen kann. Sind zwei oder mehr Spins quantenmechanisch verknüpft, beeinflussen sie ihre Zustände gegenseitig: Ändert sich die Ausrichtung des einen, ändern diese sich auch für alle anderen. Eine gute Möglichkeit also, um Qubits miteinander «sprechen» zu lassen. Nur: Wie so vieles in der Quantenphysik, ist diese Sprache, also die Interaktion der Spins untereinander, enorm komplex. Obwohl man sie mathematisch beschreiben kann, lassen sich die einschlägigen Gleichungen selbst für relativ simple Verkettungen weniger Spins kaum noch exakt lösen. Nicht gerade die besten Voraussetzungen dafür, die Theorie in die Praxis zu übertragen ...&lt;/p&gt; &lt;p&gt;&lt;b&gt;Ein Modell wird reell&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Empa-Forschenden aus dem «nanotech@surfaces Laboratory» haben nun eine Methode entwickelt, wie man viele Spins kontrolliert miteinander «sprechen» lassen kann – und ihnen dabei auch noch «zuhören», also ihre Wechselwirkungen nachvollziehen kann. Gemeinsam mit Forschenden der «International Iberian Nanotechnology Laboratory» und der Technischen Universität Dresden konnten sie eine archetypische Verkettung von Elektronenspins exakt nachbauen und deren Eigenschaften detailliert vermessen. Ihre Ergebnisse wurden nun in der renommierten Fachzeitschrift «Nature Nanotechnology» veröffentlicht.&lt;/p&gt; &lt;p&gt;Die Theorie hinter der Verkettung ist allen Physikstudierenden geläufig: Man nehme eine lineare Kette aus Spins, in der jeder Spin mit einem seiner Nachbarn stark wechselwirkt und mit dem anderen schwach. Dieses sogenannte eindimensionale alternierende Heisenberg-Modell wurde vor fast 100 Jahren vom Physiker und späteren Nobelpreisträger Werner Heisenberg, einem der Begründer der Quantenmechanik, beschrieben. Obwohl es Materialien in der Natur gibt, die solche Spinketten enthalten, ist es bisher nicht gelungen, die Ketten gezielt in ein Material einzubauen. «Reelle Materialien sind immer komplexer als ein theoretisches Modell», erklärt Roman Fasel, Leiter des «nanotech@surfaces Laboratory» und Co-Autor der Studie.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Ein «Kelch» aus Kohlenstoff&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Um ein solches künstliches Quantenmaterial oder «artificial quantum matter» herzustellen, griffen die Empa Forschenden deshalb auf winzige Stückchen des zweidimensionalen Kohlenstoff-Materials Graphen zurück. Die Form dieser Nanographen-Moleküle beeinflusst ihre physikalischen Eigenschaften, insbesondere auch ihren Spin – eine Art Nano-Quanten-Legostein, aus denen die Wissenschaftler längere Ketten «zusammenstecken» können.&lt;/p&gt; &lt;p&gt;Für ihr Heisenberg-Modell nutzten die Forschenden das sogenannte Clar's Goblet. Dieses besondere Nanographen-Molekül besteht aus elf Kohlenstoffringen, die in einer Sanduhr-ähnlichen Form angeordnet sind. Aufgrund dieser besonderen Form befindet sich an beiden Enden je ein ungepaartes Elektron – jedes mit einem dazugehörigen Spin. Obwohl schon 1972 vom Chemiker Erich Clar vorhergesagt, konnte das Clar's Goblet erst 2019 durch die Empa-Forschenden des «nanotech@surfaces»-Labors hergestellt werden.&lt;/p&gt;&lt;p&gt;Nun haben die Forschenden die Goblets auf einer Goldoberfläche zu Ketten verknüpft. Die zwei Spins innerhalb eines Moleküls sind dabei schwach miteinander verknüpft, die Spins von Molekül zu Molekül stark – eine perfekte Realisierung der alternierenden Heisenberg-Kette. Die Forschenden konnten die Länge der Ketten präzise manipulieren, einzelne Spins gezielt ein- und ausschalten sowie von einem Zustand in den anderen «drehen» und die komplexe Physik dieses neuartigen Quantenmaterials genauer untersuchen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Aus der Theorie in die Praxis&lt;/b&gt;&lt;/p&gt; &lt;p&gt;So, wie die Synthese von Clar's Goblet die Herstellung von Heisenberg-Ketten ermöglicht hat, wird auch diese Studie ihrerseits neue Tore in der Quantenforschung öffnen, ist Fasel überzeugt. «Wir haben gezeigt, dass sich theoretische Modelle der Quantenphysik mit Nanographenen realisieren lassen und ihre Vorhersagen somit experimentell überprüfbar sind», sagt der Forscher. «Nanographene mit anderen Spin-Konfigurationen lassen sich zu anderen Arten von Ketten oder zu komplexeren Systemen verknüpfen.» Die Empa-Forschenden gehen gleich mit gutem Beispiel voran: In einer zweiten Studie, die kurz vor der Veröffentlichung steht, konnten sie eine andere Art der Heisenberg-Kette nachbauen, bei der alle Spins gleich stark miteinander verknüpft sind.&lt;/p&gt;&lt;p&gt;Um an der vordersten Front der angewandten Quantenphysik mitzuwirken, müssen Theoretiker und Praktiker aus verschiedenen Disziplinen zusammenspannen. Chemiker der Technischen Universität Dresden haben den Empa-Forschenden die Ausgangsmoleküle für ihre Synthese von Clar's Goblets zur Verfügung gestellt. Und Forschende der «International Iberian Nanotechnology Laboratory» in Portugal brachten ihre Expertise in der Theorie ins Projekt ein. Die Theorie, die es für solche Durchbrüche braucht, ist nicht (nur) diejenige, die man in Physikbüchern findet, betont Fasel, sondern eine anspruchsvolle Transferleistung zwischen dem quantenphysikalischen Modell und den experimentellen Messungen.&lt;/p&gt; </text>
+      <contact>Prof. Dr. Roman Fasel Empa, nanotech@surfaces Tel. +41 58 765 43 48 roman.fasel@empa.ch Dr. Pascal Ruffieux Empa, nanotech@surfaces Tel. +41 58 765 46 93 pascal.ruffieux@empa.ch Dr. Oliver Gröning Empa, nanotech@surfaces Tel. +41 58 765 11 22 oliver.groening@empa.ch</contact>
+      <attachment id="281082">
+        <title>Präzisionsarbeit: Mit besonderen Nanographen-Molekülen konnten die Forschenden ein theoretisches Modell aus der Quantenphysik exakt nachbauen. Bild: Empa</title>
+        <format>png</format>
+        <size-kb>5773</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90227.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281083">
+        <title>Links: Hochauflösende Rastertunnelmikroskopie-Aufnahme von Clar's Goblet. Rechts: Struktur-Modell von Clar's Goblet (blau: Spin aufwärts, rot: Spin abwärts). Bild: Empa</title>
+        <format>png</format>
+        <size-kb>350</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90228.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281084">
+        <title>Ein Rastertunnelmikroskopie-Bild zeigt die Spin-Kette aus einzelnen Clar's Goblets. Bild: Empa</title>
+        <format>png</format>
+        <size-kb>7278</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90229.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281097">
+        <title>Ein Schritt näher zu Quantentechnologien: Fundamentales Quantenmodell exakt nachgebaut</title>
+        <uri>https://www.empa.ch/web/s604/nanographen-heisenberg-modell</uri>
+        <position>Context</position>
+      </link>
+      <link id="281098">
+        <title>Vor 40 Jahren vorhergesagtes Molekül synthetisiert: Wie Graphen-Nanostrukturen magnetisch werden</title>
+        <uri>https://www.empa.ch/web/s604/topological-frustration</uri>
+        <position>Context</position>
+      </link>
+      <link id="281099">
+        <title>Magnetismus in der Quantenwelt: Exotische Magnetzustände in kleinster Dimension</title>
+        <uri>https://www.empa.ch/web/s604/quantum-magnets</uri>
+        <position>Context</position>
+      </link>
+      <link id="281100">
+        <title>C Zhao, G Catarina, JJ Zhang, JCG Henriques, L Yang, J Ma, X Feng, O Gröning, P Ruffieux, J Fernández-Rossier, R Fasel: Tunable topological phases in nanographene-based spin-½ alternating-exchange Heisenberg chains; Nature Nanotechnology (2024);</title>
+        <uri>https://www.nature.com/articles/s41565-024-01805-z</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Un pas de plus vers les technologies quantiques : Le modèle quantique fondamental reproduit avec précision</title>
+      <lead>Les technologies quantiques exploitent les propriétés inhabituelles des éléments fondamentaux de la matière. Elles promettent des percées dans la communication, la puissance de calcul, les techniques de mesure et bien d'autres choses encore. Mais les états quantiques sont fragiles et leurs effets difficiles à saisir. La recherche sur les applications réelles est donc un véritable défi. Les chercheurs de l'Empa et leurs partenaires ont réussi une percée : Grâce à une sorte de « Lego quantique », ils ont pu reproduire avec précision un modèle théorique de physique quantique connu depuis longtemps dans un matériau synthétique.</lead>
+      <text link="no"> &lt;p&gt;La plus petite unité d'information dans un ordinateur est le bit : on ou off, 1 ou 0. C'est à partir de la combinaison et de l'interconnexion d'innombrables uns et zéros que se compose aujourd'hui toute la puissance de calcul de l'humanité. Les ordinateurs quantiques possèdent également une telle unité, le qubit. Celui-ci a également deux états possibles. La différence essentielle : les effets quantiques permettent une superposition des deux états, de sorte que le qubit n'est pas soit 1 soit 0, mais à la fois 1 et 0. Avec différents mélanges de 0 et de 1, le qubit peut théoriquement prendre une infinité d'états.&lt;/p&gt; &lt;p&gt;Cette ambiguïté devrait conférer aux ordinateurs quantiques de véritables « pouvoirs magiques ». En théorie du moins, les ordinateurs quantiques peuvent ainsi effectuer en une fraction de seconde des calculs que les superordinateurs actuels ne peuvent pas réaliser. Mais le calcul quantique n'a pas encore atteint sa maturité. L'un des grands défis est de relier les qubits entre eux – car un seul (qu)bit ne suffit pas à faire un ordinateur.&lt;/p&gt; &lt;p&gt;Une possibilité de réaliser le 0 et le 1 du qubit est l'orientation de ce que l'on appelle le spin de l'électron. Le spin est une propriété fondamentale de la mécanique quantique des électrons et autres particules, une sorte de couple qui, pour simplifier, peut être dirigé vers le haut ou vers le bas, c'est-à-dire vers le haut (1) ou vers le bas (0). Si deux spins ou plus sont liés par la mécanique quantique, ils s'influencent mutuellement : si l'orientation de l'un change, elle change aussi pour tous les autres. C'est donc une bonne possibilité de faire « parler » les qubits entre eux. Seulement, comme beaucoup de choses en physique quantique, ce langage, c'est-à-dire l'interaction des spins entre eux, est extrêmement complexe. Bien que l'on puisse le décrire mathématiquement, les équations correspondantes ne peuvent guère être résolues avec précision, même pour des enchaînements relativement simples de quelques spins. Ce ne sont pas les meilleures conditions pour mettre la théorie en pratique ...&lt;/p&gt; &lt;p&gt;&lt;b&gt;Un modèle devient réel&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Des chercheurs de l'Empa du « nanotech@surfaces Laboratory » ont maintenant développé une méthode permettant de faire « parler » entre eux de nombreux spins de manière contrôlée – tout en les « écoutant », c'est-à-dire en reproduisant leurs interactions. En collaboration avec des chercheurs de l'« International Iberian Nanotechnology Laboratory » et de l'Université technique de Dresde, ils ont pu reproduire avec précision un enchaînement archétypique de spins d'électrons et mesurer leurs propriétés en détail. Leurs résultats viennent d'être publiés dans la célèbre revue spécialisée « Nature Nanotechnology ».&lt;/p&gt; &lt;p&gt;La théorie derrière cet enchaînement est familière à tous les étudiants en physique : prenez une chaîne linéaire de spins dans laquelle chaque spin interagit fortement avec l'un de ses voisins et faiblement avec l'autre. Ce modèle dit d'alternance unidimensionnelle d'Heisenberg a été décrit il y a près de 100 ans par le physicien et prix Nobel Werner Heisenberg, l'un des fondateurs de la mécanique quantique. Bien qu'il existe dans la nature des matériaux contenant de telles chaînes de spin, il n'a pas encore été possible de les intégrer de manière ciblée dans un matériau. « Les matériaux réels sont toujours plus complexes qu'un modèle théorique », explique Roman Fasel, directeur du « nanotech@surfaces Laboratory » et co-auteur de l'étude.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Un « gobelet » de carbone&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Pour fabriquer un tel matériau quantique artificiel ou « artificial quantum matter », les chercheurs de l'Empa ont donc eu recours à de minuscules morceaux de graphène, un matériau carboné bidimensionnel. La forme de ces molécules de nanographène influence leurs propriétés physiques, notamment leur spin – une sorte de brique de Lego nano-quantique à partir de laquelle les scientifiques peuvent « assembler » des chaînes plus longues.&lt;/p&gt; &lt;p&gt;Pour leur modèle d'Heisenberg, les chercheurs ont utilisé ce que l'on appelle le gobelet de Clar. Cette molécule de nanographène particulière est composée de onze anneaux de carbone disposés en forme de sablier. En raison de cette forme particulière, un électron non apparié se trouve à chaque extrémité – chacun avec un spin correspondant. Bien que prédit dès 1972 par le chimiste Erich Clar, le gobelet de Clar n'a pu être fabriqué qu'en 2019 par les chercheurs du laboratoire « nanotech@surfaces » de l'Empa.&lt;/p&gt; &lt;p&gt;Les chercheurs ont maintenant lié les gobets en chaînes sur une surface d'or. Les deux spins à l'intérieur d'une molécule sont faiblement liés entre eux, les spins d'une molécule à l'autre sont fortement liés – une réalisation parfaite de la chaîne d'Heisenberg alternante. Les chercheurs ont pu manipuler avec précision la longueur des chaînes, activer et désactiver de manière ciblée certains spins et les faire « tourner » d'un état à l'autre, et étudier plus en détail la physique complexe de ce nouveau type de matériau quantique.&lt;/p&gt; &lt;p&gt;&lt;b&gt;De la théorie à la pratique&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Tout comme la synthèse du gobelet de Clar a permis la fabrication de chaînes d'Heisenberg, cette étude ouvrira à son tour de nouvelles portes dans la recherche quantique, Roman Fasel en est convaincu. « Nous avons montré que les modèles théoriques de la physique quantique peuvent être réalisés avec des nanographènes et que leurs prédictions peuvent donc être vérifiées expérimentalement », explique le chercheur. « Les nanographènes avec d'autres configurations de spin peuvent être reliés à d'autres types de chaînes ou à des systèmes plus complexes ». Les chercheurs de l'Empa montrent tout de suite l'exemple : dans une deuxième étude, qui est sur le point d'être publiée, ils ont pu reproduire un autre type de chaîne d'Heisenberg, dans laquelle tous les spins sont liés entre eux avec la même force.&lt;/p&gt;&lt;p&gt;Pour être à l'avant-garde de la physique quantique appliquée, les théoriciens et les praticiens de différentes disciplines doivent se serrer les coudes. Les chimistes de l'Université technique de Dresde ont mis à la disposition aux chercheurs de l'Empa les molécules de départ pour leur synthèse des gobelets de Clar. Et des chercheurs de l'« International Iberian Nanotechnology Laboratory » au Portugal ont apporté au projet leur expertise en matière de théorie. La théorie nécessaire à de telles percées n'est pas (seulement) celle que l'on trouve dans les livres de physique, souligne Roman Fasel, mais un travail de transfert exigeant entre le modèle de physique quantique et les mesures expérimentales.&lt;/p&gt; </text>
+      <contact>Prof. Dr. Roman Fasel Empa, nanotech@surfaces Tél. +41 58 765 43 48 roman.fasel@empa.ch Dr. Pascal Ruffieux Empa, nanotech@surfaces Tél. +41 58 765 46 93 pascal.ruffieux@empa.ch Dr. Oliver Gröning Empa, nanotech@surfaces Tél. +41 58 765 11 22 oliver.groening@empa.ch</contact>
+      <attachment id="281085">
+        <title>Travail de précision : grâce à des molécules de nanographène particulières, les chercheurs ont pu reproduire exactement un modèle théorique de la physique quantique. Image : Empa</title>
+        <format>png</format>
+        <size-kb>5773</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90230.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281086">
+        <title>À gauche : Image de microscopie à effet tunnel à haute résolution du gobelet de Clar. A droite : modèle de structure du gobelet de Clar (bleu : spin vers le haut, rouge : spin vers le bas). Image : Empa</title>
+        <format>png</format>
+        <size-kb>350</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90231.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281087">
+        <title>Une image de microscopie à balayage à effet tunnel montre la chaîne de spin composée de différents gobelets de Clar. Image : Empa</title>
+        <format>png</format>
+        <size-kb>7278</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90232.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281094">
+        <title>Un pas de plus vers les technologies quantiques: Le modèle quantique fondamental reproduit avec précision</title>
+        <uri>https://www.empa.ch/web/s604/nanographen-heisenberg-modell</uri>
+        <position>Context</position>
+      </link>
+      <link id="281095">
+        <title>Molécule prédite dans les années 1970 synthétisée : Comment les nanostructures de graphène deviennent magnétiques</title>
+        <uri>https://www.empa.ch/web/s604/topological-frustration</uri>
+        <position>Context</position>
+      </link>
+      <link id="281096">
+        <title>Magnétisme quantique : Des états magnétiques exotiques dans des dimensions miniatures</title>
+        <uri>https://www.empa.ch/web/s604/quantum-magnets</uri>
+        <position>Context</position>
+      </link>
+      <link id="281100">
+        <title>C Zhao, G Catarina, JJ Zhang, JCG Henriques, L Yang, J Ma, X Feng, O Gröning, P Ruffieux, J Fernández-Rossier, R Fasel: Tunable topological phases in nanographene-based spin-½ alternating-exchange Heisenberg chains; Nature Nanotechnology (2024);</title>
+        <uri>https://www.nature.com/articles/s41565-024-01805-z</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>One step closer to quantum technologies: Fundamental quantum model recreated from nanographenes</title>
+      <lead>Quantum technologies exploit the unusual properties of the most fundamental building blocks of matter. They promise breakthroughs in communication, computing, sensors and much more. However, quantum states are fragile, and their effects are difficult to grasp, making research into real-world applications challenging. Empa researchers and their partners have now achieved a breakthrough: Using a kind of “quantum Lego”, they have been able to accurately realize a well-known theoretical quantum physics model in a synthetic material.</lead>
+      <text link="no"> &lt;p&gt;The smallest unit of information in a computer is the bit: on or off, 1 or 0. Today, the world's entire computing power is built on the combination and interconnection of countless ones and zeros. Quantum computers have their own version of the bit: the qubit. It, too, has two basic states. The main difference: Quantum effects allow a superposition of the two states, so that the qubit is not either 1 or 0, but both at the same time. With different proportions of 0 and 1, the qubit can theoretically assume an infinite number of states.&lt;/p&gt; &lt;p&gt;This ambiguity should give quantum computers true “superpowers”. At least in theory, quantum-based computers can perform calculations in fractions of a second that stump today's best supercomputers. However, quantum computing is not yet fully developed. One of the biggest challenges is linking the qubits – since one single (qu)bit is not much of a computer.&lt;/p&gt; &lt;p&gt;One way to realize the 0 and the 1 of the qubit is via the alignment of the so-called electron spin. The spin is a fundamental quantum mechanical property of electrons and other particles, a kind of torque that, put simply, can point “up” (1) or “down” (0). When two or more spins are quantum-mechanically linked, they influence each other's states: Change the orientation of one, and it will also change for all the others. This is therefore a good way to make qubits “talk” to each other. However, like so much in quantum physics, this “language”, i.e. the interaction between the spins, is enormously complex. Although it can be described mathematically, the relevant equations can hardly be solved exactly even for relatively simple chains of a just few spins. Not exactly the best conditions for putting theory into practice... &lt;/p&gt; &lt;p&gt;&lt;b&gt;A model becomes reality&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Researchers at Empa's nanotech@surfaces laboratory have now developed a method that allows many spins to “talk” to each other in a controlled manner – and that also enables the researchers to “listen” to them, i.e. to understand their interactions. Together with scientists from the International Iberian Nanotechnology Laboratory and the Technical University of Dresden, they were able to precisely create an archetypal chain of electron spins and measure its properties in detail. Their results have now been published in the renowned journal &lt;i&gt;Nature Nanotechnology&lt;/i&gt;.&lt;/p&gt; &lt;p&gt;The theory behind the chain is familiar to all physics students: Take a linear chain of spins in which each spin interacts strongly with one of its neighbors and weakly with the other. This so-called one-dimensional alternating Heisenberg model was described almost 100 years ago by physicist and later Nobel Prize laureate Werner Heisenberg, one of the founders of quantum mechanics. Although there are materials in nature that contain such spin chains, it has not yet been possible to deliberately incorporate the chains into a material. “Real materials are always much more complex than a theoretical model,” explains Roman Fasel, head of Empa's nanotech@surfaces laboratory and co-author of the study.&lt;/p&gt; &lt;p&gt;&lt;b&gt;A “goblet” made of carbon&lt;/b&gt;&lt;/p&gt; &lt;p&gt;To create such an artificial quantum material, the Empa researchers used tiny pieces of the two-dimensional carbon material graphene. The shape of these nanographene molecules influences their physical properties, in particular their spin – a kind of nano-sized quantum Lego brick from which the scientists can assemble longer chains.&lt;/p&gt; &lt;p&gt;For their Heisenberg model, the researchers used the so-called Clar's Goblet molecule. This special nanographene molecule consists of eleven carbon rings arranged in an hourglass-like shape. Due to this shape, there is an unpaired electron at each end – each with an associated spin. Although predicted by chemist Erich Clar as early as 1972, Clar's Goblet was only produced in 2019 by Fasel's team at the nanotech@surfaces laboratory.&lt;/p&gt;&lt;p&gt;The researchers have now linked the goblets on a gold surface to form chains. The two spins within a molecule are weakly linked, while the spins from molecule to molecule are strongly linked – a perfect realization of the alternating Heisenberg chain. The researchers were able to precisely manipulate the length of the chains, selectively switch individual spins on and off and “flip” them from one state to another, allowing them to investigate the complex physics of this novel quantum material in great detail.&lt;/p&gt; &lt;p&gt;&lt;b&gt;From theory to practice&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Fasel is convinced that, just as the synthesis of Clar's Goblet enabled the production of Heisenberg chains, this study will in turn open new doors in quantum research. “We have shown that theoretical models of quantum physics can be realized with nanographenes in order to test their predictions experimentally,” says the researcher. “Nanographenes with other spin configurations can be linked to form other types of chains or even more complex systems.” The Empa researchers are leading by example: In a second study, which is about to be published, they were able to recreate a different type of Heisenberg chain in which all spins are equally linked.&lt;/p&gt;&lt;p&gt;To be at the forefront of applied quantum physics, theoretical and experimental scientists from different disciplines need to work together. Chemists at Dresden University of Technology provided Empa researchers with the starting molecules for their synthesis of Clar's Goblets. And researchers from the International Iberian Nanotechnology Laboratory in Portugal contributed their theoretical expertise to the project. The theory needed for such breakthroughs is not (just) what you find in physics textbooks, Fasel emphasizes, but a sophisticated transfer between the quantum physics model and the experimental measurements.&lt;/p&gt; </text>
+      <contact>Prof. Dr. Roman Fasel Empa, nanotech@surfaces Phone +41 58 765 43 48 roman.fasel@empa.ch Dr. Pascal Ruffieux Empa, nanotech@surfaces Phone +41 58 765 46 93 pascal.ruffieux@empa.ch Dr. Oliver Gröning Empa, nanotech@surfaces Phone +41 58 765 11 22 oliver.groening@empa.ch</contact>
+      <attachment id="281088">
+        <title>With utmost precision: Using special nanographene molecules, the researchers were able to realize a theoretical model from quantum physics. Image: Empa</title>
+        <format>png</format>
+        <size-kb>5773</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90233.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281089">
+        <title>Left: High-resolution scanning tunneling microscopy image of Clar's Goblet. Right: Structural model of Clar's Goblet (blue: spin up, red: spin down). Image: Empa</title>
+        <format>png</format>
+        <size-kb>350</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90234.png</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281090">
+        <title>A scanning tunneling microscopy image shows the spin chain made of individual Clar's Goblets. Image: Empa</title>
+        <format>png</format>
+        <size-kb>7278</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90235.png</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281091">
+        <title>One step closer to quantum technologies: Fundamental quantum model recreated from nanographenes</title>
+        <uri>https://www.empa.ch/web/s604/nanographen-heisenberg-modell</uri>
+        <position>Context</position>
+      </link>
+      <link id="281092">
+        <title>Elusive molecule predicted in the 1970s synthesized: How to induce magnetism in graphene</title>
+        <uri>https://www.empa.ch/web/s604/topological-frustration</uri>
+        <position>Context</position>
+      </link>
+      <link id="281093">
+        <title>Quantum magnetism: Exotic magnetic states in miniature dimensions</title>
+        <uri>https://www.empa.ch/web/s604/quantum-magnets</uri>
+        <position>Context</position>
+      </link>
+      <link id="281100">
+        <title>C Zhao, G Catarina, JJ Zhang, JCG Henriques, L Yang, J Ma, X Feng, O Gröning, P Ruffieux, J Fernández-Rossier, R Fasel: Tunable topological phases in nanographene-based spin-½ alternating-exchange Heisenberg chains; Nature Nanotechnology (2024);</title>
+        <uri>https://www.nature.com/articles/s41565-024-01805-z</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
