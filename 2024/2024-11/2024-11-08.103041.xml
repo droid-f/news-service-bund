@@ -20,6 +20,21 @@
       <email lang="it">info@blw.admin.ch</email>
       <email lang="en">info@blw.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="703" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
+      <name lang="fr">Secrétariat d'Etat à l'économie</name>
+      <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="en">State Secretariat for Economic Affairs</name>
+      <www lang="de">http://www.seco.admin.ch</www>
+      <www lang="fr">http://www.seco.admin.ch</www>
+      <www lang="it">http://www.seco.admin.ch</www>
+      <www lang="en">http://www.seco.admin.ch</www>
+      <email lang="de">info@seco.admin.ch</email>
+      <email lang="fr">info@seco.admin.ch</email>
+      <email lang="it">info@seco.admin.ch</email>
+      <email lang="en">info@seco.admin.ch</email>
+    </originator>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
@@ -179,12 +194,6 @@
       </revisions>
     </content>
     <topics>
-      <topic id="38">
-        <name lang="de">Landwirtschaft</name>
-        <name lang="fr">Agriculture</name>
-        <name lang="it">Agricoltura</name>
-        <name lang="en">Agriculture</name>
-      </topic>
       <topic id="47">
         <name lang="de">Wirtschaft</name>
         <name lang="fr">Économie</name>
