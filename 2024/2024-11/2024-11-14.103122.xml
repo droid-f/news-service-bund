@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="103122" revoked="no">
+    <version>1</version>
+    <pubdate>2024-11-14</pubdate>
+    <type>Memorandum</type>
+    <originator department-msg="no" id="323" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="it">http://www.empa.ch</www>
+      <www lang="en">http://www.empa.ch</www>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="it">contact@empa.ch</email>
+      <email lang="en">contact@empa.ch</email>
+    </originator>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="it">http://www.wbf.admin.ch</www>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Keramik mit Feingefühl</title>
+      <lead>Roboter, die Berührungen spüren und Temperaturunterschiede wahrnehmen? Ein unerwartetes Material macht das möglich. Im Empa-Labor für Hochleistungskeramik entwickeln Forschende weiche und intelligente Sensormaterialien auf der Basis von Keramik-Partikeln.</lead>
+      <text link="no"> &lt;p&gt;Beim Wort «Keramik» denken die meisten Menschen an Kaffeetassen, Badezimmerfliesen oder Blumentöpfe. Nicht so Frank Clemens. Für den Forschungsgruppenleiter im «High-Performance Ceramics» Labor der Empa kann Keramik Strom leiten, intelligent sein – und sogar fühlen. Denn Clemens entwickelt gemeinsam mit seinem Team weiche Sensormaterialien auf der Basis von Keramik. Solche Sensoren «spüren» beispielsweise Temperatur, Dehnung, Druck oder Feuchtigkeit, was sie für den Einsatz in der Medizin, aber auch im Bereich der «Soft Robotics» – der weichen Robotik – interessant macht.&lt;/p&gt; &lt;p&gt;Weiche Keramik – wie soll denn das gehen? Unter Keramik verstehen Materialforschende wie Clemens einen anorganischen nichtmetallischen Werkstoff, der in einem sogenannten Sinter-Prozess unter hohen Temperaturen aus einer Ansammlung von losen Partikeln hergestellt wird. Die Zusammensetzung der Keramik kann variieren – und damit verändern sich auch deren Eigenschaften. Steingut und Porzellan sucht man in Clemens' Labor indes vergeblich. Die Forschenden arbeiten mit Materialein wie Kalium-Natrium-Niobat und Zinkoxid, aber auch mit Kohlenstoffpartikeln.&lt;/p&gt; &lt;p&gt;Weich sind all diese Materialien nicht. Um daraus weiche Sensoren herzustellen, betten die Forschenden sie in dehnbare Kunststoffe ein. «Wir arbeiten mit sogenannten hochgefüllten Systemen», so Clemens. «Wir nehmen eine Matrix aus einem thermoplastischen Kunststoff und füllen sie mit so vielen Keramikpartikeln, wie nur möglich ist, ohne die Dehnbarkeit der Matrix zu beeinträchtigen.» Wird diese hochgefüllte Matrix dann gedehnt, komprimiert oder Temperaturschwankungen ausgesetzt, verändert sich der Abstand zwischen den Keramikpartikeln und damit die elektrische Leitfähigkeit des Sensors. Dabei muss nicht die gesamte Matrix mit Keramik gefüllt sein, betont Clemens: Mittels 3D-Druck können die Forschenden die Keramiksensoren auch als eine Art «Nervenbahnen» in flexible Bauteile einbetten.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Selektiv und intelligent&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Trivial ist die Herstellung von weichen Keramiksensoren allerdings nicht. In der Regel sind weiche Sensoren auf unterschiedliche Umwelteinflüsse zugleich empfindlich, etwa auf Temperatur, Dehnung und Feuchtigkeit. «Wenn man sie in der Praxis einsetzen will, sollte man aber wissen, was man misst», erklärt Clemens. Seiner Forschungsgruppe ist es gelungen, weiche Sensoren herzustellen, die sehr selektiv nur auf Druck oder nur auf Temperatur reagieren. Diese Sensoren integrierten die Forschenden in eine prothetische Hand. Die Prothese «spürt» die Beugung ihrer Finger und merkt, wenn sie eine heisse Oberfläche anfasst. Solche «Feinfühligkeit» wäre sowohl für Roboter-Greifwerkzeuge als auch für Prothesen für den Menschen von Vorteil.&lt;/p&gt; &lt;p&gt;Noch einen Schritt weiter ging das Empa-Team bei der Entwicklung einer weichen «Roboterhaut». Ähnlich wie menschliche Haut reagiert die mehrschichtige Kunststoffhaut auf Berührungen und Temperaturunterschiede. Um die komplexen Daten auszuwerten, entwickelten die Empa-Forschenden gemeinsam mit Forschenden der «University of Cambridge» ein KI-Modell und trainierten es anhand von Daten aus rund 4500 Messungen. Auch das erinnert an die menschliche Wahrnehmung, denn die Nervenimpulse aus unserer Haut werden ebenfalls im Gehirn ausgewertet und «hochgerechnet».&lt;/p&gt; &lt;p&gt;In ihrem neuesten Projekt konnten die Forschenden die Keramiksensoren mit künstlichen Muskeln kombinieren. Gemeinsam mit Forschenden der ETH Zürich und der Universität Tokyo haben sie einen Bio-Hybrid-Roboter entwickelt, der seinen Kontraktionszustand mit Hilfe eines weichen, biokompatiblen, gewebeintegrierten piezoresistiven Sensors erkennt. Diese Arbeit wurde in der Fachzeitschrift «Advanced Intelligent Systems» veröffentlicht.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Sichere Zusammenarbeit&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Das Ziel, sagt Frank Clemens, ist die sichere und harmonische Zusammenarbeit von Mensch und Maschine. «Heutige Robotersysteme sind gross, klobig und sehr stark. Sie können für den Menschen gefährlich werden», erklärt der Forscher. Sollen wir unsere Arbeitsplätze in Zukunft vermehrt mit Robotern teilen, sollten diese schnell und feinfühlig auf Berührungen reagieren. «Wenn man versehentlich einen anderen Menschen berührt, zieht man sich automatisch sofort zurück», sagt Clemens. «Wir wollen Robotern denselben Reflex verleihen.» Dafür suchen die Forschenden nun Industriepartner auf dem Gebiet von robotischen Greifsystemen. Aber auch in der Medizin sind weiche Sensoren gefragt – so hat das Team kürzlich ein Innosuisse-Projekt mit der Firma IDUN Technologies abgeschlossen, bei dem sie flexible Elektroden für Gehirnstrommessungen hergestellt haben.&lt;/p&gt; &lt;p&gt;Die Arbeit ist noch lange nicht getan: Die Forschenden wollen ihre weichen keramischen Sensoren noch feinfühliger und intelligenter machen. Dafür gilt es, neue keramische Materialien und weiche Polymere zu kombinieren und deren Sensoreigenschaften zu optimieren – denn im Zusammenspiel dieser beiden Komponenten liegt das Erfolgsgeheimnis.&lt;/p&gt; </text>
+      <contact>Dr. Frank Clemens High Performance Ceramics Tel. +41 58 765 4821 frank.clemens@empa.ch</contact>
+      <attachment id="281738">
+        <title>Empa-Forscher Frank Clemens und sein Team entwickeln weiche und intelligente Sensoren auf der Basis von Keramik-Partikeln. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>4657</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90465.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281746">
+        <title>Keramik mit Feingefühl</title>
+        <uri>https://www.empa.ch/web/s604/soft-robotics-keramik</uri>
+        <position>Context</position>
+      </link>
+      <link id="281747">
+        <title>M Filippi, A Balciunaite, A Georgopoulou, P Paniagua, F Drescher, M Nie, S Takeuchi, F Clemens, RK Katzschmann: Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots; Advanced Intelligent Systems (2024). doi</title>
+        <uri>https://doi.org/10.1002/aisy.202400413</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>La céramique avec un sens du toucher</title>
+      <lead>Des robots avec un sens du toucher et qui perçoivent les différences de température ? Un matériau inattendu rend cela possible. Au laboratoire de céramique haute performance de l'Empa, les chercheurs développent des matériaux de détection souples et intelligents à base de particules de céramique.</lead>
+      <text link="no"> &lt;p&gt;Lorsque l'on parle de « céramique », la plupart des gens pensent à des tasses à café, du carrelage de salle de bain ou des pots de fleurs. Ce n'est pas le cas de Frank Clemens. Pour le chef de groupe de recherche du laboratoire « High-Performance Ceramics » de l'Empa, la céramique peut conduire l'électricité, être intelligente – et même ressentir. En effet, Frank Clemens et son équipe développent des matériaux de détection souples à base de céramique. De tels capteurs « sentent » par exemple la température, la dilatation, la pression ou l'humidité, ce qui les rend intéressants pour une utilisation en médecine, mais aussi dans le domaine de la « soft robotics » – la robotique douce.&lt;/p&gt; &lt;p&gt;Céramique souple - comment cela peut-il être possible ? Par céramique, les chercheurs en matériaux comme Frank Clemens entendent un matériau inorganique non métallique qui est fabriqué à partir d'un assemblage de particules libres dans un processus dit de frittage à haute température. La composition de la céramique peut varier - et donc ses propriétés également. Inutile de chercher de la faïence et de la porcelaine dans le laboratoire de Frank Clemens. Les chercheurs travaillent avec des matériaux tels que le niobate de potassium et de sodium et l'oxyde de zinc, mais aussi avec des particules de carbone.&lt;/p&gt; &lt;p&gt;Tous ces matériaux ne sont pas mous. Pour en faire des capteurs souples, les chercheurs les intègrent dans des matières plastiques extensibles. « Nous travaillons avec ce que l'on appelle des systèmes hautement chargés », explique Frank Clemens. « Nous prenons une matrice en thermoplastique et la remplissons d'autant de particules de céramique que possible, sans compromettre la ductilité de la matrice ». Si cette matrice hautement remplie est ensuite étirée, comprimée ou soumise à des variations de température, la distance entre les particules de céramique change et, par conséquent, la conductivité électrique du capteur. Il n'est pas nécessaire que toute la matrice soit remplie de céramique, souligne Frank Clemens : grâce à l'impression 3D, les chercheurs peuvent également intégrer les capteurs en céramique dans des composants flexibles comme des sortes de « circuits nerveux ».&lt;/p&gt; &lt;p&gt;&lt;b&gt;Sélectives et intelligentes&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La fabrication de capteurs céramiques souples n'est toutefois pas triviale. En règle générale, les capteurs souples sont sensibles à différentes influences environnementales en même temps, comme la température, la dilatation et l'humidité. « Mais si l'on veut les utiliser dans la pratique, il faut savoir ce que l'on mesure », explique Frank Clemens. Son groupe de recherche a réussi à fabriquer des capteurs souples qui réagissent de manière très sélective uniquement à la pression ou à la température. Les chercheurs ont intégré ces capteurs dans une main prothétique. La prothèse « sent » la flexion de ses doigts et remarque lorsqu'elle touche une surface chaude. Une telle « sensibilité » serait avantageuse aussi bien pour les outils de préhension robotisés que pour les prothèses destinées aux humains.&lt;/p&gt; &lt;p&gt;L'équipe de l'Empa est allée encore plus loin dans le développement d'une « peau de robot » souple. Comme la peau humaine, cette peau synthétique multicouche réagit au toucher et aux différences de température. Pour évaluer les données complexes, les chercheurs de l'Empa ont développé un modèle d'IA en collaboration avec des chercheurs de l'Université de Cambridge et l'ont entraîné à partir de données issues de quelque 4500 mesures. Cela rappelle également la perception humaine, car les impulsions nerveuses provenant de notre peau sont également évaluées et « extrapolées » dans le cerveau.&lt;/p&gt; &lt;p&gt;Dans leur dernier projet, les chercheurs ont pu combiner les capteurs en céramique avec des muscles artificiels. En collaboration avec des chercheurs de l'EPFZ et de l'Université de Tokyo, ils ont mis au point un robot biohybride qui détecte son état de contraction à l'aide d'un capteur piézorésistif souple et biocompatible intégré dans les tissus. Ce travail a été publié dans la revue spécialisée « Advanced Intelligent Systems ».&lt;/p&gt; &lt;p&gt;&lt;b&gt;Une collaboration sûre&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L'objectif, selon Frank Clemens, est de permettre une collaboration sûre et harmonieuse entre l'homme et la machine. « Les systèmes robotiques actuels sont grands, encombrants et très puissants. Ils peuvent être dangereux pour l'homme », explique le chercheur. Si nous devons à l'avenir partager davantage nos postes de travail avec des robots, ceux-ci devraient réagir rapidement et avec sensibilité aux contacts. « Si l'on touche accidentellement un autre être humain, on se retire automatiquement et immédiatement », explique Frank Clemens. « Nous voulons donner le même réflexe aux robots ». Pour cela, les chercheurs cherchent maintenant des partenaires industriels dans le domaine des systèmes de préhension robotiques. Mais les capteurs souples sont également demandés en médecine - l'équipe a ainsi récemment terminé un projet Innosuisse avec l'entreprise IDUN Technologies, dans le cadre duquel ils ont fabriqué des électrodes souples pour mesurer le courant cérébral.&lt;/p&gt; &lt;p&gt;Le travail est loin d'être terminé : les chercheurs veulent rendre leurs capteurs céramiques souples encore plus sensibles et intelligents. Pour cela, il s'agit de combiner de nouveaux matériaux céramiques et des polymères souples et d'optimiser leurs propriétés de détection – car le secret de la réussite réside dans l'interaction de ces deux composants.&lt;/p&gt; </text>
+      <contact>Dr. Frank Clemens High Performance Ceramics Tél. +41 58 765 4821 frank.clemens@empa.ch</contact>
+      <attachment id="281740">
+        <title>Le chercheur de l'Empa Frank Clemens et son equippe développent des matériaux de détection souples et intelligents à base de particules de céramique. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>4657</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90467.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281741">
+        <title>Le chercheur de l'Empa Christopher Bascucci fait la démonstration d'un matériau souple qui peut être doté de capteurs en céramique. Image : Empa</title>
+        <format>jpg</format>
+        <size-kb>3659</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90468.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281745">
+        <title>La céramique avec un sens du toucher</title>
+        <uri>https://www.empa.ch/web/s604/soft-robotics-keramik</uri>
+        <position>Context</position>
+      </link>
+      <link id="281747">
+        <title>M Filippi, A Balciunaite, A Georgopoulou, P Paniagua, F Drescher, M Nie, S Takeuchi, F Clemens, RK Katzschmann: Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots; Advanced Intelligent Systems (2024). doi</title>
+        <uri>https://doi.org/10.1002/aisy.202400413</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Sensitive ceramics</title>
+      <lead>Robots that can sense touch and perceive temperature differences? An unexpected material might just make this a reality. At Empa's Laboratory for High-Performance Ceramics, researchers are developing soft and intelligent sensor materials based on ceramic particles.</lead>
+      <text link="no"> &lt;p&gt;Most people think of coffee cups, bathroom tiles or flower pots when they hear the word "ceramic". Not so Frank Clemens. For the research group leader in Empa's Laboratory for High-Performance Ceramics, ceramics can conduct electricity, be intelligent, and even feel. Together with his team, Clemens is developing soft sensor materials based on ceramics. Such sensors can "feel" temperature, strain, pressure or humidity, for instance, which makes them interesting for use in medicine, but also in the field of soft robotics.&lt;/p&gt; &lt;p&gt;Soft ceramics – how is that supposed to work? Materials scientists like Clemens define ceramics as an inorganic, non-metallic material that is produced from a collection of loose particles in a high-temperature process known as sintering. The composition of ceramics can vary – and their properties change as a result. But earthenware and porcelain are nowhere to be seen in Clemens' lab. The researchers work with materials such as potassium sodium niobate and zinc oxide, but also with carbon particles.&lt;/p&gt; &lt;p&gt;None of these materials are soft. In order to fashion them into flexible sensors, the researchers embed ceramic particles in stretchable plastics. "We work with so-called highly filled systems," says Clemens. "We take a matrix made of a thermoplastic and fill it with as many ceramic particles as possible without compromising the elasticity of the matrix." If this highly filled matrix is then stretched, compressed or exposed to temperature fluctuations, the distance between the ceramic particles changes, and with it the electrical conductivity of the sensor. It's not necessary to fill the entire matrix with ceramic, emphasizes Clemens: Using 3D printing, the researchers can also embed the ceramic sensors as a kind of "nerves" in flexible components.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Selective and intelligent&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The production of soft ceramic sensors is not trivial. Usually, soft sensors are sensitive to different environmental influences at the same time, such as temperature, strain and humidity. "If you want to use them in practice, you need to know what you are measuring," says Clemens. His research group has succeeded in producing soft sensors that react very selectively only to pressure or only to temperature. The researchers integrated these sensors into a prosthetic hand. The prosthesis "senses" the flexion of its fingers and notices when it touches a hot surface. Such "sensitivity" would be an advantage both for robotic gripping tools and for human prostheses.&lt;/p&gt; &lt;p&gt;The Empa team even went one step further with the development of a soft "robot skin". Similar to human skin, the multi-layered plastic skin reacts to touch and temperature differences. In order to evaluate the complex data, the Empa researchers developed an AI model together with researchers from the University of Cambridge and trained it using data from around 4,500 measurements. This is also reminiscent of human perception, as the nerve impulses from our skin are evaluated and extrapolated in the brain.&lt;/p&gt; &lt;p&gt;In their most recent project, the researchers were able to combine the ceramic sensors with artificial muscles. Together with researchers from ETH Zurich and the University of Tokyo, they have developed a bio-hybrid robot that recognizes its contraction state with the help of a soft, biocompatible, tissue-integrated piezoresistive sensor. This work was published in the journal Advanced Intelligent Systems.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Safe collaboration between humans and machines&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The aim, says Frank Clemens, is for humans and machines to work together safely and harmoniously. "Today's robotic systems are big, clunky and very strong. They can be dangerous for humans," explains the researcher. If in future we are to increasingly share our workplaces with robots, they should react quickly and sensitively to touch. "If you accidentally touch another person, you automatically pull away," says Clemens. "We want to give robots the same reflex." The researchers are now looking for industrial partners in the field of robotic gripping systems. But soft sensors are also in demand in medicine – the team recently completed an Innosuisse project with the company IDUN Technologies, in which they produced flexible electrodes for brain wave measurements.&lt;/p&gt; &lt;p&gt;The work is far from over: The researchers want to make their soft ceramic sensors even more sensitive and intelligent. This involves combining new ceramic materials and soft polymers and optimizing their sensor properties. The secret to success lies in the interaction of these two components.&lt;/p&gt; </text>
+      <contact>Dr. Frank Clemens High Performance Ceramics Phone +41 58 765 4821 frank.clemens@empa.ch</contact>
+      <attachment id="281739">
+        <title>Empa-Forscher Christopher Bascucci demonstriert ein weiches Material, das mit keramischen Sensoren versehen werden kann. Bild: Empa</title>
+        <format>jpg</format>
+        <size-kb>3659</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90466.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281742">
+        <title>Empa researcher Frank Clemens and his team develop soft and intelligent sensors materials based on ceramic particles. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>4657</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90469.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="281743">
+        <title>Empa researcher Christopher Bascucci demonstrates a soft material which can be enhanced with ceramic sensors. Image: Empa</title>
+        <format>jpg</format>
+        <size-kb>3659</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/90470.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <link id="281744">
+        <title>Sensitive ceramics</title>
+        <uri>https://www.empa.ch/web/s604/soft-robotics-keramik</uri>
+        <position>Context</position>
+      </link>
+      <link id="281747">
+        <title>M Filippi, A Balciunaite, A Georgopoulou, P Paniagua, F Drescher, M Nie, S Takeuchi, F Clemens, RK Katzschmann: Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots; Advanced Intelligent Systems (2024). doi</title>
+        <uri>https://doi.org/10.1002/aisy.202400413</uri>
+        <position>Context</position>
+      </link>
+      <revisions> </revisions>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="it">Formazione e ricerca</name>
+        <name lang="en">Education and Research</name>
+      </topic>
+      <topic id="45">
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="it">Tecnologia</name>
+        <name lang="en">Technology</name>
+      </topic>
+    </topics>
+  </message>
+</messages>
