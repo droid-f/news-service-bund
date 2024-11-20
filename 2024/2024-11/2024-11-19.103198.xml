@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="103198" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-11-19</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="507" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">info@babs.admin.ch</email>
       <email lang="it">info@babs.admin.ch</email>
       <email lang="en">info@babs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
     </originator>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
@@ -37,9 +52,11 @@
       <city>Bern</city>
       <title>Arbeitstreffen mit Staatsrat Vassilis Venizelos</title>
       <lead>Michaela Schärer, Direktorin des Bundesamtes für Bevölkerungsschutz (BABS), ist im Rahmen ihrer Treffen mit den für den Bevölkerungsschutz zuständigen kantonalen Behörden zu einem wichtigen Austausch mit den Vertreterinnen und Vertretern des Kantons Waadt zusammengekommen. </lead>
-      <text link="no">&lt;p&gt;Dieser Tage hat sich Michaela Schärer im Château Saint-Maire in Lausanne mit Staatsrat Vassilis Venizelos, Vorsteher des Departements für Jugend, Umwelt und Sicherheit, sowie Vertretern des Amtes für zivile und militärische Sicherheit, zu einem Austausch über aktuelle Themen im Bereich des Bevölkerungsschutzes getroffen. Die Präsentation der Weiterentwicklung des Bundesamtes für Bevölkerungsschutz (BABS) diente als Grundlage für ein Gespräch über die Wichtigkeit, zentrale Themen frühzeitig zu erkennen und deren Wahrnehmung in der Öffentlichkeit und bei den Entscheidungsträgern zu verbessern.&lt;br /&gt;&lt;br /&gt;Auch die Notwendigkeit einer raschen Einführung eines Systems für die Alarmierung der Bevölkerung über Mobilgeräte (Cell Broadcast) wurde eingehend diskutiert. Insbesondere im Hinblick auf die gravierenden Unwetter von letztem Sommer erachten es die Waadtländer Behörden als wichtig, die bereits eingesetzten Mittel (Sirenen und Alertswiss App) zur Information und Alarmierung der Schweizer Bevölkerung mit diesem System zu ergänzen.&lt;br /&gt;&lt;br /&gt;Schliesslich ging es im Gespräch um den Zivilschutz, der aufgrund der schweizweiten, Unterbestände und der Ungewissheit über die Eindämmung dieses Phänomens Anlass zur Sorge gibt. Das BABS und der Kanton Waadt sind sich einig darüber, dass die momentan im Parlament laufende Gesetzesrevision nicht ausreichen wird, um die fast um die Hälfte rückläufiger Bestände in diesem Kanton zu kompensieren – eine Abnahme, die die Verfügbarkeit und Einsatzfähigkeit des Waadtländer Zivilschutzes stark beeinträchtigt. Das BABS begrüsst daher die entsprechenden von Staatsrat Vassilis Venizelos vorgestellten Bemühungen des Kantons Waadt, die Organisation den reellen personellen Gegebenheiten anzupassen, und bekräftigt gleichzeitig die wesentliche Rolle des Zivilschutzes als Teil der zur Verfügung stehenden Ressourcen zur Unterstützung und zum Schutz der Bevölkerung in ausserordentlichen Lagen. &lt;br /&gt;&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Dieser Tage hat sich Michaela Schärer im Château Saint-Maire in Lausanne mit Staatsrat Vassilis Venizelos, Vorsteher des Departements für Jugend, Umwelt und Sicherheit, sowie Vertretern des Amtes für zivile und militärische Sicherheit, zu einem Austausch über aktuelle Themen im Bereich des Bevölkerungsschutzes getroffen. Die Präsentation der Weiterentwicklung des Bundesamtes für Bevölkerungsschutz (BABS) diente als Grundlage für ein Gespräch über die Wichtigkeit, zentrale Themen frühzeitig zu erkennen und deren Wahrnehmung in der Öffentlichkeit und bei den Entscheidungsträgern zu verbessern.&lt;br /&gt;&lt;br /&gt;Auch die Notwendigkeit einer raschen Einführung eines Systems für die Alarmierung der Bevölkerung über Mobilgeräte (Cell Broadcast) wurde eingehend diskutiert. Insbesondere im Hinblick auf die gravierenden Unwetter von letztem Sommer erachten es die Waadtländer Behörden als wichtig, die bereits eingesetzten Mittel (Sirenen und Alertswiss App) zur Information und Alarmierung der Schweizer Bevölkerung mit diesem System zu ergänzen.&lt;br /&gt;&lt;br /&gt;Schliesslich ging es im Gespräch um den Zivilschutz, der aufgrund der schweizweiten Unterbestände und der Ungewissheit über die Eindämmung dieses Phänomens Anlass zur Sorge gibt. Das BABS und der Kanton Waadt sind sich einig darüber, dass die momentan im Parlament laufende Gesetzesrevision nicht ausreichen wird, um die fast um die Hälfte rückläufiger Bestände in diesem Kanton zu kompensieren – eine Abnahme, die die Verfügbarkeit und Einsatzfähigkeit des Waadtländer Zivilschutzes stark beeinträchtigt. Das BABS begrüsst daher die entsprechenden von Staatsrat Vassilis Venizelos vorgestellten Bemühungen des Kantons Waadt, die Organisation den reellen personellen Gegebenheiten anzupassen, und bekräftigt gleichzeitig die wesentliche Rolle des Zivilschutzes als Teil der zur Verfügung stehenden Ressourcen zur Unterstützung und zum Schutz der Bevölkerung in ausserordentlichen Lagen. &lt;/p&gt;</text>
       <contact>Sandra Walker Kommunikation BABS +41 58 647 03 92 media@babs.admin.ch</contact>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-11-20 08:49" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
