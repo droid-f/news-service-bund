@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="103210" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-11-20</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -18,21 +18,6 @@
       <email lang="fr">info@bk.admin.ch</email>
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="806" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Zivilluftfahrt</name>
-      <name lang="fr">Office fédéral de l'aviation civile</name>
-      <name lang="it">Ufficio federale dell'aviazione civile</name>
-      <name lang="en">Federal Office of Civil Aviation</name>
-      <www lang="de">http://www.bazl.admin.ch</www>
-      <www lang="fr">http://www.bazl.admin.ch</www>
-      <www lang="it">http://www.bazl.admin.ch</www>
-      <www lang="en">http://www.bazl.admin.ch</www>
-      <email lang="de">info@bazl.admin.ch</email>
-      <email lang="fr">info@bazl.admin.ch</email>
-      <email lang="it">info@bazl.admin.ch</email>
-      <email lang="en">info@bazl.admin.ch</email>
     </originator>
     <originator department-msg="no" id="812" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -64,6 +49,36 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="505" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="fr">Groupement de la Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="en">Defence</name>
+      <www lang="de">http://www.vtg.admin.ch</www>
+      <www lang="fr">http://www.vtg.admin.ch</www>
+      <www lang="it">http://www.vtg.admin.ch</www>
+      <www lang="en">http://www.vtg.admin.ch</www>
+      <email lang="de">info@vtg.admin.ch</email>
+      <email lang="fr">info@vtg.admin.ch</email>
+      <email lang="it">info@vtg.admin.ch</email>
+      <email lang="en">info@vtg.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -92,23 +107,39 @@
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Luftfahrt: Bundesrat verabschiedet Objektblatt für Heliport Trogen</title>
       <lead>Der Bundesrat hat an seiner Sitzung vom 20. November 2024 diverse Anpassungen im Sachplan Verkehr, Teil Infrastruktur Luftfahrt (SIL), verabschiedet. Diese betreffen die Winterflugplätze und die militärische Mitbenutzung ziviler Flugplätze. Zudem hat er das neue Objektblatt für den Flugplatz Trogen (AR) genehmigt. Darin gibt der Bund generelle Vorgaben für die Infrastruktur und den Betrieb eines Flugplatzes vor.</lead>
       <text link="no"> &lt;p&gt;&lt;b&gt;Winterflugplätze und militärische Mitbenutzung&lt;/b&gt;&lt;/p&gt;&lt;p&gt;In der Schweiz gibt es vier Winterflugfelder und zwei Winterheliports. Es sind saisonal betriebene Anlagen ohne feste Infrastruktur. Derzeit verfügt lediglich das Winterflugfeld Schwarzsee (FR) über ein SIL-Objektblatt. Bei den übrigen fünf Winterflugplätzen (Blumental, Lauberhorn, Männlichen, Gstaad-Inn Grund, St. Moritz) wird das Bundesamt für Zivilluftfahrt (BAZL) die Auswirkungen des Flugbetriebs auf die Umwelt sowie das räumliche Konfliktpotenzial mit den betroffenen Kantonen Bern und Graubünden, den betroffenen Gemeinden und den Flugplatzhaltern abklären. Sind die Auswirkungen gering, soll in Absprache mit dem jeweiligen Kanton auf die Erarbeitung und Verabschiedung eines Objektblatts verzichtet werden können.&lt;br /&gt; Die Luftwaffe beabsichtigt eine militärische Mitbenutzung einzelner ziviler Flugplätze. Im Vordergrund stehen die Flugplätze Buochs (NW), Mollis (GL) und St. Stephan (BE). An diesen drei Standorten plant die Luftwaffe Übungen während jährlich maximal zwei Tagen.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Neues Objektblatt für Trogen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Der Heliport Trogen ist der einzige Heliport im Kanton Appenzell Ausserrhoden. Er dient für Werk- und Arbeitsflüge sowie Aus- und Weiterbildungsflüge. Mit dem neuen Objektblatt wird die räumliche Festlegung und der Rahmen für den Flugbetrieb verbindlich festgelegt. Der Standortkanton und die betroffenen Gemeinden stimmen dem Objektblatt zu. Der Kanton beantragte, dass die südliche An- und Abflugroute zugunsten des geplanten Windenergiegebiets «Honegg» – falls nötig – angepasst werden kann. Das BAZL hat das Objektblatt entsprechend ergänzt. &lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Sachplan Verkehr, Teil Infrastruktur Luftfahrt (SIL) &lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Der SIL enthält für jeden Flugplatz ein Objektblatt, das die Vorgaben aus dem Konzeptteil für die einzelnen Flugplätze konkretisiert. Das Objektblatt legt den Rahmen für künftige Aus- und Umbauten der Infrastruktur sowie für den Betrieb eines Flugplatzes verbindlich fest. Es enthält Vorgaben zum Betrieb, dem Flugplatzperimeter, der Lärmbelastung, der Hindernisbegrenzung, dem Natur- und Landschaftsschutz sowie der Erschliessung. Das Objektblatt ist Voraussetzung für die Genehmigung des Betriebsreglements und für die Bewilligung von Flugplatzanlagen (Plangenehmigung).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Erarbeitung der SIL-Objektblätter&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Die Erarbeitung der Objektblätter erfolgt in zwei Phasen: Die erste Phase beinhaltet einen Koordinationsprozess, an dem die zuständigen Stellen von Bund und Kantonen, die betroffenen Gemeinden sowie der Flugplatzhalter beteiligt sind. Die Ergebnisse werden in einem Koordinationsprotokoll festgehalten. Die zweite Phase umfasst das Verfahren nach den Bestimmungen der Raumplanungsverordnung. Wesentliche Bestandteile des Verfahrens sind die Anhörung der Behörden und Mitwirkung der Bevölkerung zum Entwurf des Objektblatts sowie die Abstimmung des Objektblatts mit den kantonalen Richtplänen.&lt;/p&gt; </text>
       <contact>Bundesamt für Zivilluftfahrt, Kommunikation: +41 58 464 23 35</contact>
-      <link id="282079">
+      <link id="282235">
         <title>Dokumente zu den SIL-Serien</title>
         <uri>https://www.bazl.admin.ch/bazl/de/home/infrastruktur/sachplan-infrastruktur-der-luftfahrt--sil-/objektteil-des-sil/dokumente-zu-den-sil-serien.html</uri>
         <position>Context</position>
       </link>
-      <link id="282080">
+      <link id="282236">
         <title>map.geo.admin.ch: Karte und Daten</title>
         <uri>https://s.geo.admin.ch/cnaine9vv2in</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-11-21 15:37" type="R"/>
+      </revisions>
     </content>
     <content lang="fr">
       <city>Berne</city>
@@ -116,17 +147,19 @@
       <lead>Lors de sa séance du 20 novembre 2024, le Conseil fédéral a approuvé plusieurs adaptations du plan sectoriel des transports, partie Infrastructure aéronautique (PSIA). Les adaptations en question concernent les aérodromes d’hiver et l’utilisation des aérodromes civils par l’armée. Il a par ailleurs approuvé la nouvelle fiche de l’aérodrome de Trogen (AR). Les fiches formulent les exigences générales de la Confédération applicables à l’infrastructure et à l’exploitation des aérodromes.</lead>
       <text link="no"> &lt;p&gt;&lt;b&gt;Aérodromes d’hiver et co-utilisation militaire&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La Suisse compte quatre champs d’aviation d’hiver et deux héliports d’hiver. Il s’agit d’installations sans infrastructure fixe exploitées de manière saisonnière. À ce jour, l’aérodrome de Schwarzsee (FR) est le seul champ d’aviation d’hiver à avoir fait l’objet d’une fiche PSIA. Dans le cas des cinq autres aérodromes d’hiver (Blumental, Lauberhorn, Männlichen, Gstaad-Inn Grund, St. Moritz), l’Office fédéral de l’aviation civile (OFAC) va analyser, de concert avec les acteurs concernés (cantons de Berne et des Grisons, communes et exploitants d’aérodrome), les effets du trafic aérien sur l’espace et l’environnement ainsi que les conflits spatiaux potentiels. S’il s’avère que les effets sont minimes, on renoncera en concertation avec le canton concerné à établir une fiche.&lt;/p&gt; &lt;p&gt;Les Forces aériennes envisagent d’utiliser certains aérodromes civils. Sont principalement concernés les aérodromes de Buochs (NW), de Mollis (GL) et de St. Stephan (BE) où les Forces aériennes souhaitent organiser tous les ans des exercices d’une durée ne dépassant pas deux jours.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Nouvelle fiche pour Trogen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L’héliport de Trogen est le seul héliport du canton d’Appenzell Rhodes-Extérieures. Il est utilisé pour les essais d’usine, le travail aérien ainsi que pour l’instruction et le perfectionnement aéronautiques. La nouvelle fiche encadre de manière contraignante l’aménagement du territoire et le trafic aérien en lien avec cette installation. Le canton et les communes concernés ont donné leur aval à la fiche. Le canton a demandé que la route de départ et d’arrivée au sud puisse être adaptée si nécessaire en fonction du projet de parc éolien de Honegg. L’OFAC a complété la fiche en conséquence. &lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Plan sectoriel des transports, partie Infrastructure aéronautique (PSIA)&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Le PSIA comprend un recueil de fiches, une par aérodrome, qui précisent les exigences propres à chaque installation découlant de la partie conceptuelle. Les fiches établissent de manière contraignante le cadre du développement, de l’aménagement et de l’exploitation d’un aérodrome. Elles formulent des exigences concernant l’exploitation, le périmètre d’aérodrome, l’exposition au bruit, l’aire de limitation d’obstacles, la protection de la nature et du paysage ainsi que sa desserte. La fiche est un préalable à l’approbation du règlement d’exploitation et des installations aéroportuaires (approbation des plans).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Élaboration des fiches du PSIA&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Les fiches sont élaborées en deux étapes. La première étape consiste en un processus de coordination auxquelles prennent part les services fédéraux et cantonaux compétents, les communes concernées et l’exploitants de l’aérodrome considéré. Le résultat du processus est consigné dans un protocole de coordination. La deuxième étape se déroule selon la procédure prévue par l’ordonnance sur l’aménagement du territoire, dont les procédures de consultation et de participation de la population sur le projet de fiche et la coordination de cette dernière avec les plans directeurs cantonaux constituent des volets importants.&lt;/p&gt; </text>
       <contact>Office fédéral de l’aviation civile, Communication : +41 58 464 23 35</contact>
-      <link id="282081">
+      <link id="282237">
         <title>Séries PSIA: documents</title>
         <uri>https://www.bazl.admin.ch/bazl/fr/home/infrastructure/plan-sectoriel-de-l-infrastructure-aeronautique--psia-/fiches-par-installations/series-psia--documents.html</uri>
         <position>Context</position>
       </link>
-      <link id="282082">
+      <link id="282238">
         <title>map.geo.admin.ch: carte und données</title>
         <uri>https://s.geo.admin.ch/878989c911</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-11-21 15:37" type="R"/>
+      </revisions>
     </content>
     <content lang="it">
       <city>Berna</city>
@@ -134,17 +167,19 @@
       <lead>Nella seduta del 20 novembre 2024, il Consiglio federale ha adottato diversi adeguamenti del Piano settoriale dei trasporti, Parte Infrastruttura aeronautica (PSIA). Gli adeguamenti riguardano gli aerodromi invernali e la coutenza degli aerodromi civili a scopi militari. Il Governo ha inoltre approvato la nuova scheda di coordinamento dell’aerodromo di Trogen (AR), nella quale la Confederazione stabilisce prescrizioni generali in merito all’infrastruttura e all’esercizio di un aerodromo.</lead>
       <text link="no"> &lt;p&gt;&lt;b&gt;Aerodromi invernali e coutenza a scopi militari&lt;/b&gt;&lt;/p&gt;&lt;p&gt;In Svizzera esistono quattro campi d’aviazione e due eliporti invernali. Si tratta di impianti con esercizio stagionale senza un’infrastruttura fissa. Attualmente solo il campo d’aviazione invernale di Schwarzsee (FR) ha una scheda di coordinamento PSIA. Per quanto riguarda i restanti cinque aerodromi invernali (Blumental, Lauberhorn, Männlichen, Gstaad-Inn Grund, St. Moritz), l’Ufficio federale dell’aviazione civile (UFAC) esaminerà le ripercussioni del loro esercizio sull’ambiente come pure il potenziale rischio di conflitti a livello di pianificazione territoriale con le parti coinvolte, ovvero i Cantoni di Berna e dei Grigioni, i Comuni e gli esercenti interessati. Se queste ripercussioni sono di lieve entità, d’intesa con il Cantone si propende per la rinuncia alla creazione e all’adozione di una scheda di coordinamento.&lt;br /&gt; Le Forze aeree intendono utilizzare alcuni aerodromi civili a scopi militari, tra cui in particolare quelli di Buochs (NW), Mollis (GL) e St. Stephan (BE). Le Forze aeree hanno in programma alcune esercitazioni in questi tre aerodromi per una durata massima di due giorni all’anno.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Nuova scheda di coordinamento per Trogen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;L’eliporto di Trogen è l’unico impianto di questo tipo situato nel Cantone di Appenzello Esterno. In esso si svolgono voli di istruzione e di perfezionamento come pure il lavoro aereo e i voli di collaudo. La nuova scheda di coordinamento fissa in modo vincolante la delimitazione a livello territoriale e il quadro di riferimento per le operazioni di volo. Il Cantone di ubicazione e i Comuni interessati approvano la nuova scheda di coordinamento. Il Cantone ha chiesto che le rotte di avvicinamento e di decollo a sud possano essere adeguate se necessario alle necessità del progetto di comprensorio per impianti eolici «Honegg». L’UFAC ha quindi integrato la richiesta nella scheda di coordinamento. &lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Piano settoriale dei trasporti, Parte Infrastruttura aeronautica (PSIA)&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Il PSIA contiene, per ogni aerodromo, una scheda di coordinamento nella quale vengono precisate le direttive enunciate nella parte concettuale. Tale scheda stabilisce in modo vincolante le condizioni per i futuri ampliamenti e trasformazioni dell’infrastruttura nonché per l’esercizio di un aerodromo. Essa contiene prescrizioni concernenti l’esercizio, il perimetro dell’aerodromo, l’inquinamento fonico, la limitazione degli ostacoli, la tutela della natura e del paesaggio e il collegamento dell’aerodromo. La scheda di coordinamento è il presupposto per l’approvazione del regolamento d’esercizio e per l’autorizzazione degli impianti d’aerodromo (approvazione dei piani).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Elaborazione delle schede di coordinamento PSIA&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Le schede di coordinamento vengono elaborate in due fasi: la prima include una procedura di coordinamento, che coinvolge i servizi competenti della Confederazione e dei Cantoni, i Comuni interessati e l’esercente dell’aerodromo. I risultati di tale procedura vengono riportati in un verbale di coordinamento. La seconda fase comprende la procedura basata sulle disposizioni dell’ordinanza sulla pianificazione del territorio. Parti essenziali di tale procedura sono la consultazione delle autorità in merito al progetto della scheda di coordinamento e la partecipazione della popolazione a tale progetto, nonché l’armonizzazione della scheda con i piani direttori cantonali.&lt;/p&gt; </text>
       <contact>Ufficio federale dell'aviazione civile, Comunicazione: +41 58 464 23 35</contact>
-      <link id="282083">
+      <link id="282239">
         <title>Serie PSIA: documenti</title>
         <uri>https://www.bazl.admin.ch/bazl/it/home/politica/politica-aeronautica/piano-settoriale-dellinfrastruttura-aeronautica--psia-/parte--schede-di-coordinamento--del-psia/serie-psia--documenti.html</uri>
         <position>Context</position>
       </link>
-      <link id="282084">
+      <link id="282240">
         <title>map.geo.admin.ch: Carta e dati</title>
         <uri>https://s.geo.admin.ch/bm8tw5wz9bty</uri>
         <position>Context</position>
       </link>
-      <revisions> </revisions>
+      <revisions>
+        <revision date="2024-11-21 15:37" type="R"/>
+      </revisions>
     </content>
     <offers>
       <offer id="47" org-id="812">
