@@ -4,6 +4,21 @@
     <version>2</version>
     <pubdate>2024-11-20</pubdate>
     <type>Memorandum</type>
+    <originator department-msg="no" id="806" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Zivilluftfahrt</name>
+      <name lang="fr">Office fédéral de l'aviation civile</name>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="en">Federal Office of Civil Aviation</name>
+      <www lang="de">http://www.bazl.admin.ch</www>
+      <www lang="fr">http://www.bazl.admin.ch</www>
+      <www lang="it">http://www.bazl.admin.ch</www>
+      <www lang="en">http://www.bazl.admin.ch</www>
+      <email lang="de">info@bazl.admin.ch</email>
+      <email lang="fr">info@bazl.admin.ch</email>
+      <email lang="it">info@bazl.admin.ch</email>
+      <email lang="en">info@bazl.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
       <department-id>1070</department-id>
       <name lang="de">Der Bundesrat</name>
@@ -79,20 +94,6 @@
       <email lang="it">info@vtg.admin.ch</email>
       <email lang="en">info@vtg.admin.ch</email>
     </originator>
-    <department id="1070">
-      <name lang="de">Der Bundesrat</name>
-      <name lang="fr">Conseil fédéral</name>
-      <name lang="it">Il Consiglio federale</name>
-      <name lang="en">The Federal Council</name>
-      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
-      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
-      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
-      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
-      <email lang="de">info@bk.admin.ch</email>
-      <email lang="fr">info@bk.admin.ch</email>
-      <email lang="it">info@bk.admin.ch</email>
-      <email lang="en">info@bk.admin.ch</email>
-    </department>
     <department id="801">
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
@@ -106,6 +107,20 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
     </department>
     <department id="501">
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
