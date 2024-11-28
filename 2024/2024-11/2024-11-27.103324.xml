@@ -79,6 +79,36 @@
       <email lang="it">info@babs.admin.ch</email>
       <email lang="en">info@babs.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="602" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Generalsekretariat EFD</name>
+      <name lang="fr">Secrétariat général DFF</name>
+      <name lang="it">Segreteria generale DFF</name>
+      <name lang="en">Secretariat-General FDF</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="fr">http://www.efd.admin.ch</www>
+      <www lang="it">http://www.efd.admin.ch</www>
+      <www lang="en">http://www.efd.admin.ch</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="603" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="en">Federal Finance Administration</name>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="en">http://www.efv.admin.ch</www>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="en">info@efv.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">armasuisse</name>
@@ -121,6 +151,20 @@
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="en">Federal Department of Finance</name>
+      <www lang="de">https://www.efd.admin.ch/de</www>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
+      <email lang="de">info@gs-efd.admin.ch</email>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="en">info@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -211,43 +255,19 @@
       </revisions>
     </content>
     <keywords>
-      <keyword id="5530" org-id="502">
-        <name lang="de">Bundespolitik / Bundesrat</name>
-        <name lang="fr">Politique fédérale</name>
-        <name lang="it">Politica federale / Consiglio federale</name>
-        <name lang="en">federal policy / Federal Council(lor)</name>
-      </keyword>
-      <keyword id="5017" org-id="502">
-        <name lang="de">Dossier RUAG</name>
-        <name lang="fr">Dossier RUAG</name>
-        <name lang="it">Dossier RUAG</name>
-        <name lang="en">Dossier RUAG</name>
-      </keyword>
-      <keyword id="5981" org-id="502">
-        <name lang="de">Dossier Departementschef</name>
-        <name lang="fr">Dossier Departementschef</name>
-        <name lang="it">Dossier Departementschef</name>
-        <name lang="en">Dossier Departementschef</name>
+      <keyword id="115" org-id="603">
+        <name lang="de">Der Bund als Eigner von Betrieben</name>
+        <name lang="fr">La Confédération en tant que propriétaire d'entreprises</name>
+        <name lang="it">La Confederazione in qualità di proprietaria di aziende</name>
+        <name lang="en">The Confederation as an owner of business concerns</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="3">
-        <name lang="de">Armee</name>
-        <name lang="fr">Armée</name>
-        <name lang="it">Esercito</name>
-        <name lang="en">Armed Forces</name>
-      </topic>
-      <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="en">Security</name>
+      <topic id="33">
+        <name lang="de">Bundespräsident/-in</name>
+        <name lang="fr">Président/e de la Confédération</name>
+        <name lang="it">Presidente della Confederazione</name>
+        <name lang="en">President of the Swiss Confederation</name>
       </topic>
     </topics>
   </message>
