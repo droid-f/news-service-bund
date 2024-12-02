@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="103324" revoked="no">
-    <version>2</version>
+    <version>3</version>
     <pubdate>2024-11-27</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="1070" lead="yes" topnews="no">
@@ -79,36 +79,6 @@
       <email lang="it">info@babs.admin.ch</email>
       <email lang="en">info@babs.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="602" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Generalsekretariat EFD</name>
-      <name lang="fr">Secrétariat général DFF</name>
-      <name lang="it">Segreteria generale DFF</name>
-      <name lang="en">Secretariat-General FDF</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="fr">http://www.efd.admin.ch</www>
-      <www lang="it">http://www.efd.admin.ch</www>
-      <www lang="en">http://www.efd.admin.ch</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </originator>
-    <originator department-msg="no" id="603" lead="no" topnews="no">
-      <department-id>601</department-id>
-      <name lang="de">Eidg. Finanzverwaltung</name>
-      <name lang="fr">Administration fédérale des finances</name>
-      <name lang="it">Amministrazione federale delle finanze</name>
-      <name lang="en">Federal Finance Administration</name>
-      <www lang="de">http://www.efv.admin.ch</www>
-      <www lang="fr">http://www.efv.admin.ch</www>
-      <www lang="it">http://www.efv.admin.ch</www>
-      <www lang="en">http://www.efv.admin.ch</www>
-      <email lang="de">kommunikation@efv.admin.ch</email>
-      <email lang="fr">kommunikation@efv.admin.ch</email>
-      <email lang="it">kommunikation@efv.admin.ch</email>
-      <email lang="en">info@efv.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="506" lead="no" topnews="no">
       <department-id>501</department-id>
       <name lang="de">armasuisse</name>
@@ -152,40 +122,27 @@
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
-    <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">https://www.efd.admin.ch/de</www>
-      <www lang="fr">https://www.efd.admin.ch/fr</www>
-      <www lang="it">https://www.efd.admin.ch/it</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
-      <email lang="de">info@gs-efd.admin.ch</email>
-      <email lang="fr">info@gs-efd.admin.ch</email>
-      <email lang="it">info@gs-efd.admin.ch</email>
-      <email lang="en">info@gs-efd.admin.ch</email>
-    </department>
     <content lang="de">
       <city>Bern</city>
       <title>Bundesrat überprüft die Rechtsform der RUAG MRO</title>
       <lead>Der Bundesrat hat an seiner Sitzung vom 27. November 2024 beschlossen, für die RUAG MRO Holding AG (RUAG MRO) Rechtsformen des öffentlichen Rechts zu prüfen. Das VBS wird nun verschiedene Varianten prüfen und bis Ende Mai 2025 eine Vernehmlassungsvorlage zur Änderung des Bundesgesetzes über die Rüstungsunternehmen des Bundes erarbeiten. </lead>
       <text link="no">&lt;p&gt;Eine durch die Chefin des VBS initiierte Untersuchung der Eidgenössischen Finanzkontrolle (EFK) hat den Verdacht von Unstimmigkeiten bei Geschäften der RUAG MRO mit Leopard-1-Panzern bestätigt. In der Folge entschied sich das VBS zu prüfen, ob die bestehende Rechtsform der RUAG MRO noch sachgerecht ist. Dazu liess es bei Martin Dumermuth, ehemaliger Direktor des Bundesamts für Justiz, ein Gutachten erstellen.&lt;/p&gt;&lt;p&gt;Der Bericht kommt zum Schluss, dass die privatrechtliche AG als Rechtsform der RUAG MRO den heutigen Anforderungen nicht mehr genügt. Die Tätigkeiten der RUAG MRO sind heute durch eine grosse Nähe zur Armee gekennzeichnet. Wie bei der Entflechtung des ehemaligen RUAG-Konzerns (RUAG Holding AG) in die RUAG MRO und die RUAG International vorgesehen, machen die Armeeaufträge heute über 80 Prozent des Umsatzes der RUAG MRO aus.&lt;/p&gt;&lt;p&gt;Zudem verlangt auch die geopolitische Lage eine dynamischere politische Steuerung, als dies bei einer privatrechtlichen AG möglich ist. Die aktuelle Situation unterscheidet sich grundlegend von den Vorstellungen, die vor knapp 30 Jahren zur Wahl der privatrechtlichen AG als Rechtsform geführt haben. Ausschlaggebend war, dass die Beteiligung von Privaten ermöglicht werden sollte und sich der Bund bei der Einflussnahme auf das Unternehmen auf seine Rechte als Aktionär beschränken wollte. Die erhoffte Beteiligung Privater kam nie zustande. Zudem ist die Führung durch strategische Ziele ausgebaut worden, was mit den Grundsätzen der privatrechtlichen AG in Konflikt tritt. Dieses Spannungsfeld führt zu Rechtsunsicherheit und ist sowohl aus Steuerungsoptik als auch aus Sicht der RUAG MRO unbefriedigend.&lt;/p&gt;&lt;h2&gt;Grösserer Gestaltungsspielraum für den Bund im öffentlichen Recht&lt;/h2&gt;&lt;p&gt;Deshalb hat der Bundesrat beschlossen, für die RUAG MRO mögliche Rechtsformen des öffentlichen Rechts zu prüfen. Im öffentlichen Recht hat der Bund mehr Gestaltungsfreiheit, da nicht wie im Privatrecht eine Bindung an eine feste Zahl streng vordefinierter Gesellschaftstypen besteht. In Frage kommen namentlich die öffentlich-rechtliche Anstalt oder die spezialgesetzliche AG des öffentlichen Rechts, die den Bedürfnissen des Bundes entsprechend ausgestaltet werden können. Zudem wird die Variante einer Reintegration in das VBS geprüft.&lt;/p&gt;&lt;p&gt;Der Bundesrat hat das VBS beauftragt, ihm bis Ende Mai 2025 eine Vernehmlassungsvorlage zur Änderung der gesetzlichen Grundlagen zu unterbreiten. Der Bundesrat will damit sicherstellen, dass die RUAG MRO eine solide rechtliche Basis erhält, mit welcher sie für die Zukunft gewappnet ist.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;Die RUAG MRO ist aus der vom Bundesrat im Jahre 2018 beschlossenen Entflechtung des ehemaligen RUAG Konzerns (RUAG Holding AG) hervorgegangen. Die RUAG-Einheiten, die für die Armee tätig waren, wurden zur RUAG MRO, die übrigen Elemente fasste die RUAG International zusammen, deren Ziel im Verkauf ihrer Unternehmenseinheiten und der anschliessenden Liquidation lag.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
       <contact>Kommunikation VBS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="282591">
+      <attachment id="282766">
         <title>Gutachten: Welche Rechtsform für die RUAG?</title>
         <format>pdf</format>
         <size-kb>769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/90862.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="282587">
+      <link id="282762">
         <title>Medienkonferenz 27. November 2024</title>
         <uri>https://youtube.com/live/bgaK6ddS_Zs</uri>
         <position>Context</position>
       </link>
       <revisions>
         <revision date="2024-11-27 16:41" type="R"/>
+        <revision date="2024-12-02 16:30" type="R"/>
       </revisions>
     </content>
     <content lang="fr">
@@ -194,20 +151,21 @@
       <lead>Lors de sa séance du 27 novembre 2024, le Conseil fédéral a décidé d’étudier les formes juridiques de droit public que peut prendre RUAG MRO Holding SA (RUAG MRO). Le DDPS entend examiner diverses variantes et élaborer un projet d’ici la fin mai 2025 afin de mettre en consultation une modification de la loi fédérale sur les entreprises d’armement de la Confédération.</lead>
       <text link="no">&lt;p&gt;Un audit du Contrôle fédéral des finances, initié par la cheffe du DDPS, a confirmé des soupçons d’irrégularités dans les transactions de RUAG MRO autour des chars Leopard 1. Le DDPS a alors décidé d’examiner si l’actuelle forme juridique de RUAG MRO était encore appropriée. Pour ce faire, il a chargé l’ancien directeur de l’Office fédéral de la justice Martin Dumermuth d’établir une expertise.&lt;/p&gt;&lt;p&gt;Le rapport conclut que la société anonyme (SA) de droit privé comme forme juridique de RUAG MRO ne répond plus aux exigences actuelles. Les activités de RUAG MRO se caractérisent aujourd’hui par une grande proximité avec l’armée. Comme prévu lors de la dissociation des activités de RUAG Holding SA en RUAG MRO et RUAG International, les commandes de l’armée représentent aujourd’hui plus de 80 % du chiffre d’affaires de RUAG MRO.&lt;/p&gt;&lt;p&gt;De plus, la situation géopolitique exige aussi un pilotage politique plus dynamique que celui qui est possible avec une SA de droit privé. La situation actuelle diffère fondamentalement des idées qui ont conduit au choix de la SA de droit privé comme forme juridique il y a près de trente ans. L’élément déterminant à ce moment-là était de permettre la participation de personnes privées, la Confédération voulant se limiter à ses droits d’actionnaire dans son influence sur l’entreprise. Mais la participation espérée du secteur privé n’a jamais eu lieu. De plus, la gestion a été développée en fonction d’objectifs stratégiques, ce qui entre en conflit avec les principes de la SA de droit privé. Ces tiraillements entraînent une insécurité juridique et ne sont pas satisfaisants, tant pour le pilotage que pour RUAG MRO.&lt;/p&gt;&lt;h2&gt;Plus de marge de manœuvre pour la Confédération avec le droit public&lt;/h2&gt;&lt;p&gt;C’est pourquoi le Conseil fédéral a décidé d’examiner les formes juridiques de droit public qui pourraient s’appliquer à RUAG MRO. En droit public, la Confédération dispose d’une plus grande liberté d’organisation, car elle n’est pas liée, comme en droit privé, par un nombre fixe et prédéfini de types de société. Les formes juridiques envisageables sont notamment l’établissement de droit public ou la SA de droit public régie par une loi spéciale, chacune de ces formes pouvant être aménagée en fonction des besoins de la Confédération. La variante d’une réintégration au sein du DDPS est aussi à l'étude.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral a chargé le DDPS de lui soumettre, d’ici la fin mai 2025, un projet de mise en consultation de modification des bases légales. Il veut ainsi s’assurer que RUAG MRO dispose d’une base juridique solide pour affronter l’avenir.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;RUAG MRO est issue de la dissociation des activités de RUAG Holding SA, décidée par le Conseil fédéral en 2018. Les unités de RUAG travaillant pour l’armée sont devenues RUAG MRO ; les autres entités ont été regroupées au sein de RUAG International, dont l’objectif était de vendre ses composantes d’entreprise avant la liquidation.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
       <contact>Communication DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch.</contact>
-      <attachment id="282591">
+      <attachment id="282766">
         <title>Gutachten: Welche Rechtsform für die RUAG?</title>
         <format>pdf</format>
         <size-kb>769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/90862.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="282588">
+      <link id="282763">
         <title>Conférence de presse 27 novembre 2024</title>
         <uri>https://youtube.com/live/bgaK6ddS_Zs</uri>
         <position>Context</position>
       </link>
       <revisions>
         <revision date="2024-11-27 16:41" type="R"/>
+        <revision date="2024-12-02 16:30" type="R"/>
       </revisions>
     </content>
     <content lang="it">
@@ -216,20 +174,21 @@
       <lead>Nella sua seduta del 27 novembre 2024 il Consiglio federale ha deciso di valutare le forme giuridiche di diritto pubblico per la RUAG MRO Holding SA (RUAG MRO). Ora il DDPS valuterà diverse varianti ed entro la fine di maggio 2025 elaborerà un progetto da porre in consultazione per una modifica della legge federale concernente le imprese d’armamento della Confederazione. </lead>
       <text link="no">&lt;p&gt;Un’inchiesta condotta dal Controllo federale delle finanze (CDF) e avviata dal capo del DDPS ha confermato i sospetti di incoerenze legate ad affari della RUAG MRO con i carri armati Leopard 1. In seguito il DDPS ha deciso di verificare l’idoneità dell’attuale forma giuridica della RUAG MRO. A questo scopo ha fatto redigere una perizia da Martin Dumermuth, ex direttore dell’Ufficio federale di giustizia.&lt;/p&gt;&lt;p&gt;Il rapporto giunge alla conclusione che la forma giuridica di società anonima di diritto privato per la RUAG MRO non soddisfa più le esigenze odierne. Oggi le attività della RUAG MRO sono caratterizzate da una grande vicinanza all’esercito. In linea con quanto previsto in occasione dello scorporo dell’ex gruppo RUAG (RUAG Holding SA) in RUAG MRO e RUAG International, ad oggi l’80 per cento del giro d’affari della RUAG MRO riguarda mandati dell’esercito.&lt;/p&gt;&lt;p&gt;Inoltre la situazione geopolitica richiede anche una direzione politica più dinamica rispetto a quanto sia possibile in una società anonima di diritto privato. La situazione attuale è profondamente diversa rispetto a quella che ha dato origine alle idee che poco meno di 30 anni fa hanno portato a scegliere la forma giuridica di una società anonima di diritto privato. I fattori determinanti erano l’intento di consentire a privati di partecipare e la volontà della Confederazione di limitarsi ai propri diritti in veste di azionista nell’esercitare la sua influenza sull’azienda. Però la partecipazione auspicata da parte di privati non si è mai concretizzata. Inoltre all’attività direttiva si sono aggiunti obiettivi strategici, cosa che entra in conflitto con i principi di una società anonima di diritto privato. Questa fonte di tensioni comporta un’incertezza giuridica ed è insoddisfacente sia in un’ottica gestionale sia per la RUAG MRO.&lt;/p&gt;&lt;h2&gt;Una forma giuridica di diritto pubblico offre maggiore margine di manovra per la Confederazione&lt;/h2&gt;&lt;p&gt;Per questa ragione il Consiglio federale ha deciso di valutare le possibili forme giuridiche di diritto pubblico per la RUAG MRO. Nel contesto del diritto pubblico la Confederazione ha maggiore libertà d’azione, dato che a differenza del diritto privato non esiste un vincolo a un numero fisso di tipologie di società rigorosamente predefinite. Possono essere presi in considerazione in particolare l’istituto di diritto pubblico o la società anonima di diritto speciale di diritto pubblico che possono essere organizzati in base alle esigenze della Confederazione. Si sta anche vagliando la variante di una reintegrazione nel DDPS.&lt;/p&gt;&lt;p&gt;Il Consiglio federale ha incaricato il DDPS di sottoporgli entro la fine di maggio 2025 un progetto da porre in consultazione per modificare le basi legali. Così facendo il Consiglio federale intende assicurare che la RUAG MRO disponga di basi giuridiche solide e idonee a far fronte alle sfide future. &lt;/p&gt;&lt;p class="nsbtextkasten"&gt;La RUAG MRO è nata dallo scorporo dell’ex gruppo RUAG (RUAG Holding SA) deciso dal Consiglio federale nel 2018. Le unità della RUAG che erano attive per l’esercito sono state accorpate nella RUAG MRO, mentre gli altri elementi sono stati riuniti nella RUAG International, il cui obiettivo consisteva nella cessione delle sue unità aziendali e nella successiva liquidazione.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</text>
       <contact>Comunicazione DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="282591">
+      <attachment id="282766">
         <title>Gutachten: Welche Rechtsform für die RUAG?</title>
         <format>pdf</format>
         <size-kb>769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/90862.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="282589">
+      <link id="282764">
         <title>Conferenza stampa 27 novembre 2024</title>
         <uri>https://youtube.com/live/bgaK6ddS_Zs</uri>
         <position>Context</position>
       </link>
       <revisions>
         <revision date="2024-11-27 16:41" type="R"/>
+        <revision date="2024-12-02 16:30" type="R"/>
       </revisions>
     </content>
     <content lang="en">
@@ -238,36 +197,61 @@
       <lead>At its meeting on 27 November, the Federal Council decided to evaluate the possibility of converting RUAG MRO Holding AG (RUAG MRO) into a public-law entity. The DDPS will now examine various options and prepare a bill for consultation on the revision of the Federal Act on Federal Armaments Companies by end of May 2025.</lead>
       <text link="no">&lt;p&gt;An investigation by the Swiss Federal Audit Office (SFAO), ordered by the head of the DDPS, has confirmed suspicions of irregularities in connection with RUAG MRO’s purchase of Leopard-1 main battle tanks. As a result, the DDPS decided to review whether the current legal form of RUAG MRO was still appropriate, and charged Martin Dumermuth, the former head of the Federal Office of Justice, with preparing an expert report.&lt;/p&gt;&lt;p&gt;The report concludes that RUAG MRO’s current legal form as a limited company under private law is no longer appropriate for today’s requirements. RUAG MRO’s activities are characterised by their close proximity to the Swiss Armed Forces. As envisaged when the former RUAG Holding AG was split into RUAG MRO and RUAG International, orders from the Armed Forces now account for over 80% of RUAG MRO’s turnover.&lt;/p&gt;&lt;p&gt;In addition, the geopolitical climate calls for a more flexible political control than is possible with a limited company under private law. The current situation is fundamentally different from the situation 30 years ago when a private-law company was chosen as the legal form. The decision was based on the desire to allow private investment and to limit the Confederation’s influence to its rights as a shareholder. The participation of private individuals that had been envisaged never materialised. In addition, management has been strengthened by strategic objectives, which is contrary to the principles of a private-law company. This tension leads to legal uncertainty and is unsatisfactory from both from the point of view of control and from the perspective of RUAG MRO itself.&lt;/p&gt;&lt;h2&gt;Greater freedom for the Confederation under public law&lt;/h2&gt;&lt;p&gt;The Federal Council has decided to evaluate the possibility of converting RUAG MRO into a public-law entity. Under public law, the Confederation has more freedom to shape the company structure because, unlike under private law, there is no obligation to adhere to a fixed number of strictly predefined types of company. The legal forms of public-law institution or special-purpose public-law corporation are being considered in particular, as these can be shaped according to the Confederation’s needs. The possibility of reintegrating RUAG MRO into the DDPS is also under consideration. &lt;/p&gt;&lt;p&gt;The Federal Council has charged the DDPS with preparing a bill for consultation on the revision of the relevant legislation for the Federal Council by end of May 2025. The Federal Council’s aim is to ensure that RUAG MRO has a sound legal basis to equip it for the future.&lt;/p&gt;&lt;p class="nsbtextkasten"&gt;RUAG MRO emerged from the unbundling of the former RUAG Holding AG, which was decided by the Swiss Federal Council in 2018. The RUAG units working for the Swiss Armed Forces became RUAG MRO, while the other elements were combined to form RUAG International, with the aim of selling off the business units and then liquidating the company.&lt;/p&gt;</text>
       <contact>DDPS Communication +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <attachment id="282591">
+      <attachment id="282766">
         <title>Gutachten: Welche Rechtsform für die RUAG?</title>
         <format>pdf</format>
         <size-kb>769</size-kb>
         <uri>https://www.newsd.admin.ch/newsd/message/attachments/90862.pdf</uri>
         <position>Context</position>
       </attachment>
-      <link id="282590">
+      <link id="282765">
         <title>Press conference 27 November 2024</title>
         <uri>https://youtube.com/live/bgaK6ddS_Zs</uri>
         <position>Context</position>
       </link>
       <revisions>
         <revision date="2024-11-27 16:41" type="R"/>
+        <revision date="2024-12-02 16:30" type="R"/>
       </revisions>
     </content>
     <keywords>
-      <keyword id="115" org-id="603">
-        <name lang="de">Der Bund als Eigner von Betrieben</name>
-        <name lang="fr">La Confédération en tant que propriétaire d'entreprises</name>
-        <name lang="it">La Confederazione in qualità di proprietaria di aziende</name>
-        <name lang="en">The Confederation as an owner of business concerns</name>
+      <keyword id="5530" org-id="502">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+      </keyword>
+      <keyword id="5017" org-id="502">
+        <name lang="de">Dossier RUAG</name>
+        <name lang="fr">Dossier RUAG</name>
+        <name lang="it">Dossier RUAG</name>
+        <name lang="en">Dossier RUAG</name>
+      </keyword>
+      <keyword id="5981" org-id="502">
+        <name lang="de">Dossier Departementschef</name>
+        <name lang="fr">Dossier Departementschef</name>
+        <name lang="it">Dossier Departementschef</name>
+        <name lang="en">Dossier Departementschef</name>
       </keyword>
     </keywords>
     <topics>
-      <topic id="33">
-        <name lang="de">Bundespräsident/-in</name>
-        <name lang="fr">Président/e de la Confédération</name>
-        <name lang="it">Presidente della Confederazione</name>
-        <name lang="en">President of the Swiss Confederation</name>
+      <topic id="3">
+        <name lang="de">Armee</name>
+        <name lang="fr">Armée</name>
+        <name lang="it">Esercito</name>
+        <name lang="en">Armed Forces</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
   </message>
