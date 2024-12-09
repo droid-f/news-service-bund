@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <message id="103468" revoked="no">
-    <version>1</version>
+    <version>2</version>
     <pubdate>2024-12-06</pubdate>
     <type>Memorandum</type>
     <originator department-msg="no" id="302" lead="yes" topnews="no">
@@ -18,6 +18,21 @@
       <email lang="fr">info@gs-edi.admin.ch</email>
       <email lang="it">info@gs-edi.admin.ch</email>
       <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="319" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="en">http://www.bsv.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="en"/>
     </originator>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -57,6 +72,34 @@
       <contact>Christian Favre, co-responsabile Comunicazione DFI, +41 58 485 62 61</contact>
       <revisions> </revisions>
     </content>
+    <offers>
+      <offer id="31" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="en">Social Insurances</name>
+      </offer>
+      <offer id="32" org-id="319">
+        <name lang="de">AHV</name>
+        <name lang="fr">AVS</name>
+        <name lang="it">AVS</name>
+        <name lang="en">Old Age Insurance</name>
+      </offer>
+    </offers>
+    <keywords>
+      <keyword id="318.1" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="en">Social Insurances</name>
+      </keyword>
+      <keyword id="318.2" org-id="319">
+        <name lang="de">AHV</name>
+        <name lang="fr">AVS</name>
+        <name lang="it">AVS</name>
+        <name lang="en">Old Age Insurance</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="10">
         <name lang="de">Bundesrat</name>
