@@ -34,6 +34,21 @@
       <email lang="it">media@bag.admin.ch</email>
       <email lang="en">media@bag.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="302" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Generalsekretariat EDI</name>
+      <name lang="fr">Secrétariat général DFI</name>
+      <name lang="it">Segreteria generale DFI</name>
+      <name lang="en">General Secretariat FDHA</name>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="en">http://www.edi.admin.ch</www>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="en">info@gs-edi.admin.ch</email>
+    </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
       <name lang="fr">Conseil fédéral</name>
@@ -110,23 +125,17 @@
       </keyword>
     </keywords>
     <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="en">Authorities</name>
+      </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="en">Federal Council</name>
-      </topic>
-      <topic id="15">
-        <name lang="de">Gesundheit</name>
-        <name lang="fr">Santé</name>
-        <name lang="it">sanità</name>
-        <name lang="en">Health</name>
-      </topic>
-      <topic id="41">
-        <name lang="de">Soziales</name>
-        <name lang="fr">Social</name>
-        <name lang="it">Opere sociali</name>
-        <name lang="en">Social Affairs</name>
       </topic>
     </topics>
   </message>
