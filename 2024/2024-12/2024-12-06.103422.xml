@@ -19,21 +19,6 @@
       <email lang="it">info@bk.admin.ch</email>
       <email lang="en">info@bk.admin.ch</email>
     </originator>
-    <originator department-msg="no" id="812" lead="no" topnews="no">
-      <department-id>801</department-id>
-      <name lang="de">Bundesamt für Raumentwicklung</name>
-      <name lang="fr">Office fédéral du développement territorial</name>
-      <name lang="it">Ufficio federale dello sviluppo territoriale</name>
-      <name lang="en">Federal Office for Spatial Development</name>
-      <www lang="de">http://www.are.admin.ch</www>
-      <www lang="fr">https://www.are.admin.ch/are/fr/home.html</www>
-      <www lang="it">https://www.are.admin.ch/are/it/home.html</www>
-      <www lang="en">https://www.are.admin.ch/are/en/home.html</www>
-      <email lang="de">media@are.admin.ch</email>
-      <email lang="fr">media@are.admin.ch</email>
-      <email lang="it">media@are.admin.ch</email>
-      <email lang="en">media@are.admin.ch</email>
-    </originator>
     <originator department-msg="no" id="804" lead="no" topnews="no">
       <department-id>801</department-id>
       <name lang="de">Generalsekretariat UVEK</name>
@@ -48,6 +33,21 @@
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator department-msg="no" id="812" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Raumentwicklung</name>
+      <name lang="fr">Office fédéral du développement territorial</name>
+      <name lang="it">Ufficio federale dello sviluppo territoriale</name>
+      <name lang="en">Federal Office for Spatial Development</name>
+      <www lang="de">http://www.are.admin.ch</www>
+      <www lang="fr">https://www.are.admin.ch/are/fr/home.html</www>
+      <www lang="it">https://www.are.admin.ch/are/it/home.html</www>
+      <www lang="en">https://www.are.admin.ch/are/en/home.html</www>
+      <email lang="de">media@are.admin.ch</email>
+      <email lang="fr">media@are.admin.ch</email>
+      <email lang="it">media@are.admin.ch</email>
+      <email lang="en">media@are.admin.ch</email>
     </originator>
     <department id="1070">
       <name lang="de">Der Bundesrat</name>
@@ -146,37 +146,55 @@
       </offer>
     </offers>
     <keywords>
-      <keyword id="210" org-id="804">
+      <keyword id="210" org-id="812">
         <name lang="de">Bundesrat</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="en">Federal Council</name>
       </keyword>
-      <keyword id="1500" org-id="804">
-        <name lang="de">Verkehrspolitik</name>
-        <name lang="fr">Verkehrspolitik</name>
-        <name lang="it">Verkehrspolitik</name>
-        <name lang="en">Verkehrspolitik</name>
+      <keyword id="450" org-id="812">
+        <name lang="de">Freizeit, Sport und Tourismus</name>
+        <name lang="fr">Sport et tourisme</name>
+        <name lang="it">Sport e turismo</name>
+        <name lang="en">Sport and tourism</name>
       </keyword>
-      <keyword id="1040" org-id="804">
-        <name lang="de">Schienenverkehr</name>
-        <name lang="fr">Trafic ferroviaire</name>
-        <name lang="it">Traffico su rotaia</name>
-        <name lang="en">Schienenverkehr</name>
+      <keyword id="20" org-id="812">
+        <name lang="de">Agglomerationen</name>
+        <name lang="fr">Agglomérations</name>
+        <name lang="it">Agglomerati</name>
+        <name lang="en">Agglomerationen</name>
       </keyword>
-      <keyword id="1150" org-id="804">
-        <name lang="de">Strassenverkehr</name>
-        <name lang="fr">Trafic routier</name>
-        <name lang="it">Circolazione stradale</name>
-        <name lang="en">Road traffic</name>
+      <keyword id="1350" org-id="812">
+        <name lang="de">Verkehrskosten, externe</name>
+        <name lang="fr">Verkehrskosten, externe</name>
+        <name lang="it">Verkehrskosten, externe</name>
+        <name lang="en">Verkehrskosten, externe</name>
       </keyword>
-      <keyword id="991" org-id="804">
+      <keyword id="991" org-id="812">
         <name lang="de">Raumentwicklung</name>
         <name lang="fr">Raumentwicklung</name>
         <name lang="it">Raumentwicklung</name>
         <name lang="en">Raumentwicklung</name>
       </keyword>
-      <keyword id="1105" org-id="804">
+      <keyword id="2001" org-id="812">
+        <name lang="de">Publikationen</name>
+        <name lang="fr">Publications</name>
+        <name lang="it">Pubblicazioni</name>
+        <name lang="en">Publications</name>
+      </keyword>
+      <keyword id="1500" org-id="812">
+        <name lang="de">Verkehrspolitik</name>
+        <name lang="fr">Verkehrspolitik</name>
+        <name lang="it">Verkehrspolitik</name>
+        <name lang="en">Verkehrspolitik</name>
+      </keyword>
+      <keyword id="870" org-id="812">
+        <name lang="de">Verkehr: Finanzierung</name>
+        <name lang="fr">Verkehr: Finanzierung</name>
+        <name lang="it">Verkehr: Finanzierung</name>
+        <name lang="en">Verkehr: Finanzierung</name>
+      </keyword>
+      <keyword id="1105" org-id="812">
         <name lang="de">Verkehr und Raumordnung</name>
         <name lang="fr">Transports et aménagement du territoire</name>
         <name lang="it">Trasporti e ordinamento del territorio</name>
