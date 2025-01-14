@@ -34,6 +34,21 @@
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
+    <originator department-msg="no" id="502" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
     <originator department-msg="no" id="1079" lead="no" topnews="no">
       <department-id>301</department-id>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
@@ -91,6 +106,20 @@
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
+    </department>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </department>
     <department id="301">
       <name lang="de">Eidgenössisches Departement des Innern</name>
@@ -490,6 +519,14 @@
         <revision date="2025-01-10 17:52" type="R"/>
       </revisions>
     </content>
+    <keywords>
+      <keyword id="5530" org-id="502">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+      </keyword>
+    </keywords>
     <topics>
       <topic id="39">
         <name lang="de">Schweiz und Ausland</name>
