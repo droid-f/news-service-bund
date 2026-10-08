@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="103948" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-01-29</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator id="811" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="rm">Bundesamt für Umwelt BAFU</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <www lang="de">https://www.bafu.admin.ch</www>
+      <www lang="rm">https://www.bafu.admin.ch</www>
+      <www lang="it">https://www.bafu.admin.ch/it</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="rm">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="210" org-id="804">
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+      </keyword>
+      <keyword id="50" org-id="811">
+        <name lang="de">Biodiversität</name>
+        <name lang="de">Biodiversität</name>
+        <name lang="rm">Biodiversität</name>
+        <name lang="rm">Biodiversität</name>
+        <name lang="it">Biodiversità</name>
+        <name lang="it">Biodiversità</name>
+        <name lang="fr">Biodiversité</name>
+        <name lang="fr">Biodiversité</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="rm">Bundesamt für Umwelt: Startseite</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+      </keyword>
+      <keyword id="1600" org-id="804">
+        <name lang="de">Umweltpolitik</name>
+        <name lang="rm">Umweltpolitik</name>
+        <name lang="it">Umweltpolitik</name>
+        <name lang="fr">Umweltpolitik</name>
+      </keyword>
+    </keywords>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Wirkung von Subventionen auf die Biodiversität: Bundesrat will Transparenz weiter verbessern</title>
+      <lead>Der Bundesrat hat am 29. Januar 2025 den Fortschrittsbericht zur Verbesserung der Wirkung von Subventionen auf die Biodiversität zur Kenntnis genommen. Ausgewählte Subventionen wurden bereits vertieft überprüft. Die Prozesse sollen weiterentwickelt werden, auf weitere Vertiefungsstudien verzichtet der Bundesrat derzeit. </lead>
+      <text link="no"> &lt;p&gt;Die biodiversitätsrelevanten Subventionen des Bundes belaufen sich ohne den Grenzschutz im Landwirtschaftsbereich auf rund 10 Milliarden Franken pro Jahr. Acht Subventionen im Umfang von 3,3 Milliarden Franken pro Jahr wurden im Rahmen des Aktionsplans Biodiversität vertieft geprüft. Am 8. Dezember 2023 und am 19. Juni 2024 hat der Bundesrat die entsprechenden Vertiefungen zur Kenntnis genommen und die zuständigen Departemente mit gezielten Anpassungen zugunsten der Biodiversität beauftragt. &lt;/p&gt; &lt;p&gt;Gemäss dem Fortschrittsbericht, den der Bundesrat am 29. Januar 2025 zur Kenntnis genommen hat, werden die für die Biodiversität wichtigsten Subventionen entweder aktuell in einem umfassenderen Kontext überprüft (z.B. Agrarpolitik 2030+), wurden gerade erst eingeführt oder reformiert (z.B. Energiebereich) oder laufen aus (verschiedene Politikbereiche). Der Bundesrat sieht deshalb zum jetzigen Zeitpunkt keinen Bedarf für weitere Vertiefungen. Hingegen sollen die Prozesse weiterentwickelt werden, um künftig besser abschätzen zu können, welche Auswirkungen Subventionen auf die Biodiversität haben.&lt;/p&gt; &lt;p&gt;Bereits in den letzten Jahren wurden die Prozesse in der Verwaltung verbessert, so dass Auswirkungen von Subventionen auf die Biodiversität besser berücksichtigt werden. Bis Ende 2025 will der Bundesrat prüfen lassen, wie die Transparenz von Steuervergünstigungen weiter verbessert werden kann. Entsprechende Aufträge hat er dem Eidgenössischen Finanzdepartement (EFD) und dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) erteilt. Zudem hat er das UVEK beauftragt, bis Ende 2028 erneut einen Fortschrittsbericht zu unterbreiten und gegebenenfalls auch Vertiefungen und/oder Reformen vorzuschlagen. &lt;/p&gt; &lt;p&gt;Der Fortschrittsbericht geht auf einen Auftrag des Bundesrats von 2017 zurück, der im Rahmen des ersten Aktionsplans Strategie Biodiversität Schweiz erteilt wurde. Gleichzeitig kommt die Schweiz damit einer Verpflichtung aus der internationalen Biodiversitätskonvention nach.&lt;/p&gt; </text>
+      <attachment id="284546">
+        <title>Biodiversitäts-Auswirkungen von Bundessubventionen: Gesamtübersicht über die bisher erzielten Fortschritte zur Verbesserung von Anreizen</title>
+        <format>pdf</format>
+        <size-kb>710</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91603.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Umwelt: Sektion Medien, Bundesamt für Umwelt BAFU, Tel. +41 58 462 90 00, E-Mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Wirkung von Subventionen auf die Biodiversität: Bundesrat will Transparenz weiter verbessern</title>
+      <lead>Der Bundesrat hat am 29. Januar 2025 den Fortschrittsbericht zur Verbesserung der Wirkung von Subventionen auf die Biodiversität zur Kenntnis genommen. Ausgewählte Subventionen wurden bereits vertieft überprüft. Die Prozesse sollen weiterentwickelt werden, auf weitere Vertiefungsstudien verzichtet der Bundesrat derzeit. </lead>
+      <text link="no"> &lt;p&gt;Die biodiversitätsrelevanten Subventionen des Bundes belaufen sich ohne den Grenzschutz im Landwirtschaftsbereich auf rund 10 Milliarden Franken pro Jahr. Acht Subventionen im Umfang von 3,3 Milliarden Franken pro Jahr wurden im Rahmen des Aktionsplans Biodiversität vertieft geprüft. Am 8. Dezember 2023 und am 19. Juni 2024 hat der Bundesrat die entsprechenden Vertiefungen zur Kenntnis genommen und die zuständigen Departemente mit gezielten Anpassungen zugunsten der Biodiversität beauftragt. &lt;/p&gt; &lt;p&gt;Gemäss dem Fortschrittsbericht, den der Bundesrat am 29. Januar 2025 zur Kenntnis genommen hat, werden die für die Biodiversität wichtigsten Subventionen entweder aktuell in einem umfassenderen Kontext überprüft (z.B. Agrarpolitik 2030+), wurden gerade erst eingeführt oder reformiert (z.B. Energiebereich) oder laufen aus (verschiedene Politikbereiche). Der Bundesrat sieht deshalb zum jetzigen Zeitpunkt keinen Bedarf für weitere Vertiefungen. Hingegen sollen die Prozesse weiterentwickelt werden, um künftig besser abschätzen zu können, welche Auswirkungen Subventionen auf die Biodiversität haben.&lt;/p&gt; &lt;p&gt;Bereits in den letzten Jahren wurden die Prozesse in der Verwaltung verbessert, so dass Auswirkungen von Subventionen auf die Biodiversität besser berücksichtigt werden. Bis Ende 2025 will der Bundesrat prüfen lassen, wie die Transparenz von Steuervergünstigungen weiter verbessert werden kann. Entsprechende Aufträge hat er dem Eidgenössischen Finanzdepartement (EFD) und dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) erteilt. Zudem hat er das UVEK beauftragt, bis Ende 2028 erneut einen Fortschrittsbericht zu unterbreiten und gegebenenfalls auch Vertiefungen und/oder Reformen vorzuschlagen. &lt;/p&gt; &lt;p&gt;Der Fortschrittsbericht geht auf einen Auftrag des Bundesrats von 2017 zurück, der im Rahmen des ersten Aktionsplans Strategie Biodiversität Schweiz erteilt wurde. Gleichzeitig kommt die Schweiz damit einer Verpflichtung aus der internationalen Biodiversitätskonvention nach.&lt;/p&gt; </text>
+      <attachment id="284546">
+        <title>Biodiversitäts-Auswirkungen von Bundessubventionen: Gesamtübersicht über die bisher erzielten Fortschritte zur Verbesserung von Anreizen</title>
+        <format>pdf</format>
+        <size-kb>710</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91603.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Umwelt: Sektion Medien, Bundesamt für Umwelt BAFU, Tel. +41 58 462 90 00, E-Mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Impatto dei sussidi sulla biodiversità: il Consiglio federale intende migliorare ancora la trasparenza</title>
+      <lead>Il 29 gennaio 2025 il Consiglio federale ha preso atto del rapporto sul miglioramento dell’impatto dei sussidi sulla biodiversità. Una selezione di sussidi è già stata oggetto di una verifica approfondita ed è previsto un ulteriore sviluppo dei processi. Il Consiglio federale rinuncia al momento a ulteriori studi di approfondimento. </lead>
+      <text link="no"> &lt;p&gt;I sussidi federali rilevanti per la biodiversità, esclusa la protezione doganale nel settore agricolo, si aggirano intorno a 10 miliardi di franchi all’anno. Nel quadro del piano d’azione Biodiversità sono state sottoposte a una verifica approfondita otto sussidi per un ammontare di 3,3 miliardi di franchi all’anno. L’8 dicembre 2023 e il 19 giugno 2024, il Consiglio federale ha preso atto degli approfondimenti in materia e ha incaricato i dipartimenti responsabili di effettuare adeguamenti mirati a favore della biodiversità. &lt;/p&gt; &lt;p&gt;Secondo il rapporto, di cui il Consiglio federale ha preso atto il 29 gennaio 2025, i sussidi più importanti per la biodiversità sono attualmente oggetto di una verifica all’interno di un contesto più ampio (p. es. Politica agricola 2030+), sono stati introdotti o riformati da poco (p. es. nel settore dell'energia), oppure stanno per scadere (in vari ambiti politici). Pertanto, al momento il Consiglio federale non reputa necessario effettuare ulteriori approfondimenti. Per contro, prevede di sviluppare ulteriormente i processi per consentire in futuro di effettuare stime più precise in merito all’impatto dei sussidi sulla biodiversità.&lt;/p&gt; &lt;p&gt;Negli ultimi anni, nell’Amministrazione i processi sono già stati migliorati in modo da tenere meglio in considerazione l’impatto dei sussidi sulla biodiversità. Entro la fine del 2025, il Consiglio federale intende far esaminare in che modo è possibile migliorare ulteriormente la trasparenza nell’ambito delle agevolazioni fiscali. A tale scopo ha conferito appositi mandati al Dipartimento federale delle finanze (DFF) e al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC). Inoltre, ha incaricato il DATEC di presentare nuovamente un rapporto entro la fine del 2028 e, se del caso, di suggerire anche approfondimenti e/o riforme. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Mandato del piano d’azione Biodiversità&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il rapporto si basa su un mandato conferito dal Consiglio federale nel 2017 nel quadro del primo piano d’azione Strategia Biodiversità Svizzera. Al contempo, la Svizzera adempie così uno degli obblighi della Convenzione sulla diversità biologica.&lt;/p&gt; </text>
+      <attachment id="284548">
+        <title>Rapporto sul miglioramento dell’impatto dei sussidi sulla biodiversità (disponibile in francese)</title>
+        <format>pdf</format>
+        <size-kb>777</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91605.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Ufficio federale dell’ambiente: Sezione Media, tel. +41 58 462 90 00, e-mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Impact des subventions sur la biodiversité : le Conseil fédéral veut continuer à améliorer la transparence</title>
+      <lead>Le 29 janvier 2025, le Conseil fédéral a pris connaissance du rapport sur les progrès réalisés pour améliorer l’impact des subventions sur la biodiversité. Certaines d’entre elles ont déjà été analysées en profondeur. Si le Conseil fédéral reconnaît que les processus d’examen des subventions doivent être développés, il renonce à d’autres analyses approfondies. </lead>
+      <text link="no"> &lt;p&gt;Les subventions fédérales importantes pour la biodiversité représentent environ 10 milliards de francs par an (sans la protection aux frontières dans le domaine agricole). Huit instruments financiers de l’ordre de 3,3 milliards de francs par an ont été analysés en profondeur dans le cadre du plan d’action Stratégie Biodiversité Suisse (PA SBS). Le 8 décembre 2023 et le 19 juin 2024, le Conseil fédéral a pris connaissance des résultats et chargé les départements responsables de procéder à des modifications ciblées en faveur de la biodiversité. &lt;/p&gt; &lt;p&gt;Selon le rapport sur les progrès réalisés, dont le Conseil fédéral a pris connaissance le 29 janvier 2025, les principales subventions du point de vue de la biodiversité sont déjà examinées dans un contexte plus étendu (p. ex. politique agricole 2030+), viennent tout juste d’être mises en place ou réformées (p. ex. secteur de l’énergie) ou arrivent à échéance (différents domaines politiques). C’est pourquoi le Conseil fédéral ne voit pour l’heure pas la nécessité de procéder à des approfondissements supplémentaires. En revanche, il s’agit de développer les processus afin de pouvoir à l’avenir mieux évaluer l’impact des subventions sur la biodiversité.&lt;/p&gt; &lt;p&gt;Ces dernières années, les processus administratifs ont déjà été améliorés afin de mieux prendre en considération l’impact des subventions sur la biodiversité. D’ici à fin 2025, le Conseil fédéral entend faire examiner les possibilités d’améliorer la transparence s’agissant des allégements fiscaux. Il a confié les mandats correspondants au Département fédéral des finances et au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC). Il a en outre chargé le DETEC de rendre à nouveau compte des progrès réalisés d’ici fin 2028 et, le cas échéant, de proposer des analyses approfondies et/ou des réformes. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Mandat découlant du PA SBS&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le rapport sur les progrès réalisés découle d’un mandat que le Conseil fédéral a octroyé en 2017 dans le cadre du premier PA SBS. Il répond également à une obligation incombant à la Suisse dans le cadre de la Convention sur la diversité biologique.&lt;/p&gt; </text>
+      <attachment id="284547">
+        <title>Impact des subventions fédérales sur la biodiversité : tour d’horizon des progrès réalisés pour améliorer les incitations</title>
+        <format>pdf</format>
+        <size-kb>777</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91604.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Office fédéral de l’environnement (OFEV) : Section Médias, Office fédéral de l’environnement OFEV, tél. +41 58 462 90 00, courriel : medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+      </topic>
+      <topic id="29">
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="rm">Umwelt und Natur</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="fr">Environnement et nature</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="rm">Medienmitteilungen des BAFU</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

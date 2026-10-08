@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104713" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-04-02</pubdate>
+    <originator id="809" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Ufficio federale delle strade USTRA</name>
+      <name lang="de">Bundesamt für Strassen</name>
+      <name lang="fr">Office fédéral des routes OFROU</name>
+      <name lang="rm">Bundesamt für Strassen</name>
+      <www lang="it">http://www.astra.admin.ch</www>
+      <www lang="de">http://www.astra.admin.ch</www>
+      <www lang="fr">http://www.astra.admin.ch</www>
+      <www lang="rm">http://www.astra.admin.ch</www>
+      <email lang="it">media@astra.admin.ch</email>
+      <email lang="de">media@astra.admin.ch</email>
+      <email lang="fr">media@astra.admin.ch</email>
+      <email lang="rm">media@astra.admin.ch</email>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="1200" org-id="809">
+        <name lang="it">Strassenverkehr: Verkehrsmanagement</name>
+        <name lang="de">Strassenverkehr: Verkehrsmanagement</name>
+        <name lang="fr">Strassenverkehr: Verkehrsmanagement</name>
+        <name lang="rm">Strassenverkehr: Verkehrsmanagement</name>
+      </keyword>
+      <keyword id="210" org-id="804">
+        <name lang="it">Consiglio federale</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="rm">Bundesrat</name>
+      </keyword>
+      <keyword id="1500" org-id="804">
+        <name lang="it">Verkehrspolitik</name>
+        <name lang="de">Verkehrspolitik</name>
+        <name lang="fr">Verkehrspolitik</name>
+        <name lang="rm">Verkehrspolitik</name>
+      </keyword>
+      <keyword id="1190" org-id="804">
+        <name lang="it">Sicurezza stradale</name>
+        <name lang="de">Strassenverkehr: Sicherheit</name>
+        <name lang="fr">Sécurité routière</name>
+        <name lang="rm">Strassenverkehr: Sicherheit</name>
+      </keyword>
+      <keyword id="160" org-id="809">
+        <name lang="it">Ufficio federale delle strade (USTRA)</name>
+        <name lang="de">Bundesamt für Strassen (ASTRA)</name>
+        <name lang="fr">Office fédéral des routes (OFROU)</name>
+        <name lang="rm">Bundesamt für Strassen (ASTRA)</name>
+      </keyword>
+      <keyword id="1150" org-id="809">
+        <name lang="it">Circolazione stradale</name>
+        <name lang="it">Circolazione stradale</name>
+        <name lang="de">Strassenverkehr</name>
+        <name lang="de">Strassenverkehr</name>
+        <name lang="fr">Trafic routier</name>
+        <name lang="fr">Trafic routier</name>
+        <name lang="rm">Strassenverkehr</name>
+        <name lang="rm">Strassenverkehr</name>
+      </keyword>
+      <keyword id="1170" org-id="809">
+        <name lang="it">Strassenverkehr: Fahrzeuge</name>
+        <name lang="de">Strassenverkehr: Fahrzeuge</name>
+        <name lang="fr">Strassenverkehr: Fahrzeuge</name>
+        <name lang="rm">Strassenverkehr: Fahrzeuge</name>
+      </keyword>
+    </keywords>
+    <department id="801">
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Sistemi di assistenza per autocarri: per il Consiglio federale obiettivo già raggiunto</title>
+      <lead>L’iniziativa cantonale «Strade più sicure subito!» chiedeva che gli autoveicoli pesanti in transito sui tratti alpini fossero dotati di «sistemi di sicurezza». Nella seduta del 2 aprile 2025 il Consiglio federale ha deciso, alla luce dei risultati della procedura di consultazione e dell’avanzato stato di ammodernamento del parco veicoli, di non mettere in vigore la proposta.</lead>
+      <text link="no"> &lt;p&gt;I mezzi pesanti adibiti al trasporto di cose o persone potranno circolare sulle strade alpine soltanto se dotati di determinati sistemi di assistenza: questo era quanto aveva deciso il Parlamento a ottobre 2021 inserendo nella legge federale sulla circolazione stradale (LCStr) l’articolo 45&lt;i&gt;a&lt;/i&gt; e dando così seguito all’iniziativa del Cantone Ticino («Strade più sicure subito!»). Al fine di attuare la nuova regolamentazione, il 14 febbraio 2024 il Consiglio federale aveva avviato la consultazione sulle modifiche all’ordinanza sulla segnaletica stradale (OSStr) e all’ordinanza sul controllo della circolazione stradale (OCCS).&lt;/p&gt; &lt;p&gt;&lt;b&gt;Parco veicoli già ampiamente ammodernato&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La maggioranza dei soggetti interpellati, in particolare i Cantoni direttamente interessati, si è espressa in maniera critica sulla proposta attuativa. I sistemi richiesti dall’iniziativa sono infatti già presenti sulla quasi totalità degli autocarri circolanti grazie al continuo rinnovo della flotta, mentre i mezzi più vecchi che ne sono privi sono utilizzati sempre meno. L’obiettivo dell’iniziativa si può pertanto considerare già raggiunto nel complesso. Per questi motivi il Governo, non ritenendo più opportuno attuare l’articolo 45&lt;i&gt;a&lt;/i&gt; LCStr, ha deciso di non mettere in vigore la revisione parziale della LCStr fino al riesame parlamentare.&lt;/p&gt; </text>
+      <attachment id="287740">
+        <title>Rapporto sui risultati della consultazione</title>
+        <format>pdf</format>
+        <size-kb>871</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92746.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Servizio stampa dell’Ufficio federale delle strade USTRA &#13; Tel. +41 58 464 14 91; media@astra.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Assistenzsysteme bei Lastwagen: Ziel der Initiative für den Bundesrat bereits erfüllt</title>
+      <lead>Die Standesinitiative «Sicherere Strassen jetzt!» fordert Assistenzsysteme für schwere Motorwagen auf den Alpentransitstrecken. Aufgrund der Vernehmlassungsergebnisse sowie der fortgeschrittenen Modernisierung der Fahrzeuge hat der Bundesrat an seiner Sitzung vom 2. April 2025 beschlossen, auf die Inkraftsetzung zu verzichten.</lead>
+      <text link="no"> &lt;p&gt;Schwere Motorwagen zum Sachen- oder Personentransport sollen auf den Alpentransitstrecken nur verkehren dürfen, wenn sie mit gewissen Assistenzsystemen ausgerüstet sind. Das Parlament hat dies aufgrund der Standesinitiative des Kantons Tessin («Sichere Strassen jetzt») im Oktober 2021 beschlossen und das Strassenverkehrsgesetz (SVG) entsprechend angepasst (Art. 45&lt;i&gt;a&lt;/i&gt;). Zur Umsetzung hat der Bundesrat am 14. Februar 2024 die Vernehmlassung zu Anpassungen in der Signalisationsverordnung (SSV) sowie in der Strassenverkehrskontrollverordnung (SKV) eröffnet.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Modernisierung der Fahrzeuge fortgeschritten&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Die Vernehmlassungsteilnehmenden, insbesondere die direkt davon betroffenen Kantone, äusserten sich mehrheitlich kritisch zur vorgeschlagenen Umsetzung. Die von der Standesinitiative geforderten Assistenzsysteme sind durch die Flottenerneuerung bereits bei fast allen verkehrenden Lastwagen vorhanden. Der Einsatz von älteren Fahrzeugen ohne Assistenzsysteme nimmt laufend ab. Das Ziel der Standesinitiative kann daher insgesamt bereits als erreicht betrachtet werden. Aus diesen Gründen erachtet der Bundesrat die Umsetzung von Artikel 45&lt;i&gt;a&lt;/i&gt; SVG als nicht mehr angemessen und verzichtet deshalb auf eine Inkraftsetzung der SVG-Teilrevision bis zur parlamentarischen Neubeurteilung.&lt;/p&gt; </text>
+      <attachment id="287738">
+        <title>Ergebnisbericht zur Vernehmlassung</title>
+        <format>pdf</format>
+        <size-kb>239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92696.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Mediendienst Bundesamt für Strassen ASTRA&#13; Tel. +41 58 464 14 91; media@astra.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Systèmes d’aide à la conduite pour les camions : le Conseil fédéral estime que le but de l’initiative est déjà atteint</title>
+      <lead>L’initiative « Pour des routes plus sûres, des mesures maintenant ! » déposée par le canton du Tessin demande que les véhicules motorisés lourds circulant sur les axes de transit alpins soient équipés de certains systèmes d’aide à la conduite. Compte tenu des résultats de la consultation et du stade avancé de modernisation des véhicules, le Conseil fédéral a toutefois décidé, lors de sa séance du 2 avril 2025, de renoncer à mettre en vigueur la disposition légale prévue en ce sens.</lead>
+      <text link="no"> &lt;p&gt;Les véhicules motorisés lourds affectés au transport de choses ou de personnes ne seront plus autorisés à circuler sur les axes de transit alpins que s’ils sont équipés de certains systèmes d’aide à la conduite. Le Parlement en a décidé ainsi en octobre 2021 à la suite de l’initiative du canton du Tessin (« Pour des routes plus sûres, des mesures maintenant ! ») et a modifié la loi fédérale sur la circulation routière (LCR) en ce sens (ajout d’un art. 45&lt;i&gt;a&lt;/i&gt;). En vue de la mise en œuvre de la nouvelle réglementation, le Conseil fédéral a lancé le 14 février 2024 la procédure de consultation relative aux adaptations de l’ordonnance sur la signalisation routière (OSR) et de l’ordonnance sur le contrôle de la circulation routière (OCCR).&lt;/p&gt; &lt;p&gt;&lt;b&gt;Stade avancé de modernisation des véhicules&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La plupart des participants à la consultation, en particulier les cantons directement concernés, ont critiqué la mise en œuvre proposée. Avec le renouvellement des flottes de véhicules, quasiment tous les poids lourds en circulation disposent déjà des systèmes d’aide à la conduite réclamés par les auteurs de l’initiative. Les véhicules anciens dépourvus de tels dispositifs sont de moins en moins utilisés. On peut donc considérer dans l’ensemble que l’objectif de l’initiative est déjà atteint. Pour toutes ces raisons, le Conseil fédéral estime que la mise en œuvre de l’art. 45&lt;i&gt;a&lt;/i&gt; LCR n’est plus opportune. Par conséquent, il renonce à mettre en vigueur la révision partielle de la LCR jusqu’à ce que le Parlement réexamine la situation.&lt;/p&gt; </text>
+      <attachment id="287739">
+        <title>Rapport sur les résultats de la consultation</title>
+        <format>pdf</format>
+        <size-kb>246</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92697.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Service de presse de l’Office fédéral des routes (OFROU)&#13; Tél. : +41 58 464 14 91 ; courriel : media@astra.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Assistenzsysteme bei Lastwagen: Ziel der Initiative für den Bundesrat bereits erfüllt</title>
+      <lead>Die Standesinitiative «Sicherere Strassen jetzt!» fordert Assistenzsysteme für schwere Motorwagen auf den Alpentransitstrecken. Aufgrund der Vernehmlassungsergebnisse sowie der fortgeschrittenen Modernisierung der Fahrzeuge hat der Bundesrat an seiner Sitzung vom 2. April 2025 beschlossen, auf die Inkraftsetzung zu verzichten.</lead>
+      <text link="no"> &lt;p&gt;Schwere Motorwagen zum Sachen- oder Personentransport sollen auf den Alpentransitstrecken nur verkehren dürfen, wenn sie mit gewissen Assistenzsystemen ausgerüstet sind. Das Parlament hat dies aufgrund der Standesinitiative des Kantons Tessin («Sichere Strassen jetzt») im Oktober 2021 beschlossen und das Strassenverkehrsgesetz (SVG) entsprechend angepasst (Art. 45&lt;i&gt;a&lt;/i&gt;). Zur Umsetzung hat der Bundesrat am 14. Februar 2024 die Vernehmlassung zu Anpassungen in der Signalisationsverordnung (SSV) sowie in der Strassenverkehrskontrollverordnung (SKV) eröffnet.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Modernisierung der Fahrzeuge fortgeschritten&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Die Vernehmlassungsteilnehmenden, insbesondere die direkt davon betroffenen Kantone, äusserten sich mehrheitlich kritisch zur vorgeschlagenen Umsetzung. Die von der Standesinitiative geforderten Assistenzsysteme sind durch die Flottenerneuerung bereits bei fast allen verkehrenden Lastwagen vorhanden. Der Einsatz von älteren Fahrzeugen ohne Assistenzsysteme nimmt laufend ab. Das Ziel der Standesinitiative kann daher insgesamt bereits als erreicht betrachtet werden. Aus diesen Gründen erachtet der Bundesrat die Umsetzung von Artikel 45&lt;i&gt;a&lt;/i&gt; SVG als nicht mehr angemessen und verzichtet deshalb auf eine Inkraftsetzung der SVG-Teilrevision bis zur parlamentarischen Neubeurteilung.&lt;/p&gt; </text>
+      <attachment id="287738">
+        <title>Ergebnisbericht zur Vernehmlassung</title>
+        <format>pdf</format>
+        <size-kb>239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92696.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Mediendienst Bundesamt für Strassen ASTRA&#13; Tel. +41 58 464 14 91; media@astra.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="46">
+        <name lang="it">Trasporti</name>
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="rm">Verkehr</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

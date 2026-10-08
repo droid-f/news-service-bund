@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104572" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-03-21</pubdate>
+    <originator id="301" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator id="319" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="rm">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="rm">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <email lang="it"/>
+      <email lang="de"/>
+      <email lang="rm"/>
+      <email lang="fr"/>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="318.1" org-id="319">
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="rm">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+      </keyword>
+      <keyword id="318.2" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="de">AHV</name>
+        <name lang="rm">AHV</name>
+        <name lang="fr">AVS</name>
+      </keyword>
+      <keyword id="318.4" org-id="319">
+        <name lang="it">Previdenza professionale</name>
+        <name lang="de">Berufliche Vorsorge</name>
+        <name lang="rm">Berufliche Vorsorge</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+      </keyword>
+      <keyword id="318.5" org-id="319">
+        <name lang="it">Assicurazione invalidità</name>
+        <name lang="de">Invalidenversicherung</name>
+        <name lang="rm">Invalidenversicherung</name>
+        <name lang="fr">Assurance-invalidité</name>
+      </keyword>
+      <keyword id="318.6" org-id="319">
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="rm">Erwerbsersatzordnung</name>
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+      </keyword>
+    </keywords>
+    <department id="301">
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Determinazione dello statuto di lavoratore indipendente: il Consiglio federale auspica il mantenimento della regolamentazione vigente</title>
+      <lead>La distinzione tra lavoratore salariato e indipendente è molto importante nel diritto delle assicurazioni sociali. Essa ha infatti un impatto sull’obbligo contributivo e sulla protezione sociale dei lavoratori. L’attuale sistema per determinare se una persona eserciti un’attività lucrativa indipendente è chiaro e allo stesso tempo flessibile, in quanto si basa su criteri oggettivi. È questo il parere adottato dal Consiglio federale in occasione della sua seduta del 21 marzo 2025 in merito a un rapporto della Commissione della sicurezza sociale e della sanità del Consiglio nazionale. </lead>
+      <text link="no">&lt;p&gt;Il rapporto della Commissione della sicurezza sociale e della sanità del Consiglio nazionale (CSSS-N) concerne l’iniziativa parlamentare Grossen 18.455 Consentire l’indipendenza tenendo conto della volontà delle parti. Per la determinazione dello statuto contributivo delle persone esercitanti un’attività lucrativa, l’iniziativa chiede che si tenga conto non soltanto del grado di subordinazione e del rischio imprenditoriale, ma anche della volontà delle persone interessate, attraverso una modifica in tal senso della legge federale sulla parte generale del diritto delle assicurazioni sociali. In tal modo, l’iniziativa intende agevolare lo sviluppo economico.&lt;/p&gt;&lt;h2&gt;Consiglio federale favorevole al mantenimento della regolamentazione vigente&lt;/h2&gt;&lt;p&gt;Il Consiglio federale ritiene che la regolamentazione vigente garantisca una certezza del diritto sufficiente. La distinzione operata dal diritto delle assicurazioni sociali tra i lavoratori indipendenti e i salariati è sufficientemente flessibile. I casi di controversia sono rari; oltre il 90 per cento delle domande di riconoscimento dello statuto di lavoratore indipendente è accolto. Il libero sviluppo economico non è frenato né dalle leggi in materia di assicurazioni sociali in generale, né dalla distinzione tra lavoratori salariati e indipendenti in particolare. Il Consiglio federale ritiene che la considerazione sistematica della volontà delle persone interessate indebolirebbe inutilmente il quadro legale. Questo nuocerebbe alla certezza del diritto e peggiorerebbe considerevolmente la posizione dei lavoratori, che sono la parte contraente più debole. Inoltre, il sistema attuale è ben rodato e la sua attuazione viene costantemente migliorata. Per questi motivi, il Consiglio federale non vede la necessità di legiferare in questo ambito ed è dunque favorevole allo status quo.&lt;/p&gt;</text>
+      <link id="286975">
+        <title>Iniziativa parlamentare Grossen 18.455 Consentire l’indipendenza tenendo conto della volontà delle parti</title>
+        <uri>https://www.parlament.ch/it/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20180455</uri>
+        <position>Context</position>
+      </link>
+      <link id="286976">
+        <title>Rapporto della CSSS-N del 14 febbraio 2025</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/713/it</uri>
+        <position>Context</position>
+      </link>
+      <link id="286977">
+        <title>Progetto di legge</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/714/it</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286968">
+        <title>Parere del Consiglio federale in merito al rapporto della Commissione della sicurezza sociale e della sanità del Consiglio nazionale (CSSS-N)</title>
+        <format>pdf</format>
+        <size-kb>257</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92498.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Simon Blunier &#13; Capo del Settore Contributi AVS/AI/IPG&#13; Ufficio federale delle assicurazioni sociali UFAS&#13; +41 58 460 84 02&#13; simon.blunier@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Selbstständigkeitsstatus bestimmen: Der Bundesrat will an der heutigen Regelung festhalten</title>
+      <lead>Die Unterscheidung zwischen Arbeitnehmenden und Selbstständigerwerbenden ist im Sozialversicherungsrecht sehr wichtig. Sie hat Einfluss auf die Beitragspflicht und den sozialen Schutz der Arbeitnehmenden. Das geltende System zur Bestimmung des Selbstständigkeitsstatus ist klar und flexibel, da es auf objektiven Kriterien basiert. Dies bekräftigte der Bundesrat an seiner Sitzung vom 21. März 2025 und verabschiedete seine Stellungnahme zum Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates. </lead>
+      <text link="no">&lt;p&gt;Der Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates (SGK N) befasst sich mit der parlamentarischen Initiative Grossen (18.455) «Selbstständigkeit ermöglichen, Parteiwillen berücksichtigen». Die Initiative fordert, dass zur Bestimmung des Status einer erwerbstätigen Person sowohl das Mass der organisatorischen Unterordnung und des unternehmerischen Risikos als auch allfällige Parteivereinbarungen berücksichtigt werden und das Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) entsprechend angepasst wird. Mit dieser Massnahme will die Initiative die wirtschaftliche Entwicklung fördern.&lt;/p&gt;&lt;h2&gt;Der Bundesrat spricht sich für die aktuelle Regelung aus&lt;/h2&gt;&lt;p&gt;Für den Bundesrat bietet die aktuelle Regelung ausreichende Rechtssicherheit. Die sozialversicherungsrechtliche Unterscheidung zwischen Selbstständigen und Angestellten ist flexibel genug. Streitfälle sind selten: 90 Prozent der Anträge auf Selbstständigkeit werden anerkannt. Die freie wirtschaftliche Entwicklung wird weder von den Sozialversicherungsgesetzen im Allgemeinen noch von der Abgrenzung zwischen unselbstständiger und selbstständiger Erwerbstätigkeit im Besonderen behindert. Der Bundesrat ist der Ansicht, dass die systematische Berücksichtigung des Parteiwillens den Rechtsrahmen unnötig schwächen würde. Das wäre der Rechtssicherheit abträglich und würde die Position der Arbeitnehmenden, das heisst der schwächeren Vertragspartei, stark beeinträchtigen. Das bestehende System hat sich zudem bewährt und wird laufend optimiert. Der Bundesrat sieht somit keinen gesetzgeberischen Handlungsbedarf in diesem Bereich und spricht sich für den Status quo aus.&lt;/p&gt;</text>
+      <link id="286969">
+        <title>Parlamentarische Initiative Grossen (18.455) «Selbstständigkeit ermöglichen, Parteiwillen berücksichtigen»</title>
+        <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20180455</uri>
+        <position>Context</position>
+      </link>
+      <link id="286970">
+        <title>Bericht der SGK-N vom 14. Februar 2025</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/713/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="286971">
+        <title>Gesetzesentwurf</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/714/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286966">
+        <title>Stellungnahme des Bundesrates zum Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates (SGK-N)</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92496.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Simon Blunier &#13; Leiter Bereich Beiträge AHV/IV/EO&#13; Bundesamt für Sozialversicherungen BSV&#13; +41 58 460 84 02&#13; simon.blunier@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Selbstständigkeitsstatus bestimmen: Der Bundesrat will an der heutigen Regelung festhalten</title>
+      <lead>Die Unterscheidung zwischen Arbeitnehmenden und Selbstständigerwerbenden ist im Sozialversicherungsrecht sehr wichtig. Sie hat Einfluss auf die Beitragspflicht und den sozialen Schutz der Arbeitnehmenden. Das geltende System zur Bestimmung des Selbstständigkeitsstatus ist klar und flexibel, da es auf objektiven Kriterien basiert. Dies bekräftigte der Bundesrat an seiner Sitzung vom 21. März 2025 und verabschiedete seine Stellungnahme zum Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates. </lead>
+      <text link="no">&lt;p&gt;Der Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates (SGK N) befasst sich mit der parlamentarischen Initiative Grossen (18.455) «Selbstständigkeit ermöglichen, Parteiwillen berücksichtigen». Die Initiative fordert, dass zur Bestimmung des Status einer erwerbstätigen Person sowohl das Mass der organisatorischen Unterordnung und des unternehmerischen Risikos als auch allfällige Parteivereinbarungen berücksichtigt werden und das Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) entsprechend angepasst wird. Mit dieser Massnahme will die Initiative die wirtschaftliche Entwicklung fördern.&lt;/p&gt;&lt;h2&gt;Der Bundesrat spricht sich für die aktuelle Regelung aus&lt;/h2&gt;&lt;p&gt;Für den Bundesrat bietet die aktuelle Regelung ausreichende Rechtssicherheit. Die sozialversicherungsrechtliche Unterscheidung zwischen Selbstständigen und Angestellten ist flexibel genug. Streitfälle sind selten: 90 Prozent der Anträge auf Selbstständigkeit werden anerkannt. Die freie wirtschaftliche Entwicklung wird weder von den Sozialversicherungsgesetzen im Allgemeinen noch von der Abgrenzung zwischen unselbstständiger und selbstständiger Erwerbstätigkeit im Besonderen behindert. Der Bundesrat ist der Ansicht, dass die systematische Berücksichtigung des Parteiwillens den Rechtsrahmen unnötig schwächen würde. Das wäre der Rechtssicherheit abträglich und würde die Position der Arbeitnehmenden, das heisst der schwächeren Vertragspartei, stark beeinträchtigen. Das bestehende System hat sich zudem bewährt und wird laufend optimiert. Der Bundesrat sieht somit keinen gesetzgeberischen Handlungsbedarf in diesem Bereich und spricht sich für den Status quo aus.&lt;/p&gt;</text>
+      <link id="286969">
+        <title>Parlamentarische Initiative Grossen (18.455) «Selbstständigkeit ermöglichen, Parteiwillen berücksichtigen»</title>
+        <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20180455</uri>
+        <position>Context</position>
+      </link>
+      <link id="286970">
+        <title>Bericht der SGK-N vom 14. Februar 2025</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/713/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="286971">
+        <title>Gesetzesentwurf</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/714/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286966">
+        <title>Stellungnahme des Bundesrates zum Bericht der Kommission für soziale Sicherheit und Gesundheit des Nationalrates (SGK-N)</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92496.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Simon Blunier &#13; Leiter Bereich Beiträge AHV/IV/EO&#13; Bundesamt für Sozialversicherungen BSV&#13; +41 58 460 84 02&#13; simon.blunier@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Déterminer le statut des indépendants: le Conseil fédéral souhaite maintenir les règles en vigueur</title>
+      <lead>La distinction entre salarié et indépendant est très importante en droit des assurances sociales. Elle a un impact sur l’obligation de payer des cotisations sociales et sur la protection sociale des travailleurs. Le système actuel pour déterminer si une personne exerce une activité lucrative indépendante est à la fois clair et flexible car il est basé sur des critères objectifs. C’est l’avis adopté par le Conseil fédéral lors de sa séance du 21 mars 2025 en réponse à un rapport de la Commission de la sécurité sociale et de la santé publique du Conseil national. </lead>
+      <text link="no">&lt;p&gt;Le rapport de la Commission de la sécurité sociale et de la santé publique du Conseil national (CSSS-N) porte sur l'initiative parlementaire Grossen «Accorder la qualité de personne exerçant une activité indépendante en tenant compte de la volonté des parties». Pour déterminer le statut d’une personne exerçant une activité lucrative, l’initiative demande de tenir compte non seulement du degré de subordination et du risque entrepreneurial, mais également de la volonté des personnes concernées, et d’adapter en conséquence la loi fédérale sur la partie générale du droit des assurances sociales (LPGA). Par ce biais, l’initiative entend faciliter le développement économique.&lt;/p&gt;&lt;h2&gt;Le Conseil fédéral favorable au maintien de la réglementation actuelle&lt;/h2&gt;&lt;p&gt;Le Conseil fédéral est d'avis que la réglementation actuelle offre une sécurité juridique suffisante. La distinction faite par le droit de la sécurité sociale entre les travailleurs indépendants et les salariés est suffisamment flexible. Les cas litigieux sont rares; plus de 90% des demandes de statut d’indépendant sont acceptées. Le libre développement économique n’est freiné ni par les lois sur les assurances sociales en général, ni par la distinction entre travailleurs salariés et indépendants en particulier. Le Conseil fédéral estime que la prise en compte systématique de la volonté des personnes concernées fragiliserait inutilement le cadre légal. Il nuirait à la sécurité juridique et affaiblirait fortement la position des travailleurs qui sont la partie contractante la plus faible. De plus, le système actuel a fait ses preuves et sa mise en œuvre ne cesse d’être optimisée. Pour ces raisons, le Conseil fédéral ne voit pas de nécessité de légiférer dans ce domaine et est donc favorable au statu quo.&lt;/p&gt;</text>
+      <link id="286972">
+        <title>Initiative parlementaire Grossen (18.455) : « Accorder la qualité de personne exerçant une activité lucrative indépendante en tenant compte de la volonté des parties »</title>
+        <uri>https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20180455</uri>
+        <position>Context</position>
+      </link>
+      <link id="286973">
+        <title>Rapport de la CSSS-N du 14 février 2025</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/713/fr</uri>
+        <position>Context</position>
+      </link>
+      <link id="286974">
+        <title>Projet de loi</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/714/fr</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286967">
+        <title>Avis du Conseil fédéral sur le rapport de la Commission de la sécurité sociale et de la santé publique du Conseil national (CSSS-N)</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92497.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Simon Blunier &#13; Responsable du secteur Cotisations AVS/AI/APG&#13; Office fédéral des assurances sociales OFAS&#13; +41 58 460 84 02&#13; simon.blunier@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+      </topic>
+      <topic id="41">
+        <name lang="it">Opere sociali</name>
+        <name lang="de">Soziales</name>
+        <name lang="rm">Soziales</name>
+        <name lang="fr">Social</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="31" org-id="319">
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="rm">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+      </offer>
+      <offer id="32" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="de">AHV</name>
+        <name lang="rm">AHV</name>
+        <name lang="fr">AVS</name>
+      </offer>
+      <offer id="34" org-id="319">
+        <name lang="it">Previdenza professionale</name>
+        <name lang="de">Berufliche Vorsorge</name>
+        <name lang="rm">Berufliche Vorsorge</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+      </offer>
+      <offer id="35" org-id="319">
+        <name lang="it">Assicurazione invalidità</name>
+        <name lang="de">Invalidenversicherung</name>
+        <name lang="rm">Invalidenversicherung</name>
+        <name lang="fr">Assurance-invalidité</name>
+      </offer>
+      <offer id="36" org-id="319">
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="rm">Erwerbsersatzordnung</name>
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

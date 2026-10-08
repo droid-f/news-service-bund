@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104173" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-02-19</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </originator>
+    <originator id="401" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator id="403" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="rm">Bundesamt für Justiz</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="de">Bundesamt für Justiz</name>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="rm">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="rm">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="de">info@bj.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="84" org-id="403">
+        <name lang="it">Assistenza giudiziaria in materia penale</name>
+        <name lang="it">Assistenza giudiziaria</name>
+        <name lang="rm">Rechtshilfe in Strafsachen</name>
+        <name lang="rm">Rechtshilfe</name>
+        <name lang="fr">Entraide judiciaire en matière pénale</name>
+        <name lang="fr">Entraide judiciaire</name>
+        <name lang="de">Rechtshilfe in Strafsachen</name>
+        <name lang="de">Rechtshilfe</name>
+      </keyword>
+      <keyword id="109" org-id="403">
+        <name lang="it">Diritto penale e diritto penale minorile</name>
+        <name lang="it">Diritto penale</name>
+        <name lang="rm">Strafrecht und Jugendstrafrecht</name>
+        <name lang="rm">Strafrecht</name>
+        <name lang="fr">Droit pénal et droit pénal des mineurs</name>
+        <name lang="fr">Droit pénal</name>
+        <name lang="de">Strafrecht und Jugendstrafrecht</name>
+        <name lang="de">Strafrecht</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Maggiore efficacia nel punire i crimini di diritto internazionale</title>
+      <lead>Il Consiglio federale intende rafforzare la cooperazione internazionale in materia penale per agevolare il perseguimento dei crimini più gravi contro l’umanità. Allo scopo, intende aderire a una convenzione multilaterale che impegna gli Stati Parte a fornirsi assistenza giudiziaria reciproca in questi casi. Nella seduta del 19 maggio 2025, il Consiglio federale ha avviato la consultazione in vista dell’approvazione di tale convenzione. Propone inoltre di rendere punibile il crimine di aggressione nel diritto svizzero.</lead>
+      <text link="no"> &lt;p&gt;Il genocidio, i crimini contro l'umanità, i crimini di guerra e il crimine di aggressione costituiscono crimini internazionali della peggior specie. Alla luce della dimensione internazionale di questi crimini, una buona cooperazione tra le autorità inquirenti in tutto il mondo è fondamentale per perseguirli e punirli. &lt;/p&gt; &lt;p&gt;Per rafforzare la cooperazione internazionale in materia penale è stata elaborata la Convenzione di Lubiana e l'Aia, che impone agli Stati Parte di assistersi a vicenda nelle indagini e le azioni penali per crimini internazionali. La Svizzera ha già apposto la sua firma e ora il Consiglio federale avvia la consultazione in vista dell'approvazione da parte del Parlamento.&lt;/p&gt; &lt;p&gt;In veste di Stato Parte la Svizzera può sostenere più facilmente gli altri Stati nella lotta ai crimini internazionali, beneficiando in cambio della cooperazione degli altri Stati Parte per i propri procedimenti penali in materia. Oltre all'assistenza giudiziaria, la Convenzione disciplina anche l'estradizione e il trasferimento di condannati. Finora sono 35 gli Stati, oltre alla Svizzera, che hanno apposto la propria firma, tra i quali anche i nostri vicini Austria, Francia e Germania. &lt;/p&gt; &lt;h3&gt;Esplicitare la punibilità di attacchi armati contro territori stranieri&lt;/h3&gt; &lt;p&gt;Attualmente nel Codice penale svizzero (CP) figurano tre dei quattro crimini definiti dallo Statuto di Roma della Corte penale internazionale. Nel quadro della mozione 22.3362 Sommaruga Carlo "Lotta contro l'impunità. Trasposizione nella legislazione svizzera del crimine di aggressione definito dallo Statuto di Roma", il Consiglio federale e il Parlamento avevano già dichiarato di voler colmare tale lacuna codificando tale crimine nel Codice penale, ossia integrandovi la fattispecie dello scatenare una guerra d'attacco. &lt;/p&gt; &lt;p&gt;Nella seduta del 19 febbraio 2025, il Consiglio federale ha avviato la consultazione in merito alla corrispondente modifica del Codice penale, che consentirà alla Svizzera di partecipare, anche su scala internazionale, all'azione penale per guerre di attacco e di cooperare a tutti gli effetti nella lotta ai crimini internazionali. &lt;/p&gt; &lt;p&gt;La consultazione in merito all'approvazione della Convenzione di Lubiana e dell'Aia, nonché alla modifica del Codice penale si concluderà il 30 maggio 2025.&lt;/p&gt; </text>
+      <attachment id="285272">
+        <title>Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>848</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91810.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285275">
+        <title>Avamprogetto</title>
+        <format>pdf</format>
+        <size-kb>268</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91788.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285278">
+        <title>Convenzione</title>
+        <format>pdf</format>
+        <size-kb>497</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91792.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285279">
+        <title>Convention</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91793.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Völkerrechtsverbrechen wirksamer bestrafen</title>
+      <lead>Der Bundesrat will die internationale Zusammenarbeit in Strafsachen stärken und die schlimmsten Verbrechen besser verfolgen, die sich gegen die Menschheit als Ganzes richten. Mit einem multilateralen Übereinkommen werden die Vertragsstaaten grundsätzlich verpflichtet, einander bei Völkerrechtsverbrechen Rechtshilfe zu leisten. An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat die Vernehmlassung für die Genehmigung des Übereinkommens eröffnet. Weiter schlägt er vor, im schweizerischen Recht das Verbrechen der Aggression unter Strafe zu stellen.</lead>
+      <text link="no"> &lt;p&gt;Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen und das Verbrechen der Aggression gehören als Völkerrechtsverbrechen zu den schwersten Delikten überhaupt. Völkerrechtsverbrechen haben oft eine internationale Dimension. Deshalb ist es zentral, dass die Strafverfolgungsbehörden weltweit gut zusammenarbeiten, um diese Verbrechen zu verfolgen und zu bestrafen. &lt;/p&gt; &lt;p&gt;Mit einem multilateralen Übereinkommen soll die internationale Zusammenarbeit in Strafsachen gestärkt werden. Das Übereinkommen von Ljubljana und Den Haag verpflichtet die Vertragsstaaten, sich bei der Ermittlung und Strafverfolgung von Völkerrechtsverbrechen gegenseitig zu unterstützen. Die Schweiz hat das Übereinkommen bereits unterzeichnet. An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat nun im Hinblick auf die Genehmigung des Übereinkommens durch das Parlament die entsprechende Vernehmlassung eröffnet.&lt;/p&gt; &lt;p&gt;Als Vertragsstaat kann die Schweiz die anderen Staaten im Kampf gegen Völkerrechtsverbrechen einfacher unterstützen und im Gegenzug auf die Kooperation der anderen Vertragsstaaten zählen, wenn sie selbst entsprechende Strafverfahren führt. Das Übereinkommen regelt neben der Rechtshilfe auch die Auslieferung und die Überstellung. Neben der Schweiz haben bisher 35 weitere Staaten das Übereinkommen unterzeichnet, darunter unsere Nachbarländer Deutschland, Frankreich und Österreich. &lt;/p&gt; &lt;h3&gt;Bewaffnete Angriffe auf fremdes Territorium explizit bestrafen&lt;/h3&gt; &lt;p&gt;Im Schweizerischen Strafgesetzbuch (StGB) werden derzeit drei der vier Völkerrechtsverbrechen explizit aufgeführt, die im Römer Statut des Internationalen Strafgerichtshofs enthalten sind. Bundesrat und Parlament haben im Rahmen der Motion 22.3362 Sommaruga "Kampf gegen die Straffreiheit. Übernahme des Verbrechens der Aggression gemäss Römer Statut in das Schweizer Recht" bereits erklärt, diese Lücke schliessen zu wollen. Das Verbrechen der Aggression, also der Tatbestand des Führens eines Angriffskriegs, soll somit ins StGB aufgenommen werden. &lt;/p&gt; &lt;p&gt;An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat die Vernehmlassung zur entsprechenden Änderung des StGB eröffnet. Diese ermöglicht es der Schweiz, künftig auch international bei der Strafverfolgung von Angriffskriegen mitzuwirken und im Kampf gegen Völkerrechtsverbrechen umfassend zu kooperieren. &lt;/p&gt; &lt;p&gt;Die Vernehmlassung zur Genehmigung des Übereinkommens von Ljubljana und Den Haag sowie zur Änderung des StGB dauert bis am 30. Mai 2025.&lt;/p&gt; </text>
+      <attachment id="285270">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>815</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91808.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285273">
+        <title>Vorentwurf</title>
+        <format>pdf</format>
+        <size-kb>281</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91786.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285276">
+        <title>Übereinkommen</title>
+        <format>pdf</format>
+        <size-kb>1239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91790.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285279">
+        <title>Convention</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91793.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Pour mieux poursuivre les crimes du droit international</title>
+      <lead>Le Conseil fédéral veut renforcer la coopération internationale en matière pénale et mieux poursuivre les crimes les plus graves qui soient, c’est-à-dire les crimes réprimés par le droit international. Le 19 février 2025, il a ouvert une consultation sur l’approbation d’une convention multilatérale, par laquelle les États parties s’obligent à s’accorder l’entraide judiciaire concernant ces crimes. Il propose dans le même temps de punir en droit suisse le crime d’agression.</lead>
+      <text link="no"> &lt;p&gt;Les crimes du droit international, c'est-à-dire le génocide, les crimes contre l'humanité, les crimes de guerre et le crime d'agression, sont les plus graves qui soient. Parce qu'ils ont souvent une dimension internationale, il est essentiel que les autorités de poursuite pénale puissent coopérer efficacement entre États pour poursuivre et punir ces crimes.&lt;/p&gt; &lt;p&gt;La Suisse a signé la Convention internationale de Ljubljana-La Haye. Celle-ci vise à renforcer la coopération internationale en matière pénale. Ses États parties s'engagent à se soutenir mutuellement dans l'enquête et la poursuite en matière de crimes du droit international. Le 19 février 2025, le Conseil fédéral a ouvert une consultation sur l'approbation de cette convention par le Parlement.&lt;/p&gt; &lt;p&gt;En tant que partie à la convention, la Suisse pourra plus facilement soutenir les autres États dans la lutte contre les crimes du droit international et bénéficiera elle-même de leur assistance si elle mène des procédures pénales en la matière. La convention règle non seulement l'entraide judiciaire, mais aussi l'extradition et le transfèrement. Outre la Suisse, 35 États l'ont signée, dont l'Allemagne, la France et l'Autriche.&lt;/p&gt; &lt;h3&gt;Une norme pénale sur les agressions armées contre un territoire étranger&lt;/h3&gt; &lt;p&gt;Le code pénal suisse (CP) punit explicitement trois des quatre crimes réprimés par le Statut de Rome de la Cour pénale internationale. Le Conseil fédéral et le Parlement ont exprimé leur volonté de combler cette lacune et d'ajouter au code pénal une norme réprimant le fait de mener une guerre d'agression, suite à la motion 22.3362 Sommaruga "Lutte contre l'impunité. Transposition du crime d'agression défini par le Statut de Rome dans la législation suisse".&lt;/p&gt; &lt;p&gt;Le projet mis en consultation le 19 février 2025 comprend donc également une modification du code pénal en ce sens. La mise en œuvre du crime d'agression en droit interne permettra à la Suisse de coopérer au niveau international à la poursuite pénale des auteurs de guerres d'agression et de participer pleinement à la lutte contre les crimes du droit international.&lt;/p&gt; &lt;p&gt;La consultation sur l'approbation de la Convention de Ljubljana-La Haye et sur la modification du code pénal durera jusqu'au 30 mai 2025.&lt;/p&gt; </text>
+      <attachment id="285271">
+        <title>Rapport explicatif</title>
+        <format>pdf</format>
+        <size-kb>855</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91809.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285274">
+        <title>Avant-projet</title>
+        <format>pdf</format>
+        <size-kb>285</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91789.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285277">
+        <title>Convention</title>
+        <format>pdf</format>
+        <size-kb>496</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91791.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285279">
+        <title>Convention</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91793.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Völkerrechtsverbrechen wirksamer bestrafen</title>
+      <lead>Der Bundesrat will die internationale Zusammenarbeit in Strafsachen stärken und die schlimmsten Verbrechen besser verfolgen, die sich gegen die Menschheit als Ganzes richten. Mit einem multilateralen Übereinkommen werden die Vertragsstaaten grundsätzlich verpflichtet, einander bei Völkerrechtsverbrechen Rechtshilfe zu leisten. An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat die Vernehmlassung für die Genehmigung des Übereinkommens eröffnet. Weiter schlägt er vor, im schweizerischen Recht das Verbrechen der Aggression unter Strafe zu stellen.</lead>
+      <text link="no"> &lt;p&gt;Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen und das Verbrechen der Aggression gehören als Völkerrechtsverbrechen zu den schwersten Delikten überhaupt. Völkerrechtsverbrechen haben oft eine internationale Dimension. Deshalb ist es zentral, dass die Strafverfolgungsbehörden weltweit gut zusammenarbeiten, um diese Verbrechen zu verfolgen und zu bestrafen. &lt;/p&gt; &lt;p&gt;Mit einem multilateralen Übereinkommen soll die internationale Zusammenarbeit in Strafsachen gestärkt werden. Das Übereinkommen von Ljubljana und Den Haag verpflichtet die Vertragsstaaten, sich bei der Ermittlung und Strafverfolgung von Völkerrechtsverbrechen gegenseitig zu unterstützen. Die Schweiz hat das Übereinkommen bereits unterzeichnet. An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat nun im Hinblick auf die Genehmigung des Übereinkommens durch das Parlament die entsprechende Vernehmlassung eröffnet.&lt;/p&gt; &lt;p&gt;Als Vertragsstaat kann die Schweiz die anderen Staaten im Kampf gegen Völkerrechtsverbrechen einfacher unterstützen und im Gegenzug auf die Kooperation der anderen Vertragsstaaten zählen, wenn sie selbst entsprechende Strafverfahren führt. Das Übereinkommen regelt neben der Rechtshilfe auch die Auslieferung und die Überstellung. Neben der Schweiz haben bisher 35 weitere Staaten das Übereinkommen unterzeichnet, darunter unsere Nachbarländer Deutschland, Frankreich und Österreich. &lt;/p&gt; &lt;h3&gt;Bewaffnete Angriffe auf fremdes Territorium explizit bestrafen&lt;/h3&gt; &lt;p&gt;Im Schweizerischen Strafgesetzbuch (StGB) werden derzeit drei der vier Völkerrechtsverbrechen explizit aufgeführt, die im Römer Statut des Internationalen Strafgerichtshofs enthalten sind. Bundesrat und Parlament haben im Rahmen der Motion 22.3362 Sommaruga "Kampf gegen die Straffreiheit. Übernahme des Verbrechens der Aggression gemäss Römer Statut in das Schweizer Recht" bereits erklärt, diese Lücke schliessen zu wollen. Das Verbrechen der Aggression, also der Tatbestand des Führens eines Angriffskriegs, soll somit ins StGB aufgenommen werden. &lt;/p&gt; &lt;p&gt;An seiner Sitzung vom 19. Februar 2025 hat der Bundesrat die Vernehmlassung zur entsprechenden Änderung des StGB eröffnet. Diese ermöglicht es der Schweiz, künftig auch international bei der Strafverfolgung von Angriffskriegen mitzuwirken und im Kampf gegen Völkerrechtsverbrechen umfassend zu kooperieren. &lt;/p&gt; &lt;p&gt;Die Vernehmlassung zur Genehmigung des Übereinkommens von Ljubljana und Den Haag sowie zur Änderung des StGB dauert bis am 30. Mai 2025.&lt;/p&gt; </text>
+      <attachment id="285270">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>815</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91808.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285273">
+        <title>Vorentwurf</title>
+        <format>pdf</format>
+        <size-kb>281</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91786.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285276">
+        <title>Übereinkommen</title>
+        <format>pdf</format>
+        <size-kb>1239</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91790.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="285279">
+        <title>Convention</title>
+        <format>pdf</format>
+        <size-kb>477</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91793.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="5">
+        <name lang="it">Autorità</name>
+        <name lang="rm">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="de">Behörden</name>
+      </topic>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="de">Bundesrat</name>
+      </topic>
+      <topic id="26">
+        <name lang="it">Diritto</name>
+        <name lang="rm">Recht</name>
+        <name lang="fr">Droit</name>
+        <name lang="de">Recht</name>
+      </topic>
+      <topic id="39">
+        <name lang="it">Svizzero ed estero</name>
+        <name lang="rm">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="de">Schweiz und Ausland</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

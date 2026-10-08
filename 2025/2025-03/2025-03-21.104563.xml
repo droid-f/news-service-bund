@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104563" revoked="no">
+    <type>Memorandum</type>
+    <version>3</version>
+    <pubdate>2025-03-21</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </originator>
+    <originator id="401" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator id="405" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="rm">Staatssekretariat für Migration</name>
+      <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="en">State Secretariat for Migration</name>
+      <www lang="it">https://www.sem.admin.ch/sem/it/home.html</www>
+      <www lang="rm">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="fr">https://www.sem.admin.ch/sem/fr/home.html</www>
+      <www lang="de">https://www.sem.admin.ch/sem/de/home.html</www>
+      <www lang="en">https://www.sem.admin.ch/sem/en/home.html</www>
+      <email lang="it">info@sem.admin.ch</email>
+      <email lang="rm">info@sem.admin.ch</email>
+      <email lang="fr">info@sem.admin.ch</email>
+      <email lang="de">info@sem.admin.ch</email>
+      <email lang="en">info@sem.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="95" org-id="405">
+        <name lang="it">Schengen/Dublin</name>
+        <name lang="rm">Schengen/Dublin</name>
+        <name lang="fr">Schengen/Dublin</name>
+        <name lang="de">Schengen/Dublin</name>
+        <name lang="en">Schengen/Dublin</name>
+      </keyword>
+      <keyword id="35" org-id="401">
+        <name lang="it">Europa</name>
+        <name lang="rm">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="de">Europa</name>
+        <name lang="en">Europe</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="en">The Federal Council</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale adotta il messaggio relativo al patto europeo sulla migrazione e l’asilo</title>
+      <lead>Il nuovo patto europeo sulla migrazione e l’asilo vuole rendere il sistema di migrazione e asilo più efficiente, a prova di crisi e solidale. In quanto Stato associato a Schengen e Dublino, la Svizzera è tenuta a parteciparvi in determinati settori ed è pertanto chiamata ad adeguare il diritto nazionale. Nella seduta del 21 marzo 2025 il Consiglio federale ha adottato il messaggio e le pertinenti modifiche legislative all’attenzione del Parlamento.</lead>
+      <text link="no"> &lt;p&gt;Il 14 maggio 2024 l’Unione europea (UE) ha adottato dieci regolamenti e direttive che insieme costituiscono il nuovo patto sulla migrazione e l’asilo. Questa riforma mira ad arginare la migrazione irregolare verso l’Europa e a ridurre la migrazione secondaria all’interno dello spazio Schengen attraverso procedure di asilo armonizzate ed efficienti. Si prefigge inoltre di alleggerire l’onere che grava sugli Stati Schengen sottoposti a una forte pressione migratoria attraverso una ripartizione solidale dei richiedenti l’asilo e altre modalità di sostegno. Il Consiglio federale accoglie con favore la riforma. Ritiene infatti che la Svizzera abbia, data la sua posizione geografica, un interesse vitale affinché la politica europea di migrazione e asilo sia efficace e il più possibile a prova di crisi.&lt;/p&gt; &lt;h3&gt;Nuove regole nel settore Dublino&lt;/h3&gt; &lt;p&gt;Cinque dei dieci atti normativi sono del tutto o in parte vincolanti per la Svizzera. Tra le altre cose disciplinano quale Stato Dublino è competente per l’esame di una domanda d’asilo. In generale le vigenti disposizioni sulla competenza sono mantenute, ma vengono abbreviati i termini per determinare lo Stato competente. In questo modo i richiedenti l’asilo possono essere trasferiti più rapidamente verso un altro Stato. Per prevenire la migrazione secondaria, si tiene ora maggiormente conto del legame del singolo richiedente con uno Stato Dublino, ma sarà più complicato trasferire la competenza per una domanda d’asilo da uno Stato Dublino a un altro. Il nuovo regolamento di crisi stabilisce le modalità che permettono agli Stati di derogare temporaneamente e in situazioni eccezionali a determinate disposizioni, ad esempio mediante procedure Dublino più lunghe.&lt;/p&gt; &lt;p&gt;Il riveduto regolamento Eurodac garantisce l’interoperabilità con altri sistemi informatici europei. Nella banca dati Eurodac sono state inserite ulteriori categorie di persone e registrate le immagini del volto e le impronte digitali di tutte le persone a partire dal sesto anno di età. Il Patto introduce inoltre una procedura per un rapido controllo delle persone provenienti da Stati terzi che entrano nello spazio Schengen senza soddisfare le condizioni d’entrata, allo scopo di consentire alle autorità competenti di accertare la loro identità, eseguire un controllo di sicurezza e registrare in loco i problemi di salute.&lt;/p&gt; &lt;h3&gt;Sostegno facoltativo&lt;/h3&gt; &lt;p&gt;Con questa riforma l’UE introduce per la prima volta un meccanismo di solidarietà vincolante allo scopo di distribuire i richiedenti l’asilo all’interno dell’UE. Il meccanismo di solidarietà non è vincolante per la Svizzera, che può tuttavia parteciparvi su base volontaria. Il Consiglio federale considera questo meccanismo un’opportunità per rafforzare durevolmente il sistema europeo di migrazione e asilo, e sostiene in linea di principio una partecipazione svizzera. Ha pertanto incaricato l’Amministrazione di elaborare proposte su come la Svizzera potrebbe concretamente partecipare a tale meccanismo.&lt;/p&gt; &lt;p&gt;Nella procedura di consultazione, la metà circa dei partecipanti – tra cui la maggior parte dei Cantoni – si è detta in linea di principio favorevole a recepire e trasporre i cinque regolamenti dell’UE. Alcuni Cantoni temono tuttavia un aumento degli oneri finanziari e di personale. Altri partecipanti criticano il fatto che la riforma sia incentrata principalmente sull’isolamento e sulla dissuasione e chiedono una partecipazione sistematica e concreta della Svizzera al nuovo meccanismo di solidarietà.&lt;/p&gt; </text>
+      <attachment id="287484">
+        <title>Risultati della procedura di consultazione</title>
+        <format>pdf</format>
+        <size-kb>937</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92508.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287487">
+        <title>Messaggio</title>
+        <format>pdf</format>
+        <size-kb>2685</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92669.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287490">
+        <title>Disegno di decreto federale che approva e traspone nel diritto svizzero il regolamento AMMR e il regolamento di crisi</title>
+        <format>pdf</format>
+        <size-kb>273</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92514.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287493">
+        <title>Disegno di decreto federale che approva il regolamento sulla procedura di rimpatrio alla frontiera</title>
+        <format>pdf</format>
+        <size-kb>125</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92550.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287496">
+        <title>Disegno di decreto federale che approva e traspone nel diritto svizzero il regolamento Eurodac</title>
+        <format>pdf</format>
+        <size-kb>290</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92672.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287499">
+        <title>Disegno di decreto federale che approva e traspone nel diritto svizzero il regolamento sugli accertamenti</title>
+        <format>pdf</format>
+        <size-kb>310</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92523.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat verabschiedet Botschaft zum europäischen Migrations- und Asylpakt</title>
+      <lead>Der neue europäische Migrations- und Asylpakt soll das europäische Migrations- und Asylsystem effizienter, krisenresistenter und solidarischer machen. Die Schweiz ist als assoziierter Schengen-/Dublin-Staat verpflichtet, sich in einigen Bereichen daran zu beteiligen. Dazu muss sie ihr nationales Recht anpassen. Der Bundesrat hat an seiner Sitzung vom 21. März 2025 die Botschaft zu den entsprechenden rechtlichen Änderungen zuhanden des Parlaments verabschiedet.</lead>
+      <text link="no"> &lt;p&gt;Die EU hatte am 14. Mai 2024 zehn Verordnungen und Richtlinien verabschiedet, die zusammen den neuen Migrations- und Asylpakt bilden. Ziel der Reform ist es, die irreguläre Migration nach Europa einzudämmen und über harmonisierte und effiziente Asylverfahren die Sekundärmigration innerhalb des Schengen-Raums zu verringern. Schliesslich sollen Schengen-Mitgliedstaaten mit hohem Migrationsduck durch die solidarische Verteilung von Asylsuchenden und andere Arten der Unterstützung entlastet werden. Der Bundesrat begrüsst diese Reform. Seiner Ansicht nach hat die Schweiz aufgrund ihrer geografischen Lage ein vitales Interesse an einer funktionierenden und möglichst krisenresistenten europäischen Migrations- und Asylpolitik.&lt;/p&gt; &lt;h3&gt;Neue Regeln im Dublin-Bereich&lt;/h3&gt; &lt;p&gt;Fünf der zehn Rechtstexte sind für die Schweiz ganz oder teilweise verbindlich. Darin wird unter anderem geregelt, welcher Dublin-Staat für die Prüfung eines Asylgesuches zuständig ist. Die heutigen Zuständigkeitsregeln bleiben grundsätzlich die gleichen. Es gelten jedoch kürzere Fristen für die Klärung der Zuständigkeit. Dadurch können Asylsuchende rascher an einen anderen Staat überstellt werden. Um Sekundärmigration zu vermeiden, wird der Bezug eines Gesuchstellers zu einem bestimmten Dublin-Staat besser berücksichtigt, gleichzeitig aber auch der Übergang der Verantwortung für ein Asylgesuch von einem an einen anderen Dublin-Staat erschwert. Die neue Krisenverordnung legt fest, wie die Staaten in Ausnahmesituationen vorübergehend von bestimmten Regeln abweichen können, etwa durch längere Dublin-Verfahren.&lt;/p&gt; &lt;p&gt;Die revidierte Eurodac-Verordnung stellt die Interoperabilität mit anderen europäischen IT-Systemen sicher. Die Datenbank enthält neu die Gesichtsbilder und Fingerabdrücke aller Personen ab dem sechsten Altersjahr sowie zusätzliche Personenkategorien. Zudem führt der Pakt ein Verfahren für eine schnelle Überprüfung von Personen aus Drittstaaten ein, die in den Schengen-Raum eingereist sind, ohne die Einreisevoraussetzungen zu erfüllen. Die zuständigen Behörden sollen damit die Identität feststellen, einen Sicherheitscheck durchführen und vor Ort gesundheitliche Probleme erfassen.&lt;/p&gt; &lt;h3&gt;Freiwillige Unterstützung&lt;/h3&gt; &lt;p&gt;Mit der Reform führt die EU erstmals einen verbindlichen Solidaritätsmechanismus ein, um Asylsuchende innerhalb der EU zu verteilen. Der Solidaritätsmechanismus ist für die Schweiz nicht verbindlich, sie kann sich aber freiwillig daran beteiligen. Der Bundesrat sieht im Solidaritätsmechanismus eine Chance, das europäische Migrations- und Asylsystem nachhaltig zu stärken. Der Bundesrat unterstützt im Grundsatz eine Beteiligung der Schweiz am Solidaritätsmechanismus der EU. Er hat daher die Verwaltung beauftragt, Vorschläge auszuarbeiten, wie eine Schweizer Beteiligung an diesem Mechanismus konkret aussehen könnte. &lt;/p&gt; &lt;p&gt;In der Vernehmlassung hatte rund die Hälfte der Teilnehmenden die Übernahme und Umsetzung der fünf EU-Verordnungen grundsätzlich befürwortet, darunter die Mehrheit der Kantone. Einige Kantone befürchten zusätzlichen personellen und finanziellen Aufwand. Andere Vernehmlassungsteilnehmende kritisieren, dass die Reform auf Abschottung und Abschreckung setze. Sie fordern, dass sich die Schweiz systematisch und konkret am neuen Solidaritätsmechanismus beteiligt. &lt;/p&gt; </text>
+      <attachment id="287482">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>903</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92506.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287485">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>2695</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92667.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287488">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der AMMR-Verordnung und der Krisenverordnung</title>
+        <format>pdf</format>
+        <size-kb>292</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92512.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287491">
+        <title>Entwurf Bundesbeschluss zur Übernahme der Rückkehrgrenzverfahrensverordnung</title>
+        <format>pdf</format>
+        <size-kb>154</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92548.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287494">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Eurodac-Verordnung</title>
+        <format>pdf</format>
+        <size-kb>288</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92670.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287497">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Überprüfungsverordnung</title>
+        <format>pdf</format>
+        <size-kb>325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92521.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral adopte le message relatif au pacte européen sur la migration et l’asile</title>
+      <lead>Le pacte sur la migration et l’asile vise à rendre le système européen de migration et d’asile plus efficace, plus résistant aux crises et plus solidaire. En tant qu’État associé à Schengen/Dublin, la Suisse participera à cette réforme dans certains domaines et doit donc modifier sa législation nationale. À sa séance du 21 mars 2025, le Conseil fédéral a adopté, à l’intention du Parlement, le message relatif aux modifications requises.</lead>
+      <text link="no"> &lt;p&gt;Le 14 mai 2024, l’Union européenne (UE) a adopté dix textes qui constituent le nouveau pacte sur la migration et l’asile. La réforme ainsi engagée vise à freiner la migration illégale en Europe et à limiter la migration secondaire dans l’espace Schengen grâce à une harmonisation et une optimisation des procédures d’asile. En outre, elle prévoit une répartition plus solidaire des requérants d’asile ainsi que d’autres moyens de soutien qui devraient contribuer à alléger la charge qui pèse sur les États membres de Schengen soumis à une forte pression migratoire. Le Conseil fédéral accueille favorablement cette réforme ; il considère que la Suisse, compte tenu de sa position géographique, a un intérêt vital à la mise en place d’une politique européenne efficace et résistante aux crises en matière d’asile et de migrations.&lt;/p&gt; &lt;h3&gt;Nouvelle réglementation dans le domaine Dublin&lt;/h3&gt; &lt;p&gt;Cinq des dix textes adoptés revêtent un caractère soit entièrement soit partiellement contraignant pour la Suisse. Ces textes définissent notamment quel est l’État Dublin responsable du traitement d’une demande d’asile. Sur ce point, les règles actuelles restent de mise, mais les délais impartis pour clarifier les compétences ont été raccourcis, ce qui permet d’accélérer les transferts. Afin de faire obstacle à la migration secondaire, les liens d’un requérant avec un État Dublin précis sont davantage pris en considération alors que, dans le même temps, des exigences plus strictes ont été définies pour le transfert de compétence d’un État Dublin à un autre. Le nouveau règlement visant à faire face aux situations de crise définit les modalités permettant aux États, en cas de situations exceptionnelles, de déroger provisoirement aux règles de gestion de l’asile et de la migration, notamment via la prolongation de la durée des procédures Dublin.&lt;/p&gt; &lt;p&gt;Le règlement Eurodac révisé garantit l’interopérabilité de cette banque de données avec les autres systèmes informatiques européens ; l’image faciale et les empreintes digitales de toute personne dès l’âge de six ans y figurent désormais ainsi que de nouvelles catégories de personnes. Enfin, le nouveau pacte introduit une procédure pour filtrer rapidement les ressortissants d’États tiers qui sont entrés dans l’espace Schengen et qui ne remplissent pas les conditions d’entrée requises. Les autorités compétentes doivent soumettre les personnes concernées à une vérification d’identité, à un contrôle de sécurité et à un contrôle sanitaire.&lt;/p&gt; &lt;h3&gt;Soutien volontaire&lt;/h3&gt; &lt;p&gt;Avec cette réforme, l’UE met pour la première fois en place un mécanisme de solidarité obligatoire en matière de répartition des requérants d’asile entre les États membres. Ce mécanisme n’est pas contraignant pour la Suisse, qui peut néanmoins choisir d’y participer. Pour le Conseil fédéral, ce mécanisme offre l’opportunité de renforcer durablement le système européen de migration et d’asile ; il est donc favorable, sur le principe, à ce que la Suisse y prenne part. Par conséquent, il a demandé à l’administration de se pencher sur la question et d’élaborer des propositions. &lt;/p&gt; &lt;p&gt;Lors de la consultation, près de la moitié des participants, dont la majorité des cantons, avait approuvé en substance la reprise et l’application des cinq règlements de l’UE. Quelques cantons craignent toutefois que cette réforme ne génère un supplément de charges tant en termes de personnel que de finances. D’autres participants, critiquant le fait que la réforme s’appuie sur une politique d’isolement et de dissuasion, demandent que la Suisse prenne systématiquement part au nouveau mécanisme de solidarité, dans le cadre de mesures concrètes. &lt;/p&gt; </text>
+      <attachment id="287483">
+        <title>Résultats de la procédure de consultation</title>
+        <format>pdf</format>
+        <size-kb>909</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92507.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287486">
+        <title>Message</title>
+        <format>pdf</format>
+        <size-kb>2999</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92668.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287489">
+        <title>Projet d&amp;#39;arrêté fédéral concernant la reprise et la mise en oeuvre du règlement relatif à la gestion de l’asile et de la migration et du règlement visant à faire face aux situations de crise</title>
+        <format>pdf</format>
+        <size-kb>288</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92513.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287492">
+        <title>Projet d&amp;#39;arrêté fédéral portant approbation du règlement instituant une procédure de retour à la frontière</title>
+        <format>pdf</format>
+        <size-kb>152</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92549.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287495">
+        <title>Projet d&amp;#39;arrêté fédéral portant approbation et mise en oeuvre du règlement Eurodac</title>
+        <format>pdf</format>
+        <size-kb>280</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92671.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287498">
+        <title>Projet d&amp;#39;arrêté fédéral portant approbation et mise en oeuvre du règlement sur le filtrage</title>
+        <format>pdf</format>
+        <size-kb>324</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92522.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat verabschiedet Botschaft zum europäischen Migrations- und Asylpakt</title>
+      <lead>Der neue europäische Migrations- und Asylpakt soll das europäische Migrations- und Asylsystem effizienter, krisenresistenter und solidarischer machen. Die Schweiz ist als assoziierter Schengen-/Dublin-Staat verpflichtet, sich in einigen Bereichen daran zu beteiligen. Dazu muss sie ihr nationales Recht anpassen. Der Bundesrat hat an seiner Sitzung vom 21. März 2025 die Botschaft zu den entsprechenden rechtlichen Änderungen zuhanden des Parlaments verabschiedet.</lead>
+      <text link="no"> &lt;p&gt;Die EU hatte am 14. Mai 2024 zehn Verordnungen und Richtlinien verabschiedet, die zusammen den neuen Migrations- und Asylpakt bilden. Ziel der Reform ist es, die irreguläre Migration nach Europa einzudämmen und über harmonisierte und effiziente Asylverfahren die Sekundärmigration innerhalb des Schengen-Raums zu verringern. Schliesslich sollen Schengen-Mitgliedstaaten mit hohem Migrationsduck durch die solidarische Verteilung von Asylsuchenden und andere Arten der Unterstützung entlastet werden. Der Bundesrat begrüsst diese Reform. Seiner Ansicht nach hat die Schweiz aufgrund ihrer geografischen Lage ein vitales Interesse an einer funktionierenden und möglichst krisenresistenten europäischen Migrations- und Asylpolitik.&lt;/p&gt; &lt;h3&gt;Neue Regeln im Dublin-Bereich&lt;/h3&gt; &lt;p&gt;Fünf der zehn Rechtstexte sind für die Schweiz ganz oder teilweise verbindlich. Darin wird unter anderem geregelt, welcher Dublin-Staat für die Prüfung eines Asylgesuches zuständig ist. Die heutigen Zuständigkeitsregeln bleiben grundsätzlich die gleichen. Es gelten jedoch kürzere Fristen für die Klärung der Zuständigkeit. Dadurch können Asylsuchende rascher an einen anderen Staat überstellt werden. Um Sekundärmigration zu vermeiden, wird der Bezug eines Gesuchstellers zu einem bestimmten Dublin-Staat besser berücksichtigt, gleichzeitig aber auch der Übergang der Verantwortung für ein Asylgesuch von einem an einen anderen Dublin-Staat erschwert. Die neue Krisenverordnung legt fest, wie die Staaten in Ausnahmesituationen vorübergehend von bestimmten Regeln abweichen können, etwa durch längere Dublin-Verfahren.&lt;/p&gt; &lt;p&gt;Die revidierte Eurodac-Verordnung stellt die Interoperabilität mit anderen europäischen IT-Systemen sicher. Die Datenbank enthält neu die Gesichtsbilder und Fingerabdrücke aller Personen ab dem sechsten Altersjahr sowie zusätzliche Personenkategorien. Zudem führt der Pakt ein Verfahren für eine schnelle Überprüfung von Personen aus Drittstaaten ein, die in den Schengen-Raum eingereist sind, ohne die Einreisevoraussetzungen zu erfüllen. Die zuständigen Behörden sollen damit die Identität feststellen, einen Sicherheitscheck durchführen und vor Ort gesundheitliche Probleme erfassen.&lt;/p&gt; &lt;h3&gt;Freiwillige Unterstützung&lt;/h3&gt; &lt;p&gt;Mit der Reform führt die EU erstmals einen verbindlichen Solidaritätsmechanismus ein, um Asylsuchende innerhalb der EU zu verteilen. Der Solidaritätsmechanismus ist für die Schweiz nicht verbindlich, sie kann sich aber freiwillig daran beteiligen. Der Bundesrat sieht im Solidaritätsmechanismus eine Chance, das europäische Migrations- und Asylsystem nachhaltig zu stärken. Der Bundesrat unterstützt im Grundsatz eine Beteiligung der Schweiz am Solidaritätsmechanismus der EU. Er hat daher die Verwaltung beauftragt, Vorschläge auszuarbeiten, wie eine Schweizer Beteiligung an diesem Mechanismus konkret aussehen könnte. &lt;/p&gt; &lt;p&gt;In der Vernehmlassung hatte rund die Hälfte der Teilnehmenden die Übernahme und Umsetzung der fünf EU-Verordnungen grundsätzlich befürwortet, darunter die Mehrheit der Kantone. Einige Kantone befürchten zusätzlichen personellen und finanziellen Aufwand. Andere Vernehmlassungsteilnehmende kritisieren, dass die Reform auf Abschottung und Abschreckung setze. Sie fordern, dass sich die Schweiz systematisch und konkret am neuen Solidaritätsmechanismus beteiligt. &lt;/p&gt; </text>
+      <attachment id="287482">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>903</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92506.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287485">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>2695</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92667.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287488">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der AMMR-Verordnung und der Krisenverordnung</title>
+        <format>pdf</format>
+        <size-kb>292</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92512.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287491">
+        <title>Entwurf Bundesbeschluss zur Übernahme der Rückkehrgrenzverfahrensverordnung</title>
+        <format>pdf</format>
+        <size-kb>154</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92548.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287494">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Eurodac-Verordnung</title>
+        <format>pdf</format>
+        <size-kb>288</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92670.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287497">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Überprüfungsverordnung</title>
+        <format>pdf</format>
+        <size-kb>325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92521.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Federal Council adopts Dispatch on EU Pact on Migration and Asylum</title>
+      <lead>The new EU Pact on Migration and Asylum is intended to make the European migration and asylum system more efficient, crisis-resistant and with an effective system of solidarity. As an associated Schengen/Dublin state, Switzerland is obliged to participate in certain areas of the new arrangements. To do so, it must adapt its national legislation. At its meeting on 21 March, the Federal Council adopted a dispatch on the corresponding legal amendments for the attention of Parliament.</lead>
+      <text link="no"> &lt;p&gt;On 14 May 2024, the EU adopted ten regulations and directives that together form the new Pact on Migration and Asylum. The aim of the reform is to curb irregular migration to Europe and to reduce secondary movements within the Schengen Area by harmonising and streamlining asylum procedures. Furthermore, the solidarity-based distribution of asylum seekers and other forms of support should ease the burden on Schengen member states with high migration pressure. The Federal Council welcomes this reform. In its view, Switzerland has a vital interest in a functioning and crisis-resistant European migration and asylum policy due to its geographical location.&lt;/p&gt; &lt;h3&gt;New rules in Dublin Area&lt;/h3&gt; &lt;p&gt;Five of the ten legal texts are binding on Switzerland, either in whole or in part. These include provisions clarifying which Dublin member state is responsible for examining an asylum application. Today's rules on responsibility remain fundamentally the same. However, shorter deadlines apply for clarifying responsibility. This means that asylum seekers can be transferred to another member state more quickly. In order to avoid secondary movements, the link between an applicant and a particular Dublin member state will be given greater consideration, while at the same time the transfer of responsibility for an asylum application from one Dublin member state to another will be made more difficult. The new Crisis Regulation lays down how states can temporarily deviate from certain rules in exceptional circumstances, such as with longer Dublin procedures.&lt;/p&gt; &lt;p&gt;The revised Eurodac Regulation ensures interoperability with other European IT systems. The database now contains the facial images and fingerprints of all persons aged six and over, as well as additional categories of persons. It also introduces a procedure for the rapid verification of persons from third countries who have entered the Schengen Area without fulfilling the entry conditions. The competent authorities will now use this to establish the person's identity, carry out a security check and identify any health issues on the spot.&lt;/p&gt; &lt;h3&gt;Voluntary support&lt;/h3&gt; &lt;p&gt;Under the reforms the EU is introducing a mandatory solidarity mechanism for the first time to distribute asylum seekers within the EU. Switzerland is not obliged to participate in the solidarity mechanism, but it can choose to do so on a voluntary basis. The Federal Council sees the solidarity mechanism as an opportunity to sustainably strengthen the European migration and asylum system. The Federal Council supports Switzerland's participation in the EU solidarity mechanism in principle. It has therefore instructed the administration to draw up proposals for how Swiss participation in this mechanism could be realised.&lt;/p&gt; &lt;p&gt;During the consultation proceedings, around half of those who took part, including the majority of the cantons, were in favour of adopting and implementing the five EU regulations in principle. Some cantons fear additional personnel and financial costs. Other consultation participants criticised the fact that the reform is based on containment and deterrence. They called for Switzerland to participate systematically and tangibly in the new solidarity mechanism.&lt;/p&gt; </text>
+      <attachment id="287482">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>903</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92506.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287485">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>2695</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92667.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287488">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der AMMR-Verordnung und der Krisenverordnung</title>
+        <format>pdf</format>
+        <size-kb>292</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92512.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287491">
+        <title>Entwurf Bundesbeschluss zur Übernahme der Rückkehrgrenzverfahrensverordnung</title>
+        <format>pdf</format>
+        <size-kb>154</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92548.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287494">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Eurodac-Verordnung</title>
+        <format>pdf</format>
+        <size-kb>288</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92670.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="287497">
+        <title>Entwurf Bundesbeschluss zur Übernahme und Umsetzung der Überprüfungsverordnung</title>
+        <format>pdf</format>
+        <size-kb>325</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92521.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
+      </topic>
+      <topic id="20">
+        <name lang="it">Migrazione</name>
+        <name lang="rm">Migration</name>
+        <name lang="fr">Migrations</name>
+        <name lang="de">Migration</name>
+        <name lang="en">Migration</name>
+      </topic>
+      <topic id="34">
+        <name lang="it">Europa</name>
+        <name lang="rm">Europa</name>
+        <name lang="fr">Europe</name>
+        <name lang="de">Europa</name>
+        <name lang="en">Europe</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

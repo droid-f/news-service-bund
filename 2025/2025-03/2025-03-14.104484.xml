@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104484" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-03-14</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="810" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Ufficio federale delle comunicazioni</name>
+      <name lang="fr">Office fédéral de la communication</name>
+      <name lang="en">Federal Office of Communications</name>
+      <name lang="de">Bundesamt für Kommunikation</name>
+      <name lang="rm">Bundesamt für Kommunikation</name>
+      <www lang="it">http://www.ufcom.admin.ch</www>
+      <www lang="fr">http://www.ofcom.admin.ch</www>
+      <www lang="en">http://www.ofcom.admin.ch</www>
+      <www lang="de">http://www.bakom.admin.ch</www>
+      <www lang="rm">http://www.bakom.admin.ch</www>
+      <email lang="it">media@bakom.admin.ch</email>
+      <email lang="fr">media@bakom.admin.ch</email>
+      <email lang="en">media@bakom.admin.ch</email>
+      <email lang="de">media@bakom.admin.ch</email>
+      <email lang="rm">media@bakom.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="210" org-id="804">
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="en">Federal Council</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+      </keyword>
+      <keyword id="570" org-id="804">
+        <name lang="it">Internet</name>
+        <name lang="fr">Internet</name>
+        <name lang="en">Internet</name>
+        <name lang="de">Internet</name>
+        <name lang="rm">Internet</name>
+      </keyword>
+      <keyword id="1260" org-id="804">
+        <name lang="it">Telecomunicazioni</name>
+        <name lang="fr">Telécommunications</name>
+        <name lang="en">Telecommunications</name>
+        <name lang="de">Telekommunikation</name>
+        <name lang="rm">Telekommunikation</name>
+      </keyword>
+    </keywords>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Programma di sostegno per un Internet veloce in tutta la Svizzera: inizio della consultazione</title>
+      <lead>La popolazione svizzera deve poter contare su un accesso Internet ad alta velocità su tutto il territorio nazionale. Il Consiglio federale persegue questo obiettivo con la sua Strategia gigabit. Con un programma di sostegno limitato nel tempo, intende promuovere l'ampliamento della rete a banda larga via fibra ottica o infrastrutture di radiocomunicazione. Nella sua seduta del 14 marzo 2025, il Consiglio federale ha aperto la procedura di consultazione sulla nuova legge sul sostegno alla banda larga. </lead>
+      <text link="no"> &lt;p&gt;Le moderne reti a banda larga offrono un Internet veloce e quindi grandi opportunità per le zone rurali, contribuendo in questo modo al mantenimento dei posti di lavoro anche in futuro. Nell'ambito della Strategia gigabit, il Consiglio federale intende creare un programma di sostegno per l'ampliamento della rete a banda larga, contrastando così il divario digitale tra città e campagna. Il programma contribuisce anche a recuperare il ritardo accumulato rispetto all'estero nell'ampliamento delle reti in fibra ottica. La struttura del programma è disciplinata dalla nuova legge federale sul sostegno all'ampliamento delle infrastrutture a banda larga (legge sul sostegno alla banda larga, LSBL). &lt;/p&gt; &lt;p&gt;&lt;b&gt;Obiettivi e oggetto del sostegno&lt;/b&gt;&lt;/p&gt; &lt;p&gt;L'avamprogetto di legge mira a sostenere l'ampliamento a livello nazionale di collegamenti fissi con velocità di trasmissione dati di almeno 1 gigabit al secondo (Gbit/s) per il download. L'ampliamento deve continuare a essere realizzato principalmente dagli operatori di mercato, senza aiuti finanziari. Il programma di sostegno apporta un finanziamento iniziale laddove un ampliamento con una capacità di 1 Gbit/s non è economicamente vantaggioso. Questo potrebbe essere il caso delle aree scarsamente popolate. Gli aiuti finanziari devono confluire nell'ampliamento delle reti in fibra ottica o di infrastrutture di radiocomunicazione; queste ultime diventano interessanti soprattutto quando i costi di ampliamento per la fibra ottica sono molto elevati. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Condizioni quadro del programma di sostegno&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;A richiedere e a beneficiare degli aiuti finanziari sono i Comuni. L'importo del sostegno si limita all'ammanco previsto per un progetto di ampliamento. Per garantire una concorrenza efficace, gli operatori delle infrastrutture sovvenzionate devono garantire l'accesso ad altri fornitori. Sula stessa infrastruttura possono essere così proposte diverse offerte. Il programma di sostegno è limitato a sette anni, massimo dieci. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Finanziamento&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Il programma prevede un finanziamento di circa 730 milioni di franchi. Secondo l'avamprogetto in consultazione, la Confederazione mette a disposizione il 50 per cento dei fondi necessari. Come prerequisito per ottenere i fondi federali, il Cantone interessato deve assumersi il restante 50 per cento del finanziamento. Le uscite della Confederazione sono limitate a un massimo di 375 milioni di franchi (inclusi 10 milioni di franchi per le spese amministrative). Per coprirle è previsto l'utilizzo temporaneo a destinazione vincolata delle future tasse per le concessioni di radiocomunicazione mobile.&lt;/p&gt; &lt;p&gt;La consultazione si concluderà il 23 giugno 2025.&lt;/p&gt; </text>
+      <link id="286666">
+        <title>Programma di sostegno per un Internet veloce in tutta la Svizzera: avvio della consultazione</title>
+        <uri>https://www.bakom.admin.ch/bakom/it/pagina-iniziale/l-ufcom/organizzazione/basi-legali/consultazioni.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286667">
+        <title>Strategia gigabit della Confederazione</title>
+        <uri>https://www.bakom.admin.ch/bakom/it/pagina-iniziale/l-ufcom/organizzazione/basi-legali/affari-del-consiglio-federale/strategia-gigabit.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286730">
+        <title>Conferenza stampa (14 marzo 2025)</title>
+        <uri>https://www.youtube.com/live/S8DoFsePXu8</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286674">
+        <title>Scheda informativa</title>
+        <format>pdf</format>
+        <size-kb>111</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92373.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Ufficio federale delle comunicazioni UFCOM, Servizio stampa, tel. +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Programme d'encouragement pour un internet à haut débit dans toute la Suisse: ouverture de la consultation</title>
+      <lead>La population suisse doit avoir accès à l'internet à très haut débit dans tout le pays, conformément à l'objectif que poursuit le Conseil fédéral avec sa stratégie Gigabit. Grâce à un programme temporaire d'encouragement, le Conseil fédéral souhaite accélérer le déploiement du haut débit par fibre optique ou par radiocommunication. Au cours de sa séance du 14 mars 2025, il a ouvert la procédure de consultation relative à la nouvelle loi sur la promotion du haut débit. </lead>
+      <text link="no"> &lt;p&gt;Les réseaux haut débit modernes offrent un internet rapide, et donc de grandes opportunités pour les zones rurales. Ils contribuent ainsi au maintien des emplois également à l'avenir. Dans le cadre de sa stratégie Gigabit, le Conseil fédéral entend créer un programme d'encouragement pour le déploiement du haut débit et lutter ainsi contre la fracture numérique ville-campagne. Le programme contribue également à combler le retard pris par rapport à l'étranger en matière de déploiement de réseaux de fibre optique. Ses modalités sont définies dans la nouvelle loi fédérale sur la promotion du développement d'infrastructures pour le haut débit (loi sur la promotion du haut débit, LPHD). &lt;/p&gt; &lt;p&gt;&lt;b&gt;But et objet du soutien&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le projet de loi vise à promouvoir le déploiement dans tout le pays de raccordements fixes d'un débit d'au moins 1 gigabit par seconde (Gbit/s) en téléchargement. Le déploiement doit continuer à être assuré en premier lieu par les acteurs du marché et sans aide financière. En tant que financement de départ, le programme d'encouragement ne concerne donc que les endroits où le déploiement de raccordements de 1 Gbit/s n'est pas rentable, ce qui devrait particulièrement être le cas des régions peu peuplées. Les aides financières doivent être affectées au déploiement de réseaux de fibre optique ou d'infrastructures de radiocommunication - dans ce second cas notamment si la solution de la fibre optique est très chère. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Conditions du programme de soutien&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Les requérantes et bénéficiaires des aides financières sont les communes. Le montant des subventions se limite à la perte attendue d'un projet de déploiement. Pour garantir une concurrence efficace, obligation est faite aux exploitants des infrastructures subventionnées de permettre l'accès à d'autres fournisseurs. Ainsi, il se peut qu’une infrastructure supporte plusieurs offres. La durée du programme de soutien doit être limité à sept à dix ans. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Financement&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Le programme est financé par des subventions estimées à 730 millions de francs. Selon le projet mis en consultation, la Confédération devrait financer 50 % des fonds nécessaires, à condition que le canton concerné prenne en charge les 50 % restants. Les dépenses de la Confédération sont limitées à 375 millions de francs (dont 10 millions au maximum consacrés à l'administration du programme). Elles sont financées par une utilisation temporaire et affectée des futures redevances des concessions de radiocommunication mobile.&lt;/p&gt; &lt;p&gt;La consultation dure jusqu'au 23 juin 2025.&lt;/p&gt; </text>
+      <link id="286664">
+        <title>Programme d&amp;#39;encouragement pour un internet à haut débit dans toute la Suisse: ouverture de la consultation</title>
+        <uri>https://www.bakom.admin.ch/bakom/fr/page-daccueil/l-ofcom/organisation/bases-legales/consultations.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286665">
+        <title>Stratégie Gigabit de la Confédération</title>
+        <uri>https://www.bakom.admin.ch/bakom/fr/page-daccueil/l-ofcom/organisation/bases-legales/dossiers-du-conseil-federal/strategie-gigabit.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286729">
+        <title>Conférence de presse (14 mars 2025)</title>
+        <uri>https://www.youtube.com/live/S8DoFsePXu8</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286673">
+        <title>Notice d&amp;#39;information</title>
+        <format>pdf</format>
+        <size-kb>118</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92372.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Office fédéral de la communication OFCOM, Service de presse, tél. +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Consultation launched on programme to expand high-speed internet throughout Switzerland</title>
+      <lead>The Federal Council’s gigabit strategy aims to provide access to high-speed internet throughout Switzerland. A temporary funding programme will drive forward the expansion of broadband via fibre optic and wireless infrastructure. At its meeting on 14 March 2025, the Federal Council opened the consultation on the new Broadband Promotion Act. </lead>
+      <text link="no"> &lt;p&gt;Modern broadband networks provide high-speed internet and therefore great opportunities for rural areas. They are helping to ensure that it will be possible to work there in the future as well. The Federal Council’s gigabit strategy includes a programme to promote broadband expansion and thereby counteract a digital urban-rural divide. The programme will also help Switzerland to catch up with other countries in the expansion of fibre-optic networks. The structure of the programme is regulated in the new Federal Act on Promoting Broadband Infrastructure Expansion (Broadband Promotion Act, BPA). &lt;/p&gt; &lt;p&gt;&lt;b&gt;Programme aims&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The draft law aims to promote the nationwide expansion of fixed networks with download speeds of at least one gigabit per second (Gbit/s). Market players will still be primarily responsible for expanding the network without any additional financial support; this programme will provide kick-start funding in areas where it is not in the market players’ interest to invest in network expansion with a capacity of 1 Gbit/s. This is likely to be the case in sparsely populated areas. The financial support will go towards expanding fibre-optic networks or wireless infrastructure – the latter in particular where the cost of expanding the fibre-optic network is very high. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Programme conditions&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The communes can apply for the available funding, with the amount granted limited to the expected financial shortfall in an expansion project. In order to ensure effective competition, the operators of the subsidised infrastructure must grant access to other providers, i.e. several providers may offer their services via the same infrastructure. The funding programme is to be limited to a period of seven to ten years. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Funding&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;The programme will receive funding of around CHF 730 million. The draft bill under consultation states that the federal government should cover 50 per cent of the shortfall in an expansion project, on the condition that the canton concerned funds the other 50 per cent. Federal expenditure is limited to a maximum of CHF 375 million (including up to CHF 10 million for programme administration), to be financed via a temporary ring-fenced use of mobile telephony licence fees.&lt;/p&gt; &lt;p&gt;The consultation lasts until 23 June 2025.&lt;/p&gt; </text>
+      <link id="286668">
+        <title>Consultation on the new Broadband Promotion Act (de, fr, it)</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/vernehmlassungen.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286669">
+        <title>Gigabit Strategy</title>
+        <uri>https://www.bakom.admin.ch/bakom/en/homepage/ofcom/organisation/legal-framework/business-of-the-federal-council/gigabit-strategy.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Federal Office of Communication OFCOM, Press service, Tel. +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Förderprogramm für schweizweit schnelles Internet: Eröffnung der Vernehmlassung</title>
+      <lead>Die Schweizer Bevölkerung soll möglichst flächendeckend Zugang zu sehr schnellem Internet erhalten. Dieses Ziel verfolgt der Bundesrat mit seiner Gigabitstrategie. Mit einem befristeten Förderprogramm will er den Breitbandausbau per Glasfaser oder Funkinfrastruktur vorantreiben. Der Bundesrat hat an seiner Sitzung vom 14. März 2025 die Vernehmlassung zum neuen Breitbandfördergesetz eröffnet. </lead>
+      <text link="no"> &lt;p&gt;Moderne Breitbandnetze bieten schnelles Internet und damit grosse Chancen für den ländlichen Raum. Sie helfen mit, dass dort auch in Zukunft gearbeitet werden kann. Der Bundesrat will im Rahmen seiner Gigabitstrategie ein Förderprogramm für den Breitbandausbau schaffen und so einem digitalen Stadt-Land-Graben entgegenwirken. Auch trägt das Programm dazu bei, den Rückstand gegenüber dem Ausland beim Ausbau mit Glasfasernetzen aufzuholen. Die Ausgestaltung des Programms wird im neuen Bundesgesetz über die Förderung des Ausbaus von Breitbandinfrastrukturen (Breitbandfördergesetz, BBFG) geregelt. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Ziel und Gegenstand der Förderung&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Gesetzesentwurf strebt die Förderung des landesweiten Ausbaus von Festnetzanschlüssen mit Übertragungsraten von mindestens 1 Gigabit pro Sekunde (Gbit/s) im Download an. Der Ausbau soll weiterhin in erster Linie durch die Marktteilnehmer und ohne Finanzhilfen erfolgen. Das Förderprogramm greift deshalb im Sinne einer Anschubfinanzierung nur dort, wo ein Ausbau mit einer Leistung von 1 Gbit/s sich nicht lohnt. Das dürfte insbesondere in dünn besiedelten Gebieten der Fall sein. Die Finanzhilfen sollen in den Ausbau von Glasfasernetzen oder Funkinfrastrukturen fliessen - letzteres insbesondere bei sehr hohen Ausbaukosten von Glasfasernetzen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Rahmenbedingungen des Förderprogramms&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Gesuchstellerinnen und Empfängerinnen von Finanzhilfen sind die Gemeinden. Die Höhe der Fördermittel beschränkt sich auf den erwarteten Verlust eines Ausbauprojektes. Um einen wirksamen Wettbewerb zu gewährleisten, müssen die Betreiber der geförderten Infrastrukturen anderen Anbieterinnen Zugang gewähren. So kann es auf der Infrastruktur mehrere Angebote geben. Das Förderprogramm soll auf sieben bis maximal zehn Jahre befristet werden. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Finanzierung&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Das Programm wird mit Fördermitteln in der Höhe von schätzungsweise 730 Millionen Franken finanziert. Gemäss Vernehmlassungsvorlage soll der Bund 50 Prozent der erforderlichen Mittel finanzieren. Als Voraussetzung für die Bundesmittel muss der betroffene Kanton die restlichen 50 Prozent der Fördermittel tragen. Die Ausgaben des Bundes sind auf maximal 375 Millionen Franken begrenzt (inkl. bis zu 10 Mio. für die Programm-Administration). Sie werden durch eine befristete zweckgebundene Verwendung der zukünftigen Konzessionsgebühren von Mobilfunkkonzessionen finanziert.&lt;/p&gt; &lt;p&gt;Die Vernehmlassung dauert bis am 23. Juni 2025.&lt;/p&gt; </text>
+      <link id="286656">
+        <title>Förderprogramm für schweizweit schnelles Internet: Eröffnung der Vernehmlassung</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/vernehmlassungen.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286657">
+        <title>Gigabitstrategie des Bundes</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/bundesratsgeschaefte/gigabitstrategie.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286728">
+        <title>Medienkonferenz (14. März 2025)</title>
+        <uri>https://www.youtube.com/live/S8DoFsePXu8</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286655">
+        <title>Faktenblatt</title>
+        <format>pdf</format>
+        <size-kb>116</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92371.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Kommunikation BAKOM, Medienstelle, Tel. +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Förderprogramm für schweizweit schnelles Internet: Eröffnung der Vernehmlassung</title>
+      <lead>Die Schweizer Bevölkerung soll möglichst flächendeckend Zugang zu sehr schnellem Internet erhalten. Dieses Ziel verfolgt der Bundesrat mit seiner Gigabitstrategie. Mit einem befristeten Förderprogramm will er den Breitbandausbau per Glasfaser oder Funkinfrastruktur vorantreiben. Der Bundesrat hat an seiner Sitzung vom 14. März 2025 die Vernehmlassung zum neuen Breitbandfördergesetz eröffnet. </lead>
+      <text link="no"> &lt;p&gt;Moderne Breitbandnetze bieten schnelles Internet und damit grosse Chancen für den ländlichen Raum. Sie helfen mit, dass dort auch in Zukunft gearbeitet werden kann. Der Bundesrat will im Rahmen seiner Gigabitstrategie ein Förderprogramm für den Breitbandausbau schaffen und so einem digitalen Stadt-Land-Graben entgegenwirken. Auch trägt das Programm dazu bei, den Rückstand gegenüber dem Ausland beim Ausbau mit Glasfasernetzen aufzuholen. Die Ausgestaltung des Programms wird im neuen Bundesgesetz über die Förderung des Ausbaus von Breitbandinfrastrukturen (Breitbandfördergesetz, BBFG) geregelt. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Ziel und Gegenstand der Förderung&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Der Gesetzesentwurf strebt die Förderung des landesweiten Ausbaus von Festnetzanschlüssen mit Übertragungsraten von mindestens 1 Gigabit pro Sekunde (Gbit/s) im Download an. Der Ausbau soll weiterhin in erster Linie durch die Marktteilnehmer und ohne Finanzhilfen erfolgen. Das Förderprogramm greift deshalb im Sinne einer Anschubfinanzierung nur dort, wo ein Ausbau mit einer Leistung von 1 Gbit/s sich nicht lohnt. Das dürfte insbesondere in dünn besiedelten Gebieten der Fall sein. Die Finanzhilfen sollen in den Ausbau von Glasfasernetzen oder Funkinfrastrukturen fliessen - letzteres insbesondere bei sehr hohen Ausbaukosten von Glasfasernetzen. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Rahmenbedingungen des Förderprogramms&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Gesuchstellerinnen und Empfängerinnen von Finanzhilfen sind die Gemeinden. Die Höhe der Fördermittel beschränkt sich auf den erwarteten Verlust eines Ausbauprojektes. Um einen wirksamen Wettbewerb zu gewährleisten, müssen die Betreiber der geförderten Infrastrukturen anderen Anbieterinnen Zugang gewähren. So kann es auf der Infrastruktur mehrere Angebote geben. Das Förderprogramm soll auf sieben bis maximal zehn Jahre befristet werden. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Finanzierung&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Das Programm wird mit Fördermitteln in der Höhe von schätzungsweise 730 Millionen Franken finanziert. Gemäss Vernehmlassungsvorlage soll der Bund 50 Prozent der erforderlichen Mittel finanzieren. Als Voraussetzung für die Bundesmittel muss der betroffene Kanton die restlichen 50 Prozent der Fördermittel tragen. Die Ausgaben des Bundes sind auf maximal 375 Millionen Franken begrenzt (inkl. bis zu 10 Mio. für die Programm-Administration). Sie werden durch eine befristete zweckgebundene Verwendung der zukünftigen Konzessionsgebühren von Mobilfunkkonzessionen finanziert.&lt;/p&gt; &lt;p&gt;Die Vernehmlassung dauert bis am 23. Juni 2025.&lt;/p&gt; </text>
+      <link id="286656">
+        <title>Förderprogramm für schweizweit schnelles Internet: Eröffnung der Vernehmlassung</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/vernehmlassungen.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286657">
+        <title>Gigabitstrategie des Bundes</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/das-bakom/organisation/rechtliche-grundlagen/bundesratsgeschaefte/gigabitstrategie.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286728">
+        <title>Medienkonferenz (14. März 2025)</title>
+        <uri>https://www.youtube.com/live/S8DoFsePXu8</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286655">
+        <title>Faktenblatt</title>
+        <format>pdf</format>
+        <size-kb>116</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92371.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Kommunikation BAKOM, Medienstelle, Tel. +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="28">
+        <name lang="it">Telecomunicazione</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="en">Telecommunications</name>
+        <name lang="de">Telekommunikation</name>
+        <name lang="rm">Telekommunikation</name>
+      </topic>
+      <topic id="36">
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="en">IT and E-Government</name>
+        <name lang="de">Informatik und E-Government</name>
+        <name lang="rm">Informatik und E-Government</name>
+      </topic>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="en">Federal Council</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="19">
+        <name lang="it">Media</name>
+        <name lang="fr">Médias</name>
+        <name lang="en">Media</name>
+        <name lang="de">Medien</name>
+        <name lang="rm">Medien</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="67" org-id="810">
+        <name lang="it">Comunicati stampa telecomunicazioni</name>
+        <name lang="fr">Communiqués de presse télécommunications</name>
+        <name lang="en">Press releases Telecom</name>
+        <name lang="de">Medienmitteilungen Telecom</name>
+        <name lang="rm">Medienmitteilungen Telecom</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

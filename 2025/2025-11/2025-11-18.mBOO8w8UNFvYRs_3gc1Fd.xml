@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="mBOO8w8UNFvYRs_3gc1Fd" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-11-18</pubdate>
+    <originator id="1047" department-msg="no" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Agroscope</name>
+      <name lang="en">Agroscope</name>
+      <name lang="fr">Agroscope</name>
+      <name lang="it">Agroscope</name>
+      <name lang="rm">Agroscope</name>
+      <www lang="it">https://www.agroscope.admin.ch/</www>
+      <www lang="de">https://www.agroscope.admin.ch/</www>
+      <www lang="en">https://www.agroscope.admin.ch/</www>
+      <www lang="fr">https://www.agroscope.admin.ch/</www>
+    </originator>
+    <originator id="705" department-msg="no" lead="no" topnews="no">
+      <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="en">Federal Office for Agriculture</name>
+      <name lang="fr">Office fédéral de l'agriculture</name>
+      <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="rm">Uffizi federal d'agricultura</name>
+      <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
+      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
+      <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
+      <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
+    </originator>
+    <keywords>
+      <keyword id="SLW-1" org-id="1047">
+        <name lang="de">Obstbau</name>
+        <name lang="en">Fruit growing</name>
+        <name lang="fr">Arboriculture</name>
+        <name lang="it">Frutticoltura</name>
+      </keyword>
+      <keyword id="SLW-2" org-id="1047">
+        <name lang="de">Beerenanbau</name>
+        <name lang="en">Berries</name>
+        <name lang="fr">Baies</name>
+        <name lang="it">Piccoli frutti</name>
+      </keyword>
+      <keyword id="SLW-3" org-id="1047">
+        <name lang="de">Gemüsebau</name>
+        <name lang="en">Horticulture</name>
+        <name lang="fr">Cultures maraîchères</name>
+        <name lang="it">Orticoltura</name>
+      </keyword>
+      <keyword id="SLW-2108,ORG-1047" org-id="1047">
+        <name lang="de">Ackerbau</name>
+        <name lang="en">Field crops</name>
+        <name lang="fr">Grandes cultures</name>
+        <name lang="it">Campicoltura</name>
+      </keyword>
+      <keyword id="SLW-5" org-id="1047">
+        <name lang="de">Futterbau</name>
+        <name lang="en">Grassland</name>
+        <name lang="fr">Herbages</name>
+        <name lang="it">Foraggicoltura</name>
+      </keyword>
+      <keyword id="SLW-9" org-id="1047">
+        <name lang="en">Oenology</name>
+        <name lang="fr">Oenologie</name>
+        <name lang="it">Enologia</name>
+        <name lang="de">Weinbereitung</name>
+      </keyword>
+      <keyword id="SLW-10" org-id="1047">
+        <name lang="de">Rebbau</name>
+        <name lang="en">Viticulture</name>
+        <name lang="fr">Viticulture</name>
+        <name lang="it">Viticoltura</name>
+      </keyword>
+      <keyword id="SLW-29" org-id="1047">
+        <name lang="de">Schaf</name>
+        <name lang="en">Sheep</name>
+        <name lang="fr">Mouton</name>
+        <name lang="it">Pecora</name>
+      </keyword>
+      <keyword id="SLW-33" org-id="1047">
+        <name lang="de">Schwein</name>
+        <name lang="en">Pig</name>
+        <name lang="fr">Porc</name>
+        <name lang="it">Maiale</name>
+      </keyword>
+      <keyword id="SLW-34" org-id="1047">
+        <name lang="de">Rind</name>
+        <name lang="en">Bovine</name>
+        <name lang="fr">Bovin</name>
+        <name lang="it">Bovino</name>
+      </keyword>
+      <keyword id="SLW-35" org-id="1047">
+        <name lang="fr">Économie du travail</name>
+        <name lang="it">Economia del lavoro</name>
+        <name lang="de">Arbeitswirtschaft</name>
+        <name lang="en">Economics of labour</name>
+      </keyword>
+      <keyword id="SLW-36" org-id="1047">
+        <name lang="de">Betriebswirtschaft</name>
+        <name lang="en">Farm management</name>
+        <name lang="fr">Economie d’entreprise</name>
+        <name lang="it">Economia d'impresa</name>
+      </keyword>
+      <keyword id="SLW-47" org-id="1047">
+        <name lang="de">Ziege</name>
+        <name lang="en">Goat</name>
+        <name lang="fr">Chèvre</name>
+        <name lang="it">Capra</name>
+      </keyword>
+      <keyword id="SLW-56" org-id="1047">
+        <name lang="de">Sozioökonomie</name>
+        <name lang="en">Socioeconomics</name>
+        <name lang="fr">Socio-économie</name>
+        <name lang="it">Socio-economia</name>
+      </keyword>
+      <keyword id="SLW-59" org-id="1047">
+        <name lang="fr">Dépouillement centralisé des données comptables</name>
+        <name lang="it">Esame centralizzato dei dati contabili</name>
+        <name lang="de">Zentrale Auswertung von Buchhaltungsdaten</name>
+        <name lang="en">Farm accountancy data network</name>
+      </keyword>
+      <keyword id="SLW-66" org-id="1047">
+        <name lang="de">Fleisch</name>
+        <name lang="en">Meat</name>
+        <name lang="fr">Viande</name>
+        <name lang="it">Carne</name>
+      </keyword>
+      <keyword id="SLW-67" org-id="1047">
+        <name lang="de">Milch</name>
+        <name lang="en">Milk</name>
+        <name lang="fr">Lait</name>
+        <name lang="it">Latte</name>
+      </keyword>
+      <keyword id="SLW-68" org-id="1047">
+        <name lang="de">Milchprodukte</name>
+        <name lang="en">Milk products</name>
+        <name lang="fr">Produits laitiers</name>
+        <name lang="it">Prodotti lattiere</name>
+      </keyword>
+      <keyword id="SLW-69" org-id="1047">
+        <name lang="fr">Produits carnés</name>
+        <name lang="it">Prodotti di carne</name>
+        <name lang="de">Fleischprodukte</name>
+        <name lang="en">Meat products</name>
+      </keyword>
+      <keyword id="SLW-70" org-id="1047">
+        <name lang="de">Biene</name>
+        <name lang="en">Bee</name>
+        <name lang="fr">Abeille</name>
+        <name lang="it">Ape</name>
+      </keyword>
+      <keyword id="SLW-72" org-id="1047">
+        <name lang="de">Honig</name>
+        <name lang="en">Honey</name>
+        <name lang="fr">Miel</name>
+        <name lang="it">Miele</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="1047">
+        <name lang="de">Käse</name>
+        <name lang="en">Cheese</name>
+        <name lang="fr">Fromage</name>
+        <name lang="it">Formaggio</name>
+      </keyword>
+      <keyword id="SLW-79" org-id="1047">
+        <name lang="de">Kartoffel</name>
+        <name lang="en">Potato</name>
+        <name lang="fr">Pomme de terre</name>
+        <name lang="it">Patata</name>
+      </keyword>
+      <keyword id="SLW-1" org-id="1047">
+        <name lang="de">Obstbau</name>
+        <name lang="en">Fruit growing</name>
+        <name lang="fr">Arboriculture</name>
+        <name lang="it">Frutticoltura</name>
+      </keyword>
+      <keyword id="SLW-2" org-id="1047">
+        <name lang="en">Berries</name>
+        <name lang="fr">Baies</name>
+        <name lang="it">Piccoli frutti</name>
+        <name lang="de">Beerenanbau</name>
+      </keyword>
+      <keyword id="SLW-3" org-id="1047">
+        <name lang="de">Gemüsebau</name>
+        <name lang="en">Horticulture</name>
+        <name lang="fr">Cultures maraîchères</name>
+        <name lang="it">Orticoltura</name>
+      </keyword>
+      <keyword id="SLW-2108,ORG-1047" org-id="1047">
+        <name lang="de">Ackerbau</name>
+        <name lang="en">Field crops</name>
+        <name lang="fr">Grandes cultures</name>
+        <name lang="it">Campicoltura</name>
+      </keyword>
+      <keyword id="SLW-5" org-id="1047">
+        <name lang="en">Grassland</name>
+        <name lang="fr">Herbages</name>
+        <name lang="it">Foraggicoltura</name>
+        <name lang="de">Futterbau</name>
+      </keyword>
+      <keyword id="SLW-9" org-id="1047">
+        <name lang="fr">Oenologie</name>
+        <name lang="it">Enologia</name>
+        <name lang="de">Weinbereitung</name>
+        <name lang="en">Oenology</name>
+      </keyword>
+      <keyword id="SLW-10" org-id="1047">
+        <name lang="de">Rebbau</name>
+        <name lang="en">Viticulture</name>
+        <name lang="fr">Viticulture</name>
+        <name lang="it">Viticoltura</name>
+      </keyword>
+      <keyword id="SLW-29" org-id="1047">
+        <name lang="de">Schaf</name>
+        <name lang="en">Sheep</name>
+        <name lang="fr">Mouton</name>
+        <name lang="it">Pecora</name>
+      </keyword>
+      <keyword id="SLW-33" org-id="1047">
+        <name lang="de">Schwein</name>
+        <name lang="en">Pig</name>
+        <name lang="fr">Porc</name>
+        <name lang="it">Maiale</name>
+      </keyword>
+      <keyword id="SLW-34" org-id="1047">
+        <name lang="en">Bovine</name>
+        <name lang="fr">Bovin</name>
+        <name lang="it">Bovino</name>
+        <name lang="de">Rind</name>
+      </keyword>
+      <keyword id="SLW-35" org-id="1047">
+        <name lang="fr">Économie du travail</name>
+        <name lang="it">Economia del lavoro</name>
+        <name lang="de">Arbeitswirtschaft</name>
+        <name lang="en">Economics of labour</name>
+      </keyword>
+      <keyword id="SLW-36" org-id="1047">
+        <name lang="it">Economia d'impresa</name>
+        <name lang="de">Betriebswirtschaft</name>
+        <name lang="en">Farm management</name>
+        <name lang="fr">Economie d’entreprise</name>
+      </keyword>
+      <keyword id="SLW-47" org-id="1047">
+        <name lang="de">Ziege</name>
+        <name lang="en">Goat</name>
+        <name lang="fr">Chèvre</name>
+        <name lang="it">Capra</name>
+      </keyword>
+      <keyword id="SLW-56" org-id="1047">
+        <name lang="it">Socio-economia</name>
+        <name lang="de">Sozioökonomie</name>
+        <name lang="en">Socioeconomics</name>
+        <name lang="fr">Socio-économie</name>
+      </keyword>
+      <keyword id="SLW-59" org-id="1047">
+        <name lang="de">Zentrale Auswertung von Buchhaltungsdaten</name>
+        <name lang="en">Farm accountancy data network</name>
+        <name lang="fr">Dépouillement centralisé des données comptables</name>
+        <name lang="it">Esame centralizzato dei dati contabili</name>
+      </keyword>
+      <keyword id="SLW-66" org-id="1047">
+        <name lang="de">Fleisch</name>
+        <name lang="en">Meat</name>
+        <name lang="fr">Viande</name>
+        <name lang="it">Carne</name>
+      </keyword>
+      <keyword id="SLW-67" org-id="1047">
+        <name lang="de">Milch</name>
+        <name lang="en">Milk</name>
+        <name lang="fr">Lait</name>
+        <name lang="it">Latte</name>
+      </keyword>
+      <keyword id="SLW-68" org-id="1047">
+        <name lang="de">Milchprodukte</name>
+        <name lang="en">Milk products</name>
+        <name lang="fr">Produits laitiers</name>
+        <name lang="it">Prodotti lattiere</name>
+      </keyword>
+      <keyword id="SLW-69" org-id="1047">
+        <name lang="de">Fleischprodukte</name>
+        <name lang="en">Meat products</name>
+        <name lang="fr">Produits carnés</name>
+        <name lang="it">Prodotti di carne</name>
+      </keyword>
+      <keyword id="SLW-70" org-id="1047">
+        <name lang="de">Biene</name>
+        <name lang="en">Bee</name>
+        <name lang="fr">Abeille</name>
+        <name lang="it">Ape</name>
+      </keyword>
+      <keyword id="SLW-72" org-id="1047">
+        <name lang="en">Honey</name>
+        <name lang="fr">Miel</name>
+        <name lang="it">Miele</name>
+        <name lang="de">Honig</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="1047">
+        <name lang="en">Cheese</name>
+        <name lang="fr">Fromage</name>
+        <name lang="it">Formaggio</name>
+        <name lang="de">Käse</name>
+      </keyword>
+      <keyword id="SLW-79" org-id="1047">
+        <name lang="de">Kartoffel</name>
+        <name lang="en">Potato</name>
+        <name lang="fr">Pomme de terre</name>
+        <name lang="it">Patata</name>
+      </keyword>
+      <keyword id="SLW-1" org-id="1047">
+        <name lang="de">Obstbau</name>
+        <name lang="en">Fruit growing</name>
+        <name lang="fr">Arboriculture</name>
+        <name lang="it">Frutticoltura</name>
+      </keyword>
+      <keyword id="SLW-2" org-id="1047">
+        <name lang="en">Berries</name>
+        <name lang="fr">Baies</name>
+        <name lang="it">Piccoli frutti</name>
+        <name lang="de">Beerenanbau</name>
+      </keyword>
+      <keyword id="SLW-3" org-id="1047">
+        <name lang="de">Gemüsebau</name>
+        <name lang="en">Horticulture</name>
+        <name lang="fr">Cultures maraîchères</name>
+        <name lang="it">Orticoltura</name>
+      </keyword>
+      <keyword id="SLW-2108,ORG-1047" org-id="1047">
+        <name lang="de">Ackerbau</name>
+        <name lang="en">Field crops</name>
+        <name lang="fr">Grandes cultures</name>
+        <name lang="it">Campicoltura</name>
+      </keyword>
+      <keyword id="SLW-5" org-id="1047">
+        <name lang="de">Futterbau</name>
+        <name lang="en">Grassland</name>
+        <name lang="fr">Herbages</name>
+        <name lang="it">Foraggicoltura</name>
+      </keyword>
+      <keyword id="SLW-9" org-id="1047">
+        <name lang="de">Weinbereitung</name>
+        <name lang="en">Oenology</name>
+        <name lang="fr">Oenologie</name>
+        <name lang="it">Enologia</name>
+      </keyword>
+      <keyword id="SLW-10" org-id="1047">
+        <name lang="de">Rebbau</name>
+        <name lang="en">Viticulture</name>
+        <name lang="fr">Viticulture</name>
+        <name lang="it">Viticoltura</name>
+      </keyword>
+      <keyword id="SLW-29" org-id="1047">
+        <name lang="de">Schaf</name>
+        <name lang="en">Sheep</name>
+        <name lang="fr">Mouton</name>
+        <name lang="it">Pecora</name>
+      </keyword>
+      <keyword id="SLW-33" org-id="1047">
+        <name lang="de">Schwein</name>
+        <name lang="en">Pig</name>
+        <name lang="fr">Porc</name>
+        <name lang="it">Maiale</name>
+      </keyword>
+      <keyword id="SLW-34" org-id="1047">
+        <name lang="de">Rind</name>
+        <name lang="en">Bovine</name>
+        <name lang="fr">Bovin</name>
+        <name lang="it">Bovino</name>
+      </keyword>
+      <keyword id="SLW-35" org-id="1047">
+        <name lang="de">Arbeitswirtschaft</name>
+        <name lang="en">Economics of labour</name>
+        <name lang="fr">Économie du travail</name>
+        <name lang="it">Economia del lavoro</name>
+      </keyword>
+      <keyword id="SLW-36" org-id="1047">
+        <name lang="de">Betriebswirtschaft</name>
+        <name lang="en">Farm management</name>
+        <name lang="fr">Economie d’entreprise</name>
+        <name lang="it">Economia d'impresa</name>
+      </keyword>
+      <keyword id="SLW-47" org-id="1047">
+        <name lang="en">Goat</name>
+        <name lang="fr">Chèvre</name>
+        <name lang="it">Capra</name>
+        <name lang="de">Ziege</name>
+      </keyword>
+      <keyword id="SLW-56" org-id="1047">
+        <name lang="en">Socioeconomics</name>
+        <name lang="fr">Socio-économie</name>
+        <name lang="it">Socio-economia</name>
+        <name lang="de">Sozioökonomie</name>
+      </keyword>
+      <keyword id="SLW-59" org-id="1047">
+        <name lang="de">Zentrale Auswertung von Buchhaltungsdaten</name>
+        <name lang="en">Farm accountancy data network</name>
+        <name lang="fr">Dépouillement centralisé des données comptables</name>
+        <name lang="it">Esame centralizzato dei dati contabili</name>
+      </keyword>
+      <keyword id="SLW-66" org-id="1047">
+        <name lang="de">Fleisch</name>
+        <name lang="en">Meat</name>
+        <name lang="fr">Viande</name>
+        <name lang="it">Carne</name>
+      </keyword>
+      <keyword id="SLW-67" org-id="1047">
+        <name lang="de">Milch</name>
+        <name lang="en">Milk</name>
+        <name lang="fr">Lait</name>
+        <name lang="it">Latte</name>
+      </keyword>
+      <keyword id="SLW-68" org-id="1047">
+        <name lang="de">Milchprodukte</name>
+        <name lang="en">Milk products</name>
+        <name lang="fr">Produits laitiers</name>
+        <name lang="it">Prodotti lattiere</name>
+      </keyword>
+      <keyword id="SLW-69" org-id="1047">
+        <name lang="it">Prodotti di carne</name>
+        <name lang="de">Fleischprodukte</name>
+        <name lang="en">Meat products</name>
+        <name lang="fr">Produits carnés</name>
+      </keyword>
+      <keyword id="SLW-70" org-id="1047">
+        <name lang="de">Biene</name>
+        <name lang="en">Bee</name>
+        <name lang="fr">Abeille</name>
+        <name lang="it">Ape</name>
+      </keyword>
+      <keyword id="SLW-72" org-id="1047">
+        <name lang="de">Honig</name>
+        <name lang="en">Honey</name>
+        <name lang="fr">Miel</name>
+        <name lang="it">Miele</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="1047">
+        <name lang="de">Käse</name>
+        <name lang="en">Cheese</name>
+        <name lang="fr">Fromage</name>
+        <name lang="it">Formaggio</name>
+      </keyword>
+      <keyword id="SLW-79" org-id="1047">
+        <name lang="fr">Pomme de terre</name>
+        <name lang="it">Patata</name>
+        <name lang="de">Kartoffel</name>
+        <name lang="en">Potato</name>
+      </keyword>
+    </keywords>
+    <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <www lang="fr">https://www.wbf.admin.ch/fr</www>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="fr">
+      <city>Ettenhausen TG</city>
+      <title>Revenu agricole 2024: une année contrastée selon la branche</title>
+      <lead>En 2024, le revenu agricole a augmenté de 2,6 % par rapport à l’année précédente. Il s’élevait en moyenne à 81 700 francs par exploitation. Cette hausse est due à l’augmentation des produits de la production porcine, de l’aviculture et des cultures fruitières. A l’échelle du secteur agricole, les revenus ont progressé malgré les pertes de rendement dues aux conditions météorologiques dans les grandes cultures, la production maraîchère ainsi que la viticulture, et malgré la hausse des charges dans les exploitations. Le revenu du travail par unité de main-d’œuvre familiale s’élevait à 59 100 francs. Comme les années précédentes, il variait beaucoup selon le type d’exploitation et la région.</lead>
+      <text link="no">&lt;p&gt;Selon le Dépouillement centralisé des données comptables d’Agroscope, le revenu agricole a augmenté de 2,6 % en 2024. Il s’élevait en moyenne à 81 700 francs par exploitation, soit une hausse de 2000 francs par rapport à l’année précédente. Le revenu agricole englobe les activités agricoles (y compris les magasins de ferme) et les activités proches de l’agriculture comme la production de biogaz ou l’agrotourisme (les activités extra-agricoles n’y étant pas incluses). Il correspond à la différence entre les produits et les charges et est relevé à la fois pour les entreprises individuelles et les communautés d’exploitations, c’est-à-dire les groupements de deux exploitations ou plus.&lt;/p&gt; &lt;h3&gt;Hausse des produits grâce à la production animale&lt;/h3&gt; &lt;p&gt;Du côté des produits, les différentes branches de production ont connu une évolution hétérogène. Au total, les produits ont augmenté de 4,9 % par exploitation (+19 400 francs).&lt;/p&gt; &lt;p&gt;Les produits de la production animale ont globalement augmenté. Cette hausse s'explique principalement par un prix à la production plus élevé pour la viande de porc en raison d’une baisse de la production. La production de viande de volaille et d'œufs, qui connaît un essor sous l’effet de la demande, a également contribué à cette évolution positive. En revanche, les produits de l’activité laitière ont diminué en raison d'une légère baisse du prix du lait à la production.&lt;/p&gt; &lt;p&gt;Du fait des conditions météorologiques, l’année a été difficile pour la production végétale pour la deuxième fois consécutive, entraînant une baisse des rendements. Un printemps pluvieux et peu ensoleillé a conduit à la plus faible récolte de blé panifiable depuis 25 ans. D’autres grandes cultures, comme les cultures de colza, de betteraves sucrières ou les cultures maraîchères ont également enregistré des baisses de rendements dues aux conditions météorologiques défavorables. Avec la deuxième récolte la plus faible des 50 dernières années, la viticulture a également beaucoup souffert du temps humide. En outre, la consommation de vin, déjà en recul, a particulièrement chuté en 2024, ce qui a entraîné une baisse des recettes. Seules les productions de pommes et de poires ont enregistré des récoltes nettement supérieures à 2023.&lt;/p&gt; &lt;h3&gt;Hausse moins importante des charges que des produits&lt;/h3&gt; &lt;p&gt;En dépit des prix relativement stables des moyens de production agricoles, les charges ont augmenté de 5,5 % au total, soit 17 400 francs. Elles ont toutefois moins augmenté que les produits, ce qui explique la hausse du revenu agricole. En particulier, la hausse des charges spécifiques des animaux et des achats d’animaux ainsi que la forte augmentation des prix de l’électricité ont fait croître les charges.&lt;/p&gt; &lt;h3&gt;Une unité de main-d’œuvre familiale a gagné en moyenne 59 100 francs&lt;/h3&gt; &lt;p&gt;En 2024, une exploitation agricole comptait en moyenne 1,32 unités de main-d’œuvre familiale (-1,5 % par rapport à 2023). Ce chiffre comprend notamment le chef, la cheffe d’exploitation et les autres membres de la famille travaillant éventuellement dans l’exploitation comme les conjoints, les parents ou les descendants en âge de travailler. En 2024, le revenu du travail agricole, qui correspond au revenu agricole après déduction des coûts calculés des capitaux propres investis dans l’exploitation, a augmenté de 8,0 % par rapport à l’année précédente pour atteindre 59 100 francs par unité de main-d’œuvre familiale (équivalent temps plein). La hausse plus importante du revenu du travail par rapport au revenu agricole en pourcentage s'explique par la diminution du nombre d’unités de main-d'œuvre familiale et, surtout, par la baisse des taux d'intérêt. Comme les années précédentes, les disparités régionales étaient importantes en matière de revenu du travail par unité de main-d'œuvre familiale. Dans la région de plaine, ce revenu était, à 75 300 francs, 42 % plus élevé que dans la région des collines (52 900 francs) et 71 % plus élevé que dans la région de montagne (44 100 francs).&lt;/p&gt; &lt;h3&gt;Le revenu total par ménage a augmenté de 3,1 %&lt;/h3&gt; &lt;p&gt;Agroscope calcule également le revenu total moyen d’un ménage agricole. Il se compose du revenu agricole et du revenu extra-agricole. Ce dernier est tiré d’activités professionnelles exercées en dehors de l’exploitation agricole (p. ex. emploi dans une entreprise artisanale). Contrairement au revenu agricole, le revenu total est relevé uniquement pour les entreprises individuelles (c.-à-d. sans les communautés d’exploitation). En 2024, le revenu total a augmenté de 3,1 % pour atteindre 115 700 francs. Il consistait pour environ un tiers de revenus extra-agricoles.&lt;/p&gt; &lt;p&gt;Vous trouverez une infographie sur la situation des revenus dans l'agriculture suisse en annexe de ce communiqué de presse. Des informations plus détaillées – notamment la comparaison du revenu du travail agricole par unité de main-d'œuvre familiale avec le salaire des employés des secteurs secondaire et tertiaire – sont disponibles dans l’«Agroscope Transfer» ci-joint.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Complémentarité avec les comptes économiques de l’agriculture (CEA) de l’Office fédéral de la statistique (OFS)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;L’Office fédéral de la statistique (OFS) et Agroscope publient simultanément deux statistiques complémentaires pour l’évaluation de la situation économique de l’agriculture suisse. Avec les comptes économiques de l’agriculture (CEA), l’OFS mesure la performance macroéconomique au niveau du secteur agricole. Cette approche de synthèse permet de calculer une première estimation de l’année en cours en automne. Agroscope, quant à lui, décrit avec les résultats du dépouillement centralisé de données comptables (DC-Cta) les réalités microéconomiques des exploitations agricoles sur la base des bouclements comptables d’un échantillon représentatif d’exploitations agricoles.&lt;br&gt;De plus amples détails sur les similitudes et les différences entre ces deux statistiques se trouvent dans la publication sur les deux baromètres de l’agriculture suisse: &lt;a href="https://www.bfs.admin.ch/bfs/fr.assetdetail.3865384.html"&gt;https://www.bfs.admin.ch/bfs/fr.assetdetail.3865384.html&lt;/a&gt;&lt;a href="https://www.bfs.admin.ch/asset/de/1126-1700"&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Liens&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.agroscope.admin.ch/agroscope/fr/home/themes/economie-technique/economie-dentreprise/dccta/statistique-des-revenus.html" target="_blank"&gt;Statistique des revenus agricoles&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.agroscope.admin.ch/agroscope/fr/home/themes/economie-technique/economie-dentreprise/dccta/situation-revenu.html" target="_blank"&gt;Informations sur l'échantillon&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bfs.admin.ch/asset/fr/1127-1700" target="_blank"&gt;Publication sur les deux baromètres de l'agriculture suisse&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://agrarbericht.ch/fr" target="_blank"&gt;Rapport agricole de l’OFAG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Documents&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.agroscope.admin.ch/agroscope/fr/home/publications/recherche-publications/agroscope-transfer.html"&gt;Agroscope Transfer 600 - Évolution économique de l’agriculture suisse en 2024&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Service médias Agroscope 0041 58 466 88 62 medien@agroscope.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Ettenhausen TG</city>
+      <title>Reddito agricolo 2024: un anno con bilanci in chiaroscuro a seconda del settore</title>
+      <lead>Grazie ai maggiori ricavi della produzione suinicola, avicola e frutticola, nel 2024 il reddito agricolo è aumentato del 2,6 per cento rispetto all’anno precedente, attestandosi in media a 81 700 franchi per azienda. Considerato l’intero settore agricolo, tale incremento del reddito è stato registrato nonostante le perdite di raccolto nella campicoltura, nell’orticoltura e nella viticoltura dovute a condizioni meteorologiche avverse e malgrado le maggiori spese sostenute dalle aziende. Il reddito da lavoro per unità di manodopera familiare ha raggiunto 59 100 franchi e, come negli anni precedenti, ha registrato differenze notevoli a seconda del tipo di azienda e della regione.</lead>
+      <text link="no">&lt;p&gt;Secondo l’Analisi centralizzata dei dati contabili di Agroscope, nel 2024 il reddito agricolo è aumentato del 2,6 per cento e si è attestato in media a 81 700 franchi per azienda, segnando un incremento di 2000 franchi rispetto all’anno precedente. Il reddito agricolo comprende le attività agricole (incl. i negozi in fattoria) e quelle affini all’agricoltura, come per esempio la produzione di biogas o l’agriturismo, ma non le attività extragricole. Corrisponde alla differenza tra i ricavi e le spese ed è rilevato a livello sia di aziende individuali sia di comunità aziendali, ovvero unità di produzione composte da due o più aziende.&lt;/p&gt; &lt;h3&gt;Ricavi maggiori grazie alla detenzione di animali&lt;/h3&gt; &lt;p&gt;Sul fronte dei ricavi, l’andamento è stato eterogeneo a seconda dell’indirizzo di produzione. In totale, i ricavi per azienda sono aumentati del 4,9 per cento (+19 400 fr.).&lt;/p&gt; &lt;p&gt;Nel complesso, i ricavi della detenzione di animali sono cresciuti. L’incremento è imputabile principalmente al maggiore prezzo alla produzione spuntato per la carne suina in seguito al calo del volume prodotto. Anche la produzione di carne di pollame e uova, sostenuta dalla domanda, ha contribuito a questo andamento positivo. Per contro, i ricavi della produzione lattiera sono diminuiti a causa del lieve calo del prezzo pagato ai produttori di latte.&lt;/p&gt; &lt;p&gt;Nella produzione vegetale, per il secondo anno consecutivo le condizioni meteorologiche avverse hanno inciso sulle rese. A causa di una primavera piovosa e poco soleggiata, il raccolto di frumento panificabile è risultato il più scarso degli ultimi 25 anni. Anche per altre colture, tra cui la colza e la barbabietola da zucchero, nonché nel settore orticolo si sono registrate perdite di raccolto riconducibili al clima poco clemente. Con il secondo raccolto meno abbondante degli ultimi 50 anni, pure la viticoltura è stata messa a dura prova dal tempo umido. Inoltre, il consumo di vino, già in calo, è diminuito in modo particolarmente marcato nel 2024, determinando una riduzione delle entrate. Solo i produttori di mele e pere hanno ottenuto raccolti nettamente migliori rispetto al 2023.&lt;/p&gt; &lt;h3&gt;Aumento delle spese meno marcato rispetto a quello dei ricavi&lt;/h3&gt; &lt;p&gt;Sebbene i prezzi dei mezzi di produzione agricoli siano rimasti pressoché stabili, le spese sono cresciute complessivamente del 5,5 per cento, ovvero di 17 400 franchi. L’aumento è stato tuttavia meno marcato rispetto a quello dei ricavi, il che spiega in definitiva l’incremento del reddito agricolo. In particolare, le maggiori spese dirette per la detenzione e l’acquisto di animali nonché il massiccio rincaro dell’energia elettrica hanno determinato un aumento delle spese.&lt;/p&gt; &lt;h3&gt;Una unità di manodopera familiare ha guadagnato in media 59 100 franchi&lt;/h3&gt; &lt;p&gt;Nel 2024 in un’azienda agricola lavoravano in media 1,32 unità di manodopera familiare (-1,5% rispetto al 2023). Tra queste rientrano i capiazienda ed eventuali coniugi, genitori o figli in età lavorativa che collaborano nell’azienda. Il reddito da lavoro agricolo, che corrisponde al reddito agricolo al netto dei costi per il capitale proprio dell’azienda, è aumentato dell’8,0 per cento nel 2024 rispetto all’anno precedente, raggiungendo 59 100 franchi per unità di manodopera familiare (equivalente a tempo pieno). L’aumento percentuale più marcato rispetto al reddito agricolo è imputabile al calo della manodopera familiare e, soprattutto, alla flessione dei tassi d’interesse. Come negli anni precedenti, il reddito da lavoro per unità di manodopera familiare presenta notevoli differenze regionali. Con 75 300 franchi, il reddito da lavoro per unità di manodopera familiare nella regione di pianura è risultato superiore del 42 per cento rispetto a quello della regione collinare (52 900 fr.) e del 71 per cento rispetto a quello della regione di montagna (44 100 fr.).&lt;/p&gt; &lt;h3&gt;Il reddito totale per economia domestica è cresciuto del 3,1 per cento&lt;/h3&gt; &lt;p&gt;Agroscope calcola anche il reddito totale medio annuo dell’economia domestica agricola, composto dal reddito agricolo e da quello extragricolo (p.es. lavoro in un’azienda artigianale). A differenza del reddito agricolo, quello totale è rilevato solo per le aziende individuali, tralasciando le comunità aziendali. Nel 2024 il reddito totale è cresciuto del 3,1 per cento e ha raggiunto 115 700 franchi, circa un terzo dei quali costituiti dal reddito extragricolo.&lt;/p&gt; &lt;p&gt;Il presente comunicato stampa è corredato di un’infografica sulla situazione reddituale nell’agricoltura svizzera. Informazioni più dettagliate, tra cui un confronto tra reddito da lavoro agricolo per unità di manodopera familiare da un lato e salari dei dipendenti dei settori secondario e terziario dall’altro, sono contenute nell’allegata pubblicazione «Agroscope Transfer».&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Complementarietà con i Conti economici dell’agricoltura (CEA) dell’Ufficio federale di statistica (UST)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;L’Ufficio federale di statistica (UST) e Agroscope pubblicano simultaneamente due statistiche complementari finalizzate a valutare la situazione economica dell’agricoltura svizzera. Con i Conti economici dell’agricoltura (CEA), l’UST misura i risultati macroeconomici del settore primario. Questo approccio di sintesi consente di calcolare la prima stima dell’anno corrente in autunno. Attraverso i risultati dell’Analisi centralizzata dei dati contabili (AC-DC) Agroscope descrive, dal canto suo, le realtà microeconomiche delle aziende agricole per l’anno precedente sulla base di un campione aleatorio delle aziende agricole e dei loro dati contabili.&lt;br&gt;Per maggiori dettagli su similitudini e differenze tra le due statistiche, si rimanda alla pubblicazione sui due barometri dell’agricoltura svizzera:&lt;br&gt;&lt;a href="https://www.bfs.admin.ch/asset/it/1128-1700"&gt;https://www.bfs.admin.ch/asset/it/1128-1700&lt;/a&gt;&lt;a href="https://www.bfs.admin.ch/bfs/fr.assetdetail.3865384.html"&gt;&lt;/a&gt;&lt;a href="https://www.bfs.admin.ch/asset/de/1126-1700"&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.agroscope.admin.ch/agroscope/it/home/temi/economia-tecnologia/economia-aziendale/acdc/statistica-dei-redditi.html" target="_blank"&gt;Statistica del reddito agricolo&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.agroscope.admin.ch/agroscope/it/home/temi/economia-tecnologia/economia-aziendale/acdc/situazione-reddituale.html" target="_blank"&gt;Informazioni sul campione&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees.assetdetail.3865385.html" target="_blank"&gt;Pubblicazione sui due barometri dell’agricoltura svizzera&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://agrarbericht.ch/it" target="_blank"&gt;Rapporto agricolo del UFAG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Documenti&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.agroscope.admin.ch/agroscope/it/home/pubblicazioni/ricerca-pubblicazioni/agroscope-transfer.html"&gt;Agroscope Transfer 600 - Evoluzione economica dell’agricoltura svizzera nel 2024&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Servizio media Agroscope 0041 58 466 88 62 medien@agroscope.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Ettenhausen TG</city>
+      <title>Landwirtschaftliches Einkommen 2024: je nach Branche ein unterschiedlich erfolgreiches Jahr</title>
+      <lead>Das landwirtschaftliche Einkommen stieg 2024 gegenüber dem Vorjahr um 2,6 Prozent. Es lag bei durchschnittlich 81 700 Franken pro Betrieb. Grund dafür waren höhere Erträge aus der Schweine-, Geflügel- und Obstproduktion. Über den gesamten Landwirtschaftssektor betrachtet, resultierte dieser Einkommenszuwachs trotz witterungsbedingter Ertragsausfälle im Acker-, Gemüse- und Weinbau sowie höherer Aufwände für die Betriebe. Der Arbeitsverdienst pro Familienarbeitskraft lag bei 59 100 Franken. Er unterschied sich wie in den Vorjahren stark je nach Betriebstyp und Region.</lead>
+      <text link="no">&lt;p&gt;Gemäss der Zentralen Auswertung von Buchhaltungsdaten bei Agroscope stieg das landwirtschaftliche Einkommen 2024 um 2,6 Prozent. Es betrug durchschnittlich 81 700 Franken pro Betrieb, was gegenüber dem Vorjahr einem Plus von 2000 Franken entspricht. Das landwirtschaftliche Einkommen umfasst landwirtschaftliche (inkl. Hofläden) und landwirtschaftsnahe Tätigkeiten wie beispielsweise Biogasproduktion oder Agrotourismus. Ausserlandwirtschaftliche Aktivitäten sind darin nicht enthalten. Es entspricht der Differenz zwischen den Erträgen und den Aufwänden und wird sowohl für Einzelunternehmen als auch Betriebsgemeinschaften – also Zusammenschlüsse von zwei oder mehr Betrieben – erhoben.&lt;/p&gt; &lt;h3&gt;Höhere Erträge dank der Tierhaltung&lt;/h3&gt; &lt;p&gt;Auf der Ertragsseite verlief die Entwicklung je nach Produktionsausrichtung uneinheitlich. In der Summe stiegen die Erträge pro Betrieb um 4,9 Prozent (+19 400 Franken).&lt;/p&gt; &lt;p&gt;Die Erträge aus der Tierhaltung nahmen insgesamt zu. Zu diesem Anstieg trug vor allem ein höherer Produzentenpreis für Schweinefleisch bei, weil die Produktion abgenommen hat. Auch die Geflügelfleisch- und Eierproduktion, die nachfragebedingt im Aufwind waren, leisteten einen Beitrag zu dieser positiven Entwicklung. Hingegen sanken die Erträge in der Milchproduktion, da der Milchproduzentenpreis leicht abnahm.&lt;/p&gt; &lt;p&gt;Im Pflanzenbau erwies sich das Jahr – witterungsbedingt und zum zweiten Mal in Folge – als herausfordernd, was in tieferen Erträgen resultierte. Der niederschlagsreiche und sonnenarme Frühling führte beim Getreide zur niedrigsten Brotweizenernte seit 25 Jahren. Auch bei weiteren Ackerkulturen, wie Raps und Zuckerrüben, sowie beim Gemüseanbau kam es witterungsbedingt zu Ertragseinbussen. Mit der zweitschwächsten Ernte in den letzten 50 Jahren litt auch der Weinbau übermässig unter dem feuchten Wetter. Zudem sank der ohnehin rückläufige Weinkonsum 2024 besonders stark, was zu tieferen Einnahmen führte. Einzig die Apfel- und Birnenproduktion erzielten gegenüber 2023 deutlich bessere Ernten.&lt;/p&gt; &lt;h3&gt;Aufwände weniger stark gestiegen als die Erträge&lt;/h3&gt; &lt;p&gt;Die Aufwände nahmen trotz nahezu stabiler Preise für landwirtschaftliche Produktionsmittel insgesamt um 5,5 Prozent oder 17'400 Franken zu. Sie stiegen aber weniger stark an als die Erträge, was letztlich den Anstieg des landwirtschaftlichen Einkommens erklärt. Insbesondere der höhere Direktaufwand für Tierhaltung und Tierzukäufe sowie die kräftig gestiegenen Strompreise erhöhten die Aufwände.&lt;/p&gt; &lt;h3&gt;Eine Familienarbeitskraft verdiente im Durchschnitt 59 100 Franken&lt;/h3&gt; &lt;p&gt;Auf einem landwirtschaftlichen Betrieb arbeiteten 2024 durchschnittlich 1,32 familieneigene Arbeitskräfte (-1,5 Prozent gegenüber 2023). Dazu zählen unter anderem der/die Betriebsleitende und allfällige auf dem Betrieb arbeitende Verwandte wie Ehepartner/in, Eltern oder Nachkommen im Erwerbsalter. Der landwirtschaftliche Arbeitsverdienst, der dem landwirtschaftlichen Einkommen nach Abzug der Kosten für das Eigenkapital des Betriebes entspricht, nahm 2024 gegenüber dem Vorjahr um 8,0 Prozent zu – auf 59 100 Franken pro Familienarbeitskraft (Vollzeit-Äquivalent). Der gegenüber dem landwirtschaftlichen Einkommen prozentual stärkere Anstieg ist auf den Rückgang der Familienarbeitskräfte und vor allem auf die tieferen Zinsen zurückzuführen. Der Arbeitsverdienst pro Familienarbeitskraft wies, wie in den Vorjahren, grosse regionale Unterschiede auf. Mit 75 300 Franken lag er in der Talregion um 42 Prozent höher als in der Hügelregion (52 900 Franken) und um 71 Prozent höher als in der Bergregion (44 100 Franken).&lt;/p&gt; &lt;h3&gt;Gesamteinkommen pro Haushalt stieg um 3,1 Prozent&lt;/h3&gt; &lt;p&gt;Agroscope berechnet zudem das durchschnittliche jährliche Gesamteinkommen eines landwirtschaftlichen Haushalts. Es setzt sich aus dem landwirtschaftlichen und dem ausserlandwirtschaftlichen Einkommen (z.B. Anstellung in einem Handwerksbetrieb) zusammen. Im Gegensatz zum landwirtschaftlichen Einkommen wird das Gesamteinkommen nur für Einzelunternehmen (d.h. ohne Betriebsgemeinschaften) erhoben. Das Gesamteinkommen stieg 2024 um 3,1 Prozent auf 115 700 Franken. Es bestand zu rund einem Drittel aus ausserlandwirtschaftlichen Einkommen.&lt;/p&gt; &lt;p&gt;Eine Infografik zur Einkommenssituation in der Schweizer Landwirtschaft finden Sie im Anhang dieser Medienmitteilung. Detailliertere Informationen – unter anderem der Vergleich des landwirtschaftlichen Arbeitsverdienstes pro Familienarbeitskraft mit dem Lohn der Angestellten im 2. und 3. Sektor – sind in der beigelegten Publikation «Agroscope Transfer» verfügbar.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Komplementarität mit der Landwirtschaftlichen Gesamtrechnung (LGR) des Bundesamts für Statistik (BFS)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Das Bundesamt für Statistik (BFS) und Agroscope veröffentlichen gleichzeitig zwei komplementäre Statistiken zur Beurteilung der wirtschaftlichen Lage der Landwirtschaft. Die Landwirtschaftliche Gesamtrechnung (LGR) des Bundesamts für Statistik (BFS) ermittelt die makroökonomische Lage auf Ebene Agrarsektor. Die LGR ist eine Synthesestatistik und ermöglicht im Herbst eine erste Schätzung des Ergebnisses des laufenden Jahres. Die Ergebnisse der Zentralen Auswertung von Buchhaltungsdaten (ZA-BH) von Agroscope präsentieren die mikroökonomischen Verhältnisse für das Vorjahr auf Basis einer zufälligen Stichprobe von Landwirtschaftsbetrieben und deren Buchhaltungen.&lt;br&gt;Detaillierte Erläuterungen zu den Gemeinsamkeiten und Unterschieden zwischen den beiden Statistiken finden sich in der folgenden Publikation zu den beiden Barometern der Schweizer Landwirtschaft:&lt;br&gt;&lt;a href="https://www.bfs.admin.ch/asset/de/1126-1700"&gt;https://www.bfs.admin.ch/asset/de/1126-1700&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.agroscope.admin.ch/agroscope/de/home/themen/wirtschaft-technik/betriebswirtschaft/zabh/einkommensstatistik.html"&gt;Landwirtschaftliche Einkommensstatistik&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.agroscope.admin.ch/agroscope/de/home/themen/wirtschaft-technik/betriebswirtschaft/zabh/einkommenssituation.html" target="_blank"&gt;Informationen zur Stichprobe&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bfs.admin.ch/asset/de/1126-1700" target="_blank"&gt;Publikation über die zwei Barometer der Schweizer Landwirtschaft&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://agrarbericht.ch/de" target="_blank"&gt;Agrarbericht des BLW&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Dokumente&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.agroscope.admin.ch/agroscope/de/home/publikationen/suchen/agroscope-transfer.html"&gt;Agroscope Transfer 600 - Die wirtschaftliche Entwicklung der schweizerischen Landwirtschaft 2024&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Mediendienst Agroscope 0041 58 466 88 62 medien@agroscope.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
+        <name lang="en">Education, Research &amp; Innovation</name>
+      </topic>
+      <topic id="672">
+        <name lang="rm">Alimentaziun d'animals</name>
+        <name lang="de">Tierernährung</name>
+        <name lang="en">Animal nutrition</name>
+        <name lang="fr">Alimentation animale</name>
+        <name lang="it">Alimentazione degli animali</name>
+      </topic>
+      <topic id="238">
+        <name lang="it">Detenzione di animali</name>
+        <name lang="rm">Tegnida d'animals</name>
+        <name lang="de">Tierhaltung</name>
+        <name lang="en">Animal husbandry</name>
+        <name lang="fr">Détention d’animaux</name>
+      </topic>
+      <topic id="234">
+        <name lang="fr">Production végétale</name>
+        <name lang="it">Produzione vegetale</name>
+        <name lang="rm">Planticultura</name>
+        <name lang="de">Pflanzenbau</name>
+        <name lang="en">Plant production</name>
+      </topic>
+      <topic id="242">
+        <name lang="de">Ökonomie &amp; Technik</name>
+        <name lang="en">Economy &amp; Technology</name>
+        <name lang="fr">Économie et technique</name>
+        <name lang="it">Economia e tecnica</name>
+        <name lang="rm">Economia e tecnica</name>
+      </topic>
+      <topic id="155">
+        <name lang="de">Arbeitsmarktlage</name>
+        <name lang="en">Labour market situation</name>
+        <name lang="fr">Situation sur le marché du travail</name>
+        <name lang="it">Situazione del mercato del lavoro</name>
+        <name lang="rm">Situaziun dal martgà da lavur</name>
+      </topic>
+      <topic id="659">
+        <name lang="de">Weinbau</name>
+        <name lang="en">Viticulture</name>
+        <name lang="fr">Viticulture</name>
+        <name lang="it">Viticoltura</name>
+        <name lang="rm">Viticultura</name>
+      </topic>
+      <topic id="658">
+        <name lang="de">Tierzucht</name>
+        <name lang="en">Animal breeding</name>
+        <name lang="fr">Élevage</name>
+        <name lang="it">Allevamento</name>
+        <name lang="rm">Allevament d'animals</name>
+      </topic>
+      <topic id="650">
+        <name lang="de">Obstbau</name>
+        <name lang="en">Fruit cultivation</name>
+        <name lang="fr">Arboriculture</name>
+        <name lang="it">Frutticoltura</name>
+        <name lang="rm">Pumicultura</name>
+      </topic>
+      <topic id="38">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="en">Agriculture</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="rm">Agricultura</name>
+      </topic>
+      <topic id="632">
+        <name lang="de">Agrarmarkt</name>
+        <name lang="en">Agricultural market</name>
+        <name lang="fr">Marché agricole</name>
+        <name lang="it">Mercato agricolo</name>
+        <name lang="rm">Martgà agrar</name>
+      </topic>
+      <topic id="630">
+        <name lang="it">Campicoltura</name>
+        <name lang="rm">Cultivaziun dad ers</name>
+        <name lang="de">Ackerbau</name>
+        <name lang="en">Arable farming</name>
+        <name lang="fr">Grandes cultures</name>
+      </topic>
+      <topic id="235">
+        <name lang="de">Pflanzliche Lebensmittel</name>
+        <name lang="en">Plant-based foods</name>
+        <name lang="fr">Denrées alimentaires végétales</name>
+        <name lang="it">Alimenti di origine vegetale </name>
+        <name lang="rm">Victualias vegetalas</name>
+      </topic>
+      <topic id="239">
+        <name lang="en">Milk &amp; dairy products</name>
+        <name lang="fr">Lait et produits laitiers</name>
+        <name lang="it">Latte e prodotti caseari</name>
+        <name lang="rm">Latg e products da latg</name>
+        <name lang="de">Milch &amp; Milchprodukte</name>
+      </topic>
+      <topic id="240">
+        <name lang="de">Fleisch &amp; Fleischprodukte</name>
+        <name lang="en">Meat &amp; meat products</name>
+        <name lang="fr">Viande et produits carnés</name>
+        <name lang="it">Carne e prodotti derivati</name>
+        <name lang="rm">Charn e products da charn</name>
+      </topic>
+      <topic id="9">
+        <name lang="en">Science</name>
+        <name lang="fr">Science</name>
+        <name lang="it">Scienza</name>
+        <name lang="rm">Scienza</name>
+        <name lang="de">Wissenschaft</name>
+      </topic>
+      <topic id="43">
+        <name lang="fr">Connaissances et statistiques</name>
+        <name lang="it">Conoscenze e statistiche</name>
+        <name lang="rm">Savida e statistica</name>
+        <name lang="de">Wissen &amp; Statistik</name>
+        <name lang="en">Knowledge &amp; Statistics</name>
+      </topic>
+      <topic id="47">
+        <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
+      </topic>
+      <topic id="37">
+        <name lang="de">Konsum</name>
+        <name lang="en">Consumption</name>
+        <name lang="fr">Consommation</name>
+        <name lang="it">Consumo</name>
+        <name lang="rm">Consum</name>
+      </topic>
+      <topic id="120">
+        <name lang="it">Animali</name>
+        <name lang="de">Tiere</name>
+        <name lang="en">Animals</name>
+        <name lang="fr">Animaux</name>
+      </topic>
+      <topic id="114">
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economy</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+      </topic>
+      <topic id="108">
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricultura</name>
+        <name lang="de">Landwirtschaft</name>
+        <name lang="en">Agriculture</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

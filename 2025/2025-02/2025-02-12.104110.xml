@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104110" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-02-12</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="yes" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <name lang="en">General Secretariat of the Federal Department of Environment, Transport, Energy and Communications; General Secretariat DETEC</name>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+    </originator>
+    <originator id="810" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="it">Ufficio federale delle comunicazioni</name>
+      <name lang="fr">Office fédéral de la communication</name>
+      <name lang="rm">Bundesamt für Kommunikation</name>
+      <name lang="en">Federal Office of Communications</name>
+      <name lang="de">Bundesamt für Kommunikation</name>
+      <www lang="it">http://www.ufcom.admin.ch</www>
+      <www lang="fr">http://www.ofcom.admin.ch</www>
+      <www lang="rm">http://www.bakom.admin.ch</www>
+      <www lang="en">http://www.ofcom.admin.ch</www>
+      <www lang="de">http://www.bakom.admin.ch</www>
+      <email lang="it">media@bakom.admin.ch</email>
+      <email lang="fr">media@bakom.admin.ch</email>
+      <email lang="rm">media@bakom.admin.ch</email>
+      <email lang="en">media@bakom.admin.ch</email>
+      <email lang="de">media@bakom.admin.ch</email>
+    </originator>
+    <originator id="403" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="rm">Bundesamt für Justiz</name>
+      <name lang="en">Federal Office of Justice</name>
+      <name lang="de">Bundesamt für Justiz</name>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="rm">http://www.bj.admin.ch</www>
+      <www lang="en">http://www.bj.admin.ch</www>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="rm">info@bj.admin.ch</email>
+      <email lang="en">info@bj.admin.ch</email>
+      <email lang="de">info@bj.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="210" org-id="804">
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="en">Federal Council</name>
+        <name lang="de">Bundesrat</name>
+      </keyword>
+      <keyword id="159" org-id="403">
+        <name lang="it">Intelligenza artificiale</name>
+        <name lang="fr">Intelligence artificielle</name>
+        <name lang="rm">Künstliche Intelligenz</name>
+        <name lang="en">Artificial Intelligence</name>
+        <name lang="de">Künstliche Intelligenz</name>
+      </keyword>
+      <keyword id="540" org-id="804">
+        <name lang="it">Digitalizzazione</name>
+        <name lang="it">Società dell'informazione</name>
+        <name lang="fr">Numérisation</name>
+        <name lang="fr">Société de l'information</name>
+        <name lang="rm">Digitalisierung</name>
+        <name lang="rm">Informationsgesellschaft</name>
+        <name lang="en">Digitization</name>
+        <name lang="en">Information Society</name>
+        <name lang="de">Digitalisierung</name>
+        <name lang="de">Informationsgesellschaft</name>
+      </keyword>
+      <keyword id="570" org-id="804">
+        <name lang="it">Internet</name>
+        <name lang="it">Internet</name>
+        <name lang="fr">Internet</name>
+        <name lang="fr">Internet</name>
+        <name lang="rm">Internet</name>
+        <name lang="rm">Internet</name>
+        <name lang="en">Internet</name>
+        <name lang="en">Internet</name>
+        <name lang="de">Internet</name>
+        <name lang="de">Internet</name>
+      </keyword>
+    </keywords>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </department>
+    <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="en">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="en">https://www.uvek.admin.ch/uvek/en/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Regolamentazione dell'IA: il Consiglio federale intende ratificare la Convenzione del Consiglio d'Europa</title>
+      <lead>La Svizzera intende ratificare la Convenzione del Consiglio d'Europa sull'intelligenza artificiale (IA) e apportare le necessarie modifiche al diritto svizzero. Inoltre, occorre proseguire le attività di regolamentazione dell'IA in singoli settori, come nell'ambito sanitario e dei trasporti. Nella seduta del 12 febbraio 2025, il Consiglio federale si è espresso a favore di questo approccio. </lead>
+      <text link="no"> &lt;p&gt;Il Consiglio federale intende regolamentare l'IA affinché il suo potenziale possa essere sfruttato a favore della Svizzera come piazza economica e innovativa. Allo stesso tempo, i rischi per la società devono rimanere al minimo. Il Consiglio federale ha deciso di basarsi sui seguenti parametri: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;La Convenzione del Consiglio d'Europa sull'IA viene integrata nel diritto svizzero. Nel suo campo di applicazione rientrano principalmente gli attori statali.&lt;/li&gt;&lt;li&gt;Dove sono necessarie modifiche legislative, queste dovrebbero essere il più possibile specifiche per il settore. La regolamentazione generale e intersettoriale è limitata ad aree centrali rilevanti per i diritti fondamentali, come la protezione dei dati.&lt;/li&gt;&lt;li&gt;Oltre alla legislazione, vengono elaborate anche misure non giuridicamente vincolanti per attuare la Convenzione. Queste possono includere accordi di autodichiarazione o soluzioni di settore. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;La regolamentazione nel settore dell'IA dovrebbe orientarsi a tre obiettivi: rafforzare la Svizzera come centro d'innovazione, salvaguardare la tutela dei diritti fondamentali, compresa la libertà economica, e rafforzare la fiducia della popolazione nell'IA. &lt;/p&gt; &lt;p&gt;Il Consiglio federale ha ora definito come procedere. Il DFGP elaborerà con il DATEC e il DFAE un progetto da porre in consultazione entro la fine del 2026. Questo implementerà la Convenzione del Consiglio d'Europa sull'IA definendo le misure legali necessarie, in particolare nell'ambito della trasparenza, della protezione dei dati, della non discriminazione e della vigilanza. Inoltre, entro la fine del 2026, il DATEC collaborerà con il DFGP, il DFAE e il DEFR nell'elaborazione di un piano per ulteriori misure di natura non giuridicamente vincolante. In particolare, si terrà conto anche della conciliabilità dell'approccio svizzero con quello dei più importanti partner commerciali. Nei lavori saranno coinvolti gruppi d'interesse interni ed esterni alla Confederazione. &lt;/p&gt; &lt;p&gt;La combinazione di misure giuridicamente vincolanti e non vincolanti mira a fornire un quadro giuridico più sicuro e a tenere conto della rapida evoluzione e del potenziale dell'IA.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Rapporto presentato al Consiglio federale: Regolamentazione dell'intelligenza artificiale: analisi della situazione attuale&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Nel novembre 2023, il Consiglio federale ha incaricato il DATEC e il DFAE di esaminare possibili approcci normativi nell'ambito di un'analisi della situazione attuale. Anche il DFGP è stato strettamente coinvolto nei lavori. L'analisi della situazione attuale si fonda su diversi studi di base: un'analisi giuridica di base, un'analisi delle attività di regolamentazione nei singoli settori e un'analisi delle normative sull'IA in diversi Paesi. Le valutazioni di politica economica ed europea sono confluite nelle rispettive analisi.&lt;br /&gt;&lt;br /&gt;Analisi giuridica di base: esamina gli effetti e le disposizioni della Convenzione del Consiglio europeo sull'IA, della legge dell'UE sull'IA e l'attualità di determinati aspetti del diritto svizzero.&lt;br /&gt;&lt;br /&gt;Analisi settoriale: fornisce una panoramica sulle modifiche già attuate nella legislazione federale e quelle previste in vari settori.&lt;br /&gt;&lt;br /&gt;Analisi dei Paesi: presenta gli sviluppi normativi in 20 Paesi selezionati.&lt;/p&gt; </text>
+      <link id="285052">
+        <title>Rapporto per il Consiglio federale, analisi giuridica di base, analisi settoriale e analisi dei Paesi</title>
+        <uri>https://www.bakom.admin.ch/bakom/it/pagina-iniziale/digitale-e-internet/strategia-svizzera-digitale/intelligenza-artificiale.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Ufficio federale delle comunicazioni UFCOM, &#13; Servizio stampa&#13; +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Réglementation de l'IA: le Conseil fédéral veut ratifier la Convention du Conseil de l'Europe</title>
+      <lead>La Suisse doit ratifier la Convention du Conseil de l'Europe sur l'intelligence artificielle (IA) et apporter les modifications nécessaires dans le droit national. Il faut en outre poursuivre les activités de réglementation de l'IA dans différents secteurs, tels que la santé ou les transports. Le Conseil fédéral s'est prononcé en faveur de cette approche lors de sa séance du 12 février 2025.</lead>
+      <text link="no"> &lt;p&gt;Le Conseil fédéral veut réglementer l'IA de façon à exploiter son potentiel au profit de la Suisse en tant que place économique et d'innovation. Dans le même temps, les risques pour la société doivent rester aussi faibles que possible. Le Conseil fédéral a décidé de se baser sur les éléments suivants:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;La Convention sur l'IA du Conseil de l'Europe est reprise dans le droit suisse. Son champ d'application concerne en premier lieu des acteurs étatiques.&lt;/li&gt;&lt;li&gt;Lorsque des modifications légales sont nécessaires, elles doivent être aussi sectorielles que possible. Une réglementation générale, intersectorielle, se limite aux domaines juridiques centraux pertinents, comme la protection des données.&lt;/li&gt;&lt;li&gt;Outre la législation, des mesures juridiques non contraignantes sont élaborées pour mettre en œuvre la Convention. Celles-ci peuvent inclure des accords d'autodéclaration ou des solutions sectorielles.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;La réglementation dans le domaine de l'IA vise trois objectifs: le renforcement de la Suisse comme lieu d'innovation, la protection des droits fondamentaux, y compris de la liberté économique, et l'amélioration de la confiance de la population en l'IA. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral a également fixé la suite de la procédure. Le DFJP, en collaboration avec le DETEC et le DFAE, élaborera d'ici fin 2026 un projet de consultation qui met en œuvre la Convention sur l'IA du Conseil de l'Europe, en déterminant les mesures juridiques nécessaires dans les domaines de la transparence, de la protection des données, de la non-discrimination et de la surveillance. De plus, le DETEC, le DFJP, le DFAE et le DEFR élaboreront d'ici fin 2026 également un plan pour définir des mesures supplémentaires de nature non contraignante juridiquement, en tenant compte notamment de la compatibilité de l'approche suisse avec celles de ses principaux partenaires commerciaux. Les milieux intéressés internes et externes à l'administration fédérale seront impliqués dans les travaux. &lt;/p&gt; &lt;p&gt;L'interaction entre les mesures juridiquement contraignantes et non contraignantes doit non seulement garantir un cadre légal sûr, mais aussi prendre en considération l'évolution rapide et le potentiel de l'IA.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Rapport à l'attention du Conseil fédéral: état des lieux sur la réglementation de l'intelligence artificielle &lt;br /&gt;&lt;/b&gt;&lt;br /&gt;En novembre 2023, le Conseil fédéral a chargé le DETEC et le DFAE d'examiner les approches réglementaires possibles dans le cadre d'un état des lieux. Le DFJP était également étroitement impliqué dans les travaux. Plusieurs analyses de base ont été établies pour constituer les fondements de cet état des lieux: une analyse juridique de base, une analyse des activités de réglementation sectorielles et une analyse des réglementations de l'IA dans d'autres pays. Des estimations économiques et de politique européenne ont été intégrées dans chaque analyse.&lt;br /&gt;&lt;br /&gt;L'analyse juridique de base examine les effets et les objectifs de la Convention sur l'IA du Conseil de l'Europe, de l'AI Act de l'UE et des développements actuels dans certains domaines juridiques suisses.&lt;br /&gt;&lt;br /&gt;L'analyse sectorielle offre un aperçu des modifications existantes et prévues au niveau du droit fédéral dans différents secteurs.&lt;br /&gt;&lt;br /&gt;L'analyse par pays présente les évolutions réglementaires dans 20 pays choisis.&lt;/p&gt; </text>
+      <link id="285051">
+        <title>Rapport au Conseil fédéral, analyse juridique de base, analyse sectorielle et analyse par pays</title>
+        <uri>https://www.bakom.admin.ch/bakom/fr/page-daccueil/suisse-numerique-et-internet/strategie-suisse-numerique/intelligence-artificielle.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Office fédéral de la communication OFCOM, &#13; Service de presse&#13; +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>KI-Regulierung: Bundesrat will Konvention des Europarats ratifizieren</title>
+      <lead>Die Schweiz soll die Konvention des Europarats zu Künstlicher Intelligenz (KI) ratifizieren und die dafür notwendigen Anpassungen im Schweizer Recht vornehmen. Zudem sind die Aktivitäten zur Regulierung von KI in einzelnen Bereichen wie zum Beispiel dem Gesundheitswesen oder dem Verkehr weiterzuführen. Für diesen Ansatz hat sich der Bundesrat an seiner Sitzung vom 12. Februar 2025 ausgesprochen. </lead>
+      <text link="no"> &lt;p&gt;Der Bundesrat will KI so regulieren, dass ihr Potential für den Wirtschafts- und Innovationsstandort Schweiz nutzbar gemacht wird. Gleichzeitig sollen Risiken für die Gesellschaft möglichst klein bleiben. Der Bundesrat hat entschieden, sich an folgenden Eckwerten zu orientieren: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;Die KI-Konvention des Europarats wird ins Schweizer Recht übernommen. In ihren Geltungsbereich fallen in erster Linie staatliche Akteure.&lt;/li&gt;&lt;li&gt;Wo Gesetzesanpassungen nötig sind, sollen diese möglichst sektorbezogen ausfallen. Eine allgemeine, sektorübergreifende Regulierung beschränkt sich auf zentrale, grundrechtsrelevante Bereiche, wie beispielsweise den Datenschutz.&lt;/li&gt;&lt;li&gt;Neben der Gesetzgebung werden auch rechtlich nicht verbindliche Massnahmen zur Umsetzung der Konvention erarbeitet. Zu diesen können Selbstdeklarationsvereinbarungen oder Branchenlösungen gehören. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Die Regulierung im Bereich KI soll sich an drei Zielen orientieren: Der Stärkung des Innovationsstandorts Schweiz, der Wahrung des Grundrechtsschutzes inklusive der Wirtschaftsfreiheit sowie der Stärkung des Vertrauens der Bevölkerung in KI. &lt;/p&gt; &lt;p&gt;Der Bundesrat hat zudem das weitere Vorgehen festgelegt. Das EJPD wird mit dem UVEK und dem EDA bis Ende 2026 eine Vernehmlassungsvorlage erstellen. Diese setzt die KI-Konvention des Europarats um, indem sie die notwendigen gesetzlichen Massnahmen festlegt, namentlich in den Bereichen Transparenz, Datenschutz, Nichtdiskriminierung und Aufsicht. Das UVEK wird zudem mit dem EJPD, dem EDA und dem WBF bis Ende 2026 einen Plan für die weiteren Massnahmen von rechtlich nicht verbindlicher Natur erarbeiten. Dieser berücksichtigt insbesondere auch die Vereinbarkeit des Schweizer Ansatzes mit jenen der wichtigsten Handelspartner. Bundesinterne und -externe Anspruchsgruppen werden in die Arbeiten einbezogen. &lt;/p&gt; &lt;p&gt;Das Zusammenspiel aus rechtlich verbindlichen und unverbindlichen Massnahmen soll einerseits für einen sichereren Rechtsrahmen sorgen und andererseits der raschen Entwicklung und dem Potential der KI Rechnung tragen.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Bericht an den Bundesrat: Auslegeordnung zur Regulierung von künstlicher Intelligenz &lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Im November 2023 beauftragte der Bundesrat das UVEK und das EDA, im Rahmen einer Auslegeordnung mögliche Regulierungsansätze zu prüfen. Eng in die Arbeiten einbezogen war auch das EJPD. Als Grundlage für die Auslegeordnung wurden verschiedene Basisanalysen erstellt: eine rechtliche Basisanalyse, eine Analyse der Regulierungsaktivitäten in den einzelnen Sektoren sowie eine Analyse der KI-Regulierungen in anderen Ländern. Wirtschafts- und europapolitische Einschätzungen flossen in die jeweiligen Analysen ein.&lt;br /&gt;&lt;br /&gt;Rechtliche Basisanalyse: Die rechtliche Basisanalyse untersucht die Auswirkungen und Vorgaben der KI-Konvention des Europarats, des AI Acts der EU und die Aktualität ausgewählter schweizerischer Rechtsgebiete.&lt;br /&gt;&lt;br /&gt;Sektorielle Analyse: Die sektorielle Analyse gibt einen Überblick über die bestehenden und geplanten Änderungen im Bundesrecht in verschiedenen Sektoren.&lt;br /&gt;&lt;br /&gt;Länderanalyse: Die Länderanalyse stellt die regulatorischen Entwicklungen in 20 ausgewählten Ländern dar.&lt;/p&gt; </text>
+      <link id="285050">
+        <title>Auslegeordnung zur Regulierung von künstlicher Intelligenz: Bericht an den Bundesrat</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/digital-und-internet/strategie-digitale-schweiz/ki_leitlinien.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Bundesamt für Kommunikation BAKOM, Medienstelle&#13; +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>AI regulation: Federal Council to ratify Council of Europe Convention</title>
+      <lead>Switzerland intends to ratify the Council of Europe Convention on Artificial Intelligence (AI) and to make the necessary amendments to Swiss law. Work will also continue on the regulation of AI in specific sectors such as healthcare and transport. The Federal Council spoke out in favour of this approach at its meeting on 12 February. </lead>
+      <text link="no"> &lt;p&gt;The Federal Council wants to regulate AI in such a way that its potential can be used to strengthen Switzerland as a location for business and innovation. At the same time, the risks to society should be kept as low as possible. The Federal Council has decided to focus on the following parameters: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;The AI Convention of the Council of Europe will be incorporated into Swiss law. It will apply primarily to state actors.&lt;/li&gt;&lt;li&gt;Where legislative changes are needed, they should be as sector-specific as possible. Only key areas relevant to fundamental rights, such as data protection, will be subject to general, cross-sectoral regulation.&lt;/li&gt;&lt;li&gt;In addition to legislation, non-legally binding measures will be developed to help implement the Convention. Measures may include self-disclosure agreements or industry solutions. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;The regulation of AI will be based on three objectives: reinforcing Switzerland as a centre of innovation, safeguarding fundamental rights (including economic freedom), and increasing public trust in AI. &lt;/p&gt; &lt;p&gt;The Federal Council has decided on the following next steps. The FDJP will draft a bill for consultation with DETEC and the FDFA by the end of 2026. The bill will implement the Council of Europe's AI Convention by defining the necessary legal measures, in particular in the areas of transparency, data protection, non-discrimination and supervision. DETEC, together with the FDJP, the FDFA and the EAER, will also draw up a plan by the end of 2026 for further measures non-legally-binding measures. In particular, the compatibility of Switzerland's approach with that of its main trading partners will be taken into account. Internal and external stakeholders will be involved in this process. &lt;/p&gt; &lt;p&gt;The combination of legally binding and non-binding measures is intended to provide a more robust legal framework while taking into account the rapid development and potential of AI.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Report to the Federal Council: Overview of artificial intelligence regulation &lt;br /&gt;&lt;/b&gt;&lt;br /&gt;In November 2023, the Federal Council mandated DETEC and the FDFA to prepare an overview of possible regulatory approaches to AI. The FDJP was also closely involved. This overview is based on a variety of fundamental analyses: a baseline legal analysis, an analysis of regulatory activity in each sector (sectoral analysis), and an analysis of AI regulation in other countries. Economic and European policy assessments were included in the respective analyses.&lt;br /&gt;&lt;br /&gt;Baseline legal analysis: examines the effects and requirements of the European Council's AI Convention, the EU's AI Act and the up-to-dateness of selected areas of Swiss law.&lt;br /&gt;&lt;br /&gt;Sectoral analysis: provides an overview of the existing and planned changes to federal law in various sectors.&lt;br /&gt;&lt;br /&gt;Country analysis: presents the regulatory developments in 20 selected countries.&lt;/p&gt; </text>
+      <link id="285053">
+        <title>Report to the Federal Council, baseline legal analysis, sectorial analysis and country analysis</title>
+        <uri>https://www.bakom.admin.ch/bakom/en/homepage/digital-switzerland-and-internet/strategie-digitale-schweiz/ai.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Federal Office of Communication OFCOM, Press service&#13; +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>KI-Regulierung: Bundesrat will Konvention des Europarats ratifizieren</title>
+      <lead>Die Schweiz soll die Konvention des Europarats zu Künstlicher Intelligenz (KI) ratifizieren und die dafür notwendigen Anpassungen im Schweizer Recht vornehmen. Zudem sind die Aktivitäten zur Regulierung von KI in einzelnen Bereichen wie zum Beispiel dem Gesundheitswesen oder dem Verkehr weiterzuführen. Für diesen Ansatz hat sich der Bundesrat an seiner Sitzung vom 12. Februar 2025 ausgesprochen. </lead>
+      <text link="no"> &lt;p&gt;Der Bundesrat will KI so regulieren, dass ihr Potential für den Wirtschafts- und Innovationsstandort Schweiz nutzbar gemacht wird. Gleichzeitig sollen Risiken für die Gesellschaft möglichst klein bleiben. Der Bundesrat hat entschieden, sich an folgenden Eckwerten zu orientieren: &lt;/p&gt; &lt;ul&gt;&lt;li&gt;Die KI-Konvention des Europarats wird ins Schweizer Recht übernommen. In ihren Geltungsbereich fallen in erster Linie staatliche Akteure.&lt;/li&gt;&lt;li&gt;Wo Gesetzesanpassungen nötig sind, sollen diese möglichst sektorbezogen ausfallen. Eine allgemeine, sektorübergreifende Regulierung beschränkt sich auf zentrale, grundrechtsrelevante Bereiche, wie beispielsweise den Datenschutz.&lt;/li&gt;&lt;li&gt;Neben der Gesetzgebung werden auch rechtlich nicht verbindliche Massnahmen zur Umsetzung der Konvention erarbeitet. Zu diesen können Selbstdeklarationsvereinbarungen oder Branchenlösungen gehören. &lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Die Regulierung im Bereich KI soll sich an drei Zielen orientieren: Der Stärkung des Innovationsstandorts Schweiz, der Wahrung des Grundrechtsschutzes inklusive der Wirtschaftsfreiheit sowie der Stärkung des Vertrauens der Bevölkerung in KI. &lt;/p&gt; &lt;p&gt;Der Bundesrat hat zudem das weitere Vorgehen festgelegt. Das EJPD wird mit dem UVEK und dem EDA bis Ende 2026 eine Vernehmlassungsvorlage erstellen. Diese setzt die KI-Konvention des Europarats um, indem sie die notwendigen gesetzlichen Massnahmen festlegt, namentlich in den Bereichen Transparenz, Datenschutz, Nichtdiskriminierung und Aufsicht. Das UVEK wird zudem mit dem EJPD, dem EDA und dem WBF bis Ende 2026 einen Plan für die weiteren Massnahmen von rechtlich nicht verbindlicher Natur erarbeiten. Dieser berücksichtigt insbesondere auch die Vereinbarkeit des Schweizer Ansatzes mit jenen der wichtigsten Handelspartner. Bundesinterne und -externe Anspruchsgruppen werden in die Arbeiten einbezogen. &lt;/p&gt; &lt;p&gt;Das Zusammenspiel aus rechtlich verbindlichen und unverbindlichen Massnahmen soll einerseits für einen sichereren Rechtsrahmen sorgen und andererseits der raschen Entwicklung und dem Potential der KI Rechnung tragen.&lt;/p&gt; &lt;p class="nsbtextkasten"&gt;&lt;b&gt;Bericht an den Bundesrat: Auslegeordnung zur Regulierung von künstlicher Intelligenz &lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Im November 2023 beauftragte der Bundesrat das UVEK und das EDA, im Rahmen einer Auslegeordnung mögliche Regulierungsansätze zu prüfen. Eng in die Arbeiten einbezogen war auch das EJPD. Als Grundlage für die Auslegeordnung wurden verschiedene Basisanalysen erstellt: eine rechtliche Basisanalyse, eine Analyse der Regulierungsaktivitäten in den einzelnen Sektoren sowie eine Analyse der KI-Regulierungen in anderen Ländern. Wirtschafts- und europapolitische Einschätzungen flossen in die jeweiligen Analysen ein.&lt;br /&gt;&lt;br /&gt;Rechtliche Basisanalyse: Die rechtliche Basisanalyse untersucht die Auswirkungen und Vorgaben der KI-Konvention des Europarats, des AI Acts der EU und die Aktualität ausgewählter schweizerischer Rechtsgebiete.&lt;br /&gt;&lt;br /&gt;Sektorielle Analyse: Die sektorielle Analyse gibt einen Überblick über die bestehenden und geplanten Änderungen im Bundesrecht in verschiedenen Sektoren.&lt;br /&gt;&lt;br /&gt;Länderanalyse: Die Länderanalyse stellt die regulatorischen Entwicklungen in 20 ausgewählten Ländern dar.&lt;/p&gt; </text>
+      <link id="285050">
+        <title>Auslegeordnung zur Regulierung von künstlicher Intelligenz: Bericht an den Bundesrat</title>
+        <uri>https://www.bakom.admin.ch/bakom/de/home/digital-und-internet/strategie-digitale-schweiz/ki_leitlinien.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Bundesamt für Kommunikation BAKOM, Medienstelle&#13; +41 58 460 55 50, media@bakom.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="en">Federal Council</name>
+        <name lang="de">Bundesrat</name>
+      </topic>
+      <topic id="19">
+        <name lang="it">Media</name>
+        <name lang="fr">Médias</name>
+        <name lang="rm">Medien</name>
+        <name lang="en">Media</name>
+        <name lang="de">Medien</name>
+      </topic>
+      <topic id="28">
+        <name lang="it">Telecomunicazione</name>
+        <name lang="fr">Télécommunications</name>
+        <name lang="rm">Telekommunikation</name>
+        <name lang="en">Telecommunications</name>
+        <name lang="de">Telekommunikation</name>
+      </topic>
+      <topic id="36">
+        <name lang="it">Informatica ed e-government</name>
+        <name lang="fr">Informatique et cyberadministration</name>
+        <name lang="rm">Informatik und E-Government</name>
+        <name lang="en">IT and E-Government</name>
+        <name lang="de">Informatik und E-Government</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="67" org-id="810">
+        <name lang="it">Comunicati stampa telecomunicazioni</name>
+        <name lang="fr">Communiqués de presse télécommunications</name>
+        <name lang="rm">Medienmitteilungen Telecom</name>
+        <name lang="en">Press releases Telecom</name>
+        <name lang="de">Medienmitteilungen Telecom</name>
+      </offer>
+      <offer id="66" org-id="810">
+        <name lang="it">Comunicati stampa Media</name>
+        <name lang="fr">Communiqués de presse Médias</name>
+        <name lang="rm">Medienmitteilungen Medien</name>
+        <name lang="en">Press releases Media</name>
+        <name lang="de">Medienmitteilungen Medien</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

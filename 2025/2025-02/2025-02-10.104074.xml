@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104074" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-02-10</pubdate>
+    <originator id="506" department-msg="no" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">armasuisse</name>
+      <name lang="it">Armasuisse</name>
+      <name lang="rm">armasuisse</name>
+      <name lang="en">Armasuisse</name>
+      <name lang="fr">Armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/</www>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="rm">http://www.ar.admin.ch/</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+      <email lang="de">info@armasuisse.ch</email>
+      <email lang="it">info@armasuisse.ch</email>
+      <email lang="rm">info@armasuisse.ch</email>
+      <email lang="en">info@armasuisse.ch</email>
+      <email lang="fr">info@armasuisse.ch</email>
+    </originator>
+    <originator id="502" department-msg="no" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="rm">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="rm">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="rm">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="rm">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="rm">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Cyber-Defence Campus des VBS identifiziert Schwachstellen in Kollisionswarnsystem der zivilen Luftfahrt</title>
+      <lead>Der Cyber-Defence Campus des VBS hat zwei Schwachstellen im Kollisionswarnsystem «Traffic Alert and Collision Avoidance System (TCAS) II» der zivilen Luftfahrt gefunden. Am 21. Januar 2025 wurden die detektierten und veröffentlichten Schwachstellen von der amerikanischen Cyber Defence Agentur CISA und der Federal Aviation Authority (FAA) der USA als mittelschwer respektive schwer eingestuft. </lead>
+      <text link="no">&lt;p&gt;Im Herbst 2023 ist es einem Team des Cyber-Defence (CYD) Campus gelungen, in ihrem Cyber Avionics Labor auf einem zertifizierten TCAS-Prozessor mit einem eigenen Funk-Setup falsche Warnungen auf einem Pilotencockpit auszulösen. Der Hersteller sowie die Luftfahrtbehörden in Europa und in den USA wurden über die neu gewonnen Erkenntnisse informiert. &lt;br /&gt;&lt;br /&gt;Am 21. Januar 2025 hat die amerikanische Cyber Defence Agentur CISA des United States Department of Homeland Security gemeinsam mit der FAA als erste Organisation eine Sicherheitsmitteilung veröffentlicht. Dabei stuften sie die zwei vom Cyber-Defence Campus gefundenen Schwachstellen im Kollisionswarnsystem «Traffic Alert and Collision Avoidance System II» als mittelschwer beziehungsweise schwer ein – eine wegweisende Einschätzung für andere Regionen, darunter Europa. Die Einschätzung der FAA zeigt, dass derzeit keine technischen Gegenmassnahmen verfügbar sind.&lt;/p&gt;&lt;h2&gt;Sicherheit für die zivile Luftfahrt &lt;/h2&gt;&lt;p&gt;Die Erkenntnisse des Cyber-Defence Campus liefern eine wichtige Grundlage für die internationale Sicherheitsbewertung und zukünftige Schutzmassnahmen. Den betroffenen Organisationen wird daher empfohlen, kompensatorische Massnahmen zur frühzeitigen Erkennung solcher Angriffe zu ergreifen, um im Ernstfall angemessen reagieren zu können.&lt;br /&gt;&lt;br /&gt;Im Sommer 2024 haben Forscher des Cyber-Defence Campus die Erkenntnisse an der «DEF CON Hacking Conference» in Las Vegas, Nevada und an der «USENIX Security», einer Sicherheitskonferenz in Philadelphia, Pennsylvania, demonstriert.&lt;/p&gt;&lt;h2&gt;Forschung im CYD Campus&lt;/h2&gt;&lt;p&gt;Mit diesem Thema beschäftigen sich Forschende des CYD Campus seit über fünf Jahren. Das dafür aufgebaute Cyber Avionics Lab in Thun erlaubt es, Cyberangriffe auf zertifizierte Luftfahrtsysteme zu untersuchen. Bereits vor Jahren haben Forschende des CYD Campus auf diesem Gebiet Pionierarbeit geleistet. Diverse Systeme wie ADS-B, MLAT, CDPLC und GPS wurden dabei unter die Lupe genommen, um aufzuzeigen, wie diese digitalen Aviatiksysteme auf realistische Cyberangriffe reagieren würden.&lt;br /&gt;&lt;br /&gt;In den letzten zwei Jahren hat sich ein Team des CYD Campus zusammen mit italienischen Forschenden mit der Untersuchung von TCAS II intensiv befasst. Dieses System ist in der zivilen Luftfahrt für Flugzeuge ab 5,700 kg Gewicht oder mehr als 19 Passagieren vorgeschrieben und dient als letzte Massnahme zur Kollisionsvermeidung, wenn alle anderen Prozeduren zur Einhaltung der Distanz zwischen Flugobjekten versagt haben. Die Pilotinnen und Piloten sind verpflichtet sofort auf TCAS-Kollisionswarnungen zu reagieren, beispielsweise mit einer Anpassung der Flughöhe nach oben oder nach unten.&lt;/p&gt;&lt;h2&gt;Der Cyber-Defence Campus&lt;/h2&gt;&lt;p&gt;Der Cyber-Defence Campus bildet das Bindeglied zwischen dem VBS, der Industrie und der Wissenschaft in den Bereichen Forschung, Innovation und Ausbildung für die Cyberabwehr. Zu seinen Aufgaben gehören die Früherkennung der neuesten Trends im Cyber-Bereich, die Entwicklung und Prüfung von Cyber-Technologien sowie die Ausbildung von Cyber-Spezialisten.&lt;br /&gt;&lt;br /&gt;Er wurde im Jahr 2019 im Rahmen des Aktionsplans Cyberdefence VBS bei armasuisse Wissenschaft und Technologie gegründet und trägt zur Strategie Cyber VBS und zur nationalen Cyberstrategie (NCS) bei.&lt;/p&gt;</text>
+      <link id="284925">
+        <title>CYD Campus identifiziert Sicherheitslücken im Kollisionswarnsystem TCAS II von zivilen Flugzeugen</title>
+        <uri>https://www.ar.admin.ch/de/kollisionswarnsystem</uri>
+        <position>Context</position>
+      </link>
+      <link id="284926">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <contact>Kommunikation armasuisse&#13; Guisanplatz 1&#13; CH-3003 Bern</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Cyber-Defence Campus del DDPS ha individuato delle vulnerabilità nel sistema anticollisione dell’aviazione civile</title>
+      <lead>Il Cyber-Defence Campus del DDPS ha individuato due vulnerabilità nel «Traffic Alert and Collision Avoidance System (TCAS) II», il sistema anticollisione dell’aviazione civile. Il 21 gennaio 2025 la Cybersecurity and Infrastructure Security Agency (CISA) e la Federal Aviation Authority (FAA) degli Stati Uniti hanno stabilito che le vulnerabilità rilevate e pubblicate sono rispettivamente medio gravi e gravi.</lead>
+      <text link="no">&lt;p&gt;Nell’autunno del 2023 un team del CYD (CYD) Campus era riuscito a ottenere delle false segnalazioni sul cockpit di una cabina di pilotaggio nel proprio laboratorio di Cyber Avionics su un processore TCAS certificato attraverso una propria impostazione radio. Quanto scoperto fu comunicato al produttore e alle autorità aeronautiche europee e statunitensi.&lt;br /&gt;&lt;br /&gt;Il 21 gennaio 2025 l’agenzia americana CISA dello United States Department of Homeland Security, insieme alla FAA, è stata la prima organizzazione a emettere un comunicato di sicurezza. All’interno del documento le due vulnerabilità scoperte dal CYD Campus all’interno del sistema anticollisione «Traffic Alert and Collision Avoidance System II» sono state classificate rispettivamente come medio gravi e gravi. L’autorità ha così fornito una stima che sarà determinante anche per le altre regioni, tra cui l’Europa. La stima della FAA mostra come attualmente non siano disponibili contromisure tecniche.&lt;/p&gt;&lt;h2&gt;Sicurezza per l’aviazione civile&lt;/h2&gt;&lt;p&gt;Le scoperte del CYD Campus forniscono un’importante base per la valutazione della sicurezza a livello internazionale e per le future misure di protezione. Le organizzazioni interessate sono quindi invitate ad adottare misure di compensazione per il rilevamento tempestivo di attacchi di questo tipo, in modo tale da essere in grado di reagire adeguatamente in caso di emergenza.&lt;br /&gt;&lt;br /&gt;Nell’estate del 2024 i ricercatori del CYD Campus hanno illustrato le loro scoperte alla «DEF CON Hacking Conference» di Las Vegas, Nevada, e alla «USENIX Security», una conferenza sulla sicurezza tenutasi a Philadelphia, Pennsylvania.&lt;/p&gt;&lt;h2&gt;Ricerca presso il CYD Campus&lt;/h2&gt;&lt;p&gt;I ricercatori del CYD Campus lavorano su questo tema da oltre cinque anni. Il Cyber Avionics Lab, creato a questo scopo a Thun, permette di studiare i cyberattacchi ai sistemi di aviazione certificati. Già in passato, i ricercatori del CYD Campus stavano svolgendo un lavoro pionieristico in questo campo. Sono stati esaminati diversi sistemi, come l'ADS-B, il MLAT, il CDPLC e il GPS, per mostrare come questi sistemi di aviazione digitale reagirebbero a attacchi informatici realistici.&lt;br /&gt;&lt;br /&gt;Negli ultimi due anni, un team del CYD Campus ha lavorato a stretto contatto con ricercatori italiani per analizzare il TCAS II. Questo sistema è obbligatorio nell'aviazione civile per gli aeromobili di peso pari o superiore a 5.700 kg o che trasportano più di 19 passeggeri ed è utilizzato come ultima risorsa per evitare le collisioni quando tutte le altre procedure per mantenere la distanza di sicurezza tra gli oggetti volanti sono fallite. I piloti sono obbligati a reagire immediatamente agli avvisi di collisione del TCAS, ad esempio regolando l'altitudine verso l'alto o verso il basso.&lt;/p&gt;&lt;h2&gt;Il Cyber-Defence Campus&lt;/h2&gt;&lt;p&gt;Il CYD Campus costituisce l’anello di congiunzione tra il DDPS, l’industria e la scienza nei settori della ricerca, dell’innovazione e della formazione riguardo alla difesa digitale. I suoi compiti comprendono l’individuazione precoce delle ultime tendenze in campo informatico, lo sviluppo e il test di tecnologie informatiche e la formazione di personale informatico.&lt;br /&gt;&lt;br /&gt;Il CYD Campus è stato istituito nel 2019 nell’ambito del Piano d’azione Ciberdifesa DDPS presso armasuisse Scienza e tecnologia e oggi contribuisce alla Strategia Ciber DDPS e alla Ciberstrategia nazionale (CSN).&lt;/p&gt;</text>
+      <link id="284929">
+        <title>Il CYD Campus ha individuato falle nella sicurezza del sistema anticollisione TCAS II degli aerei civili</title>
+        <uri>https://www.ar.admin.ch/it/sistema-avviso-di-collisione</uri>
+        <position>Context</position>
+      </link>
+      <link id="284930">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/it</uri>
+        <position>Context</position>
+      </link>
+      <contact>Kaj-Gunner Sievert&#13; Responsabile Comunicazione di armasuisse&#13; +41 58 464 62 47</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Cyber-Defence Campus des VBS identifiziert Schwachstellen in Kollisionswarnsystem der zivilen Luftfahrt</title>
+      <lead>Der Cyber-Defence Campus des VBS hat zwei Schwachstellen im Kollisionswarnsystem «Traffic Alert and Collision Avoidance System (TCAS) II» der zivilen Luftfahrt gefunden. Am 21. Januar 2025 wurden die detektierten und veröffentlichten Schwachstellen von der amerikanischen Cyber Defence Agentur CISA und der Federal Aviation Authority (FAA) der USA als mittelschwer respektive schwer eingestuft. </lead>
+      <text link="no">&lt;p&gt;Im Herbst 2023 ist es einem Team des Cyber-Defence (CYD) Campus gelungen, in ihrem Cyber Avionics Labor auf einem zertifizierten TCAS-Prozessor mit einem eigenen Funk-Setup falsche Warnungen auf einem Pilotencockpit auszulösen. Der Hersteller sowie die Luftfahrtbehörden in Europa und in den USA wurden über die neu gewonnen Erkenntnisse informiert. &lt;br /&gt;&lt;br /&gt;Am 21. Januar 2025 hat die amerikanische Cyber Defence Agentur CISA des United States Department of Homeland Security gemeinsam mit der FAA als erste Organisation eine Sicherheitsmitteilung veröffentlicht. Dabei stuften sie die zwei vom Cyber-Defence Campus gefundenen Schwachstellen im Kollisionswarnsystem «Traffic Alert and Collision Avoidance System II» als mittelschwer beziehungsweise schwer ein – eine wegweisende Einschätzung für andere Regionen, darunter Europa. Die Einschätzung der FAA zeigt, dass derzeit keine technischen Gegenmassnahmen verfügbar sind.&lt;/p&gt;&lt;h2&gt;Sicherheit für die zivile Luftfahrt &lt;/h2&gt;&lt;p&gt;Die Erkenntnisse des Cyber-Defence Campus liefern eine wichtige Grundlage für die internationale Sicherheitsbewertung und zukünftige Schutzmassnahmen. Den betroffenen Organisationen wird daher empfohlen, kompensatorische Massnahmen zur frühzeitigen Erkennung solcher Angriffe zu ergreifen, um im Ernstfall angemessen reagieren zu können.&lt;br /&gt;&lt;br /&gt;Im Sommer 2024 haben Forscher des Cyber-Defence Campus die Erkenntnisse an der «DEF CON Hacking Conference» in Las Vegas, Nevada und an der «USENIX Security», einer Sicherheitskonferenz in Philadelphia, Pennsylvania, demonstriert.&lt;/p&gt;&lt;h2&gt;Forschung im CYD Campus&lt;/h2&gt;&lt;p&gt;Mit diesem Thema beschäftigen sich Forschende des CYD Campus seit über fünf Jahren. Das dafür aufgebaute Cyber Avionics Lab in Thun erlaubt es, Cyberangriffe auf zertifizierte Luftfahrtsysteme zu untersuchen. Bereits vor Jahren haben Forschende des CYD Campus auf diesem Gebiet Pionierarbeit geleistet. Diverse Systeme wie ADS-B, MLAT, CDPLC und GPS wurden dabei unter die Lupe genommen, um aufzuzeigen, wie diese digitalen Aviatiksysteme auf realistische Cyberangriffe reagieren würden.&lt;br /&gt;&lt;br /&gt;In den letzten zwei Jahren hat sich ein Team des CYD Campus zusammen mit italienischen Forschenden mit der Untersuchung von TCAS II intensiv befasst. Dieses System ist in der zivilen Luftfahrt für Flugzeuge ab 5,700 kg Gewicht oder mehr als 19 Passagieren vorgeschrieben und dient als letzte Massnahme zur Kollisionsvermeidung, wenn alle anderen Prozeduren zur Einhaltung der Distanz zwischen Flugobjekten versagt haben. Die Pilotinnen und Piloten sind verpflichtet sofort auf TCAS-Kollisionswarnungen zu reagieren, beispielsweise mit einer Anpassung der Flughöhe nach oben oder nach unten.&lt;/p&gt;&lt;h2&gt;Der Cyber-Defence Campus&lt;/h2&gt;&lt;p&gt;Der Cyber-Defence Campus bildet das Bindeglied zwischen dem VBS, der Industrie und der Wissenschaft in den Bereichen Forschung, Innovation und Ausbildung für die Cyberabwehr. Zu seinen Aufgaben gehören die Früherkennung der neuesten Trends im Cyber-Bereich, die Entwicklung und Prüfung von Cyber-Technologien sowie die Ausbildung von Cyber-Spezialisten.&lt;br /&gt;&lt;br /&gt;Er wurde im Jahr 2019 im Rahmen des Aktionsplans Cyberdefence VBS bei armasuisse Wissenschaft und Technologie gegründet und trägt zur Strategie Cyber VBS und zur nationalen Cyberstrategie (NCS) bei.&lt;/p&gt;</text>
+      <link id="284925">
+        <title>CYD Campus identifiziert Sicherheitslücken im Kollisionswarnsystem TCAS II von zivilen Flugzeugen</title>
+        <uri>https://www.ar.admin.ch/de/kollisionswarnsystem</uri>
+        <position>Context</position>
+      </link>
+      <link id="284926">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/de</uri>
+        <position>Context</position>
+      </link>
+      <contact>Kommunikation armasuisse&#13; Guisanplatz 1&#13; CH-3003 Bern</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Cyber-Defence Campus of the DDPS identifies vulnerabilities in collision warning system of civil aviation</title>
+      <lead> The Cyber-Defence Campus of the DDPS has found two vulnerabilities in the collision warning system “Traffic Alert and Collision Avoidance System (TCAS) II” of civil aviation. On 21 January 2025, the detected and published vulnerabilities were classified by the American Cyber Defence Agency CISA and the Federal Aviation Authority (FAA) of the USA as moderate to severe. </lead>
+      <text link="no">&lt;p&gt;In autumn 2023, a team from the Cyber-Defence (CYD) Campus succeeded in triggering false warnings in a pilot cockpit on a certified TCAS processor with its own radio setup in their Cyber Avionics Laboratory. The manufacturer and the aviation authorities in Europe and the USA have been informed about the new findings. &lt;br /&gt;&lt;br /&gt;On 21 January 2025, the American Cyber Defence Agency CISA of the United States Department of Homeland Security published a security message together with the FAA as the first organisation. Here, they classified two of the vulnerabilities found by the Cyber-Defence Campus in the collision warning system “Traffic Alert and Collision Avoidance System II” as moderate to severe – a pioneering assessment for other regions, including Europe. The FAA’s assessment shows that no technical countermeasures are currently available.&lt;/p&gt;&lt;h2&gt;Security for civil aviation &lt;/h2&gt;&lt;p&gt;The findings of the Cyber-Defence Campus provide an important basis for the international safety assessment and future safeguard measures. The organisations concerned are therefore recommended to take compensatory measures for identifying such attacks at an early stage, in order to be able to react appropriately in cases of emergency.&lt;br /&gt;&lt;br /&gt;In the summer of 2024, researchers at the Cyber-Defence Campus demonstrated the findings at the “DEF CON Hacking Conference” in Las Vegas, Nevada and at the “USENIX Security”, a security conference in Philadelphia, Pennsylvania.&lt;/p&gt;&lt;h2&gt;Research at CYD Campus&lt;/h2&gt;&lt;p&gt;Researchers at CYD Campus have been working on this topic for over five years. The Cyber Avionics Lab in Thun, which was set up for this purpose, allows them to investigate cyberattacks on certified aviation systems. CYD Campus researchers have been doing pioneering work in this field for years. Various systems such as ADS-B, MLAT, CDPLC and GPS have been scrutinised to show how these digital aviation systems would react to realistic cyberattacks.&lt;br /&gt;&lt;br /&gt;Over the past two years, a team from CYD Campus has been working intensively with Italian researchers on the investigation of TCAS II. This system is mandatory in civil aviation for aircraft weighing 5,700 kg or more or carrying more than 19 passengers and serves as a last resort for avoiding collisions when all other procedures for maintaining distance between aircraft have failed. Pilots are obliged to respond immediately to TCAS collision warnings, for example by adjusting their altitude up or down.&lt;/p&gt;&lt;h2&gt;The Cyber-Defence Campus&lt;/h2&gt;&lt;p&gt;The CYD Campus forms the link between the DDPS, industry and science in the areas of research, innovation and training for cyber defence. Its tasks include the early identification of the latest trends in the cyber area, the development and testing of cyber technologies and the training of cyber specialists.&lt;br /&gt;&lt;br /&gt;It was founded in 2019 as part of the DDPS’ cyber defence action plan at armasuisse Science and Technology and contributes to the DDPS cyber strategy as well as to the National Cyber Strategy (NCS).&lt;/p&gt;</text>
+      <link id="284931">
+        <title>CYD Campus identifies vulnerabilities in collision warning system TCAS II of civilian aircraft</title>
+        <uri>https://www.ar.admin.ch/en/collision-warning-system</uri>
+        <position>Context</position>
+      </link>
+      <link id="284932">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/en</uri>
+        <position>Context</position>
+      </link>
+      <contact>Kaj-Gunnar Sievert&#13; Head of Communication armasuisse&#13; +41 58 464 62 47</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Cyber-Defence Campus du DDPS a identifié des failles de sécurité dans un système de prévention des collisions de l’aviation civile</title>
+      <lead>Le Cyber-Defence Campus du DDPS a découvert deux failles de sécurité dans le système de prévention des collisions « Traffic Alert and Collision Avoidance System (TCAS) II » de l’aviation civile. Les failles de sécurité détectées ont été publiées le 21 janvier 2025 par l’Agence de cybersécurité américaine CISA et la Federal Aviation Authority (FAA) des États-Unis, qui les ont classées respectivement comme moyenne et élevée. &#13; </lead>
+      <text link="no">&lt;p&gt;À l’automne 2023, une équipe du Cyber-Defence (CYD) Campus est parvenue à déclencher de fausses alertes dans un poste de pilotage avec un processeur certifié TCAS et sa propre installation radio, dans son laboratoire de cybersécurité aéronautique. Le fabricant ainsi que les autorités de l’aviation européennes et américaines ont été informées de ces découvertes. &lt;br /&gt;&lt;br /&gt;Le 21 janvier 2025, l’Agence de cybersécurité américaine (CISA) du département de la Sécurité intérieure des États-Unis et la FAA ont été les premières à publier un communiqué de sécurité. Dans celui-ci, les failles de sécurité découvertes par le Cyber-Defence Campus dans le système de prévention des collisions « Traffic Alert and Collision Avoidance System II » sont classées respectivement comme moyenne et élevée – une évaluation déterminante pour d’autres régions, dont l’Europe. L’évaluation de la FAA montre qu’aucune contre-mesure technique n’est disponible actuellement.&lt;/p&gt;&lt;h2&gt;Pour la sécurité de l’aviation civile &lt;/h2&gt;&lt;p&gt;Les découvertes du Cyber-Defence Campus constituent une base importante pour l’évaluation de la sécurité internationale et les mesures de protection futures. C’est pourquoi on recommande aux organisations concernées de prendre les mesures compensatoires requises pour détecter de telles attaques en temps utile afin de pouvoir réagir de manière appropriée le cas échéant.&lt;br /&gt;&lt;br /&gt;À l’été 2024, des chercheurs du Cyber-Defence Campus ont fait la démonstration de leurs découvertes à la « DEF CON Hacking Conference » de Las Vegas, au Nevada, et à la conférence sur la sécurité « USENIX Security » de Philadelphie, en Pennsylvanie.&lt;/p&gt;&lt;h2&gt;Recherche au CYD Campus&lt;/h2&gt;&lt;p&gt;Les chercheurs du CYD Campus se penchent sur ce sujet depuis plus de cinq ans. Le Cyber Avionics Lab mis en place à Thoune permet d'étudier les cyberattaques contre les systèmes aéronautiques certifiés. Il y a plusieurs années déjà, les chercheurs du CYD Campus ont fait œuvre de pionnier dans ce domaine. Divers systèmes tels que l'ADS-B, le MLAT, le CDPLC et le GPS ont été examinés à la loupe afin de montrer comment ces systèmes d'aviation numérique réagiraient à des cyberattaques réalistes.&lt;br /&gt;&lt;br /&gt;Au cours des deux dernières années, une équipe du CYD Campus, en collaboration avec des chercheurs italiens, a étudié le TCAS II. Ce système est obligatoire dans l'aviation civile pour les avions pesant plus de 5 700 kg ou transportant plus de 19 passagers. Il sert de mesure de dernier recours pour éviter les collisions lorsque toutes les autres procédures visant à maintenir la distance entre les objets volants ont échoué. En cas d'alerte de collision, les pilotes doivent immédiatement ajuster l’altitude de vol vers le haut ou le bas.&lt;/p&gt;&lt;h2&gt;Le Cyber-Defence Campus&lt;/h2&gt;&lt;p&gt;Le Cyber-Defence Campus fait le lien entre le DDPS, l’industrie et le monde scientifique en matière de recherche, d’innovation et de formation à la cyberdéfense. Ses missions incluent l’identification précoce des dernières tendances dans le domaine cybernétique, le développement et la mise à l’essai de cybertechnologies ainsi que la formation de spécialistes cyber.&lt;br /&gt;&lt;br /&gt;Fondé en 2019 au sein d’armasuisse Sciences et technologies dans le cadre du plan d’action cyberdéfense du DDPS, le CYD Campus participe à la stratégie cyber du DDPS ainsi qu’à la cyberstratégie nationale (CSN).&lt;/p&gt;</text>
+      <link id="284927">
+        <title>Le CYD Campus a identifié des failles de sécurité dans le système de prévention des collisions TCAS II des avions civils</title>
+        <uri>https://www.ar.admin.ch/fr/systeme-alerte-de-collision</uri>
+        <position>Context</position>
+      </link>
+      <link id="284928">
+        <title>Cyber-Defence Campus</title>
+        <uri>https://www.cydcampus.admin.ch/fr</uri>
+        <position>Context</position>
+      </link>
+      <contact>Kaj-Gunnar Sievert&#13; Chef de la communication d'armasuisse&#13; +41 58 464 62 47</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Sicherheit</name>
+        <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="hhwjvgaubG9O3Y-EfeEkA" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-12-02</pubdate>
+    <originator id="505" department-msg="no" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Gruppe Verteidigung</name>
+      <name lang="en">Defence group</name>
+      <name lang="fr">Groupement Défense</name>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="rm">Gruppa da defensiun</name>
+      <www lang="rm">http://www.vtg.admin.ch/</www>
+      <www lang="de">http://www.vtg.admin.ch/</www>
+      <www lang="en">http://www.vtg.admin.ch/</www>
+      <www lang="fr">http://www.vtg.admin.ch/fr</www>
+      <www lang="it">http://www.vtg.admin.ch/it</www>
+      <email lang="de"> </email>
+      <email lang="en"> </email>
+      <email lang="fr"> </email>
+      <email lang="it"> </email>
+      <email lang="rm"> </email>
+    </originator>
+    <originator id="506" department-msg="no" lead="yes" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Bundesamt für Rüstung armasuisse</name>
+      <name lang="en">Federal Office for Defence Procurement armasuisse</name>
+      <name lang="fr">Office fédéral de l'armement armasuisse</name>
+      <name lang="it">Ufficio federale dell'armamento armasuisse</name>
+      <name lang="rm">Uffizi federal da l’armament armasuisse</name>
+      <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="de">http://www.ar.admin.ch/de</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
+      <www lang="fr">http://www.ar.admin.ch/</www>
+    </originator>
+    <originator id="502" department-msg="no" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="rm">Secretariat general dal DDPS</name>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
+      <www lang="de">http://www.vbs.admin.ch/</www>
+      <www lang="en">http://www.vbs.admin.ch/</www>
+      <www lang="fr">http://www.vbs.admin.ch/fr</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+    </originator>
+    <keywords/>
+    <department id="501">
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
+      <www lang="en">https://www.vbs.admin.ch/en</www>
+      <www lang="fr">https://www.vbs.admin.ch/fr</www>
+      <www lang="it">https://www.vbs.admin.ch/it</www>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Schweiz und USA starten Forschungsprojekt «A-VIPER» zur automatisierten Erkennung von Softwareschwachstellen</title>
+      <lead>Das Bundesamt für Rüstung armasuisse und das U.S. Air Force Research Laboratory (AFRL) haben das Forschungsprojekt «A-VIPER» gestartet. Es basiert auf dem bestehenden Rahmenabkommen zwischen dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und dem US-Verteidigungsdepartement (DoD). Es zielt darauf ab, die automatisierte Identifikation, Analyse und Priorisierung von Software-Schwachstellen in sicherheitskritischen Systemen entscheidend weiterzuentwickeln.</lead>
+      <text link="no">&lt;p&gt;Kern des Projekts ist eine gemeinsame Entwicklung einer Software-Umgebung, die Analysewerkzeuge und technische Verfahren bündelt, um Schwachstellen zu erkennen, zu untersuchen und nach ihrer Kritikalität zu bewerten. Die Schweiz, vertreten durch armasuisse Wissenschaft und Technologie, fokussiert auf Methoden zur Analyse von Binärcode. Die AFRL entwickelt Verfahren auf Basis von Source Code. Beide Seiten integrieren ihre Ansätze, entwickeln die Analyseumgebung und erforschen Techniken, die Hinweise auf Schwachstellen automatisiert erzeugen, gewichten und in ein priorisiertes Lagebild überführen. Die entwickelten Technologien werden an realen Systemen getestet und auf ihre operative Relevanz für die militärischen Endnutzer geprüft.&lt;/p&gt; &lt;h2&gt;Stärkung der Cybersicherheit&lt;/h2&gt; &lt;p&gt;Mit dem Projekt «Automated Vulnerability Identification Prioritization for Embedded Resources» (A-VIPER) wollen die Partnerstaaten die Cybersicherheit stärken. Es soll neue wissenschaftliche Erkenntnisse bringen, die Analysequalität in der Software-Sicherheitsforschung erhöhen und sicherheitskritische Systeme langfristig in der praktischen Anwendung widerstandsfähiger gegen Angriffe machen. Die Kooperation vertieft die technologische Zusammenarbeit zwischen der Schweiz und den USA und schafft eine gemeinsame Basis für künftige Forschungs- und Entwicklungsaktivitäten im Bereich Cyber-Defence. Das Forschungsprojekt läuft fünf Jahre bis 2030.&lt;/p&gt; &lt;h2&gt;Zum Rahmenabkommen&lt;/h2&gt; &lt;p&gt;Das Agreement for Research, Development, Test and Evaluation Projects (RDT&amp;amp;E) ist ein Rahmenabkommen zwischen dem US-Verteidigungsdepartement und dem VBS. Es gilt seit dem 17. April 2019 und bildet die Grundlage für gemeinsame Forschungs-, Entwicklungs-, Test- und Evaluationsprojekte im Verteidigungsbereich.&lt;/p&gt;</text>
+      <contact>Stellvertretende Leiterin Kommunikation Kommunikation armasuisse Daniela Renzo +41 58 464 41 96</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Suisse et les États-Unis lancent le projet de recherche « A-VIPER » sur la détection automatisée des vulnérabilités logicielles</title>
+      <lead>L’Office fédéral de l’armement armasuisse et l’U.S. Air Force Research Laboratory (AFRL) ont lancé le projet de recherche « A-VIPER ». Il est basé sur l’accord-cadre actuel entre le Département fédéral de la défense, de la protection de la population et des sports (DDPS) et le Département de la Défense des États-Unis (DoD) et vise à développer de manière décisive l’identification, l’analyse et la priorisation automatisées des vulnérabilités logicielles dans les systèmes critiques pour la sécurité.</lead>
+      <text link="no">&lt;p&gt;Au cœur du projet se trouve le développement conjoint d’un environnement logiciel regroupant des outils d’analyse et des procédures techniques destinés à identifier les vulnérabilités, les étudier et les évaluer selon leur criticité. La Suisse, représentée par armasuisse Sciences et technologies, se concentre sur les méthodes d’analyse du code binaire. L’AFRL développe des procédures basées sur le code source. Les deux parties intègrent leurs approches, développent l’environnement d’analyse et explorent des techniques qui génèrent automatiquement des indications sur les vulnérabilités, les pondèrent et les retranscrivent dans une image de la situation priorisée. Les technologies développées seront testées sur des systèmes réels et leur pertinence opérationnelle pour les utilisateurs finaux militaires sera examinée.&lt;/p&gt; &lt;h2&gt;Renforcement de la cybersécurité&lt;/h2&gt; &lt;p&gt;Avec le projet « Automated Vulnerability Identification Prioritization for Embedded Resources » (A-VIPER), les États partenaires entendent renforcer la cybersécurité. Il doit apporter de nouvelles connaissances scientifiques, améliorer la qualité d’analyse dans la recherche sur la sécurité logicielle et rendre à long terme les systèmes critiques pour la sécurité plus résistants aux attaques dans leur application pratique. La coopération approfondit la collaboration technologique entre la Suisse et les États-Unis et établit une base commune pour de futures activités de recherche et développement dans le domaine de la cyberdéfense. Le projet de recherche s’étend sur cinq ans jusqu’en 2030.&lt;/p&gt; &lt;h2&gt;À propos de l’accord-cadre&lt;/h2&gt; &lt;p&gt;L’Agreement for Research, Development, Test and Evaluation Projects (RDT&amp;amp;E) est un accord-cadre entre le département de la Défense des États-Unis et le DDPS. Il est en vigueur depuis le 17 avril 2019 et constitue la base des projets communs de recherche, développement, test et évaluation dans le domaine de la défense.&lt;/p&gt;</text>
+      <contact>Adjointe responsable de la communication Communication armasuisse Daniela Renzo +41 58 464 41 96</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Svizzera e Stati Uniti avviano il progetto di ricerca bilaterale «A-VIPER» per il riconoscimento automatizzato delle vulnerabilità software</title>
+      <lead>L’Ufficio federale dell&amp;#39;armamento armasuisse e l’U.S. Air Force Research Laboratory (AFRL) hanno avviato il progetto di ricerca «A-VIPER». Il progetto si basa sull’accordo quadro esistente tra il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) e il Dipartimento della Difesa degli Stati Uniti, con l’obiettivo di sviluppare in modo decisivo l’identificazione, l’analisi e la priorizzazione automatizzate delle vulnerabilità software nei sistemi critici per la sicurezza.</lead>
+      <text link="no">&lt;p&gt;Il fulcro del progetto è lo sviluppo congiunto di un ambiente software che integra strumenti di analisi e procedure tecniche per individuare, esaminare e valutare le vulnerabilità in base al loro livello di criticità. La Svizzera, rappresentata da armasuisse Scienza e tecnologia, si concentra sui metodi per l’analisi del codice binario, mentre l’AFRL sviluppa procedure basate sul codice sorgente. Entrambe le parti integrano i rispettivi approcci, sviluppano l’ambiente di analisi ed esplorano tecniche in grado di generare automaticamente indicazioni sulle vulnerabilità, di ponderarle e di tradurle in un quadro della situazione priorizzato. Le tecnologie sviluppate saranno testate su sistemi reali e valutate sotto il profilo della loro rilevanza operativa per gli utenti finali militari.&lt;/p&gt; &lt;h2&gt;Rafforzamento della cibersicurezza&lt;/h2&gt; &lt;p&gt;Con il progetto «Automated Vulnerability Identification Prioritization for Embedded Resources» (A-VIPER), gli Stati partner intendono rafforzare la cibersicurezza. Il progetto mira a fornire nuovi risultati scientifici, a migliorare la qualità delle analisi nella ricerca sulla sicurezza del software e a rendere, nel lungo periodo, i sistemi critici per la sicurezza più resilienti agli attacchi nella loro applicazione pratica. La cooperazione approfondisce la collaborazione tecnologica tra la Svizzera e gli Stati Uniti e crea una base comune per future attività di ricerca e sviluppo nel settore della ciberdifesa. Il progetto ha una durata quinquennale e terminerà nel 2030.&lt;/p&gt; &lt;h2&gt;L’accordo quadro&lt;/h2&gt; &lt;p&gt;L’Agreement for Research, Development, Test and Evaluation Projects (RDT&amp;amp;E) è un accordo quadro tra il Dipartimento della Difesa degli Stati Uniti e il DDPS. È in vigore dal 17 aprile 2019 e costituisce la base per progetti congiunti di ricerca, sviluppo, test e valutazione nel settore della difesa.&lt;/p&gt;</text>
+      <contact>Vice responsabile della comunicazione Comunicazione armasuisse Daniela Renzo +41 58 464 41 96</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Switzerland and the USA launch “A-VIPER” research project focusing on the automated identification of software vulnerabilities</title>
+      <lead>The Federal Office for Defence Procurement armasuisse and the U.S. Air Force Research Laboratory (AFRL) have launched the “A-VIPER” research project. It is based on the existing framework agreement between the Swiss Federal Department of Defence, Civil Protection and Sport (DDPS) and the US Department of Defense (DoD). The aim of the project is to further develop the automated identification, analysis and prioritisation of software vulnerabilities in security-critical systems.</lead>
+      <text link="no">&lt;p&gt;The project focuses on the joint development of a software environment that includes analysis tools and technical procedures to identify and investigate vulnerabilities before assessing their level of criticality. Representing Switzerland, armasuisse Science and Technology will focus on methods for analysing binary code. The AFRL is developing source-code-based methods. Both parties are integrating their approaches, developing the analysis environment and researching technologies that automatically indicate when a vulnerability is identified, assign its priority and convert these into a prioritised operational picture. The developed technologies will be tested on real systems and evaluated for their operational relevance to military end-users.&lt;/p&gt; &lt;h2&gt;Strengthening cyber security&lt;/h2&gt; &lt;p&gt;Through the “Automated Vulnerability Identification Prioritization for Embedded Resources” (A-VIPER) project, the partner countries aim to strengthen cybersecurity. Its purpose is to generate new scientific insights that increase the quality of analyses in software security research and in the long term make security-critical systems more resilient to attacks in practice. The cooperation will further deepen the technological collaboration between Switzerland and the USA, and lay the foundation for future cyber-defence research. A-VIPER will run for five years until 2030.&lt;/p&gt; &lt;h2&gt;The framework agreement&lt;/h2&gt; &lt;p&gt;The Agreement for Research, Development, Test and Evaluation Projects (RDT&amp;amp;E) is a framework agreement between the US Department of Defence and the DDPS. It entered into force on 17 April 2019 and forms the basis for joint research, development, testing and evaluation projects in the defence sector.&lt;/p&gt;</text>
+      <contact>Deputy Head of Communications Communication armasuisse Daniela Renzo +41 58 464 41 96</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
+      </topic>
+      <topic id="345">
+        <name lang="de">Cybersicherheit</name>
+        <name lang="en">Cybersecurity</name>
+        <name lang="fr">Cybersécurité</name>
+        <name lang="it">Cibersicurezza</name>
+        <name lang="rm">Cybersegirezza</name>
+      </topic>
+      <topic id="548">
+        <name lang="rm">Politica d'armament</name>
+        <name lang="de">Rüstungspolitik</name>
+        <name lang="en">Arms procurement policy</name>
+        <name lang="fr">Politique d’armement</name>
+        <name lang="it">Politica d’armamento</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

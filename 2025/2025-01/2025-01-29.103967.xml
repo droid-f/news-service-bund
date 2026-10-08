@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="103967" revoked="no">
+    <type>Memorandum</type>
+    <version>4</version>
+    <pubdate>2025-01-29</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </originator>
+    <originator id="603" department-msg="no" lead="no" topnews="no">
+      <department-id>601</department-id>
+      <name lang="fr">Administration fédérale des finances</name>
+      <name lang="it">Amministrazione federale delle finanze</name>
+      <name lang="rm">Eidg. Finanzverwaltung</name>
+      <name lang="de">Eidg. Finanzverwaltung</name>
+      <www lang="fr">http://www.efv.admin.ch</www>
+      <www lang="it">http://www.efv.admin.ch</www>
+      <www lang="rm">http://www.efv.admin.ch</www>
+      <www lang="de">http://www.efv.admin.ch</www>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="rm">kommunikation@efv.admin.ch</email>
+      <email lang="de">kommunikation@efv.admin.ch</email>
+    </originator>
+    <originator id="805" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="fr">Office fédéral des transports</name>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="rm">Bundesamt für Verkehr</name>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
+      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
+      <www lang="rm">https://www.bav.admin.ch/bav/de/home.html</www>
+      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
+      <email lang="fr">presse@bav.admin.ch</email>
+      <email lang="it">presse@bav.admin.ch</email>
+      <email lang="rm">presse@bav.admin.ch</email>
+      <email lang="de">presse@bav.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="111" org-id="603">
+        <name lang="fr">Politique budgétaire</name>
+        <name lang="it">Politica in materia di entrate e uscite</name>
+        <name lang="rm">Ausgaben- und Einnahmenpolitik</name>
+        <name lang="de">Ausgaben- und Einnahmenpolitik</name>
+      </keyword>
+      <keyword id="101" org-id="603">
+        <name lang="fr">Budget</name>
+        <name lang="it">Consuntivo</name>
+        <name lang="rm">Budget</name>
+        <name lang="de">Budget</name>
+      </keyword>
+      <keyword id="213" org-id="603">
+        <name lang="fr">Programme d'allégement</name>
+        <name lang="it">Programma di sgravio</name>
+        <name lang="rm">Entlastungsprogramm</name>
+        <name lang="de">Entlastungsprogramm</name>
+      </keyword>
+      <keyword id="109" org-id="603">
+        <name lang="fr">Plan financier</name>
+        <name lang="it">Piano finanziario</name>
+        <name lang="rm">Finanzplan</name>
+        <name lang="de">Finanzplan</name>
+      </keyword>
+    </keywords>
+    <department id="601">
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Eidgenössisches Finanzdepartement</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="rm">https://www.efd.admin.ch/de</www>
+      <www lang="de">https://www.efd.admin.ch/de</www>
+      <email lang="fr">info@gs-efd.admin.ch</email>
+      <email lang="it">info@gs-efd.admin.ch</email>
+      <email lang="rm">info@gs-efd.admin.ch</email>
+      <email lang="de">info@gs-efd.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+    </department>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral met en consultation le programme d’allégement budgétaire 2027</title>
+      <lead>À sa séance du 29 janvier 2025, le Conseil fédéral a adopté le projet d’allégement budgétaire 2027 et ouvert la procédure de consultation à ce sujet. Les mesures qu’il propose permettront d’alléger les finances fédérales de 2,7 milliards de francs en 2027 et de 3,6 milliards de francs en 2028, et d’en rétablir ainsi l’équilibre. Plus de la moitié des 59 mesures prévues exigent une modification légale. Malgré l’exécution du programme d’allégement budgétaire, les dépenses de la Confédération continueront à moyen terme à croître de plus de 2 % par an. La procédure de consultation dure jusqu’au 5 mai 2025.</lead>
+      <text link="no">&lt;p&gt;La planification financière actuelle montre que la Confédération risque des déficits structurels pouvant atteindre 3 milliards de francs en 2027 et en 2028, étant donné que les dépenses croissent beaucoup plus rapidement que les recettes. Si aucune mesure n’est prise, les exigences constitutionnelles du frein à l’endettement ne pourront plus être respectées. Il est vrai que les recettes de la Confédération devraient s’améliorer au moins à court terme (les chiffres budgétaires mis à jour seront disponibles à la mi-février) et que la solution proposée par le Conseil des États pour le financement de l’accueil extrafamilial des enfants allégera les finances fédérales de 0,8 milliard de francs par an. En revanche, le budget de la Confédération pourrait être davantage grevé par deux autres décisions du Parlement, à savoir celle qui consiste à augmenter les ressources financières de l’armée plus rapidement que ne le prévoyait le Conseil fédéral (+ 0,5 milliard de francs par an) et celle, encore en suspens, qui concerne la participation de la Confédération au financement de la 13e rente AVS (potentiellement + 1 milliard de francs à partir de 2026). D’autres dépenses supplémentaires importantes devraient provenir non seulement des relations avec l’Union européenne (programmes Horizon et Erasmus, et contribution à la cohésion de l’UE), mais aussi de l’éventuelle abolition de l’imposition de la valeur locative. Du point de vue actuel, la nécessité d’un allégement budgétaire à partir de 2027 reste donc élevée. La mise en place des mesures proposées est notamment indispensable pour accélérer l’accroissement des ressources budgétaires de l’armée et financer la contribution de la Confédération à l’AVS.&lt;/p&gt;&lt;p&gt;Au total, l’allégement se montera à 2,7 milliards de francs en 2027 et à 3,6 milliards de francs en 2028 après l’application de 59 mesures (cf. annexes), dont 36 exigent un remaniement des lois correspondantes. Les changements requis sont regroupés dans l’acte modificateur unique qui fait l’objet de la procédure de consultation ouverte ce jour. Les mesures qui ne nécessitent pas de modification légale pourront être exécutées dans le cadre du processus budgétaire ordinaire.&lt;/p&gt;&lt;h2&gt;Définition concrète du train de mesures&lt;/h2&gt;&lt;p&gt;Le programme d’allégement budgétaire 2027 se concentre, pour plus de 90 %, sur les dépenses, étant donné que la plus grande partie du déficit tient à leur trop forte croissance. Les quelque 300 millions de francs de recettes supplémentaires prévues proviennent, pour l’essentiel, de la suppression ou de la réduction d’exonérations fiscales et d’allégements fiscaux. Le Conseil fédéral juge important que tous les groupes de tâches contribuent à l’assainissement des finances et que l’administration fédérale participe aussi à ce dernier à hauteur de 300 millions de francs, en opérant notamment des économies dans le domaine du personnel. Les recettes affichant une croissance solide, les dépenses de la Confédération continueront à moyen terme à croître de plus de 2 % par an, malgré l’exécution des mesures d’allégement prévues.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral a adopté les grandes lignes du programme d’allégement budgétaire le 20 septembre 2024. Depuis, il a approfondi et défini concrètement les mesures qu’il entendait prendre. Les modifications sont minimes dans l’ensemble. Le changement le plus important réside dans la décision que le Conseil des États a prise en décembre 2024 sur la base des recommandations du groupe d’experts et de l’avis du Conseil fédéral, à savoir ne pas assujettir la Confédération à l’obligation d’octroyer de nouvelles contributions à l’accueil extrafamilial des enfants. Ainsi, l’assainissement requis dans le programme d’allégement budgétaire 2027 est inférieur d’environ 800 millions de francs par an aux grandes lignes définies en septembre 2024.&lt;/p&gt;&lt;p&gt;En outre, les estimations des &lt;b&gt;dépenses &lt;/b&gt;n’ont pas fait l’objet de précisions, d’ajustements ou de corrections de grande envergure, si bien que le volume d’allégement reste, pour l’essentiel, le même que celui qui a été calculé en septembre 2024 et qu’aucune des mesures retenues alors n’a été biffée. Pour ce qui est du financement des instruments d’encouragement mentionnés dans la loi fédérale sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl), il est prévu de relever temporairement (jusqu’en 2031) la part de la taxe sur le CO₂ affectée à ces encouragements, en la faisant passer d’un tiers à 41 %.&lt;/p&gt;&lt;p&gt;La mise aux enchères des contingents tarifaires de produits agricoles fera augmenter les &lt;b&gt;recettes &lt;/b&gt;à quelque 130 millions de francs (contre 80 millions à l’heure actuelle). Le Conseil fédéral ayant remanié la proposition du groupe d’experts quant à l’imposition des retraits en capital du 2e pilier et du pilier 3a, ces retraits continueront à être fiscalisés séparément du reste du revenu, mais ils seront soumis à un barème spécial progressif au lieu des barèmes actuels. L’avantage fiscal dont les retraits en capital bénéficient par rapport aux rentes sera ainsi moindre qu’à l’heure actuelle. Les retraits de faible ampleur tels qu’ils sont opérés en général dans le pilier 3a resteront toutefois soumis à des taux d’imposition très réduits. Ces modifications généreront des recettes supplémentaires de quelque 200 millions de francs (contre 280 millions à l’heure actuelle). Comme aujourd’hui, l’épargne vieillesse que les personnes constituent au cours de leur vie professionnelle fera l’objet d’une imposition en aval.&lt;/p&gt;&lt;h2&gt;Levée de blocages de crédits prévus dans le budget 2025&lt;/h2&gt;&lt;p&gt;Les décisions du Parlement concernant le budget 2025 se traduiront en 2025 par le déblocage des crédits suivants : manifestations sportives internationales, systèmes de propulsion alternatifs pour bus et bateaux, transport ferroviaire transfrontalier de voyageurs (trains de nuit). Les mesures proposées dans ces domaines continuent toutefois à faire partie intégrante du projet mis en consultation.&lt;/p&gt;&lt;h2&gt;Prochaines étapes&lt;/h2&gt;&lt;p&gt;À la mi-février 2025, le Conseil fédéral fera le point sur les finances de la Confédération au moyen des chiffres budgétaires mis à jour. Il décidera lors des travaux d’élaboration du budget 2026 s’il est opportun d’avancer à 2026 l’exécution des mesures qui n’exigent pas de modification légale et, le cas échéant, déterminera de quelles mesures il s’agit. &lt;/p&gt;&lt;p&gt;La procédure de consultation dure jusqu’au 5 mai 2025. Ses résultats serviront de base à la rédaction du message, que le Conseil fédéral prévoit d’adopter à l’intention du Parlement en septembre 2025. Si ce calendrier est respecté, les Chambres fédérales pourront examiner le programme d’allégement budgétaire 2027 durant la session d’hiver 2025. Le train de mesures proposé étant sujet au référendum, les modifications légales qu’il exige devraient entrer en vigueur au plus tôt au début de l’année 2027.&lt;/p&gt;</text>
+      <link id="284742">
+        <title>Communiqué de presse du Conseil fédéral du 20 septembre 2024 sur les grandes lignes du programme d’allégement des finances fédérales</title>
+        <uri>https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-102538.html</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="284735">
+        <title>Vue d’ensemble des mesures</title>
+        <format>pdf</format>
+        <size-kb>300</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91623.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284736">
+        <title>Aperçu des mesures par groupe de tâches</title>
+        <format>pdf</format>
+        <size-kb>175</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91552.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284737">
+        <title>Projet mis en consultation</title>
+        <format>pdf</format>
+        <size-kb>890</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91553.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284738">
+        <title>Tableau synoptique</title>
+        <format>pdf</format>
+        <size-kb>534</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91554.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284739">
+        <title>Rapport explicatif</title>
+        <format>pdf</format>
+        <size-kb>1522</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91560.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284740">
+        <title>Lettre aux cantons</title>
+        <format>pdf</format>
+        <size-kb>170</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91555.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284741">
+        <title>Lettre aux organisations</title>
+        <format>pdf</format>
+        <size-kb>158</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91556.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284750">
+        <title>Adressatenliste / Liste des destinataires / Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>122</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91566.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Communication&#13; Administration fédérale des finances AFF&#13; Tél. +41 58 465 16 06, kommunikation@efv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale indice la consultazione sulle misure di sgravio applicabili dal 2027</title>
+      <lead>Nella seduta del 29 gennaio 2025, il Consiglio federale ha adottato l’avamprogetto sulle misure di sgravio applicabili dal 2027. Il progetto intende sgravare nell’ordine di 2,7–3,6 miliardi di franchi il bilancio della Confederazione e riportarlo in equilibrio a partire dal 2027. Oltre la metà delle 59 misure proposte necessita di una modifica di legge. Pur attuando le misure di sgravio, le uscite della Confederazione nel medio termine continueranno a crescere di oltre due punti percentuali all’anno. La consultazione si concluderà il 5 maggio 2025.</lead>
+      <text link="no">&lt;p&gt;Sulla base dell’attuale pianificazione finanziaria, nei piani finanziari 2027 e 2028 la Confederazione prevede deficit strutturali di finanziamento per un importo massimo di 3 miliardi di franchi. Questa situazione è da ricondurre alla crescita decisamente più rapida delle uscite rispetto alle entrate. Senza ricorrere a contromisure non è più possibile pensare di riuscire a rispettare le disposizioni costituzionali imposte dal freno all’indebitamento. Sul fronte delle entrate la Confederazione prevede almeno nel breve termine un miglioramento (i dati finanziari aggiornati saranno disponibili a metà febbraio). Anche la proposta del Consiglio degli Stati relativa al finanziamento della custodia di bambini complementare alla famiglia sgrava il bilancio della Confederazione (-fr. 0,8 mia. all’anno). Il Parlamento ha tuttavia deciso una crescita più rapida delle uscite per l’esercito rispetto al Consiglio federale (+fr. 0,5 mia. all’anno). Inoltre, la questione del finanziamento della 13esima rendita AVS, che potrebbe gravare ulteriormente la Confederazione già a partire dal 2026 per un importo pari a 1 miliardo di franchi, non è ancora stata risolta. Ulteriori e significativi oneri supplementari sono attesi in relazione al dossier UE (Horizon, Erasmus+, contributo di coesione) e all’eventuale abolizione del valore locativo. Ad oggi, la necessità delle misure di sgravio applicabili dal 2027 resta quindi elevata. L’attuazione delle misure costituisce, non da ultimo, la condizione per una crescita più rapida delle uscite per l’esercito e per il finanziamento del contributo della Confederazione a favore dell’AVS.&lt;/p&gt;&lt;p&gt;Il volume complessivo delle misure di sgravio ammonta a 2,7 miliardi di franchi nel 2027 e 3,6 miliardi di franchi nel 2028 ed è ripartito su 59 misure (cfr. allegati). Di queste misure, 36 richiedono modifiche di legge che sono state riassunte in un atto mantello sul quale viene svolta la presente procedura di consultazione. Le misure per le quali non sono necessarie modifiche di legge possono essere attuate nel processo di preventivazione.&lt;/p&gt;&lt;h2&gt;Concretizzazione delle misure di sgravio&lt;/h2&gt;&lt;p&gt;La correzione del bilancio della Confederazione avverrà prevalentemente sul fronte delle uscite, poiché i deficit sono in larga misura da ricondurre a una crescita troppo sostenuta delle uscite: oltre il 90 per cento del volume di sgravio è ottenuto intervenendo sulle uscite, mentre circa 300 milioni di franchi sono recuperati attraverso misure sul fronte delle entrate, che prevedono in particolare la soppressione o la riduzione di esenzioni e agevolazioni fiscali. Il Consiglio federale ritiene importante che tutti i settori di compiti forniscano un contributo. Anche l’Amministrazione federale contribuisce con 300 milioni di franchi alla correzione finanziaria, in particolare mediante risparmi nell’ambito del personale. Grazie alla solida crescita delle entrate e nonostante l’attuazione delle misure di sgravio, le uscite della Confederazione nel medio termine potranno continuare a crescere di oltre due punti percentuali all’anno.&lt;/p&gt;&lt;p&gt;Dal momento in cui, il 20 settembre 2024, il Consiglio federale ha definito i valori di riferimento, le misure proposte sono state ulteriormente approfondite e concretizzate. Le modifiche sono complessivamente minime. La modifica più significativa consiste nel fatto che il Consiglio degli Stati ha seguito nel dicembre 2024 la raccomandazione del gruppo di esperti e la posizione del Consiglio federale di rinunciare a nuovi contributi della Confederazione per la custodia di bambini complementare alla famiglia; ne consegue che la necessità di correzione e quindi anche il volume di sgravio delle misure si riduce di circa 800 milioni di franchi all’anno rispetto ai valori di riferimento di settembre 2024.&lt;/p&gt;&lt;p&gt;Inoltre, &lt;b&gt;sul fronte delle uscite&lt;/b&gt; sono state apportate alcune precisazioni, modifiche e correzioni delle stime. Il volume di sgravio è rimasto in larga misura invariato e nessuna misura proposta è stata eliminata. È opportuno sottolineare la proposta di finanziamento di programmi di promozione nel settore del clima previsti dalla legge federale sugli obiettivi in materia di protezione del clima, l’innovazione e il rafforzamento della sicurezza energetica. Nello specifico, un aumento limitato al 2031 della destinazione parzialmente vincolata della tassa sul CO2 dall’attuale un terzo al 41 per cento ha lo scopo di garantire questo finanziamento.&lt;/p&gt;&lt;p&gt;Per quanto riguarda &lt;b&gt;le misure sul fronte delle entrate&lt;/b&gt;, le maggiori entrate derivanti dalla vendita all’asta di contingenti doganali per prodotti agricoli ammonteranno a circa 130 milioni di franchi (finora fr. 80 mio.). In relazione all’imposizione dei prelievi di capitale dai pilastri 2 e 3a, il Consiglio federale ha adattato il modello rispetto alla proposta del gruppo di esperti. I prelievi di capitale continueranno pertanto a essere imposti indipendentemente dal resto del reddito. Una nuova tariffa speciale progressiva sostituirà le attuali tariffe. L’agevolazione fiscale dei prelievi di capitale rispetto alla riscossione della rendita viene quindi ridotta; i prelievi di piccole somme, tipici per il pilastro 3a, continuano tuttavia a essere imposti ad aliquote molto moderate. Ne conseguono maggiori entrate pari a circa 200 milioni di franchi (finora fr. 280 mio.). I risparmi per la vecchiaia durante la vita lavorativa continueranno a essere promossi attraverso l’imposizione posticipata.&lt;/p&gt;&lt;h2&gt;Revoca di blocchi di crediti nel preventivo 2025&lt;/h2&gt;&lt;p&gt;Sulla base delle decisioni del Parlamento sul preventivo 2025, per il 2025 vengono revocati i seguenti blocchi di credito: manifestazioni sportive internazionali, sistemi di trazione alternativa per autobus e navi, trasporto ferroviario transfrontaliero di passeggeri (treni notturni). Le misure in questi settori restano tuttavia parte integrante dell’avamprogetto.&lt;/p&gt;&lt;h2&gt;Fasi successive&lt;/h2&gt;&lt;p&gt;A metà febbraio 2025 il Consiglio federale effettuerà sulla base dei dati finanziari aggiornati una valutazione della situazione politico-finanziaria. Nel quadro del preventivo 2026 deciderà se e quali misure che non necessitano di modifiche di legge attuare già nel 2026.&lt;/p&gt;&lt;p&gt;La consultazione si concluderà il 5 maggio 2025. In seguito verrà elaborato il messaggio che sarà presumibilmente licenziato dal Consiglio federale all’attenzione del Parlamento a settembre 2025. Nella sessione invernale 2025, il Parlamento potrebbe quindi iniziare con le deliberazioni sulle misure di sgravio applicabili dal 2027. Le misure di sgravio sottostanno a referendum facoltativo. L’entrata in vigore delle modifiche legislative è prevista a inizio 2027.&lt;/p&gt;</text>
+      <link id="284751">
+        <title>Comunicato stampa del 20 settembre 2024 sui valori di riferimento del pacchetto di sgravio</title>
+        <uri>https://www.admin.ch/gov/it/pagina-iniziale/documentazione/comunicati-stampa.msg-id-102538.html</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="284743">
+        <title>Tabella Panoramica sulle misure di sgravio</title>
+        <format>pdf</format>
+        <size-kb>412</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91624.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284744">
+        <title>Panoramica sui settori di compiti interessati</title>
+        <format>pdf</format>
+        <size-kb>149</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91558.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284745">
+        <title>Avamprogetto</title>
+        <format>pdf</format>
+        <size-kb>876</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91561.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284746">
+        <title>Tavola sinottica</title>
+        <format>pdf</format>
+        <size-kb>587</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91606.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284747">
+        <title>Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>1411</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91563.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284748">
+        <title>Lettera ai Cantoni</title>
+        <format>pdf</format>
+        <size-kb>152</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91564.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284749">
+        <title>Lettera alle organizzazioni</title>
+        <format>pdf</format>
+        <size-kb>152</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91565.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284750">
+        <title>Adressatenliste / Liste des destinataires / Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>122</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91566.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Comunicazione&#13; Amministrazione federale delle finanze AFF&#13; Tel. +41 58 465 16 06, kommunikation@efv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat eröffnet Vernehmlassung zum Entlastungspaket 27</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 29. Januar 2025 die Vernehmlassungsvorlage zum Entlastungspaket 27 (EP27) verabschiedet. Die Vorlage soll den Bundeshaushalt ab 2027 um 2,7 bis 3,6 Milliarden Franken entlasten und wieder ins Gleichgewicht bringen. Mehr als die Hälfte der insgesamt 59 vorgeschlagenen Massnahmen bedingt eine Gesetzesänderung. Die Bundesausgaben werden trotz des Entlastungspakets mittelfristig weiterhin um mehr als 2 Prozent pro Jahr wachsen. Die Vernehmlassung dauert bis am 5. Mai 2025.</lead>
+      <text link="no">&lt;p&gt;In den Finanzplanjahren 2027 und 2028 erwartet der Bund gemäss aktueller Finanzplanung strukturelle Defizite von bis zu 3 Milliarden Franken. Dies ist auf das deutlich schnellere Wachstum der Ausgaben im Vergleich zu den Einnahmen zurückzuführen. Ohne Gegenmassnahmen können die verfassungsrechtlichen Vorgaben der Schuldenbremse nicht mehr eingehalten werden. Auf der Einnahmenseite geht der Bund zumindest kurzfristig zwar von einer Verbesserung aus (aktualisierte Haushaltszahlen liegen Mitte Februar vor), und auch der ständerätliche Vorschlag zur Finanzierung der familienergänzenden Kinderbetreuung entlastet den Bundeshaushalt (-0,8 Mrd. p.a.). Allerdings hat das Parlament ein rascheres Armeewachstum als der Bundesrat beschlossen (+0,5 Mrd. p.a.) und die Finanzierung der 13. AHV-Rente ist nach wie vor ungeklärt, die den Bund bereits ab 2026 mit bis zu 1 Milliarde Franken zusätzlich belasten könnte. Mit weiteren bedeutenden Mehrbelastungen ist im Zusammenhang mit dem EU-Dossier zu rechnen (Horizon, Erasmus, Kohäsionsbeitrag), aber auch mit der allfälligen Abschaffung des Eigenmietwerts. Der Bedarf für das Entlastungspaket 27 bleibt Stand heute daher unverändert hoch. Die Umsetzung der Massnahmen ist nicht zuletzt Voraussetzung für ein beschleunigtes Armeewachstum und für die Finanzierung des Bundesbeitrages an die AHV.&lt;/p&gt;&lt;p&gt;Das Gesamtvolumen des Entlastungspakets beträgt 2,7 Milliarden Franken im Jahr 2027 und 3,6 Milliarden Franken im Jahr 2028, verteilt auf 59 Massnahmen (vgl. Beilagen). Davon erfordern 36 eine Gesetzesänderung, die in einem Mantelerlass zusammengefasst werden sollen, zu dem die vorliegende Vernehmlassung erfolgt. Die Massnahmen ohne erforderliche Gesetzesänderung können im Budgetprozess umgesetzt werden.&lt;/p&gt;&lt;h2&gt;Konkretisierung des Massnahmenpakets&lt;/h2&gt;&lt;p&gt;Die Bereinigung des Bundeshaushalts soll mehrheitlich ausgabenseitig erfolgen, weil die Defizite im Wesentlichen auf ein zu starkes Ausgabenwachstum zurückzuführen sind: Über 90 Prozent des Entlastungsvolumens entfallen auf die Ausgabenseite, rund 300 Millionen Franken trägt die Einnahmenseite bei, dies primär in Form der Aufhebung oder Milderung von Steuerbefreiungen oder -vergünstigungen. Der Bundesrat erachtet es als wichtig, dass alle Aufgabenbereiche einen Beitrag leisten. Auch die Bundesverwaltung soll mit 300 Millionen Franken zur finanziellen Bereinigung beitragen, insbesondere durch Einsparungen im Personalbereich. Dank des soliden Einnahmenwachstums sollen die Ausgaben des Bundes aber trotz des Entlastungspakets mittelfristig weiterhin um mehr als 2 Prozent pro Jahr wachsen können.&lt;/p&gt;&lt;p&gt;Seit Verabschiedung der Eckwerte am 20. September 2024 durch den Bundesrat wurden die vorgeschlagenen Massnahmen weiter vertieft und konkretisiert. Die Änderungen sind insgesamt geringfügig. Die gewichtigste Änderung ist, dass der Ständerat im Dezember 2024 der Empfehlung der Expertengruppe sowie der Haltung des Bundesrates gefolgt ist, auf neue Bundesbeiträge an die familienergänzende Kinderbetreuung zu verzichten; damit fallen der Bereinigungsbedarf und folglich auch das Entlastungsvolumen des EP27 gegenüber den Eckwerten von September 2024 um rund 800 Millionen Franken pro Jahr tiefer aus.&lt;/p&gt;&lt;p&gt;Darüber hinaus wurden auf der &lt;b&gt;Ausgabenseite &lt;/b&gt;kleinere Präzisierungen, Justierungen und Schätzkorrekturen vorgenommen, wobei das Entlastungsvolumen weitgehend erhalten bleibt und keine Massnahmenvorschläge gestrichen wurden. Hervorzuheben ist der Vorschlag zur Finanzierung von Förderprogrammen im Klimabereich, die im Klima- und Innovationsgesetz (KIG) vorgesehen sind. Konkret soll diese Finanzierung mit einer bis 2031 befristeten Erhöhung der Teilzweckbindung der CO2-Abgabe von heute einem Drittel auf neu 41 Prozent sichergestellt werden.&lt;/p&gt;&lt;p&gt;Bei den &lt;b&gt;einnahmenseitigen Massnahmen&lt;/b&gt; werden die Mehreinnahmen aus der Versteigerung der Zollkontingente für Landwirtschaftsprodukte neu auf rund 130 Millionen Franken beziffert (bisher 80 Mio.). Bei der Besteuerung von Kapitalbezügen aus den Säulen 2 und 3a hat der Bundesrat das Modell gegenüber dem Vorschlag der Expertengruppe angepasst. Demnach sollen Kapitalbezüge weiterhin gesondert vom übrigen Einkommen besteuert werden, wobei ein neuer progressiver Spezialtarif die bisherigen Tarife ablöst. Die steuerliche Begünstigung von Kapitalbezügen im Vergleich zum Rentenbezug wird damit reduziert, tiefe Bezüge, wie sie für die Säule 3a typisch sind, werden aber weiterhin zu sehr gemässigten Sätzen besteuert. Es resultieren neu Mehreinnahmen von rund 200 Millionen Franken (bisher 280 Mio.). Das Alterssparen während des Erwerbslebens wird wie bisher durch die nachgelagerte Besteuerung gefördert.&lt;/p&gt;&lt;h2&gt;Aufhebung von Kreditsperren im Voranschlag 2025&lt;/h2&gt;&lt;p&gt;Aufgrund der Entscheide des Parlaments zum Voranschlag 2025 werden folgende Kreditsperren für das Jahr 2025 aufgehoben: internationale Sportanlässe, alternative Antriebssysteme für Busse und Schiffe, grenzüberschreitender Personenschienenverkehr (Nachtzüge). Die Massnahmen in diesen Bereichen bleiben aber Bestandteil der Vernehmlassungsvorlage.&lt;/p&gt;&lt;h2&gt;Weiteres Vorgehen&lt;/h2&gt;&lt;p&gt;Mitte Februar 2025 nimmt der Bundesrat auf Basis der aktualisierten Haushaltszahlen eine finanzpolitische Standortbestimmung vor. Im Rahmen des Budgets 2026 wird er entscheiden, ob und welche Massnahmen, die keine Gesetzesänderungen erfordern, bereits 2026 umgesetzt werden sollen. &lt;/p&gt;&lt;p&gt;Das Vernehmlassungsverfahren dauert bis zum 5. Mai 2025. Danach wird die Botschaft ausgearbeitet und voraussichtlich vom Bundesrat im September 2025 zu Handen des Parlaments verabschiedet. Das Parlament könnte somit in der Wintersession 2025 mit der Beratung des Entlastungspakets 27 beginnen. Das Paket unterliegt dem fakultativen Referendum. Ein Inkrafttreten der Gesetzesanpassungen ist auf Anfang 2027 vorgesehen.&lt;/p&gt;</text>
+      <link id="284734">
+        <title>Medienmitteilung Eckwerte Entlastungspaket vom 20.9.2024</title>
+        <uri>https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-102538.html</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="284727">
+        <title>Tabelle Übersicht Massnahmen</title>
+        <format>pdf</format>
+        <size-kb>282</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91622.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284728">
+        <title>Übersicht über die betroffenen Aufgabengebiete</title>
+        <format>pdf</format>
+        <size-kb>160</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91546.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284729">
+        <title>Vernehmlassungsvorlage</title>
+        <format>pdf</format>
+        <size-kb>853</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91547.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284730">
+        <title>Synopsis</title>
+        <format>pdf</format>
+        <size-kb>410</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91548.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284731">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>1000</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91559.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284732">
+        <title>Brief an die Kantone</title>
+        <format>pdf</format>
+        <size-kb>184</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91549.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284733">
+        <title>Brief an die Organisationen</title>
+        <format>pdf</format>
+        <size-kb>148</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91550.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284750">
+        <title>Adressatenliste / Liste des destinataires / Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>122</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91566.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Kommunikation&#13; Eidgenössische Finanzverwaltung EFV&#13; Tel. +41 58 4651606, kommunikation@efv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat eröffnet Vernehmlassung zum Entlastungspaket 27</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 29. Januar 2025 die Vernehmlassungsvorlage zum Entlastungspaket 27 (EP27) verabschiedet. Die Vorlage soll den Bundeshaushalt ab 2027 um 2,7 bis 3,6 Milliarden Franken entlasten und wieder ins Gleichgewicht bringen. Mehr als die Hälfte der insgesamt 59 vorgeschlagenen Massnahmen bedingt eine Gesetzesänderung. Die Bundesausgaben werden trotz des Entlastungspakets mittelfristig weiterhin um mehr als 2 Prozent pro Jahr wachsen. Die Vernehmlassung dauert bis am 5. Mai 2025.</lead>
+      <text link="no">&lt;p&gt;In den Finanzplanjahren 2027 und 2028 erwartet der Bund gemäss aktueller Finanzplanung strukturelle Defizite von bis zu 3 Milliarden Franken. Dies ist auf das deutlich schnellere Wachstum der Ausgaben im Vergleich zu den Einnahmen zurückzuführen. Ohne Gegenmassnahmen können die verfassungsrechtlichen Vorgaben der Schuldenbremse nicht mehr eingehalten werden. Auf der Einnahmenseite geht der Bund zumindest kurzfristig zwar von einer Verbesserung aus (aktualisierte Haushaltszahlen liegen Mitte Februar vor), und auch der ständerätliche Vorschlag zur Finanzierung der familienergänzenden Kinderbetreuung entlastet den Bundeshaushalt (-0,8 Mrd. p.a.). Allerdings hat das Parlament ein rascheres Armeewachstum als der Bundesrat beschlossen (+0,5 Mrd. p.a.) und die Finanzierung der 13. AHV-Rente ist nach wie vor ungeklärt, die den Bund bereits ab 2026 mit bis zu 1 Milliarde Franken zusätzlich belasten könnte. Mit weiteren bedeutenden Mehrbelastungen ist im Zusammenhang mit dem EU-Dossier zu rechnen (Horizon, Erasmus, Kohäsionsbeitrag), aber auch mit der allfälligen Abschaffung des Eigenmietwerts. Der Bedarf für das Entlastungspaket 27 bleibt Stand heute daher unverändert hoch. Die Umsetzung der Massnahmen ist nicht zuletzt Voraussetzung für ein beschleunigtes Armeewachstum und für die Finanzierung des Bundesbeitrages an die AHV.&lt;/p&gt;&lt;p&gt;Das Gesamtvolumen des Entlastungspakets beträgt 2,7 Milliarden Franken im Jahr 2027 und 3,6 Milliarden Franken im Jahr 2028, verteilt auf 59 Massnahmen (vgl. Beilagen). Davon erfordern 36 eine Gesetzesänderung, die in einem Mantelerlass zusammengefasst werden sollen, zu dem die vorliegende Vernehmlassung erfolgt. Die Massnahmen ohne erforderliche Gesetzesänderung können im Budgetprozess umgesetzt werden.&lt;/p&gt;&lt;h2&gt;Konkretisierung des Massnahmenpakets&lt;/h2&gt;&lt;p&gt;Die Bereinigung des Bundeshaushalts soll mehrheitlich ausgabenseitig erfolgen, weil die Defizite im Wesentlichen auf ein zu starkes Ausgabenwachstum zurückzuführen sind: Über 90 Prozent des Entlastungsvolumens entfallen auf die Ausgabenseite, rund 300 Millionen Franken trägt die Einnahmenseite bei, dies primär in Form der Aufhebung oder Milderung von Steuerbefreiungen oder -vergünstigungen. Der Bundesrat erachtet es als wichtig, dass alle Aufgabenbereiche einen Beitrag leisten. Auch die Bundesverwaltung soll mit 300 Millionen Franken zur finanziellen Bereinigung beitragen, insbesondere durch Einsparungen im Personalbereich. Dank des soliden Einnahmenwachstums sollen die Ausgaben des Bundes aber trotz des Entlastungspakets mittelfristig weiterhin um mehr als 2 Prozent pro Jahr wachsen können.&lt;/p&gt;&lt;p&gt;Seit Verabschiedung der Eckwerte am 20. September 2024 durch den Bundesrat wurden die vorgeschlagenen Massnahmen weiter vertieft und konkretisiert. Die Änderungen sind insgesamt geringfügig. Die gewichtigste Änderung ist, dass der Ständerat im Dezember 2024 der Empfehlung der Expertengruppe sowie der Haltung des Bundesrates gefolgt ist, auf neue Bundesbeiträge an die familienergänzende Kinderbetreuung zu verzichten; damit fallen der Bereinigungsbedarf und folglich auch das Entlastungsvolumen des EP27 gegenüber den Eckwerten von September 2024 um rund 800 Millionen Franken pro Jahr tiefer aus.&lt;/p&gt;&lt;p&gt;Darüber hinaus wurden auf der &lt;b&gt;Ausgabenseite &lt;/b&gt;kleinere Präzisierungen, Justierungen und Schätzkorrekturen vorgenommen, wobei das Entlastungsvolumen weitgehend erhalten bleibt und keine Massnahmenvorschläge gestrichen wurden. Hervorzuheben ist der Vorschlag zur Finanzierung von Förderprogrammen im Klimabereich, die im Klima- und Innovationsgesetz (KIG) vorgesehen sind. Konkret soll diese Finanzierung mit einer bis 2031 befristeten Erhöhung der Teilzweckbindung der CO2-Abgabe von heute einem Drittel auf neu 41 Prozent sichergestellt werden.&lt;/p&gt;&lt;p&gt;Bei den &lt;b&gt;einnahmenseitigen Massnahmen&lt;/b&gt; werden die Mehreinnahmen aus der Versteigerung der Zollkontingente für Landwirtschaftsprodukte neu auf rund 130 Millionen Franken beziffert (bisher 80 Mio.). Bei der Besteuerung von Kapitalbezügen aus den Säulen 2 und 3a hat der Bundesrat das Modell gegenüber dem Vorschlag der Expertengruppe angepasst. Demnach sollen Kapitalbezüge weiterhin gesondert vom übrigen Einkommen besteuert werden, wobei ein neuer progressiver Spezialtarif die bisherigen Tarife ablöst. Die steuerliche Begünstigung von Kapitalbezügen im Vergleich zum Rentenbezug wird damit reduziert, tiefe Bezüge, wie sie für die Säule 3a typisch sind, werden aber weiterhin zu sehr gemässigten Sätzen besteuert. Es resultieren neu Mehreinnahmen von rund 200 Millionen Franken (bisher 280 Mio.). Das Alterssparen während des Erwerbslebens wird wie bisher durch die nachgelagerte Besteuerung gefördert.&lt;/p&gt;&lt;h2&gt;Aufhebung von Kreditsperren im Voranschlag 2025&lt;/h2&gt;&lt;p&gt;Aufgrund der Entscheide des Parlaments zum Voranschlag 2025 werden folgende Kreditsperren für das Jahr 2025 aufgehoben: internationale Sportanlässe, alternative Antriebssysteme für Busse und Schiffe, grenzüberschreitender Personenschienenverkehr (Nachtzüge). Die Massnahmen in diesen Bereichen bleiben aber Bestandteil der Vernehmlassungsvorlage.&lt;/p&gt;&lt;h2&gt;Weiteres Vorgehen&lt;/h2&gt;&lt;p&gt;Mitte Februar 2025 nimmt der Bundesrat auf Basis der aktualisierten Haushaltszahlen eine finanzpolitische Standortbestimmung vor. Im Rahmen des Budgets 2026 wird er entscheiden, ob und welche Massnahmen, die keine Gesetzesänderungen erfordern, bereits 2026 umgesetzt werden sollen. &lt;/p&gt;&lt;p&gt;Das Vernehmlassungsverfahren dauert bis zum 5. Mai 2025. Danach wird die Botschaft ausgearbeitet und voraussichtlich vom Bundesrat im September 2025 zu Handen des Parlaments verabschiedet. Das Parlament könnte somit in der Wintersession 2025 mit der Beratung des Entlastungspakets 27 beginnen. Das Paket unterliegt dem fakultativen Referendum. Ein Inkrafttreten der Gesetzesanpassungen ist auf Anfang 2027 vorgesehen.&lt;/p&gt;</text>
+      <link id="284734">
+        <title>Medienmitteilung Eckwerte Entlastungspaket vom 20.9.2024</title>
+        <uri>https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-102538.html</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="284727">
+        <title>Tabelle Übersicht Massnahmen</title>
+        <format>pdf</format>
+        <size-kb>282</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91622.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284728">
+        <title>Übersicht über die betroffenen Aufgabengebiete</title>
+        <format>pdf</format>
+        <size-kb>160</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91546.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284729">
+        <title>Vernehmlassungsvorlage</title>
+        <format>pdf</format>
+        <size-kb>853</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91547.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284730">
+        <title>Synopsis</title>
+        <format>pdf</format>
+        <size-kb>410</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91548.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284731">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>1000</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91559.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284732">
+        <title>Brief an die Kantone</title>
+        <format>pdf</format>
+        <size-kb>184</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91549.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284733">
+        <title>Brief an die Organisationen</title>
+        <format>pdf</format>
+        <size-kb>148</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91550.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="284750">
+        <title>Adressatenliste / Liste des destinataires / Elenco dei destinatari</title>
+        <format>pdf</format>
+        <size-kb>122</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91566.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Kommunikation&#13; Eidgenössische Finanzverwaltung EFV&#13; Tel. +41 58 4651606, kommunikation@efv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="de">Bundesrat</name>
+      </topic>
+      <topic id="13">
+        <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="rm">Öffentliche Finanzen</name>
+        <name lang="de">Öffentliche Finanzen</name>
+      </topic>
+      <topic id="46">
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="rm">Verkehr</name>
+        <name lang="de">Verkehr</name>
+      </topic>
+      <topic id="5">
+        <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="rm">Behörden</name>
+        <name lang="de">Behörden</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

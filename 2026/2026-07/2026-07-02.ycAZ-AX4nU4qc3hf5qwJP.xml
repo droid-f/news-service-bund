@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="ycAZ-AX4nU4qc3hf5qwJP" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2026-07-02</pubdate>
+    <originator id="301" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="fr">https://www.edi.admin.ch/fr</www>
+      <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+    </originator>
+    <originator id="319" department-msg="no" lead="yes" topnews="no">
+      <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="en">Federal Social Insurance Office</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
+      <www lang="de">http://www.bsv.admin.ch/</www>
+      <email lang="en">media@bsv.admin.ch</email>
+      <email lang="fr">media@bsv.admin.ch</email>
+      <email lang="it">media@bsv.admin.ch</email>
+      <email lang="rm">media@bsv.admin.ch</email>
+      <email lang="de">media@bsv.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="SLW-318.2" org-id="319">
+        <name lang="de">AHV</name>
+        <name lang="en">Old Age Insurance</name>
+        <name lang="fr">AVS</name>
+        <name lang="it">AVS</name>
+      </keyword>
+      <keyword id="SLW-318.3" org-id="319">
+        <name lang="en">Supplementary Benefits</name>
+        <name lang="fr">Prestations complémentaires</name>
+        <name lang="it">Prestazioni complementari</name>
+        <name lang="de">Ergänzungsleistungen</name>
+      </keyword>
+      <keyword id="SLW-318.6" org-id="319">
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="en">Income Compensation</name>
+      </keyword>
+      <keyword id="SLW-318.5" org-id="319">
+        <name lang="en">Invalidity Insurance</name>
+        <name lang="fr">Assurance-invalidité</name>
+        <name lang="it">Assicurazione invalidità</name>
+        <name lang="de">Invalidenversicherung</name>
+      </keyword>
+      <keyword id="SLW-318.2" org-id="319">
+        <name lang="fr">AVS</name>
+        <name lang="it">AVS</name>
+        <name lang="de">AHV</name>
+        <name lang="en">Old Age Insurance</name>
+      </keyword>
+      <keyword id="SLW-318.6" org-id="319">
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="en">Income Compensation</name>
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+      </keyword>
+      <keyword id="SLW-318.5" org-id="319">
+        <name lang="en">Invalidity Insurance</name>
+        <name lang="fr">Assurance-invalidité</name>
+        <name lang="it">Assicurazione invalidità</name>
+        <name lang="de">Invalidenversicherung</name>
+      </keyword>
+      <keyword id="SLW-318.1" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="en">Social Insurances</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+      </keyword>
+      <keyword id="SLW-318.3" org-id="319">
+        <name lang="de">Ergänzungsleistungen</name>
+        <name lang="en">Supplementary Benefits</name>
+        <name lang="fr">Prestations complémentaires</name>
+        <name lang="it">Prestazioni complementari</name>
+      </keyword>
+      <keyword id="SLW-318.2" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="de">AHV</name>
+        <name lang="en">Old Age Insurance</name>
+        <name lang="fr">AVS</name>
+      </keyword>
+      <keyword id="SLW-318.3" org-id="319">
+        <name lang="en">Supplementary Benefits</name>
+        <name lang="fr">Prestations complémentaires</name>
+        <name lang="it">Prestazioni complementari</name>
+        <name lang="de">Ergänzungsleistungen</name>
+      </keyword>
+      <keyword id="SLW-318.6" org-id="319">
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="en">Income Compensation</name>
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+      </keyword>
+      <keyword id="SLW-318.5" org-id="319">
+        <name lang="de">Invalidenversicherung</name>
+        <name lang="en">Invalidity Insurance</name>
+        <name lang="fr">Assurance-invalidité</name>
+        <name lang="it">Assicurazione invalidità</name>
+      </keyword>
+    </keywords>
+    <department id="301">
+      <name lang="en">Federal Department of Home Affairs</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="fr">https://www.edi.admin.ch/fr</www>
+      <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Nuove prospettive finanziarie delle assicurazioni sociali: ulteriore peggioramento per l’AI</title>
+      <lead>L’Ufficio federale delle assicurazioni sociali (UFAS) ha aggiornato le prospettive finanziarie di AVS, AI, IPG e PC. Le prospettive finanziarie dell’AI sono ulteriormente peggiorate. Senza contromisure, si stima che il deficit annuo aumenterà a circa 800 milioni di franchi fino al 2030. La causa principale è il forte aumento delle nuove rendite. Il Dipartimento federale dell’interno (DFI) ha pertanto deciso di anticipare la consultazione sulla prossima riforma dell’AI. Per quanto riguarda l’AVS, il risultato di ripartizione diventerà negativo nel 2026. Ciò è dovuto alla 13a mensilità della rendita di vecchiaia AVS, che sarà versata per la prima volta quest’anno, senza che però ne sia ancora stato definito il finanziamento.</lead>
+      <text link="no">&lt;p&gt;Le prospettive finanziarie delle assicurazioni sociali vengono aggiornate annualmente a metà anno. A tal fine si tiene conto, tra l’altro, dei conti annuali di AVS, AI e IPG, delle previsioni congiunturali, dell’evoluzione demografica, di indicatori economici quali la crescita salariale, delle proiezioni degli introiti dell’imposta sul valore aggiunto (IVA) e della rilevazione sulle forze di lavoro. Il DFI ha informato il Consiglio federale sulle prospettive finanziarie aggiornate.&lt;/p&gt; &lt;h2&gt;AI: deficit di ripartizione nettamente più elevato ed erosione del fondo&lt;/h2&gt; &lt;p&gt;La situazione finanziaria dell’AI continua a peggiorare. Nel 2025 il suo deficit di ripartizione (ovvero la differenza tra le entrate e le uscite, senza risultato degli investimenti né interessi passivi) si è attestato a 209 milioni di franchi. Per il 2026 lo scenario di riferimento ipotizza un deficit di ripartizione di quasi 300 milioni di franchi, che secondo le stime aumenterà a circa 600 milioni fino al 2030. A ciò vanno aggiunti interessi per oltre 200 milioni di franchi, che l’AI deve versare ogni anno sul suo debito di circa 10 miliardi nei confronti dell’AVS. Nel 2030 il deficit potrebbe quindi raggiungere circa 800 milioni di franchi (2035: circa 1,2 miliardi). Nel 2025 il patrimonio dell'AI era di circa 17 punti percentuali al di sotto del minimo legale previsto, pari al 50 per cento delle uscite di un anno, e continua a scendere. In base allo scenario di riferimento aggiornato, il patrimonio dell’AI sarebbe completamente esaurito già nel 2031.&lt;/p&gt; &lt;p&gt;Il motivo principale della criticità della situazione finanziaria è il costante aumento delle nuove rendite, legato in particolare a malattie psichiche. L’aumento si osserva in tutte le fasce di età, ma specialmente in quelle di 18–24 anni e di 60–64 anni. Nel 2025 l’AI ha concesso 25’200 nuove rendite. Lo scenario di riferimento delle prospettive finanziarie dell’assicurazione dell’anno scorso ne ipotizzava circa 23’000 e lo scenario basso oltre 25’000.&lt;/p&gt; &lt;h2&gt;Anticipazione della consultazione sulla riforma dell’AI&lt;/h2&gt; &lt;p&gt;Alla luce di questa evoluzione, il DFI ha deciso di anticipare l’indizione della procedura di consultazione sulla Riforma per l’integrazione dell’AI da fine anno all’autunno. La riforma prevede, da un lato, misure per stabilizzare le finanze dell’assicurazione e garantirne la liquidità, che dovranno poter entrare in vigore il più presto possibile; dall’altro, contempla misure strutturali volte a frenare l’aumento delle nuove rendite, in particolare tra i giovani. A tal fine si punta sull’introduzione di una prestazione per l’integrazione, tesa a evitare la concessione troppo rapida di rendite ai giovani assicurati che presentano un potenziale d’integrazione. Inoltre, s’intende migliorare ulteriormente l’integrazione delle persone con danni alla salute agevolandone l’accesso alla formazione e alla formazione continua. Infine, si prevede di ottimizzare il sistema nei settori delle indennità giornaliere e degli accertamenti medici.&lt;/p&gt; &lt;h2&gt;AVS: andamento leggermente più negativo per il risultato di ripartizione e il livello del fondo&lt;/h2&gt; &lt;p&gt;Le prospettive finanziarie dell’AVS sono influenzate dall’introduzione della 13a mensilità della rendita di vecchiaia, che sarà versata per la prima volta nel 2026. Poiché al momento le spese derivanti da questa prestazione, pari a circa 4 miliardi di franchi, non sono ancora coperte, si prevede una crescita considerevole del deficit di ripartizione dell’AVS, che passerà da 1,3 miliardi nel 2026 a circa 4,9 miliardi di franchi nel 2035 (ai prezzi del 2025). Rispetto alle ultime previsioni, le prospettive sono leggermente peggiorate. Ciò è dovuto principalmente a una debole crescita dell’occupazione.&lt;/p&gt; &lt;p&gt;Se il finanziamento supplementare mediante un aumento di 0,4 punti percentuali dell’IVA deciso dal Parlamento nella sessione estiva sarà accettato in votazione popolare e introdotto dal 2028, nel 2030 il deficit di ripartizione dell’AVS si dimezzerà, passando da circa 2,7 a circa 1,2 miliardi. Le entrate supplementari derivanti dall’IVA copriranno, insieme al contributo della Confederazione, circa la metà delle spese derivanti dalla 13a mensilità, evitando un rapido calo del livello del fondo dell’AVS negli anni 2030.&lt;/p&gt; &lt;h2&gt;IPG e PC: tendenze invariate&lt;/h2&gt; &lt;p&gt;Le prospettive finanziarie delle indennità di perdita di guadagno (IPG) e delle prestazioni complementari (PC) non mostrano variazioni sostanziali rispetto a quelle dell’anno precedente. In base alle ipotesi attuali, il finanziamento delle IPG è garantito a lungo termine: il livello del relativo fondo si attesta a oltre il doppio del minimo legale. Nelle prospettive aggiornate si tiene conto delle maggiori uscite derivanti dalla riforma delle IPG che entrerà in vigore il 1° luglio 2027, pari a circa 85 milioni di franchi all’anno.&lt;/p&gt; &lt;p&gt;Per quanto concerne le PC, nel complesso le sue uscite aumenteranno di circa il 3,5 per cento all’anno fino al 2030. Ciò è riconducibile soprattutto all’atteso aumento del numero delle nuove rendite AI e al crescente numero dei beneficiari di PC all’AVS.&lt;/p&gt; &lt;h2&gt;Scenari: intervallo rappresentativo dell’incertezza delle proiezioni&lt;/h2&gt; &lt;p&gt;Le prospettive finanziarie dell’AVS, dell’AI e delle IPG comprendono ciascuna uno scenario di riferimento che proietta nel futuro le tendenze degli anni passati e due scenari alternativi (risultato di ripartizione «alto» e risultato di ripartizione «basso»). In questo modo viene illustrato l’intervallo di incertezza, in particolare per quanto riguarda l’evoluzione a lungo termine. Più è lungo l’orizzonte temporale considerato, maggiore è l’incertezza delle proiezioni.&lt;/p&gt; &lt;h2&gt;Link:&lt;/h2&gt; &lt;p&gt;Nelle pagine collegate qui sotto sono disponibili in particolare i seguenti documenti:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Prospettive finanziarie fino al 2040 (AVS: secondo l’ordinamento vigente e con un aumento di 0,4 punti percentuali IVA, secondo la decisione del Parlamento)&lt;/li&gt;&lt;li&gt;Grafici&lt;/li&gt;&lt;li&gt;Guida alla lettura&lt;/li&gt;&lt;li&gt;Analisi delle variazioni (in tedesco)&lt;/li&gt;&lt;li&gt;Descrizione del modello (in tedesco)&lt;/li&gt;&lt;li&gt;Documentazione tecnica (in tedesco)&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/it/finanze-avs"&gt;Situazione e prospettive finanziarie dell’assicurazione per la vecchiaia e per i superstiti AVS&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/it/finanze-ai"&gt;Situazione e prospettive finanziarie dell’assicurazione invalidità AI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/it/finanze-ipg"&gt;Situazione e prospettive finanziarie delle indennità di perdita di guadagno IPG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/it/finanze-pc"&gt;Situazione e prospettive finanziarie delle prestazioni complementari all’AVS e all’AI (PC)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Alla pagina &lt;a href="https://www.bsv.admin.ch/it/metodi-analisi#Methodische-Grundlagen"&gt;Fondamenti metodologici, analisi e basi tecniche attuariali&lt;/a&gt; sono disponibili in particolare i documenti seguenti:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Ipotesi esogene e indicatori per gli scenari dell’AVS&lt;/li&gt;&lt;li&gt;Scheda informativa sulle prospettive finanziarie 2026 dell’AVS, dell’AI e delle IPG con vari scenari&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Settore Comunicazione Ufficio federale delle assicurazioni sociali +41 58 462 77 11 media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Perspectives financières des assurances sociales : détérioration des finances de l’AI</title>
+      <lead>L’Office fédéral des assurances sociales (OFAS) a actualisé les perspectives financières de l’AVS, de l’AI, du régime des APG et des PC. Celles de l’AI se sont encore assombries. Si aucune mesure de stabilisation n’est prise, le déficit annuel devrait atteindre près de 800 millions de francs d’ici 2030, principalement en raison de la forte augmentation du nombre de nouvelles rentes. En conséquence, le Département fédéral de l’intérieur (DFI) a décidé d’avancer la date de la consultation sur la réforme de l’AI. Quant à l’AVS, son résultat de répartition deviendra négatif en 2026. Cette situation s’explique par la 13e rente AVS, qui sera versée pour la première fois cette année, mais dont le financement n’est pas assuré pour le moment.</lead>
+      <text link="no">&lt;p&gt;Les perspectives financières des assurances sociales sont actualisées chaque année à la fin du premier semestre. Elles prennent notamment en considération les comptes annuels de l’AVS, de l’AI et du régime des APG, les prévisions conjoncturelles, l’évolution démographique, des indicateurs économiques tels que la croissance des salaires, les projections relatives aux recettes de la TVA et les résultats de l’enquête suisse sur la population active. Le DFI a informé le Conseil fédéral de ces perspectives actualisées.&lt;/p&gt; &lt;h2&gt;AI : déficit de répartition sensiblement plus élevé et baisse du niveau du fonds&lt;/h2&gt; &lt;p&gt;La situation financière de l’AI continue de se détériorer. En 2025, le déficit de répartition de l’assurance (différence entre les recettes et les dépenses, hors résultats des placements et intérêts sur la dette) s’élevait à 209 millions de francs. Selon le scénario de référence, il devrait atteindre près de 300 millions de francs en 2026, puis continuer d’augmenter pour s’établir à environ 600 millions de francs d’ici 2030. À cela s’ajoutent les intérêts de plus de 200 millions de francs que l’AI doit verser chaque année à l’AVS au titre de sa dette d’environ 10 milliards de francs. En 2030, le déficit devrait donc s’élever à environ 800 millions de francs (2035 : environ 1,2 milliard de francs). En 2025, la fortune de l’AI se situait à environ 17 points de pourcentage en dessous du seuil minimal prévu par la loi, qui est de 50 % des dépenses annuelles, et elle continue de diminuer régulièrement. Selon le scénario de référence actualisé, la fortune de l’AI devrait être entièrement épuisée dès 2031.&lt;/p&gt; &lt;p&gt;La raison principale de cette situation financière critique est la hausse continue du nombre de nouvelles rentes, notamment en raison de troubles psychiques. Cette hausse est observée dans toutes les tranches d’âge, mais elle est plus marquée chez les 18-24 ans et les 60-64 ans. En 2025, l’AI a enregistré 25’200 nouvelles rentes. Le scénario de référence de l’année dernière tablait sur environ 23’000 nouvelles rentes, tandis que le scénario bas en prévoyait un peu plus de 25’000.&lt;/p&gt; &lt;h2&gt;Avancement de la consultation sur la réforme de l’AI&lt;/h2&gt; &lt;p&gt;Compte tenu de cette évolution, le DFI a décidé d’avancer à l’automne l’ouverture de la consultation sur la réforme d’intégration de l’AI, initialement prévue à la fin de l’année. Cette réforme comprend, d’une part, des mesures visant à stabiliser la situation financière de l’AI et à garantir ses liquidités. Ces mesures doivent pouvoir entrer en vigueur le plus tôt possible. La réforme comprend, d’autre part, des mesures structurelles destinées à freiner la hausse des nouvelles rentes, en particulier chez les jeunes. La mesure phare est l’introduction d’une prestation d’intégration, qui vise à éviter l’octroi trop précoce de rentes aux jeunes assurés présentant un potentiel d’intégration. L’accès facilité à la formation initiale et continue permettra également de renforcer la réadaptation des personnes atteintes dans leur santé. Des optimisations concernant les indemnités journalières et les instructions médicales sont par ailleurs prévues.&lt;/p&gt; &lt;h2&gt;AVS : évolution légèrement moins favorable du résultat de répartition et du fonds&lt;/h2&gt; &lt;p&gt;Les perspectives financières de l’AVS sont influencées par la 13&lt;sup&gt;e&lt;/sup&gt; rente AVS, qui sera versée pour la première fois en 2026. Comme elle n’est pas financée pour le moment, son coût, estimé à 4 milliards de francs, provoquera une augmentation significative du déficit de répartition de l’AVS, qui devrait passer de 1,3 milliard de francs en 2026 à 4,9 milliards en 2035 (aux prix de 2025). Par rapport aux perspectives financières de l’année dernière, l’horizon s’est par ailleurs légèrement assombri, principalement en raison d’une faible croissance de l’emploi.&lt;/p&gt; &lt;p&gt;Si la hausse de 0,4 point de la TVA, décidée par le Parlement lors de la session d’été pour financer la 13&lt;sup&gt;e&lt;/sup&gt; rente AVS, est approuvée par le peuple et mise en œuvre à partir de 2028, le déficit de répartition de l’AVS en 2030 serait réduit de moitié, passant de 2,7 à environ 1,2 milliard de francs. Les recettes supplémentaires générées par la TVA, combinées à la contribution de la Confédération, couvriraient environ la moitié des coûts de la 13&lt;sup&gt;e&lt;/sup&gt; rente de vieillesse AVS et permettraient d’éviter une baisse rapide du niveau du fonds au cours de la décennie 2030.&lt;/p&gt; &lt;h2&gt;APG et PC : tendances inchangées&lt;/h2&gt; &lt;p&gt;Les perspectives financières du régime des allocations pour perte de gain (APG) et des prestations complémentaires (PC) ne présentent pas de changement notable par rapport à l’année précédente. Selon les hypothèses actuelles, le financement du régime des APG est assuré à long terme. Son fonds est en effet plus de deux fois supérieur au niveau minimal légal. Les perspectives actualisées tiennent compte des dépenses supplémentaires de l’ordre de 85 millions de francs par an qui seront générées par la réforme des APG à partir du 1&lt;sup&gt;er&lt;/sup&gt; juillet 2027.&lt;/p&gt; &lt;p&gt;Dans l’ensemble, les dépenses consacrées aux PC augmenteront d’environ 3,5 % par an jusqu’en 2030. Cette progression s’explique principalement par la hausse prévue du nombre de nouvelles rentes AI et par l’augmentation du nombre de bénéficiaires de PC à l’AVS.&lt;/p&gt; &lt;h2&gt;Scénarios : la fourchette indique le degré d’incertitude des projections&lt;/h2&gt; &lt;p&gt;Les projections pour l’AVS, l’AI et le régime des APG comprennent chacune un scénario de référence, qui part du principe que les tendances des années précédentes se poursuivront, ainsi que deux autres scénarios (« résultat de répartition élevé « et » résultat de répartition bas »). L’écart entre ces deux derniers scénarios permet de mettre en évidence la marge d’incertitude, notamment en ce qui concerne l’évolution à long terme. Plus l’horizon de projection est éloigné, plus la fiabilité des projections est limitée.&lt;/p&gt; &lt;h2&gt;Liens:&lt;/h2&gt; &lt;p&gt;Les pages dont les liens figurent ci-dessous contiennent notamment les documents suivants :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Perspectives financières jusqu’en 2040 (AVS : droit en vigueur / avec 0,4 point de TVA conformément à la décision du Parlement)&lt;/li&gt;&lt;li&gt;Graphiques&lt;/li&gt;&lt;li&gt;Guide de lecture&lt;/li&gt;&lt;li&gt;Analyse des modifications (en allemand)&lt;/li&gt;&lt;li&gt;Présentation de la méthode (en allemand)&lt;/li&gt;&lt;li&gt;Documentation technique (en allemand)&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/fr/finances-avs"&gt;Situation et perspectives financières de l’AVS&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/fr/finances-ai"&gt;Situation et perspectives financières de l’AI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/fr/finances-apg"&gt;Situation et perspectives financières des APG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/fr/finances-pc"&gt;Situation et perspectives financières des PC à l’AVS et à l’AI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;La page &lt;a href="https://www.bsv.admin.ch/fr/methodes-analyses#Methodische-Grundlagen"&gt;Bases méthodologiques, analyses et bases techniques actuarielles&lt;/a&gt; permet notamment d’accéder aux documents suivants :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Hypothèses exogènes et indicateurs pour les scénarios de l’OFAS&lt;/li&gt;&lt;li&gt;Fiche d’information sur les perspectives financières 2026 de l’AVS, de l’AI et des APG, avec scénarios&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Service Communication Office fédéral des assurances sociales +41 58 462 77 11 media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Neue Finanzperspektiven der Sozialwerke: weitere Verschlechterung bei der IV</title>
+      <lead>Das Bundesamt für Sozialversicherungen (BSV) hat die Finanzperspektiven von AHV, IV, EO und EL aktualisiert. Die finanziellen Aussichten der IV haben sich weiter verschlechtert. Ohne Gegenmassnahmen steigt das jährliche Defizit bis 2030 auf schätzungsweise rund 800 Millionen Franken. Hauptgrund ist der starke Anstieg der Neurenten. Das Eidg. Departement des Innern (EDI) zieht deshalb die Vernehmlassung zur IV-Reform zeitlich vor. Bei der AHV kippt das Umlageergebnis 2026 ins Negative. Grund ist die 13. AHV-Rente, die in diesem Jahr erstmals ausbezahlt wird, aber derzeit nicht finanziert ist.</lead>
+      <text link="no">&lt;p&gt;Die Finanzperspektiven der Sozialwerke werden jährlich Mitte Jahr auf den aktuellen Stand gebracht. Berücksichtigt werden unter anderem die Jahresrechnungen von AHV, IV und EO, die Konjunkturprognosen, die Bevölkerungsentwicklung, volkswirtschaftliche Eckwerte wie das Lohnwachstum, die Projektionen zu den Mehrwertsteuereinnahmen und die Arbeitskräfteerhebung. Der Bundesrat wurde vom EDI über die aktualisierten Finanzperspektiven informiert.&lt;/p&gt; &lt;h2&gt;IV: Deutlich höheres Umlagedefizit und schwindender Fonds&lt;/h2&gt; &lt;p&gt;Die finanzielle Lage der IV verschlechtert sich weiter. 2025 betrug ihr Umlagedefizit (Differenz der Einnahmen und Ausgaben, ohne Anlageergebnisse und Schuldzinszahlung) 209 Millionen Franken. Das Referenzszenario geht für 2026 von einem Umlagedefizit von knapp 300 Millionen Franken aus, das bis 2030 auf schätzungsweise rund 600 Millionen Franken ansteigt. Hinzu kommen jeweils die Zinszahlungen von mehr als 200 Millionen Franken, welche die IV jedes Jahr für ihre Schulden von rund 10 Milliarden bei der AHV entrichten muss. 2030 dürfte das Defizit demnach auf rund 800 Millionen Franken steigen (2035: rund 1,2 Mrd. Franken). Das Vermögen der IV lag 2025 rund 17 Prozentpunkte unter der gesetzlich vorgesehenen Mindestgrenze von 50 Prozent einer Jahresausgabe und nimmt weiter kontinuierlich ab. Im aktualisierten Referenzszenario wäre das Vermögen der IV bereits im Jahr 2031 vollständig aufgebraucht.&lt;/p&gt; &lt;p&gt;Hauptgrund für die kritische finanzielle Lage ist der anhaltende Anstieg der Neurenten, insbesondere wegen psychischen Erkrankungen. Der Anstieg ist in allen Altersgruppen zu beobachten, insbesondere aber bei den 18- bis 24-Jährigen und den 60- bis 64-Jährigen. 2025 verzeichnete die IV 25'200 Neurenten. Das Referenzszenario der IV-Finanzperspektiven vom letzten Jahr ging von rund 23'000 Neurenten aus, das tiefe Szenario von gut 25’000.&lt;/p&gt; &lt;h2&gt;Vernehmlassung der IV-Reform wird vorgezogen&lt;/h2&gt; &lt;p&gt;Angesichts dieser Entwicklung zieht das EDI die Eröffnung der Vernehmlassung zur IV-Integrationsreform von Ende Jahr auf Herbst vor. Die Reform enthält zum einen Massnahmen, um die IV finanziell zu stabilisieren und die Liquidität sicherzustellen. Diese Massnahmen sollen möglichst frühzeitig in Kraft treten können. Zum anderen umfasst die Reform strukturelle Massnahmen, um den Anstieg der Neurenten zu bremsen, insbesondere bei den jungen Menschen. Im Zentrum steht die Einführung einer Integrationsleistung, mit welcher zu rasche Rentenzusprachen an junge Versicherte mit einem Integrationspotenzial vermieden werden sollen. Auch mit einem erleichterten Zugang zu Aus- und Weiterbildungen wird die Eingliederung von Menschen mit gesundheitlichen Einschränkungen weiter verstärkt. Vorgesehen sind zudem Systemoptimierungen im Bereich der Taggelder und der medizinischen Abklärungen.&lt;/p&gt; &lt;h2&gt;AHV: Etwas tiefere Entwicklung von Umlageergebnis und Fonds&lt;/h2&gt; &lt;p&gt;Die Finanzperspektiven für die AHV stehen unter dem Einfluss der 13. AHV-Rente. Diese wird 2026 erstmals ausbezahlt. Da ihre Kosten von rund 4 Milliarden Franken derzeit nicht gedeckt sind, wachsen die Umlagedefizite der AHV stark: von schätzungsweise 1,3 Mrd. im Jahr 2026 auf rund 4,9 Mrd. Franken im Jahr 2035 (zu Preisen von 2025). Gegenüber den letztjährigen Finanzperspektiven hat sich der Ausblick leicht verschlechtert. Hauptgrund ist ein schwaches Beschäftigungswachstum.&lt;/p&gt; &lt;p&gt;Falls die vom Parlament in der Sommersession beschlossene Zusatzfinanzierung mit 0,4 Prozentpunkten Mehrwertsteuer an der Urne angenommen und per 2028 eingeführt wird, würde sich das AHV-Umlagedefizit 2030 von rund 2,7 auf rund 1,2 Milliarden halbieren. Die zusätzlichen MWST-Einnahmen decken zusammen mit dem Bundesbeitrag die Kosten der 13. AHV-Altersrente etwa zur Hälfte und verhindern in den 2030er-Jahren ein rasches Absinken des Fondsstands.&lt;/p&gt; &lt;h2&gt;EO und EL: Trends unverändert&lt;/h2&gt; &lt;p&gt;Die Finanzperspektiven der Erwerbsersatzordnung (EO) und der Ergänzungsleistungen (EL) weisen im Vergleich zu jenen des Vorjahrs keine wesentlichen Änderungen auf. Die Finanzierung der EO ist gemäss den aktuellen Annahmen längerfristig gesichert, ihr Fonds enthält mehr als das Doppelte des gesetzlichen Mindeststandes. In den aktualisierten Perspektiven sind die Mehrausgaben von jährlich rund 85 Millionen Franken der EO-Reform ab dem 1. Juli 2027 berücksichtigt.&lt;/p&gt; &lt;p&gt;Insgesamt werden die Ausgaben für Ergänzungsleistungen bis 2030 um etwa 3,5 Prozent pro Jahr steigen. Das ist vor allem auf den erwarteten Anstieg der Zahl neuer IV-Renten zurückzuführen sowie auf die steigende Anzahl Menschen, die EL zur AHV beziehen.&lt;/p&gt; &lt;h2&gt;Szenarien: Bandbreite stellt Unsicherheit der Projektionen dar&lt;/h2&gt; &lt;p&gt;Die AHV-, IV- und EO-Projektionen umfassen jeweils ein Referenzszenario, das die Trends der vergangenen Jahre fortschreibt, sowie jeweils zwei Alternativszenarien („hohes Umlageergebnis“ und „tiefes Umlageergebnis“). Damit wird die Bandbreite der Unsicherheit insbesondere der langfristigen Entwicklung dargestellt. Je länger der Zeithorizont, desto unsicherer wird die Aussagekraft der Projektionen.&lt;/p&gt; &lt;h2&gt;Links:&lt;/h2&gt; &lt;p&gt;Auf den unten verlinkten Seiten finden sich insbesondere folgende Dokumente:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Finanzperspektiven bis 2040 (AHV: geltende Ordnung / mit 0.4%-Punkten MWST gemäss Parlamentsbeschluss)&lt;/li&gt;&lt;li&gt;Grafiken&lt;/li&gt;&lt;li&gt;Lesehilfe&lt;/li&gt;&lt;li&gt;Veränderungsanalyse&lt;/li&gt;&lt;li&gt;Modellbeschrieb&lt;/li&gt;&lt;li&gt;Technische Dokumentation&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/finanzen-ahv.html"&gt;Finanzielle Perspektiven der AHV&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/iv/finanzen-iv.html"&gt;Finanzielle Perspektiven der IV&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/de/finanzen-eo"&gt;Finanzielle Lage und Perspektiven der Erwerbsersatzordnung EO&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.bsv.admin.ch/de/finanzen-el"&gt;Finanzielle Lage und Perspektiven der Ergänzungsleistung (EL) zur AHV und IV&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Auf der Seite &lt;a href="https://www.bsv.admin.ch/de/methodische-grundlagen#Methodische-Grundlagen"&gt;Methodische Grundlagen, Analysen und versicherungstechnische Grundlagen&lt;/a&gt; finden sich insbesondere:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Exogene Annahmen und Indikatoren für die Szenarien des BSV&lt;/li&gt;&lt;li&gt;Faktenblatt zu den Finanzperspektiven 2026 der AHV, der IV und der EO mit Szenarien&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Kommunikation Bundesamt für Sozialversicherungen +41 58 462 77 11 media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="36">
+        <name lang="rm">Urden da cumpensaziun dal gudogn</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="en">System of compensation for loss of earnings</name>
+        <name lang="fr">Allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+      </topic>
+      <topic id="33">
+        <name lang="rm">Prestaziuns supplementaras</name>
+        <name lang="de">Ergänzungsleistungen</name>
+        <name lang="en">Supplementary benefits</name>
+        <name lang="fr">Prestations complémentaires</name>
+        <name lang="it">Prestazioni complementari</name>
+      </topic>
+      <topic id="31">
+        <name lang="de">Sozialversicherungen</name>
+        <name lang="en">Social insurance</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="rm">Assicuranzas socialas</name>
+      </topic>
+      <topic id="564">
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="en">Social security</name>
+        <name lang="fr">Sécurité sociale</name>
+        <name lang="it">Sicurezza sociale</name>
+        <name lang="rm">Segirezza sociala</name>
+      </topic>
+      <topic id="35">
+        <name lang="de">IV - Invalidenversicherung</name>
+        <name lang="en">II - Invalidity Insurance</name>
+        <name lang="fr">AI - Assurance-invalidité</name>
+        <name lang="it">AI – Assicurazione per l’invalidità</name>
+        <name lang="rm">AI – Assicuranza d'invaliditad</name>
+      </topic>
+      <topic id="32">
+        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
+        <name lang="en">Old-age, Survivors’ and Invalidity Insurance</name>
+        <name lang="fr">AVS - Assurance-vieillesse et survivants</name>
+        <name lang="it">AVS – Assicurazione vecchiaia e superstiti</name>
+        <name lang="rm">AVS – Assicuranza per vegls e survivents</name>
+      </topic>
+      <topic id="41">
+        <name lang="en">Social affairs, family &amp; society</name>
+        <name lang="fr">Affaires sociales, famille et société</name>
+        <name lang="it">Affari sociali, famiglia e società</name>
+        <name lang="rm">Fatgs socials, famiglia e societad</name>
+        <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
+      </topic>
+      <topic id="125">
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="en">Social security</name>
+        <name lang="fr">Sécurité sociale</name>
+        <name lang="it">Sicurezza sociale</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

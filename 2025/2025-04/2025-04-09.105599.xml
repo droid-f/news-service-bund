@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="105599" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-04-09</pubdate>
+    <originator id="805" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="fr">Office fédéral des transports</name>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="rm">Bundesamt für Verkehr</name>
+      <www lang="de">https://www.bav.admin.ch/bav/de/home.html</www>
+      <www lang="fr">https://www.bav.admin.ch/bav/fr/home.html</www>
+      <www lang="it">https://www.bav.admin.ch/bav/it/home.html</www>
+      <www lang="rm">https://www.bav.admin.ch/bav/de/home.html</www>
+      <email lang="de">presse@bav.admin.ch</email>
+      <email lang="fr">presse@bav.admin.ch</email>
+      <email lang="it">presse@bav.admin.ch</email>
+      <email lang="rm">presse@bav.admin.ch</email>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="180" org-id="805">
+        <name lang="de">Bundesamt für Verkehr (BAV)</name>
+        <name lang="fr">Office fédéral des transports (OFT)</name>
+        <name lang="it">Ufficio federale dei trasporti (UFT)</name>
+        <name lang="rm">Bundesamt für Verkehr (BAV)</name>
+      </keyword>
+      <keyword id="210" org-id="804">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+      </keyword>
+      <keyword id="1500" org-id="804">
+        <name lang="de">Verkehrspolitik</name>
+        <name lang="fr">Verkehrspolitik</name>
+        <name lang="it">Verkehrspolitik</name>
+        <name lang="rm">Verkehrspolitik</name>
+      </keyword>
+      <keyword id="1050" org-id="804">
+        <name lang="de">Schienenverkehr: Infrastruktur</name>
+        <name lang="fr">Schienenverkehr: Infrastruktur</name>
+        <name lang="it">Schienenverkehr: Infrastruktur</name>
+        <name lang="rm">Schienenverkehr: Infrastruktur</name>
+      </keyword>
+      <keyword id="1150" org-id="805">
+        <name lang="de">Strassenverkehr</name>
+        <name lang="fr">Trafic routier</name>
+        <name lang="it">Circolazione stradale</name>
+        <name lang="rm">Strassenverkehr</name>
+      </keyword>
+      <keyword id="1" org-id="805">
+        <name lang="de">öffentlicher Verkehr</name>
+        <name lang="fr">öffentlicher Verkehr</name>
+        <name lang="it">öffentlicher Verkehr</name>
+        <name lang="rm">öffentlicher Verkehr</name>
+      </keyword>
+      <keyword id="870" org-id="805">
+        <name lang="de">Verkehr: Finanzierung</name>
+        <name lang="fr">Verkehr: Finanzierung</name>
+        <name lang="it">Verkehr: Finanzierung</name>
+        <name lang="rm">Verkehr: Finanzierung</name>
+      </keyword>
+      <keyword id="1040" org-id="804">
+        <name lang="de">Schienenverkehr</name>
+        <name lang="fr">Trafic ferroviaire</name>
+        <name lang="it">Traffico su rotaia</name>
+        <name lang="rm">Schienenverkehr</name>
+      </keyword>
+    </keywords>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat befürwortet Solidarbürgschaft für Autoverlade</title>
+      <lead>Subventionierte Autoverlade sollen bei der Kapitalbeschaffung für den Kauf von Rollmaterial künftig von einer Bürgschaft des Bundes profitieren können. Das hat der Bundesrat an seiner Sitzung vom 9. April 2025 entschieden. Er unterstützt damit eine Parlamentarische Initiative der nationalrätlichen Verkehrskommission und stimmt den entsprechenden Gesetzesänderungen zu. </lead>
+      <text link="no"> &lt;p&gt;Bereits heute können Unternehmen des abgeltungsberechtigten Regionalen Personenverkehrs (RPV) bei der Beschaffung von Rollmaterial und Betriebsmitteln eine Solidarbürgschaft des Bundes in Anspruch nehmen. Neu soll diese Möglichkeit auch für die subventionierten Autoverlade gelten. Dies verlangt eine Parlamentarische Initiative der Kommission für Verkehr und Fernmeldewesen des Nationalrats (23.477). An seiner Sitzung vom 9. April 2025 hat der Bundesrat den dafür nötigen Gesetzesanpassungen zugestimmt. Die Vorlage geht nun ins Parlament.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Tiefere Zinsen dank Bundesbürgschaft&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dank der Bundesbürgschaft reduzieren sich für die Transportunternehmen die Zinsen für Kredite auf dem Kapitalmarkt. Für den Bund als Besteller wiederum sinken dadurch die Betriebsabgeltungen. Die Kosten und der Subventionsbedarf können somit reduziert werden, was den Bundeshaushalt entlastet. Da Bundesbürgschaften gemäss Subventionsgesetz als Finanzhilfen gelten, können sie nur dort gewährt werden, wo der Bund Leistungen bestellt und bezahlt. Autoverlade, deren Betrieb kostendeckend ist, können keine Solidarbürgschaft in Anspruch nehmen.&lt;/p&gt; &lt;p&gt;In der Schweiz gibt es aktuell vier Autoverlade. Die Autoverlade Lötschberg und Vereina sind heute kostendeckend. Der Autoverlad Furka ist nicht eigenwirtschaftlich, weshalb der Bund Betriebsabgeltungen zahlt. Der Autoverlad am Simplon wird heute vom Kanton Wallis finanziert, soll ab 2026 jedoch vom Bund mitfinanziert werden.&lt;/p&gt; </text>
+      <attachment id="287903">
+        <title>Stellungnahme des Bundesrates</title>
+        <format>pdf</format>
+        <size-kb>221</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92797.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Verkehr&#13; +41 58 462 36 43&#13; presse@bav.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral approuve le cautionnement solidaire pour les chargements des automobiles</title>
+      <lead>Les chargements des automobiles subventionnés devraient désormais pouvoir bénéficier d’un cautionnement de la Confédération lorsqu’ils acquièrent des capitaux afin d’acheter du matériel roulant. C’est ce qu’a décidé le Conseil fédéral lors de sa réunion du 9 avril 2025. Il soutient ainsi une initiative parlementaire de la Commission des transports et des télécommunications du Conseil national et approuve les modifications de loi ad hoc.</lead>
+      <text link="no"> &lt;p&gt;Aujourd’hui déjà, les entreprises du transport régional de voyageurs (TRV) au bénéfice d’une indemnisation peuvent solliciter un cautionnement solidaire de la Confédération dans le cadre de l’acquisition de matériel roulant et de moyens d’exploitation. Désormais, les chargements des automobiles subventionnés doivent également bénéficier de cette option. C’est ce que demande une initiative parlementaire de la Commission des transports et des télécommunications du Conseil national (23.477). Lors de sa réunion du 9 avril 2025, le Conseil fédéral a approuvé les adaptations législatives nécessaires à cet effet. Le projet est maintenant soumis au Parlement.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Baisse des taux d’intérêts grâce au cautionnement de la Confédération &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Grâce au cautionnement de la Confédération, les entreprises de transport bénéficient de taux d’intérêts réduits sur les crédits proposés sur le marché des capitaux. Cela diminue en contrepartie les indemnités d’exploitation versées par la Confédération en tant que commanditaire, ce qui réduit les coûts et les besoins de subventions tout en allégeant le budget fédéral. Comme les cautionnements de la Confédération sont considérés comme des aides financières selon la loi sur les subventions, ils ne peuvent être accordés que dans les cas où la Confédération commande et paie des prestations. Les chargements des automobiles autofinancés ne peuvent pas solliciter de cautionnement solidaire.&lt;/p&gt; &lt;p&gt;La Suisse compte actuellement quatre chargements des automobiles. Ceux du Loetschberg et de la Vereina couvrent actuellement leurs coûts. Celui de la Furka n’est pas autofinancé, raison pour laquelle la Confédération lui verse des indemnités d’exploitation. Celui du Simplon est actuellement financé par le canton du Valais, mais devrait être cofinancé par la Confédération dès 2026.&lt;/p&gt; </text>
+      <attachment id="287904">
+        <title>Avis du Conseil fédéral</title>
+        <format>pdf</format>
+        <size-kb>120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92798.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Office fédéral des transports&#13; +41 58 462 36 43&#13; presse@bav.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale approva la fideiussione solidale per il carico di autoveicoli</title>
+      <lead>Nella raccolta di capitali, in futuro le stazioni di carico di autoveicoli sovvenzionate dovranno poter beneficiare di una fideiussione della Confederazione per l’acquisto di materiale rotabile. È quanto deciso dal Consiglio federale durante la sua seduta del 9 aprile 2025. Con tale decisione, sostiene un’iniziativa parlamentare della Commissione dei trasporti e delle telecomunicazioni del Consiglio nazionale e approva le relative modifiche di legge. </lead>
+      <text link="no"> &lt;p&gt;Già oggi le imprese del traffico regionale viaggiatori (TRV) beneficiarie di indennità possono usufruire di una fideiussione solidale della Confederazione in caso di acquisto di materiale rotabile e mezzi d'esercizio. In futuro, tale possibilità dovrà essere data anche al carico di autoveicoli sovvenzionato: è quanto richiesto dall’iniziativa parlamentare della Commissione dei trasporti e delle telecomunicazioni del Consiglio nazionale (23.477). Durante la sua seduta del 9 aprile 2025 il Consiglio federale ha approvato i necessari adattamenti di legge. Il progetto è ora trasmesso al Parlamento. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Interessi più bassi grazie alla fideiussione federale&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La fideiussione federale genera una riduzione degli interessi per crediti sul mercato dei capitali per le imprese di trasporto. Di rimando, diminuiscono le indennità d'esercizio per la Confederazione nella sua qualità di committente. Di conseguenza, è possibile ridurre i costi e il fabbisogno di sussidi, con uno sgravio per le finanze della Confederazione. Secondo la legge sui sussidi le fideiussioni federali valgono come aiuti finanziari e possono pertanto essere concesse solo per prestazioni che la Confederazione ordina e retribuisce. Le stazioni di carico di autoveicoli il cui esercizio copre i costi non possono quindi avvalersi di fideiussioni solidali. &lt;/p&gt; &lt;p&gt;In Svizzera attualmente vi sono quattro stazioni di carico di autoveicoli: quelle del Lötschberg e della Vereina coprono i propri costi; la Furka non è finanziariamente autonoma, quindi la Confederazione eroga indennità d'esercizio; la stazione di carico al Sempione è attualmente finanziata dal Cantone del Vallese, ma dal 2026 sarà cofinanziata dalla Confederazione. &lt;/p&gt; </text>
+      <attachment id="287905">
+        <title>Parere del Consiglio federale</title>
+        <format>pdf</format>
+        <size-kb>118</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92799.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Ufficio federale dei trasporti&#13; +41 58 462 36 43&#13; presse@bav.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat befürwortet Solidarbürgschaft für Autoverlade</title>
+      <lead>Subventionierte Autoverlade sollen bei der Kapitalbeschaffung für den Kauf von Rollmaterial künftig von einer Bürgschaft des Bundes profitieren können. Das hat der Bundesrat an seiner Sitzung vom 9. April 2025 entschieden. Er unterstützt damit eine Parlamentarische Initiative der nationalrätlichen Verkehrskommission und stimmt den entsprechenden Gesetzesänderungen zu. </lead>
+      <text link="no"> &lt;p&gt;Bereits heute können Unternehmen des abgeltungsberechtigten Regionalen Personenverkehrs (RPV) bei der Beschaffung von Rollmaterial und Betriebsmitteln eine Solidarbürgschaft des Bundes in Anspruch nehmen. Neu soll diese Möglichkeit auch für die subventionierten Autoverlade gelten. Dies verlangt eine Parlamentarische Initiative der Kommission für Verkehr und Fernmeldewesen des Nationalrats (23.477). An seiner Sitzung vom 9. April 2025 hat der Bundesrat den dafür nötigen Gesetzesanpassungen zugestimmt. Die Vorlage geht nun ins Parlament.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Tiefere Zinsen dank Bundesbürgschaft&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Dank der Bundesbürgschaft reduzieren sich für die Transportunternehmen die Zinsen für Kredite auf dem Kapitalmarkt. Für den Bund als Besteller wiederum sinken dadurch die Betriebsabgeltungen. Die Kosten und der Subventionsbedarf können somit reduziert werden, was den Bundeshaushalt entlastet. Da Bundesbürgschaften gemäss Subventionsgesetz als Finanzhilfen gelten, können sie nur dort gewährt werden, wo der Bund Leistungen bestellt und bezahlt. Autoverlade, deren Betrieb kostendeckend ist, können keine Solidarbürgschaft in Anspruch nehmen.&lt;/p&gt; &lt;p&gt;In der Schweiz gibt es aktuell vier Autoverlade. Die Autoverlade Lötschberg und Vereina sind heute kostendeckend. Der Autoverlad Furka ist nicht eigenwirtschaftlich, weshalb der Bund Betriebsabgeltungen zahlt. Der Autoverlad am Simplon wird heute vom Kanton Wallis finanziert, soll ab 2026 jedoch vom Bund mitfinanziert werden.&lt;/p&gt; </text>
+      <attachment id="287903">
+        <title>Stellungnahme des Bundesrates</title>
+        <format>pdf</format>
+        <size-kb>221</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92797.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Verkehr&#13; +41 58 462 36 43&#13; presse@bav.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="46">
+        <name lang="de">Verkehr</name>
+        <name lang="fr">Transports</name>
+        <name lang="it">Trasporti</name>
+        <name lang="rm">Verkehr</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104399" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-03-07</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="808" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="fr">Office fédéral de l'énergie</name>
+      <name lang="it">Ufficio federale dell'energia</name>
+      <name lang="rm">Bundesamt für Energie</name>
+      <www lang="de">http://www.bfe.admin.ch</www>
+      <www lang="fr">http://www.bfe.admin.ch</www>
+      <www lang="it">http://www.bfe.admin.ch</www>
+      <www lang="rm">http://www.bfe.admin.ch</www>
+      <email lang="de"/>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="rm"/>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="270" org-id="808">
+        <name lang="de">Elektrizitätsversorgung</name>
+        <name lang="fr">Approvisionnement en electricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="rm">Elektrizitätsversorgung</name>
+      </keyword>
+      <keyword id="310" org-id="808">
+        <name lang="de">Energiepolitik</name>
+        <name lang="de">Energiepolitik</name>
+        <name lang="fr">Politique énergétique</name>
+        <name lang="fr">Energiepolitik</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="it">Energiepolitik</name>
+        <name lang="rm">Energiepolitik</name>
+        <name lang="rm">Energiepolitik</name>
+      </keyword>
+      <keyword id="340" org-id="808">
+        <name lang="de">Energiewirtschaft</name>
+        <name lang="fr">Economie énergétique</name>
+        <name lang="it">Economia energetica</name>
+        <name lang="rm">Energiewirtschaft</name>
+      </keyword>
+      <keyword id="1430" org-id="804">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="fr">Energieverbrauch</name>
+        <name lang="it">Energieverbrauch</name>
+        <name lang="rm">Energieverbrauch</name>
+      </keyword>
+      <keyword id="271" org-id="808">
+        <name lang="de">Elektrizität</name>
+        <name lang="fr">Electricté</name>
+        <name lang="it">Elettricità</name>
+        <name lang="rm">Elektrizität</name>
+      </keyword>
+      <keyword id="1700" org-id="804">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+        <name lang="rm">Wirtschaft</name>
+      </keyword>
+      <keyword id="2086" org-id="804">
+        <name lang="de">Stromversorgung</name>
+        <name lang="fr">Approvisionnement en électricité</name>
+        <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="rm">Stromversorgung</name>
+      </keyword>
+      <keyword id="210" org-id="804">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+      </keyword>
+    </keywords>
+    <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat setzt Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten in Kraft</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 7. März 2025 die Verordnung über die Überbrückungshilfen für Eisen-, Stahl und Aluminiumproduzenten von strategischer Bedeutung gutgeheissen und rückwirkend per 1. Januar 2025 in Kraft gesetzt. Die Verordnung gilt bis Ende 2028. Die beschlossenen Massnahmen sollen die Kreislaufwirtschaft der Schweiz stärken und Arbeitsplätze erhalten.</lead>
+      <text link="no"> &lt;p&gt;Hohe Energiepreise stellen die Eisen-, Stahl- und Aluminiumproduzenten mit strategischer Bedeutung für die Kreislaufwirtschaft der Schweiz vor grosse Herausforderungen. Mit einer dringlichen Änderung des Stromversorgungsgesetzes hat das Parlament im Dezember Entlastungsmassnahmen beschlossen. Die Unternehmen können unter bestimmten Auflagen eine über vier Jahre – von 2025 bis 2028 – gestaffelte Reduktion der Netznutzungsentgelte beantragen.&lt;/p&gt; &lt;p&gt;Die Verordnung regelt die Auflagen. Dazu gehören die Erhaltung des Produktionsstandorts, die Erarbeitung eines Netto-Null-Fahrplans bis Ende 2025, das Verbot von variablen Vergütungen an die Mitglieder der Geschäftsleitung und des Verwaltungsrats, sowie die starke Einschränkung der Mittelabflüsse an die Eigentümer oder nahestehende Personen. Die Verordnung regelt weiter die Kriterien und den Prozess für die Reduktion der Netznutzungsentgelte und die Vergütungsmodalitäten. Die Standortkantone müssen zusätzlich mindestens die Hälfte der jeweiligen Reduktion durch eigene Massnahmen beisteuern, etwa durch Subventionen oder vergünstigte Darlehen. &lt;/p&gt; &lt;p&gt;Vier Recycling-Unternehmen können Überbrückungshilfen beantragen: Stahl Gerlafingen AG (SO), Steeltec AG (LU), Novelis Switzerland SA (VS) und Constellium Valais SA (VS). Die Reduktion der Nutzungsentgelte beträgt im ersten Jahr 50%, danach 37,5% im zweiten Jahr, 25% im dritten Jahr und 12,5% im vierten Jahr. &lt;/p&gt; &lt;p&gt;Die Gesamtkosten von rund 37 Millionen Franken werden von der nationalen Netzgesellschaft Swissgrid bei allen Endverbraucherinnen und Endverbrauchern erhoben. Für Haushalte entstehen dadurch Mehrkosten von rund 3 Franken über die vier Jahre, für kleinere KMU von rund 33 Franken und für grosse Unternehmen von rund 100 Franken.&lt;/p&gt; </text>
+      <link id="286207">
+        <title>Stromversorgungsgesetz (Dringliche Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/787/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286268">
+        <title>Verordnung über die Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92234.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286273">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>137</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92195.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Marianne Zünd, Leiterin Medien + Politik BFE, Tel. +41 58 462 56 75</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral établit des aides transitoires pour les producteurs de fer, d’acier et d’aluminium</title>
+      <lead>Lors de sa séance du 7 mars 2025, le Conseil fédéral a approuvé l’ordonnance sur des aides transitoires pour les producteurs de fer, d’acier et d’aluminium d’importance stratégique et l’a mise en vigueur avec effet rétroactif au 1er janvier 2025. L’ordonnance a effet jusqu’à fin 2028. Les mesures décidées visent à préserver l’économie circulaire de la Suisse et à créer des postes de travail.</lead>
+      <text link="no"> &lt;p&gt;Les prix élevés de l’énergie constituent un grand défi pour les producteurs de fer, d’acier et d’aluminium d’importance stratégique pour l’économie circulaire. En décembre dernier, le Parlement a décidé de mesures d’allègement dans le cadre de la modification urgente de la loi sur l’approvisionnement en électricité. Sous certaines conditions, réglées dans l’ordonnance, les entreprises peuvent demander une réduction dégressive des rémunérations pour l’utilisation des réseaux sur une période de quatre ans allant de 2025 à 2028. &lt;/p&gt; &lt;p&gt;Parmi les conditions figurent le maintien du site de production, l’élaboration d’une feuille de route zéro net d’ici fin 2025, l’interdiction de verser des rémunérations variables aux membres de la direction et du conseil d’administration, ainsi qu’une forte limitation des sorties de trésorerie au profit des propriétaires ou de personnes proches de l’entreprise. L’ordonnance règle d’autres critères et processus pour la réduction des rémunérations pour l’utilisation des réseaux et les modalités de rétribution. Les cantons d’implantation doivent en outre contribuer à hauteur d’au moins la moitié de la réduction correspondante par leurs propres mesures, par exemple par des subventions ou des prêts à des conditions préférentielles. &lt;/p&gt; &lt;p&gt;Quatre entreprises de recyclage ont le droit de déposer une demande : Stahl Gerlafingen AG (SO), Steeltec SA (LU), Novelis Switzerland SA (VS) et Constellium Valais SA (VS). La réduction des rémunérations pour l’utilisation des réseaux sera de 50 % la première année, de 37,5 % la deuxième année, de 25 % la troisième année, et de 12,5 % la quatrième année.&lt;/p&gt; &lt;p&gt;Les coûts totaux d’environ 37 millions de francs sont prélevés auprès de tous les consommateurs finaux par la société nationale du réseau de transport Swissgrid. Les coûts supplémentaires sur ces quatre années s’élèveront à environ 3 francs pour les ménages, 33 francs pour les petites PME et environ 100 francs pour les grandes entreprises. &lt;/p&gt; </text>
+      <link id="286208">
+        <title>Loi sur l’approvisionnement en électricité (Aides transitoires urgentes pour les producteurs de fer, d’acier et d’aluminium d’importance stratégique)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/787/fr</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286269">
+        <title>Ordonnance sur des aides transitoires pour les producteurs de fer, d’acier et d’aluminium d’importance stratégique</title>
+        <format>pdf</format>
+        <size-kb>167</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92235.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286271">
+        <title>Rapport explicatif</title>
+        <format>pdf</format>
+        <size-kb>146</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92193.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Marianne Zünd, responsable Médias et politique OFEN, tél. +41 58 462 56 75</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale pone in vigore gli aiuti transitori in favore dei produttori di ferro, acciaio e alluminio</title>
+      <lead>Nella sua seduta del 7 marzo 2025 il Consiglio federale ha adottato l’ordinanza sugli aiuti transitori in favore dei produttori di importanza strategica di ferro, acciaio e alluminio, fissandone l’entrata in vigore con effetto retroattivo al 1° gennaio 2025. L’ordinanza avrà validità sino a fine 2028. Le misure decise mirano a rafforzare l’economia circolare della Svizzera e a mantenere i posti di lavoro.</lead>
+      <text link="no"> &lt;p&gt;I prezzi elevati dell’energia rappresentano una grande sfida per i produttori di ferro, acciaio e alluminio di importanza strategica per l’economia circolare della Svizzera. Lo scorso dicembre, con una modifica urgente della legge sull’approvvigionamento elettrico, il Parlamento ha deciso misure di sgravio. A determinate condizioni, le imprese potranno richiedere una riduzione graduale dei corrispettivi per l’utilizzazione della rete per un periodo di quattro anni, dal 2025 al 2028.&lt;/p&gt; &lt;p&gt;L’ordinanza disciplina le condizioni, tra cui il mantenimento del sito di produzione, l’elaborazione di un cronoprogramma concernente il saldo netto delle emissioni pari a zero entro la fine del 2025, il divieto di retribuzioni variabili ai membri della direzione e del consiglio di amministrazione, nonché la forte limitazione dei deflussi di mezzi a favore dei proprietari d’impresa o di persone loro vicine. L’ordinanza disciplina anche i criteri e la procedura per la riduzione dei corrispettivi per l’utilizzazione della rete e le modalità di rimunerazione. I Cantoni di ubicazione dovranno inoltre contribuire con misure proprie per almeno la metà della riduzione, ad esempio attraverso sussidi o mutui agevolati. &lt;/p&gt; &lt;p&gt;Sono quattro le imprese di riciclaggio che potranno richiedere aiuti transitori ovvero Stahl Gerlafingen SA (SO), Steeltec SA (LU), Novelis Switzerland SA (VS) e Constellium Valais SA (VS). La riduzione dei corrispettivi per l’utilizzazione della rete ammonta al 50 per cento il primo anno, al 37,5 per cento il secondo anno, al 25 per cento il terzo anno e al 12,5 per cento il quarto anno. &lt;/p&gt; &lt;p&gt;I costi complessivi di circa 37 milioni di franchi saranno posti a carico di tutti i consumatori finali dalla società nazionale di rete Swissgrid. Pertanto, sull’arco dei quattro anni, le economie domestiche sosterranno costi aggiuntivi di circa 3 franchi, le piccole PMI di circa 33 franchi e le grandi PMI di circa 100 franchi .&lt;/p&gt; </text>
+      <link id="286209">
+        <title>Legge sull’approvvigionamento elettrico (Aiuti transitori urgenti in favore dei produttori di importanza strategica di ferro, acciaio e alluminio)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/787/it</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286270">
+        <title>Ordinanza sugli aiuti transitori in favore dei produttori di importanza strategica di ferro, acciaio e alluminio</title>
+        <format>pdf</format>
+        <size-kb>165</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92236.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286272">
+        <title>Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>131</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92194.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Marianne Zünd, capo Media e politica UFE, tel. +41 58 462 56 75</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat setzt Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten in Kraft</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 7. März 2025 die Verordnung über die Überbrückungshilfen für Eisen-, Stahl und Aluminiumproduzenten von strategischer Bedeutung gutgeheissen und rückwirkend per 1. Januar 2025 in Kraft gesetzt. Die Verordnung gilt bis Ende 2028. Die beschlossenen Massnahmen sollen die Kreislaufwirtschaft der Schweiz stärken und Arbeitsplätze erhalten.</lead>
+      <text link="no"> &lt;p&gt;Hohe Energiepreise stellen die Eisen-, Stahl- und Aluminiumproduzenten mit strategischer Bedeutung für die Kreislaufwirtschaft der Schweiz vor grosse Herausforderungen. Mit einer dringlichen Änderung des Stromversorgungsgesetzes hat das Parlament im Dezember Entlastungsmassnahmen beschlossen. Die Unternehmen können unter bestimmten Auflagen eine über vier Jahre – von 2025 bis 2028 – gestaffelte Reduktion der Netznutzungsentgelte beantragen.&lt;/p&gt; &lt;p&gt;Die Verordnung regelt die Auflagen. Dazu gehören die Erhaltung des Produktionsstandorts, die Erarbeitung eines Netto-Null-Fahrplans bis Ende 2025, das Verbot von variablen Vergütungen an die Mitglieder der Geschäftsleitung und des Verwaltungsrats, sowie die starke Einschränkung der Mittelabflüsse an die Eigentümer oder nahestehende Personen. Die Verordnung regelt weiter die Kriterien und den Prozess für die Reduktion der Netznutzungsentgelte und die Vergütungsmodalitäten. Die Standortkantone müssen zusätzlich mindestens die Hälfte der jeweiligen Reduktion durch eigene Massnahmen beisteuern, etwa durch Subventionen oder vergünstigte Darlehen. &lt;/p&gt; &lt;p&gt;Vier Recycling-Unternehmen können Überbrückungshilfen beantragen: Stahl Gerlafingen AG (SO), Steeltec AG (LU), Novelis Switzerland SA (VS) und Constellium Valais SA (VS). Die Reduktion der Nutzungsentgelte beträgt im ersten Jahr 50%, danach 37,5% im zweiten Jahr, 25% im dritten Jahr und 12,5% im vierten Jahr. &lt;/p&gt; &lt;p&gt;Die Gesamtkosten von rund 37 Millionen Franken werden von der nationalen Netzgesellschaft Swissgrid bei allen Endverbraucherinnen und Endverbrauchern erhoben. Für Haushalte entstehen dadurch Mehrkosten von rund 3 Franken über die vier Jahre, für kleinere KMU von rund 33 Franken und für grosse Unternehmen von rund 100 Franken.&lt;/p&gt; </text>
+      <link id="286207">
+        <title>Stromversorgungsgesetz (Dringliche Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/787/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286268">
+        <title>Verordnung über die Überbrückungshilfen für Eisen-, Stahl- und Aluminiumproduzenten von strategischer Bedeutung</title>
+        <format>pdf</format>
+        <size-kb>172</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92234.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286273">
+        <title>Erläuternder Bericht</title>
+        <format>pdf</format>
+        <size-kb>137</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92195.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Marianne Zünd, Leiterin Medien + Politik BFE, Tel. +41 58 462 56 75</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="it">Energia</name>
+        <name lang="rm">Energie</name>
+      </topic>
+      <topic id="47">
+        <name lang="de">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
+        <name lang="rm">Wirtschaft</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

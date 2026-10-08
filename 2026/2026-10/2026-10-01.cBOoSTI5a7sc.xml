@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="cBOoSTI5a7sc" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2026-10-01</pubdate>
+    <originator id="408" department-msg="no" lead="no" topnews="no">
+      <department-id>408</department-id>
+      <name lang="fr">Ministère public de la Confédération</name>
+      <name lang="it">Ministero pubblico della Confederazione</name>
+      <name lang="rm">Procura publica federala</name>
+      <name lang="de">Bundesanwaltschaft</name>
+      <name lang="en">Office of the Attorney General of Switzerland</name>
+      <www lang="de">https://www.bundesanwaltschaft.ch</www>
+      <www lang="en">https://www.bundesanwaltschaft.ch/en</www>
+      <www lang="fr">https://www.bundesanwaltschaft.ch/fr</www>
+      <www lang="it">https://www.bundesanwaltschaft.ch/it</www>
+      <email lang="de">info@ba.admin.ch</email>
+      <email lang="en">info@ba.admin.ch</email>
+      <email lang="fr">info@ba.admin.ch</email>
+      <email lang="it">info@ba.admin.ch</email>
+      <email lang="rm">info@ba.admin.ch</email>
+    </originator>
+    <originator id="404" department-msg="no" lead="yes" topnews="no">
+      <department-id>401</department-id>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="rm">Uffizi federal da polizia</name>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="en">Federal Office of Police</name>
+      <www lang="de">https://www.fedpol.admin.ch/</www>
+      <email lang="de">media@fedpol.admin.ch</email>
+      <email lang="en">media@fedpol.admin.ch</email>
+      <email lang="fr">media@fedpol.admin.ch</email>
+      <email lang="it">media@fedpol.admin.ch</email>
+      <email lang="rm">media@fedpol.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="SLW-73" org-id="404">
+        <name lang="de">Netzwerkkriminalität</name>
+        <name lang="en">Network crime</name>
+        <name lang="fr">Cybercriminalité</name>
+        <name lang="it">Cibercriminalità</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="404">
+        <name lang="it">Cibercriminalità</name>
+        <name lang="de">Netzwerkkriminalität</name>
+        <name lang="en">Network crime</name>
+        <name lang="fr">Cybercriminalité</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="404">
+        <name lang="de">Netzwerkkriminalität</name>
+        <name lang="en">Network crime</name>
+        <name lang="fr">Cybercriminalité</name>
+        <name lang="it">Cibercriminalità</name>
+      </keyword>
+      <keyword id="SLW-73" org-id="404">
+        <name lang="fr">Cybercriminalité</name>
+        <name lang="it">Cibercriminalità</name>
+        <name lang="de">Netzwerkkriminalität</name>
+        <name lang="en">Network crime</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+    </department>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Cybercrime: Computer network used by ransomware group dismantled in coordinated international operation</title>
+      <lead>On 30 September, an international large-scale operation resulted in the dismantling of IT infrastructure used by the “KillSec” ransomware group. The Federal Office of Police fedpol and the Office of the Attorney General of Switzerland (OAG) were directly involved as operational and strategic partners.</lead>
+      <text link="no">&lt;p&gt;Since 31 July 2025, the OAG has been conducting criminal proceedings against persons unknown on suspicion of data theft (Art. 143 Swiss Criminal Code (SCC), unauthorised access to a data processing system (Art. 143&lt;sup&gt;bis&lt;/sup&gt; SCC), damage to data (Art. 144&lt;sup&gt;bis&lt;/sup&gt; SCC), and extortion (Art. 156 SCC) following a series of ransomware-type&amp;nbsp;cyber-attacks carried out against several Swiss companies by the ransomware group KillSec (or “KillSecurity”) between October 2023 and June 2025.&lt;/p&gt; &lt;p&gt;Ransomware attacks involve the perpetrators gaining unauthorised access to the victim’s computer system, copying and exfiltrating valuable data, then encrypting the servers before demanding a ransom in exchange for the decryption key. Payment of the ransom in cryptocurrency is often demanded. Like other ransomware groups, KillSec employs a type of attack known as “double extortion”: after encrypting the victim company’s servers, if the company refuses to pay the ransom, for example, because it had backed up the data before it was stolen, the perpetrators threaten to publish the data on the darknet.&lt;/p&gt; &lt;p&gt;In this particular case, the OAG and fedpol participated in international investigations, coordinated by Europol and Eurojust, alongside seven other countries. A takedown operation was organised by these European agencies and carried out on 30 September. The operation resulted in the arrest of three individuals, as well as the seizure of evidence and assets. Eight searches were carried out in Spain, Greece, the United Kingdom and Romania. The authorities were thereby able to recover at least 110 terabytes of stolen data. In particular, they seized five servers used by the group to store data belonging to its victims.&lt;/p&gt; &lt;p&gt;Given the international nature of cybercrime, close cooperation among the various partners is essential, both at national and international levels. The action was preceded by extensive investigative work conducted by fedpol under the direction of the OAG. Working closely with the cantonal police forces and the National Cyber Security Centre (NCSC), fedpol investigators gathered and analysed detailed information on the network’s modus operandi. They also coordinated the exchange of information with foreign partners, thereby contributing to the operation’s success.&lt;/p&gt; &lt;p&gt;The fight against cybercrime not only aims to identify the perpetrators and bring them to justice, but also to restrict their activities and dismantle their infrastructure. Seizing servers and data disrupts network operations, thereby limiting the perpetrators’ ability to pursue their criminal activities; it also allows new evidence to be gathered that may help identify cybercriminals and better understand the role and degree of involvement of the various actors.&lt;/p&gt; &lt;p&gt;The presumption of innocence applies to all the parties involved in these proceedings. The OAG is not in a position to provide any further information on the ongoing criminal investigation at present.&lt;/p&gt; &lt;p&gt;Despite the blow dealt to this cybercriminal network, investigations conducted by the OAG and fedpol are continuing. The authorities remain fully committed to identifying the perpetrators of cybercrimes, apprehending them, and, if they are located abroad and circumstances permit, securing their extradition to Switzerland, as has already been the case in several instances. They are also working to secure their criminal convictions.&lt;/p&gt; &lt;p&gt;The NCSC would reiterate the importance of reporting cyberattacks and filing complaints in order to enhance the effectiveness of these investigations and contribute more broadly to the fight against cybercrime. Cyberattacks are not simply a problem for strategically important companies: everyone, whether a public entity, a business or an individual, is a potential target. All individuals and organisations that are victims of a cyberattack are therefore urged to report the incident to the relevant authorities or to file a complaint directly with the police or the Public Prosecutor’s Office.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.bacs.admin.ch/en/ransomware-en"&gt;Ransomware&lt;/a&gt;&lt;br&gt;National Cyber Security Centre&lt;/p&gt;</text>
+      <contact>Federal Office of Police fedpol, Communication +41 58 463 13 10 media@fedpol.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Cybercriminalità: smantellamento di una rete informatica utilizzata da un gruppo di ransomware tramite un&amp;#39;azione coordinata a livello internazionale</title>
+      <lead>Il 30 settembre, un&amp;#39;operazione internazionale su larga scala ha permesso di smantellare una struttura informatica utilizzata dal gruppo di ransomware «KillSec». L’Ufficio federale di polizia fedpol e il Ministero pubblico della Confederazione (MPC) sono stati direttamente coinvolti nell’intervento in qualità di partner operativi e strategici.</lead>
+      <text link="no">&lt;p&gt;Il Ministero pubblico della Confederazione (MPC) conduce dal 31 luglio 2025 un procedimento penale contro ignoti per sottrazione di dati (art. 143 CP), accesso abusivo a un sistema informatico (art. 143bis CP), danneggiamento di dati (art. 144bis CP) ed estorsione (art. 156 CP) a seguito di una serie di attacchi informatici di tipo ransomware sferrati contro diverse società svizzere dal gruppo di ransomware KillSec (o «KillSecurity») tra ottobre 2023 e giugno 2025.&lt;/p&gt; &lt;p&gt;Si ricorda che gli attacchi di tipo ransomware consistono, per gli autori, nell’accedere indebitamente al sistema informatico della vittima, nel copiare ed estrarre i dati di interesse, quindi nel crittografare i server prima di esigere un riscatto in cambio della chiave di decrittazione. Il pagamento del riscatto è spesso richiesto in criptovaluta. Come altri gruppi di ransomware, KillSec pratica un tipo di attacco definito «doppia estorsione». In altre parole, dopo aver crittografato i server dell’azienda vittima, se questa si rifiuta di pagare il riscatto – ad esempio perché ha effettuato il backup dei dati prima che venissero sottratti – gli autori minacciano di pubblicare tali dati sul darknet.&lt;/p&gt; &lt;p&gt;Nell’ambito di questo procedimento penale, il MPC e fedpol hanno partecipato alle indagini condotte a livello internazionale, coordinate da Europol ed Eurojust, insieme ad altri 7 Paesi. In tale contesto, queste agenzie europee hanno organizzato un’operazione di smantellamento, che si è svolta in data 30 settembre 2026. Questa operazione ha portato all’arresto di tre individui, nonché al sequestro di prove e beni. Otto perquisizioni sono state effettuate in Spagna, Grecia, Regno Unito e Romania. Le autorità sono così riuscite a recuperare almeno 110 terabyte di dati rubati. In particolare, hanno sequestrato cinque server utilizzati dal gruppo per archiviare i dati delle proprie vittime.&lt;/p&gt; &lt;p&gt;Data la natura internazionale della criminalità informatica, è essenziale una stretta cooperazione tra i diversi partner, sia a livello nazionale che internazionale. L’operazione è stata preceduta da un importante lavoro investigativo condotto da fedpol sotto la direzione del MPC. In stretta collaborazione con le polizie cantonali e l’Ufficio federale per la sicurezza informatica (OFCS), gli investigatori di fedpol hanno raccolto e analizzato informazioni dettagliate sul modus operandi della rete.&lt;/p&gt; &lt;p&gt;Analogamente ai magistrati federali, hanno inoltre garantito il coordinamento degli scambi di informazioni con i partner stranieri, contribuendo così al successo dell’operazione.&lt;/p&gt; &lt;p&gt;Va ricordato che la lotta alla criminalità informatica non mira solo a identificare e giudicare / far giudicare gli autori, ma anche a ostacolare le loro attività e a smantellare le loro infrastrutture. Interrompendo il funzionamento della rete, il sequestro di server e dati consente di limitare la capacità degli autori di proseguire le loro attività criminali, raccogliendo al contempo nuovi elementi di prova che potrebbero contribuire all’identificazione dei criminali informatici e a comprendere meglio il ruolo e il grado di coinvolgimento dei diversi attori.&lt;/p&gt; &lt;p&gt;La presunzione di innocenza si applica a tutti i partecipanti al procedimento. Per il momento, il MPC non fornisce ulteriori informazioni sull’indagine penale in corso.&lt;/p&gt; &lt;p&gt;Nonostante il colpo inferto a questa rete di criminali informatici, le indagini condotte dal MPC e da fedpol proseguono. Le autorità rimangono pienamente impegnate nell’identificare gli autori di reati informatici, nell’arrestarli e, qualora si trovino all’estero e le circostanze lo consentano, nell’ottenerne l’estradizione in Svizzera, come è già avvenuto in diversi casi. Si adoperano inoltre per ottenere la loro condanna penale.&lt;/p&gt; &lt;p&gt;Per rafforzare l’efficacia di queste indagini e contribuire più ampiamente alla lotta contro la criminalità informatica, l’OFCS ricorda l’importanza di segnalare gli attacchi informatici e di sporgere denuncia. Chiunque – ente pubblico, azienda o privato – è un potenziale bersaglio, non solo le imprese di importanza strategica: i privati e le organizzazioni vittime di un attacco informatico sono quindi invitati a segnalare i fatti alle autorità competenti o a sporgere denuncia direttamente alla polizia o al Ministero pubblico.&lt;/p&gt; &lt;h2&gt;Link&lt;/h2&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.bacs.admin.ch/it/ransomware-it"&gt;Ransomware&lt;/a&gt;&lt;br&gt;Ufficio federale della cibersicurezza&lt;/p&gt;</text>
+      <contact>Comunicazione di fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Cybercriminalité : Démantèlement d&amp;#39;un réseau informatique utilisé par un groupe de ransomware grâce à une action coordonnée sur le plan international</title>
+      <lead>Le 30 septembre, une opération internationale de grande envergure a permis de démanteler une structure informatique utilisée par le groupe de Ransomware « KillSec ». L’office fédéral de la police fedpol et le Ministère public de la Confédération (MPC) ont été directement impliqués dans l&amp;#39;intervention en tant que partenaires opérationnels et stratégiques.</lead>
+      <text link="no">&lt;p&gt;Le Ministère public de la Confédération (MPC) mène depuis le 31 juillet 2025 une procédure pénale contre inconnus pour soustraction de données (art. 143 CP), accès indu à un système informatique (art. 143bis CP), détérioration de données (art. 144bis CP) et extorsion (art. 156 CP) à la suite d’une série d’attaques informatiques de type ransomware&amp;nbsp;menées contre plusieurs sociétés suisses par le groupe de ransomware KillSec (ou « KillSecurity ») entre octobre 2023 et juin 2025.&lt;/p&gt; &lt;p&gt;Pour rappel, les attaques de type ransomware consistent, pour les auteurs, à accéder indument au système informatique de la victime, à en copier et exfiltrer les données intéressantes, puis à chiffrer les serveurs avant d’exiger une rançon en échange de la clé de déchiffrement. Le paiement de la rançon est souvent demandé en cryptomonnaie. Comme d’autres groupes de ransomware, KillSec pratique un type d’attaque qualifié de « double extorsion ». En d’autres termes, après avoir chiffré les serveurs de la société victime, si celle-ci refuse de verser la rançon – par exemple parce qu’elle a sauvegardé les données avant qu’elles soient soustraites – les auteurs menacent de publier ces données sur le darknet.&lt;/p&gt; &lt;p&gt;Dans le cadre de cette procédure pénale, le MPC et fedpol ont participé aux investigations menées sur le plan international, coordonnées par Europol et Eurojust, au côté de 7 autres pays. Dans ce contexte, une opération de démantèlement a été mise sur pied par ces agences européennes et menée en date du 30 septembre 2026. Cette opération a abouti à l'arrestation de trois individus ainsi qu'à la saisie de preuves et d'avoirs. Huit perquisitions ont été menées en Espagne, en Grèce, au Royaume-Uni et en Roumanie. Les autorités ont ainsi pu récupérer au moins 110 térabytes de données volées. Elles ont notamment saisi cinq serveurs utilisés par le groupe pour stocker les données de ses victimes.&lt;/p&gt; &lt;p&gt;Compte tenu du caractère international de la cybercriminalité, une coopération étroite entre les différents partenaires est essentielle, tant au niveau national qu’international. L’action a été précédée par un important travail d’investigation mené par fedpol sous la direction du MPC. En étroite collaboration avec les polices cantonales et l’Office fédéral de la cybersécurité (OFCS), les enquêteurs de fedpol ont recueilli et analysé des informations détaillées sur le mode opératoire du réseau. À l’instar des magistrats fédéraux, ils ont également assuré la coordination des échanges d’informations avec les partenaires étrangers, contribuant ainsi au succès de l’opération.&lt;/p&gt; &lt;p&gt;Il convient de rappeler que la lutte contre la cybercriminalité ne vise pas uniquement à identifier et juger / faire juger les auteurs, mais également à entraver leurs activités et à démanteler leurs infrastructures. En perturbant le fonctionnement du réseau, la saisie de serveurs et de données permet de limiter la capacité des auteurs à poursuivre leurs activités criminelles, tout en recueillant de nouveaux éléments de preuve susceptibles de contribuer à l’identification des cybercriminels et de mieux comprendre le rôle et le degré d’implication des différents acteurs.&lt;/p&gt; &lt;p&gt;La présomption d’innocence s’applique à tous les participants à la procédure. Pour le moment, le MPC ne donne pas d'autres informations sur l’enquête pénale en cours.&lt;/p&gt; &lt;p&gt;Malgré le coup porté à ce réseau de cybercriminels, les enquêtes menées par le MPC et fedpol se poursuivent. Les autorités restent pleinement mobilisées afin d’identifier les auteurs de cyberinfractions, de les interpeller et, lorsqu’ils se trouvent à l’étranger et que les circonstances le permettent, d’obtenir leur extradition vers la Suisse, comme cela a déjà été le cas dans plusieurs dossiers. Elles s’emploient également à obtenir leur condamnation pénale.&lt;/p&gt; &lt;p&gt;Pour renforcer l’efficacité de ces investigations et contribuer plus largement à la lutte contre la cybercriminalité, l’OFCS rappelle l’importance de signaler les cyberattaques et de déposer plainte. Chacun – collectivité publique, société ou particulier - est une cible potentielle et pas uniquement les entreprises d’importance stratégique : les particuliers comme les organisations victimes d’une cyberattaque sont donc encouragés à signaler les faits aux autorités compétentes ou à déposer plainte directement auprès de la police ou du Ministère public.&lt;/p&gt; &lt;h2&gt;Liens&lt;/h2&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.bacs.admin.ch/fr/ransomware-fr"&gt;Ransomware&lt;/a&gt;&lt;br&gt;Office fédéral de la cybersécurité&lt;/p&gt;</text>
+      <contact>Communication fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Cyberkriminalität: Erfolgreiche Zerschlagung der IT-Infrastruktur einer Ransomware-Gruppe dank einer international koordinierten Aktion</title>
+      <lead>Am 30. September gelang es im Rahmen einer gross angelegten internationalen Operation, eine von der Ransomware-Gruppe «KillSec» genutzte IT-Infrastruktur zu zerschlagen. Das Bundesamt für Polizei fedpol und die Bundesanwaltschaft (BA) waren als operative und strategische Partner direkt an der Intervention beteiligt.</lead>
+      <text link="no">&lt;p&gt;Die BA führt seit dem 31. Juli 2025 ein Strafverfahren gegen Unbekannt wegen unbefugter Datenbeschaffung (Art. 143 StGB), unbefugtem Eindringen in ein Datenverarbeitungssystem (Art. 143bis StGB), Datenbeschädigung (Art. 144bis StGB) und Erpressung (Art. 156 StGB) infolge von Ransomware-Angriffen, die von der Ransomware-Gruppe KillSec (oder «KillSecurity») zwischen Oktober 2023 und Juni 2025 gegen mehrere Schweizer Unternehmen verübt wurden.&lt;/p&gt; &lt;p&gt;Bei Ransomware-Angriffen dringt die Täterschaft unbefugterweise in das Datenverarbeitungssystem des Opfers ein, kopiert und entwendet relevante Daten, verschlüsselt anschliessend die Server und fordert dann ein Lösegeld als Gegenleistung für den Entschlüsselungscode. Das Lösegeld muss dabei häufig in einer Kryptowährung gezahlt werden. Wie andere Ransomware-Gruppen wendet auch KillSec die Angriffsmethode der «doppelten Erpressung» an. Das heisst, nachdem sie die Server des betroffenen Unternehmens verschlüsselt hat, droht die Täterschaft mit der Veröffentlichung dieser Daten im Darknet, sollte sich das Unternehmen weigern, das Lösegeld zu zahlen – beispielsweise, weil es die Daten vor deren Entwendung gesichert hat.&lt;/p&gt; &lt;p&gt;Im Rahmen dieses Strafverfahrens haben sich die BA und fedpol an den auf internationaler Ebene geführten Ermittlungen beteiligt, die von Europol und Eurojust koordiniert wurden, gemeinsam mit den Behörden aus sieben weiteren Ländern.&lt;/p&gt; &lt;p&gt;In diesem Zusammenhang wurde von den oben genannten europäischen Agenturen eine Abschaltaktion vorbereitet und am 30. September 2026 durchgeführt. Die Aktion führte zur Festnahme von drei Personen sowie zur Beschlagnahmung von Beweismitteln und Vermögenswerten.&lt;/p&gt; &lt;p&gt;In Spanien, Griechenland, dem Vereinigten Königreich und Rumänien wurden insgesamt acht Hausdurchsuchungen durchgeführt. Dabei konnten die Behörden mindestens 110 Terabyte gestohlener Daten sicherstellen. Insbesondere wurden fünf Server beschlagnahmt, die von der Gruppe zur Speicherung der Daten ihrer Opfer verwendet wurden.&lt;/p&gt; &lt;p&gt;Angesichts des internationalen Charakters der Cyberkriminalität ist eine enge Zusammenarbeit zwischen den verschiedenen Partnern auf nationaler und internationaler Ebene unerlässlich. Der Aktion gingen umfangreiche Ermittlungen voraus, die fedpol unter der Leitung der BA durchführte. In enger Zusammenarbeit mit den Kantonspolizeien und dem Bundesamt für Cybersicherheit (BACS) sammelten und analysierten die Ermittler von fedpol detaillierte Informationen über den Modus operandi des Netzwerks. Wie auch die Staatsanwälte des Bundes koordinierten sie den Informationsaustausch mit den ausländischen Partnern und trugen somit auch zum Erfolg der Operation bei.&lt;/p&gt; &lt;p&gt;Die Bekämpfung der Cyberkriminalität zielt natürlich nicht nur auf die Identifikation der Täterschaft und deren Strafverfolgung, sondern auch auf eine Unterbindung ihrer Aktivitäten sowie die Zerschlagung ihrer Infrastrukturen ab. Die Beschlagnahme von Servern und Daten beeinträchtigt die Funktionsweise eines kriminellen Netzwerks und schränkt die Fähigkeit der Täterschaft, ihre kriminellen Aktivitäten fortzusetzen, ein. Zugleich ermöglicht sie das Sammeln neuer Beweismittel, die zur Identifizierung der Cyberkriminellen beitragen und ein besseres Verständnis der Rolle und des Beteiligungsgrads der verschiedenen Akteure ermöglicht.&lt;/p&gt; &lt;p&gt;Für alle Verfahrensbeteiligten gilt die Unschuldsvermutung. Die BA erteilt derzeit keine weiteren Auskünfte zum laufenden Strafverfahren.&lt;/p&gt; &lt;p&gt;Die BA und fedpol setzen ihre Ermittlungen trotz des Rückschlags für dieses Netzwerk von Cyberkriminellen fort. Die Behörden arbeiten weiterhin mit vollem Einsatz daran, die Täter von Cyberdelikten zu identifizieren, sie festzunehmen und – sofern sie sich im Ausland befinden und die Umstände es zulassen – ihre Auslieferung an die Schweiz zu erwirken, wie dies bereits in mehreren Fällen geschehen ist. Sie bemühen sich zudem um deren strafrechtliche Verurteilung.&lt;/p&gt; &lt;p&gt;In diesem Zusammenhang weist das BACS erneut darauf hin, wie wichtig es ist, Cyberangriffe zu melden und Strafanzeige zu erstatten, um so die Wirksamkeit der Ermittlungen zu stärken und generell zur Bekämpfung der Cyberkriminalität beizutragen. Alle – ob öffentliche Einrichtungen, Unternehmen oder Privatpersonen –nicht nur Unternehmen von strategischer Bedeutung, sind potenzielle Zielscheiben dieser Angriffe. Privatpersonen und Organisationen, die Opfer eines Cyberangriffs geworden sind, werden daher ermutigt, den Vorfall den zuständigen Behörden zu melden oder direkt bei der Polizei oder der Staatsanwaltschaft Anzeige zu erstatten.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;p&gt;&lt;a target="_blank" href="https://www.bacs.admin.ch/de/ransomware-de"&gt;Ransomware&lt;/a&gt;&lt;br&gt;Bundesamt für Cybersicherheit&lt;/p&gt;</text>
+      <contact>Kommunikation fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="345">
+        <name lang="it">Cibersicurezza</name>
+        <name lang="rm">Cybersegirezza</name>
+        <name lang="de">Cybersicherheit</name>
+        <name lang="en">Cybersecurity</name>
+        <name lang="fr">Cybersécurité</name>
+      </topic>
+      <topic id="17">
+        <name lang="de">Organisierte Kriminalität</name>
+        <name lang="en">Organised crime</name>
+        <name lang="fr">Criminalité organisée</name>
+        <name lang="it">Criminalità organizzata</name>
+        <name lang="rm">Criminalitad organisada</name>
+      </topic>
+      <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

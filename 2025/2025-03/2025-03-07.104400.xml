@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104400" revoked="no">
+    <type>Memorandum</type>
+    <version>3</version>
+    <pubdate>2025-03-07</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="502" department-msg="no" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <name lang="rm">Generalsekretariat VBS</name>
+      <www lang="de">https://www.vbs.admin.ch/</www>
+      <www lang="fr">https://www.vbs.admin.ch/</www>
+      <www lang="it">https://www.vbs.admin.ch/</www>
+      <www lang="en">https://www.vbs.admin.ch/</www>
+      <www lang="rm">https://www.vbs.admin.ch/</www>
+      <email lang="de">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="fr">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="it">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="en">postmaster.vbs@gs-vbs.admin.ch</email>
+      <email lang="rm">postmaster.vbs@gs-vbs.admin.ch</email>
+    </originator>
+    <originator id="1101" department-msg="no" lead="no" topnews="no">
+      <department-id>501</department-id>
+      <name lang="de">Bundesamt für Cybersicherheit</name>
+      <name lang="fr">Office fédéral de la cybersécurité</name>
+      <name lang="it">Ufficio federale della cibersicurezza</name>
+      <name lang="en">National Cyber Security Centre</name>
+      <name lang="rm">Bundesamt für Cybersicherheit</name>
+      <www lang="de">https://www.bacs.admin.ch</www>
+      <www lang="fr">https://www.ofcs.admin.ch</www>
+      <www lang="it">https://www.ufcs.admin.ch</www>
+      <www lang="en">https://www.ncsc.admin.ch/ncsc/en/home.html</www>
+      <www lang="rm">https://www.bacs.admin.ch</www>
+      <email lang="de">media@ncsc.admin.ch</email>
+      <email lang="fr">media@ncsc.admin.ch</email>
+      <email lang="it">media@ncsc.admin.ch</email>
+      <email lang="en">media@ncsc.admin.ch</email>
+      <email lang="rm">media@ncsc.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="5530" org-id="502">
+        <name lang="de">Bundespolitik / Bundesrat</name>
+        <name lang="fr">Politique fédérale</name>
+        <name lang="it">Politica federale / Consiglio federale</name>
+        <name lang="en">federal policy / Federal Council(lor)</name>
+        <name lang="rm">Bundespolitik / Bundesrat</name>
+      </keyword>
+      <keyword id="5127" org-id="502">
+        <name lang="de">Dossier Cyber Defence</name>
+        <name lang="fr">Dossier Cyber Defence</name>
+        <name lang="it">Dossier Cyber Defence</name>
+        <name lang="en">Dossier Cyber Defence</name>
+        <name lang="rm">Dossier Cyber Defence</name>
+      </keyword>
+    </keywords>
+    <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sports</name>
+      <name lang="rm">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <www lang="de">http://www.vbs.admin.ch</www>
+      <www lang="fr">http://www.vbs.admin.ch</www>
+      <www lang="it">http://www.vbs.admin.ch</www>
+      <www lang="en">http://www.vbs.admin.ch</www>
+      <www lang="rm">http://www.vbs.admin.ch</www>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="en">The Federal Council</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="en">https://www.admin.ch/gov/en/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="en">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Meldepflicht für Cyberangriffe auf kritische Infrastrukturen gilt ab 1. April</title>
+      <lead>An seiner Sitzung vom 7. März 2025 hat der Bundesrat die Meldepflicht für Cyberangriffe auf kritische Infrastrukturen per 1. April in Kraft gesetzt. Die Betreiberinnen und Betreiber von kritischen Infrastrukturen werden verpflichtet, dem Bundesamt für Cybersicherheit (BACS) Cyberangriffe 24 Stunden nach deren Entdeckung zu melden. Diese Meldungen werden dem BACS ermöglichen, Betroffene bei der Bewältigung von Cyberangriffen zu unterstützen und Betreiberinnen kritischer Infrastrukturen frühzeitig zu warnen.</lead>
+      <text link="no">&lt;p&gt;Aufgrund der zunehmenden Bedrohung durch Cybervorfälle wird in der Schweiz eine Meldepflicht für Cyberangriffe bei kritischen Infrastrukturen eingeführt. Die Betreiberinnen und Betreiber von kritischen Infrastrukturen werden verpflichtet, dem Bundesamt für Cybersicherheit (BACS) Cyberangriffe zu melden.&lt;/p&gt;&lt;p&gt;Der Bundesrat hat die dafür erforderliche Änderung des Bundesgesetzes über die Informationssicherheit beim Bund (Informationssicherheitsgesetz, ISG) vom 29. September 2023 per 1. April in Kraft gesetzt. Das ISG legt fest, dass meldepflichtige Behörden und Organisationen wie beispielsweise die Energie- oder Trinkwasserversorgung, Transportunternehmen und die Verwaltungen von Kantonen und Gemeinden Cyberangriffe innerhalb von 24 Stunden nach der Entdeckung an das BACS melden müssen. &lt;/p&gt;&lt;p&gt;Ein Cyberangriff muss unter anderem gemeldet werden, wenn er die Funktionsfähigkeit der betroffenen kritischen Infrastruktur gefährdet, zu einer Manipulation oder zu einem Abfluss von Informationen geführt hat oder mit Erpressung, Drohung oder Nötigung verbunden ist. Wird der Meldepflicht nicht Folge geleistet, sieht das Gesetz Bussen vor. &lt;/p&gt;&lt;p&gt;Damit den Betroffenen genügend Zeit bleibt, sich auf die neue Meldepflicht einzustellen, hat der Bundesrat beschlossen, die gesetzlichen Grundlagen für die Bussen erst per 1. Oktober 2025 in Kraft zu setzen. In den ersten 6 Monaten gilt somit die Meldepflicht, die Unterlassung von Meldungen wird aber noch nicht sanktioniert.&lt;/p&gt;&lt;h2&gt;Meldeformular des BACS auf bestehender Plattform&lt;/h2&gt;&lt;p&gt;Um den Meldeprozess möglichst einfach zu gestalten, stellt das BACS auf seiner bestehenden Plattform für den Informationsaustausch mit Betreiberinnen und Betreiber kritischer Infrastrukturen ein Meldeformular zur Verfügung. Organisationen, welche keinen Zugriff auf die Plattform haben, können alternativ die Meldungen auch per E-Mail-Formular abgeben, welches auf der Website des BACS zur Verfügung stehen wird. Können bei der Erstmeldung innerhalb von 24 Stunden noch nicht alle Angaben gemacht werden, besteht eine Frist von 14 Tagen, um die Meldung zu vervollständigen.&lt;/p&gt;&lt;h2&gt;Cybersicherheitsverordnung regelt Ausnahmen&lt;/h2&gt;&lt;p&gt;Weiter hat der Bundesrat die Cybersicherheitsverordnung (CSV) gutgeheissen und ebenfalls auf den 1. April 2025 in Kraft gesetzt. Die CSV enthält die Ausführungsbestimmungen zur Meldepflicht und regelt insbesondere die Ausnahmen nach Art. 74c des ISG. Des Weiteren enthält die Verordnung auch Bestimmungen über die Nationale Cyberstrategie, die Aufgaben des BACS und den Informationsaustausch des BACS mit Behörden und Organisationen.&lt;/p&gt;&lt;p&gt;Die Vernehmlassung zur CSV wurde zwischen dem 22. Mai und dem 13. September 2024 durchgeführt und hat eine breite Unterstützung für die Stärkung der Cybersicherheit in der Schweiz gezeigt. Das wichtigste Anliegen der Betroffenen war, dass die Meldepflicht möglichst einfach zu erfüllen ist und mit weiteren Meldepflichten (z. B. datenschutzrechtlichen Meldepflichten) harmonisiert ist. Dieses Anliegen konnte berücksichtigt werden. Das Meldeformular des BACS ermöglicht eine rasche Erfassung der nötigen Informationen und auf Wunsch eine Weiterleitung an weitere Behörden, gegenüber denen ebenfalls eine Meldepflicht besteht, beispielsweise an die Eidgenössische Finanzmarktaufsicht oder an den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten. &lt;/p&gt;&lt;p&gt;Eine weitere Verordnung betrifft den Namenswechsel im Zusammenhang mit der Überführung des Nationalen Zentrums für Cybersicherheit (NCSC) in ein Bundesamt im VBS. Um diesen Namenswechsel in den rechtlichen Grundlagen nachzuvollziehen, hat der Bundesrat eine entsprechende Verordnung per 1. April 2025 erlassen.&lt;/p&gt;&lt;h2&gt;Meilenstein für die Cybersicherheit in der Schweiz&lt;/h2&gt;&lt;p&gt;Die Einführung der Meldepflicht als erste sektorübergreifende Regulierung ist ein Meilenstein für die Cybersicherheit der Schweiz. Die Stärkung des Informationsaustausches ist entscheidend, um der raschen Entwicklung der Cyberbedrohungen mit geeigneten Massnahmen entgegenzutreten. Die Einführung der Meldepflicht für Cyberangriffe in der Schweiz entspricht internationalen Standards. Seit 2018 gilt in allen EU-Mitgliedstaaten eine Meldepflicht für Cybervorfälle gemäss der NIS-Richtlinie.&lt;/p&gt;</text>
+      <link id="286378">
+        <title>Webdossier zur Meldepflicht</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/de/home/meldepflicht.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286379">
+        <title>Informationssicherheitsgesetz (ISG)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/257/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286385">
+        <title>Verordnung über die Cybersicherheit</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92182.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286386">
+        <title>Verordnung über die Cybersicherheit: Erläuterungen</title>
+        <format>pdf</format>
+        <size-kb>258</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92167.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286387">
+        <title>Bericht über die Ergebnisse der Vernehmlassung</title>
+        <format>pdf</format>
+        <size-kb>244</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92168.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286388">
+        <title>Verordnung über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung des Nationalen Zentrums für Cybersicherheit (NCSC) in Bundesamt für Cybersicherheit (BACS)</title>
+        <format>pdf</format>
+        <size-kb>200</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92184.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Kommunikation BACS&#13; +41 58 465 53 56&#13; media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>L’obligation de signaler les cyberattaques contre des infrastructures critiques entre en vigueur le 1er avril 2025</title>
+      <lead>Lors de sa séance du 7 mars 2025, le Conseil fédéral a décidé de promulguer au 1er avril l’obligation de signaler les cyberattaques contre des infrastructures critiques. Depuis cette date, les exploitants d’infrastructures critiques sont tenus d’annoncer les cyberattaques à l’Office fédéral de la cybersécurité (OFCS) dans les 24 heures suivant leur détection. Ces signalements permettront à l’OFCS d’aider les entreprises concernées à maîtriser la cyberattaque dont elles sont victimes et d’alerter les exploitants d’infrastructures critiques à un stade précoce.</lead>
+      <text link="no">&lt;p&gt;La menace croissante que représentent les cyberincidents a incité la Suisse à introduire une obligation de signalement des cyberattaques contre des infrastructures critiques. Les exploitants d’infrastructures critiques sont désormais tenus d’annoncer toute cyberattaque à l’OFCS.&lt;/p&gt;&lt;p&gt;Le Conseil fédéral a décidé de promulguer au 1er avril 2025 la modification de la loi fédérale du 18 décembre 2020 sur la sécurité de l’information au sein de la Confédération (loi sur la sécurité de l’information, LSI) telle qu’adoptée par le Parlement le 29 septembre 2023. La LSI précise que les autorités et les organisations assujetties, telles les entreprises œuvrant dans les domaines de l’approvisionnement énergétique et de l’approvisionnement en eau potable, les entreprises de transport et les autorités cantonales ou communales ont l’obligation de signaler les cyberattaques à l’OFCS dans les 24 heures suivant leur détection.&lt;/p&gt;&lt;p&gt;Une cyberattaque doit être signalée, notamment lorsqu’elle met en péril le fonctionnement de l’infrastructure critique concernée, a entraîné une manipulation ou une fuite d’informations, ou s’accompagne d’actes de chantage, de menaces ou de contrainte. La loi prévoit des amendes si l’obligation de signalement n’est pas respectée.&lt;/p&gt;&lt;p&gt;Mais le Conseil fédéral a décidé que les bases légales relatives aux amendes n’entreront en vigueur qu’au 1er octobre 2025 pour laisser le temps aux autorités et aux organisations concernées de s’adapter au nouveau système. L’obligation de signalement s’applique pendant les six premiers mois, mais sans sanction en l’absence de déclaration pendant cette période.&lt;/p&gt;&lt;h2&gt;Formulaire de signalement de l’OFCS sur la plateforme&lt;/h2&gt;&lt;p&gt;Pour simplifier autant que possible le processus, l’OFCS a prévu un formulaire ad hoc sur la plateforme qu’elle a mise en place pour l’échange d’informations avec les exploitants d’infrastructures critiques. Les organisations qui n’ont pas accès à la plateforme peuvent également envoyer les signalements par courriel avec un formulaire disponible sur le site web de l’OFCS. Si toutes les informations requises ne peuvent pas être fournies dans les 24 heures, le délai pour compléter le signalement est de 14 jours.&lt;/p&gt;&lt;h2&gt;Exceptions réglementées dans l’ordonnance sur la cybersécurité&lt;/h2&gt;&lt;p&gt;Par ailleurs, le Conseil fédéral a approuvé l’ordonnance sur la cybersécurité (OCyS) et fixé son entrée en vigueur au 1er avril 2025. L’OCyS contient les dispositions d’exécution relatives à l’obligation de signalement, réglementant notamment les exceptions prévues à l’art. 74c de la LSI. En outre, l’ordonnance contient également des dispositions relatives à la cyberstratégie nationale, aux tâches de l’OFCS et à l’échange d’informations entre l’OFCS et les autorités et organisations.&lt;/p&gt;&lt;p&gt;Le projet d’OCyS a été mis en consultation entre le 22 mai et le 13 septembre 2024. Il a rencontré un large soutien en vue de renforcer la cybersécurité en Suisse. La principale préoccupation des autorités et des organisations concernées était que le formulaire de signalement soit aussi simple que possible à remplir et qu’il soit harmonisé avec d’autres obligations de signalement (en matière de protection des données par exemple). Cette demande a pu être prise en compte. Le formulaire de signalement de l’OFCS permet de saisir rapidement les informations nécessaires et, sur demande, de les transmettre à d’autres autorités vis-à-vis desquelles existe une obligation de signalement, par exemple à l’Autorité fédérale de surveillance sur les marchés financiers ou au préposé fédéral à la protection des données et à la transparence.&lt;/p&gt;&lt;p&gt;Une autre ordonnance concerne le changement de nom lié à la transformation du Centre national de cybersécurité (NCSC) en un office fédéral au sein du DDPS. Afin de transcrire ce changement de nom dans les bases juridiques, le Conseil fédéral a édicté une ordonnance correspondante au 1er avril 2025.&lt;/p&gt;&lt;h2&gt;Jalon pour la cybersécurité en Suisse&lt;/h2&gt;&lt;p&gt;L’introduction de l’obligation de signaler est une étape importante pour la cybersécurité de la Suisse en tant que première réglementation multisectorielle. L’intensification des échanges d’informations est essentielle pour répondre à l’évolution rapide des cybermenaces avec des mesures appropriées. L’introduction de l’obligation de signaler les cyberattaques en Suisse est conforme aux normes internationales. Ainsi, depuis 2018, tous les États membres de l’UE ont l’obligation de notifier les cyberincidents conformément à la directive NIS.&lt;/p&gt;</text>
+      <link id="286380">
+        <title>Dossier web sur l’obligation de signaler</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/fr/home/meldepflicht.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286381">
+        <title>Loi sur la sécurité de l’information (LSI)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/257/fr</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286389">
+        <title>Ordonnance sur la cybersécurité</title>
+        <format>pdf</format>
+        <size-kb>309</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92237.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286390">
+        <title>Ordonnance sur la cybersécurité : commentaires</title>
+        <format>pdf</format>
+        <size-kb>255</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92171.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286391">
+        <title>Rapport sur les résultats de la consultation</title>
+        <format>pdf</format>
+        <size-kb>277</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92172.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286392">
+        <title>Ordonnance concernant l’adaptation de dispositions légales à la suite du changement de nom du Centre national pour la cybersécurité (NCSC) en Office fédéral de la cybersécurité (OFCS)</title>
+        <format>pdf</format>
+        <size-kb>196</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92185.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Communication OFCS&#13; +41 58 465 53 56&#13; media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Obbligo di segnalare ciberattacchi a infrastrutture critiche in vigore dal 1° aprile</title>
+      <lead>Nella sua seduta del 7 marzo 2025 il Consiglio federale ha posto in vigore l’obbligo di segnalare ciberattacchi a infrastrutture critiche valido a partire dal 1° aprile. I gestori di infrastrutture critiche saranno tenuti a segnalare ciberattacchi all’Ufficio federale della cibersicurezza (UFCS) entro le 24 ore successive alla loro individuazione. Queste segnalazioni consentiranno all’UFCS di sostenere gli interessati nel far fronte ai ciberattacchi e di avvisare i gestori di infrastrutture critiche.</lead>
+      <text link="no">&lt;p&gt;Data la crescente minaccia dovuta ai ciberincidenti, in Svizzera verrà introdotto un obbligo di segnalazione dei ciberattacchi a infrastrutture critiche. I gestori di infrastrutture critiche saranno tenuti a segnalare i ciberattacchi all’Ufficio federale della cibersicurezza (UFCS).&lt;/p&gt;&lt;p&gt;Il Consiglio federale ha posto in vigore dal 1° aprile la modifica del 29 settembre 2023 necessaria a tale scopo della legge federale sulla sicurezza delle informazioni in seno alla Confederazione (legge sulla sicurezza delle informazioni, LSIn). La LSIn stabilisce che le autorità e le organizzazioni assoggettate all’obbligo di segnalazione, come ad esempio nel settore dell’approvvigionamento energetico e idrico, le imprese di trasporto e le amministrazioni cantonali e comunali, sono tenute a segnalare i ciberattacchi all’UFCS entro 24 ore dal momento in cui sono stati individuati. &lt;/p&gt;&lt;p&gt;Un ciberattacco dev’essere segnalato, tra l’altro, se rischia di compromettere il funzionamento dell’infrastruttura critica interessata, ha comportato una manipolazione o una fuga d’informazioni oppure è correlato ai reati di estorsione, minaccia o coazione. La legge prevede delle multe nell’ipotesi in cui non venga dato seguito all’obbligo di segnalazione. &lt;/p&gt;&lt;p&gt;Affinché gli interessati abbiano tempo a sufficienza per prepararsi in vista del nuovo obbligo di segnalazione, il Consiglio federale ha deciso di porre in vigore le basi legali per le multe solo a partire dal 1° ottobre 2025. Pertanto nei primi sei mesi vi è l’obbligo di segnalazione, ma chi omette di effettuare segnalazioni non incorre ancora in sanzioni.&lt;/p&gt;&lt;h2&gt;Modulo di segnalazione dell’UFCS sulla piattaforma esistente&lt;/h2&gt;&lt;p&gt;Per rendere il processo di segnalazione il più semplice possibile, sulla sua piattaforma esistente l’UFCS mette a disposizione un modulo di segnalazione per lo scambio di informazioni con i gestori di infrastrutture critiche. In alternativa, le organizzazioni che non hanno accesso alla piattaforma possono effettuare segnalazioni anche tramite un modulo da spedire via e-mail che sarà disponibile sul sito web dell’UFCS. Se in occasione della prima segnalazione da effettuare entro 24 ore non è ancora possibile fornire tutte le informazioni necessarie, vige un termine di 14 giorni per completare la segnalazione.&lt;/p&gt;&lt;h2&gt;L’ordinanza sulla cibersicurezza disciplina le eccezioni&lt;/h2&gt;&lt;p&gt;Il Consiglio federale ha inoltre approvato l’ordinanza sulla cibersicurezza (OCS) e l’ha posta in vigore dal 1° aprile 2025. L’OCS contiene le disposizioni esecutive relative all’obbligo di segnalazione e disciplina in particolare le eccezioni di cui all’articolo 74c della LSIn. In più, l’ordinanza contiene anche disposizioni relative alla Ciberstrategia nazionale, ai compiti dell’UFCS e allo scambio di informazioni tra UFCS e autorità e organizzazioni.&lt;/p&gt;&lt;p&gt;La procedura di consultazione concernente l’OCS si è svolta tra il 22 maggio e il 13 settembre 2024: nel corso della procedura è emerso l’ampio sostegno a favore del rafforzamento della cibersicurezza in Svizzera. La richiesta più importante degli interessati era che l’adempimento dell’obbligo di segnalazione venisse reso il più semplice possibile e coordinato con altri obblighi di segnalazione (ad es. obblighi di notifica in materia di protezione dei dati). È stato possibile tenere conto di tale richiesta. Il modulo di segnalazione dell’UFCS consente di inserire le informazioni richieste in modo rapido e di inoltrare su relativa richiesta il modulo ad altre autorità nei confronti delle quali vi è anche un obbligo di segnalazione, ad esempio all’Autorità federale di vigilanza sui mercati finanziari o all’Incaricato federale della protezione dei dati e della trasparenza. &lt;/p&gt;&lt;p&gt;Un’altra ordinanza riguarda il cambio di denominazione nel contesto del trasferimento del Centro nazionale per la cibersicurezza (NCSC) a un ufficio federale nel DDPS. Per adeguare le basi legali in modo tale che rechino la nuova denominazione, il Consiglio federale ha emanato una relativa ordinanza che entrerà in vigore il 1° aprile 2025.&lt;/p&gt;&lt;h2&gt;Pietra miliare per la cibersicurezza in Svizzera&lt;/h2&gt;&lt;p&gt;L’introduzione dell’obbligo di segnalazione come prima regolamentazione intersettoriale rappresenta una pietra miliare per la cibersicurezza in Svizzera. Consolidare lo scambio di informazioni è fondamentale per far fronte alla rapida evoluzione delle ciberminacce adottando misure adeguate. L’introduzione dell’obbligo di segnalazione per ciberattacchi in Svizzera è conforme agli standard internazionali. Dal 2018 in tutti i Paesi membri dell’UE è in vigore un obbligo di segnalazione per incidenti informatici secondo la direttiva NIS.&lt;/p&gt;</text>
+      <link id="286382">
+        <title>Dossier web sull’obbligo di notifica</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/it/home/meldepflicht.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286383">
+        <title>Legge sulla sicurezza delle informazioni (LSIn)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/257/it</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286393">
+        <title>Rapporto sui risultati della procedura di consultazione</title>
+        <format>pdf</format>
+        <size-kb>271</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92174.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286394">
+        <title>Ordinanza sull’adeguamento di leggi in seguito al cambiamento della designazione del Centro nazionale per la cibersicurezza (NCSC) in Ufficio federale della cibersicurezza (UFCS)</title>
+        <format>pdf</format>
+        <size-kb>194</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92186.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286395">
+        <title>Ordinanza sulla cibersicurezza</title>
+        <format>pdf</format>
+        <size-kb>269</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92252.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286396">
+        <title>Ordinanza sulla cibersicurezza: Rapporto esplicativo</title>
+        <format>pdf</format>
+        <size-kb>426</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92253.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Comunicazione UFCS&#13; +41 58 465 53 56&#13; media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Reporting cyberattacks on critical infrastructure mandatory from 1 April</title>
+      <lead>At its meeting on 7 March, the Federal Council introduced a reporting obligation for cyberattacks on critical infrastructure, which will come into force on 1 April. Operators of critical infrastructure will be required to report cyberattacks to the National Cyber Security Centre (NCSC) within 24 hours of discovery. These reports will enable the NCSC to assist victims of cyberattacks and alert operators of critical infrastructure.&#13; </lead>
+      <text link="no">&lt;p&gt;In view of the increasing threat of cyber incidents, Switzerland is introducing a reporting obligation for cyberattacks on critical infrastructure. Operators of critical infrastructure will be required to report attacks to the National Cyber Security Centre (NCSC).&lt;/p&gt;&lt;p&gt;The Federal Council has decided that the amendment to the Information Security Act (ISA) of 29 September 2023 will enter into force on 1 April. The ISA stipulates that authorities and organisations subject to the reporting obligation, such as energy and drinking water suppliers, transport companies and cantonal and communal administrations, must report cyberattacks to the NCSC within 24 hours of discovery.&lt;/p&gt;&lt;p&gt;Examples of when a cyberattack must be reported include when it threatens the functioning of critical infrastructure, has resulted in the manipulation or leakage of information, or involves blackmail, threats or coercion. Critical infrastructure operators who fail to report a cyberattack may be fined.&lt;/p&gt;&lt;p&gt;The Federal Council has decided to implement the relevant legislation for fines on 1 October in order to give those concerned sufficient time to prepare for the new reporting obligation. This means that the reporting obligation will apply for six months before failure to report becomes sanctionable.&lt;/p&gt;&lt;h2&gt;Reporting form on NCSC platform&lt;/h2&gt;&lt;p&gt;To make the reporting process as simple as possible, the reporting form will be available on the NCSC's Cyber Security Hub, which it already uses to exchange information with critical infrastructure operators. Organisations not registered on the platform can submit reports by email using a form available on the NCSC website. After submitting the initial report within 24 hours of discovering the incident, they have 14 days to complete their report.&lt;/p&gt;&lt;h2&gt;Cybersecurity Ordinance provides for exemptions &lt;/h2&gt;&lt;p&gt;The Federal Council has also approved the Cybersecurity Ordinance, which will also enter into force on 1 April. The Cybersecurity Ordinance contains the implementing provisions for the reporting obligation and, in particular, regulates the exceptions under Art. 74c ISA. It also contains provisions on Switzerland's cyber strategy, the tasks of the NCSC and the exchange of information between the NCSC and authorities and organisations. &lt;/p&gt;&lt;p&gt;The consultation on the Cybersecurity Ordinance took place between 22 May and 13 September 2020, and showed broad support for strengthening cybersecurity in Switzerland. The main concern of those affected was that the reporting obligation should be as easy as possible to fulfil and harmonised with other reporting obligations (e.g. data protection reporting obligations). These concerns have been taken into account. The NCSC's reporting form makes it possible to collect the necessary information quickly and, if required, to forward it to other authorities to which there is also a reporting obligation, such as the Swiss Financial Market Supervisory Authority (FINMA) or the Federal Data Protection and Information Commissioner. &lt;/p&gt;&lt;p&gt;The Federal Council has issued a further ordinance with effect from 1 April concerning the official change of name of the National Cyber Security Centre in the four national languages in connection with its transformation into a federal office within the DDPS.&lt;/p&gt;&lt;h2&gt;Milestone for cybersecurity in Switzerland&lt;/h2&gt;&lt;p&gt;The introduction of a reporting requirement that includes multiple sectors is a milestone for cybersecurity in Switzerland. Improving the exchange of information is crucial in order to be able to respond to rapidly evolving cyberthreats with appropriate measures. The introduction of this reporting requirement is in line with international standards. Since 2018, all EU member states have been required to report cyber incidents in accordance with the NIS Directive.&lt;/p&gt;</text>
+      <link id="286379">
+        <title>Informationssicherheitsgesetz (ISG)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/257/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="286384">
+        <title>Web dossier on the reporting requirement</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/en/home/meldepflicht.html</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286385">
+        <title>Verordnung über die Cybersicherheit</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92182.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286386">
+        <title>Verordnung über die Cybersicherheit: Erläuterungen</title>
+        <format>pdf</format>
+        <size-kb>258</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92167.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286387">
+        <title>Bericht über die Ergebnisse der Vernehmlassung</title>
+        <format>pdf</format>
+        <size-kb>244</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92168.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286388">
+        <title>Verordnung über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung des Nationalen Zentrums für Cybersicherheit (NCSC) in Bundesamt für Cybersicherheit (BACS)</title>
+        <format>pdf</format>
+        <size-kb>200</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92184.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>NCSC Communication&#13; +41 58 465 53 56&#13; media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Meldepflicht für Cyberangriffe auf kritische Infrastrukturen gilt ab 1. April</title>
+      <lead>An seiner Sitzung vom 7. März 2025 hat der Bundesrat die Meldepflicht für Cyberangriffe auf kritische Infrastrukturen per 1. April in Kraft gesetzt. Die Betreiberinnen und Betreiber von kritischen Infrastrukturen werden verpflichtet, dem Bundesamt für Cybersicherheit (BACS) Cyberangriffe 24 Stunden nach deren Entdeckung zu melden. Diese Meldungen werden dem BACS ermöglichen, Betroffene bei der Bewältigung von Cyberangriffen zu unterstützen und Betreiberinnen kritischer Infrastrukturen frühzeitig zu warnen.</lead>
+      <text link="no">&lt;p&gt;Aufgrund der zunehmenden Bedrohung durch Cybervorfälle wird in der Schweiz eine Meldepflicht für Cyberangriffe bei kritischen Infrastrukturen eingeführt. Die Betreiberinnen und Betreiber von kritischen Infrastrukturen werden verpflichtet, dem Bundesamt für Cybersicherheit (BACS) Cyberangriffe zu melden.&lt;/p&gt;&lt;p&gt;Der Bundesrat hat die dafür erforderliche Änderung des Bundesgesetzes über die Informationssicherheit beim Bund (Informationssicherheitsgesetz, ISG) vom 29. September 2023 per 1. April in Kraft gesetzt. Das ISG legt fest, dass meldepflichtige Behörden und Organisationen wie beispielsweise die Energie- oder Trinkwasserversorgung, Transportunternehmen und die Verwaltungen von Kantonen und Gemeinden Cyberangriffe innerhalb von 24 Stunden nach der Entdeckung an das BACS melden müssen. &lt;/p&gt;&lt;p&gt;Ein Cyberangriff muss unter anderem gemeldet werden, wenn er die Funktionsfähigkeit der betroffenen kritischen Infrastruktur gefährdet, zu einer Manipulation oder zu einem Abfluss von Informationen geführt hat oder mit Erpressung, Drohung oder Nötigung verbunden ist. Wird der Meldepflicht nicht Folge geleistet, sieht das Gesetz Bussen vor. &lt;/p&gt;&lt;p&gt;Damit den Betroffenen genügend Zeit bleibt, sich auf die neue Meldepflicht einzustellen, hat der Bundesrat beschlossen, die gesetzlichen Grundlagen für die Bussen erst per 1. Oktober 2025 in Kraft zu setzen. In den ersten 6 Monaten gilt somit die Meldepflicht, die Unterlassung von Meldungen wird aber noch nicht sanktioniert.&lt;/p&gt;&lt;h2&gt;Meldeformular des BACS auf bestehender Plattform&lt;/h2&gt;&lt;p&gt;Um den Meldeprozess möglichst einfach zu gestalten, stellt das BACS auf seiner bestehenden Plattform für den Informationsaustausch mit Betreiberinnen und Betreiber kritischer Infrastrukturen ein Meldeformular zur Verfügung. Organisationen, welche keinen Zugriff auf die Plattform haben, können alternativ die Meldungen auch per E-Mail-Formular abgeben, welches auf der Website des BACS zur Verfügung stehen wird. Können bei der Erstmeldung innerhalb von 24 Stunden noch nicht alle Angaben gemacht werden, besteht eine Frist von 14 Tagen, um die Meldung zu vervollständigen.&lt;/p&gt;&lt;h2&gt;Cybersicherheitsverordnung regelt Ausnahmen&lt;/h2&gt;&lt;p&gt;Weiter hat der Bundesrat die Cybersicherheitsverordnung (CSV) gutgeheissen und ebenfalls auf den 1. April 2025 in Kraft gesetzt. Die CSV enthält die Ausführungsbestimmungen zur Meldepflicht und regelt insbesondere die Ausnahmen nach Art. 74c des ISG. Des Weiteren enthält die Verordnung auch Bestimmungen über die Nationale Cyberstrategie, die Aufgaben des BACS und den Informationsaustausch des BACS mit Behörden und Organisationen.&lt;/p&gt;&lt;p&gt;Die Vernehmlassung zur CSV wurde zwischen dem 22. Mai und dem 13. September 2024 durchgeführt und hat eine breite Unterstützung für die Stärkung der Cybersicherheit in der Schweiz gezeigt. Das wichtigste Anliegen der Betroffenen war, dass die Meldepflicht möglichst einfach zu erfüllen ist und mit weiteren Meldepflichten (z. B. datenschutzrechtlichen Meldepflichten) harmonisiert ist. Dieses Anliegen konnte berücksichtigt werden. Das Meldeformular des BACS ermöglicht eine rasche Erfassung der nötigen Informationen und auf Wunsch eine Weiterleitung an weitere Behörden, gegenüber denen ebenfalls eine Meldepflicht besteht, beispielsweise an die Eidgenössische Finanzmarktaufsicht oder an den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten. &lt;/p&gt;&lt;p&gt;Eine weitere Verordnung betrifft den Namenswechsel im Zusammenhang mit der Überführung des Nationalen Zentrums für Cybersicherheit (NCSC) in ein Bundesamt im VBS. Um diesen Namenswechsel in den rechtlichen Grundlagen nachzuvollziehen, hat der Bundesrat eine entsprechende Verordnung per 1. April 2025 erlassen.&lt;/p&gt;&lt;h2&gt;Meilenstein für die Cybersicherheit in der Schweiz&lt;/h2&gt;&lt;p&gt;Die Einführung der Meldepflicht als erste sektorübergreifende Regulierung ist ein Meilenstein für die Cybersicherheit der Schweiz. Die Stärkung des Informationsaustausches ist entscheidend, um der raschen Entwicklung der Cyberbedrohungen mit geeigneten Massnahmen entgegenzutreten. Die Einführung der Meldepflicht für Cyberangriffe in der Schweiz entspricht internationalen Standards. Seit 2018 gilt in allen EU-Mitgliedstaaten eine Meldepflicht für Cybervorfälle gemäss der NIS-Richtlinie.&lt;/p&gt;</text>
+      <link id="286378">
+        <title>Webdossier zur Meldepflicht</title>
+        <uri>https://www.ncsc.admin.ch/ncsc/de/home/meldepflicht.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="286379">
+        <title>Informationssicherheitsgesetz (ISG)</title>
+        <uri>https://www.fedlex.admin.ch/eli/oc/2024/257/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286385">
+        <title>Verordnung über die Cybersicherheit</title>
+        <format>pdf</format>
+        <size-kb>210</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92182.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286386">
+        <title>Verordnung über die Cybersicherheit: Erläuterungen</title>
+        <format>pdf</format>
+        <size-kb>258</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92167.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286387">
+        <title>Bericht über die Ergebnisse der Vernehmlassung</title>
+        <format>pdf</format>
+        <size-kb>244</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92168.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286388">
+        <title>Verordnung über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung des Nationalen Zentrums für Cybersicherheit (NCSC) in Bundesamt für Cybersicherheit (BACS)</title>
+        <format>pdf</format>
+        <size-kb>200</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92184.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Kommunikation BACS&#13; +41 58 465 53 56&#13; media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="en">Federal Council</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104191" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-02-19</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="301" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator id="319" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="rm">Bundesamt für Sozialversicherungen</name>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="rm">http://www.bsv.admin.ch</www>
+      <email lang="fr"/>
+      <email lang="it"/>
+      <email lang="de"/>
+      <email lang="rm"/>
+    </originator>
+    <keywords>
+      <keyword id="318.6" org-id="319">
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="rm">Erwerbsersatzordnung</name>
+      </keyword>
+      <keyword id="318.7" org-id="319">
+        <name lang="fr">Familles, générations et societé</name>
+        <name lang="it">Famiglie, generazioni e società</name>
+        <name lang="de">Familie, Generationen und Gesellschaft</name>
+        <name lang="rm">Familie, Generationen und Gesellschaft</name>
+      </keyword>
+      <keyword id="318.9" org-id="319">
+        <name lang="fr">Rapports de recherche «Apects de la sécurité sociale»</name>
+        <name lang="it">Rapporti di ricerca «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="de">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="rm">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+      </keyword>
+      <keyword id="318.1" org-id="319">
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="rm">Sozialversicherung</name>
+      </keyword>
+    </keywords>
+    <department id="301">
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral adopte le rapport comparatif des modèles de congé parental</title>
+      <lead>Lors de sa séance du 19 février 2025, le Conseil fédéral a adopté un rapport sur le coût et l’utilité des modèles de congé parental. Il s’appuie sur un rapport de recherche réalisé sous forme de revue de la littérature. Ce dernier montre les avantages et inconvénients que pourraient présenter différents modèles de congé parental pour la Suisse. Le rapport sert de base aux discussions sur la conception d’un éventuel congé parental en Suisse.</lead>
+      <text link="no">&lt;p&gt;Aujourd’hui, les mères exerçant une activité lucrative en Suisse bénéficient d’un congé de maternité de 14 semaines, tandis que l’autre parent qui exerce une activité lucrative a droit à 2 semaines de congé payé après la naissance d’un enfant. Les congés en lien avec une naissance ont un impact direct sur les parents, les enfants, les entreprises et les services publics. Néanmoins, ils ont également un impact indirect, notamment sur les dépenses sociales, le coût de la santé et les recettes fiscales de la Confédération et des cantons.&lt;/p&gt;&lt;p&gt;Un postulat de la Commission de la sécurité sociale et de la santé publique du Conseil national (21.3961) demandait au Conseil fédéral une analyse économique globale coûts-bénéfices des différents modèles de congé parental allant au-delà de la solution actuelle. Il s’agissait d’étudier si un congé parental (de la même durée pour chacun des parents [modèle paritaire] ou pouvant être réparti de manière flexible entre les parents avec des limitations [modèle modulable]) présenterait des avantages économiques en comparaison du statu quo.&lt;/p&gt;&lt;h2&gt;Impacts positifs et négatifs suivant le modèle choisi&lt;/h2&gt;&lt;p&gt;La revue de la littérature réalisée dans le cadre de l’étude offre un aperçu détaillé des coûts et bénéfices directs et indirects des modèles de congé parental, parfois difficilement quantifiables. Le Conseil fédéral conclut dans le rapport que les modèles de congé parental peuvent avoir différentes conséquences positives et négatives : ils peuvent améliorer la conciliation entre la vie familiale et la vie professionnelle et être bénéfiques pour la santé des mères ou le développement des enfants. En revanche, le congé parental entraîne notamment un besoin de financement plus élevé et peut donc, selon la forme de financement, occasionner une hausse des charges salariales. &lt;/p&gt;&lt;p&gt;La revue de la littérature montre clairement que la forme concrète que prendrait le congé joue un rôle primordial. En témoigne la comparaison entre un modèle de congé parental modulable et paritaire. Alors que dans le modèle modulable une partie du congé parental peut être répartie librement entre les parents, et qu’ainsi les mères peuvent cesser de travailler pendant plus de six mois, dans le modèle paritaire, chaque parent a droit au même nombre de semaines. Selon la revue de la littérature, le modèle modulable a des effets négatifs moins importants sur le revenu de l’autre parent et implique une augmentation moindre des charges salariales que le modèle paritaire. À l’inverse, le modèle de congé parental paritaire a un impact positif plus prononcé sur la participation des mères au marché du travail : elles restent plus longtemps au sein de la même entreprise ou même en emploi, ce qui est bénéfique du point de vue de la situation du marché du travail, de la pénurie de main-d’œuvre qualifiée et des coûts de rotation du personnel. &lt;/p&gt;&lt;p&gt;Grâce au congé parental, les parents peuvent se répartir de manière plus équilibrée l’activité lucrative, les tâches ménagères et le travail de care. La discrimination des femmes en matière de salaire et de promotion peut également diminuer.&lt;/p&gt;&lt;h2&gt;Base solide pour la suite des discussions&lt;/h2&gt;&lt;p&gt;Dans son rapport, le Conseil fédéral conclut que le rapport de recherche a répondu aux principaux points du postulat en fournissant une base solide pour la discussion sur un éventuel modèle suisse de congé parental. &lt;br /&gt;Actuellement, cette discussion est menée, d’une part, par l’initiative pour un congé familial (annoncée le 28 novembre 2024 par une alliance interpartis : alliance F, les Vert-e-s, PVL, Le Centre Femmes, Travail Suisse, PEV) et, d’autre part, par les initiatives cantonales pour un congé parental des cantons de GE, VS, JU et TI. Les initiatives cantonales de Genève et du Jura, selon lesquelles la Confédération devrait introduire un congé parental, ont été soutenues par la Commission de la sécurité sociale et de la santé publique du Conseil des États en janvier.&lt;/p&gt;</text>
+      <link id="285793">
+        <title>Rapport de recherche « Elternurlaubsmodelle. Systematische Auslegeordnung empirischer Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung» (en allemand, avec résumé en français)</title>
+        <uri>https://www.bsv.admin.ch/bsv/fr/home/publications-et-services/forschung/forschungspublikationen.exturl.html?lang=fr&amp;lnr=03/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="285794">
+        <title>Postulat 21.3961 «Modèles de congé parental. Analyse économique globale (coûts-bénéfices)»</title>
+        <uri>https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213961</uri>
+        <position>Context</position>
+      </link>
+      <link id="285795">
+        <title>«Un congé parental en Suisse ? » Article dans la publication en ligne « Sécurité Sociale CHSS»</title>
+        <uri>https://sozialesicherheit.ch/fr/un-conge-parental-en-suisse/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="285788">
+        <title>Rapport du Conseil fédéral « Bases empiriques et faisabilité d’une analyse macroéconomique coûts-bénéfices de différents modèles de congé parental » en réponse au postulat 21.3961</title>
+        <format>pdf</format>
+        <size-kb>574</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91965.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Office fédéral des assurances sociales&#13; Service Communication&#13; tél. +41 58 462 77 11&#13; En général : kommunikation@bsv.admin.ch&#13; Pour les médias : media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale adotta il rapporto sul confronto tra modelli di congedo parentale</title>
+      <lead>Nella sua seduta del 19 febbraio 2025, il Consiglio federale ha adottato un rapporto redatto in adempimento di un postulato su costi e benefici di diversi modelli di congedo parentale. A tal fine si è basato su un rapporto di ricerca con un’analisi della letteratura scientifica, da cui emergono i vantaggi e gli svantaggi che diversi modelli di congedo parentale potrebbero presentare per la Svizzera. Il rapporto funge da base per il dibattito sull’impostazione di un eventuale congedo parentale nel nostro Paese.</lead>
+      <text link="no">&lt;p&gt;Attualmente, dopo la nascita di un figlio le madri che esercitano un’attività lucrativa in Svizzera hanno diritto a un congedo di maternità di 14 settimane, mentre l’altro genitore che esercita un’attività lucrativa può fruire di un congedo pagato di 2 settimane. I congedi legati alla nascita di un figlio hanno un impatto diretto per i genitori, i figli, le imprese e gli enti pubblici. D’altro canto, incidono indirettamente anche su fattori quali le uscite sociali, le spese sanitarie e le entrate fiscali di Confederazione e Cantoni.&lt;/p&gt;&lt;p&gt;Un postulato della Commissione della sicurezza sociale e della sanità del Consiglio nazionale (21.3961) ha chiesto al Consiglio federale di presentare un’analisi costi-benefici di differenti modelli di congedo parentale per la Svizzera che vadano oltre la soluzione attuale. In questo contesto andava valutato se un congedo parentale – sia esso della stessa durata per entrambi i genitori (modello paritario) o ripartibile a determinate condizioni tra i genitori (modello variabile) – fosse più opportuno a livello macroeconomico rispetto allo status quo.&lt;/p&gt;&lt;h2&gt;Effetti positivi e negativi a seconda dell’impostazione&lt;/h2&gt;&lt;p&gt;L’analisi della letteratura scientifica effettuata fornisce una panoramica dettagliata dei costi e benefici diretti e indiretti, talvolta difficili da quantificare, di diversi modelli di congedo parentale. Nel suo rapporto, il Consiglio federale giunge alla conclusione che i modelli di congedo parentale possono avere effetti positivi e negativi, per esempio migliorare la conciliabilità tra famiglia e lavoro, come pure essere vantaggiosi per la salute della madre o lo sviluppo del figlio. Per contro, un congedo parentale comporta tra l’altro la necessità di un finanziamento più elevato e quindi, a seconda della forma di finanziamento scelta, maggiori oneri salariali. &lt;/p&gt;&lt;p&gt;L’analisi mette in evidenza il ruolo cruciale dell’impostazione concreta di un congedo parentale, come emerge dal confronto tra un modello variabile e uno paritario. Se nel modello variabile una parte del congedo parentale può essere liberamente ripartita tra i genitori e quindi le madri possono rimanere fuori dal mercato del lavoro per oltre sei mesi, il modello paritario prevede lo stesso numero di settimane per ciascun genitore. Secondo l’analisi, il modello variabile ha ripercussioni negative meno marcate sul reddito dell’altro genitore e determina un aumento degli oneri salariali accessori inferiore rispetto al modello paritario. Per contro, il modello paritario ha un impatto più positivo sulla partecipazione delle madri al mercato del lavoro: esse restano più a lungo nella stessa impresa o nel mercato del lavoro in generale, il che è vantaggioso nell’ottica della situazione del mercato del lavoro, della carenza di personale qualificato e delle spese legate alle fluttuazioni. &lt;/p&gt;&lt;p&gt;Inoltre, il congedo parentale permette ai genitori di ripartirsi in modo più equilibrato l’attività lucrativa e i lavori domestici e di assistenza e cura. Un altro vantaggio consiste nella possibile diminuzione della discriminazione delle donne per quanto riguarda la promozione o la retribuzione.&lt;/p&gt;&lt;h2&gt;Solida base per l’ulteriore dibattito sul tema&lt;/h2&gt;&lt;p&gt;Nel suo rapporto, il Consiglio federale giunge alla conclusione che con il rapporto di ricerca è stato dato seguito alle richieste principali del postulato in questione fornendo una solida base per il dibattito sull’eventuale introduzione di un congedo parentale in Svizzera. &lt;br /&gt;Al momento questo dibattito viene portato avanti sia dall’iniziativa «congedo familiare» (annunciata il 28 novembre 2024 da una coalizione interpartitica composta da alliance F, I Verdi, Verdi liberali, Donne del Centro, Travail.Suisse, PEV) che dalle iniziative cantonali per un congedo parentale dei Cantoni di Ginevra, del Vallese, del Giura e del Ticino. In gennaio le iniziative dei Cantoni di Ginevra e del Giura, che chiedono l’introduzione di un congedo parentale da parte della Confederazione, hanno trovato sostegno nella Commissione della sicurezza sociale e della sanità del Consiglio degli Stati.&lt;/p&gt;</text>
+      <link id="285796">
+        <title>Rapporto di ricerca «Elternurlaubsmodelle. Systematische Auslegeordnung empirischer Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung» (in tedesco con riassunto in italiano)</title>
+        <uri>https://www.bsv.admin.ch/bsv/it/home/pubblicazioni-e-servizi/forschung/forschungspublikationen.exturl.html?lang=it&amp;lnr=03/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="285797">
+        <title>Postulato 21.3961 Analisi macroeconomica globale (costi-benefici) dei modelli di congedo parentale</title>
+        <uri>https://www.parlament.ch/it/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213961</uri>
+        <position>Context</position>
+      </link>
+      <link id="285798">
+        <title>«Eine Elternzeit für die Schweiz?» / « Un congé parental en Suisse ?», articolo nella pubblicazione online Soziale Sicherheit / Sécurité Sociale (CHSS)</title>
+        <uri>https://sozialesicherheit.ch/de/eine-elternzeit-fuer-die-schweiz/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="285789">
+        <title>Rapporto del Consiglio federale in adempimento del postulato 21.3961 «Empirische Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung verschiedener Elternzeitmodelle»</title>
+        <format>pdf</format>
+        <size-kb>531</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91830.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Ufficio federale delle assicurazioni sociali&#13; Settore Comunicazione&#13; tel. +41 58 462 77 11&#13; In generale: kommunikation@bsv.admin.ch&#13; Per i media: media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Der Bundesrat verabschiedet Bericht zum Vergleich von Elternzeitmodellen</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 19. Februar 2025 einen Postulatsbericht zu Kosten und Nutzen von Elternzeitmodellen verabschiedet. Der Bundesrat stützt sich dabei auf einen Forschungsbericht in Form einer Literaturanalyse. Diese zeigt auf, welche Vor- und Nachteile verschiedene Elternzeitmodelle für die Schweiz bringen könnten. Der Bericht dient als Grundlage für die Diskussion über die Ausgestaltung einer allfälligen Elternzeit in der Schweiz.</lead>
+      <text link="no">&lt;p&gt;Gegenwärtig haben erwerbstätige Mütter in der Schweiz Anspruch auf einen 14-wöchigen Mutterschaftsurlaub, während der andere erwerbstätige Elternteil nach der Geburt eines Kindes zwei Wochen bezahlten Urlaub beziehen kann. Urlaube im Zusammenhang mit einer Geburt wirken sich direkt auf Eltern, Kinder, Unternehmen und staatliche Stellen aus. Sie wirken jedoch auch indirekt, beispielsweise auf Sozialausgaben, Gesundheitskosten oder die Steuereinnahmen von Bund und Kantonen.&lt;/p&gt;&lt;p&gt;Ein Postulat der Kommission für soziale Sicherheit und Gesundheit des Nationalrats (21.3961) verlangte vom Bundesrat eine gesamtwirtschaftliche Kosten-Nutzen-Analyse verschiedener Elternzeitmodelle für die Schweiz, die über die aktuelle Lösung hinausgehen. Es sollte untersucht werden, ob eine Elternzeit – entweder für beide Elternteile gleich lang (paritätisches Modell) oder mit gewissen Einschränkungen zwischen den Eltern aufteilbar (variables Modell) – volkswirtschaftlich sinnvoller wäre als der Status quo.&lt;/p&gt;&lt;h2&gt;Positive und negative Wirkungen je nach Ausgestaltung&lt;/h2&gt;&lt;p&gt;Die realisierte Literaturanalyse liefert einen ausführlichen Überblick über die teilweise nur schwer quantifizierbaren direkten und indirekten Kosten und Nutzen von Elternzeitmodellen. Im Bericht kommt der Bundesrat zum Schluss, dass Elternzeitmodelle verschiedene positive und negative Auswirkungen haben können: So können sie etwa die Vereinbarkeit von Familienleben und Erwerbstätigkeit verbessern und für die Gesundheit der Mütter oder die Entwicklung der Kinder von Vorteil sein. Demgegenüber führt Elternzeit unter anderem zu einem erhöhten Finanzierungsbedarf und damit je nach Finanzierungsform etwa zu höheren Lohnnebenkosten.&lt;/p&gt;&lt;p&gt;In der Analyse wird deutlich, dass die konkrete Ausgestaltung eines Elternzeitmodells eine zentrale Rolle spielt. Dies zeigt sich beim Vergleich eines variablen mit einem paritätischen Elternzeitmodell. Während im variablen Modell ein Teil der Elternzeit frei unter den Eltern aufgeteilt werden kann, und dadurch die Mütter länger als sechs Monate dem Arbeitsmarkt fernbleiben können, beziehen beim paritätischen Modell beide Elternteile gleich viele Wochen Elternzeit. Gemäss Analyse hat das variable Elternzeitmodell weniger starke negative Auswirkungen auf das Einkommen des anderen Elternteils und sorgt für geringere Lohnnebenkosten als das paritätische Modell. Dagegen wirkt sich das paritätische Elternzeitmodell positiver auf die Erwerbsbeteiligung der Mütter aus: Sie bleiben länger im selben Unternehmen oder überhaupt im Arbeitsmarkt, was mit Blick auf die Arbeitsmarktlage, den Fachkräftemangel und die Fluktuationskosten von Vorteil ist. &lt;/p&gt;&lt;p&gt;Mit Elternzeit können Eltern zudem die Erwerbstätigkeit und die Haus- und Care-Arbeit ausgeglichener untereinander aufteilen. Auch kann die Diskriminierung von Frauen bei Beförderungen und Entlöhnungen abnehmen.&lt;/p&gt;&lt;h2&gt;Solide Grundlage für die weiteren Diskussionen&lt;/h2&gt;&lt;p&gt;Der Bundesrat kommt in seinem Bericht zum Schluss, dass mit dem Forschungsbericht die wesentlichen Anliegen des Postulats aufgenommen wurden, indem er eine solide Grundlage für die Diskussion über ein allfälliges Schweizer Elternzeitmodell liefert. &lt;/p&gt;&lt;p&gt;Aktuell wird diese Diskussion sowohl von der Familienzeit-Initiative (angekündigt am 28. November 2024 von der überparteilichen Allianz – alliance F, Grüne, GLP, Mitte Frauen, Travail Suisse, EVP) als auch von kantonalen Elternzeit-Initiativen der Kantone GE, VS, JU und TI vorangetrieben. Die Standesinitiativen der Kantone Genf und Jura, wonach der Bund eine Elternzeit einführen solle, fanden in der ständerätlichen Kommission für Gesundheit und Soziale Sicherheit im Januar Unterstützung.&lt;/p&gt;</text>
+      <link id="285790">
+        <title>Forschungsbericht «Elternurlaubsmodelle. Systematische Auslegeordnung empirischer Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung»</title>
+        <uri>https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/forschung/forschungspublikationen.exturl.html?lang=de&amp;lnr=03/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="285791">
+        <title>Postulat 21.3961 «Volkswirtschaftliches Gesamtmodell (Kosten-Nutzen) von Elternzeitmodellen»</title>
+        <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213961</uri>
+        <position>Context</position>
+      </link>
+      <link id="285792">
+        <title>«Eine Elternzeit für die Schweiz?» Artikel in der Online-Publikation «Soziale Sicherheit CHSS»</title>
+        <uri>https://sozialesicherheit.ch/de/eine-elternzeit-fuer-die-schweiz/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="285787">
+        <title>Bundesratsbericht «Empirische Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung verschiedener Elternzeitmodelle.» in Erfüllung des Postulates 21.3961</title>
+        <format>pdf</format>
+        <size-kb>535</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91964.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Sozialversicherungen&#13; Kommunikation&#13; Tel: +41 58 462 77 11 &#13; Allgemein: kommunikation@bsv.admin.ch&#13; Für Medien: media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Der Bundesrat verabschiedet Bericht zum Vergleich von Elternzeitmodellen</title>
+      <lead>Der Bundesrat hat an seiner Sitzung vom 19. Februar 2025 einen Postulatsbericht zu Kosten und Nutzen von Elternzeitmodellen verabschiedet. Der Bundesrat stützt sich dabei auf einen Forschungsbericht in Form einer Literaturanalyse. Diese zeigt auf, welche Vor- und Nachteile verschiedene Elternzeitmodelle für die Schweiz bringen könnten. Der Bericht dient als Grundlage für die Diskussion über die Ausgestaltung einer allfälligen Elternzeit in der Schweiz.</lead>
+      <text link="no">&lt;p&gt;Gegenwärtig haben erwerbstätige Mütter in der Schweiz Anspruch auf einen 14-wöchigen Mutterschaftsurlaub, während der andere erwerbstätige Elternteil nach der Geburt eines Kindes zwei Wochen bezahlten Urlaub beziehen kann. Urlaube im Zusammenhang mit einer Geburt wirken sich direkt auf Eltern, Kinder, Unternehmen und staatliche Stellen aus. Sie wirken jedoch auch indirekt, beispielsweise auf Sozialausgaben, Gesundheitskosten oder die Steuereinnahmen von Bund und Kantonen.&lt;/p&gt;&lt;p&gt;Ein Postulat der Kommission für soziale Sicherheit und Gesundheit des Nationalrats (21.3961) verlangte vom Bundesrat eine gesamtwirtschaftliche Kosten-Nutzen-Analyse verschiedener Elternzeitmodelle für die Schweiz, die über die aktuelle Lösung hinausgehen. Es sollte untersucht werden, ob eine Elternzeit – entweder für beide Elternteile gleich lang (paritätisches Modell) oder mit gewissen Einschränkungen zwischen den Eltern aufteilbar (variables Modell) – volkswirtschaftlich sinnvoller wäre als der Status quo.&lt;/p&gt;&lt;h2&gt;Positive und negative Wirkungen je nach Ausgestaltung&lt;/h2&gt;&lt;p&gt;Die realisierte Literaturanalyse liefert einen ausführlichen Überblick über die teilweise nur schwer quantifizierbaren direkten und indirekten Kosten und Nutzen von Elternzeitmodellen. Im Bericht kommt der Bundesrat zum Schluss, dass Elternzeitmodelle verschiedene positive und negative Auswirkungen haben können: So können sie etwa die Vereinbarkeit von Familienleben und Erwerbstätigkeit verbessern und für die Gesundheit der Mütter oder die Entwicklung der Kinder von Vorteil sein. Demgegenüber führt Elternzeit unter anderem zu einem erhöhten Finanzierungsbedarf und damit je nach Finanzierungsform etwa zu höheren Lohnnebenkosten.&lt;/p&gt;&lt;p&gt;In der Analyse wird deutlich, dass die konkrete Ausgestaltung eines Elternzeitmodells eine zentrale Rolle spielt. Dies zeigt sich beim Vergleich eines variablen mit einem paritätischen Elternzeitmodell. Während im variablen Modell ein Teil der Elternzeit frei unter den Eltern aufgeteilt werden kann, und dadurch die Mütter länger als sechs Monate dem Arbeitsmarkt fernbleiben können, beziehen beim paritätischen Modell beide Elternteile gleich viele Wochen Elternzeit. Gemäss Analyse hat das variable Elternzeitmodell weniger starke negative Auswirkungen auf das Einkommen des anderen Elternteils und sorgt für geringere Lohnnebenkosten als das paritätische Modell. Dagegen wirkt sich das paritätische Elternzeitmodell positiver auf die Erwerbsbeteiligung der Mütter aus: Sie bleiben länger im selben Unternehmen oder überhaupt im Arbeitsmarkt, was mit Blick auf die Arbeitsmarktlage, den Fachkräftemangel und die Fluktuationskosten von Vorteil ist. &lt;/p&gt;&lt;p&gt;Mit Elternzeit können Eltern zudem die Erwerbstätigkeit und die Haus- und Care-Arbeit ausgeglichener untereinander aufteilen. Auch kann die Diskriminierung von Frauen bei Beförderungen und Entlöhnungen abnehmen.&lt;/p&gt;&lt;h2&gt;Solide Grundlage für die weiteren Diskussionen&lt;/h2&gt;&lt;p&gt;Der Bundesrat kommt in seinem Bericht zum Schluss, dass mit dem Forschungsbericht die wesentlichen Anliegen des Postulats aufgenommen wurden, indem er eine solide Grundlage für die Diskussion über ein allfälliges Schweizer Elternzeitmodell liefert. &lt;/p&gt;&lt;p&gt;Aktuell wird diese Diskussion sowohl von der Familienzeit-Initiative (angekündigt am 28. November 2024 von der überparteilichen Allianz – alliance F, Grüne, GLP, Mitte Frauen, Travail Suisse, EVP) als auch von kantonalen Elternzeit-Initiativen der Kantone GE, VS, JU und TI vorangetrieben. Die Standesinitiativen der Kantone Genf und Jura, wonach der Bund eine Elternzeit einführen solle, fanden in der ständerätlichen Kommission für Gesundheit und Soziale Sicherheit im Januar Unterstützung.&lt;/p&gt;</text>
+      <link id="285790">
+        <title>Forschungsbericht «Elternurlaubsmodelle. Systematische Auslegeordnung empirischer Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung»</title>
+        <uri>https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/forschung/forschungspublikationen.exturl.html?lang=de&amp;lnr=03/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="285791">
+        <title>Postulat 21.3961 «Volkswirtschaftliches Gesamtmodell (Kosten-Nutzen) von Elternzeitmodellen»</title>
+        <uri>https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213961</uri>
+        <position>Context</position>
+      </link>
+      <link id="285792">
+        <title>«Eine Elternzeit für die Schweiz?» Artikel in der Online-Publikation «Soziale Sicherheit CHSS»</title>
+        <uri>https://sozialesicherheit.ch/de/eine-elternzeit-fuer-die-schweiz/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="285787">
+        <title>Bundesratsbericht «Empirische Evidenzen und Machbarkeit einer gesamtwirtschaftlichen Kosten-Nutzen-Betrachtung verschiedener Elternzeitmodelle.» in Erfüllung des Postulates 21.3961</title>
+        <format>pdf</format>
+        <size-kb>535</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91964.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Sozialversicherungen&#13; Kommunikation&#13; Tel: +41 58 462 77 11 &#13; Allgemein: kommunikation@bsv.admin.ch&#13; Für Medien: media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="41">
+        <name lang="fr">Social</name>
+        <name lang="it">Opere sociali</name>
+        <name lang="de">Soziales</name>
+        <name lang="rm">Soziales</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="147" org-id="319">
+        <name lang="fr">Rapports de recherche « Apects de la sécurité sociale »</name>
+        <name lang="it">Rapporti di ricerca «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="de">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="rm">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+      </offer>
+      <offer id="31" org-id="319">
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="rm">Sozialversicherung</name>
+      </offer>
+      <offer id="36" org-id="319">
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="rm">Erwerbsersatzordnung</name>
+      </offer>
+      <offer id="37" org-id="319">
+        <name lang="fr">Familles, générations et societé</name>
+        <name lang="it">Famiglie, generazioni e società</name>
+        <name lang="de">Familie, Generationen und Gesellschaft</name>
+        <name lang="rm">Familie, Generationen und Gesellschaft</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

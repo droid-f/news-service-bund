@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104102" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-02-12</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </originator>
+    <originator id="401" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator id="403" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="rm">Bundesamt für Justiz</name>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="rm">http://www.bj.admin.ch</www>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="de">info@bj.admin.ch</email>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="rm">info@bj.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="86" org-id="403">
+        <name lang="fr">Tribunaux</name>
+        <name lang="fr">Justice</name>
+        <name lang="de">Gerichte</name>
+        <name lang="de">Rechtspflege</name>
+        <name lang="it">Tribunali</name>
+        <name lang="it">Amministrazione della giustizia</name>
+        <name lang="rm">Gerichte</name>
+        <name lang="rm">Rechtspflege</name>
+      </keyword>
+      <keyword id="158" org-id="403">
+        <name lang="fr">Droit de procédure administrative</name>
+        <name lang="de">Öffentliches Verfahrensrecht</name>
+        <name lang="it">Diritto procedurale pubblico</name>
+        <name lang="rm">Öffentliches Verfahrensrecht</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+    </department>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Notifications par envoi postal le week-end : le délai ne commencera à courir que le lundi</title>
+      <lead>Lorsqu’une communication déclenchant un délai est remise le week-end par envoi postal, le délai ne commencera à courir que le premier jour ouvrable suivant la notification. Les destinataires de documents tels que des résiliations ou des jugements disposeront en conséquence de plus de temps pour réagir. Ce principe qui s’applique déjà en droit de la procédure civile s’étendra à l’ensemble du droit fédéral. Le Conseil fédéral a pris acte des résultats de la procédure de consultation et a adopté le projet et le message à l’intention du Parlement le 12 février 2025. </lead>
+      <text link="no"> &lt;p&gt;Le Conseil fédéral veut éviter que les destinataires de communications déclenchant un délai remises un samedi par envoi postal - par exemple une résiliation de contrat ou un jugement -, soient lésés. Après avoir pris acte des avis majoritairement positifs des participants à la consultation sur la révision de divers actes fédéraux, le Conseil fédéral a adopté lors de sa séance du 12 février 2025 le message relatif à un projet mettant en œuvre la motion 22.3381 "De l'harmonisation de la computation des délais" de la Commission des affaires juridiques du Conseil national.&lt;/p&gt; &lt;p&gt;À l'avenir, les communications déclenchant un délai déposées le week-end dans la boîte aux lettres du destinataire seront réputées notifiées le premier jour ouvrable qui suit. Ce principe figure déjà dans le code de procédure civile et, conformément à la proposition du Conseil fédéral, s'étendra à l'ensemble du droit fédéral. Les destinataires auront en conséquence plus de temps pour exercer leurs droits, notamment si, ne travaillant que les jours ouvrables, ils ne relèvent leur courrier que pendant la semaine. Les nouvelles règles accroîtront par ailleurs la sécurité juridique, puisque dans tous les cas, le délai ne commencera à courir que le premier jour ouvrable qui suit. &lt;/p&gt; &lt;p&gt;Dans le but d'étendre cette fiction de notification à l'ensemble du droit fédéral, le projet prévoit la modification de plusieurs lois : la loi fédérale sur la procédure administrative, la loi sur le Tribunal fédéral, le code pénal militaire, la procédure pénale militaire, la loi fédérale sur l'impôt fédéral direct et la loi fédérale sur la partie générale du droit des assurances sociales. &lt;/p&gt; &lt;p&gt;Pour éviter les lacunes juridiques, le Conseil fédéral propose en outre d'inscrire ces nouvelles règles dans la loi fédérale sur la supputation des délais comprenant un samedi, afin de couvrir notamment les délais du droit privé matériel, par exemple en cas de résiliation du bail d'un logement, et ceux du droit pénal matériel, par exemple en cas de plainte pénale. &lt;/p&gt; &lt;h3&gt;La fiction de notification s'appliquera au droit fiscal&lt;/h3&gt; &lt;p&gt;Suite aux retours de la procédure de consultation, le Conseil fédéral a ajouté la loi fédérale sur l'harmonisation des impôts directs des cantons et des communes au projet. Les règles de notification des objets fiscaux le week-end et les jours fériés seront à l'avenir les mêmes en droit fédéral et en droit cantonal. &lt;/p&gt; </text>
+      <link id="287322">
+        <title>Message (FF 2025 565)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/565/fr</uri>
+        <position>Context</position>
+      </link>
+      <link id="287323">
+        <title>Projet (FF 2025 566)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/566/fr</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="287318">
+        <title>Résultats de la consultation</title>
+        <format>pdf</format>
+        <size-kb>249</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91718.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Postzustellung am Wochenende: Fristenlauf soll im Bundesrecht erst am Montag beginnen</title>
+      <lead>Bei Postsendungen, die eine Frist auslösen und am Wochenende zugestellt werden, soll die Frist erst am folgenden Werktag zu laufen beginnen. Damit wird Empfängerinnen und Empfängern von Dokumenten wie Kündigungen oder Gerichtsurteilen mehr Zeit verschafft. Im Zivilprozessrecht gilt dieser Grundsatz bereits, nun soll er auf das ganze Bundesrecht übertragen werden. Der Bundesrat hat an seiner Sitzung vom 12. Februar 2025 von den Vernehmlassungsergebnissen Kenntnis genommen und die entsprechende Botschaft verabschiedet. </lead>
+      <text link="no"> &lt;p&gt;Werden Postsendungen, die eine Frist auslösen - etwa Vertragskündigungen oder Gerichtsurteile - an Samstagen zugestellt, soll dies nicht zu rechtlichen Nachteilen für die Empfängerinnen und Empfänger führen. Deshalb hat der Bundesrat an seiner Sitzung vom 12. Februar 2025 die Botschaft für eine entsprechende Revision diverser Erlasse des Bundes verabschiedet. Damit erfüllt er die Motion 22.3381 "Harmonisierung der Fristenberechnung" der Kommission für Rechtsfragen des Nationalrats (RK-N). Eine Mehrheit der Vernehmlassungsteilnehmenden begrüsste den Vorschlag des Bundesrats. &lt;/p&gt; &lt;p&gt;Künftig sollen Postsendungen, die eine Frist auslösen und am Wochenende in den Briefkasten der Empfängerin oder des Empfängers gelegt werden, erst am darauffolgenden Montag als zugestellt gelten. Dieser Grundsatz ist bereits in der Zivilprozessordnung (ZPO) verankert und soll gemäss dem Vorschlag des Bundesrats künftig im gesamten Bundesrecht gelten. So erhalten die Betroffenen mehr Zeit, um ihre Rechte ausüben zu können. Dies namentlich auch in Bereichen, in denen nur während der Bürozeiten unter der Woche gearbeitet wird. Die neue Regelung führt ausserdem zu mehr Rechtssicherheit, da die Frist in jedem Fall erst am darauffolgenden Werktag zu laufen beginnt.&lt;/p&gt; &lt;p&gt;Um diese sogenannte Zustellungsfiktion ins gesamte Bundesrecht zu übertragen, müssen verschiedene Gesetze geändert werden. Konkret betroffen sind das Verwaltungsverfahrensgesetz (VwVG), das Bundesgerichtsgesetz (BGG), das Militärstrafgesetz (MStG), der Militärstrafprozess (MStP), das Bundesgesetz über die direkte Bundessteuer (DBG) und das Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG).&lt;/p&gt; &lt;p&gt;Um sicherzustellen, dass die Zustellungsfiktion im gesamten Bundesrecht gilt und keine Rechtslücken bestehen, schlägt der Bundesrat ausserdem vor, die neue Regel im Bundesgesetz über den Fristenlauf an Samstagen explizit festzuhalten. Dies gilt insbesondere für die Fristen des materiellen Privatrechts wie zum Beispiel bei einer Wohnungskündigung, oder für Fristen des materiellen Strafrechts, etwa bei einem Strafantrag. &lt;/p&gt; &lt;h3&gt;Zustellfiktion soll auch im Steuerrecht gelten&lt;/h3&gt; &lt;p&gt;Aufgrund der Rückmeldungen in der Vernehmlassung hat der Bundesrat zusätzlich das Steuerharmonisierungsgesetz (StHG) in die Vorlage einbezogen. Damit soll künftig eine einheitliche Regelung für die Zustellung von Steuersachen an Wochenenden und Feiertagen auf Bundes- und Kantonsebene gelten.&lt;/p&gt; </text>
+      <link id="287320">
+        <title>Botschaft (BBl 2025 565)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/565/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="287321">
+        <title>Entwurf (BBl 2025 566)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/566/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="287317">
+        <title>Ergebnis des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91717.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Notificazione postale nei fine settimana: secondo il diritto federale il termine inizia a decorrere soltanto il lunedì</title>
+      <lead>In caso di notificazione nei fine settimana di invii postali che determinano la decorrenza di un termine, questo inizia a decorrere soltanto il giorno feriale seguente. Si concede così più tempo ai destinatari di documenti, quali disdette o sentenze giudiziarie. S’intende applicare tale principio già vigente nel diritto processuale civile all’intero diritto federale. Nella seduta del 12 febbraio 2025 il Consiglio federale ha preso atto dei risultati della consultazione e adottato il relativo messaggio.</lead>
+      <text link="no"> &lt;p&gt;Gli invii postali recapitati nei giorni di sabato e determinanti l'inizio della decorrenza di un termine - come disdette di contratti o sentenze giudiziarie - non devono comportare svantaggi giuridici per i destinatari. Nella seduta del 12 febbraio 2025 il Consiglio federale ha pertanto adottato il messaggio sulla pertinente revisione di diverse leggi federali, adempiendo così la mozione 22.3381 Armonizzazione del computo dei termini, depositata dalla Commissione degli affari giuridici del Consiglio nazionale (CAG-N). La maggioranza dei partecipanti alla consultazione ha accolto con favore la proposta del Consiglio federale.&lt;/p&gt; &lt;p&gt;In futuro gli invii postali determinanti l'inizio della decorrenza di un termine e recapitati nei fine settimana sono reputati notificati soltanto il lunedì seguente. Tale principio già sancito dal Codice di procedura civile (CPC) si applicherà in futuro all'intero diritto federale conformemente alla proposta del Consiglio federale. Così gli interessati avranno più tempo per far valere i propri diritti, in particolare nei settori attivi soltanto durante gli orari d'ufficio nei giorni feriali. Il nuovo disciplinamento aumenta inoltre la certezza del diritto, in quanto il termine inizia a decorrere in ogni caso soltanto il giorno feriale seguente. &lt;/p&gt; &lt;p&gt;Affinché la cosiddetta finzione di recapito si applichi all'intero diritto federale, occorre modificare diverse leggi. In concreto sono interessate la legge federale sulla procedura amministrativa (PA), la legge sul Tribunale federale (LTF), il Codice penale militare (CPM), la procedura penale militare (PPM), la legge federale sull'imposta federale diretta (LIFD) e la legge federale sulla parte generale del diritto delle assicurazioni sociali (LPGA).&lt;/p&gt; &lt;p&gt;Per garantire che la finzione di recapito si applichi all'intero diritto federale senza lacune giuridiche, il Consiglio federale propone anche di fissare in modo esplicito la nuova disposizione nella legge federale sulla decorrenza dei termini nei giorni di sabato. Questo vale in particolare per i termini del diritto materiale privato, ad esempio nel caso di una disdetta del contratto di locazione, o per i termini del diritto penale materiale nel caso di una querela.&lt;/p&gt; &lt;h3&gt;Applicazione della finzione di recapito anche al diritto fiscale&lt;/h3&gt; &lt;p&gt;Sulla base dei risultati della consultazione, il Consiglio federale ha integrato nel progetto anche la legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID) per ottenere, a livello federale e cantonale, un disciplinamento uniforme della notificazione.&lt;/p&gt; </text>
+      <link id="287324">
+        <title>Messaggio (FF 2025 565)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/565/it</uri>
+        <position>Context</position>
+      </link>
+      <link id="287325">
+        <title>Disegno (FF 2025 566)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/566/it</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="287319">
+        <title>Risultati della consultazione</title>
+        <format>pdf</format>
+        <size-kb>259</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91719.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Postzustellung am Wochenende: Fristenlauf soll im Bundesrecht erst am Montag beginnen</title>
+      <lead>Bei Postsendungen, die eine Frist auslösen und am Wochenende zugestellt werden, soll die Frist erst am folgenden Werktag zu laufen beginnen. Damit wird Empfängerinnen und Empfängern von Dokumenten wie Kündigungen oder Gerichtsurteilen mehr Zeit verschafft. Im Zivilprozessrecht gilt dieser Grundsatz bereits, nun soll er auf das ganze Bundesrecht übertragen werden. Der Bundesrat hat an seiner Sitzung vom 12. Februar 2025 von den Vernehmlassungsergebnissen Kenntnis genommen und die entsprechende Botschaft verabschiedet. </lead>
+      <text link="no"> &lt;p&gt;Werden Postsendungen, die eine Frist auslösen - etwa Vertragskündigungen oder Gerichtsurteile - an Samstagen zugestellt, soll dies nicht zu rechtlichen Nachteilen für die Empfängerinnen und Empfänger führen. Deshalb hat der Bundesrat an seiner Sitzung vom 12. Februar 2025 die Botschaft für eine entsprechende Revision diverser Erlasse des Bundes verabschiedet. Damit erfüllt er die Motion 22.3381 "Harmonisierung der Fristenberechnung" der Kommission für Rechtsfragen des Nationalrats (RK-N). Eine Mehrheit der Vernehmlassungsteilnehmenden begrüsste den Vorschlag des Bundesrats. &lt;/p&gt; &lt;p&gt;Künftig sollen Postsendungen, die eine Frist auslösen und am Wochenende in den Briefkasten der Empfängerin oder des Empfängers gelegt werden, erst am darauffolgenden Montag als zugestellt gelten. Dieser Grundsatz ist bereits in der Zivilprozessordnung (ZPO) verankert und soll gemäss dem Vorschlag des Bundesrats künftig im gesamten Bundesrecht gelten. So erhalten die Betroffenen mehr Zeit, um ihre Rechte ausüben zu können. Dies namentlich auch in Bereichen, in denen nur während der Bürozeiten unter der Woche gearbeitet wird. Die neue Regelung führt ausserdem zu mehr Rechtssicherheit, da die Frist in jedem Fall erst am darauffolgenden Werktag zu laufen beginnt.&lt;/p&gt; &lt;p&gt;Um diese sogenannte Zustellungsfiktion ins gesamte Bundesrecht zu übertragen, müssen verschiedene Gesetze geändert werden. Konkret betroffen sind das Verwaltungsverfahrensgesetz (VwVG), das Bundesgerichtsgesetz (BGG), das Militärstrafgesetz (MStG), der Militärstrafprozess (MStP), das Bundesgesetz über die direkte Bundessteuer (DBG) und das Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG).&lt;/p&gt; &lt;p&gt;Um sicherzustellen, dass die Zustellungsfiktion im gesamten Bundesrecht gilt und keine Rechtslücken bestehen, schlägt der Bundesrat ausserdem vor, die neue Regel im Bundesgesetz über den Fristenlauf an Samstagen explizit festzuhalten. Dies gilt insbesondere für die Fristen des materiellen Privatrechts wie zum Beispiel bei einer Wohnungskündigung, oder für Fristen des materiellen Strafrechts, etwa bei einem Strafantrag. &lt;/p&gt; &lt;h3&gt;Zustellfiktion soll auch im Steuerrecht gelten&lt;/h3&gt; &lt;p&gt;Aufgrund der Rückmeldungen in der Vernehmlassung hat der Bundesrat zusätzlich das Steuerharmonisierungsgesetz (StHG) in die Vorlage einbezogen. Damit soll künftig eine einheitliche Regelung für die Zustellung von Steuersachen an Wochenenden und Feiertagen auf Bundes- und Kantonsebene gelten.&lt;/p&gt; </text>
+      <link id="287320">
+        <title>Botschaft (BBl 2025 565)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/565/de</uri>
+        <position>Context</position>
+      </link>
+      <link id="287321">
+        <title>Entwurf (BBl 2025 566)</title>
+        <uri>https://www.fedlex.admin.ch/eli/fga/2025/566/de</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="287317">
+        <title>Ergebnis des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>240</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/91717.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="5">
+        <name lang="fr">Autorités</name>
+        <name lang="de">Behörden</name>
+        <name lang="it">Autorità</name>
+        <name lang="rm">Behörden</name>
+      </topic>
+      <topic id="10">
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+      </topic>
+      <topic id="14">
+        <name lang="fr">Tribunaux</name>
+        <name lang="de">Gerichte</name>
+        <name lang="it">Tribunali</name>
+        <name lang="rm">Gerichte</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

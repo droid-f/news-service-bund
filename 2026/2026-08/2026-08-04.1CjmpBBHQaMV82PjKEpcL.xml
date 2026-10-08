@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="1CjmpBBHQaMV82PjKEpcL" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2026-08-04</pubdate>
+    <originator id="609" department-msg="no" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="fr">Office fédéral de l'informatique et de la télécommunication</name>
+      <name lang="it">Ufficio federale dell’informatica e della telecomunicazione</name>
+      <name lang="rm">Uffizi federal d'informatica e telecommunicaziun</name>
+      <name lang="de">Bundesamt für Informatik und Telekommunikation</name>
+      <name lang="en">Federal Office of Information Technology, Systems and Telecommunication</name>
+      <www lang="de">https://www.bit.admin.ch/de</www>
+      <www lang="en">https://www.bit.admin.ch/en</www>
+      <www lang="fr">https://www.bit.admin.ch/fr</www>
+      <www lang="it">https://www.bit.admin.ch/it</www>
+      <email lang="fr">media@bit.admin.ch</email>
+      <email lang="it">media@bit.admin.ch</email>
+      <email lang="rm">media@bit.admin.ch</email>
+      <email lang="de">media@bit.admin.ch</email>
+      <email lang="en">media@bit.admin.ch</email>
+    </originator>
+    <keywords/>
+    <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="de">media@gs-efd.admin.ch</email>
+      <email lang="en">media@gs-efd.admin.ch</email>
+      <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Ciberattacco contro i server SharePoint</title>
+      <lead>L’accesso via Internet a persone esterne alla Confederazione è stato bloccato a seguito di un ciberattacco sventato sui server SharePoint gestiti dall’Ufficio federale dell’informatica e della telecomunicazione (UFIT). Durante l’analisi è stato constatato che sono stati compromessi circa 200 account. Finora non sono stati riscontrati indizi che lascino supporre una fuga di dati.</lead>
+      <text link="no">&lt;p&gt;A metà luglio Microsoft ha reso note diverse vulnerabilità in SharePoint, un’applicazione web ampiamente diffusa e utilizzata, ad esempio, per la collaborazione e l’archiviazione di file. Anche l’UFIT usa questo prodotto e gestisce diversi server SharePoint nei propri centri di calcolo della Confederazione. Non appena sono stati messi a disposizione i pertinenti aggiornamenti di sicurezza, l’UFIT ha avviato immediatamente i lavori per la loro installazione nei propri sistemi.&lt;/p&gt; &lt;p&gt;Martedì 28 luglio gli esperti in materia di sicurezza hanno notato delle anomalie nei server SharePoint dell’UFIT. Subito dopo la conferma dei sospetti, l’accesso via Internet all’applicazione è stato bloccato e le vulnerabilità sono state corrette. Il ciberattacco è stato perpetrato da attori ancora sconosciuti, verosimilmente sfruttando le vulnerabilità nel software SharePoint.&lt;/p&gt; &lt;p&gt;Nel quadro delle analisi, venerdì 31 luglio gli esperti in materia di sicurezza hanno constatato che sono stati compromessi i dati di accesso di più account (utenti e tecnici). L’UFIT ha immediatamente reimpostato le password interessate. Secondo lo stato attuale sono interessati circa 200 account.&lt;/p&gt; &lt;h2&gt;Nessun indizio di una fuga di dati&lt;/h2&gt; &lt;p&gt;Per effettuare le analisi, l’UFIT ha ricevuto il sostegno dell’Ufficio federale della cibersicurezza (UFCS) e di Microsoft. Da queste analisi, attualmente in corso, è emerso che non vi sono indicazioni che, oltre alla compromissione dei dati di accesso di 200 account, siano trapelati ulteriori dati. Sulla piattaforma SharePoint non è consentito salvare informazioni confidenziali o dati personali degni di particolare protezione.&lt;/p&gt; &lt;p&gt;L’UFIT sta reinstallando in via preventiva i server SharePoint. L’accesso all’applicazione da parte di utenti esterni alla Confederazione via Internet rimarrà bloccato fino alla conclusione dei lavori. I collaboratori dell’Amministrazione federale possono continuare ad accedere ai propri documenti e trasmetterli tramite canali alternativi.&lt;/p&gt; &lt;p&gt;Nel quadro dell’obbligo di segnalazione secondo la legge federale sulla sicurezza delle informazioni (LSIn; RS &lt;em&gt;128&lt;/em&gt;), l’UFIT ha segnalato l’incidente all’UFCS e alla Segreteria di Stato della politica di sicurezza (SEPOS) entro i termini richiesti. Per proteggere i gestori di infrastrutture critiche in Svizzera, in via proattiva l’UFIT ha condiviso con questi ultimi tutti gli indicatori tecnici rilevanti per il ciberattacco tramite la piattaforma dell’UFCS.&lt;/p&gt;</text>
+      <contact>Ufficio federale dell&amp;#39;informatica e della telecomunicazione UFIT +41 58 463 00 30 media@bit.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Cyberattaque contre les serveurs SharePoint</title>
+      <lead>À la suite de la détection d’une cyberattaque visant les serveurs SharePoint exploités par l’Office fédéral de l’informatique et de la télécommunication (OFIT), l’accès à ceux-ci par Internet a été bloqué pour les personnes extérieures à l’administration fédérale. L’analyse de l’incident a révélé qu’environ 200 comptes avaient été compromis. Rien n’indique pour l’heure qu’il y ait eu une fuite de données.</lead>
+      <text link="no">&lt;p&gt;Mi-juillet, Microsoft a annoncé plusieurs failles de sécurité dans sa plateforme SharePoint, une solution largement répandue, qui permet notamment de collaborer et de stocker des fichiers. L’OFIT utilise lui aussi ce produit et exploite à cet effet plusieurs serveurs SharePoint dans ses propres centres de calcul. Il a installé les mises à jour de sécurité correspondantes dès leur mise à disposition.&lt;/p&gt; &lt;p&gt;Le mardi 28 juillet, des spécialistes de la sécurité ont détecté des anomalies sur les serveurs SharePoint de l’OFIT. Une fois la compromission confirmée, l’OFIT a immédiatement bloqué l’accès par Internet à ces serveurs et remédié à la vulnérabilité. La cyberattaque a été perpétrée par des acteurs jusqu’ici inconnus, qui auraient exploité les failles de sécurité du logiciel SharePoint.&lt;/p&gt; &lt;p&gt;Dans le cadre des analyses menées, les spécialistes de la sécurité ont constaté, vendredi 31 juillet, que les données d’accès de plusieurs comptes avaient été compromises. Ces comptes comprenaient aussi bien des comptes d’utilisateurs que des comptes techniques. L’OFIT a immédiatement réinitialisé les mots de passe concernés. Selon l’état actuel, environ 200 comptes sont concernés.&lt;/p&gt; &lt;h2&gt;Aucun signe de fuite de données&lt;/h2&gt; &lt;p&gt;L’OFIT bénéficie du soutien de l’Office fédéral de la cybersécurité (OFCS) et de Microsoft pour mener les analyses. Les analyses en cours n’ont révélé aucun indice laissant supposer que d’autres données aient été dérobées, hormis les données d’accès des 200 comptes compromis. Étant donné qu’aucune information confidentielle ni aucune donnée personnelle sensible ne doit être stockée sur la plateforme SharePoint, les risques en cas de compromission sont limités.&lt;/p&gt; &lt;p&gt;L’OFIT procède actuellement à une réinstallation préventive des serveurs SharePoint concernés. L’accès à SharePoint par Internet pour les utilisateurs externes à l’administration fédérale reste bloqué jusqu’à la fin des travaux. Les collaborateurs internes peuvent continuer à accéder à leurs documents et à les échanger avec les personnes concernées par d’autres moyens.&lt;/p&gt; &lt;p&gt;Conformément à l’obligation de signaler prévue par la loi sur la sécurité de l’information, l’OFIT a informé, dans les délais impartis, l’OFCS et le Secrétariat d’État à la politique de sécurité de cet incident. À des fins de protection, il a également communiqué aux exploitants d’infrastructures critiques en Suisse, au moyen de la plateforme de l’OFCS, tous les indicateurs techniques pertinents relatifs à la cyberattaque.&lt;/p&gt;</text>
+      <contact>Office fédéral de l&amp;#39;informatique et de la télécommunication OFIT +41 58 463 00 30 media@bit.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Cyberangriff auf SharePoint-Server</title>
+      <lead>Aufgrund eines erkannten Cyberangriffs auf die durch das Bundesamt für Informatik und Telekommunikation (BIT) betriebenen SharePoint-Server wurde der Zugriff für bundesexterne Personen via Internet gesperrt. Im Rahmen der Analyse des Vorfalls wurde festgestellt, dass rund 200 Konten kompromittiert wurden. Es gibt bislang keine Anzeichen dafür, dass Daten abgeflossen sind.</lead>
+      <text link="no">&lt;p&gt;Mitte Juli hat Microsoft mehrere Schwachstellen in SharePoint bekannt gegeben. Bei SharePoint handelt es sich um eine weit verbreitete Webanwendung von Microsoft, welche unter anderem zur Kollaboration und als Dateiablage verwendet wird. Auch das BIT setzt das Produkt ein und betreibt dazu mehrere SharePoint-Server in den eigenen Datenzentren des Bundes. Nach der Veröffentlichung der entsprechenden Sicherheits-Updates hat das BIT die Arbeiten zum Einspielen in die eigenen Systeme umgehend aufgenommen.&lt;/p&gt; &lt;p&gt;Am Dienstag, 28. Juli, haben Sicherheitsspezialistinnen und -spezialisten Auffälligkeiten auf den SharePoint-Servern des BIT bemerkt. Umgehend nach Bestätigung des Verdachts hat das BIT den Zugriff auf SharePoint über das Internet blockiert und die Schwachstellen geschlossen. Der Cyberangriff wurde durch bisher unbekannte Akteure ausgeführt, welche mutmasslich durch die Ausnutzung dieser Schwachstellen in der SharePoint-Software ermöglicht wurde.&lt;/p&gt; &lt;p&gt;Im Rahmen der Analysearbeiten wurde am Freitag, 31. Juli, durch die Sicherheitsspezialistinnen und -spezialisten festgestellt, dass die Zugangsdaten von mehreren Konten kompromittiert wurden. Darunter befanden sich Benutzer- wie auch technische Konten. Das BIT hat die entsprechenden Passwörter umgehend zurückgesetzt. Gemäss aktuellem Stand sind rund 200 Konten betroffen.&lt;/p&gt; &lt;h2&gt;Keine Anzeichen für Datenabfluss&lt;/h2&gt; &lt;p&gt;Bei den Analysen wird das BIT vom Bundesamt für Cybersicherheit (BACS) und Microsoft unterstützt. Die bisherigen Analysen haben ergeben, dass es keine Anzeichen dafür gibt, dass neben der Kompromittierung der Zugangsdaten von 200 Konten weitere Daten abgeflossen sind. Die Analysearbeiten sind am Laufen. Auf der SharePoint-Plattform dürfen keine vertraulichen Informationen oder besonders schützenswerte Personendaten gespeichert werden.&lt;/p&gt; &lt;p&gt;Aktuell setzt das BIT die betroffenen SharePoint-Server präventiv neu auf. Der Zugriff auf SharePoint für bundesexterne Benutzerinnen und Benutzer über das Internet bleibt bis zum Abschluss der Arbeiten gesperrt. Personen aus der Bundesverwaltung können weiterhin auf ihre Dokumente zugreifen und sie über alternative Wege mit den betroffenen Personen austauschen.&lt;/p&gt; &lt;p&gt;Im Rahmen der Meldepflicht gemäss Informationssicherheitsgesetz (ISG) hat das BIT innert der geforderten Frist das Bundesamt für Cybersicherheit (BACS) sowie das Staatssekretariat für Sicherheitspolitik (SEPOS) über den Cybersicherheitsvorfall informiert. Um Betreiberinnen kritischer Infrastrukturen in der Schweiz zu schützen, hat das BIT proaktiv alle relevanten technischen Indikatoren zum Cyberangriff über die Plattform des BACS mit den Betreiberinnen kritischer Infrastrukturen geteilt.&lt;/p&gt;</text>
+      <contact>Bundesamt für Informatik und Telekommunikation BIT +41 58 463 00 30 media@bit.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="36">
+        <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
+        <name lang="en">Digitalisation, Communication &amp; Media</name>
+        <name lang="fr">Transformation numérique, communication et médias</name>
+        <name lang="it">Digitalizzazione, comunicazione e media</name>
+        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

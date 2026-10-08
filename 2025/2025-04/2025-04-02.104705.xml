@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104705" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-04-02</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+    </originator>
+    <originator id="401" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator id="403" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <name lang="rm">Bundesamt für Justiz</name>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <www lang="rm">http://www.bj.admin.ch</www>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <email lang="de">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+      <email lang="rm">info@bj.admin.ch</email>
+      <email lang="it">info@bj.admin.ch</email>
+    </originator>
+    <originator id="1071" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="de">Nationale Kommission zur Verhütung von Folter</name>
+      <name lang="fr">Commission nationale de prévention de la torture</name>
+      <name lang="rm">Nationale Kommission zur Verhütung von Folter</name>
+      <name lang="it">Commissione nazionale per la prevenzione della tortura</name>
+      <www lang="de">http://www.nkvf.admin.ch</www>
+      <www lang="fr">http://www.nkvf.admin.ch/content/nkvf/fr/home.html</www>
+      <www lang="rm">http://www.nkvf.admin.ch</www>
+      <www lang="it">http://www.nkvf.admin.ch/content/nkvf/it/home.html</www>
+      <email lang="de">info@nkvf.admin.ch</email>
+      <email lang="fr">info@nkvf.admin.ch</email>
+      <email lang="rm">info@nkvf.admin.ch</email>
+      <email lang="it">info@nkvf.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="42" org-id="403">
+        <name lang="de">Folter</name>
+        <name lang="de">Folter</name>
+        <name lang="fr">Torture</name>
+        <name lang="fr">Torture</name>
+        <name lang="rm">Folter</name>
+        <name lang="rm">Folter</name>
+        <name lang="it">Tortura</name>
+        <name lang="it">Tortura</name>
+      </keyword>
+      <keyword id="18" org-id="401">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="rm">Behörden</name>
+        <name lang="it">Autorità</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="it">Il Consiglio federale</name>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+    </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat wählt drei neue Mitglieder in die Kommission zur Verhütung von Folter</title>
+      <lead>In der Nationalen Kommission zur Verhütung von Folter (NKVF) kommt es zu personellen Wechseln. Der Bundesrat hat an seiner Sitzung vom 2. April 2025 drei neue Kommissionsmitglieder gewählt. Die Wahl erfolgte, weil zwei bisherige Mitglieder ihren Rücktritt bekannt gaben und ein weiteres Mitglied die maximale Amtsdauer erreicht. Zusätzlich wird ein bisheriges Mitglied auf weitere vier Jahre gewählt. </lead>
+      <text link="no"> &lt;p&gt;Als neue Mitglieder der NKVF gewählt hat der Bundesrat Annette Keller, Theologin und Sozialarbeiterin, ehemalige Direktorin Justizvollzugsanstalt Hindelbank; Reto Medici, Anwalt, ehemaliger Jugendrichter Kanton Tessin und Fabrizio Comandini, ehemaliger Direktor der Sektion Sottoceneri des Schweizerischen Roten Kreuzes. Die drei Personen werden ihr Amt am 1. Mai 2025 antreten. &lt;/p&gt; &lt;p&gt;Sie ersetzen Maurizio Albisetti Bernasconi und Philippe Gutmann, die während der laufenden Amtszeit zurückgetreten sind sowie Daniel Bolomey, der die maximale Amtsdauer von 12 Jahren erreicht hat. Der Bundesrat dankt den scheidenden Mitgliedern für die wertvolle Arbeit in der Kommission. Zudem hat er Prof. Dr. iur. Martina Caroni, Ordinaria für öffentliches Recht und Völkerrecht an der Universität Luzern und aktuell Präsidentin der NKVF, auf den 1. September 2025 für weitere vier Jahre wiedergewählt.&lt;/p&gt; &lt;p&gt;Die Mitglieder der NKVF werden jeweils für vier Jahre gewählt. Sie können höchstens zweimal wiedergewählt werden. Die vom Bundesrat eingesetzte unabhängige Kommission setzt sich aus zwölf Fachleuten aus den Bereichen Recht, Medizin, Psychiatrie, Polizei und Strafvollzug zusammen. Die NKVF stellt durch regelmässige Besuche in Institutionen des Freiheitsentzugs (Gefängnisse, psychiatrische Kliniken, Heime usw.) sowie durch einen kontinuierlichen Dialog mit den Behörden sicher, dass die Rechte von Personen im Freiheitsentzug eingehalten werden.&lt;/p&gt; </text>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral nomme trois nouveaux membres de la Commission nationale de prévention de la torture</title>
+      <lead>Lors de sa séance du 2 avril 2025, le Conseil fédéral a nommé trois nouveaux membres de la Commission nationale de prévention de la torture (CNPT). Cette nomination vise à remplacer deux membres démissionnaires et un autre ayant atteint la durée de fonction maximale. En outre, un membre de la commission a été reconduit dans ses fonctions pour quatre ans. </lead>
+      <text link="no"> &lt;p&gt;Les trois nouveaux membres de la CNPT nommés par le Conseil fédéral sont Annette Keller, théologienne et assistante sociale, ancienne directrice de l'établissement pénitentiaire de Hindelbank, Reto Medici, avocat et ancien juge des mineurs du canton du Tessin, et Fabrizio Comandini, ancien directeur de la section Sottoceneri de la Croix-Rouge suisse. Ils prendront leurs fonctions le 1er mai 2025. &lt;/p&gt; &lt;p&gt;Ces trois nouveaux membres succéderont à Maurizio Albisetti Bernasconi et Philippe Gutmann, qui ont quitté la CNPT en cours de mandat, et à Daniel Bolomey, qui atteindra la durée de fonction maximale de douze ans. Le Conseil fédéral remercie les membres sortants pour leur précieux travail dans la commission. Il a par ailleurs reconduit dans ses fonctions pour quatre ans, à partir du 1er septembre 2025, l'actuelle présidente de la CNPT, Martina Caroni, professeure ordinaire de droit public, de droit international et de droit public comparé à l'Université de Lucerne. &lt;/p&gt; &lt;p&gt;La CNPT est une commission indépendante instituée par le Conseil fédéral qui réunit douze spécialistes des domaines du droit, de la médecine, de la psychiatrie, de la police et de l'exécution des peines. Elle assure, par les visites qu'elle fait régulièrement dans les établissements de privation de liberté (prisons, cliniques psychiatriques, foyers, etc.) et par un dialogue permanent avec les autorités, que les droits des personnes privées de liberté sont respectés. Ses membres sont nommés pour quatre ans et peuvent être reconduits dans leur fonction deux fois au maximum. &lt;/p&gt; </text>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat wählt drei neue Mitglieder in die Kommission zur Verhütung von Folter</title>
+      <lead>In der Nationalen Kommission zur Verhütung von Folter (NKVF) kommt es zu personellen Wechseln. Der Bundesrat hat an seiner Sitzung vom 2. April 2025 drei neue Kommissionsmitglieder gewählt. Die Wahl erfolgte, weil zwei bisherige Mitglieder ihren Rücktritt bekannt gaben und ein weiteres Mitglied die maximale Amtsdauer erreicht. Zusätzlich wird ein bisheriges Mitglied auf weitere vier Jahre gewählt. </lead>
+      <text link="no"> &lt;p&gt;Als neue Mitglieder der NKVF gewählt hat der Bundesrat Annette Keller, Theologin und Sozialarbeiterin, ehemalige Direktorin Justizvollzugsanstalt Hindelbank; Reto Medici, Anwalt, ehemaliger Jugendrichter Kanton Tessin und Fabrizio Comandini, ehemaliger Direktor der Sektion Sottoceneri des Schweizerischen Roten Kreuzes. Die drei Personen werden ihr Amt am 1. Mai 2025 antreten. &lt;/p&gt; &lt;p&gt;Sie ersetzen Maurizio Albisetti Bernasconi und Philippe Gutmann, die während der laufenden Amtszeit zurückgetreten sind sowie Daniel Bolomey, der die maximale Amtsdauer von 12 Jahren erreicht hat. Der Bundesrat dankt den scheidenden Mitgliedern für die wertvolle Arbeit in der Kommission. Zudem hat er Prof. Dr. iur. Martina Caroni, Ordinaria für öffentliches Recht und Völkerrecht an der Universität Luzern und aktuell Präsidentin der NKVF, auf den 1. September 2025 für weitere vier Jahre wiedergewählt.&lt;/p&gt; &lt;p&gt;Die Mitglieder der NKVF werden jeweils für vier Jahre gewählt. Sie können höchstens zweimal wiedergewählt werden. Die vom Bundesrat eingesetzte unabhängige Kommission setzt sich aus zwölf Fachleuten aus den Bereichen Recht, Medizin, Psychiatrie, Polizei und Strafvollzug zusammen. Die NKVF stellt durch regelmässige Besuche in Institutionen des Freiheitsentzugs (Gefängnisse, psychiatrische Kliniken, Heime usw.) sowie durch einen kontinuierlichen Dialog mit den Behörden sicher, dass die Rechte von Personen im Freiheitsentzug eingehalten werden.&lt;/p&gt; </text>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Commissione nazionale per la prevenzione della tortura: nominati tre nuovi membri</title>
+      <lead>Nella seduta del 2 aprile 2025 il Consiglio federale ha nominato tre nuovi membri della Commissione nazionale per la prevenzione della tortura (CNPT). La nomina si è resa necessaria perché due membri hanno annunciato le loro dimissioni e un altro ha raggiunto la durata massima del mandato. L’Esecutivo ha inoltre riconfermato un membro per altri quattro anni.</lead>
+      <text link="no"> &lt;p&gt;I tre nuovi membri sono la teologa e assistente sociale Annette Keller, ex direttrice del penitenziario di Hindelbank, l'avvocato Reto Medici, ex magistrato dei minorenni del Canton Ticino, e Fabrizio Comandini, ex direttore della sezione Sottoceneri della Croce Rossa Svizzera. Assumeranno la carica il 1° maggio 2025.&lt;/p&gt; &lt;p&gt;Subentreranno a Maurizio Albisetti Bernasconi e Philippe Gutmann, che hanno rassegnato le dimissioni durante l'attuale mandato, e a Daniel Bolomey, che ha raggiunto la durata massima di dodici anni. Il Consiglio federale ringrazia i membri uscenti per il loro prezioso lavoro. Ha inoltre riconfermato per altri quattro anni a partire dal 1° settembre 2025 la prof. dott. iur. Martina Caroni, ordinaria di diritto pubblico e diritto internazionale all'Università di Lucerna e attuale presidente della CNPT.&lt;/p&gt; &lt;p&gt;I membri della Commissione restano in carica quattro anni e sono rieleggibili due volte al massimo. La CNPT è una commissione indipendente istituita dal Consiglio federale e composta da dodici esperti provenienti dai settori del diritto, della medicina, della psichiatria, della polizia e dell'esecuzione delle pene e delle misure. Mediante ispezioni periodiche negli istituti di privazione della libertà (penitenziari, cliniche psichiatriche, riformatori ecc.) e un dialogo costante con le autorità, la CNPT garantisce il rispetto dei diritti delle persone private della libertà.&lt;/p&gt; </text>
+      <contact/>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="5">
+        <name lang="de">Behörden</name>
+        <name lang="fr">Autorités</name>
+        <name lang="rm">Behörden</name>
+        <name lang="it">Autorità</name>
+      </topic>
+      <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="it">Consiglio federale</name>
+      </topic>
+      <topic id="39">
+        <name lang="de">Schweiz und Ausland</name>
+        <name lang="fr">Suisse et étranger</name>
+        <name lang="rm">Schweiz und Ausland</name>
+        <name lang="it">Svizzero ed estero</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

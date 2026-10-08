@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104412" revoked="no">
+    <type>Memorandum</type>
+    <version>3</version>
+    <pubdate>2025-03-07</pubdate>
+    <originator id="301" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+    </originator>
+    <originator id="319" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="rm">Bundesamt für Sozialversicherungen</name>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="fr">Office fédéral des assurances sociales</name>
+      <www lang="it">http://www.ufas.admin.ch</www>
+      <www lang="rm">http://www.bsv.admin.ch</www>
+      <www lang="de">http://www.bsv.admin.ch</www>
+      <www lang="fr">http://www.ofas.admin.ch</www>
+      <email lang="it"/>
+      <email lang="rm"/>
+      <email lang="de"/>
+      <email lang="fr"/>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="318.3" org-id="319">
+        <name lang="it">Prestazioni complementari</name>
+        <name lang="rm">Ergänzungsleistungen</name>
+        <name lang="de">Ergänzungsleistungen</name>
+        <name lang="fr">Prestations complémentaires</name>
+      </keyword>
+      <keyword id="318.7" org-id="319">
+        <name lang="it">Famiglie, generazioni e società</name>
+        <name lang="rm">Familie, Generationen und Gesellschaft</name>
+        <name lang="de">Familie, Generationen und Gesellschaft</name>
+        <name lang="fr">Familles, générations et societé</name>
+      </keyword>
+      <keyword id="318.9" org-id="319">
+        <name lang="it">Rapporti di ricerca «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="rm">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="de">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="fr">Rapports de recherche «Apects de la sécurité sociale»</name>
+      </keyword>
+      <keyword id="318.1" org-id="319">
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="rm">Sozialversicherung</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+      </keyword>
+      <keyword id="318.2" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="rm">AHV</name>
+        <name lang="de">AHV</name>
+        <name lang="fr">AVS</name>
+      </keyword>
+    </keywords>
+    <department id="301">
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Eidgenössisches Departement des Innern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="it">http://www.edi.admin.ch</www>
+      <www lang="rm">http://www.edi.admin.ch</www>
+      <www lang="de">http://www.edi.admin.ch</www>
+      <www lang="fr">http://www.edi.admin.ch</www>
+      <email lang="it">info@gs-edi.admin.ch</email>
+      <email lang="rm">info@gs-edi.admin.ch</email>
+      <email lang="de">info@gs-edi.admin.ch</email>
+      <email lang="fr">info@gs-edi.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale respinge l’iniziativa che chiede di sopprimere il limite massimo delle rendite AVS dei coniugi</title>
+      <lead>Nella sua seduta del 7 marzo 2025, il Consiglio federale ha adottato il messaggio concernente l’iniziativa popolare «Sì a rendite AVS eque anche per i coniugi – Basta con la discriminazione del matrimonio!». L’iniziativa chiede di sopprimere la limitazione della somma delle due rendite per coniugi nell’assicurazione per la vecchiaia e per i superstiti (AVS) e nell’assicurazione invalidità (AI). Il Consiglio federale raccomanda al Parlamento di respingere l’iniziativa senza presentare alcun controprogetto. Un ulteriore onere supplementare di circa 3,6 miliardi di franchi a carico dell’AVS nel 2030 (secondo le proiezioni), in aggiunta ai costi legati alla 13a rendita di vecchiaia e all’evoluzione demografica, acuirebbe le difficoltà finanziarie dell’assicurazione.</lead>
+      <text link="no">&lt;p&gt;Depositata il 27 marzo 2024 dal partito del Centro, l’iniziativa «Sì a rendite AVS eque anche per i coniugi – Basta con la discriminazione del matrimonio!» chiede la soppressione della limitazione delle rendite per coniugi nell’AVS e nell’AI. In base alla regolamentazione attuale, la somma delle due rendite delle persone assicurate coniugate ammonta al 150 per cento dell’importo massimo della rendita corrispondente, ovvero a 3780 franchi per le persone che hanno sempre versato contributi AVS. Questa limitazione concerne circa il 90 per cento delle coppie sposate. Di conseguenza, le loro rendite AVS e AI possono essere inferiori alla somma delle rendite delle coppie non sposate. L’iniziativa chiede anche che il Consiglio federale sopprima l’esenzione dall’obbligo contributivo per il coniuge che non lavora, se la relativa legislazione d’esecuzione non dovesse entrare in vigore entro tre anni dall’accettazione dell’iniziativa. Attualmente, le persone sposate senza attività lucrativa sono esentate dall’obbligo contributivo se il coniuge versa almeno il doppio del contributo minimo. In caso di accettazione dell’iniziativa, le rendite delle persone sposate con un reddito annuo medio determinante AVS superiore a 90720 franchi (stato: 2025) migliorerebbero. Per contro, le rendite delle economie domestiche con redditi più bassi e quelle delle persone non sposate, vedove o divorziate non aumenterebbero.&lt;/p&gt;&lt;h2&gt;Il Consiglio federale raccomanda di respingere l’iniziativa&lt;/h2&gt;&lt;p&gt;Il Consiglio federale respinge l’iniziativa, poiché ritiene che i coniugi beneficino già di una buona copertura sociale nell’AVS, con diverse prestazioni accordate unicamente a loro che controbilanciano gli svantaggi connessi alla limitazione della somma delle loro rendite. Le coppie sposate beneficiano infatti di prestazioni dell’AVS e dell’AI a cui i conviventi non hanno diritto. In caso di divorzio e di decesso, per esempio, i redditi conseguiti durante gli anni di matrimonio vengono ripartiti in parti uguali tra i due coniugi. Lo stesso vale quando entrambi hanno diritto a una rendita. Inoltre, i vedovi e le vedove hanno diritto a un supplemento di vedovanza del 20 per cento in aggiunta alla loro rendita di vecchiaia o d’invalidità e le rendite vedovili sono accordate soltanto a condizione di essere stati sposati.&lt;/p&gt;&lt;p&gt;L’accettazione dell’iniziativa, con la soppressione della limitazione delle rendite per coniugi e quella dell’esenzione dall’obbligo contributivo per il coniuge senza attività lucrativa, genererebbe inoltre un aumento delle uscite annue dell’AVS di circa 3,6 miliardi di franchi nel 2030 e di circa 4,1 miliardi di franchi nel 2035 (secondo le proiezioni). La Confederazione dovrebbe coprire circa 770 milioni di franchi nel 2030 e 870 milioni di franchi nel 2035 (secondo il diritto vigente, il contributo federale al finanziamento dell’AVS ammonta al 20,2 %). L’iniziativa non prevede però alcun finanziamento per coprire queste spese supplementari e l’AVS non dispone delle risorse finanziarie necessarie per coprirle. Per far fronte alle uscite supplementari che l’iniziativa genererebbe e in funzione dell’obiettivo finanziario da definire, si renderebbe per esempio necessario un aumento dei contributi salariali di 0,6 punti percentuali o un innalzamento dell’IVA di 0,8 punti percentuali.&lt;/p&gt;&lt;p&gt;In caso di accettazione dell’iniziativa, le spese aggiuntive andrebbero a gravare l’insieme della popolazione, incluse le persone a basso reddito o le persone sole, vedove o divorziate, che non beneficerebbero però di alcun miglioramento della loro rendita e che anzi sono proprio quelle maggiormente minacciate dalla povertà. Inoltre, imporre all’AVS un onere supplementare in aggiunta ai costi legati alla 13a rendita di vecchiaia e all’evoluzione demografica aggraverebbe la situazione finanziaria dell’assicurazione. Sulla base di quanto precede, il Consiglio federale raccomanda al Parlamento di respingere l’iniziativa.&lt;/p&gt;</text>
+      <link id="286431">
+        <title>Artikel der sozialen Sicherheit CHSS: «AHV: Welche Folgen hätte die Abschaffung der zivilstandsabhängigen Regelungen?»</title>
+        <uri>https://sozialesicherheit.ch/de/ahv-welche-folgen-haette-die-abschaffung-der-zivilstandsabhaengigen-regelungen/</uri>
+        <position>Context</position>
+      </link>
+      <link id="286433">
+        <title>Article de la revue Sécurité sociale CHSS : « AVS : Quelles seraient les conséquences de la suppression des règles basées sur l’état civil ? »</title>
+        <uri>https://sozialesicherheit.ch/fr/avs-quelles-seraient-les-consequences-de-la-suppression-des-regles-basees-sur-letat-civil/</uri>
+        <position>Context</position>
+      </link>
+      <link id="286434">
+        <title>Rapporto di ricerca “Conseguenze di una previdenza per la vecchiaia indipendente dallo stato civile”</title>
+        <uri>https://www.bsv.admin.ch/bsv/it/home/pubblicazioni-e-servizi/forschung/forschungspublikationen.exturl.html?lang=it&amp;lnr=04/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286429">
+        <title>Messaggio</title>
+        <format>pdf</format>
+        <size-kb>1244</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92189.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Ufficio federale delle assicurazioni sociali&#13; Settore Comunicazione&#13; tel. +41 58 462 77 11&#13; media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Bundesrat lehnt Initiative zur Abschaffung der Rentenplafonierung für Ehepaare ab</title>
+      <lead>An seiner Sitzung vom 7. März 2025 hat der Bundesrat die Botschaft zur Volksinitiative «Ja zu fairen AHV-Renten auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!» verabschiedet. Die Initiative verlangt die Aufhebung der Rentenplafonierung für Ehepaare in der Alters- und Hinterlassenenversicherung sowie der Invalidenversicherung. Der Bundesrat empfiehlt dem Parlament, die Initiative ohne Gegenvorschlag abzulehnen. Eine weitere Mehrbelastung der AHV in Höhe von rund 3,6 Milliarden Franken gemäss Projektion, zusätzlich zu den Kosten für die 13. Altersrente und den Kosten, die aufgrund des demografischen Wandels anfallen werden, würde die finanzielle Lage der AHV verschlechtern. </lead>
+      <text link="no">&lt;p&gt;Die am 27. März 2024 von der Partei «Die Mitte» eingereichte Initiative «Ja zu fairen AHV-Renten» fordert die Aufhebung der Rentenplafonierung für Ehepaare in der AHV und der IV. Heute darf die Summe der Einzelrenten eines Ehepaares höchstens 150 Prozent der Maximalrente betragen, d. h. 3780 Franken für Personen, die immer in die AHV einbezahlt haben. Das betrifft rund 90 Prozent der Ehepaare, deren AHV- und IV-Renten allenfalls tiefer ausfallen als die kumulierten Renten unverheirateter Paare. Die Initiative verlangt ausserdem, dass der Bundesrat die Beitragsbefreiung für nichterwerbstätige Ehefrauen und Ehemänner aufhebt, wenn die gesetzlichen Durchführungsbestimmungen nicht drei Jahre nach einer Annahme der Initiative in Kraft treten. Derzeit müssen verheiratete Nichterwerbstätige keine Beiträge einzahlen, wenn die Ehepartnerin oder der Ehepartner mindestens den doppelten Mindestbeitrag entrichtet. Mit der Initiative würden die Renten von verheirateten Personen mit einem massgebenden durchschnittlichen Jahreseinkommen von über 90 720 Franken (Stand 2025) verbessert. Die Renten von Haushalten mit tiefem Einkommen sowie von unverheirateten, verwitweten oder geschiedenen Personen würden sich hingegen nicht ändern.&lt;/p&gt;&lt;h2&gt;Bundesrat empfiehlt Initiative zur Ablehnung&lt;/h2&gt;&lt;p&gt;Der Bundesrat lehnt die Initiative ab. Seiner Ansicht nach sind Eheleute in der AHV gut abgesichert, da ihnen verschiedene Massnahmen zugutekommen, die die Nachteile der Rentenplafonierung ausgleichen. Ehepaaren stehen gewisse AHV- und IV-Leistungen zu, auf die Konkubinatspaare keinen Anspruch haben. Die während der Ehejahre erzielten Einkommen werden bei einer Scheidung, im Todesfall, aber auch wenn beide rentenberechtigt sind, hälftig aufgeteilt. Witwen und Witwer haben Anspruch auf einen Verwitwetenzuschlag von 20 Prozent zu ihrer Alters- oder Invalidenrente. Witwen- und Witwerrenten werden nur Personen gewährt, die verheiratet waren.&lt;/p&gt;&lt;p&gt;Eine Annahme der Initiative, das heisst die Abschaffung der Rentenplafonierung und die Aufhebung der Beitragsbefreiung für nichterwerbstätige Ehepartnerinnen und -partner, würde im Übrigen gemäss Projektion zu einer Erhöhung der jährlichen AHV-Ausgaben von rund 3,6 Milliarden Franken im Jahr 2030 und rund 4,1 Milliarden Franken im Jahr 2035 führen. Auf den Bund würden 2030 rund 770 Millionen Franken und 2035 rund 870 Millionen Franken entfallen (der Bundesanteil an der AHV-Finanzierung beläuft sich nach geltendem Recht auf 20,2 %). Die Initiative sieht keine Finanzierung zur Deckung dieser Mehrkosten vor und die AHV verfügt nicht über die finanziellen Mittel, um diese zu übernehmen. Um die durch die Initiative entstehenden Ausgaben zu decken, müssten je nach festzulegendem Finanzziel beispielsweise die Lohnbeiträge um 0,6 Prozentpunkte oder die Mehrwertsteuer um 0,8 Prozentpunkte angehoben werden. &lt;/p&gt;&lt;p&gt;Würde die Initiative angenommen, müsste die Gesamtbevölkerung die zusätzlichen Kosten tragen, auch Personen mit tiefem Einkommen, Alleinstehende, Verwitwete oder Geschiedene, deren Rente sich nicht verbessern würde, obwohl sie am stärksten von Armut bedroht sind. Eine weitere Mehrbelastung der AHV zusätzlich zu den Kosten für die 13. Altersrente und den Kosten, die aufgrund des demografischen Wandels anfallen werden, würde die finanziellen Herausforderungen der AHV noch verschärfen. Aus diesen Gründen empfiehlt der Bundesrat dem Parlament, die Initiative abzulehnen.&lt;/p&gt;</text>
+      <link id="286430">
+        <title>Forschungsbericht «Auswirkungen einer zivilstandsunabhängigen Altersvorsorge»</title>
+        <uri>https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/forschung/forschungspublikationen.exturl.html?lang=de&amp;lnr=04/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="286431">
+        <title>Artikel der sozialen Sicherheit CHSS: «AHV: Welche Folgen hätte die Abschaffung der zivilstandsabhängigen Regelungen?»</title>
+        <uri>https://sozialesicherheit.ch/de/ahv-welche-folgen-haette-die-abschaffung-der-zivilstandsabhaengigen-regelungen/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286427">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>1120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92196.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Sozialversicherungen&#13; Kommunikation&#13; Tel: +41 58 462 77 11 &#13; media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bundesrat lehnt Initiative zur Abschaffung der Rentenplafonierung für Ehepaare ab</title>
+      <lead>An seiner Sitzung vom 7. März 2025 hat der Bundesrat die Botschaft zur Volksinitiative «Ja zu fairen AHV-Renten auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!» verabschiedet. Die Initiative verlangt die Aufhebung der Rentenplafonierung für Ehepaare in der Alters- und Hinterlassenenversicherung sowie der Invalidenversicherung. Der Bundesrat empfiehlt dem Parlament, die Initiative ohne Gegenvorschlag abzulehnen. Eine weitere Mehrbelastung der AHV in Höhe von rund 3,6 Milliarden Franken gemäss Projektion, zusätzlich zu den Kosten für die 13. Altersrente und den Kosten, die aufgrund des demografischen Wandels anfallen werden, würde die finanzielle Lage der AHV verschlechtern. </lead>
+      <text link="no">&lt;p&gt;Die am 27. März 2024 von der Partei «Die Mitte» eingereichte Initiative «Ja zu fairen AHV-Renten» fordert die Aufhebung der Rentenplafonierung für Ehepaare in der AHV und der IV. Heute darf die Summe der Einzelrenten eines Ehepaares höchstens 150 Prozent der Maximalrente betragen, d. h. 3780 Franken für Personen, die immer in die AHV einbezahlt haben. Das betrifft rund 90 Prozent der Ehepaare, deren AHV- und IV-Renten allenfalls tiefer ausfallen als die kumulierten Renten unverheirateter Paare. Die Initiative verlangt ausserdem, dass der Bundesrat die Beitragsbefreiung für nichterwerbstätige Ehefrauen und Ehemänner aufhebt, wenn die gesetzlichen Durchführungsbestimmungen nicht drei Jahre nach einer Annahme der Initiative in Kraft treten. Derzeit müssen verheiratete Nichterwerbstätige keine Beiträge einzahlen, wenn die Ehepartnerin oder der Ehepartner mindestens den doppelten Mindestbeitrag entrichtet. Mit der Initiative würden die Renten von verheirateten Personen mit einem massgebenden durchschnittlichen Jahreseinkommen von über 90 720 Franken (Stand 2025) verbessert. Die Renten von Haushalten mit tiefem Einkommen sowie von unverheirateten, verwitweten oder geschiedenen Personen würden sich hingegen nicht ändern.&lt;/p&gt;&lt;h2&gt;Bundesrat empfiehlt Initiative zur Ablehnung&lt;/h2&gt;&lt;p&gt;Der Bundesrat lehnt die Initiative ab. Seiner Ansicht nach sind Eheleute in der AHV gut abgesichert, da ihnen verschiedene Massnahmen zugutekommen, die die Nachteile der Rentenplafonierung ausgleichen. Ehepaaren stehen gewisse AHV- und IV-Leistungen zu, auf die Konkubinatspaare keinen Anspruch haben. Die während der Ehejahre erzielten Einkommen werden bei einer Scheidung, im Todesfall, aber auch wenn beide rentenberechtigt sind, hälftig aufgeteilt. Witwen und Witwer haben Anspruch auf einen Verwitwetenzuschlag von 20 Prozent zu ihrer Alters- oder Invalidenrente. Witwen- und Witwerrenten werden nur Personen gewährt, die verheiratet waren.&lt;/p&gt;&lt;p&gt;Eine Annahme der Initiative, das heisst die Abschaffung der Rentenplafonierung und die Aufhebung der Beitragsbefreiung für nichterwerbstätige Ehepartnerinnen und -partner, würde im Übrigen gemäss Projektion zu einer Erhöhung der jährlichen AHV-Ausgaben von rund 3,6 Milliarden Franken im Jahr 2030 und rund 4,1 Milliarden Franken im Jahr 2035 führen. Auf den Bund würden 2030 rund 770 Millionen Franken und 2035 rund 870 Millionen Franken entfallen (der Bundesanteil an der AHV-Finanzierung beläuft sich nach geltendem Recht auf 20,2 %). Die Initiative sieht keine Finanzierung zur Deckung dieser Mehrkosten vor und die AHV verfügt nicht über die finanziellen Mittel, um diese zu übernehmen. Um die durch die Initiative entstehenden Ausgaben zu decken, müssten je nach festzulegendem Finanzziel beispielsweise die Lohnbeiträge um 0,6 Prozentpunkte oder die Mehrwertsteuer um 0,8 Prozentpunkte angehoben werden. &lt;/p&gt;&lt;p&gt;Würde die Initiative angenommen, müsste die Gesamtbevölkerung die zusätzlichen Kosten tragen, auch Personen mit tiefem Einkommen, Alleinstehende, Verwitwete oder Geschiedene, deren Rente sich nicht verbessern würde, obwohl sie am stärksten von Armut bedroht sind. Eine weitere Mehrbelastung der AHV zusätzlich zu den Kosten für die 13. Altersrente und den Kosten, die aufgrund des demografischen Wandels anfallen werden, würde die finanziellen Herausforderungen der AHV noch verschärfen. Aus diesen Gründen empfiehlt der Bundesrat dem Parlament, die Initiative abzulehnen.&lt;/p&gt;</text>
+      <link id="286430">
+        <title>Forschungsbericht «Auswirkungen einer zivilstandsunabhängigen Altersvorsorge»</title>
+        <uri>https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/forschung/forschungspublikationen.exturl.html?lang=de&amp;lnr=04/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="286431">
+        <title>Artikel der sozialen Sicherheit CHSS: «AHV: Welche Folgen hätte die Abschaffung der zivilstandsabhängigen Regelungen?»</title>
+        <uri>https://sozialesicherheit.ch/de/ahv-welche-folgen-haette-die-abschaffung-der-zivilstandsabhaengigen-regelungen/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286427">
+        <title>Botschaft</title>
+        <format>pdf</format>
+        <size-kb>1120</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92196.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Bundesamt für Sozialversicherungen&#13; Kommunikation&#13; Tel: +41 58 462 77 11 &#13; media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Le Conseil fédéral rejette l’initiative visant à supprimer le plafond des rentes AVS pour les couples mariés</title>
+      <lead>Lors de sa séance du 7 mars 2025, le Conseil fédéral a adopté le message concernant l’initiative populaire «Oui à des rentes AVS équitables pour les couples mariés – Pour enfin en finir avec la discrimination du mariage!». L’initiative demande de supprimer le plafonnement des rentes pour les couples mariés dans l’assurance-vieillesse et survivants et dans l’assurance-invalidité. Le Conseil fédéral recommande au Parlement de rejeter l’initiative sans lui opposer de contre-projet. Imposer à l’AVS une charge supplémentaire d’environ 3,6 milliards de francs en 2030 selon les projections en plus des coûts de la 13e rente et de l’évolution démographique aggraverait sa situation financière. </lead>
+      <text link="no">&lt;p&gt;Déposée le 27 mars 2024 par le parti Le Centre, l’initiative «Oui à des rentes AVS équitables» demande la suppression du plafond des rentes pour les couples mariés dans l'AVS et l'AI. Selon la réglementation actuelle, les rentes des assurés mariés sont plafonnées à 150% de la rente maximale correspondante, soit 3780 francs pour les personnes qui ont toujours cotisé à l’AVS. Cela concerne environ 90% des couples mariés. Par conséquent, leurs rentes AVS et AI peuvent être inférieures à celles cumulées des couples non mariés. L’initiative demande également que le Conseil fédéral révoque l’exemption de cotisation pour le conjoint non actif si les dispositions législatives d’exécution n’entrent pas en vigueur trois ans après son acceptation. Actuellement, les personnes mariées sans activité lucrative sont exemptées de cotisation lorsque leur conjoint paie au moins le double de la cotisation minimale. L’initiative permettrait d’améliorer les rentes des couples mariés dont le revenu annuel moyen déterminant AVS est supérieur à 90 720 francs (état: 2025). Par contre, les rentes des ménages à faible revenu et celles des personnes non mariées, veuves ou divorcées ne seraient pas améliorées.&lt;/p&gt;&lt;h2&gt;Le Conseil fédéral recommande de rejeter l’initiative&lt;/h2&gt;&lt;p&gt;Le Conseil fédéral rejette l’initiative, car il estime que les couples mariés bénéficient d’une bonne protection sociale dans l’AVS, avec diverses mesures favorables qui leur sont réservées et qui contrebalancent les désavantages liés au plafonnement de leur rente. Les couples mariés bénéficient ainsi de prestations de l’AVS et de l’AI auxquelles les concubins n’ont pas droit. Les revenus réalisés durant les années de mariage sont partagés à parts égales entre les conjoints en cas de divorce, de décès, mais aussi lorsque les deux conjoints ont droit à une rente. Les veufs et les veuves ont droit à un supplément de veuvage de 20% ajouté à leur rente de vieillesse ou d’invalidité et les rentes de veuves et de veufs ne sont accordées qu’à la condition d’avoir été marié.&lt;/p&gt;&lt;p&gt;L’acceptation de l’initiative, avec la suppression du plafonnement des rentes et la suppression de l’exemption de cotisation pour le conjoint sans activité lucrative, entraînerait par ailleurs une augmentation des dépenses annuelles de l’AVS d’environ 3,6 milliards de francs en 2030 et d’environ 4,1 milliards de francs en 2035 selon les projections. La Confédération devrait prendre en charge environ 770 millions de francs en 2030 et 870 millions de francs en 2035 (la part de la Confédération dans le financement de l'AVS s'élève selon le droit en vigueur à 20,2%). Or l’initiative ne prévoit aucun financement pour couvrir ces coûts supplémentaires et l’AVS ne dispose pas des ressources financières nécessaires pour les assumer. Pour faire face aux dépenses que l’initiative entraînerait et en fonction de l’objectif financier à définir, il faudrait par exemple relever les cotisations salariales de 0,6 point de pourcentage ou augmenter la TVA de 0,8 point de pourcentage.&lt;/p&gt;&lt;p&gt;En cas d’acceptation de cette initiative, l’ensemble de la population devrait supporter les coûts supplémentaires, y compris les bas revenus ou les personnes seules, veuves ou divorcées qui ne bénéficieraient en revanche d’aucune amélioration de leur rente, alors que ce sont elles qui sont le plus menacées par la pauvreté. Imposer à l’AVS une charge supplémentaire en plus de celles de la 13e rente et de l’évolution démographique aggraverait par ailleurs sa situation financière. Pour toutes ces raisons, le Conseil fédéral recommande au Parlement de rejeter cette initiative.&lt;/p&gt;</text>
+      <link id="286432">
+        <title>Rapport de recherche «Conséquences d’une prévoyance vieillesse indépendante de l’état civil»</title>
+        <uri>https://www.bsv.admin.ch/bsv/fr/home/publications-et-services/forschung/forschungspublikationen.exturl.html?lang=fr&amp;lnr=04/24#pubdb</uri>
+        <position>Context</position>
+      </link>
+      <link id="286433">
+        <title>Article de la revue Sécurité sociale CHSS : « AVS : Quelles seraient les conséquences de la suppression des règles basées sur l’état civil ? »</title>
+        <uri>https://sozialesicherheit.ch/fr/avs-quelles-seraient-les-consequences-de-la-suppression-des-regles-basees-sur-letat-civil/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286428">
+        <title>Message</title>
+        <format>pdf</format>
+        <size-kb>1273</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92188.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Office fédéral des assurances sociales&#13; Service Communication&#13; tél. +41 58 462 77 11&#13; media@bsv.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+      </topic>
+      <topic id="41">
+        <name lang="it">Opere sociali</name>
+        <name lang="rm">Soziales</name>
+        <name lang="de">Soziales</name>
+        <name lang="fr">Social</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="147" org-id="319">
+        <name lang="it">Rapporti di ricerca «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="rm">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="de">Forschungsberichte «Beiträge zur Sozialen Sicherheit»</name>
+        <name lang="fr">Rapports de recherche « Apects de la sécurité sociale »</name>
+      </offer>
+      <offer id="31" org-id="319">
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="rm">Sozialversicherung</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="fr">Assurances sociales</name>
+      </offer>
+      <offer id="32" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="rm">AHV</name>
+        <name lang="de">AHV</name>
+        <name lang="fr">AVS</name>
+      </offer>
+      <offer id="33" org-id="319">
+        <name lang="it">Prestazioni complementari</name>
+        <name lang="rm">Ergänzungsleistungen</name>
+        <name lang="de">Ergänzungsleistungen</name>
+        <name lang="fr">Prestations complémentaires</name>
+      </offer>
+      <offer id="37" org-id="319">
+        <name lang="it">Famiglie, generazioni e società</name>
+        <name lang="rm">Familie, Generationen und Gesellschaft</name>
+        <name lang="de">Familie, Generationen und Gesellschaft</name>
+        <name lang="fr">Familles, générations et societé</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

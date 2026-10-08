@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="105600" revoked="no">
+    <type>Memorandum</type>
+    <version>2</version>
+    <pubdate>2025-04-09</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+    </originator>
+    <originator id="811" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="rm">Bundesamt für Umwelt BAFU</name>
+      <name lang="de">Bundesamt für Umwelt BAFU</name>
+      <name lang="fr">Office fédéral de l'environnement OFEV</name>
+      <name lang="it">Ufficio federale dell'ambiente UFAM</name>
+      <www lang="rm">https://www.bafu.admin.ch</www>
+      <www lang="de">https://www.bafu.admin.ch</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
+      <www lang="it">https://www.bafu.admin.ch/it</www>
+      <email lang="rm">info@bafu.admin.ch</email>
+      <email lang="de">info@bafu.admin.ch</email>
+      <email lang="fr">info@bafu.admin.ch</email>
+      <email lang="it">info@bafu.admin.ch</email>
+    </originator>
+    <originator id="804" department-msg="no" lead="no" topnews="no">
+      <department-id>801</department-id>
+      <name lang="rm">Generalsekretariat UVEK</name>
+      <name lang="de">Generalsekretariat UVEK</name>
+      <name lang="fr">Secrétariat général DETEC</name>
+      <name lang="it">Segreteria generale DATEC</name>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="10" org-id="811">
+        <name lang="rm">Abfall</name>
+        <name lang="de">Abfall</name>
+        <name lang="fr">Dechets</name>
+        <name lang="it">Rifiuti</name>
+      </keyword>
+      <keyword id="230" org-id="811">
+        <name lang="rm">Chemikalien</name>
+        <name lang="de">Chemikalien</name>
+        <name lang="fr">Produits chimiques</name>
+        <name lang="it">Prodotti chimici</name>
+      </keyword>
+      <keyword id="210" org-id="804">
+        <name lang="rm">Bundesrat</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+      </keyword>
+      <keyword id="560" org-id="804">
+        <name lang="rm">Internationales</name>
+        <name lang="rm">Internationales</name>
+        <name lang="de">Internationales</name>
+        <name lang="de">Internationales</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="it">Affari Internazionali</name>
+        <name lang="it">Affari Internazionali</name>
+      </keyword>
+      <keyword id="173" org-id="811">
+        <name lang="rm">Bundesamt für Umwelt: Startseite</name>
+        <name lang="de">Bundesamt für Umwelt: Startseite</name>
+        <name lang="fr">Office fédéral de l'environnement: page d'accueil</name>
+        <name lang="it">Ufficio federale dell'ambiente: pagina iniziale</name>
+      </keyword>
+      <keyword id="1600" org-id="804">
+        <name lang="rm">Umweltpolitik</name>
+        <name lang="de">Umweltpolitik</name>
+        <name lang="fr">Umweltpolitik</name>
+        <name lang="it">Umweltpolitik</name>
+      </keyword>
+    </keywords>
+    <department id="1070">
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <name lang="it">Il Consiglio federale</name>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+      <email lang="it">info@bk.admin.ch</email>
+    </department>
+    <department id="801">
+      <name lang="rm">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <www lang="rm">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="de">https://www.uvek.admin.ch/uvek/de/home.html</www>
+      <www lang="fr">https://www.uvek.admin.ch/uvek/fr/home.html</www>
+      <www lang="it">https://www.uvek.admin.ch/uvek/it/home.html</www>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+    </department>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Übereinkommen über Chemikalien und Abfall: Schweiz unterstützt Weiterentwicklung</title>
+      <lead>Der Bundesrat hat am 9. April 2025 der Schweizer Delegation das Mandat für die gemeinsame Vertragsparteienkonferenz der Basler, Rotterdamer und Stockholmer Übereinkommen (BRS COP) erteilt. Diese Übereinkommen regeln den umwelt- und gesundheitsverträglichen Umgang mit Chemikalien und Abfällen. Die Vertragsstaaten treffen sich vom 28. April bis 9. Mai 2025 in Genf. Im Zentrum der Verhandlungen steht die Informationspflicht bei der Ausfuhr von gefährlichen Chemikalien und Abfällen. </lead>
+      <text link="no"> &lt;p&gt;Drei internationale Übereinkommen regeln weltweit den Umgang mit Chemikalien und gefährlichen Abfällen: das Basler Übereinkommen über den Export gefährlicher Abfälle, das Rotterdamer Übereinkommen über die Informationspflichten für den grenzüberschreitenden Handel mit gefährlichen Chemikalien und das Stockholmer Übereinkommen über persistente organische Schadstoffe. Die Mitglieder der drei Konventionen treffen sich vom 28. April bis am 9. Mai 2025 in Genf zur gemeinsamen Vertragsparteienkonferenz (BRS COP). Der Bundesrat hat am 9. April 2025 das Verhandlungsmandat der Schweizer Delegation verabschiedet. Die Direktorin des Bundesamts für Umwelt, Katrin Schneeberger, wird die Schweiz an der Konferenz vertreten. Der Bundesrat hat ihr dafür den Titel der Staatssekretärin verliehen.&lt;/p&gt; &lt;p&gt;Die Schweiz setzt sich am Treffen für eine Stärkung des PIC-Verfahrens (Prior Informed Consent) unter dem Basler Übereinkommen ein. Dieses regelt die Zustimmung und Vorabinformation der Staaten beim grenzüberschreitenden Transport von gefährlichen Abfällen. In den letzten Jahren wurden neue Abfalltypen, zum Beispiel Elektronik- oder Kunststoffabfall, dem PIC-Verfahren unterstellt. Damit wird die Durchsetzung des Verfahrens komplexer. Die Schweiz setzt sich für verschiedene Massnahmen ein, um die Anwendung des PIC-Verfahrens zu stärken. Dazu gehört zum Beispiel die Digitalisierung der Kommunikation zwischen Export-, Import- und Transitländern oder die Sensibilisierung der Transportunternehmen, insbesondere der Reedereien, für die Anwendung des PIC-Verfahrens.&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Weitere Stoffe werden den Übereinkommen unterstellt&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Verschiedene Stoffe sollen neu in das Rotterdamer respektive das Stockholmer Übereinkommen aufgenommen werden. &lt;/p&gt; &lt;p&gt;Die Schweiz unterstützt die Aufnahme von drei Stoffen in Anhang A des Stockholmer Übereinkommens. Damit wird die Herstellung und Verwendung dieser Stoffe beschränkt. Neu aufgenommen werden soll das Pflanzenschutzmittel Chlorpyrifos. Hinzu kommen mittelkettige Chlorparaffine (sog. MCCP), die unter anderem als Weichmacher oder Flammschutzmittel eingesetzt werden, sowie langkettige Perfluorcarbonsäuren (LC-PFCA), ihre Salze und verwandte Verbindungen, die in der Halbleiterherstellung verwendet werden. In der Schweiz sind die Herstellung und Verwendung dieser Stoffe entweder bereits verboten oder die Schweizer Industrie ist daran, auf Alternativen umzustellen. &lt;/p&gt; &lt;p&gt;In das Rotterdamer Übereinkommen sollen drei Stoffe aufgenommen werden, die in Pflanzenschutzmitteln verwendet werden. Die Wirkstoffe Methylbromid, Paraquat und Chlorpyrifos sind in der Schweiz weder für die Verwendung in Pflanzenschutzmitteln noch zur Schädlingsbekämpfung zugelassen. Weiter aufgenommen werden soll Quecksilber. Dieses ist in der Schweiz bereits streng reguliert. Die Ausfuhr dieser Chemikalien wäre damit künftig nur erlaubt, wenn das Empfängerland zuvor seine Zustimmung gegeben hat.&lt;/p&gt; </text>
+      <link id="288000">
+        <title>Webseite zu den Basler, Rotterdamer und Stockholmer Konventionen (nur auf Englisch verfügbar)</title>
+        <uri>https://www.brsmeas.org/2025COPs/Overview/tabid/9742/language/en-US/Default.aspx</uri>
+        <position>Context</position>
+      </link>
+      <link id="288001">
+        <title>BAFU: Rotterdamer PIC-Übereinkommen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/chemikalien/internationales--chemikalien/rotterdamer-pic-uebereinkommen.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288002">
+        <title>BAFU: Stockholmer POP-Übereinkommen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/chemikalien/internationales--chemikalien/stockholmer-pop-uebereinkommen-ueber-persistente-organische-scha.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288003">
+        <title>BAFU: Grenzüberschreitender Verkehr mit Abfällen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/abfall/verkehr-mit-abfaellen/grenzueberschreitender-verkehr-mit-abfaellen--gilt-fuer-das-fuer.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Mediendienst, Bundesamt für Umwelt BAFU, Tel. +41 58 462 90 00, E-Mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Übereinkommen über Chemikalien und Abfall: Schweiz unterstützt Weiterentwicklung</title>
+      <lead>Der Bundesrat hat am 9. April 2025 der Schweizer Delegation das Mandat für die gemeinsame Vertragsparteienkonferenz der Basler, Rotterdamer und Stockholmer Übereinkommen (BRS COP) erteilt. Diese Übereinkommen regeln den umwelt- und gesundheitsverträglichen Umgang mit Chemikalien und Abfällen. Die Vertragsstaaten treffen sich vom 28. April bis 9. Mai 2025 in Genf. Im Zentrum der Verhandlungen steht die Informationspflicht bei der Ausfuhr von gefährlichen Chemikalien und Abfällen. </lead>
+      <text link="no"> &lt;p&gt;Drei internationale Übereinkommen regeln weltweit den Umgang mit Chemikalien und gefährlichen Abfällen: das Basler Übereinkommen über den Export gefährlicher Abfälle, das Rotterdamer Übereinkommen über die Informationspflichten für den grenzüberschreitenden Handel mit gefährlichen Chemikalien und das Stockholmer Übereinkommen über persistente organische Schadstoffe. Die Mitglieder der drei Konventionen treffen sich vom 28. April bis am 9. Mai 2025 in Genf zur gemeinsamen Vertragsparteienkonferenz (BRS COP). Der Bundesrat hat am 9. April 2025 das Verhandlungsmandat der Schweizer Delegation verabschiedet. Die Direktorin des Bundesamts für Umwelt, Katrin Schneeberger, wird die Schweiz an der Konferenz vertreten. Der Bundesrat hat ihr dafür den Titel der Staatssekretärin verliehen.&lt;/p&gt; &lt;p&gt;Die Schweiz setzt sich am Treffen für eine Stärkung des PIC-Verfahrens (Prior Informed Consent) unter dem Basler Übereinkommen ein. Dieses regelt die Zustimmung und Vorabinformation der Staaten beim grenzüberschreitenden Transport von gefährlichen Abfällen. In den letzten Jahren wurden neue Abfalltypen, zum Beispiel Elektronik- oder Kunststoffabfall, dem PIC-Verfahren unterstellt. Damit wird die Durchsetzung des Verfahrens komplexer. Die Schweiz setzt sich für verschiedene Massnahmen ein, um die Anwendung des PIC-Verfahrens zu stärken. Dazu gehört zum Beispiel die Digitalisierung der Kommunikation zwischen Export-, Import- und Transitländern oder die Sensibilisierung der Transportunternehmen, insbesondere der Reedereien, für die Anwendung des PIC-Verfahrens.&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Weitere Stoffe werden den Übereinkommen unterstellt&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Verschiedene Stoffe sollen neu in das Rotterdamer respektive das Stockholmer Übereinkommen aufgenommen werden. &lt;/p&gt; &lt;p&gt;Die Schweiz unterstützt die Aufnahme von drei Stoffen in Anhang A des Stockholmer Übereinkommens. Damit wird die Herstellung und Verwendung dieser Stoffe beschränkt. Neu aufgenommen werden soll das Pflanzenschutzmittel Chlorpyrifos. Hinzu kommen mittelkettige Chlorparaffine (sog. MCCP), die unter anderem als Weichmacher oder Flammschutzmittel eingesetzt werden, sowie langkettige Perfluorcarbonsäuren (LC-PFCA), ihre Salze und verwandte Verbindungen, die in der Halbleiterherstellung verwendet werden. In der Schweiz sind die Herstellung und Verwendung dieser Stoffe entweder bereits verboten oder die Schweizer Industrie ist daran, auf Alternativen umzustellen. &lt;/p&gt; &lt;p&gt;In das Rotterdamer Übereinkommen sollen drei Stoffe aufgenommen werden, die in Pflanzenschutzmitteln verwendet werden. Die Wirkstoffe Methylbromid, Paraquat und Chlorpyrifos sind in der Schweiz weder für die Verwendung in Pflanzenschutzmitteln noch zur Schädlingsbekämpfung zugelassen. Weiter aufgenommen werden soll Quecksilber. Dieses ist in der Schweiz bereits streng reguliert. Die Ausfuhr dieser Chemikalien wäre damit künftig nur erlaubt, wenn das Empfängerland zuvor seine Zustimmung gegeben hat.&lt;/p&gt; </text>
+      <link id="288000">
+        <title>Webseite zu den Basler, Rotterdamer und Stockholmer Konventionen (nur auf Englisch verfügbar)</title>
+        <uri>https://www.brsmeas.org/2025COPs/Overview/tabid/9742/language/en-US/Default.aspx</uri>
+        <position>Context</position>
+      </link>
+      <link id="288001">
+        <title>BAFU: Rotterdamer PIC-Übereinkommen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/chemikalien/internationales--chemikalien/rotterdamer-pic-uebereinkommen.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288002">
+        <title>BAFU: Stockholmer POP-Übereinkommen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/chemikalien/internationales--chemikalien/stockholmer-pop-uebereinkommen-ueber-persistente-organische-scha.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288003">
+        <title>BAFU: Grenzüberschreitender Verkehr mit Abfällen</title>
+        <uri>https://www.bafu.admin.ch/bafu/de/home/themen/abfall/verkehr-mit-abfaellen/grenzueberschreitender-verkehr-mit-abfaellen--gilt-fuer-das-fuer.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Mediendienst, Bundesamt für Umwelt BAFU, Tel. +41 58 462 90 00, E-Mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>La Suisse soutient le développement des conventions sur les produits chimiques et les déchets</title>
+      <lead>Le 9 avril 2025, le Conseil fédéral a donné à la délégation suisse le mandat de négociation pour la réunion conjointe des Conférences des Parties aux conventions de Bâle, de Rotterdam et de Stockholm (BRS COP). Ces conventions édictent des règles visant une gestion des produits chimiques et des déchets respectueuse de l’environnement et de la santé. Les États parties se réuniront du 28 avril au 9 mai 2025 à Genève et se pencheront en particulier sur l’obligation d’informer lors de l’exportation de produits chimiques et de déchets dangereux. </lead>
+      <text link="no"> &lt;p&gt;Trois conventions internationales régissent la gestion des produits chimiques et des déchets dangereux dans le monde entier : la convention de Bâle sur l’exportation de déchets dangereux, la convention de Rotterdam sur les obligations d’informer applicable au commerce transfrontalier de produits chimiques dangereux et la Convention de Stockholm sur les polluants organiques persistants. Les États membres de ces trois conventions se réuniront du 28 avril au 9 mai 2025 à Genève. Le Conseil fédéral a adopté le 9 avril 2025 le mandat de la délégation suisse. La directrice de l’Office fédéral de l’environnement, Katrin Schneeberger, représentera le pays à la réunion. Le Conseil fédéral lui a octroyé le titre de secrétaire d’État pour cette occasion.&lt;/p&gt; &lt;p&gt;Lors de cette rencontre, la Suisse s’engagera pour un renforcement de la procédure de consentement préalable en connaissance de cause (procédure PIC) dans le cadre de la convention de Bâle, qui règle le consentement et l’information préalable des États en cas de transport transfrontalier de déchets dangereux. Ces dernières années, de nouveaux types de déchets, par exemple les déchets électroniques ou plastiques, ont été soumis à la procédure PIC, complexifiant l’application de celle-ci. La Suisse plaide en faveur de différentes mesures visant à renforcer l’application de la procédure PIC, par exemple la numérisation de la communication entre les pays d’exportation, d’importation et de transit ou la sensibilisation des entreprises de transport, notamment des compagnies maritimes, à l’importance d’appliquer cette procédure.&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Nouvelles substances soumises aux conventions&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Plusieurs substances doivent être inscrites dans la convention de Rotterdam et dans la convention de Stockholm. &lt;/p&gt; &lt;p&gt;La Suisse soutient l’ajout de trois substances à l’annexe A de la convention de Stockholm ; cet ajout vise à limiter la production et l’utilisation de ces substances. Il s’agit notamment du produit phytosanitaire chlorpyrifos, ainsi que des paraffines chlorées à chaîne moyenne (dites MCCP), utilisées entre autres comme plastifiants ou retardateurs de flamme, et des acides perfluorocarboxyliques à longue chaîne (APFC-LC), de leurs sels et des substances apparentées, employés dans la fabrication des semi-conducteurs. En Suisse, la production et l’utilisation de ces substances sont déjà interdites dans de nombreux cas. Pour les cas où elles sont encore admises, l’industrie suisse est en train de rechercher des solutions de remplacement. &lt;/p&gt; &lt;p&gt;Trois substances employées dans des produits phytosanitaires doivent être intégrées dans la convention de Rotterdam. Il s’agit du bromure de méthyle, du paraquat et du chlorpyrifos, dont l’utilisation est déjà proscrite en Suisse aussi bien dans des produits phytosanitaires que dans des produits de lutte contre les ravageurs. Le mercure doit également être inscrit dans la convention de Rotterdam. Il est déjà soumis à une réglementation stricte en Suisse. Si ces substances sont ajoutées à la convention, leur exportation ne sera admise qu’avec le consentement préalable du pays d’importation.&lt;/p&gt; </text>
+      <link id="288004">
+        <title>Site web sur les conventions de Bâle, de Rotterdam et de Stockholm (disponible uniquement en anglais)</title>
+        <uri>https://www.brsmeas.org/2025COPs/Overview/tabid/9742/language/en-US/Default.aspx</uri>
+        <position>Context</position>
+      </link>
+      <link id="288005">
+        <title>OFEV: Convention PIC de Rotterdam</title>
+        <uri>https://www.bafu.admin.ch/bafu/fr/home/themes/produits-chimiques/affaires-internationales--produits-chimiques/convention-de-rotterdam-pic.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288006">
+        <title>OFEV: Convention de Stockholm (Convention POP)</title>
+        <uri>https://www.bafu.admin.ch/bafu/fr/home/themes/produits-chimiques/affaires-internationales--produits-chimiques/convention-de-stockholm-pop-sur-les-polluants-organiques-persist.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288007">
+        <title>OFEV: Mouvements transfrontières de déchets</title>
+        <uri>https://www.bafu.admin.ch/bafu/fr/home/themes/dechets/mouvements-de-dechets/mouvements-transfrontieres-de-dechets--valable-pour-la-principau.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Service médias, Office fédéral de l’environnement (OFEV), tél. +41 58 462 90 00, e-mail : medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>La Svizzera sostiene l’ulteriore sviluppo delle convenzioni sui prodotti chimici e sui rifiuti</title>
+      <lead>Il 9 aprile 2025 il Consiglio federale ha conferito alla delegazione svizzera il mandato per la conferenza congiunta delle parti delle Convenzioni di Basilea, Rotterdam e Stoccolma. Tali convenzioni disciplinano la gestione dei prodotti chimici e dei rifiuti rispettosa dell’ambiente e della salute. Gli Stati membri si riuniranno dal 28 aprile al 9 maggio 2025 a Ginevra. Le negoziazioni saranno incentrate sull’obbligo di informazione in caso di esportazione di prodotti chimici e di rifiuti pericolosi. </lead>
+      <text link="no"> &lt;p&gt;La gestione dei prodotti chimici e dei rifiuti pericolosi è disciplinata a livello mondiale da tre convenzioni internazionali: la Convenzione di Basilea regola l’esportazione di rifiuti pericolosi, la Convenzione di Rotterdam gli obblighi di informazione per il commercio transfrontaliero di prodotti chimici pericolosi e la Convenzione di Stoccolma gli inquinanti organici persistenti. I membri delle tre convenzioni si riuniranno a Ginevra dal 28 aprile al 9 maggio 2025 in occasione della conferenza congiunta delle parti. Il 9 aprile 2025 il Consiglio federale ha approvato il mandato negoziale della delegazione svizzera. La direttrice dell’Ufficio federale dell’ambiente, Katrin Schneeberger, rappresenterà la Svizzera alla conferenza. Per l’occasione, il Consiglio federale le ha conferito il titolo di Segretaria di Stato.&lt;/p&gt; &lt;p&gt;Nel corso della conferenza, la Svizzera si impegnerà a favore di un maggior impiego della procedura di assenso preliminare in conoscenza di causa (prior informed consent, PIC) nel quadro della Convenzione di Basilea, la quale disciplina il consenso e l’informazione preliminare degli Stati nel trasporto transfrontaliero di rifiuti pericolosi. Negli ultimi anni, nuovi tipi di rifiuti, come quelli elettronici o di plastica, sono stati sottoposti alla procedura PIC, il che rende l’applicazione più complessa. La Svizzera si impegna a favore dell’adozione di varie misure per potenziare l’impiego di tale procedura, per esempio digitalizzando le comunicazioni tra i Paesi di esportazione, di importazione e di transito oppure sensibilizzando in tal senso le imprese di trasporto, in particolar modo le compagnie di navigazione.&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Nuove sostanze soggette alle convenzioni&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Diverse sostanze devono essere iscritte nella Convenzione di Rotterdam e nella Convenzione di Stoccolma. &lt;/p&gt; &lt;p&gt;La Svizzera è a favore dell’inserimento di tre sostanze nell’allegato A della Convenzione di Stoccolma, in modo da limitarne la fabbricazione e l’impiego. La modifica di tale Convenzione include il Clorpirifos, un prodotto fitosanitario. A questo si aggiungono anche le paraffine clorurate a catena media (MCCP), utilizzate anche come plastificanti o ritardanti di fiamma, e gli acidi perfluorocarbossilici a catena lunga (LC-PFCA), compresi i loro sali e i composti a essi correlati, che vengono impiegati nella fabbricazione di semiconduttori. Nell’ambito dell’industria svizzera, la fabbricazione e l’impiego di queste sostanze è già vietato o si sta attualmente passando a soluzioni alternative. &lt;/p&gt; &lt;p&gt;Nella Convenzione di Rotterdam verranno invece incluse tre sostanze presenti in prodotti fitosanitari. In Svizzera è vietato l’utilizzo dei principi attivi bromuro di metile, Paraquat e Clorpirifos, sia come prodotti fitosanitari sia nella lotta antiparassitaria. Nella Convenzione verrà incluso anche il mercurio, che in Svizzera è già soggetto a norme severe. In questo modo, in futuro, sarà pertanto possibile esportare i prodotti chimici succitati soltanto previo assenso del Paese destinatario.&lt;/p&gt; </text>
+      <link id="288008">
+        <title>Sito web sulle Convenzioni di Basilea, Rotterdam e Stoccolma (disponibile in inglese)</title>
+        <uri>https://www.brsmeas.org/2025COPs/Overview/tabid/9742/language/en-US/Default.aspx</uri>
+        <position>Context</position>
+      </link>
+      <link id="288009">
+        <title>UFAM: Convenzione di Rotterdam PIC</title>
+        <uri>https://www.bafu.admin.ch/bafu/it/home/temi/prodotti-chimici/affari-internazionali--prodotti-chimici/convenzione-di-rotterdam-pic.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288010">
+        <title>UFAM: Convenzione di Stoccolma sugli inquinanti organici persistenti</title>
+        <uri>https://www.bafu.admin.ch/bafu/it/home/temi/prodotti-chimici/affari-internazionali--prodotti-chimici/convenzione-di-stoccolma-pop-sugli-inquinanti-organici-persisten.html</uri>
+        <position>Context</position>
+      </link>
+      <link id="288011">
+        <title>UFAM: Traffico transfrontaliero di rifiuti</title>
+        <uri>https://www.bafu.admin.ch/bafu/it/home/temi/rifiuti/traffico-di-rifiuti/traffico-transfrontaliero-di-rifiuti--valido-per-il-principato-d.html</uri>
+        <position>Context</position>
+      </link>
+      <contact>Servizio media, Ufficio federale dell’ambiente (UFAM), tel. +41 58 462 90 00, e-mail: medien@bafu.admin.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="rm">Bundesrat</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+      </topic>
+      <topic id="29">
+        <name lang="rm">Umwelt und Natur</name>
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+      </topic>
+    </topics>
+    <offers>
+      <offer id="143" org-id="811">
+        <name lang="rm">Medienmitteilungen des BAFU</name>
+        <name lang="de">Medienmitteilungen des BAFU</name>
+        <name lang="fr">Communiqués de l'OFEV</name>
+        <name lang="it">Comunicati dell'UFAM</name>
+      </offer>
+    </offers>
+  </message>
+</messages>

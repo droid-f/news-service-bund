@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104528" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-03-17</pubdate>
+    <originator id="323" department-msg="no" lead="yes" topnews="no">
+      <department-id>701</department-id>
+      <name lang="en">Federal Laboratory for Materials Testing and Research</name>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="rm">Eidg. Materialprüfungs- und Forschungsanstalt</name>
+      <www lang="en">http://www.empa.ch</www>
+      <www lang="de">http://www.empa.ch</www>
+      <www lang="fr">http://www.empa.ch</www>
+      <www lang="rm">http://www.empa.ch</www>
+      <email lang="en">contact@empa.ch</email>
+      <email lang="de">contact@empa.ch</email>
+      <email lang="fr">contact@empa.ch</email>
+      <email lang="rm">contact@empa.ch</email>
+    </originator>
+    <keywords/>
+    <department id="701">
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="rm">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="en">http://www.wbf.admin.ch</www>
+      <www lang="de">http://www.wbf.admin.ch</www>
+      <www lang="fr">http://www.wbf.admin.ch</www>
+      <www lang="rm">http://www.wbf.admin.ch</www>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+    </department>
+    <content lang="en">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Making power grids more flexible and stable: When buildings plan around their energy demands</title>
+      <lead>In order to guarantee the security of supply of our future energy system, we need not only an expansion of renewable energies, but also sophisticated control mechanisms that efficiently manage production, distribution and consumption. Empa researchers have therefore developed a predictive control algorithm that optimizes energy management at building level - without compromising user comfort.</lead>
+      <text link="no"> &lt;p&gt;As the global transition to renewable energy accelerates, the role of buildings in shaping sustainable energy systems has become increasingly significant. While photovoltaic systems have long since proven their potential on a small scale - for a single-family home, for example - certain questions still arise when it comes to the security of supply of our overall energy system. Is the potential of renewable energies really sufficient to ensure we have enough energy throughout the year? Or are we suddenly facing another energy shortage like in the winter of 2023? However, the primary problem here is not the production of renewable energy, but the logistics associated with our distribution system. Up until now, this has been geared towards power plants that permanently feed a certain amount of energy into the electricity grid. In order to cover our energy demand through renewable sources in the future, two factors have to be addressed: first, we need to further expand our production facilities and second, we need to make use of smart technologies that ensure grid stability at all times. This is because, unlike traditional energy sources such as coal or uranium, a solar plant does not produce the same amount of electricity at all times: it is subject to weather conditions and, above all, the day-night rhythm. Thus, energy demand must be minimized when production is low - at night, for example - while so-called production peaks must be distributed evenly in order to avoid overloading the power grid.&lt;/p&gt; &lt;p&gt;Automated systems seem to be ideal for managing these complex logistics. Based on local production, existing storage and availability in the grid, these systems can optimize electricity consumption in such a way that both grid stability and consumer flexibility are guaranteed at all times. In practical terms, this means that thanks to predictive energy planning, the building system ensures that I can take a hot shower or cook even when too little electricity is being produced to cover actual demand at any given time. Simultaneously, overproduced energy is not necessarily stored locally, but fed into the power grid whenever possible so that demand can be met at all times.&lt;/p&gt; &lt;p&gt;&lt;b&gt;From theory to practice: the test at NEST&lt;/b&gt;&lt;/p&gt; &lt;p&gt;To demonstrate the viability of such automated systems, researchers from Empa's Urban Energy Systems Lab have investigated in a field experiment at NEST the extent to which an inhabited building can combine various flexible demand criteria under one roof. They were focusing on the reduction of carbon emissions, the flexibility of energy demand and the comfort of residents. Using a predictive control algorithm, the team succeeded in optimizing the energy management within the building with the following setup: a photovoltaic system for electricity production, a battery storage system, a heat pump and a bidirectional charging station for e-vehicles. The primary goal was to minimize carbon emissions during operation by preferentially drawing electricity from the grid when it was available from renewable sources. In addition, minimum temperatures were specified for the interior rooms and the hot water tank, and the algorithm prepared consumer flexibility for better grid operation.&lt;/p&gt;&lt;p&gt;&lt;b&gt;The building as an actor in the energy system&lt;/b&gt;&lt;/p&gt; &lt;p&gt;First of all, the researchers were able to show that their system was able to reduce the building's carbon emissions by more than 10 percent. At least as important was the realization that the building was able to communicate in advance when and how much electricity it could draw from or feed into the grid. This is particularly relevant when too much electricity is produced or demanded at peak times. The experiment has therefore shown that the flexible availability of renewable energies is not a problem a priori. However, reliable information on demand and predictive planning are essential in these circumstances - two tasks that a self-learning algorithm can handle better and more consistently than a human ever could.&lt;/p&gt; &lt;p&gt;In order to make the results scalable in corresponding applications, buildings must therefore be consistently digitized in the future. To ensure that the IT infrastructure required for this does not itself generate large amounts of carbon emissions, Empa researcher Hanmin Cai has already looked into salvaging reused hardware, namely old smartphones, for building automation in another study.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Through a start-up into the market: technology transfer "made by Empa"&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Cai and his colleague, Federica Bellizio, are working on bringing their technology to the market as part of their start-up “Kuafu”. Bellizio was recently awarded the “Empa Entrepreneur Fellowship”, a scholarship for researchers who want to set up their own company. With their data-driven system, they want to act as a bridge between grid operators and energy providers and thus make a solid contribution to energy optimization and decarbonization in the building and electric mobility sector.&lt;/p&gt; </text>
+      <link id="286804">
+        <title>Making power grids more flexible and stable: When buildings plan around their energy demands</title>
+        <uri>https://www.empa.ch/web/s604/building-automation</uri>
+        <position>Context</position>
+      </link>
+      <link id="286807">
+        <title>Kuafu - Intelligent energy management platform</title>
+        <uri>https://kuafu.ch/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286803">
+        <title>The UMAR unit at NEST served as testbed for the experimental study. Image: Zooey Braun</title>
+        <format>jpg</format>
+        <size-kb>1752</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92427.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Dr. Hanmin Cai&#13; Empa, Urban Energy Systems&#13; Phone +41 58 765 40 77&#13; hanmin.cai@empa.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>So werden Stromnetze flexibler und stabiler: Wenn das Gebäude den Energiehaushalt plant</title>
+      <lead>Um die Versorgungssicherheit unseres künftigen Energiesystems zu gewährleisten, braucht es nicht nur einen Ausbau erneuerbarer Energien, sondern auch ausgeklügelte Kontrollmechanismen, die Produktion, Einspeisung und Verbrauch effizient steuern. Empa-Forschende haben deshalb einen vorausschauenden Kontrollalgorithmus entwickelt, der das Energiemanagement auf Ebene des Gebäudes optimiert – ohne dabei den Komfort der Nutzer einzuschränken.</lead>
+      <text link="no"> &lt;p&gt;Mit zunehmender Nachfrage nach erneuerbarer Energien steigt auch die Bedeutung von Gebäuden, wenn es darum geht, ein nachhaltiges Energiesystem zu entwerfen. Wo Photovoltaik-Anlagen ihr Potenzial im kleinen Rahmen – für ein Einfamilienhaus etwa – längst bewiesen haben, stellen sich immer noch gewisse Fragen, wenn es um die Versorgungssicherheit unseres Gesamtenergiesystems geht. Reichen die Potenziale erneuerbarer Energien wirklich aus, um über das ganze Jahr hinweg genügend Energie zu haben? Oder droht uns plötzlich wieder eine Energiemangellage wie im Winter 2023? Das primäre Problem ist dabei jedoch nicht die Produktion erneuerbarer Energie, sondern die Logistik in Zusammenhang mit unserem Verteilsystem. Dieses war bislang auf Produktionsanlagen ausgerichtet, die permanent eine gewisse Menge Energie ins Stromnetz einspeisen.&lt;b&gt; &lt;/b&gt;Damit wir unseren Energiebedarf künftig durch erneuerbare Quellen decken können, braucht es also sowohl einen Ausbau der Produktionsanlagen als auch smarte Technologien, die fortwährend die Netzstabilität gewährleisten. Denn im Gegensatz zu traditionellen Energieträgern wie Kohle oder Uran, produziert eine Solaranlage eben nicht durchgehend die gleiche Menge Strom: Sie unterliegt den Wetterbedingungen und vor allem dem Tag-Nacht-Rhythmus. Einerseits muss also der Energiebedarf dann minimiert werden, wenn die Produktion gering ist – etwa nachts – andererseits müssen sogenannte Produktionsspitzen lokal verbraucht werden, um das Stromnetz nicht zu überladen.&lt;/p&gt; &lt;p&gt;Um diese komplexe Logistik bewältigen zu können, bieten sich automatisierte Systeme an. Diese können auf der Basis von lokaler Produktion, den vorhandenen Speichermedien und der Verfügbarkeit im Netz den Stromverbrauch dahingehend optimieren, dass sowohl Netzstabilität als auch Flexibilität der Verbraucher stets gewährleistet sind. Heisst konkret: Durch die vorausschauende Energieplanung stellt das Gebäudesystem sicher, dass ich auch dann heiss duschen oder kochen kann, wenn gerade zu wenig Strom produziert wird, um den tatsächlichen Bedarf zu decken. Gleichzeitig wird überproduzierte Energie nicht zwangsläufig lokal gespeichert, sondern nach Möglichkeit ins Stromnetz eingespeist, so dass die Nachfrage jederzeit gedeckt werden kann.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Von der Theorie in die Praxis: der Test im NEST&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Um zu demonstrieren, dass solch automatisierten Systeme praxistauglich sind, haben Forschende der Abteilung «Urban Energy Systems» der Empa im NEST untersucht, inwiefern ein bewohntes Gebäude verschiedene flexible Nachfragekriterien unter einem Dach vereinen kann. Im Fokus standen dabei die Reduktion der CO2-Emissionen, die Flexibilität der Energienachfrage sowie der Komfort der Bewohner. Mittels eines prädiktiven Kontrollalgorithmus gelang es dem Team, das Energiemanagement innerhalb des Gebäudes mit folgendem Setup zu optimieren: einer Photovoltaik-Anlage zur Stromproduktion, einem Batteriespeicher, einer Wärmepumpe sowie einer bidirektionalen Ladestation für e-Fahrzeuge. Oberstes Ziel war es, die CO2-Emissionen während des Betriebs zu minimieren – und zwar indem Strom vom Netz bevorzugt dann bezogen wurde, wenn er aus erneuerbaren Quellen verfügbar war. Zudem waren Mindesttemperaturen für die Innenräume und den Warmwasserspeicher vorgegeben. Über das Verhalten der Bewohner lernte der Algorithmus in kurzer Zeit, Nutzerflexibilität und Energieaustausch mit dem Stromnetz zu optimieren.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Das Gebäude als Akteur im Energiesystem&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Zunächst konnten die Forschenden zeigen, dass ihr System den CO2-Ausstoss des Gebäudes um mehr als 10 Prozent senken konnte. Mindestens genauso wichtig war die Erkenntnis, dass das Gebäude in der Lage war, vorausschauend zu kommunizieren, wann es wieviel Strom vom Netz beziehen bzw. in dieses einspeisen kann. Dies ist vor allem dann relevant, wenn zu Spitzenzeiten (zu) viel Strom produziert oder nachgefragt wird. Das Experiment hat also gezeigt, dass die flexible Verfügbarkeit erneuerbarer Energien nicht a priori ein Problem darstellt. Allerdings sind unter diesen Umständen verlässliche Angaben zur Nachfrage und eine vorausschauende Planung essenziell – zwei Aufgaben, die ein selbstlernender Algorithmus besser und konsistenter bewältigen kann, als es ein Mensch je könnte.&lt;/p&gt; &lt;p&gt;Um die Ergebnisse in entsprechenden Anwendungen skalierbar zu machen, müssen Gebäude daher künftig konsequent digitalisiert werden. Damit die dafür notwendige IT-Infrastruktur aber nicht selbst wieder grosse Mengen an CO2 verursacht, hat sich Empa-Forscher Hanmin Cai bereits in einer anderen Studie mit dem Einsatz wiederverwendeter Hardware, namentlich alter Smartphones, für die Gebäudeautomation auseinandergesetzt.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Via Start-up in den Markt: Technologietransfer «made by Empa»&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Bereits heute arbeiten Cai und seine Kollegin, Federica Bellizio, daran, ihre Technologie im Rahmen des Start-ups «Kuafu» auf den Markt zu bringen. Bellizio wurde erst kürzlich mit dem «Empa Entrepreneur Fellowship» ausgezeichnet, ein Stipendium für Forschende, die ihr eigenes Unternehmen gründen wollen. Mit ihrem datengetriebenen System wollen sie eine Brückenfunktion zwischen Netzbetreibern und Energieanbietern einnehmen und so ganz konkret zu Energieoptimierung und Dekarbonisierung im Gebäudebereich sowie in der Elektromobilität beitragen.&lt;/p&gt; </text>
+      <link id="286806">
+        <title>So werden Stromnetze flexibler und stabiler: Wenn das Gebäude den Energiehaushalt plant</title>
+        <uri>https://www.empa.ch/web/s604/building-automation</uri>
+        <position>Context</position>
+      </link>
+      <link id="286807">
+        <title>Kuafu - Intelligent energy management platform</title>
+        <uri>https://kuafu.ch/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286801">
+        <title>Die UMAR-Unit im NEST diente als Versuchsumgebung für die experimentelle Studie. Bild: Zooey Braun</title>
+        <format>jpg</format>
+        <size-kb>1752</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92425.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Dr. Hanmin Cai&#13; Empa, Urban Energy Systems&#13; Tel. +41 58 765 40 77&#13; hanmin.cai@empa.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>Comment rendre les réseaux électriques plus flexibles et plus stables : Quand le bâtiment planifie le budget énergétique</title>
+      <lead>Pour garantir la sécurité d'approvisionnement de notre futur système énergétique, il ne suffit pas de développer les énergies renouvelables, il faut aussi des mécanismes de contrôle complexes qui gèrent efficacement la production, l'injection et la consommation. Des chercheurs de l'Empa ont donc développé un algorithme de contrôle prédictif qui optimise la gestion de l'énergie au niveau du bâtiment - sans pour autant restreindre le confort des utilisateurs.</lead>
+      <text link="no"> &lt;p&gt;Depuis plus de dix ans, on ne fait pas que parler de la transition énergétique, on y travaille aussi. On le constate régulièrement : Le problème primaire n'est pas la production d'énergie renouvelable, mais la logistique liée à notre système de distribution. Jusqu'à présent, celui-ci était axé sur des installations de production qui injectaient en permanence une certaine quantité d'énergie dans le réseau électrique. Pour que nous puissions à l'avenir couvrir nos besoins en énergie par des sources renouvelables, il faut donc à la fois développer les installations de production et les technologies intelligentes qui garantissent en permanence la stabilité du réseau. En effet, contrairement aux sources d'énergie traditionnelles comme le charbon ou l'uranium, une installation solaire ne produit pas la même quantité d'électricité en permanence : elle est soumise aux conditions météorologiques et surtout au rythme jour/nuit. D'une part, les besoins en énergie doivent donc être minimisés lorsque la production est faible - par exemple la nuit - et, d'autre part, les pics de production doivent être consommés localement afin de ne pas surcharger le réseau électrique.&lt;/p&gt; &lt;p&gt;Pour pouvoir gérer cette logistique complexe, des systèmes automatisés s'imposent. Ils peuvent optimiser la consommation d'électricité sur la base de la production locale, des moyens de stockage disponibles et de la disponibilité du réseau, de manière à garantir en permanence la stabilité du réseau et la flexibilité des consommateurs. Concrètement, cela signifie que grâce à la planification énergétique prévisionnelle, le système du bâtiment garantit que je peux prendre une douche chaude ou cuisiner même si la production d'électricité est insuffisante pour couvrir les besoins réels. Parallèlement, l'énergie surproduite n'est pas nécessairement stockée localement, mais injectée dans le réseau électrique dans la mesure du possible, de sorte que la demande puisse être satisfaite à tout moment.&lt;/p&gt;&lt;p&gt;&lt;b&gt;De la théorie à la pratique : le test au NEST&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Afin de démontrer que de tels systèmes automatisés sont adaptés à la pratique, des chercheurs de l'« Urban Energy Systems Lab » de l'Empa ont étudié au NEST dans quelle mesure un bâtiment habité peut réunir sous un même toit différents critères de demande flexibles. L'accent a été mis sur la réduction des émissions de CO2, la flexibilité de la demande en énergie et le confort des habitants. Grâce à un algorithme de contrôle prédictif, l'équipe a réussi à optimiser la gestion de l'énergie au sein du bâtiment avec la configuration suivante : une installation photovoltaïque pour la production d'électricité, un stockage sur batterie, une pompe à chaleur et une station de recharge bidirectionnelle pour les véhicules électriques. L'objectif principal était de minimiser les émissions de CO2 pendant l'exploitation, en privilégiant l'électricité du réseau lorsqu'elle était disponible à partir de sources renouvelables. L'algorithme a appris à prédire le comportement des occupants pendant une semaine. &lt;/p&gt; &lt;p&gt;&lt;b&gt;Le système du bâtiment en tant qu'acteur du système énergétique&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Tout d'abord, les chercheurs ont pu montrer que leur système permettait de réduire de plus de 10 % les émissions de CO2 du bâtiment. Il était au moins aussi important de constater que le bâtiment était capable de communiquer à l'avance quand et combien d'électricité il pouvait prélever ou injecter dans le réseau. Cela est particulièrement pertinent lorsque la production ou la demande d'électricité est (trop) importante aux heures de pointe. L'expérience a donc montré que la disponibilité flexible des énergies renouvelables ne pose pas de problème a priori. Toutefois, dans de telles circonstances, il est essentiel de disposer d'informations fiables sur la demande et d'une planification prévisionnelle - deux tâches qu'un algorithme auto-apprenant peut accomplir mieux et de manière plus cohérente qu'un être humain ne pourrait jamais le faire.&lt;/p&gt; &lt;p&gt;Afin de rendre les résultats évolutifs dans les applications correspondantes, les bâtiments doivent donc être numérisés de manière conséquente à l'avenir. Mais pour que l'infrastructure informatique nécessaire ne génère pas elle-même de grandes quantités de CO2, le chercheur de l'Empa Hanmin Cai s'est déjà penché, dans le cadre d'une autre étude, sur l'utilisation de matériel réutilisé, notamment d'anciens smartphones, pour l'automatisation des bâtiments.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Vers le marché via une start-up : transfert de technologie &lt;/b&gt;&lt;b&gt;«&lt;/b&gt;&lt;b&gt; made by Empa &lt;/b&gt;&lt;b&gt;»&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Aujourd'hui déjà, Hanmin Cai et sa collègue, Federica Bellizio, préparent de proposer leur technologie sur le marché dans le cadre de leur start-up « Kuafu ». Federica Bellizio a récemment été récompensée par l'« Empa Entrepreneur Fellowship », une bourse destinée aux chercheurs qui souhaitent créer leur propre entreprise. Avec leur système piloté par les données, ils veulent jouer un rôle de passerelle entre les exploitants de réseaux et les fournisseurs d'énergie et contribuer ainsi très concrètement à l'optimisation énergétique et à la décarbonisation dans le secteur du bâtiment.&lt;/p&gt; </text>
+      <link id="286805">
+        <title>Comment rendre les réseaux électriques plus flexibles et plus stables : Quand le bâtiment planifie le budget énergétique</title>
+        <uri>https://www.empa.ch/web/s604/building-automation</uri>
+        <position>Context</position>
+      </link>
+      <link id="286807">
+        <title>Kuafu - Intelligent energy management platform</title>
+        <uri>https://kuafu.ch/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286802">
+        <title>L&amp;#39;unité UMAR du NEST a servi de banc d&amp;#39;essai pour l&amp;#39;étude expérimentale. Image : Zooey Braun</title>
+        <format>jpg</format>
+        <size-kb>1752</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92426.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Dr. Hanmin Cai&#13; Empa, Urban Energy Systems&#13; Tél. +41 58 765 40 77&#13; hanmin.cai@empa.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Dübendorf, St. Gallen und Thun</city>
+      <title>So werden Stromnetze flexibler und stabiler: Wenn das Gebäude den Energiehaushalt plant</title>
+      <lead>Um die Versorgungssicherheit unseres künftigen Energiesystems zu gewährleisten, braucht es nicht nur einen Ausbau erneuerbarer Energien, sondern auch ausgeklügelte Kontrollmechanismen, die Produktion, Einspeisung und Verbrauch effizient steuern. Empa-Forschende haben deshalb einen vorausschauenden Kontrollalgorithmus entwickelt, der das Energiemanagement auf Ebene des Gebäudes optimiert – ohne dabei den Komfort der Nutzer einzuschränken.</lead>
+      <text link="no"> &lt;p&gt;Mit zunehmender Nachfrage nach erneuerbarer Energien steigt auch die Bedeutung von Gebäuden, wenn es darum geht, ein nachhaltiges Energiesystem zu entwerfen. Wo Photovoltaik-Anlagen ihr Potenzial im kleinen Rahmen – für ein Einfamilienhaus etwa – längst bewiesen haben, stellen sich immer noch gewisse Fragen, wenn es um die Versorgungssicherheit unseres Gesamtenergiesystems geht. Reichen die Potenziale erneuerbarer Energien wirklich aus, um über das ganze Jahr hinweg genügend Energie zu haben? Oder droht uns plötzlich wieder eine Energiemangellage wie im Winter 2023? Das primäre Problem ist dabei jedoch nicht die Produktion erneuerbarer Energie, sondern die Logistik in Zusammenhang mit unserem Verteilsystem. Dieses war bislang auf Produktionsanlagen ausgerichtet, die permanent eine gewisse Menge Energie ins Stromnetz einspeisen.&lt;b&gt; &lt;/b&gt;Damit wir unseren Energiebedarf künftig durch erneuerbare Quellen decken können, braucht es also sowohl einen Ausbau der Produktionsanlagen als auch smarte Technologien, die fortwährend die Netzstabilität gewährleisten. Denn im Gegensatz zu traditionellen Energieträgern wie Kohle oder Uran, produziert eine Solaranlage eben nicht durchgehend die gleiche Menge Strom: Sie unterliegt den Wetterbedingungen und vor allem dem Tag-Nacht-Rhythmus. Einerseits muss also der Energiebedarf dann minimiert werden, wenn die Produktion gering ist – etwa nachts – andererseits müssen sogenannte Produktionsspitzen lokal verbraucht werden, um das Stromnetz nicht zu überladen.&lt;/p&gt; &lt;p&gt;Um diese komplexe Logistik bewältigen zu können, bieten sich automatisierte Systeme an. Diese können auf der Basis von lokaler Produktion, den vorhandenen Speichermedien und der Verfügbarkeit im Netz den Stromverbrauch dahingehend optimieren, dass sowohl Netzstabilität als auch Flexibilität der Verbraucher stets gewährleistet sind. Heisst konkret: Durch die vorausschauende Energieplanung stellt das Gebäudesystem sicher, dass ich auch dann heiss duschen oder kochen kann, wenn gerade zu wenig Strom produziert wird, um den tatsächlichen Bedarf zu decken. Gleichzeitig wird überproduzierte Energie nicht zwangsläufig lokal gespeichert, sondern nach Möglichkeit ins Stromnetz eingespeist, so dass die Nachfrage jederzeit gedeckt werden kann.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Von der Theorie in die Praxis: der Test im NEST&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Um zu demonstrieren, dass solch automatisierten Systeme praxistauglich sind, haben Forschende der Abteilung «Urban Energy Systems» der Empa im NEST untersucht, inwiefern ein bewohntes Gebäude verschiedene flexible Nachfragekriterien unter einem Dach vereinen kann. Im Fokus standen dabei die Reduktion der CO2-Emissionen, die Flexibilität der Energienachfrage sowie der Komfort der Bewohner. Mittels eines prädiktiven Kontrollalgorithmus gelang es dem Team, das Energiemanagement innerhalb des Gebäudes mit folgendem Setup zu optimieren: einer Photovoltaik-Anlage zur Stromproduktion, einem Batteriespeicher, einer Wärmepumpe sowie einer bidirektionalen Ladestation für e-Fahrzeuge. Oberstes Ziel war es, die CO2-Emissionen während des Betriebs zu minimieren – und zwar indem Strom vom Netz bevorzugt dann bezogen wurde, wenn er aus erneuerbaren Quellen verfügbar war. Zudem waren Mindesttemperaturen für die Innenräume und den Warmwasserspeicher vorgegeben. Über das Verhalten der Bewohner lernte der Algorithmus in kurzer Zeit, Nutzerflexibilität und Energieaustausch mit dem Stromnetz zu optimieren.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Das Gebäude als Akteur im Energiesystem&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Zunächst konnten die Forschenden zeigen, dass ihr System den CO2-Ausstoss des Gebäudes um mehr als 10 Prozent senken konnte. Mindestens genauso wichtig war die Erkenntnis, dass das Gebäude in der Lage war, vorausschauend zu kommunizieren, wann es wieviel Strom vom Netz beziehen bzw. in dieses einspeisen kann. Dies ist vor allem dann relevant, wenn zu Spitzenzeiten (zu) viel Strom produziert oder nachgefragt wird. Das Experiment hat also gezeigt, dass die flexible Verfügbarkeit erneuerbarer Energien nicht a priori ein Problem darstellt. Allerdings sind unter diesen Umständen verlässliche Angaben zur Nachfrage und eine vorausschauende Planung essenziell – zwei Aufgaben, die ein selbstlernender Algorithmus besser und konsistenter bewältigen kann, als es ein Mensch je könnte.&lt;/p&gt; &lt;p&gt;Um die Ergebnisse in entsprechenden Anwendungen skalierbar zu machen, müssen Gebäude daher künftig konsequent digitalisiert werden. Damit die dafür notwendige IT-Infrastruktur aber nicht selbst wieder grosse Mengen an CO2 verursacht, hat sich Empa-Forscher Hanmin Cai bereits in einer anderen Studie mit dem Einsatz wiederverwendeter Hardware, namentlich alter Smartphones, für die Gebäudeautomation auseinandergesetzt.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Via Start-up in den Markt: Technologietransfer «made by Empa»&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Bereits heute arbeiten Cai und seine Kollegin, Federica Bellizio, daran, ihre Technologie im Rahmen des Start-ups «Kuafu» auf den Markt zu bringen. Bellizio wurde erst kürzlich mit dem «Empa Entrepreneur Fellowship» ausgezeichnet, ein Stipendium für Forschende, die ihr eigenes Unternehmen gründen wollen. Mit ihrem datengetriebenen System wollen sie eine Brückenfunktion zwischen Netzbetreibern und Energieanbietern einnehmen und so ganz konkret zu Energieoptimierung und Dekarbonisierung im Gebäudebereich sowie in der Elektromobilität beitragen.&lt;/p&gt; </text>
+      <link id="286806">
+        <title>So werden Stromnetze flexibler und stabiler: Wenn das Gebäude den Energiehaushalt plant</title>
+        <uri>https://www.empa.ch/web/s604/building-automation</uri>
+        <position>Context</position>
+      </link>
+      <link id="286807">
+        <title>Kuafu - Intelligent energy management platform</title>
+        <uri>https://kuafu.ch/</uri>
+        <position>Context</position>
+      </link>
+      <attachment id="286801">
+        <title>Die UMAR-Unit im NEST diente als Versuchsumgebung für die experimentelle Studie. Bild: Zooey Braun</title>
+        <format>jpg</format>
+        <size-kb>1752</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92425.jpg</uri>
+        <position>Context</position>
+      </attachment>
+      <contact>Dr. Hanmin Cai&#13; Empa, Urban Energy Systems&#13; Tel. +41 58 765 40 77&#13; hanmin.cai@empa.ch</contact>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="8">
+        <name lang="en">Education and Research</name>
+        <name lang="de">Bildung und Forschung</name>
+        <name lang="fr">Formation et recherche</name>
+        <name lang="rm">Bildung und Forschung</name>
+      </topic>
+      <topic id="11">
+        <name lang="en">Energy</name>
+        <name lang="de">Energie</name>
+        <name lang="fr">Énergie</name>
+        <name lang="rm">Energie</name>
+      </topic>
+      <topic id="45">
+        <name lang="en">Technology</name>
+        <name lang="de">Technologie</name>
+        <name lang="fr">Technologie</name>
+        <name lang="rm">Technologie</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>

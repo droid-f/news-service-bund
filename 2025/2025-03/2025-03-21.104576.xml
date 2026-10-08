@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="https://www.news.admin.ch/messages" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <message id="104576" revoked="no">
+    <type>Memorandum</type>
+    <version>1</version>
+    <pubdate>2025-03-21</pubdate>
+    <originator id="401" department-msg="no" lead="no" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+    </originator>
+    <originator id="403" department-msg="no" lead="no" topnews="no">
+      <department-id>401</department-id>
+      <name lang="it">Ufficio federale di giustizia</name>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="rm">Bundesamt für Justiz</name>
+      <name lang="fr">Office fédéral de la justice</name>
+      <www lang="it">http://www.bj.admin.ch</www>
+      <www lang="de">http://www.bj.admin.ch</www>
+      <www lang="rm">http://www.bj.admin.ch</www>
+      <www lang="fr">http://www.bj.admin.ch</www>
+      <email lang="it">info@bj.admin.ch</email>
+      <email lang="de">info@bj.admin.ch</email>
+      <email lang="rm">info@bj.admin.ch</email>
+      <email lang="fr">info@bj.admin.ch</email>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1</department-id>
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </originator>
+    <keywords>
+      <keyword id="70" org-id="403">
+        <name lang="it">Diritti dell'uomo</name>
+        <name lang="it">Diritti dell'uomo</name>
+        <name lang="de">Menschenrechte</name>
+        <name lang="de">Menschenrechte</name>
+        <name lang="rm">Menschenrechte</name>
+        <name lang="rm">Menschenrechte</name>
+        <name lang="fr">Droits de l'homme</name>
+        <name lang="fr">Droits de l'homme</name>
+      </keyword>
+      <keyword id="116" org-id="401">
+        <name lang="it">Diritto societario</name>
+        <name lang="de">Unternehmensrecht</name>
+        <name lang="rm">Unternehmensrecht</name>
+        <name lang="fr">Droit des sociétés</name>
+      </keyword>
+      <keyword id="140" org-id="403">
+        <name lang="it">Governo societario</name>
+        <name lang="de">Unternehmensführung</name>
+        <name lang="rm">Unternehmensführung</name>
+        <name lang="fr">Gouvernance d'entreprise</name>
+      </keyword>
+    </keywords>
+    <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="rm">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <www lang="it">http://www.ejpd.admin.ch</www>
+      <www lang="de">http://www.ejpd.admin.ch</www>
+      <www lang="rm">http://www.ejpd.admin.ch</www>
+      <www lang="fr">http://www.ejpd.admin.ch</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">Info@gs-ejpd.admin.ch</email>
+    </department>
+    <department id="1070">
+      <name lang="it">Il Consiglio federale</name>
+      <name lang="de">Der Bundesrat</name>
+      <name lang="rm">Der Bundesrat</name>
+      <name lang="fr">Conseil fédéral</name>
+      <www lang="it">https://www.admin.ch/gov/it/pagina-iniziale.html</www>
+      <www lang="de">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="rm">https://www.admin.ch/gov/de/start.html</www>
+      <www lang="fr">https://www.admin.ch/gov/fr/accueil.html</www>
+      <email lang="it">info@bk.admin.ch</email>
+      <email lang="de">info@bk.admin.ch</email>
+      <email lang="rm">info@bk.admin.ch</email>
+      <email lang="fr">info@bk.admin.ch</email>
+    </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Gestione sostenibile delle imprese: il Consiglio federale intende presto discutere proposte concrete</title>
+      <lead>Nell’ambito delle loro attività le imprese svizzere sono tenute a rispettare i diritti umani e l’ambiente. Allo stesso tempo devono poter rimanere competitive sia in Svizzera che all’estero. Per garantire tale competitività è necessario procedere a un’attenta ponderazione degli interessi e puntare su un coordinamento internazionale ottimale. Il 21 marzo 2025 il Consiglio federale ha preso atto sia dei risultati della consultazione in merito alle nuove disposizioni sull’obbligo di rendicontazione delle imprese sia dello studio aggiornato sull’impatto delle direttive UE che istituiscono doveri di diligenza per le imprese. Ha poi incaricato il Dipartimento federale di giustizia e polizia di elaborare possibili soluzioni pragmatiche per modificare il diritto vigente. L’Esecutivo deciderà come procedere non appena l’Unione europea avrà deciso in merito alle annunciate semplificazioni, o comunque al più tardi nella primavera del 2026.</lead>
+      <text link="no"> &lt;p&gt;Dal 1° gennaio 2022 in Svizzera vigono norme severe per la gestione sostenibile delle imprese. Le grandi imprese svizzere sono tenute a redigere una relazione sui rischi legati all’ambiente, agli aspetti sociali, alle condizioni dei lavoratori, ai diritti umani e alla lotta contro la corruzione, nonché sulle misure adottate per fronteggiare tali rischi. Le imprese con rischi legati ai settori sensibili del lavoro minorile e dei minerali provenienti da zone di conflitto devono inoltre rispettare specifici ed estesi obblighi di diligenza e rendicontazione.&lt;/p&gt; &lt;h3&gt;Sviluppi negli adeguamenti normativi in Svizzera&lt;/h3&gt; &lt;p&gt;Il 26 giugno 2024 il Consiglio federale ha posto in consultazione un progetto di modifica del Codice delle obbligazioni (Trasparenza concernente lo sviluppo sostenibile) che impone a un numero maggiore di imprese di redigere una relazione sui rischi delle proprie attività in rapporto all’ambiente, ai diritti umani e alla lotta contro la corruzione nonché sulle misure adottate per fronteggiare tali rischi. Nella seduta del 21 marzo 2025 il Consiglio federale ha preso atto dei risultati della consultazione. Il progetto è risultato controverso. Un gran numero di partecipanti ha chiesto semplificazioni amministrative.&lt;/p&gt; &lt;p&gt;Al Consiglio federale è stato sottoposto anche lo studio aggiornato in merito alle ripercussioni per le imprese svizzere della normativa europea relativa ai doveri di diligenza. Nello studio non è stato possibile tenere conto delle ultime proposte dell’UE, che prevedono un allentamento delle disposizioni europee.&lt;/p&gt; &lt;h3&gt;Coordinamento internazionale e competitività&lt;/h3&gt; &lt;p&gt;Nell’ambito della gestione sostenibile delle imprese, il Consiglio federale vuole che la legislazione svizzera sia coordinata su scala internazionale. Tale coordinamento è cruciale per mantenere la competitività delle imprese svizzere. Nell’UE sono in corso rapidi e importanti sviluppi. La Commissione europea vuole infatti semplificare le norme europee in materia e ridurre l’onere normativo a carico delle imprese. Intende semplificare ancora di più anche le norme sugli obblighi di diligenza e sulla rendicontazione di sostenibilità.&lt;/p&gt; &lt;p&gt;Il Consiglio federale vuole tenere conto di questi sviluppi, in quanto solo così può garantire condizioni commerciali eque alle imprese svizzere nel raffronto internazionale. Ha pertanto incaricato il DFGP di elaborare possibili varianti pragmatiche per modificare il diritto vigente. L’Esecutivo stabilirà come procedere non appena l’Unione europea avrà deciso in merito alle semplificazioni annunciate, o comunque al più tardi nella primavera del 2026. Le proposte dovranno riguardare sia la relazione sulle questioni di sostenibilità sia gli obblighi di diligenza.&lt;/p&gt; </text>
+      <attachment id="286984">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>656</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92502.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286985">
+        <title>Résultats de la procédure de consultation</title>
+        <format>pdf</format>
+        <size-kb>643</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92503.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286987">
+        <title>Auswirkungen der CSDDD auf Schweizer Unternehmen, Standortattraktivität und Wettbewerb. Vertiefte Analyse der BSS Volkswirtschaftliche Beratung AG, Basel, vom 28. November 2024</title>
+        <format>pdf</format>
+        <size-kb>1817</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Nachhaltige Unternehmensführung: Bundesrat will bald über konkrete Vorschläge diskutieren</title>
+      <lead>Schweizer Unternehmen sollen bei ihrer Geschäftstätigkeit die Menschenrechte einhalten und die Umwelt schützen. Gleichzeitig müssen sie im In- und Ausland wettbewerbsfähig bleiben können. Dieses Ziel erfordert eine sorgfältige Interessenabwägung und eine optimale internationale Abstimmung. Der Bundesrat hat deshalb an seiner Sitzung vom 21. März 2025 das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, die möglichen Varianten für eine pragmatische Änderung der aktuellen Gesetzgebung auszuarbeiten. Der Bundesrat wird über das weitere Vorgehen entscheiden, sobald die EU über ihre angekündigten Vereinfachungen entschieden hat, spätestens jedoch im Frühjahr 2026. </lead>
+      <text link="no"> &lt;p&gt;Seit dem 1. Januar 2022 gelten in der Schweiz strengere Regeln für die nachhaltige Unternehmensführung. Grosse Schweizer Unternehmen müssen über die Risiken in den Bereichen Umwelt, Sozialbelange, Arbeitnehmerbelange, Menschenrechte und Bekämpfung der Korruption sowie über die dagegen ergriffenen Massnahmen berichten. Unternehmen mit Risiken in den sensiblen Bereichen der Kinderarbeit und der sogenannten Konfliktmineralien müssen zudem besondere und weitgehende Sorgfalts- und Berichterstattungspflichten einhalten.&lt;/p&gt; &lt;h3&gt;Entwicklung hinsichtlich allfälliger Anpassungen in der Schweiz&lt;/h3&gt; &lt;p&gt;Der Bundesrat hat zusätzlich dazu am 26. Juni eine Vorlage zur Änderung des Obligationenrechts (Transparenz über Nachhaltigkeitsaspekte) in die Vernehmlassung geschickt, wonach eine grössere Anzahl Unternehmen über die Risiken ihrer Geschäftstätigkeit in den Bereichen Umwelt, Menschenrechte und Korruption sowie die dagegen ergriffenen Massnahmen Bericht erstatten müssen. An seiner Sitzung vom 21. März 2025 hat der Bundesrat die Vernehmlassungsergebnisse zu den vorgeschlagenen Bestimmungen über die Berichterstattungspflichten für Unternehmen zur Kenntnis genommen. Die eingegangenen Stellungnahmen sind kontrovers ausgefallen. Ein grosser Teil fordert administrative Vereinfachungen.&lt;/p&gt; &lt;p&gt;Ebenfalls vorgelegt wurde dem Bundesrat die aktualisierte Studie über die Auswirkungen der EU-Regeln im Bereich der Sorgfaltspflichten für die Schweizer Unternehmen. Darin konnten die neusten EU-Vorschläge, welche eine Lockerung der europäischen Vorschriften vorsehen, noch nicht berücksichtigt werden.&lt;/p&gt; &lt;h3&gt;Internationale Abstimmung und Wettbewerbsfähigkeit &lt;/h3&gt; &lt;p&gt;Der Bundesrat will, dass das Schweizer Recht bei der nachhaltigen Unternehmensführung international abgestimmt ist. Dies ist für die Wettbewerbsfähigkeit der Schweizer Unternehmen zentral. In der EU zeichnen sich derzeit erneut rasche und gewichtige Veränderungen ab. So will die EU-Kommission die entsprechenden EU-Regeln vereinfachen und den regulatorischen Aufwand für Unternehmen reduzieren. Die EU-Kommission will namentlich auch die Regeln bei der Nachhaltigkeitsberichterstattung und bei den Sorgfaltspflichten stärker vereinfachen.&lt;/p&gt; &lt;p&gt;Der Bundesrat will diesen Entwicklungen Rechnung tragen. Nur so kann er für die Schweizer Unternehmen im internationalen Vergleich faire Handelsbedingungen garantieren. Entsprechend hat er die Verwaltung beauftragt, die möglichen Varianten für eine pragmatische Änderung der aktuellen Gesetzgebung auszuarbeiten. Der Bundesrat wird über das weitere Vorgehen entscheiden, sobald die EU über ihre angekündigten Vereinfachungen entschieden hat, spätestens jedoch im Frühjahr 2026. Die Vorschläge sollen sowohl die Nachhaltigkeitsberichterstattung als auch die Sorgfaltspflichten umfassen.&lt;/p&gt; </text>
+      <attachment id="286984">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>656</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92502.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286987">
+        <title>Auswirkungen der CSDDD auf Schweizer Unternehmen, Standortattraktivität und Wettbewerb. Vertiefte Analyse der BSS Volkswirtschaftliche Beratung AG, Basel, vom 28. November 2024</title>
+        <format>pdf</format>
+        <size-kb>1817</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="rm">
+      <city>Bern</city>
+      <title>Nachhaltige Unternehmensführung: Bundesrat will bald über konkrete Vorschläge diskutieren</title>
+      <lead>Schweizer Unternehmen sollen bei ihrer Geschäftstätigkeit die Menschenrechte einhalten und die Umwelt schützen. Gleichzeitig müssen sie im In- und Ausland wettbewerbsfähig bleiben können. Dieses Ziel erfordert eine sorgfältige Interessenabwägung und eine optimale internationale Abstimmung. Der Bundesrat hat deshalb an seiner Sitzung vom 21. März 2025 das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, die möglichen Varianten für eine pragmatische Änderung der aktuellen Gesetzgebung auszuarbeiten. Der Bundesrat wird über das weitere Vorgehen entscheiden, sobald die EU über ihre angekündigten Vereinfachungen entschieden hat, spätestens jedoch im Frühjahr 2026. </lead>
+      <text link="no"> &lt;p&gt;Seit dem 1. Januar 2022 gelten in der Schweiz strengere Regeln für die nachhaltige Unternehmensführung. Grosse Schweizer Unternehmen müssen über die Risiken in den Bereichen Umwelt, Sozialbelange, Arbeitnehmerbelange, Menschenrechte und Bekämpfung der Korruption sowie über die dagegen ergriffenen Massnahmen berichten. Unternehmen mit Risiken in den sensiblen Bereichen der Kinderarbeit und der sogenannten Konfliktmineralien müssen zudem besondere und weitgehende Sorgfalts- und Berichterstattungspflichten einhalten.&lt;/p&gt; &lt;h3&gt;Entwicklung hinsichtlich allfälliger Anpassungen in der Schweiz&lt;/h3&gt; &lt;p&gt;Der Bundesrat hat zusätzlich dazu am 26. Juni eine Vorlage zur Änderung des Obligationenrechts (Transparenz über Nachhaltigkeitsaspekte) in die Vernehmlassung geschickt, wonach eine grössere Anzahl Unternehmen über die Risiken ihrer Geschäftstätigkeit in den Bereichen Umwelt, Menschenrechte und Korruption sowie die dagegen ergriffenen Massnahmen Bericht erstatten müssen. An seiner Sitzung vom 21. März 2025 hat der Bundesrat die Vernehmlassungsergebnisse zu den vorgeschlagenen Bestimmungen über die Berichterstattungspflichten für Unternehmen zur Kenntnis genommen. Die eingegangenen Stellungnahmen sind kontrovers ausgefallen. Ein grosser Teil fordert administrative Vereinfachungen.&lt;/p&gt; &lt;p&gt;Ebenfalls vorgelegt wurde dem Bundesrat die aktualisierte Studie über die Auswirkungen der EU-Regeln im Bereich der Sorgfaltspflichten für die Schweizer Unternehmen. Darin konnten die neusten EU-Vorschläge, welche eine Lockerung der europäischen Vorschriften vorsehen, noch nicht berücksichtigt werden.&lt;/p&gt; &lt;h3&gt;Internationale Abstimmung und Wettbewerbsfähigkeit &lt;/h3&gt; &lt;p&gt;Der Bundesrat will, dass das Schweizer Recht bei der nachhaltigen Unternehmensführung international abgestimmt ist. Dies ist für die Wettbewerbsfähigkeit der Schweizer Unternehmen zentral. In der EU zeichnen sich derzeit erneut rasche und gewichtige Veränderungen ab. So will die EU-Kommission die entsprechenden EU-Regeln vereinfachen und den regulatorischen Aufwand für Unternehmen reduzieren. Die EU-Kommission will namentlich auch die Regeln bei der Nachhaltigkeitsberichterstattung und bei den Sorgfaltspflichten stärker vereinfachen.&lt;/p&gt; &lt;p&gt;Der Bundesrat will diesen Entwicklungen Rechnung tragen. Nur so kann er für die Schweizer Unternehmen im internationalen Vergleich faire Handelsbedingungen garantieren. Entsprechend hat er die Verwaltung beauftragt, die möglichen Varianten für eine pragmatische Änderung der aktuellen Gesetzgebung auszuarbeiten. Der Bundesrat wird über das weitere Vorgehen entscheiden, sobald die EU über ihre angekündigten Vereinfachungen entschieden hat, spätestens jedoch im Frühjahr 2026. Die Vorschläge sollen sowohl die Nachhaltigkeitsberichterstattung als auch die Sorgfaltspflichten umfassen.&lt;/p&gt; </text>
+      <attachment id="286984">
+        <title>Ergebnisse des Vernehmlassungsverfahrens</title>
+        <format>pdf</format>
+        <size-kb>656</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92502.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286987">
+        <title>Auswirkungen der CSDDD auf Schweizer Unternehmen, Standortattraktivität und Wettbewerb. Vertiefte Analyse der BSS Volkswirtschaftliche Beratung AG, Basel, vom 28. November 2024</title>
+        <format>pdf</format>
+        <size-kb>1817</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Gestion durable des entreprises : le Conseil fédéral se penchera bientôt sur des propositions concrètes</title>
+      <lead>Les entreprises suisses doivent respecter les droits de l’homme et protéger l’environnement dans le cadre de leur activité commerciale, tout en restant compétitives sur le marché intérieur et international. La réalisation de cet objectif nécessite une pesée des intérêts soigneuse et une harmonisation aussi poussée que possible du droit suisse avec les règles internationales. Lors de sa séance du 21 mars 2025, le Conseil fédéral a chargé le Département fédéral de justice et police (DFJP) d’élaborer des options pragmatiques de modification de la législation en vigueur. Il décidera de la suite à donner au projet après que l’UE se sera prononcée sur les simplifications qu’elle projette, mais au plus tard au printemps 2026. </lead>
+      <text link="no"> &lt;p&gt;Les règles de gestion durable des entreprises sont plus strictes en Suisse depuis le 1er janvier 2022. Les grandes entreprises suisses doivent publier des rapports faisant état des risques de leur activité liés à l’environnement, aux affaires sociales, au personnel, aux droits de l’homme et à la corruption et des mesures qu’elles ont prises pour écarter ces risques. Les entreprises dont l’activité présente des risques dans les domaines sensibles du travail des enfants et des minerais et métaux provenant de zones de conflit doivent en outre se soumettre à des devoirs de diligence et de transparence spécifiques. &lt;/p&gt; &lt;h3&gt;Adaptation éventuelle du droit suisse : point de la situation&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral avait envoyé en consultation le 26 juin 2024 un avant-projet de modification du code des obligations (transparence sur les questions de durabilité) qui impose à un nombre plus élevé d’entreprises de rendre compte des risques de leur activité liés à l’environnement, aux droits de l’homme et à la corruption, et des mesures prises pour les contrer. Lors de sa séance du 21 mars 2025, le Conseil fédéral a pris acte des résultats de la procédure de consultation sur les dispositions proposées concernant la publication par les entreprises d’informations en matière de durabilité. Les réponses reçues sont contrastées. Nombre des participants ont demandé des simplifications administratives. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral a par ailleurs pris connaissance de la mise à jour de l’étude relative aux répercussions sur les entreprises suisses des règles de l’UE sur le devoir de vigilance en matière de durabilité. Cette version actualisée ne tient cependant pas compte des dernières propositions de l’UE visant à assouplir les prescriptions. &lt;/p&gt; &lt;h3&gt;Harmonisation avec les règles internationales et compétitivité&lt;/h3&gt; &lt;p&gt;Le Conseil fédéral est en faveur d’une démarche coordonnée à l’échelon international en matière de gestion durable des entreprises, gage de compétitivité des entreprises suisses. L’UE prévoit à présent d’apporter des modifications notables à sa législation et ce, dans de brefs délais. La Commission européenne entend simplifier la réglementation en vigueur afin de réduire la charge administrative des entreprises. Elle envisage également un assouplissement plus poussé des règles relatives à la publication d’informations et de celles concernant le devoir de vigilance. &lt;/p&gt; &lt;p&gt;Le Conseil fédéral entend s’appuyer sur ces évolutions, afin d’assurer des conditions équitables pour les entreprises suisses sur le marché international. Il a par conséquent chargé le DFJP d’élaborer des options pragmatiques de modification de la législation en vigueur. Les propositions esquissées concerneront tant la publication d’informations que le devoir de vigilance (dit « devoirs de diligence » en droit suisse) en matière de durabilité. Le Conseil fédéral décidera de la suite à donner au projet après que l’UE se sera prononcée sur les simplifications qu’elle projette, mais au plus tard au printemps 2026. &lt;/p&gt; </text>
+      <attachment id="286985">
+        <title>Résultats de la procédure de consultation</title>
+        <format>pdf</format>
+        <size-kb>643</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92503.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <attachment id="286987">
+        <title>Auswirkungen der CSDDD auf Schweizer Unternehmen, Standortattraktivität und Wettbewerb. Vertiefte Analyse der BSS Volkswirtschaftliche Beratung AG, Basel, vom 28. November 2024</title>
+        <format>pdf</format>
+        <size-kb>1817</size-kb>
+        <uri>https://www.newsd.admin.ch/newsd/message/attachments/92505.pdf</uri>
+        <position>Context</position>
+      </attachment>
+      <contact/>
+      <revisions/>
+    </content>
+    <topics>
+      <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="rm">Bundesrat</name>
+        <name lang="fr">Conseil fédéral</name>
+      </topic>
+      <topic id="29">
+        <name lang="it">Ambiente e natura</name>
+        <name lang="de">Umwelt und Natur</name>
+        <name lang="rm">Umwelt und Natur</name>
+        <name lang="fr">Environnement et nature</name>
+      </topic>
+      <topic id="47">
+        <name lang="it">Economia</name>
+        <name lang="de">Wirtschaft</name>
+        <name lang="rm">Wirtschaft</name>
+        <name lang="fr">Économie</name>
+      </topic>
+    </topics>
+    <offers/>
+  </message>
+</messages>
