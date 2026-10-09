@@ -12,7 +12,7 @@ Moreover:
 - In order to keep directories reasonably small, file names use the following notation ``/#{pubdate.year}/#{pubdate.year}-#{pubdate.month}/#{pubdate}.#{msg-id}.xml``
 
 ## Message ids
-Up to April 2025 message ids are numbers (e.g. ``103839``). Since the Federal Chancellery replaced the News Service Bund on 14 April 2025, ids are opaque strings (e.g. ``sWl2llfFOn3r``). Both appear as they come from the source, in file names (``/2026/2026-10/2026-10-08.sWl2llfFOn3r.xml``) and in ``/updates.json``, where numeric ids come first and string ids follow. The XML format itself did not change.
+Up to April 2025 message ids are numbers (e.g. ``103839``). Since the Federal Chancellery replaced the News Service Bund on 14 April 2025, ids are opaque strings (e.g. ``sWl2llfFOn3r``). The XML format itself did not change (for the moment).
 
 ## Feedbacks
 Feedbacks are welcome [@gamba](https://github.com/gamba). For suggestions, missing or incorrect data open an issue. 
