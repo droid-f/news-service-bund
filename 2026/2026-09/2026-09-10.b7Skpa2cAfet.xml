@@ -11,11 +11,11 @@
       <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
       <name lang="rm">Secretariat da stadi per l'economia</name>
+      <www lang="de">https://www.seco.admin.ch</www>
       <www lang="en">https://www.seco.admin.ch/en</www>
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
-      <www lang="de">https://www.seco.admin.ch</www>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
@@ -24,21 +24,21 @@
     </originator>
     <keywords/>
     <department id="701">
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -66,11 +66,11 @@
     </content>
     <topics>
       <topic id="2">
+        <name lang="it">Politica finanziaria</name>
+        <name lang="rm">Politica da finanzas</name>
         <name lang="de">Finanzpolitik</name>
         <name lang="en">Financial policy</name>
         <name lang="fr">Politique budgétaire</name>
-        <name lang="it">Politica finanziaria</name>
-        <name lang="rm">Politica da finanzas</name>
       </topic>
       <topic id="653">
         <name lang="de">Regulierung</name>
@@ -80,18 +80,18 @@
         <name lang="rm">Regulaziun</name>
       </topic>
       <topic id="598">
+        <name lang="it">Concorrenza fiscale</name>
+        <name lang="rm">Concurrenza fiscala</name>
         <name lang="de">Steuerwettbewerb</name>
         <name lang="en">Tax competition</name>
         <name lang="fr">Concurrence fiscale</name>
-        <name lang="it">Concorrenza fiscale</name>
-        <name lang="rm">Concurrenza fiscala</name>
       </topic>
       <topic id="32">
-        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
         <name lang="en">Old-age, Survivors’ and Invalidity Insurance</name>
         <name lang="fr">AVS - Assurance-vieillesse et survivants</name>
         <name lang="it">AVS – Assicurazione vecchiaia e superstiti</name>
         <name lang="rm">AVS – Assicuranza per vegls e survivents</name>
+        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
       </topic>
       <topic id="512">
         <name lang="it">Abitazioni</name>
@@ -101,11 +101,11 @@
         <name lang="fr">Logement</name>
       </topic>
       <topic id="411">
-        <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
+        <name lang="rm">Organisaziuns internaziunalas</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>

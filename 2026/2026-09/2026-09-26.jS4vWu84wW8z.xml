@@ -6,21 +6,21 @@
     <pubdate>2026-09-26</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-8" org-id="401">
@@ -30,16 +30,16 @@
         <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
-        <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
         <name lang="de">Illegale Migration</name>
         <name lang="en">Illegal migration</name>
+        <name lang="fr">Migration illégale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
+        <name lang="de">Zusammenarbeit</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="en">Asylum</name>
@@ -48,10 +48,10 @@
         <name lang="de">Asyl</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
+        <name lang="de">Illegale Migration</name>
         <name lang="en">Illegal migration</name>
         <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
-        <name lang="de">Illegale Migration</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
         <name lang="de">Zusammenarbeit</name>
@@ -72,16 +72,16 @@
         <name lang="fr">Migration illégale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
+        <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
-        <name lang="de">Zusammenarbeit</name>
       </keyword>
       <keyword id="SLW-72" org-id="401">
-        <name lang="fr">Politique migratoire internationale</name>
-        <name lang="it">Politica migratoria internazionale</name>
         <name lang="de">Migrationspolitik international</name>
         <name lang="en">International politics of migration</name>
+        <name lang="fr">Politique migratoire internationale</name>
+        <name lang="it">Politica migratoria internazionale</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -110,11 +110,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="547">
         <name lang="de">Polizei</name>

@@ -6,11 +6,11 @@
     <pubdate>2026-09-10</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
       <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
@@ -21,10 +21,10 @@
         <name lang="it">Alloggio per richiedenti l’asilo</name>
       </keyword>
       <keyword id="SLW-10" org-id="405">
-        <name lang="it">Alloggio per richiedenti l’asilo</name>
         <name lang="de">Asylunterkunft</name>
         <name lang="en">Accommodation for asylum seekers</name>
         <name lang="fr">Hébergement pour requérants d’asile</name>
+        <name lang="it">Alloggio per richiedenti l’asilo</name>
       </keyword>
       <keyword id="SLW-10" org-id="405">
         <name lang="de">Asylunterkunft</name>
@@ -34,21 +34,21 @@
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne-Wabern</city>
@@ -76,11 +76,11 @@
     </content>
     <topics>
       <topic id="4">
-        <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="rm">Asil</name>
+        <name lang="de">Asyl</name>
       </topic>
       <topic id="20">
         <name lang="de">Migration &amp; Integration</name>

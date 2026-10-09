@@ -11,16 +11,16 @@
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
-      <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
+      <www lang="it">https://www.eda.admin.ch/it</www>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="en">
@@ -57,25 +57,25 @@
     </content>
     <topics>
       <topic id="411">
-        <name lang="en">International organisations</name>
-        <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
+        <name lang="en">International organisations</name>
+        <name lang="fr">Organisations internationales</name>
       </topic>
       <topic id="16">
-        <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
+        <name lang="fr">Politique étrangère</name>
       </topic>
       <topic id="2">
+        <name lang="rm">Lavur</name>
         <name lang="de">Arbeit</name>
         <name lang="en">Work</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
-        <name lang="rm">Lavur</name>
       </topic>
     </topics>
     <offers/>

@@ -6,11 +6,11 @@
     <pubdate>2026-09-14</pubdate>
     <originator id="610" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
+      <name lang="de">Bundesamt für Bauten und Logistik</name>
+      <name lang="en">Federal Office for Buildings and Logistics</name>
       <name lang="fr">Office fédéral des constructions et de la logistique</name>
       <name lang="it">Ufficio federale delle costruzioni e della logistica</name>
       <name lang="rm">Uffizi federal per edifizis e logistica</name>
-      <name lang="de">Bundesamt für Bauten und Logistik</name>
-      <name lang="en">Federal Office for Buildings and Logistics</name>
       <www lang="de">https://www.bbl.admin.ch</www>
       <www lang="en">https://www.bbl.admin.ch</www>
       <www lang="fr">https://www.bbl.admin.ch/fr</www>
@@ -24,47 +24,47 @@
     </originator>
     <originator id="405" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
+      <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
       <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
-      <name lang="en">State Secretariat for Migration</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords/>
     <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <department id="401">
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -99,11 +99,11 @@
         <name lang="rm">Fatgs da construcziun</name>
       </topic>
       <topic id="24">
-        <name lang="en">Public procurement</name>
-        <name lang="fr">Marchés publics</name>
         <name lang="it">Acquisti pubblici</name>
         <name lang="rm">Acquisiziuns publicas</name>
         <name lang="de">Öffentliche Beschaffung</name>
+        <name lang="en">Public procurement</name>
+        <name lang="fr">Marchés publics</name>
       </topic>
     </topics>
     <offers/>

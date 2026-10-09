@@ -12,18 +12,18 @@
       <name lang="it">Ufficio federale di giustizia</name>
       <name lang="rm">Uffizi federal da giustia</name>
       <www lang="de">https://www.bj.admin.ch/</www>
-      <email lang="rm">media@bj.admin.ch</email>
-      <email lang="de">media@bj.admin.ch</email>
       <email lang="en">media@bj.admin.ch</email>
       <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
+      <email lang="rm">media@bj.admin.ch</email>
+      <email lang="de">media@bj.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-114" org-id="403">
-        <name lang="de">Finanzielle Transparenz</name>
         <name lang="en">Financial transparency</name>
         <name lang="fr">Transparence financière</name>
         <name lang="it">Trasparenza finanziaria</name>
+        <name lang="de">Finanzielle Transparenz</name>
       </keyword>
       <keyword id="SLW-114" org-id="403">
         <name lang="de">Finanzielle Transparenz</name>
@@ -39,21 +39,21 @@
       </keyword>
     </keywords>
     <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -88,18 +88,18 @@
         <name lang="rm">Surveglianza dal martgà</name>
       </topic>
       <topic id="642">
-        <name lang="it">Lotta al riciclaggio di denaro</name>
-        <name lang="rm">Cumbat cunter la lavada da daners suspectus</name>
         <name lang="de">Geldwäschereibekämpfung</name>
         <name lang="en">Anti-money-laundering (AML)</name>
         <name lang="fr">Lutte contre le blanchiment d’argent</name>
+        <name lang="it">Lotta al riciclaggio di denaro</name>
+        <name lang="rm">Cumbat cunter la lavada da daners suspectus</name>
       </topic>
       <topic id="47">
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
     </topics>
     <offers/>

@@ -6,42 +6,42 @@
     <pubdate>2026-10-02</pubdate>
     <originator id="808" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Energie</name>
-      <name lang="en">Swiss Federal Office of Energy</name>
       <name lang="fr">Office fédéral de l'énergie</name>
       <name lang="it">Ufficio federale dell'energia</name>
       <name lang="rm">Uffizi federal d'energia</name>
+      <name lang="de">Bundesamt für Energie</name>
+      <name lang="en">Swiss Federal Office of Energy</name>
+      <www lang="de">https://www.bfe.admin.ch</www>
+      <www lang="en">https://www.bfe.admin.ch/en</www>
       <www lang="fr">https://www.bfe.admin.ch/fr</www>
       <www lang="it">https://www.bfe.admin.ch/it</www>
       <www lang="rm">https://www.bfe.admin.ch </www>
-      <www lang="de">https://www.bfe.admin.ch</www>
-      <www lang="en">https://www.bfe.admin.ch/en</www>
+      <email lang="rm">media@bfe.admin.ch</email>
       <email lang="de">media@bfe.admin.ch</email>
       <email lang="en">media@bfe.admin.ch</email>
       <email lang="fr">media@bfe.admin.ch</email>
       <email lang="it">media@bfe.admin.ch</email>
-      <email lang="rm">media@bfe.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
+      <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -55,16 +55,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
-      <email lang="de">info@gs-uvek.admin.ch</email>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -92,18 +92,18 @@
     </content>
     <topics>
       <topic id="464">
+        <name lang="de">Energiewirtschaft</name>
         <name lang="en">Energy industry</name>
         <name lang="fr">Économie énergétique</name>
         <name lang="it">Settore dell’energia</name>
         <name lang="rm">Economia d'energia</name>
-        <name lang="de">Energiewirtschaft</name>
       </topic>
       <topic id="463">
-        <name lang="rm">Provediment d'energia</name>
         <name lang="de">Energieversorgung</name>
         <name lang="en">Energy supply</name>
         <name lang="fr">Approvisionnement énergétique</name>
         <name lang="it">Approvvigionamento energetico</name>
+        <name lang="rm">Provediment d'energia</name>
       </topic>
       <topic id="11">
         <name lang="de">Energie</name>
@@ -113,11 +113,11 @@
         <name lang="rm">Energia</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

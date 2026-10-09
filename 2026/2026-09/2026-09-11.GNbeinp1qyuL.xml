@@ -6,24 +6,24 @@
     <pubdate>2026-09-11</pubdate>
     <originator id="708" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Bundesamt für Wohnungswesen</name>
       <name lang="en">Federal Housing Office</name>
       <name lang="fr">Office fédéral du logement</name>
       <name lang="it">Ufficio federale delle abitazioni</name>
       <name lang="rm">Uffizi federal d'abitaziuns</name>
-      <name lang="de">Bundesamt für Wohnungswesen</name>
-      <www lang="it">https://www.bwo.admin.ch/it</www>
-      <www lang="rm">https://www.bwo.admin.ch/de</www>
       <www lang="de">https://www.bwo.admin.ch/de</www>
       <www lang="en">https://www.bwo.admin.ch/de</www>
       <www lang="fr">https://www.bwo.admin.ch/fr</www>
+      <www lang="it">https://www.bwo.admin.ch/it</www>
+      <www lang="rm">https://www.bwo.admin.ch/de</www>
     </originator>
     <keywords/>
     <department id="701">
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
@@ -61,39 +61,39 @@
     </content>
     <topics>
       <topic id="512">
+        <name lang="rm">Fatgs d'abitaziuns</name>
         <name lang="de">Wohnungswesen</name>
         <name lang="en">Housing</name>
         <name lang="fr">Logement</name>
         <name lang="it">Abitazioni</name>
-        <name lang="rm">Fatgs d'abitaziuns</name>
       </topic>
       <topic id="481">
+        <name lang="de">Wohnen</name>
+        <name lang="en">Housing</name>
         <name lang="fr">Logement</name>
         <name lang="it">Abitazione</name>
         <name lang="rm">Abitar</name>
-        <name lang="de">Wohnen</name>
-        <name lang="en">Housing</name>
       </topic>
       <topic id="47">
+        <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
-        <name lang="it">Economia e piazza finanziaria</name>
       </topic>
       <topic id="25">
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
       </topic>
       <topic id="37">
-        <name lang="it">Consumo</name>
-        <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
+        <name lang="it">Consumo</name>
+        <name lang="rm">Consum</name>
       </topic>
     </topics>
     <offers/>

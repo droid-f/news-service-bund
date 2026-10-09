@@ -6,21 +6,21 @@
     <pubdate>2026-09-10</pubdate>
     <originator id="805" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Bundesamt für Verkehr</name>
       <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
-      <name lang="de">Bundesamt für Verkehr</name>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
+      <email lang="de">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="rm">presse@bav.admin.ch</email>
-      <email lang="de">presse@bav.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-478,ORG-805" org-id="805">
@@ -36,10 +36,10 @@
         <name lang="it">Trasferimento del traffico</name>
       </keyword>
       <keyword id="SLW-478,ORG-805" org-id="805">
-        <name lang="de">Verkehrsverlagerung</name>
-        <name lang="en">Transfert de la route au rail</name>
         <name lang="fr">Transfert du trafic</name>
         <name lang="it">Trasferimento del traffico</name>
+        <name lang="de">Verkehrsverlagerung</name>
+        <name lang="en">Transfert de la route au rail</name>
       </keyword>
     </keywords>
     <department id="801">
@@ -48,16 +48,16 @@
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -92,11 +92,11 @@
         <name lang="rm">Spustament dal traffic</name>
       </topic>
       <topic id="620">
+        <name lang="it">Trasporto di merci</name>
+        <name lang="rm">Transport da rauba</name>
         <name lang="de">Güterverkehr</name>
         <name lang="en">Freight services</name>
         <name lang="fr">Transport de marchandises</name>
-        <name lang="it">Trasporto di merci</name>
-        <name lang="rm">Transport da rauba</name>
       </topic>
       <topic id="619">
         <name lang="de">Eisenbahn</name>
@@ -106,17 +106,17 @@
         <name lang="rm">Viafier</name>
       </topic>
       <topic id="46">
+        <name lang="de">Verkehr &amp; Mobilität</name>
+        <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
         <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
-        <name lang="de">Verkehr &amp; Mobilität</name>
-        <name lang="en">Transport &amp; Mobility</name>
       </topic>
       <topic id="115">
-        <name lang="de">Mobilität</name>
-        <name lang="en">Mobility</name>
         <name lang="fr">Mobilité</name>
         <name lang="it">Mobilità</name>
+        <name lang="de">Mobilität</name>
+        <name lang="en">Mobility</name>
       </topic>
     </topics>
     <offers/>

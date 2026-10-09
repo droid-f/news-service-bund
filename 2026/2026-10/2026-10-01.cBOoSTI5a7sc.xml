@@ -6,28 +6,28 @@
     <pubdate>2026-10-01</pubdate>
     <originator id="408" department-msg="no" lead="no" topnews="no">
       <department-id>408</department-id>
+      <name lang="de">Bundesanwaltschaft</name>
+      <name lang="en">Office of the Attorney General of Switzerland</name>
       <name lang="fr">Ministère public de la Confédération</name>
       <name lang="it">Ministero pubblico della Confederazione</name>
       <name lang="rm">Procura publica federala</name>
-      <name lang="de">Bundesanwaltschaft</name>
-      <name lang="en">Office of the Attorney General of Switzerland</name>
       <www lang="de">https://www.bundesanwaltschaft.ch</www>
       <www lang="en">https://www.bundesanwaltschaft.ch/en</www>
       <www lang="fr">https://www.bundesanwaltschaft.ch/fr</www>
       <www lang="it">https://www.bundesanwaltschaft.ch/it</www>
+      <email lang="rm">info@ba.admin.ch</email>
       <email lang="de">info@ba.admin.ch</email>
       <email lang="en">info@ba.admin.ch</email>
       <email lang="fr">info@ba.admin.ch</email>
       <email lang="it">info@ba.admin.ch</email>
-      <email lang="rm">info@ba.admin.ch</email>
     </originator>
     <originator id="404" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="en">Federal Office of Police</name>
       <name lang="fr">Office fédéral de la police</name>
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
-      <name lang="de">Bundesamt für Polizei</name>
-      <name lang="en">Federal Office of Police</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
       <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
@@ -37,10 +37,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-73" org-id="404">
-        <name lang="de">Netzwerkkriminalität</name>
-        <name lang="en">Network crime</name>
         <name lang="fr">Cybercriminalité</name>
         <name lang="it">Cibercriminalità</name>
+        <name lang="de">Netzwerkkriminalität</name>
+        <name lang="en">Network crime</name>
       </keyword>
       <keyword id="SLW-73" org-id="404">
         <name lang="it">Cibercriminalità</name>
@@ -55,28 +55,28 @@
         <name lang="it">Cibercriminalità</name>
       </keyword>
       <keyword id="SLW-73" org-id="404">
-        <name lang="fr">Cybercriminalité</name>
-        <name lang="it">Cibercriminalità</name>
         <name lang="de">Netzwerkkriminalität</name>
         <name lang="en">Network crime</name>
+        <name lang="fr">Cybercriminalité</name>
+        <name lang="it">Cibercriminalità</name>
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <name lang="fr">Département fédéral de justice et police</name>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -112,11 +112,11 @@
     </content>
     <topics>
       <topic id="345">
-        <name lang="it">Cibersicurezza</name>
-        <name lang="rm">Cybersegirezza</name>
         <name lang="de">Cybersicherheit</name>
         <name lang="en">Cybersecurity</name>
         <name lang="fr">Cybersécurité</name>
+        <name lang="it">Cibersicurezza</name>
+        <name lang="rm">Cybersegirezza</name>
       </topic>
       <topic id="17">
         <name lang="de">Organisierte Kriminalität</name>
@@ -126,11 +126,11 @@
         <name lang="rm">Criminalitad organisada</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

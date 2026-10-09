@@ -23,63 +23,63 @@
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
-      <email lang="de">medien@bazg.admin.ch</email>
-      <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
       <email lang="it">medien@bazg.admin.ch</email>
       <email lang="rm">medien@bazg.admin.ch</email>
+      <email lang="de">medien@bazg.admin.ch</email>
+      <email lang="en">medien@bazg.admin.ch</email>
     </originator>
     <originator id="405" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Staatssekretariat für Migration</name>
       <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
       <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
+      <name lang="de">Staatssekretariat für Migration</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
+      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="rm">Departement federal da finanzas</name>
-      <www lang="en">https://www.efd.admin.ch/en</www>
-      <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
+      <www lang="en">https://www.efd.admin.ch/en</www>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <department id="401">
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
@@ -117,18 +117,18 @@
     </content>
     <topics>
       <topic id="680">
-        <name lang="rm">Protecziun dals cunfins</name>
         <name lang="de">Grenzschutz</name>
         <name lang="en">Border protection</name>
         <name lang="fr">Protection douanière</name>
         <name lang="it">Protezione doganale</name>
+        <name lang="rm">Protecziun dals cunfins</name>
       </topic>
       <topic id="4">
+        <name lang="it">Asilo</name>
         <name lang="rm">Asil</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
       </topic>
       <topic id="448">
         <name lang="de">Bundesratsgeschäfte</name>
@@ -138,18 +138,18 @@
         <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="48">
-        <name lang="en">Customs</name>
-        <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
         <name lang="de">Zoll</name>
+        <name lang="en">Customs</name>
+        <name lang="fr">Douanes</name>
       </topic>
       <topic id="20">
-        <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
         <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
+        <name lang="rm">Migraziun ed integraziun</name>
       </topic>
       <topic id="10">
         <name lang="rm">Cussegl federal</name>
