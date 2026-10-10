@@ -6,11 +6,11 @@
     <pubdate>2026-09-18</pubdate>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="rm">Gruppa da defensiun</name>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
@@ -24,20 +24,20 @@
     </originator>
     <originator id="507" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
-      <name lang="fr">Office fédéral de la protection de la population OFPP</name>
       <name lang="it">Ufficio federale della protezione della popolazione UFPP</name>
       <name lang="rm">Uffizi federal da protecziun da la populaziun</name>
       <name lang="de">Bundesamt für Bevölkerungsschutz BABS</name>
       <name lang="en">Federal Office for Civil Protection FOCP</name>
-      <www lang="de">http://www.babs.admin.ch/</www>
-      <www lang="en">http://www.babs.admin.ch/</www>
+      <name lang="fr">Office fédéral de la protection de la population OFPP</name>
       <www lang="fr">http://www.babs.admin.ch/</www>
       <www lang="it">http://www.babs.admin.ch/</www>
-      <email lang="it">media@babs.admin.ch</email>
-      <email lang="rm">media@babs.admin.ch</email>
+      <www lang="de">http://www.babs.admin.ch/</www>
+      <www lang="en">http://www.babs.admin.ch/</www>
       <email lang="de">media@babs.admin.ch</email>
       <email lang="en">media@babs.admin.ch</email>
       <email lang="fr">media@babs.admin.ch</email>
+      <email lang="it">media@babs.admin.ch</email>
+      <email lang="rm">media@babs.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -46,23 +46,23 @@
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <www lang="de">http://www.vbs.admin.ch/</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <originator id="317" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
+      <name lang="en">Federal Office of Public Health</name>
       <name lang="fr">Office fédéral de la santé publique</name>
       <name lang="it">Ufficio federale della sanità pubblica</name>
       <name lang="rm">Uffizi federal da sanadad publica</name>
-      <name lang="de">Bundesamt für Gesundheit</name>
-      <name lang="en">Federal Office of Public Health</name>
       <www lang="de">http://www.bag.admin.ch/</www>
       <email lang="de">media@bag.admin.ch</email>
       <email lang="en">media@bag.admin.ch</email>
@@ -84,16 +84,16 @@
       <www lang="fr">https://www.edi.admin.ch/fr</www>
     </department>
     <department id="501">
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
-      <www lang="en">https://www.vbs.admin.ch/en</www>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
+      <www lang="en">https://www.vbs.admin.ch/en</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -121,21 +121,21 @@
     </content>
     <topics>
       <topic id="6">
-        <name lang="de">Bevölkerungsschutz</name>
-        <name lang="en">Civil Protection</name>
         <name lang="fr">Protection de la population</name>
         <name lang="it">Protezione della popolazione</name>
         <name lang="rm">Protecziun da la populaziun</name>
+        <name lang="de">Bevölkerungsschutz</name>
+        <name lang="en">Civil Protection</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
       <topic id="110">
         <name lang="de">Sicherheit</name>

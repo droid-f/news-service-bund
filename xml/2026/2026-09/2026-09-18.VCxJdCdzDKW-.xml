@@ -6,33 +6,33 @@
     <pubdate>2026-09-18</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="404" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
+      <name lang="it">Ufficio federale di polizia</name>
+      <name lang="rm">Uffizi federal da polizia</name>
       <name lang="de">Bundesamt für Polizei</name>
       <name lang="en">Federal Office of Police</name>
       <name lang="fr">Office fédéral de la police</name>
-      <name lang="it">Ufficio federale di polizia</name>
-      <name lang="rm">Uffizi federal da polizia</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
+      <email lang="it">media@fedpol.admin.ch</email>
+      <email lang="rm">media@fedpol.admin.ch</email>
       <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
       <email lang="fr">media@fedpol.admin.ch</email>
-      <email lang="it">media@fedpol.admin.ch</email>
-      <email lang="rm">media@fedpol.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
@@ -46,21 +46,21 @@
     </originator>
     <keywords/>
     <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -88,18 +88,18 @@
     </content>
     <topics>
       <topic id="536">
-        <name lang="de">Innere Sicherheit</name>
-        <name lang="en">Domestic security</name>
         <name lang="fr">Sécurité intérieure</name>
         <name lang="it">Sicurezza interna</name>
         <name lang="rm">Segirezza interna</name>
+        <name lang="de">Innere Sicherheit</name>
+        <name lang="en">Domestic security</name>
       </topic>
       <topic id="448">
-        <name lang="it">Affari del Consiglio federale</name>
-        <name lang="rm">Affars dal Cussegl federal</name>
         <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
+        <name lang="it">Affari del Consiglio federale</name>
+        <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="40">
         <name lang="en">Security</name>
@@ -109,11 +109,11 @@
         <name lang="de">Sicherheit</name>
       </topic>
       <topic id="10">
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

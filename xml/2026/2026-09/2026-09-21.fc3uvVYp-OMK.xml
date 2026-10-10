@@ -11,9 +11,9 @@
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
       <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
       <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
+      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
       <www lang="de">https://www.blv.admin.ch</www>
-      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
@@ -28,10 +28,10 @@
         <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="it">Derrate alimentari</name>
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
         <name lang="fr">Denrées alimentaires</name>
+        <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
         <name lang="de">Lebensmittel</name>
@@ -41,11 +41,11 @@
       </keyword>
     </keywords>
     <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -78,11 +78,11 @@
     </content>
     <topics>
       <topic id="246">
-        <name lang="rm">Segirezza e qualitad en la chadaina da victualias</name>
         <name lang="de">Sicherheit &amp; Qualität in der Lebensmittelkette</name>
         <name lang="en">Safety &amp; quality in the food chain</name>
         <name lang="fr">Sécurité et qualité dans la chaîne alimentaire</name>
         <name lang="it">Sicurezza e qualità nella filiera agroalimentare</name>
+        <name lang="rm">Segirezza e qualitad en la chadaina da victualias</name>
       </topic>
       <topic id="330">
         <name lang="de">Rückrufe und Sicherheitsinformationen</name>
@@ -99,18 +99,18 @@
         <name lang="rm">Segirezza da victualias</name>
       </topic>
       <topic id="478">
+        <name lang="en">Consumer protection</name>
+        <name lang="fr">Protection des consommateurs</name>
         <name lang="it">Protezione dei consumatori</name>
         <name lang="rm">Protecziun da las consumentas e dals consuments</name>
         <name lang="de">Konsumentenschutz</name>
-        <name lang="en">Consumer protection</name>
-        <name lang="fr">Protection des consommateurs</name>
       </topic>
       <topic id="37">
+        <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
-        <name lang="it">Consumo</name>
       </topic>
     </topics>
     <offers/>

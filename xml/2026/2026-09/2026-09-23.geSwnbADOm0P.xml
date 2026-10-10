@@ -6,39 +6,39 @@
     <pubdate>2026-09-23</pubdate>
     <originator id="703" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="rm">Secretariat da stadi per l'economia</name>
       <name lang="de">Staatssekretariat für Wirtschaft</name>
       <name lang="en">State Secretariat for Economic Affairs</name>
       <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
-      <name lang="rm">Secretariat da stadi per l'economia</name>
-      <www lang="en">https://www.seco.admin.ch/en</www>
-      <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
       <www lang="de">https://www.seco.admin.ch</www>
+      <www lang="en">https://www.seco.admin.ch/en</www>
+      <www lang="fr">https://www.seco.admin.ch/fr</www>
+      <email lang="it">medien@seco.admin.ch</email>
       <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
-      <email lang="it">medien@seco.admin.ch</email>
     </originator>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <www lang="de">https://www.eda.admin.ch</www>
-      <www lang="en">https://www.eda.admin.ch/en</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -47,34 +47,34 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords/>
     <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -110,11 +110,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="353">
         <name lang="de">Energie Aktuelle Lage</name>
@@ -131,11 +131,11 @@
         <name lang="rm">Cooperaziun al svilup</name>
       </topic>
       <topic id="30">
+        <name lang="it">Situazioni straordinarie, crisi</name>
+        <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
-        <name lang="it">Situazioni straordinarie, crisi</name>
-        <name lang="rm">Situaziuns extraordinarias, crisas</name>
       </topic>
     </topics>
     <offers/>

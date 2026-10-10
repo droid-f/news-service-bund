@@ -6,34 +6,34 @@
     <pubdate>2026-09-22</pubdate>
     <originator id="605" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="en">Federal Tax Administration</name>
-      <name lang="fr">Administration fédérale des contributions</name>
       <name lang="it">Amministrazione federale delle contribuzioni</name>
       <name lang="rm">Administraziun federala da taglia</name>
       <name lang="de">Eidgenössische Steuerverwaltung</name>
+      <name lang="en">Federal Tax Administration</name>
+      <name lang="fr">Administration fédérale des contributions</name>
+      <www lang="en">https://www.estv.admin.ch/en</www>
+      <www lang="fr">https://www.estv.admin.ch/fr</www>
       <www lang="it">https://www.estv.admin.ch/it</www>
       <www lang="rm">https://www.estv.admin.ch/de</www>
       <www lang="de">https://www.estv.admin.ch/de</www>
-      <www lang="en">https://www.estv.admin.ch/en</www>
-      <www lang="fr">https://www.estv.admin.ch/fr</www>
-      <email lang="rm">media@estv.admin.ch</email>
       <email lang="de">media@estv.admin.ch</email>
       <email lang="en">media@estv.admin.ch</email>
       <email lang="fr">media@estv.admin.ch</email>
       <email lang="it">media@estv.admin.ch</email>
+      <email lang="rm">media@estv.admin.ch</email>
     </originator>
     <originator id="601" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -42,28 +42,16 @@
     </originator>
     <keywords>
       <keyword id="SLW-149" org-id="601">
-        <name lang="fr">Impôt à la source</name>
-        <name lang="it">Imposta alla fonte</name>
         <name lang="de">Quellensteuer</name>
-        <name lang="en">Withholding tax</name>
-      </keyword>
-      <keyword id="SLW-136" org-id="601">
-        <name lang="de">Steuersystem</name>
-        <name lang="en">Tax system</name>
-        <name lang="fr">Système fiscal</name>
-        <name lang="it">Sistema fiscale</name>
-      </keyword>
-      <keyword id="SLW-149" org-id="601">
         <name lang="en">Withholding tax</name>
         <name lang="fr">Impôt à la source</name>
         <name lang="it">Imposta alla fonte</name>
-        <name lang="de">Quellensteuer</name>
       </keyword>
       <keyword id="SLW-136" org-id="601">
+        <name lang="it">Sistema fiscale</name>
         <name lang="de">Steuersystem</name>
         <name lang="en">Tax system</name>
         <name lang="fr">Système fiscal</name>
-        <name lang="it">Sistema fiscale</name>
       </keyword>
       <keyword id="SLW-149" org-id="601">
         <name lang="de">Quellensteuer</name>
@@ -72,18 +60,30 @@
         <name lang="it">Imposta alla fonte</name>
       </keyword>
       <keyword id="SLW-136" org-id="601">
-        <name lang="fr">Système fiscal</name>
         <name lang="it">Sistema fiscale</name>
         <name lang="de">Steuersystem</name>
         <name lang="en">Tax system</name>
+        <name lang="fr">Système fiscal</name>
+      </keyword>
+      <keyword id="SLW-149" org-id="601">
+        <name lang="de">Quellensteuer</name>
+        <name lang="en">Withholding tax</name>
+        <name lang="fr">Impôt à la source</name>
+        <name lang="it">Imposta alla fonte</name>
+      </keyword>
+      <keyword id="SLW-136" org-id="601">
+        <name lang="de">Steuersystem</name>
+        <name lang="en">Tax system</name>
+        <name lang="fr">Système fiscal</name>
+        <name lang="it">Sistema fiscale</name>
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
@@ -121,18 +121,18 @@
     </content>
     <topics>
       <topic id="6">
+        <name lang="rm">Taglia federala directa</name>
         <name lang="de">Direkte Bundessteuer</name>
         <name lang="en">Direct federal tax</name>
         <name lang="fr">Impôt fédéral direct</name>
         <name lang="it">Imposta federale diretta</name>
-        <name lang="rm">Taglia federala directa</name>
       </topic>
       <topic id="44">
-        <name lang="rm">Taglias</name>
         <name lang="de">Steuern</name>
         <name lang="en">Taxation</name>
         <name lang="fr">Impôts</name>
         <name lang="it">Imposte</name>
+        <name lang="rm">Taglias</name>
       </topic>
     </topics>
     <offers/>

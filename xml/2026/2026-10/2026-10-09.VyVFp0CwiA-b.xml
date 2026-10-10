@@ -6,16 +6,16 @@
     <pubdate>2026-10-09</pubdate>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="rm">Gruppa da defensiun</name>
-      <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
+      <www lang="it">http://www.vtg.admin.ch/it</www>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
@@ -29,15 +29,15 @@
       <name lang="fr">Office fédéral de la protection de la population OFPP</name>
       <name lang="it">Ufficio federale della protezione della popolazione UFPP</name>
       <name lang="rm">Uffizi federal da protecziun da la populaziun</name>
-      <www lang="de">http://www.babs.admin.ch/</www>
       <www lang="en">http://www.babs.admin.ch/</www>
       <www lang="fr">http://www.babs.admin.ch/</www>
       <www lang="it">http://www.babs.admin.ch/</www>
-      <email lang="it">media@babs.admin.ch</email>
-      <email lang="rm">media@babs.admin.ch</email>
+      <www lang="de">http://www.babs.admin.ch/</www>
       <email lang="de">media@babs.admin.ch</email>
       <email lang="en">media@babs.admin.ch</email>
       <email lang="fr">media@babs.admin.ch</email>
+      <email lang="it">media@babs.admin.ch</email>
+      <email lang="rm">media@babs.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -46,28 +46,28 @@
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -95,46 +95,46 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="6">
+        <name lang="de">Bevölkerungsschutz</name>
         <name lang="en">Civil Protection</name>
         <name lang="fr">Protection de la population</name>
         <name lang="it">Protezione della popolazione</name>
         <name lang="rm">Protecziun da la populaziun</name>
-        <name lang="de">Bevölkerungsschutz</name>
       </topic>
       <topic id="414">
+        <name lang="rm">Catastrofas</name>
         <name lang="de">Katastrophen</name>
         <name lang="en">Disasters</name>
         <name lang="fr">Catastrophes</name>
         <name lang="it">Catastrofi</name>
-        <name lang="rm">Catastrofas</name>
       </topic>
       <topic id="34">
+        <name lang="de">Schweiz und Europa</name>
+        <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
-        <name lang="en">Switzerland and Europe </name>
       </topic>
       <topic id="40">
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
       </topic>
       <topic id="30">
+        <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
-        <name lang="rm">Situaziuns extraordinarias, crisas</name>
       </topic>
     </topics>
     <offers/>

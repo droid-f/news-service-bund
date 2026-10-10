@@ -1,0 +1,326 @@
+{
+  "date": "2025-05-13",
+  "id": "ODCRzsCwSCErvFop8bxAo",
+  "languages": {
+    "de": {
+      "coPublisherTags": [],
+      "coPublisherTopics": [],
+      "coPublishers": [],
+      "content": {
+        "metadata": {
+          "announcementDate": "2025-05-12T00:00:00.000Z",
+          "description": "Forschende am Paul Scherrer Institut PSI haben eine künstliche Intelligenz entwickelt, die einen neuen, kostengünstigen Ansatz zur Identifikation genetischer Störungsmuster in Zellbildern eröffnen könnte – mit Potenzial für die Entwicklung neuer Medikamente.",
+          "gdAudience": [
+            "143"
+          ],
+          "gdContactData": [
+            "gd_889"
+          ],
+          "gdNewsCategory": "medienmitteilung",
+          "gdSubscriberTopicLevel1": [
+            "384"
+          ],
+          "gdSubscriberTopicLevel2": [
+            "474"
+          ],
+          "language": {
+            "groupId": "ODCRzsCwSCErvFop8bxAo",
+            "locale": "de"
+          },
+          "metaDescription": "Forschende am Paul Scherrer Institut PSI haben eine künstliche Intelligenz entwickelt, die einen neuen, kostengünstigen Ansatz zur Identifikation genetischer Störungsmuster in Zellbildern eröffnen könnte – mit Potenzial für die Entwicklung neuer Medikamente.",
+          "metaTitle": "Mit KI genetische Störungen in Zellbildern erkennen",
+          "newsLocation": "Villigen",
+          "openGraphDescription": "Forschende am Paul Scherrer Institut PSI haben eine künstliche Intelligenz entwickelt, die einen neuen, kostengünstigen Ansatz zur Identifikation genetischer Störungsmuster in Zellbildern eröffnen könnte – mit Potenzial für die Entwicklung neuer Medikamente.",
+          "openGraphTitle": "Mit KI genetische Störungen in Zellbildern erkennen",
+          "openGraphType": "article",
+          "seoRobots": "all",
+          "slug": "mit-ki-genetische-stoerungen-in-zellbildern-erkennen",
+          "title": "Mit KI genetische Störungen in Zellbildern erkennen",
+          "twitterCard": "summary",
+          "twitterDescription": "Forschende am Paul Scherrer Institut PSI haben eine künstliche Intelligenz entwickelt, die einen neuen, kostengünstigen Ansatz zur Identifikation genetischer Störungsmuster in Zellbildern eröffnen könnte – mit Potenzial für die Entwicklung neuer Medikamente.",
+          "twitterTitle": "Mit KI genetische Störungen in Zellbildern erkennen"
+        },
+        "systemdata": {
+          "channelId": 116,
+          "contentType": "nsb-complex-news-page",
+          "design": {
+            "name": "p:121:116",
+            "version": "16.0.0"
+          },
+          "documentId": 3085,
+          "documentType": "page",
+          "firstPublicationDate": "2025-05-13T13:16:07.672Z",
+          "lastPublicationDate": "2025-05-13T13:37:14.103Z",
+          "layout": "nsb-complex-news-page",
+          "projectId": 121,
+          "publicationId": 3995,
+          "significantPublicationDate": "2025-05-13T13:16:07.672Z",
+          "title": "Mit KI genetische Störungen in Zellbildern erkennen",
+          "updatedAt": "2025-05-13T13:37:14.103Z",
+          "version": 63,
+          "visiblePublicationDate": "2025-05-13T13:16:00.000Z"
+        }
+      },
+      "description": "Forschende am Paul Scherrer Institut PSI haben eine künstliche Intelligenz entwickelt, die einen neuen, kostengünstigen Ansatz zur Identifikation genetischer Störungsmuster in Zellbildern eröffnen könnte – mit Potenzial für die Entwicklung neuer Medikamente.",
+      "id": "psi_3085",
+      "kind": "CONTENT_HUB",
+      "lang": "de",
+      "langGroupId": "ODCRzsCwSCErvFop8bxAo",
+      "location": "Villigen",
+      "newsCategory": "medienmitteilung",
+      "publishDate": "2025-05-13T13:16:00Z",
+      "publishers": [
+        "759"
+      ],
+      "tags": [],
+      "text": [
+        "<p>In der modernen Medizin stehen die frühe Erkennung und gezielte Beeinflussung krankheitsrelevanter Gene im Zentrum therapeutischer Strategien. Besonders bei komplexen Erkrankungen wie Krebs, neurodegenerativen Leiden wie Alzheimer oder chronischen Entzündungen, die mit Alterungsprozessen einhergehen, liegt die Herausforderung nicht allein im Erkennen einzelner Gene, sondern im Verstehen ihrer Regulationsnetzwerke. Eine zunehmend anerkannte Schlüsselrolle spielt dabei die dreidimensionale Organisation der DNA im Zellkern – das sogenannte Chromatin.</p>",
+        "<p>Die Analyse solcher genetischer Veränderungen erforderte bislang aufwendige und teuere Genexpressions- oder Sequenzierungsverfahren. In einer im Magazin <em>Cell Systems</em> veröffentlichten Arbeit präsentieren Forschende um G.V. Shivashankar – Leiter des Labors für multiskalare biologische Bildgebung am Zentrum für Life Sciences des PSI und Professor für Mechano-Genomik an der ETH Zürich – sowie Caroline Uhler, Direktorin des Eric and Wendy Schmidt Center am Broad Institute und Professorin für Elektrotechnik und Informatik am MIT, nun einen neuen Ansatz: Gemeinsam mit den Nachwuchsforschenden Daniel Paysan, Adityanarayanan Radhakrishnan und Xinyi Zhang  entwickelten sie eine künstliche Intelligenz (KI) namens Image2Reg. Mit ihr lassen sich möglicherweise genetische Störungen und potenzielle Zielstrukturen von Medikamenten allein auf Basis einfacher mikroskopischer Aufnahmen vom Zellkern erkennen, wie sie etwa nach der blau fluoreszierenden Hoechst-Färbung vorliegen. «Die Verbindung von Bildgebung, maschinellem Lernen und molekularen Netzwerken kann am Ende einen diagnostischen und therapeutischen Zugang ermöglichen, der sowohl schnell als auch kostengünstig ist», erklärt Shivashankar.</p>",
+        "<h2>KI entwickelt ein «Auge» für Aktivität im Chromatin, …</h2>",
+        "<p>Im ersten Schritt von Image2Reg (die Abkürzung steht für <em>Image to Regulation</em>, zu Deutsch: vom Zellbild zur Genregulation) nutzen die Forschenden die Tatsache, dass sich die dreidimensionale Struktur des Zellkerns – gemeint ist das Chromatin, sprich die Verpackung der DNA – sichtbar verändert, wenn ein bestimmtes Gen in seiner Aktivität gestört oder experimentell übersteuert wird. In diesem Fall zeigen die Bilder oftmals sehr feine, aber systematische Veränderungen im Erscheinungsbild des Chromatins.</p>",
+        "<p>Die Forschenden trainierten anschliessend einen lernfähigen Algorithmus – ein sogenanntes <em>Convolutional Neural Network</em> (CNN), eine auf Bildverarbeitung spezialisierte Form der künstlichen Intelligenz – darauf, diese Muster zu erkennen. Die KI entwickelte so ein «Auge» für die typischen Spuren, die eine Aktivität im Chromatinbild hinterlässt.</p>",
+        "<h2>… baut ein Netzwerk aus zellulären Beziehungen auf…</h2>",
+        "<p>Parallel zur Bildauswertung baut Image2Reg ein zelltypspezifisches biologisches Netzwerk auf, das beschreibt, wie Gene im Inneren der Zelle miteinander in Beziehung stehen. Dieses Netzwerk beruht auf zwei bewährten Grundlagen der Molekularbiologie: Zum einen auf bekannten Protein-Protein-Interaktionen – also darauf, welche Eiweisse miteinander in Kontakt treten und dabei biochemische Prozesse auslösen. Zum anderen fliessen Genexpressionsdaten ein – sowohl aus Einzelzellanalysen als auch aus klassischen Sammelmessungen, bei denen die Aktivität vieler Zellen im Durchschnitt erfasst wird. Diese Daten zeigen, welche Gene gleichzeitig aktiv sind und sich möglicherweise gegenseitig beeinflussen oder regulieren.</p>",
+        "<p>Diese Informationen werden schliesslich in einem Rechenmodell zusammengeführt. Das Modell verarbeitet die komplexen Verknüpfungen zwischen den Genen und erstellt daraus für jedes einzelne Gen eine Zahlenrepräsentation, die dessen Funktion, Rolle und Vernetzung im biologischen System widerspiegelt. Entstehen soll so eine Art «Regelbuch der Zelle», eine Beschreibung, welche Gene gemeinsam wirken, einander regulieren oder bestimmten Signalwegen zugeordnet sind – unabhängig davon, wie sie sich äusserlich im Zellbild zeigen.</p>",
+        "<h2>… und verknüpft Bild und Biologie</h2>",
+        "<p>Im letzten und entscheidenden Schritt bringt Image2Reg die beiden zuvor gewonnenen Erkenntniswelten – die bildbasierte Darstellung des Zellkerns und das molekulare Wissen über die Genvernetzung – miteinander in Verbindung. Dies geschieht mithilfe eines mathematischen Verfahrens, einer sogenannten Kernel-Maschine, genauer gesagt mit dem Neural Tangent Kernel (NTK). Dieses Modell lernt, wie sich die Zahlenmuster aus der Bildanalyse – also das, was das neuronale Netz aus dem Zellbild herausliest – mit den funktionalen Beziehungen der Gene im biologischen Netzwerk in Übereinstimmung bringen lassen.</p>",
+        "<h2>Korrekte Vorhersagen weit über Zufallsniveau</h2>",
+        "<p>Für das Training der KI standen den Forschenden nahezu eine Million Einzelzellbilder zur Verfügung – ein Teil davon aus unbehandelten Kontrollzellen, der andere aus Zellen, bei denen gezielt jeweils ein Gen überaktiviert wurde.</p>",
+        "<p>Im anschliessenden Test sollte das Modell allein anhand der Zellbilder erkennen, welches von 41 möglichen Genen verändert worden war. Dabei erreichte die KI eine Genauigkeit von 26 Prozent. Sie konnte also bei jeder vierten Zelle korrekt bestimmen, welches Gen verändert wurde. Zum Vergleich: Nach dem Zufallsprinzip läge die Trefferquote bei rund zwei Prozent. Die Forschenden werten dieses Ergebnis als klaren Hinweis, dass erkennbare Muster in der Zellstruktur existieren, die mit bestimmten Genen verbunden sind und sich mittels Bildanalyse erkennen lassen. «Es ist ein Brückenschlag zwischen Form und Funktion, zwischen Bild und Biologie», erklärt Caroline Uhler.</p>",
+        "<h2>Ein Werkzeug für Diagnostik und Therapie</h2>",
+        "<p>Noch steht das Image2Reg-Verfahren am Anfang. Doch es eröffnet eine Reihe praktischer und medizinisch relevanter Anwendungsmöglichkeiten. Viele Krankheiten – etwa Krebs, Alzheimer oder Autoimmunerkrankungen – entstehen durch Störungen in der Genregulation. Die Autoren sehen in Image2Reg ein Werkzeug, mit dem sich erkennen lässt, welche Gene durch eine Krankheit oder eine Therapie beeinflusst wurden – ganz ohne aufwendige experimentelle Analysen. Ziel ist es letztlich, mit diesem Verfahren, Krankheiten frühzeitig zu erkennen – lange bevor klassische Marker wie Proteine, RNA oder bekannte Symptome messbar werden.</p>",
+        "<p>In einem neugegründeten Start-up wollen die Forschenden ihre Erkenntnisse nutzen, um eine Therapie für die bisher nicht heilbaren Fibrosen zu entwickeln. Bei diesem Krankheitsbild ersetzt der Körper funktionsfähiges durch narbenartiges, festes Gewebe. Dies führt langfristig zu einer Einschränkung der Organfunktion. Häufig betroffen sind die Lunge, die Leber oder das Herz.</p>",
+        "<h2>So funktioniert Image2Reg</h2>",
+        "<ul><li><strong>Zellbild-Analyse</strong><br> Die KI erkennt subtile Strukturveränderungen im Chromatin mithilfe eines Convolutional Neural Network (CNN).</li><li><strong>Netzwerkaufbau</strong><br> Parallel entsteht ein zelltypspezifisches Netzwerk – basierend auf bekannten Proteininteraktionen und Genexpressionsdaten. Jedes Gen erhält dabei eine mathematische Repräsentation seiner Funktion im Zellgefüge.</li><li><strong>Integration beider Ebenen</strong><br> Mithilfe des Neural Tangent Kernel (NTK) werden Bild- und Netzwerkdaten zusammengeführt, um die Genaktivität sichtbar zu machen.</li></ul>",
+        "<p>Text: Werner Siefer</p>",
+        "<h2>Über das PSI</h2>",
+        "<p>Das Paul Scherrer Institut PSI entwickelt, baut und betreibt grosse und komplexe Forschungsanlagen und stellt sie der nationalen und internationalen Forschungsgemeinde zur Verfügung. Eigene Forschungsschwerpunkte sind Zukunftstechnologien, Energie und Klima, Health Innovation und Grundlagen der Natur. Die Ausbildung von jungen Menschen ist ein zentrales Anliegen des PSI. Deshalb sind etwa ein Viertel unserer Mitarbeitenden Postdoktorierende, Doktorierende oder Lernende. Insgesamt beschäftigt das PSI 2300 Mitarbeitende, das damit das grösste Forschungsinstitut der Schweiz ist. Das Jahresbudget beträgt rund CHF 460 Mio.</p>",
+        "<h2>Kontakt</h2>",
+        "<p>Prof. Dr. G.V. Shivashankar<br> Center for Life Sciences<br> Paul Scherrer Institut PSI<br> <br> +41 56 310 42 50<br> <a href=\"mailto:gv.shivashankar@psi.ch\">gv.shivashankar@psi.ch</a><br> [Englisch]</p>",
+        "<h2>Originalveröffentlichung</h2>",
+        "<p><strong>Image2Reg: Linking Chromatin Images to Gene Regulation using Genetic and Chemical Perturbation Screens</strong><strong><br> </strong>D. Paysan, A. Radhakrishnan, X. Zhang, G.V. Shivashankar, C. Uhler<br> <em>Cell Systems</em>, 12.5.2025 (online)<br> DOI: 10.1016/j.cels.2025.101293</p>"
+      ],
+      "title": "Mit KI genetische Störungen in Zellbildern erkennen",
+      "topics": [
+        "384",
+        "474"
+      ]
+    },
+    "en": {
+      "coPublisherTags": [],
+      "coPublisherTopics": [],
+      "coPublishers": [],
+      "content": {
+        "metadata": {
+          "announcementDate": "2025-05-12T00:00:00.000Z",
+          "description": "Researchers at the Paul Scherrer Institute PSI have developed an AI that could open up a new, cost-effective approach to identifying genetic perturbation patterns in cell images – potentially enabling the development of new drugs.",
+          "gdAudience": [
+            "143"
+          ],
+          "gdContactData": [
+            "gd_889"
+          ],
+          "gdNewsCategory": "medienmitteilung",
+          "gdSubscriberTopicLevel1": [
+            "384"
+          ],
+          "gdSubscriberTopicLevel2": [
+            "474"
+          ],
+          "language": {
+            "groupId": "ODCRzsCwSCErvFop8bxAo",
+            "locale": "en"
+          },
+          "metaDescription": "Researchers at the Paul Scherrer Institute PSI have developed an AI that could open up a new, cost-effective approach to identifying genetic perturbation patterns in cell images – potentially enabling the development of new drugs.",
+          "metaTitle": "Using AI to identify genetic perturbations from cell images",
+          "newsLocation": "Villigen",
+          "openGraphDescription": "Researchers at the Paul Scherrer Institute PSI have developed an AI that could open up a new, cost-effective approach to identifying genetic perturbation patterns in cell images – potentially enabling the development of new drugs.",
+          "openGraphTitle": "Using AI to identify genetic perturbations from cell images",
+          "openGraphType": "article",
+          "seoRobots": "all",
+          "slug": "mit-ki-genetische-stoerungen-in-zellbildern-erkennen",
+          "title": "Using AI to identify genetic perturbations from cell images",
+          "twitterCard": "summary",
+          "twitterDescription": "Researchers at the Paul Scherrer Institute PSI have developed an AI that could open up a new, cost-effective approach to identifying genetic perturbation patterns in cell images – potentially enabling the development of new drugs.",
+          "twitterTitle": "Using AI to identify genetic perturbations from cell images"
+        },
+        "systemdata": {
+          "channelId": 116,
+          "contentType": "nsb-complex-news-page",
+          "design": {
+            "name": "p:121:116",
+            "version": "16.0.0"
+          },
+          "documentId": 3091,
+          "documentType": "page",
+          "firstPublicationDate": "2025-05-13T14:18:48.173Z",
+          "lastPublicationDate": "2025-05-13T14:18:48.173Z",
+          "layout": "nsb-complex-news-page",
+          "projectId": 121,
+          "publicationId": 4002,
+          "significantPublicationDate": "2025-05-13T14:18:48.173Z",
+          "title": "Using AI to identify genetic perturbations from cell images",
+          "updatedAt": "2025-05-13T14:18:48.173Z",
+          "version": 35,
+          "visiblePublicationDate": "2025-05-13T14:18:48.173Z"
+        }
+      },
+      "description": "Researchers at the Paul Scherrer Institute PSI have developed an AI that could open up a new, cost-effective approach to identifying genetic perturbation patterns in cell images – potentially enabling the development of new drugs.",
+      "id": "psi_3091",
+      "kind": "CONTENT_HUB",
+      "lang": "en",
+      "langGroupId": "ODCRzsCwSCErvFop8bxAo",
+      "location": "Villigen",
+      "newsCategory": "medienmitteilung",
+      "publishDate": "2025-05-13T14:18:48.173Z",
+      "publishers": [
+        "759"
+      ],
+      "tags": [],
+      "text": [
+        "<p>The therapeutic strategies adopted by modern medicine focus on the early detection and targeted manipulation of disease-related genes. Particularly for complex diseases such as cancer, neurodegenerative diseases such as Alzheimer’s and chronic inflammations associated with ageing, the challenge is not just to identify individual genes but also to understanding their regulatory networks. It is becoming increasingly clear that the three-dimensional organisation of DNA in the cell nucleus – known as chromatin – plays a key role.</p>",
+        "<p>Until now, analysing such genetic changes has relied on complex and expensive gene expression or sequencing techniques. In a paper published in the journal <em>Cell Systems</em>, researchers led by G.V. Shivashankar – head of the Laboratory of Multiscale Bioimaging at the PSI Center for Life Sciences and Professor of Mechano-Genomics at ETH Zurich – and Caroline Uhler, Director of the Eric and Wendy Schmidt Center at the Broad Institute and Professor of Electrical Engineering and Computer Science at MIT have now presented a new approach: Together with their student colleagues Daniel Paysan, Adityanarayanan Radhakrishnan, and Xinyi Zhang, they developed an artificial intelligence (AI) system called Image2Reg. This may allow genetic perturbations and potential drug targets to be identified based solely on simple microscopic images of the cell nucleus, such as those obtained after Hoechst staining with blue fluorescent dyes. “The combination of imaging, machine learning and molecular networks may ultimately enable diagnostic and therapeutic access that is both rapid and cost-effective,” explains Shivashankar.</p>",
+        "<h2>AI develops an “eye” for activity in chromatin …</h2>",
+        "<p>In the first step of Image2Reg (which stands for <em>Image to Regulation</em>, i.e. from cell image to gene regulation), the researchers make use of the fact that the three-dimensional structure of the cell nucleus – the chromatin in which the DNA is packaged – is visibly altered when the activity of a particular gene is disrupted or experimentally overstimulated. The resulting images often display very subtle but systematic changes in the appearance of the chromatin.</p>",
+        "<p>The researchers then trained an adaptive algorithm – a <em>convolutional neural network</em> (CNN), a form of artificial intelligence specialising in image processing – to recognise these patterns. The AI developed an “eye” for the typical traces left by an activity in the chromatin image.</p>",
+        "<h2>… builds a network of cellular relationships …</h2>",
+        "<p>While image analysis is taking place, Image2Reg constructs a biological network specific to the type of cell in question, which describes how the genes inside the cell are related to each other. This network is based on two well-established principles of molecular biology: Firstly, on known protein-protein interactions – in other words, which proteins come into contact with each other and trigger biochemical processes. Secondly, it includes data on gene expression – drawn both from the analysis of individual cells and from classical collective measurements, in which the average activity of a large number of cells is recorded. These data show which genes are active at the same time and might influence or regulate each other.</p>",
+        "<p>Finally, this information is summarised in the form of a mathematical model. The model processes the complex links between the genes and creates a numerical representation of each individual gene, reflecting its function, role and connectivity within the biological system. The aim is to create a kind of “rule book” for the cell, a description of which genes work together, regulate each other or are assigned to certain signalling pathways – regardless of how they manifest themselves in the cell image.</p>",
+        "<h2>... and combines image and biology</h2>",
+        "<p>In the final and decisive step, Image2Reg brings together the two spheres of understanding previously acquired – the image-based visualisation of the cell nucleus and the molecular knowledge of the gene network. This is done using a mathematical process known as a kernel machine, more specifically the neural tangent kernel (NTK). This model learns how the numerical patterns deduced from image analysis – i.e. what the neural network deduces from the cell images – can be matched with the functional relationship between the genes in the biological network.</p>",
+        "<h2>Correct predictions far above random level</h2>",
+        "<p>Almost a million single cell images were available to the researchers for training the AI – some came from untreated control cells, the others from cells in which a single gene had been deliberately overactivated.</p>",
+        "<p>In the subsequent test, the model was asked to identify which of 41 possible genes had been altered, based solely on the cell images. The AI was 26 percent accurate. In other words, in one in four cells it correctly determined which gene had been modified. Based on chance alone, by comparison, its success rate would have been around two percent. The researchers see this as a clear indication that recognisable patterns exist in the structure of the cell, that these are linked to certain genes and that they can be identified using image analysis. “It builds a bridge between form and function, between image and biology,” explains Caroline Uhler.</p>",
+        "<h2>A tool for diagnosis and treatment</h2>",
+        "<p>The Image2Reg process is still in its infancy. However, it opens the way to a range of practical applications with great medical pertinence. Many diseases – such as cancer, Alzheimer’s or autoimmune disorders – arise from disturbances in gene regulation. The authors envision that Image2Reg could be used to identify which genes are affected by a disease or a therapy – without the need for elaborate experimental analyses. Ultimately the hope is that this process will allow diseases to be identified in their early stages, long before classical markers such as proteins, RNA or known symptoms can be measured.</p>",
+        "<p>At a newly founded start-up company, the researchers want to use their findings to develop a therapy for fibrosis, which is currently incurable. In this clinical condition, the body replaces functional tissue with hard, scar-like tissue. In the long term, this reduces organ function. The lungs, liver and heart are frequently affected.</p>",
+        "<h2>How Image2Reg works</h2>",
+        "<ul><li><strong>Analysing cell image</strong> <br> The AI identifies subtle changes in the structure of the chromatin using a convolutional neural network (CNN).</li><li><strong>Developing network</strong> <br> At the same time, a network is being created specific to the type of cell – based on known protein interactions and gene expression data. Each gene is assigned a mathematical representation of its function within the cell framework.</li><li><strong>Integrating the two levels</strong><br> The neural tangent kernel (NTK) merges the image and network data to make the gene activity visible.</li></ul>",
+        "<p>Text: Werner Siefer</p>",
+        "<h2>About PSI</h2>",
+        "<p>The Paul Scherrer Institute PSI develops, builds and operates large, complex research facilities and makes them available to the national and international research community. The institute's own key research priorities are in the fields of future technologies, energy and climate, health innovation and fundamentals of nature. PSI is committed to the training of future generations. Therefore about one quarter of our staff are post-docs, post-graduates or apprentices. Altogether PSI employs 2300 people, thus being the largest research institute in Switzerland. The annual budget amounts to approximately CHF 460 million. PSI is part of the ETH Domain, with the other members being the two Swiss Federal Institutes of Technology, ETH Zurich and EPFL Lausanne, as well as Eawag (Swiss Federal Institute of Aquatic Science and Technology), Empa (Swiss Federal Laboratories for Materials Science and Technology) and WSL (Swiss Federal Institute for Forest, Snow and Landscape Research).</p>",
+        "<h2>Contact</h2>",
+        "<p>Prof. Dr. G.V. Shivashankar<br> Center for Life Sciences<br> Paul Scherrer Institute PSI<br> <br> +41 56 310 42 50<br> <a href=\"mailto:gv.shivashankar@psi.ch\">gv.shivashankar@psi.ch</a><br> [anglais]</p>",
+        "<h2>Original publication</h2>",
+        "<p><strong>Image2Reg: Linking Chromatin Images to Gene Regulation using Genetic and Chemical Perturbation Screens</strong><strong><br> </strong>D. Paysan, A. Radhakrishnan, X. Zhang, G.V. Shivashankar, C. Uhler<br> <em>Cell Systems</em>, 12.5.2025 (online)<br> DOI: 10.1016/j.cels.2025.101293</p>"
+      ],
+      "title": "Using AI to identify genetic perturbations from cell images",
+      "topics": [
+        "384",
+        "474"
+      ]
+    },
+    "fr": {
+      "coPublisherTags": [],
+      "coPublisherTopics": [],
+      "coPublishers": [],
+      "content": {
+        "metadata": {
+          "announcementDate": "2025-05-12T00:00:00.000Z",
+          "description": "Des scientifiques à l’Institut Paul Scherrer PSI ont mis au point une intelligence artificielle qui pourrait permettre l’avènement d’une nouvelle approche peu coûteuse pour identifier des modèles de perturbations génétiques dans des images cellulaires – avec un potentiel pour le développement de nouveaux médicaments.",
+          "gdAudience": [
+            "143"
+          ],
+          "gdContactData": [
+            "gd_889"
+          ],
+          "gdNewsCategory": "medienmitteilung",
+          "gdSubscriberTopicLevel1": [
+            "384"
+          ],
+          "gdSubscriberTopicLevel2": [
+            "474"
+          ],
+          "language": {
+            "groupId": "ODCRzsCwSCErvFop8bxAo",
+            "locale": "fr"
+          },
+          "metaDescription": "Des scientifiques à l’Institut Paul Scherrer PSI ont mis au point une intelligence artificielle qui pourrait permettre l’avènement d’une nouvelle approche peu coûteuse pour identifier des modèles de perturbations génétiques dans des images cellulaires – avec un potentiel pour le développement de nouveaux médicaments.",
+          "metaTitle": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA",
+          "newsLocation": "Villigen",
+          "openGraphDescription": "Des scientifiques à l’Institut Paul Scherrer PSI ont mis au point une intelligence artificielle qui pourrait permettre l’avènement d’une nouvelle approche peu coûteuse pour identifier des modèles de perturbations génétiques dans des images cellulaires – avec un potentiel pour le développement de nouveaux médicaments.",
+          "openGraphTitle": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA",
+          "openGraphType": "article",
+          "seoRobots": "all",
+          "slug": "mit-ki-genetische-stoerungen-in-zellbildern-erkennen",
+          "title": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA",
+          "twitterCard": "summary",
+          "twitterDescription": "Des scientifiques à l’Institut Paul Scherrer PSI ont mis au point une intelligence artificielle qui pourrait permettre l’avènement d’une nouvelle approche peu coûteuse pour identifier des modèles de perturbations génétiques dans des images cellulaires – avec un potentiel pour le développement de nouveaux médicaments.",
+          "twitterTitle": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA"
+        },
+        "systemdata": {
+          "channelId": 116,
+          "contentType": "nsb-complex-news-page",
+          "design": {
+            "name": "p:121:116",
+            "version": "16.0.0"
+          },
+          "documentId": 3088,
+          "documentType": "page",
+          "firstPublicationDate": "2025-05-13T13:53:32.868Z",
+          "lastPublicationDate": "2025-05-13T13:57:18.205Z",
+          "layout": "nsb-complex-news-page",
+          "projectId": 121,
+          "publicationId": 4001,
+          "significantPublicationDate": "2025-05-13T13:53:32.868Z",
+          "title": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA",
+          "updatedAt": "2025-05-13T13:57:18.205Z",
+          "version": 50,
+          "visiblePublicationDate": "2025-05-13T13:53:32.868Z"
+        }
+      },
+      "description": "Des scientifiques à l’Institut Paul Scherrer PSI ont mis au point une intelligence artificielle qui pourrait permettre l’avènement d’une nouvelle approche peu coûteuse pour identifier des modèles de perturbations génétiques dans des images cellulaires – avec un potentiel pour le développement de nouveaux médicaments.",
+      "id": "psi_3088",
+      "kind": "CONTENT_HUB",
+      "lang": "fr",
+      "langGroupId": "ODCRzsCwSCErvFop8bxAo",
+      "location": "Villigen",
+      "newsCategory": "medienmitteilung",
+      "publishDate": "2025-05-13T13:53:32.868Z",
+      "publishers": [
+        "759"
+      ],
+      "tags": [],
+      "text": [
+        "<p>Dans la médecine moderne, la détection précoce et l’influence ciblée des gènes impliqués dans les maladies sont au cœur des stratégies thérapeutiques. Dans le cas de pathologies complexes, telles que le cancer, les affections neurodégénératives comme la maladie d’Alzheimer ou les inflammations chroniques associées au vieillissement, le défi réside dans l’identification des différents gènes, mais aussi dans la compréhension de leurs réseaux de régulation. A cet égard, l’organisation tridimensionnelle de l’ADN dans le noyau cellulaire – appelée chromatine – joue un rôle clé, de plus en plus reconnu.</p>",
+        "<p>Jusque-là, l’analyse de ces modifications génétiques nécessitait des procédures complexes et coûteuses d’expression génétique ou de séquençage. Dans le cadre de travaux publiés dans la revue spécialisée <em>Cell Systems</em>, les scientifiques emmenés par G.V. Shivashankar – directeur du Laboratoire de bio-imagerie multi-échelle du Centre des sciences de la vie du PSI et professeur de mécanogénomique à l’ETH Zurich – et Caroline Uhler – directrice de l’Eric et Wendy Schmidt Center au Broad Institute et professeure d’électrotechnique et d’informatique au MIT – présentent une nouvelle approche. En collaboration avec les jeunes scientifiques Daniel Paysan, Adityanarayanan Radhakrishnan et Xinyi Zhang, ils ont développé une intelligence artificielle (IA) baptisée Image2Reg. Image2Reg est l’abréviation de <em>Image to Regulation</em>, qui signifie en français «De l’image de la cellule à la régulation des gènes». Cette IA pourrait permettre d’identifier des perturbations génétiques et de potentielles structures cible pour des médicaments en se basant uniquement sur de simples images microscopiques de noyaux cellulaires, comme celles que l’on obtient après une coloration Hoechst bleue fluorescente. «Le fait d’associer imagerie, apprentissage automatique et réseaux moléculaires peut finir par ouvrir un accès diagnostic et thérapeutique à la fois rapide et peu coûteux», explique G.V. Shivashankar.</p>",
+        "<h2>L’IA développe un «œil» pour repérer l’activité dans la chromatine, …</h2>",
+        "<p>Lors d’une première étape d’Image2Reg, les scientifiques exploitent le fait que la structure tridimensionnelle du noyau cellulaire – ou chromatine, autrement dit l’emballage de l’ADN – se modifie visiblement lorsque l’activité d’un gène déterminé est perturbée ou surrégulée de manière expérimentale. Dans ce genre de cas, les images montrent souvent des modifications très subtiles, mais systématiques, au niveau de l’apparence de la chromatine.</p>",
+        "<p>Les scientifiques ont donc entraîné un algorithme adaptatif à reconnaître ces modèles. L’algorithme en question est un réseau de neurones convolutif (<em>convolutional neural network</em> en anglais ou CNN), c’est-à-dire une forme d’intelligence artificielle spécialisée dans le traitement des images. L’IA a ainsi développé un «œil» pour repérer les traces typiques que laisse une activité dans la chromatine.</p>",
+        "<h2>… bâtit un réseau de relations cellulaires …</h2>",
+        "<p>Parallèlement à l’analyse des images, Image2Reg bâtit un réseaux biologique spécifique au type de cellule en question, qui décrit la manière dont les gènes sont en relations les uns avec les autres à l’intérieur de la cellule. Ce réseau repose sur deux fondements de biologie moléculaire qui ont fait leurs preuves: d’un côté sur les interactions connues protéine-protéine, autrement dit sur les protéines qui entrent en contact les unes avec les autres et, ce faisant, déclenchent certains processus biochimiques. De l’autres, la prise en compte de données d’expression génétiques, qu’il s’agisse d’analyses de cellules individuelles ou de mesures collectives classiques lors desquelles on enregistre la moyenne de l’activité de nombreuses cellules. Ces données montrent quels sont les gènes qui sont à la fois actifs et peuvent s’influencer ou se réguler mutuellement.</p>",
+        "<p>Enfin, ces informations sont réunies dans un modèle de calcul. Ce modèle traite les connexions complexes entre les gènes, et produit sur cette base une représentation mathématique de chaque gène qui reflète sa fonction, son rôle et son interconnexion dans le système biologique. L’objectif est de créer une sorte de «livre de règles de la cellule», une description des gènes qui agissent ensemble, se régulent mutuellement ou sont associés à certaines voies de signalisation, indépendamment de la manière dont ils se manifestent extérieurement dans l’image de la cellule.</p>",
+        "<h2>… et associe image et biologie</h2>",
+        "<p>Lors de la dernière étape décisive, Image2Reg fait le lien entre les deux univers de connaissances acquis précédemment, c’est-à-dire entre la représentation du noyau cellulaire basée sur l’image et les connaissances moléculaires sur l’interconnexion génétique. Cette association se fait à l’aide d’un procédé mathématique que l’on appelle une <em>kernel machine</em> ou machine à noyau, plus précisément avec le noyau neural tangent (<em>neural tangent kernel</em> en anglais ou NTK). Ce modèle apprend à faire correspondre les modèles numériques issus de l’analyse de l’image – autrement dit ce que le réseau neuronal lit dans l’image de la cellule – avec les relations fonctionnelles des gènes dans le réseau biologique.</p>",
+        "<h2>Des prédictions correctes bien au-delà du niveau de l’aléatoire</h2>",
+        "<p>Pour l’entraînement de l’IA, les scientifiques disposaient de près d’un million d’images individuelles. Une partie de ces images représentaient des cellules de contrôle non traitées, et l’autre des cellules où un gène avait été chaque fois suractivé de manière ciblée.</p>",
+        "<p>Lors du test conduit dans la foulée, le modèle devait identifier, sur la base des images de cellules, quel gène parmi les 41 possibles avait été modifié. L’IA a atteint une précision de 26 pour cent. Elle était donc en mesure de déterminer correctement le gène qui avait été modifié dans une cellule sur quatre. En comparaison: si l’on applique le principe du hasard ou de l’aléatoire, le taux de réussite devrait se situer autour de 1 à 2 pour cent. Pour les scientifiques, ce résultat témoigne clairement du fait qu’il existe des modèles identifiables dans la structure cellulaire et qu’ils sont liés à certains gènes que l’analyse d’image permet d’identifier. «Cela jette un pont entre forme et fonction, entre image et biologie», souligne Caroline Uhler.</p>",
+        "<h2>Un outil pour le diagnostic et le traitement</h2>",
+        "<p>La méthode Image2Reg n’en est encore qu’à ses débuts. Mais elle ouvre toute une série de possibilités d’applications pratiques et médicales importantes. De nombreuses maladies – comme le cancer, la maladie d’Alzheimer ou les maladies auto-immuns – sont dus à des perturbations de la régulation génétique. Les auteurs considèrent Image2Reg comme un outil permettant d’identifier les gènes qui influencent une maladie ou un traitement, et ce en se passant complètement d’analyses expérimentales coûteuses. L'objectif final de ce procédé est de détecter des maladies à un stade précoce, bien avant que des marqueurs classiques (protéines, ARN ou symptôme connus) ne soient mesurables.</p>",
+        "<p>Dans le cadre d’une start-up qu’ils viennent de fonder, les scientifiques veulent exploiter leurs connaissances afin de développer un traitement pour des fibroses incurables à ce jour. Il s’agit d’une maladie où l’organisme remplace des tissus fonctionnels par des tissus cicatriciels rigides. Ce qui, à long terme, entraîne une limitation de la fonction des organes. Les poumons, le foie et le cœur sont souvent touchés.</p>",
+        "<h2>Comment fonctionne Image2Reg</h2>",
+        "<ul><li><strong>Analyse de l’image de la cellule </strong><br> L’IA identifie les subtiles modifications structurelles dans la chromatine à l’aide d’un réseau de neurones convolutif (CNN).</li><li><strong>Mise en place du réseau </strong><br> En parallèle, un réseau spécifique au type de cellule en question est mise en place, sur la base d’interactions protéiques connues et de données d’expressions génétiques. Ce faisant, chaque gène reçoit une représentation mathématique de sa fonction au sein de la structure cellulaire.</li><li><strong>Intégration des deux niveaux </strong><br> A l’aide d’un noyau neural tangent (NTK), les données de l’image et des données de réseau sont réunies pour visualiser l’activité génétique.</li></ul>",
+        "<p>Texte: Werner Siefer</p>",
+        "<h2>À propos du PSI</h2>",
+        "<p>L'Institut Paul Scherrer PSI développe, construit et exploite des grandes installations de recherche complexes et les met à la disposition de la communauté scientifique nationale et internationale. Les domaines de recherche de l'institut sont centrés sur des technologies d'avenir, énergie et climat, innovation santé ainsi que fondements de la nature. La formation des générations futures est un souci central du PSI. Pour cette raison, environ un quart de nos collaborateurs sont des postdocs, des doctorants ou des apprentis. Au total, le PSI emploie 2300 personnes, étant ainsi le plus grand institut de recherche de Suisse. Le budget annuel est d'environ CHF 460 millions. Le PSI fait partie du domaine des EPF, les autres membres étant l'ETH Zurich, l'EPF Lausanne, l'Eawag (Institut de Recherche de l'Eau), l'Empa (Laboratoire fédéral d'essai des matériaux et de recherche) et le WSL (Institut fédéral de recherches sur la forêt, la neige et le paysage).</p>",
+        "<h2>Contact</h2>",
+        "<p>Prof. G.V. Shivashankar<br> Center for Life Sciences<br> Institut Paul Scherrer PSI<br> <br> +41 56 310 42 50<br> <a href=\"mailto:gv.shivashankar@psi.ch\">gv.shivashankar@psi.ch</a><br> [anglais]</p>",
+        "<h2>Publication originale</h2>",
+        "<p><strong>Image2Reg: Linking Chromatin Images to Gene Regulation using Genetic and Chemical Perturbation Screens</strong><strong><br> </strong>D. Paysan, A. Radhakrishnan, X. Zhang, G.V. Shivashankar, C. Uhler<br> <em>Cell Systems</em>, 12.5.2025 (online)<br> DOI: 10.1016/j.cels.2025.101293</p>"
+      ],
+      "title": "Identifier les perturbations génétiques dans les images de cellules grâce à l’IA",
+      "topics": [
+        "384",
+        "474"
+      ]
+    }
+  },
+  "publishers": [
+    "759"
+  ],
+  "tags": [],
+  "topics": [
+    "384",
+    "474"
+  ]
+}

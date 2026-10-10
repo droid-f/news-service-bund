@@ -24,11 +24,11 @@
       <www lang="en">https://www.bbl.admin.ch</www>
       <www lang="fr">https://www.bbl.admin.ch/fr</www>
       <www lang="it">https://www.bbl.admin.ch/it</www>
-      <email lang="it">media@bbl.admin.ch</email>
-      <email lang="rm">media@bbl.admin.ch</email>
       <email lang="de">media@bbl.admin.ch</email>
       <email lang="en">media@bbl.admin.ch</email>
       <email lang="fr">media@bbl.admin.ch</email>
+      <email lang="it">media@bbl.admin.ch</email>
+      <email lang="rm">media@bbl.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
@@ -37,16 +37,16 @@
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -74,18 +74,18 @@
     </content>
     <topics>
       <topic id="497">
+        <name lang="it">Appalti pubblici</name>
+        <name lang="rm">Acquisiziuns</name>
         <name lang="de">Beschaffungswesen</name>
         <name lang="en">Procurement</name>
         <name lang="fr">Marchés publics</name>
-        <name lang="it">Appalti pubblici</name>
-        <name lang="rm">Acquisiziuns</name>
       </topic>
       <topic id="24">
+        <name lang="it">Acquisti pubblici</name>
         <name lang="rm">Acquisiziuns publicas</name>
         <name lang="de">Öffentliche Beschaffung</name>
         <name lang="en">Public procurement</name>
         <name lang="fr">Marchés publics</name>
-        <name lang="it">Acquisti pubblici</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

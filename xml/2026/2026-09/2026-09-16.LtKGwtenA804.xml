@@ -6,11 +6,11 @@
     <pubdate>2026-09-16</pubdate>
     <originator id="506" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
-      <name lang="it">Ufficio federale dell'armamento armasuisse</name>
-      <name lang="rm">Uffizi federal da l’armament armasuisse</name>
       <name lang="de">Bundesamt für Rüstung armasuisse</name>
       <name lang="en">Federal Office for Defence Procurement armasuisse</name>
       <name lang="fr">Office fédéral de l'armement armasuisse</name>
+      <name lang="it">Ufficio federale dell'armamento armasuisse</name>
+      <name lang="rm">Uffizi federal da l’armament armasuisse</name>
       <www lang="de">http://www.ar.admin.ch/de</www>
       <www lang="en">http://www.ar.admin.ch/</www>
       <www lang="fr">http://www.ar.admin.ch/</www>
@@ -18,11 +18,11 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="en">General Secretariat DDPS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
@@ -80,28 +80,28 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="548">
-        <name lang="it">Politica d’armamento</name>
-        <name lang="rm">Politica d'armament</name>
         <name lang="de">Rüstungspolitik</name>
         <name lang="en">Arms procurement policy</name>
         <name lang="fr">Politique d’armement</name>
+        <name lang="it">Politica d’armamento</name>
+        <name lang="rm">Politica d'armament</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
+        <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
-        <name lang="fr">Sécurité</name>
       </topic>
     </topics>
     <offers/>

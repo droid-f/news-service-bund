@@ -6,11 +6,11 @@
     <pubdate>2026-10-02</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -27,11 +27,11 @@
     </originator>
     <originator id="319" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
-      <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
       <name lang="de">Bundesamt für Sozialversicherungen</name>
       <name lang="en">Federal Social Insurance Office</name>
       <name lang="fr">Office fédéral des assurances sociales</name>
+      <name lang="it">Ufficio federale delle assicurazioni sociali</name>
+      <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
       <www lang="de">http://www.bsv.admin.ch/</www>
       <email lang="de">media@bsv.admin.ch</email>
       <email lang="en">media@bsv.admin.ch</email>
@@ -41,11 +41,11 @@
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -85,11 +85,11 @@
         <name lang="rm">Prestaziuns transitoricas</name>
       </topic>
       <topic id="36">
-        <name lang="de">Erwerbsersatzordnung</name>
         <name lang="en">System of compensation for loss of earnings</name>
         <name lang="fr">Allocations pour perte de gain</name>
         <name lang="it">Indennità per perdita di guadagno</name>
         <name lang="rm">Urden da cumpensaziun dal gudogn</name>
+        <name lang="de">Erwerbsersatzordnung</name>
       </topic>
       <topic id="33">
         <name lang="de">Ergänzungsleistungen</name>
@@ -99,18 +99,18 @@
         <name lang="rm">Prestaziuns supplementaras</name>
       </topic>
       <topic id="31">
+        <name lang="en">Social insurance</name>
+        <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="rm">Assicuranzas socialas</name>
         <name lang="de">Sozialversicherungen</name>
-        <name lang="en">Social insurance</name>
-        <name lang="fr">Assurances sociales</name>
       </topic>
       <topic id="564">
-        <name lang="de">Soziale Sicherheit</name>
-        <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
         <name lang="rm">Segirezza sociala</name>
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="en">Social security</name>
       </topic>
       <topic id="35">
         <name lang="de">IV - Invalidenversicherung</name>
@@ -127,11 +127,11 @@
         <name lang="fr">Prévoyance professionnelle</name>
       </topic>
       <topic id="32">
-        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
         <name lang="en">Old-age, Survivors’ and Invalidity Insurance</name>
         <name lang="fr">AVS - Assurance-vieillesse et survivants</name>
         <name lang="it">AVS – Assicurazione vecchiaia e superstiti</name>
         <name lang="rm">AVS – Assicuranza per vegls e survivents</name>
+        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
@@ -148,10 +148,10 @@
         <name lang="de">Bundesrat</name>
       </topic>
       <topic id="125">
-        <name lang="de">Soziale Sicherheit</name>
-        <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="en">Social security</name>
       </topic>
     </topics>
     <offers/>

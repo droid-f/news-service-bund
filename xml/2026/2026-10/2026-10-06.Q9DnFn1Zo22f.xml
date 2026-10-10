@@ -6,15 +6,15 @@
     <pubdate>2026-10-06</pubdate>
     <originator id="323" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="rm">Institut federal da controlla da material e da perscrutaziun</name>
+      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
       <name lang="en">Federal Laboratory for Materials Testing and Research</name>
       <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
       <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
-      <name lang="rm">Institut federal da controlla da material e da perscrutaziun</name>
-      <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
-      <www lang="it">https://www.empa.ch</www>
       <www lang="de">https://www.empa.ch</www>
       <www lang="en">https://www.empa.ch</www>
       <www lang="fr">https://www.empa.ch</www>
+      <www lang="it">https://www.empa.ch</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -23,16 +23,16 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>St. Gallen</city>
@@ -60,25 +60,25 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
       </topic>
       <topic id="147">
+        <name lang="fr">Rapports de recherche</name>
+        <name lang="it">Rapporti di ricerca</name>
         <name lang="rm">Rapports da retschertga</name>
         <name lang="de">Forschungsberichte</name>
         <name lang="en">Research reports</name>
-        <name lang="fr">Rapports de recherche</name>
-        <name lang="it">Rapporti di ricerca</name>
       </topic>
       <topic id="474">
+        <name lang="de">Prävention</name>
+        <name lang="en">Prevention</name>
         <name lang="fr">Prévention</name>
         <name lang="it">Prevenzione</name>
         <name lang="rm">Prevenziun</name>
-        <name lang="de">Prävention</name>
-        <name lang="en">Prevention</name>
       </topic>
     </topics>
     <offers/>

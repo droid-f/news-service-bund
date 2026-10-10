@@ -6,11 +6,11 @@
     <pubdate>2026-09-24</pubdate>
     <originator id="1101" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Bundesamt für Cybersicherheit BACS</name>
+      <name lang="en">Federal Office for Cyber Security FOCS</name>
       <name lang="fr">Office fédéral de la cybersécurité OFCS</name>
       <name lang="it">Ufficio federale della cibersicurezza UFCS</name>
       <name lang="rm">Uffizi federal da la cybersegirezza</name>
-      <name lang="de">Bundesamt für Cybersicherheit BACS</name>
-      <name lang="en">Federal Office for Cyber Security FOCS</name>
       <www lang="de">https://www.bacs.admin.ch/</www>
       <www lang="en">https://www.bacs.admin.ch</www>
       <www lang="fr">https://www.ofcs.admin.ch/fr</www>
@@ -23,20 +23,20 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <originator id="1094" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -54,11 +54,11 @@
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -94,11 +94,11 @@
     </content>
     <topics>
       <topic id="784">
+        <name lang="it">Martin Pfister</name>
+        <name lang="rm">Martin Pfister</name>
         <name lang="de">Martin Pfister</name>
         <name lang="en">Martin Pfister</name>
         <name lang="fr">Martin Pfister</name>
-        <name lang="it">Martin Pfister</name>
-        <name lang="rm">Martin Pfister</name>
       </topic>
       <topic id="345">
         <name lang="de">Cybersicherheit</name>
@@ -115,11 +115,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

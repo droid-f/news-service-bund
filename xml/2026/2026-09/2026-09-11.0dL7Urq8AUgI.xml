@@ -14,11 +14,11 @@
       <www lang="de">https://www.blv.admin.ch</www>
       <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
+      <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
-      <email lang="de">media@blv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-0006" org-id="1079">
@@ -28,10 +28,10 @@
         <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="fr">Denrées alimentaires</name>
-        <name lang="it">Derrate alimentari</name>
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
+        <name lang="fr">Denrées alimentaires</name>
+        <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
         <name lang="de">Lebensmittel</name>
@@ -78,11 +78,11 @@
     </content>
     <topics>
       <topic id="330">
+        <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
         <name lang="de">Rückrufe und Sicherheitsinformationen</name>
         <name lang="en">Recalls and safety information</name>
         <name lang="fr">Rappels et informations sur la sécurité</name>
         <name lang="it">Richiami e informazioni relative alla sicurezza</name>
-        <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
       </topic>
       <topic id="479">
         <name lang="de">Lebensmittelsicherheit</name>
@@ -92,18 +92,18 @@
         <name lang="rm">Segirezza da victualias</name>
       </topic>
       <topic id="245">
-        <name lang="de">Ernährung</name>
         <name lang="en">Foodstuffs</name>
         <name lang="fr">Alimentation</name>
         <name lang="it">Alimentazione</name>
         <name lang="rm">Nutriment</name>
+        <name lang="de">Ernährung</name>
       </topic>
       <topic id="37">
+        <name lang="en">Consumption</name>
+        <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
-        <name lang="en">Consumption</name>
-        <name lang="fr">Consommation</name>
       </topic>
     </topics>
     <offers/>

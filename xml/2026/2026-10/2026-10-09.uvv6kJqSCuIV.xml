@@ -11,16 +11,16 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <www lang="it">https://www.eda.admin.ch/it</www>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="en">
@@ -71,25 +71,25 @@
         <name lang="rm">Politica da segirezza</name>
       </topic>
       <topic id="411">
-        <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
+        <name lang="it">Organizzazioni internazionali</name>
       </topic>
       <topic id="16">
-        <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
+        <name lang="rm">Politica exteriura</name>
+        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="40">
-        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
       </topic>
       <topic id="110">
         <name lang="de">Sicherheit</name>
@@ -98,10 +98,10 @@
         <name lang="it">Sicurezza</name>
       </topic>
       <topic id="103">
+        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
-        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>
