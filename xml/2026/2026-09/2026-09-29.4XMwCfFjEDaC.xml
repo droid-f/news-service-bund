@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -29,16 +29,16 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="12708" org-id="701">
@@ -49,18 +49,18 @@
         <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
@@ -104,32 +104,32 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="336">
-        <name lang="rm">Collavuraziun e svilup economic</name>
         <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
         <name lang="en">Economic Cooperation and Development</name>
         <name lang="fr">Coopération et développement économiques</name>
         <name lang="it">Cooperazione e sviluppo economici</name>
+        <name lang="rm">Collavuraziun e svilup economic</name>
       </topic>
       <topic id="88">
+        <name lang="rm">Cunvegnas bilateralas</name>
         <name lang="de">Bilaterale Abkommen</name>
         <name lang="en">Bilateral agreements</name>
         <name lang="fr">Accords bilatéraux</name>
         <name lang="it">Accordi bilaterali</name>
-        <name lang="rm">Cunvegnas bilateralas</name>
       </topic>
       <topic id="16">
-        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
+        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="47">
         <name lang="fr">Économie et place financière</name>

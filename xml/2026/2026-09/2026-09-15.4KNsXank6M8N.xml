@@ -15,19 +15,19 @@
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
       <www lang="it">https://www.bazg.admin.ch/it</www>
-      <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
       <email lang="it">medien@bazg.admin.ch</email>
       <email lang="rm">medien@bazg.admin.ch</email>
       <email lang="de">medien@bazg.admin.ch</email>
+      <email lang="en">medien@bazg.admin.ch</email>
     </originator>
     <originator id="302" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
+      <name lang="fr">Secrétariat général DFI</name>
       <name lang="it">Segreteria generale DFI</name>
       <name lang="rm">Secretariat general dal DFI</name>
       <name lang="de">Generalsekretariat EDI</name>
       <name lang="en">General Secretariat FDHA</name>
-      <name lang="fr">Secrétariat général DFI</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/</www>
       <www lang="fr">www.dfi.admin.ch</www>
@@ -41,22 +41,22 @@
     </originator>
     <originator id="314" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="rm">Uffizi federal da cultura</name>
       <name lang="de">Bundesamt für Kultur</name>
       <name lang="en">Federal Office of Culture</name>
       <name lang="fr">Office fédéral de la culture</name>
       <name lang="it">Ufficio federale della cultura</name>
+      <name lang="rm">Uffizi federal da cultura</name>
+      <www lang="it">http://www.bak.admin.ch/</www>
       <www lang="de">http://www.bak.admin.ch/</www>
       <www lang="en">http://www.bak.admin.ch/</www>
-      <www lang="it">http://www.bak.admin.ch/</www>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -64,16 +64,16 @@
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </department>
     <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -106,11 +106,11 @@
     </content>
     <topics>
       <topic id="18">
-        <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
         <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
+        <name lang="en">Culture</name>
       </topic>
     </topics>
     <offers/>

@@ -6,11 +6,11 @@
     <pubdate>2026-09-25</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
+      <www lang="en">https://www.admin.ch/en</www>
     </originator>
     <originator id="1080" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -19,10 +19,10 @@
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <www lang="it">https://www.sbfi.admin.ch/it</www>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
+      <www lang="it">https://www.sbfi.admin.ch/it</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -31,29 +31,29 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords/>
     <department id="701">
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -93,11 +93,11 @@
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="433">
-        <name lang="it">Studi universitari</name>
-        <name lang="rm">Studi</name>
         <name lang="de">Studium</name>
         <name lang="en">Education</name>
         <name lang="fr">Études</name>
+        <name lang="it">Studi universitari</name>
+        <name lang="rm">Studi</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

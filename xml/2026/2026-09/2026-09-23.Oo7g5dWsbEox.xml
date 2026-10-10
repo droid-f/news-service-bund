@@ -6,26 +6,26 @@
     <pubdate>2026-09-23</pubdate>
     <originator id="1079" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
       <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <name lang="en">Federal Food Safety and Veterinary Office</name>
-      <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
-      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
       <www lang="de">https://www.blv.admin.ch</www>
       <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
+      <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
-      <email lang="de">media@blv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-0006" org-id="1079">
+        <name lang="fr">Denrées alimentaires</name>
         <name lang="it">Derrate alimentari</name>
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
-        <name lang="fr">Denrées alimentaires</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
         <name lang="de">Lebensmittel</name>
@@ -34,23 +34,23 @@
         <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
         <name lang="fr">Denrées alimentaires</name>
         <name lang="it">Derrate alimentari</name>
+        <name lang="de">Lebensmittel</name>
       </keyword>
     </keywords>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -78,39 +78,39 @@
     </content>
     <topics>
       <topic id="330">
-        <name lang="de">Rückrufe und Sicherheitsinformationen</name>
-        <name lang="en">Recalls and safety information</name>
         <name lang="fr">Rappels et informations sur la sécurité</name>
         <name lang="it">Richiami e informazioni relative alla sicurezza</name>
         <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
+        <name lang="de">Rückrufe und Sicherheitsinformationen</name>
+        <name lang="en">Recalls and safety information</name>
       </topic>
       <topic id="235">
-        <name lang="rm">Victualias vegetalas</name>
-        <name lang="de">Pflanzliche Lebensmittel</name>
         <name lang="en">Plant-based foods</name>
         <name lang="fr">Denrées alimentaires végétales</name>
         <name lang="it">Alimenti di origine vegetale </name>
+        <name lang="rm">Victualias vegetalas</name>
+        <name lang="de">Pflanzliche Lebensmittel</name>
       </topic>
       <topic id="479">
-        <name lang="de">Lebensmittelsicherheit</name>
-        <name lang="en">Food safety</name>
         <name lang="fr">Sécurité alimentaire</name>
         <name lang="it">Sicurezza alimentare</name>
         <name lang="rm">Segirezza da victualias</name>
+        <name lang="de">Lebensmittelsicherheit</name>
+        <name lang="en">Food safety</name>
       </topic>
       <topic id="478">
-        <name lang="de">Konsumentenschutz</name>
-        <name lang="en">Consumer protection</name>
         <name lang="fr">Protection des consommateurs</name>
         <name lang="it">Protezione dei consumatori</name>
         <name lang="rm">Protecziun da las consumentas e dals consuments</name>
+        <name lang="de">Konsumentenschutz</name>
+        <name lang="en">Consumer protection</name>
       </topic>
       <topic id="37">
-        <name lang="en">Consumption</name>
-        <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
+        <name lang="en">Consumption</name>
+        <name lang="fr">Consommation</name>
       </topic>
     </topics>
     <offers/>

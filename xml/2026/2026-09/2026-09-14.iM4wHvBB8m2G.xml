@@ -6,10 +6,10 @@
     <pubdate>2026-09-14</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="fr">Contrôle fédéral des finances</name>
-      <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
+      <name lang="fr">Contrôle fédéral des finances</name>
+      <name lang="it">Controllo federale delle finanze</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
@@ -75,25 +75,25 @@
     </content>
     <topics>
       <topic id="628">
-        <name lang="rm">Infrastructura dal traffic</name>
         <name lang="de">Verkehrsinfrastruktur</name>
         <name lang="en">Transport infrastructure</name>
         <name lang="fr">Infrastructures de transport</name>
         <name lang="it">Infrastruttura per i trasporti</name>
+        <name lang="rm">Infrastructura dal traffic</name>
       </topic>
       <topic id="627">
-        <name lang="it">Circolazione stradale</name>
-        <name lang="rm">Traffic sin via</name>
         <name lang="de">Strassenverkehr</name>
         <name lang="en">Road traffic</name>
         <name lang="fr">Circulation routière</name>
+        <name lang="it">Circolazione stradale</name>
+        <name lang="rm">Traffic sin via</name>
       </topic>
       <topic id="626">
+        <name lang="en">SBB - Swiss Federal Railways</name>
+        <name lang="fr">Chemins de fer fédéraux suisses (CFF)</name>
         <name lang="it">Ferrovie federali svizzere (FFS)</name>
         <name lang="rm">Viafiers federalas svizras (VFF)</name>
         <name lang="de">Schweizerische Bundesbahnen (SBB)</name>
-        <name lang="en">SBB - Swiss Federal Railways</name>
-        <name lang="fr">Chemins de fer fédéraux suisses (CFF)</name>
       </topic>
       <topic id="46">
         <name lang="fr">Transports et mobilité</name>

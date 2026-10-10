@@ -6,21 +6,21 @@
     <pubdate>2026-09-29</pubdate>
     <originator id="603" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
+      <name lang="de">Eidgenössische Finanzverwaltung</name>
       <name lang="en">Federal Finance Administration</name>
       <name lang="fr">Administration fédérale des finances</name>
       <name lang="it">Amministrazione federale delle finanze</name>
       <name lang="rm">Administraziun federala da finanzas</name>
-      <name lang="de">Eidgenössische Finanzverwaltung</name>
+      <www lang="de">https://www.efv.admin.ch</www>
+      <www lang="en">https://www.efv.admin.ch/en</www>
       <www lang="fr">https://www.efv.admin.ch/fr</www>
       <www lang="it">https://www.efv.admin.ch/it</www>
       <www lang="rm">https://www.efv.admin.ch</www>
-      <www lang="de">https://www.efv.admin.ch</www>
-      <www lang="en">https://www.efv.admin.ch/en</www>
-      <email lang="it">kommunikation@efv.admin.ch</email>
-      <email lang="rm">kommunikation@efv.admin.ch</email>
       <email lang="de">kommunikation@efv.admin.ch</email>
       <email lang="en">kommunikation@efv.admin.ch</email>
       <email lang="fr">kommunikation@efv.admin.ch</email>
+      <email lang="it">kommunikation@efv.admin.ch</email>
+      <email lang="rm">kommunikation@efv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-119" org-id="603">
@@ -30,22 +30,22 @@
         <name lang="it">Prestiti della Confederazione</name>
       </keyword>
       <keyword id="SLW-119" org-id="603">
+        <name lang="it">Prestiti della Confederazione</name>
         <name lang="de">Bundesanleihen</name>
         <name lang="en">Confederation bonds</name>
         <name lang="fr">Emprunts de la Confédération</name>
+      </keyword>
+      <keyword id="SLW-119" org-id="603">
+        <name lang="en">Confederation bonds</name>
+        <name lang="fr">Emprunts de la Confédération</name>
         <name lang="it">Prestiti della Confederazione</name>
+        <name lang="de">Bundesanleihen</name>
       </keyword>
       <keyword id="SLW-119" org-id="603">
         <name lang="fr">Emprunts de la Confédération</name>
         <name lang="it">Prestiti della Confederazione</name>
         <name lang="de">Bundesanleihen</name>
         <name lang="en">Confederation bonds</name>
-      </keyword>
-      <keyword id="SLW-119" org-id="603">
-        <name lang="it">Prestiti della Confederazione</name>
-        <name lang="de">Bundesanleihen</name>
-        <name lang="en">Confederation bonds</name>
-        <name lang="fr">Emprunts de la Confédération</name>
       </keyword>
     </keywords>
     <department id="601">
@@ -59,11 +59,11 @@
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
-      <email lang="de">media@gs-efd.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -99,11 +99,11 @@
     </content>
     <topics>
       <topic id="13">
-        <name lang="it">Finanze pubbliche</name>
-        <name lang="rm">Finanzas publicas</name>
         <name lang="de">Öffentliche Finanzen</name>
         <name lang="en">Public finances</name>
         <name lang="fr">Finances publiques</name>
+        <name lang="it">Finanze pubbliche</name>
+        <name lang="rm">Finanzas publicas</name>
       </topic>
     </topics>
     <offers/>

@@ -6,16 +6,16 @@
     <pubdate>2026-09-29</pubdate>
     <originator id="805" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="it">Ufficio federale dei trasporti</name>
-      <name lang="rm">Uffizi federal da traffic</name>
       <name lang="de">Bundesamt für Verkehr</name>
       <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="rm">Uffizi federal da traffic</name>
+      <www lang="rm">http://www.bav.admin.ch/</www>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
-      <www lang="rm">http://www.bav.admin.ch/</www>
       <email lang="de">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
@@ -24,16 +24,16 @@
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -42,16 +42,16 @@
     </originator>
     <keywords/>
     <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -116,10 +116,10 @@
         <name lang="it">Salute</name>
       </topic>
       <topic id="109">
-        <name lang="it">Infrastruttura</name>
         <name lang="de">Infrastruktur</name>
         <name lang="en">Infrastructure</name>
         <name lang="fr">Infrastructures</name>
+        <name lang="it">Infrastruttura</name>
       </topic>
       <topic id="105">
         <name lang="de">Gesellschaft</name>

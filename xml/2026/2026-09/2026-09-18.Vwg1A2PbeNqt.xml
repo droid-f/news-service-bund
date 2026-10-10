@@ -14,39 +14,39 @@
     </originator>
     <originator id="605" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="rm">Administraziun federala da taglia</name>
       <name lang="de">Eidgenössische Steuerverwaltung</name>
       <name lang="en">Federal Tax Administration</name>
       <name lang="fr">Administration fédérale des contributions</name>
       <name lang="it">Amministrazione federale delle contribuzioni</name>
-      <www lang="de">https://www.estv.admin.ch/de</www>
-      <www lang="en">https://www.estv.admin.ch/en</www>
+      <name lang="rm">Administraziun federala da taglia</name>
       <www lang="fr">https://www.estv.admin.ch/fr</www>
       <www lang="it">https://www.estv.admin.ch/it</www>
       <www lang="rm">https://www.estv.admin.ch/de</www>
-      <email lang="de">media@estv.admin.ch</email>
+      <www lang="de">https://www.estv.admin.ch/de</www>
+      <www lang="en">https://www.estv.admin.ch/en</www>
       <email lang="en">media@estv.admin.ch</email>
       <email lang="fr">media@estv.admin.ch</email>
       <email lang="it">media@estv.admin.ch</email>
       <email lang="rm">media@estv.admin.ch</email>
+      <email lang="de">media@estv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
-      <www lang="it">https://www.efd.admin.ch/it</www>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
-      <email lang="de">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -74,32 +74,32 @@
     </content>
     <topics>
       <topic id="6">
-        <name lang="fr">Impôt fédéral direct</name>
         <name lang="it">Imposta federale diretta</name>
         <name lang="rm">Taglia federala directa</name>
         <name lang="de">Direkte Bundessteuer</name>
         <name lang="en">Direct federal tax</name>
+        <name lang="fr">Impôt fédéral direct</name>
       </topic>
       <topic id="44">
-        <name lang="de">Steuern</name>
         <name lang="en">Taxation</name>
         <name lang="fr">Impôts</name>
         <name lang="it">Imposte</name>
         <name lang="rm">Taglias</name>
+        <name lang="de">Steuern</name>
       </topic>
       <topic id="10">
-        <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
       </topic>
       <topic id="31">
+        <name lang="en">Confederation, Cantons &amp; Communes</name>
+        <name lang="fr">Confédération, cantons et communes</name>
         <name lang="it">Confederazione, Cantoni e Comuni</name>
         <name lang="rm">Confederaziun, chantuns e vischnancas</name>
         <name lang="de">Bund, Kantone &amp; Gemeinden</name>
-        <name lang="en">Confederation, Cantons &amp; Communes</name>
-        <name lang="fr">Confédération, cantons et communes</name>
       </topic>
     </topics>
     <offers/>

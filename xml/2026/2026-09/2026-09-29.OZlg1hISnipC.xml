@@ -6,31 +6,24 @@
     <pubdate>2026-09-29</pubdate>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="12708" org-id="701">
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
@@ -38,11 +31,18 @@
         <name lang="it">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
       </keyword>
     </keywords>
     <content lang="fr">
@@ -78,18 +78,18 @@
         <name lang="rm">Plazza da finanzas</name>
       </topic>
       <topic id="634">
-        <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
         <name lang="it">Economia esterna</name>
         <name lang="rm">Economia da l'exteriur</name>
+        <name lang="de">Aussenwirtschaft</name>
       </topic>
       <topic id="553">
+        <name lang="de">Waffen</name>
         <name lang="en">Weapons</name>
         <name lang="fr">Armes</name>
         <name lang="it">Armi</name>
         <name lang="rm">Armas</name>
-        <name lang="de">Waffen</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
@@ -109,11 +109,11 @@
         <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

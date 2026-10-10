@@ -11,18 +11,18 @@
       <name lang="fr">Office fédéral de l'armement armasuisse</name>
       <name lang="it">Ufficio federale dell'armamento armasuisse</name>
       <name lang="rm">Uffizi federal da l’armament armasuisse</name>
+      <www lang="de">http://www.ar.admin.ch/de</www>
       <www lang="en">http://www.ar.admin.ch/</www>
       <www lang="fr">http://www.ar.admin.ch/</www>
       <www lang="it">http://www.ar.admin.ch/</www>
-      <www lang="de">http://www.ar.admin.ch/de</www>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
@@ -35,11 +35,11 @@
     </originator>
     <keywords/>
     <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -80,11 +80,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="548">
         <name lang="de">Rüstungspolitik</name>

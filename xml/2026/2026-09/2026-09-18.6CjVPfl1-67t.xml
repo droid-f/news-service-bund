@@ -6,21 +6,21 @@
     <pubdate>2026-09-18</pubdate>
     <originator id="703" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Secretariat da stadi per l'economia</name>
       <name lang="de">Staatssekretariat für Wirtschaft</name>
       <name lang="en">State Secretariat for Economic Affairs</name>
       <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
+      <name lang="rm">Secretariat da stadi per l'economia</name>
       <www lang="rm">https://www.seco.admin.ch</www>
       <www lang="de">https://www.seco.admin.ch</www>
       <www lang="en">https://www.seco.admin.ch/en</www>
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
+      <email lang="en">medien@seco.admin.ch</email>
+      <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
       <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
-      <email lang="en">medien@seco.admin.ch</email>
-      <email lang="fr">medien@seco.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
@@ -32,21 +32,21 @@
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18335" org-id="1070">
@@ -70,11 +70,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="en">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -102,32 +102,32 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
       </topic>
       <topic id="336">
+        <name lang="it">Cooperazione e sviluppo economici</name>
+        <name lang="rm">Collavuraziun e svilup economic</name>
         <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
         <name lang="en">Economic Cooperation and Development</name>
         <name lang="fr">Coopération et développement économiques</name>
-        <name lang="it">Cooperazione e sviluppo economici</name>
-        <name lang="rm">Collavuraziun e svilup economic</name>
       </topic>
       <topic id="634">
+        <name lang="it">Economia esterna</name>
         <name lang="rm">Economia da l'exteriur</name>
         <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
-        <name lang="it">Economia esterna</name>
       </topic>
       <topic id="46">
+        <name lang="de">Nachhaltige Entwicklung</name>
         <name lang="en">Sustainable development</name>
         <name lang="fr">Développement durable</name>
         <name lang="it">Sviluppo sostenibile</name>
         <name lang="rm">Svilup persistent</name>
-        <name lang="de">Nachhaltige Entwicklung</name>
       </topic>
       <topic id="448">
         <name lang="de">Bundesratsgeschäfte</name>
@@ -137,25 +137,25 @@
         <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="409">
-        <name lang="en">Development cooperation</name>
-        <name lang="fr">Coopération au développement</name>
         <name lang="it">Cooperazione allo sviluppo</name>
         <name lang="rm">Cooperaziun al svilup</name>
         <name lang="de">Entwicklungszusammenarbeit</name>
+        <name lang="en">Development cooperation</name>
+        <name lang="fr">Coopération au développement</name>
       </topic>
       <topic id="47">
-        <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="21">
-        <name lang="it">Ambiente e natura</name>
-        <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

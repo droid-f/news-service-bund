@@ -14,17 +14,17 @@
     </originator>
     <originator id="403" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
+      <name lang="rm">Uffizi federal da giustia</name>
       <name lang="de">Bundesamt für Justiz</name>
       <name lang="en">Federal Office of Justice</name>
       <name lang="fr">Office fédéral de la justice</name>
       <name lang="it">Ufficio federale di giustizia</name>
-      <name lang="rm">Uffizi federal da giustia</name>
       <www lang="de">https://www.bj.admin.ch/</www>
+      <email lang="en">media@bj.admin.ch</email>
+      <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
       <email lang="rm">media@bj.admin.ch</email>
       <email lang="de">media@bj.admin.ch</email>
-      <email lang="en">media@bj.admin.ch</email>
-      <email lang="fr">media@bj.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
@@ -33,24 +33,24 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords/>
     <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
@@ -88,11 +88,11 @@
     </content>
     <topics>
       <topic id="26">
-        <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
+        <name lang="rm">Dretg</name>
       </topic>
       <topic id="39">
         <name lang="de">Ausland</name>
@@ -102,32 +102,32 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="522">
+        <name lang="fr">Entraide judiciaire</name>
+        <name lang="it">Assistenza giudiziaria</name>
         <name lang="rm">Assistenza giudiziala</name>
         <name lang="de">Rechtshilfe</name>
         <name lang="en">Legal assistance</name>
-        <name lang="fr">Entraide judiciaire</name>
-        <name lang="it">Assistenza giudiziaria</name>
       </topic>
       <topic id="448">
+        <name lang="it">Affari del Consiglio federale</name>
+        <name lang="rm">Affars dal Cussegl federal</name>
         <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
-        <name lang="it">Affari del Consiglio federale</name>
-        <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="427">
+        <name lang="it">Consultazioni</name>
+        <name lang="rm">Consultaziuns</name>
         <name lang="de">Vernehmlassungen</name>
         <name lang="en">Consultations</name>
         <name lang="fr">Consultations</name>
-        <name lang="it">Consultazioni</name>
-        <name lang="rm">Consultaziuns</name>
       </topic>
       <topic id="34">
-        <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
+        <name lang="it">Svizzera e Europa</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
@@ -137,11 +137,11 @@
         <name lang="rm">Cussegl federal</name>
       </topic>
       <topic id="5">
+        <name lang="rm">Autoritads</name>
         <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
-        <name lang="rm">Autoritads</name>
       </topic>
     </topics>
     <offers/>
