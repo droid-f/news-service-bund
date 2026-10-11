@@ -6,11 +6,11 @@
     <pubdate>2026-06-11</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -24,29 +24,29 @@
     </originator>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="it">Aggruppamento Difesa</name>
+      <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
-      <name lang="it">Aggruppamento Difesa</name>
-      <name lang="rm">Gruppa da defensiun</name>
-      <www lang="de">http://www.vtg.admin.ch/</www>
-      <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
+      <www lang="de">http://www.vtg.admin.ch/</www>
+      <www lang="en">http://www.vtg.admin.ch/</www>
+      <email lang="en"> </email>
+      <email lang="fr"> </email>
       <email lang="it"> </email>
       <email lang="rm"> </email>
       <email lang="de"> </email>
-      <email lang="en"> </email>
-      <email lang="fr"> </email>
     </originator>
     <originator id="606" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
-      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
       <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <name lang="en">Federal Office for Customs and Border Security</name>
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
+      <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
+      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
@@ -59,34 +59,34 @@
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
     </department>
     <department id="601">
       <name lang="de">Eidgenössisches Finanzdepartement</name>
@@ -94,16 +94,16 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
-      <email lang="rm">media@gs-efd.admin.ch</email>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -139,11 +139,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="48">
         <name lang="de">Zoll</name>
@@ -153,25 +153,25 @@
         <name lang="rm">Duana</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
       </topic>
       <topic id="31">
-        <name lang="it">Confederazione, Cantoni e Comuni</name>
         <name lang="rm">Confederaziun, chantuns e vischnancas</name>
         <name lang="de">Bund, Kantone &amp; Gemeinden</name>
         <name lang="en">Confederation, Cantons &amp; Communes</name>
         <name lang="fr">Confédération, cantons et communes</name>
+        <name lang="it">Confederazione, Cantoni e Comuni</name>
       </topic>
       <topic id="5">
+        <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
         <name lang="rm">Autoritads</name>
-        <name lang="de">Behörden</name>
       </topic>
     </topics>
     <offers/>

@@ -6,25 +6,25 @@
     <pubdate>2025-12-04</pubdate>
     <originator id="319" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <name lang="en">Federal Social Insurance Office</name>
       <name lang="fr">Office fédéral des assurances sociales</name>
       <name lang="it">Ufficio federale delle assicurazioni sociali</name>
       <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
-      <name lang="de">Bundesamt für Sozialversicherungen</name>
-      <name lang="en">Federal Social Insurance Office</name>
       <www lang="de">http://www.bsv.admin.ch/</www>
-      <email lang="de">media@bsv.admin.ch</email>
-      <email lang="en">media@bsv.admin.ch</email>
       <email lang="fr">media@bsv.admin.ch</email>
       <email lang="it">media@bsv.admin.ch</email>
       <email lang="rm">media@bsv.admin.ch</email>
+      <email lang="de">media@bsv.admin.ch</email>
+      <email lang="en">media@bsv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -57,25 +57,25 @@
     </content>
     <topics>
       <topic id="147">
-        <name lang="de">Forschungsberichte</name>
         <name lang="en">Research reports</name>
         <name lang="fr">Rapports de recherche</name>
         <name lang="it">Rapporti di ricerca</name>
         <name lang="rm">Rapports da retschertga</name>
+        <name lang="de">Forschungsberichte</name>
       </topic>
       <topic id="33">
-        <name lang="rm">Prestaziuns supplementaras</name>
-        <name lang="de">Ergänzungsleistungen</name>
         <name lang="en">Supplementary benefits</name>
         <name lang="fr">Prestations complémentaires</name>
         <name lang="it">Prestazioni complementari</name>
+        <name lang="rm">Prestaziuns supplementaras</name>
+        <name lang="de">Ergänzungsleistungen</name>
       </topic>
       <topic id="566">
-        <name lang="rm">Fatgs socials</name>
         <name lang="de">Sozialwesen</name>
         <name lang="en">Social welfare</name>
         <name lang="fr">Affaires sociales</name>
         <name lang="it">Affari sociali</name>
+        <name lang="rm">Fatgs socials</name>
       </topic>
       <topic id="31">
         <name lang="de">Sozialversicherungen</name>
@@ -85,11 +85,11 @@
         <name lang="rm">Assicuranzas socialas</name>
       </topic>
       <topic id="564">
-        <name lang="it">Sicurezza sociale</name>
-        <name lang="rm">Segirezza sociala</name>
         <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
+        <name lang="it">Sicurezza sociale</name>
+        <name lang="rm">Segirezza sociala</name>
       </topic>
       <topic id="35">
         <name lang="de">IV - Invalidenversicherung</name>
@@ -113,10 +113,10 @@
         <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
       <topic id="125">
-        <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
+        <name lang="de">Soziale Sicherheit</name>
       </topic>
     </topics>
     <offers/>

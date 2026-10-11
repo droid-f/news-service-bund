@@ -6,33 +6,33 @@
     <pubdate>2026-06-12</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
     </originator>
     <originator id="410" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="rm">Institut federal da proprietad intellectuala</name>
       <name lang="de">Eidgenössisches Institut für Geistiges Eigentum</name>
       <name lang="en">Swiss Federal Institute of Intellectual Property</name>
       <name lang="fr">Institut Fédéral de la Propriété Intellectuelle</name>
       <name lang="it">Istituto Federale della Proprietà Intellettuale</name>
+      <name lang="rm">Institut federal da proprietad intellectuala</name>
       <www lang="de">https://www.ige.ch/</www>
+      <email lang="de">info@ipi.ch</email>
       <email lang="en">info@ipi.ch</email>
       <email lang="fr">info@ipi.ch</email>
       <email lang="it">info@ipi.ch</email>
       <email lang="rm">info@ipi.ch</email>
-      <email lang="de">info@ipi.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
@@ -46,16 +46,16 @@
     </originator>
     <keywords/>
     <department id="401">
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -95,18 +95,18 @@
         <name lang="de">Recht</name>
       </topic>
       <topic id="519">
+        <name lang="en">Intellectual property</name>
         <name lang="fr">Propriété intellectuelle</name>
         <name lang="it">Proprietà intellettuale</name>
         <name lang="rm">Proprietad intellectuala</name>
         <name lang="de">Geistiges Eigentum</name>
-        <name lang="en">Intellectual property</name>
       </topic>
       <topic id="448">
+        <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
         <name lang="it">Affari del Consiglio federale</name>
         <name lang="rm">Affars dal Cussegl federal</name>
-        <name lang="de">Bundesratsgeschäfte</name>
       </topic>
       <topic id="424">
         <name lang="de">Aufgabenüberprüfung</name>

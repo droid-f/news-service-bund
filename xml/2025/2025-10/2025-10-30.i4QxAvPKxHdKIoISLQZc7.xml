@@ -6,35 +6,35 @@
     <pubdate>2025-10-30</pubdate>
     <originator id="403" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Bundesamt für Justiz</name>
-      <name lang="en">Federal Office of Justice</name>
       <name lang="fr">Office fédéral de la justice</name>
       <name lang="it">Ufficio federale di giustizia</name>
       <name lang="rm">Uffizi federal da giustia</name>
+      <name lang="de">Bundesamt für Justiz</name>
+      <name lang="en">Federal Office of Justice</name>
       <www lang="de">https://www.bj.admin.ch/</www>
-      <email lang="rm">media@bj.admin.ch</email>
       <email lang="de">media@bj.admin.ch</email>
       <email lang="en">media@bj.admin.ch</email>
       <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
+      <email lang="rm">media@bj.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-126" org-id="401">
@@ -44,10 +44,10 @@
         <name lang="en">Compulsory measures</name>
       </keyword>
       <keyword id="SLW-88" org-id="401">
-        <name lang="it">Riabilitazione</name>
         <name lang="de">Rehabilitierung</name>
         <name lang="en">Rehabilitation</name>
         <name lang="fr">Réhabilitation</name>
+        <name lang="it">Riabilitazione</name>
       </keyword>
       <keyword id="SLW-126" org-id="401">
         <name lang="de">Zwangsmassnahmen</name>
@@ -62,34 +62,34 @@
         <name lang="it">Riabilitazione</name>
       </keyword>
       <keyword id="SLW-126" org-id="401">
+        <name lang="en">Compulsory measures</name>
         <name lang="fr">Mesures de contrainte</name>
         <name lang="it">Misure coercitive</name>
         <name lang="de">Zwangsmassnahmen</name>
-        <name lang="en">Compulsory measures</name>
       </keyword>
       <keyword id="SLW-88" org-id="401">
-        <name lang="de">Rehabilitierung</name>
         <name lang="en">Rehabilitation</name>
         <name lang="fr">Réhabilitation</name>
         <name lang="it">Riabilitazione</name>
+        <name lang="de">Rehabilitierung</name>
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Losanna</city>
@@ -117,11 +117,11 @@
     </content>
     <topics>
       <topic id="26">
+        <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
-        <name lang="de">Recht</name>
       </topic>
     </topics>
     <offers/>

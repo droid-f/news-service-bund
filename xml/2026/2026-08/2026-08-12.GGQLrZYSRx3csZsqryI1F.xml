@@ -6,11 +6,11 @@
     <pubdate>2026-08-12</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
     </originator>
     <originator id="1060" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
@@ -19,10 +19,10 @@
       <name lang="fr">Secrétariat d'État et aux questions financières internationales</name>
       <name lang="it">Segreteria di Stato per le questioni finanziarie internazionali</name>
       <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
-      <www lang="it">https://www.sif.admin.ch/it</www>
       <www lang="de">https://www.sif.admin.ch/de</www>
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
+      <www lang="it">https://www.sif.admin.ch/it</www>
       <email lang="fr">info@sif.admin.ch</email>
       <email lang="it">info@sif.admin.ch</email>
       <email lang="rm">info@sif.admin.ch</email>
@@ -41,11 +41,11 @@
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
-      <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
+      <email lang="de">media@gs-efd.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -81,46 +81,46 @@
     </content>
     <topics>
       <topic id="254">
-        <name lang="fr">Mesures de stabilisation</name>
-        <name lang="it">Stabilizzazione congiunturale</name>
         <name lang="rm">Mesiras da stabilisaziun</name>
         <name lang="de">Stabilisierungsmassnahmen</name>
         <name lang="en">Stabilisation measures</name>
+        <name lang="fr">Mesures de stabilisation</name>
+        <name lang="it">Stabilizzazione congiunturale</name>
       </topic>
       <topic id="635">
+        <name lang="rm">Bancas</name>
         <name lang="de">Banken</name>
         <name lang="en">Banks</name>
         <name lang="fr">Banques</name>
         <name lang="it">Banche</name>
-        <name lang="rm">Bancas</name>
       </topic>
       <topic id="333">
+        <name lang="it">Procedura di consultazione</name>
+        <name lang="rm">Procedura da consultaziun</name>
         <name lang="de">Vernehmlassungsverfahren</name>
         <name lang="en">Consultation procedure</name>
         <name lang="fr">Procédures de consultation</name>
-        <name lang="it">Procedura di consultazione</name>
-        <name lang="rm">Procedura da consultaziun</name>
       </topic>
       <topic id="47">
+        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
       </topic>
       <topic id="5">
+        <name lang="rm">Autoritads</name>
         <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
-        <name lang="rm">Autoritads</name>
       </topic>
     </topics>
     <offers/>

@@ -6,16 +6,16 @@
     <pubdate>2026-08-14</pubdate>
     <originator id="610" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="rm">Uffizi federal per edifizis e logistica</name>
       <name lang="de">Bundesamt für Bauten und Logistik</name>
       <name lang="en">Federal Office for Buildings and Logistics</name>
       <name lang="fr">Office fédéral des constructions et de la logistique</name>
       <name lang="it">Ufficio federale delle costruzioni e della logistica</name>
+      <name lang="rm">Uffizi federal per edifizis e logistica</name>
+      <www lang="de">https://www.bbl.admin.ch</www>
+      <www lang="en">https://www.bbl.admin.ch</www>
       <www lang="fr">https://www.bbl.admin.ch/fr</www>
       <www lang="it">https://www.bbl.admin.ch/it</www>
       <www lang="rm">https://www.bbl.admin.ch</www>
-      <www lang="de">https://www.bbl.admin.ch</www>
-      <www lang="en">https://www.bbl.admin.ch</www>
       <email lang="de">media@bbl.admin.ch</email>
       <email lang="en">media@bbl.admin.ch</email>
       <email lang="fr">media@bbl.admin.ch</email>
@@ -24,16 +24,16 @@
     </originator>
     <originator id="702" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="it">Segreteria generale DEFR</name>
-      <name lang="rm">Secretariat general DEFR</name>
       <name lang="de">Generalsekretariat WBF</name>
       <name lang="en">General Secretariat EAER</name>
       <name lang="fr">Secrétariat général DEFR</name>
+      <name lang="it">Segreteria generale DEFR</name>
+      <name lang="rm">Secretariat general DEFR</name>
+      <www lang="de">https://www.wbf.admin.ch/de/</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/de</www>
-      <www lang="de">https://www.wbf.admin.ch/de/</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -42,11 +42,11 @@
     </originator>
     <originator id="1047" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="en">Agroscope</name>
       <name lang="fr">Agroscope</name>
       <name lang="it">Agroscope</name>
       <name lang="rm">Agroscope</name>
       <name lang="de">Agroscope</name>
-      <name lang="en">Agroscope</name>
       <www lang="de">https://www.agroscope.admin.ch/</www>
       <www lang="en">https://www.agroscope.admin.ch/</www>
       <www lang="fr">https://www.agroscope.admin.ch/</www>
@@ -59,10 +59,10 @@
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
-      <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
       <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
       <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
+      <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
     </originator>
     <keywords/>
     <department id="601">
@@ -76,28 +76,28 @@
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <department id="701">
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="en">
       <city>Posieux</city>
@@ -133,31 +133,31 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
       </topic>
       <topic id="38">
-        <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
         <name lang="rm">Agricultura</name>
+        <name lang="de">Landwirtschaft</name>
       </topic>
       <topic id="9">
+        <name lang="de">Wissenschaft</name>
+        <name lang="en">Science</name>
         <name lang="fr">Science</name>
         <name lang="it">Scienza</name>
         <name lang="rm">Scienza</name>
-        <name lang="de">Wissenschaft</name>
-        <name lang="en">Science</name>
       </topic>
       <topic id="114">
-        <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
       </topic>
       <topic id="108">
         <name lang="de">Landwirtschaft</name>

@@ -6,11 +6,11 @@
     <pubdate>2025-10-31</pubdate>
     <originator id="1047" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="fr">Agroscope</name>
-      <name lang="it">Agroscope</name>
       <name lang="rm">Agroscope</name>
       <name lang="de">Agroscope</name>
       <name lang="en">Agroscope</name>
+      <name lang="fr">Agroscope</name>
+      <name lang="it">Agroscope</name>
       <www lang="fr">https://www.agroscope.admin.ch/</www>
       <www lang="it">https://www.agroscope.admin.ch/</www>
       <www lang="de">https://www.agroscope.admin.ch/</www>
@@ -23,17 +23,17 @@
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
-      <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
-      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
+      <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
+      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
     </originator>
     <keywords>
       <keyword id="SLW-2108,ORG-1047" org-id="1047">
-        <name lang="it">Campicoltura</name>
         <name lang="de">Ackerbau</name>
         <name lang="en">Field crops</name>
         <name lang="fr">Grandes cultures</name>
+        <name lang="it">Campicoltura</name>
       </keyword>
       <keyword id="SLW-16" org-id="1047">
         <name lang="de">Umweltschutz</name>
@@ -60,16 +60,16 @@
         <name lang="it">Clima</name>
       </keyword>
       <keyword id="SLW-51" org-id="1047">
-        <name lang="fr">Bilans écologiques</name>
-        <name lang="it">Bilanci ecologici</name>
         <name lang="de">Ökobilanzen</name>
         <name lang="en">Life cycle assessment</name>
+        <name lang="fr">Bilans écologiques</name>
+        <name lang="it">Bilanci ecologici</name>
       </keyword>
       <keyword id="SLW-56" org-id="1047">
-        <name lang="fr">Socio-économie</name>
-        <name lang="it">Socio-economia</name>
         <name lang="de">Sozioökonomie</name>
         <name lang="en">Socioeconomics</name>
+        <name lang="fr">Socio-économie</name>
+        <name lang="it">Socio-economia</name>
       </keyword>
       <keyword id="SLW-59" org-id="1047">
         <name lang="de">Zentrale Auswertung von Buchhaltungsdaten</name>
@@ -78,10 +78,10 @@
         <name lang="it">Esame centralizzato dei dati contabili</name>
       </keyword>
       <keyword id="SLW-65" org-id="1047">
-        <name lang="de">Weide</name>
-        <name lang="en">Pasture</name>
         <name lang="fr">Pâturage</name>
         <name lang="it">Pascolo</name>
+        <name lang="de">Weide</name>
+        <name lang="en">Pasture</name>
       </keyword>
       <keyword id="SLW-67" org-id="1047">
         <name lang="de">Milch</name>
@@ -102,10 +102,10 @@
         <name lang="it">Protezione dell’ambiente</name>
       </keyword>
       <keyword id="SLW-34" org-id="1047">
-        <name lang="de">Rind</name>
         <name lang="en">Bovine</name>
         <name lang="fr">Bovin</name>
         <name lang="it">Bovino</name>
+        <name lang="de">Rind</name>
       </keyword>
       <keyword id="SLW-37" org-id="1047">
         <name lang="de">Biologischer Landbau</name>
@@ -114,28 +114,28 @@
         <name lang="it">Agricultura biologica</name>
       </keyword>
       <keyword id="SLW-46" org-id="1047">
-        <name lang="en">Climate</name>
-        <name lang="fr">Climat</name>
         <name lang="it">Clima</name>
         <name lang="de">Klima</name>
+        <name lang="en">Climate</name>
+        <name lang="fr">Climat</name>
       </keyword>
       <keyword id="SLW-51" org-id="1047">
+        <name lang="it">Bilanci ecologici</name>
         <name lang="de">Ökobilanzen</name>
         <name lang="en">Life cycle assessment</name>
         <name lang="fr">Bilans écologiques</name>
-        <name lang="it">Bilanci ecologici</name>
       </keyword>
       <keyword id="SLW-56" org-id="1047">
+        <name lang="it">Socio-economia</name>
         <name lang="de">Sozioökonomie</name>
         <name lang="en">Socioeconomics</name>
         <name lang="fr">Socio-économie</name>
-        <name lang="it">Socio-economia</name>
       </keyword>
       <keyword id="SLW-59" org-id="1047">
-        <name lang="en">Farm accountancy data network</name>
-        <name lang="fr">Dépouillement centralisé des données comptables</name>
         <name lang="it">Esame centralizzato dei dati contabili</name>
         <name lang="de">Zentrale Auswertung von Buchhaltungsdaten</name>
+        <name lang="en">Farm accountancy data network</name>
+        <name lang="fr">Dépouillement centralisé des données comptables</name>
       </keyword>
       <keyword id="SLW-65" org-id="1047">
         <name lang="de">Weide</name>
@@ -144,28 +144,28 @@
         <name lang="it">Pascolo</name>
       </keyword>
       <keyword id="SLW-67" org-id="1047">
-        <name lang="de">Milch</name>
-        <name lang="en">Milk</name>
         <name lang="fr">Lait</name>
         <name lang="it">Latte</name>
+        <name lang="de">Milch</name>
+        <name lang="en">Milk</name>
       </keyword>
     </keywords>
     <department id="701">
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Ettenhausen</city>
@@ -192,18 +192,18 @@
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="238">
-        <name lang="rm">Tegnida d'animals</name>
         <name lang="de">Tierhaltung</name>
         <name lang="en">Animal husbandry</name>
         <name lang="fr">Détention d’animaux</name>
         <name lang="it">Detenzione di animali</name>
+        <name lang="rm">Tegnida d'animals</name>
       </topic>
       <topic id="234">
-        <name lang="rm">Planticultura</name>
         <name lang="de">Pflanzenbau</name>
         <name lang="en">Plant production</name>
         <name lang="fr">Production végétale</name>
         <name lang="it">Produzione vegetale</name>
+        <name lang="rm">Planticultura</name>
       </topic>
       <topic id="242">
         <name lang="de">Ökonomie &amp; Technik</name>
@@ -220,11 +220,11 @@
         <name lang="rm">Agricultura</name>
       </topic>
       <topic id="633">
+        <name lang="rm">Politica agrara</name>
         <name lang="de">Agrarpolitik</name>
         <name lang="en">Agricultural policy</name>
         <name lang="fr">Politique agricole</name>
         <name lang="it">Politiche agricole</name>
-        <name lang="rm">Politica agrara</name>
       </topic>
       <topic id="630">
         <name lang="de">Ackerbau</name>
@@ -241,11 +241,11 @@
         <name lang="de">Nachhaltige Entwicklung</name>
       </topic>
       <topic id="244">
-        <name lang="de">Klima</name>
         <name lang="en">Climate</name>
         <name lang="fr">Climat</name>
         <name lang="it">Clima</name>
         <name lang="rm">Clima</name>
+        <name lang="de">Klima</name>
       </topic>
       <topic id="239">
         <name lang="de">Milch &amp; Milchprodukte</name>
@@ -255,11 +255,11 @@
         <name lang="rm">Latg e products da latg</name>
       </topic>
       <topic id="9">
+        <name lang="de">Wissenschaft</name>
+        <name lang="en">Science</name>
         <name lang="fr">Science</name>
         <name lang="it">Scienza</name>
         <name lang="rm">Scienza</name>
-        <name lang="de">Wissenschaft</name>
-        <name lang="en">Science</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -269,11 +269,11 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="21">
-        <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="114">
         <name lang="it">Economia</name>

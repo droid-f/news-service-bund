@@ -6,18 +6,18 @@
     <pubdate>2026-09-14</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="en">Swiss Federal Audit Office</name>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
-      <www lang="de">https://www.efk.admin.ch</www>
-      <www lang="fr">https://www.efk.admin.ch/fr</www>
+      <name lang="en">Swiss Federal Audit Office</name>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
-      <email lang="de">kommunikation@efk.admin.ch</email>
+      <www lang="de">https://www.efk.admin.ch</www>
+      <www lang="fr">https://www.efk.admin.ch/fr</www>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
+      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -31,9 +31,9 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -89,18 +89,18 @@
         <name lang="rm">Traffic sin via</name>
       </topic>
       <topic id="626">
-        <name lang="en">SBB - Swiss Federal Railways</name>
         <name lang="fr">Chemins de fer fédéraux suisses (CFF)</name>
         <name lang="it">Ferrovie federali svizzere (FFS)</name>
         <name lang="rm">Viafiers federalas svizras (VFF)</name>
         <name lang="de">Schweizerische Bundesbahnen (SBB)</name>
+        <name lang="en">SBB - Swiss Federal Railways</name>
       </topic>
       <topic id="46">
+        <name lang="de">Verkehr &amp; Mobilität</name>
+        <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
         <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
-        <name lang="de">Verkehr &amp; Mobilität</name>
-        <name lang="en">Transport &amp; Mobility</name>
       </topic>
     </topics>
     <offers/>

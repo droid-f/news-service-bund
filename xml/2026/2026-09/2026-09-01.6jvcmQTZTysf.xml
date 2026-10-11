@@ -12,11 +12,11 @@
       <name lang="en">Federal Office of Justice</name>
       <name lang="fr">Office fédéral de la justice</name>
       <www lang="de">https://www.bj.admin.ch/</www>
+      <email lang="rm">media@bj.admin.ch</email>
       <email lang="de">media@bj.admin.ch</email>
       <email lang="en">media@bj.admin.ch</email>
       <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
-      <email lang="rm">media@bj.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
@@ -25,11 +25,11 @@
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
@@ -38,10 +38,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-96" org-id="401">
-        <name lang="en">Debt enforcement and bankruptcy procedures</name>
-        <name lang="fr">Poursuites et faillites</name>
         <name lang="it">Esecuzioni e fallimenti</name>
         <name lang="de">Schuldbetreibung und Konkurs</name>
+        <name lang="en">Debt enforcement and bankruptcy procedures</name>
+        <name lang="fr">Poursuites et faillites</name>
       </keyword>
       <keyword id="SLW-31" org-id="401">
         <name lang="fr">Cyberadministration</name>
@@ -50,16 +50,16 @@
         <name lang="en">E-Government</name>
       </keyword>
       <keyword id="SLW-96" org-id="401">
+        <name lang="de">Schuldbetreibung und Konkurs</name>
         <name lang="en">Debt enforcement and bankruptcy procedures</name>
         <name lang="fr">Poursuites et faillites</name>
         <name lang="it">Esecuzioni e fallimenti</name>
-        <name lang="de">Schuldbetreibung und Konkurs</name>
       </keyword>
       <keyword id="SLW-31" org-id="401">
+        <name lang="de">E-Government</name>
         <name lang="en">E-Government</name>
         <name lang="fr">Cyberadministration</name>
         <name lang="it">E-Government</name>
-        <name lang="de">E-Government</name>
       </keyword>
       <keyword id="SLW-96" org-id="401">
         <name lang="de">Schuldbetreibung und Konkurs</name>
@@ -68,23 +68,23 @@
         <name lang="it">Esecuzioni e fallimenti</name>
       </keyword>
       <keyword id="SLW-31" org-id="401">
+        <name lang="it">E-Government</name>
         <name lang="de">E-Government</name>
         <name lang="en">E-Government</name>
         <name lang="fr">Cyberadministration</name>
-        <name lang="it">E-Government</name>
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
@@ -124,11 +124,11 @@
         <name lang="de">Recht</name>
       </topic>
       <topic id="36">
+        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
         <name lang="it">Digitalizzazione, comunicazione e media</name>
-        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
       </topic>
     </topics>
     <offers/>

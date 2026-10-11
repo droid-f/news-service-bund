@@ -6,21 +6,21 @@
     <pubdate>2026-09-03</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-31" org-id="401">
@@ -36,10 +36,10 @@
         <name lang="it">Commercio elettronico</name>
       </keyword>
       <keyword id="SLW-16" org-id="401">
-        <name lang="de">Ausweise</name>
-        <name lang="en">Identity documents</name>
         <name lang="fr">Papiers d'identité</name>
         <name lang="it">Documenti d'identità</name>
+        <name lang="de">Ausweise</name>
+        <name lang="en">Identity documents</name>
       </keyword>
       <keyword id="SLW-31" org-id="401">
         <name lang="de">E-Government</name>
@@ -48,10 +48,10 @@
         <name lang="it">E-Government</name>
       </keyword>
       <keyword id="SLW-30" org-id="401">
-        <name lang="fr">Commerce électronique</name>
-        <name lang="it">Commercio elettronico</name>
         <name lang="de">E-Commerce</name>
         <name lang="en">E-Commerce</name>
+        <name lang="fr">Commerce électronique</name>
+        <name lang="it">Commercio elettronico</name>
       </keyword>
       <keyword id="SLW-16" org-id="401">
         <name lang="de">Ausweise</name>
@@ -60,10 +60,10 @@
         <name lang="it">Documenti d'identità</name>
       </keyword>
       <keyword id="SLW-31" org-id="401">
-        <name lang="fr">Cyberadministration</name>
         <name lang="it">E-Government</name>
         <name lang="de">E-Government</name>
         <name lang="en">E-Government</name>
+        <name lang="fr">Cyberadministration</name>
       </keyword>
       <keyword id="SLW-30" org-id="401">
         <name lang="fr">Commerce électronique</name>
@@ -104,11 +104,11 @@
     </content>
     <topics>
       <topic id="36">
-        <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
         <name lang="it">Digitalizzazione, comunicazione e media</name>
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
+        <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
       </topic>
     </topics>
     <offers/>

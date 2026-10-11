@@ -6,11 +6,11 @@
     <pubdate>2026-05-21</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -24,16 +24,46 @@
     </originator>
     <keywords>
       <keyword id="5905" org-id="201">
+        <name lang="de">Afghanistan</name>
         <name lang="en">Afghanistan</name>
         <name lang="fr">Afghanistan</name>
         <name lang="it">Afghanistan</name>
-        <name lang="de">Afghanistan</name>
       </keyword>
       <keyword id="5899" org-id="201">
         <name lang="fr">Iran</name>
         <name lang="it">Iran</name>
         <name lang="de">Iran</name>
         <name lang="en">Iran</name>
+      </keyword>
+      <keyword id="6305" org-id="201">
+        <name lang="it">Libano</name>
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
+        <name lang="fr">Liban</name>
+      </keyword>
+      <keyword id="6306" org-id="201">
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
+        <name lang="fr">Syrie</name>
+        <name lang="it">Siria</name>
+      </keyword>
+      <keyword id="5896" org-id="201">
+        <name lang="en">Yemen</name>
+        <name lang="fr">Yémen</name>
+        <name lang="it">Yemen</name>
+        <name lang="de">Jemen</name>
+      </keyword>
+      <keyword id="5905" org-id="201">
+        <name lang="en">Afghanistan</name>
+        <name lang="fr">Afghanistan</name>
+        <name lang="it">Afghanistan</name>
+        <name lang="de">Afghanistan</name>
+      </keyword>
+      <keyword id="5899" org-id="201">
+        <name lang="de">Iran</name>
+        <name lang="en">Iran</name>
+        <name lang="fr">Iran</name>
+        <name lang="it">Iran</name>
       </keyword>
       <keyword id="6305" org-id="201">
         <name lang="it">Libano</name>
@@ -54,22 +84,22 @@
         <name lang="it">Yemen</name>
       </keyword>
       <keyword id="5905" org-id="201">
-        <name lang="it">Afghanistan</name>
-        <name lang="de">Afghanistan</name>
         <name lang="en">Afghanistan</name>
         <name lang="fr">Afghanistan</name>
+        <name lang="it">Afghanistan</name>
+        <name lang="de">Afghanistan</name>
       </keyword>
       <keyword id="5899" org-id="201">
+        <name lang="it">Iran</name>
         <name lang="de">Iran</name>
         <name lang="en">Iran</name>
         <name lang="fr">Iran</name>
-        <name lang="it">Iran</name>
       </keyword>
       <keyword id="6305" org-id="201">
+        <name lang="en">Lebanon</name>
         <name lang="fr">Liban</name>
         <name lang="it">Libano</name>
         <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
       </keyword>
       <keyword id="6306" org-id="201">
         <name lang="de">Syrien</name>
@@ -90,36 +120,6 @@
         <name lang="it">Afghanistan</name>
       </keyword>
       <keyword id="5899" org-id="201">
-        <name lang="it">Iran</name>
-        <name lang="de">Iran</name>
-        <name lang="en">Iran</name>
-        <name lang="fr">Iran</name>
-      </keyword>
-      <keyword id="6305" org-id="201">
-        <name lang="it">Libano</name>
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
-        <name lang="fr">Liban</name>
-      </keyword>
-      <keyword id="6306" org-id="201">
-        <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
-        <name lang="fr">Syrie</name>
-        <name lang="it">Siria</name>
-      </keyword>
-      <keyword id="5896" org-id="201">
-        <name lang="fr">Yémen</name>
-        <name lang="it">Yemen</name>
-        <name lang="de">Jemen</name>
-        <name lang="en">Yemen</name>
-      </keyword>
-      <keyword id="5905" org-id="201">
-        <name lang="it">Afghanistan</name>
-        <name lang="de">Afghanistan</name>
-        <name lang="en">Afghanistan</name>
-        <name lang="fr">Afghanistan</name>
-      </keyword>
-      <keyword id="5899" org-id="201">
         <name lang="de">Iran</name>
         <name lang="en">Iran</name>
         <name lang="fr">Iran</name>
@@ -138,10 +138,10 @@
         <name lang="it">Siria</name>
       </keyword>
       <keyword id="5896" org-id="201">
+        <name lang="de">Jemen</name>
         <name lang="en">Yemen</name>
         <name lang="fr">Yémen</name>
         <name lang="it">Yemen</name>
-        <name lang="de">Jemen</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -178,11 +178,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="538">
         <name lang="de">Katastrophenhilfe</name>
@@ -192,25 +192,25 @@
         <name lang="rm">Agid en cas da catastrofas</name>
       </topic>
       <topic id="414">
-        <name lang="it">Catastrofi</name>
-        <name lang="rm">Catastrofas</name>
         <name lang="de">Katastrophen</name>
         <name lang="en">Disasters</name>
         <name lang="fr">Catastrophes</name>
+        <name lang="it">Catastrofi</name>
+        <name lang="rm">Catastrofas</name>
       </topic>
       <topic id="411">
+        <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
-        <name lang="de">Internationale Organisationen</name>
       </topic>
       <topic id="409">
+        <name lang="de">Entwicklungszusammenarbeit</name>
         <name lang="en">Development cooperation</name>
         <name lang="fr">Coopération au développement</name>
         <name lang="it">Cooperazione allo sviluppo</name>
         <name lang="rm">Cooperaziun al svilup</name>
-        <name lang="de">Entwicklungszusammenarbeit</name>
       </topic>
       <topic id="16">
         <name lang="de">Aussenpolitik</name>
@@ -220,11 +220,11 @@
         <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="30">
+        <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
-        <name lang="de">Ausserordentliche Lage, Krise</name>
       </topic>
       <topic id="110">
         <name lang="en">Security</name>
@@ -233,10 +233,10 @@
         <name lang="de">Sicherheit</name>
       </topic>
       <topic id="103">
-        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>

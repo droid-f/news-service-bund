@@ -6,15 +6,15 @@
     <pubdate>2026-07-15</pubdate>
     <originator id="705" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="en">Federal Office for Agriculture</name>
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
       <name lang="de">Bundesamt für Landwirtschaft</name>
-      <name lang="en">Federal Office for Agriculture</name>
-      <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
-      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
+      <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
+      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -23,11 +23,11 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
@@ -60,18 +60,18 @@
     </content>
     <topics>
       <topic id="38">
-        <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
         <name lang="rm">Agricultura</name>
+        <name lang="de">Landwirtschaft</name>
       </topic>
       <topic id="34">
-        <name lang="it">Svizzera e Europa</name>
-        <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
+        <name lang="it">Svizzera e Europa</name>
+        <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="410">
         <name lang="de">Europäische Union</name>
@@ -88,17 +88,17 @@
         <name lang="de">Bilaterale Abkommen</name>
       </topic>
       <topic id="47">
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="108">
-        <name lang="it">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
+        <name lang="it">Agricultura</name>
       </topic>
     </topics>
     <offers/>

@@ -6,46 +6,34 @@
     <pubdate>2025-12-02</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="en">https://www.eda.admin.ch/en</www>
-      <www lang="fr">https://www.eda.admin.ch/fr</www>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
+      <www lang="fr">https://www.eda.admin.ch/fr</www>
+      <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="5901" org-id="201">
-        <name lang="en">Kazakhstan</name>
-        <name lang="fr">Kazakhstan</name>
-        <name lang="it">Kazakstan</name>
-        <name lang="de">Kasachstan</name>
-      </keyword>
-      <keyword id="6483" org-id="201">
-        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
-        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
-        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
-        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
-      </keyword>
-      <keyword id="5901" org-id="201">
         <name lang="de">Kasachstan</name>
         <name lang="en">Kazakhstan</name>
         <name lang="fr">Kazakhstan</name>
         <name lang="it">Kazakstan</name>
       </keyword>
       <keyword id="6483" org-id="201">
-        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
-        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
         <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
         <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
+        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
+        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
       <keyword id="5901" org-id="201">
         <name lang="de">Kasachstan</name>
@@ -66,10 +54,22 @@
         <name lang="it">Kazakstan</name>
       </keyword>
       <keyword id="6483" org-id="201">
+        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
         <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
         <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
         <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
+      </keyword>
+      <keyword id="5901" org-id="201">
+        <name lang="en">Kazakhstan</name>
+        <name lang="fr">Kazakhstan</name>
+        <name lang="it">Kazakstan</name>
+        <name lang="de">Kasachstan</name>
+      </keyword>
+      <keyword id="6483" org-id="201">
         <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
+        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
+        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
+        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -106,11 +106,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
       </topic>
       <topic id="550">
         <name lang="de">Sicherheitspolitik</name>
@@ -120,18 +120,18 @@
         <name lang="rm">Politica da segirezza</name>
       </topic>
       <topic id="409">
+        <name lang="fr">Coopération au développement</name>
+        <name lang="it">Cooperazione allo sviluppo</name>
         <name lang="rm">Cooperaziun al svilup</name>
         <name lang="de">Entwicklungszusammenarbeit</name>
         <name lang="en">Development cooperation</name>
-        <name lang="fr">Coopération au développement</name>
-        <name lang="it">Cooperazione allo sviluppo</name>
       </topic>
       <topic id="16">
+        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
-        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="21">
         <name lang="de">Umwelt &amp; Natur</name>
@@ -141,10 +141,10 @@
         <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="112">
-        <name lang="de">Umwelt</name>
         <name lang="en">Environment</name>
         <name lang="fr">Environnement</name>
         <name lang="it">Ambiente</name>
+        <name lang="de">Umwelt</name>
       </topic>
       <topic id="110">
         <name lang="de">Sicherheit</name>

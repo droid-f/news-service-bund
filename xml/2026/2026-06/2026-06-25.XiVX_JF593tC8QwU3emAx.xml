@@ -11,41 +11,60 @@
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
       <www lang="it">https://www.sbfi.admin.ch/it</www>
+      <www lang="de">https://www.sbfi.admin.ch</www>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-0005" org-id="701">
-        <name lang="it">Straniero</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign</name>
         <name lang="fr">Etranger</name>
+        <name lang="it">Straniero</name>
       </keyword>
       <keyword id="SLW-0001" org-id="701">
-        <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
         <name lang="en">Economic Affairs</name>
         <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+      </keyword>
+      <keyword id="SLW-0005" org-id="701">
+        <name lang="en">Foreign</name>
+        <name lang="fr">Etranger</name>
+        <name lang="it">Straniero</name>
+        <name lang="de">Ausland</name>
+      </keyword>
+      <keyword id="SLW-0001" org-id="701">
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economic Affairs</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
       </keyword>
       <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
@@ -80,49 +99,30 @@
         <name lang="it">Straniero</name>
       </keyword>
       <keyword id="SLW-0001" org-id="701">
-        <name lang="de">Wirtschaft</name>
-        <name lang="en">Economic Affairs</name>
         <name lang="fr">Economie</name>
         <name lang="it">Economia</name>
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economic Affairs</name>
       </keyword>
       <keyword id="12708" org-id="701">
+        <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-      </keyword>
-      <keyword id="SLW-0005" org-id="701">
-        <name lang="it">Straniero</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign</name>
-        <name lang="fr">Etranger</name>
-      </keyword>
-      <keyword id="SLW-0001" org-id="701">
-        <name lang="it">Economia</name>
-        <name lang="de">Wirtschaft</name>
-        <name lang="en">Economic Affairs</name>
-        <name lang="fr">Economie</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
       </keyword>
     </keywords>
     <department id="701">
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -163,11 +163,11 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="104">
         <name lang="de">Guy Parmelin</name>
@@ -184,18 +184,18 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="634">
+        <name lang="rm">Economia da l'exteriur</name>
         <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
         <name lang="it">Economia esterna</name>
-        <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="444">
+        <name lang="de">Auftritte</name>
+        <name lang="en">Public appearances</name>
         <name lang="fr">Apparitions</name>
         <name lang="it">Apparizioni in pubblico</name>
         <name lang="rm">Preschentaziuns</name>
-        <name lang="de">Auftritte</name>
-        <name lang="en">Public appearances</name>
       </topic>
       <topic id="436">
         <name lang="de">Wissenschaftsförderung</name>
@@ -205,32 +205,32 @@
         <name lang="rm">Promoziun da la scienza</name>
       </topic>
       <topic id="16">
+        <name lang="rm">Politica exteriura</name>
+        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
-        <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
       </topic>
       <topic id="33">
+        <name lang="de">Bundespräsidium</name>
         <name lang="en">Federal Presidency</name>
         <name lang="fr">Présidence de la Confédération</name>
         <name lang="it">Presidenza delle Confederazione</name>
         <name lang="rm">Presidi da la Confederaziun</name>
-        <name lang="de">Bundespräsidium</name>
       </topic>
     </topics>
     <offers/>

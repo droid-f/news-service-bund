@@ -6,18 +6,18 @@
     <pubdate>2026-08-17</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
+      <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
-      <name lang="en">Swiss Federal Audit Office</name>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
-      <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
+      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -26,14 +26,14 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -75,18 +75,18 @@
     </content>
     <topics>
       <topic id="440">
-        <name lang="de">Regionalpolitik</name>
-        <name lang="en">Regional policy</name>
         <name lang="fr">Politique régionale</name>
         <name lang="it">Politica regionale</name>
         <name lang="rm">Politica regiunala</name>
+        <name lang="de">Regionalpolitik</name>
+        <name lang="en">Regional policy</name>
       </topic>
       <topic id="21">
-        <name lang="en">Environment &amp; Nature</name>
-        <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
+        <name lang="en">Environment &amp; Nature</name>
+        <name lang="fr">Environnement et nature</name>
       </topic>
     </topics>
     <offers/>

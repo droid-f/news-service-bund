@@ -6,18 +6,18 @@
     <pubdate>2026-06-08</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
-      <www lang="it">https://www.efk.admin.ch/it</www>
-      <www lang="en">https://www.efk.admin.ch/en</www>
+      <name lang="it">Controllo federale delle finanze</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
+      <www lang="it">https://www.efk.admin.ch/it</www>
+      <www lang="en">https://www.efk.admin.ch/en</www>
+      <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
-      <email lang="en">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="it">
@@ -54,25 +54,25 @@
     </content>
     <topics>
       <topic id="621">
-        <name lang="de">Öffentlicher Verkehr</name>
         <name lang="en">Public transport</name>
         <name lang="fr">Transports publics</name>
         <name lang="it">Trasporto pubblico</name>
         <name lang="rm">Traffic public</name>
+        <name lang="de">Öffentlicher Verkehr</name>
       </topic>
       <topic id="46">
+        <name lang="de">Verkehr &amp; Mobilität</name>
+        <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
         <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
-        <name lang="de">Verkehr &amp; Mobilität</name>
-        <name lang="en">Transport &amp; Mobility</name>
       </topic>
       <topic id="31">
-        <name lang="it">Confederazione, Cantoni e Comuni</name>
-        <name lang="rm">Confederaziun, chantuns e vischnancas</name>
         <name lang="de">Bund, Kantone &amp; Gemeinden</name>
         <name lang="en">Confederation, Cantons &amp; Communes</name>
         <name lang="fr">Confédération, cantons et communes</name>
+        <name lang="it">Confederazione, Cantoni e Comuni</name>
+        <name lang="rm">Confederaziun, chantuns e vischnancas</name>
       </topic>
       <topic id="115">
         <name lang="de">Mobilität</name>

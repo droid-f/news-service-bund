@@ -6,16 +6,16 @@
     <pubdate>2026-01-12</pubdate>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
@@ -24,6 +24,13 @@
     </originator>
     <keywords>
       <keyword id="12708" org-id="701">
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
@@ -31,18 +38,11 @@
         <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
         <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -71,39 +71,39 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="104">
+        <name lang="de">Guy Parmelin</name>
         <name lang="en">Guy Parmelin</name>
         <name lang="fr">Guy Parmelin</name>
         <name lang="it">Guy Parmelin</name>
         <name lang="rm">Guy Parmelin</name>
-        <name lang="de">Guy Parmelin</name>
       </topic>
       <topic id="39">
-        <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
       </topic>
       <topic id="634">
-        <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
         <name lang="it">Economia esterna</name>
         <name lang="rm">Economia da l'exteriur</name>
+        <name lang="de">Aussenwirtschaft</name>
       </topic>
       <topic id="444">
-        <name lang="de">Auftritte</name>
-        <name lang="en">Public appearances</name>
         <name lang="fr">Apparitions</name>
         <name lang="it">Apparizioni in pubblico</name>
         <name lang="rm">Preschentaziuns</name>
+        <name lang="de">Auftritte</name>
+        <name lang="en">Public appearances</name>
       </topic>
       <topic id="443">
         <name lang="en">Events</name>
@@ -113,11 +113,11 @@
         <name lang="de">Anlässe</name>
       </topic>
       <topic id="34">
+        <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
-        <name lang="fr">Suisse et Europe </name>
       </topic>
       <topic id="16">
         <name lang="de">Aussenpolitik</name>

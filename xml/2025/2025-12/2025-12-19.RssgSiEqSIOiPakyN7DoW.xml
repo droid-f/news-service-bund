@@ -14,21 +14,21 @@
     </originator>
     <originator id="604" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="rm">Uffizi federal da persunal</name>
       <name lang="de">Eidgenössisches Personalamt</name>
       <name lang="en">Federal Personnel Office</name>
       <name lang="fr">Office fédéral du personnel</name>
       <name lang="it">Ufficio federale del personale</name>
-      <www lang="de">https://www.epa.admin.ch/epa/de/home.html</www>
+      <name lang="rm">Uffizi federal da persunal</name>
       <www lang="en">https://www.epa.admin.ch/epa/de/home.html</www>
       <www lang="fr">https://www.epa.admin.ch/epa/fr/home.html</www>
       <www lang="it">https://www.epa.admin.ch/epa/it/home.html</www>
       <www lang="rm">https://www.epa.admin.ch/epa/de/home.html</www>
+      <www lang="de">https://www.epa.admin.ch/epa/de/home.html</www>
+      <email lang="en">media@epa.admin.ch</email>
+      <email lang="fr">media@epa.admin.ch</email>
       <email lang="it">media@epa.admin.ch</email>
       <email lang="rm">media@epa.admin.ch</email>
       <email lang="de">media@epa.admin.ch</email>
-      <email lang="en">media@epa.admin.ch</email>
-      <email lang="fr">media@epa.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
@@ -37,11 +37,11 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -74,11 +74,11 @@
     </content>
     <topics>
       <topic id="441">
+        <name lang="de">Personalrecht</name>
+        <name lang="en">Personnel law</name>
         <name lang="fr">Droit du personnel</name>
         <name lang="it">Diritto del personale</name>
         <name lang="rm">Dretg dal persunal</name>
-        <name lang="de">Personalrecht</name>
-        <name lang="en">Personnel law</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

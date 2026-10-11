@@ -6,14 +6,14 @@
     <pubdate>2026-03-26</pubdate>
     <originator id="1006" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="fr">Office fédéral du service civil</name>
+      <name lang="it">Ufficio federale del servizio civile</name>
       <name lang="rm">Uffizi federal dal servetsch civil</name>
       <name lang="de">Bundesamt für Zivildienst</name>
       <name lang="en">Federal Office for Civilian Service</name>
-      <name lang="fr">Office fédéral du service civil</name>
-      <name lang="it">Ufficio federale del servizio civile</name>
+      <www lang="it">https://www.zivi.admin.ch/it/</www>
       <www lang="de">https://www.zivi.admin.ch/de/</www>
       <www lang="fr">https://www.zivi.admin.ch/fr/</www>
-      <www lang="it">https://www.zivi.admin.ch/it/</www>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -27,11 +27,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords/>
     <department id="701">
@@ -77,11 +77,11 @@
     </content>
     <topics>
       <topic id="555">
+        <name lang="de">Zivildienst</name>
         <name lang="en">Civilian service</name>
         <name lang="fr">Service civil</name>
         <name lang="it">Servizio civile</name>
         <name lang="rm">Servetsch civil</name>
-        <name lang="de">Zivildienst</name>
       </topic>
       <topic id="40">
         <name lang="de">Sicherheit</name>
@@ -91,11 +91,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
       </topic>
     </topics>
     <offers/>

@@ -6,11 +6,11 @@
     <pubdate>2026-03-30</pubdate>
     <originator id="413" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Eidgenössische Spielbankenkommission</name>
-      <name lang="en">Federal Gaming Board</name>
       <name lang="fr">Commission fédérale des maisons de jeu</name>
       <name lang="it">Commissione federale delle case da gioco</name>
       <name lang="rm">Cumissiun federala da bancas da gieu</name>
+      <name lang="de">Eidgenössische Spielbankenkommission</name>
+      <name lang="en">Federal Gaming Board</name>
       <www lang="de">https://www.esbk.admin.ch/</www>
       <email lang="de">info@esbk.admin.ch</email>
       <email lang="en">info@esbk.admin.ch</email>
@@ -20,16 +20,16 @@
     </originator>
     <keywords/>
     <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -62,11 +62,11 @@
     </content>
     <topics>
       <topic id="14">
-        <name lang="rm">Tribunals e giustia</name>
         <name lang="de">Gerichte &amp; Justiz</name>
         <name lang="en">Courts &amp; Justice</name>
         <name lang="fr">Tribunaux et justice</name>
         <name lang="it">Tribunali e giustizia</name>
+        <name lang="rm">Tribunals e giustia</name>
       </topic>
     </topics>
     <offers/>

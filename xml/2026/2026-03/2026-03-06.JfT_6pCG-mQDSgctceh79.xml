@@ -6,34 +6,34 @@
     <pubdate>2026-03-06</pubdate>
     <originator id="703" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
       <name lang="rm">Secretariat da stadi per l'economia</name>
       <name lang="de">Staatssekretariat für Wirtschaft</name>
       <name lang="en">State Secretariat for Economic Affairs</name>
+      <name lang="fr">Secrétariat d'État à l'économie</name>
+      <www lang="rm">https://www.seco.admin.ch</www>
+      <www lang="de">https://www.seco.admin.ch</www>
       <www lang="en">https://www.seco.admin.ch/en</www>
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
-      <www lang="rm">https://www.seco.admin.ch</www>
-      <www lang="de">https://www.seco.admin.ch</www>
+      <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
-      <email lang="rm">medien@seco.admin.ch</email>
     </originator>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <www lang="de">https://www.eda.admin.ch</www>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
@@ -42,24 +42,24 @@
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -73,16 +73,16 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <email lang="en">info@gs-wbf.admin.ch</email>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -110,11 +110,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="336">
         <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
@@ -124,32 +124,32 @@
         <name lang="rm">Collavuraziun e svilup economic</name>
       </topic>
       <topic id="634">
+        <name lang="it">Economia esterna</name>
+        <name lang="rm">Economia da l'exteriur</name>
         <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
-        <name lang="it">Economia esterna</name>
-        <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="110">
+        <name lang="rm">Crisas</name>
+        <name lang="de">Krisen</name>
         <name lang="en">Crises</name>
         <name lang="fr">Crises</name>
         <name lang="it">Crisi</name>
-        <name lang="rm">Crisas</name>
-        <name lang="de">Krisen</name>
       </topic>
       <topic id="16">
+        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
-        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="47">
-        <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
+        <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="40">
         <name lang="de">Sicherheit</name>
@@ -166,11 +166,11 @@
         <name lang="rm">Cussegl federal</name>
       </topic>
       <topic id="30">
-        <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
+        <name lang="de">Ausserordentliche Lage, Krise</name>
       </topic>
     </topics>
     <offers/>

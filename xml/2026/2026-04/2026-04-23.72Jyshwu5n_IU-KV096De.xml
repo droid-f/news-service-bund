@@ -11,10 +11,10 @@
       <name lang="fr">Commission fédérale pour les questions féminines </name>
       <name lang="it">Commissione federale per le questioni femminili </name>
       <name lang="rm">Cumissiun federala per dumondas da dunnas</name>
-      <www lang="de">https://www.ekf.admin.ch</www>
       <www lang="en">https://www.ekf.admin.ch/ekf/en/home.html</www>
       <www lang="fr">https://www.ekf.admin.ch/ekf/fr/home.html</www>
       <www lang="it">https://www.ekf.admin.ch/ekf/it/home.html</www>
+      <www lang="de">https://www.ekf.admin.ch</www>
       <email lang="de">ekf@ebg.admin.ch</email>
       <email lang="en">ekf@ebg.admin.ch</email>
       <email lang="fr">ekf@ebg.admin.ch</email>
@@ -23,16 +23,16 @@
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
-      <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
+      <www lang="it">https://www.edi.admin.ch/it</www>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -60,25 +60,25 @@
     </content>
     <topics>
       <topic id="26">
-        <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
+        <name lang="de">Recht</name>
       </topic>
       <topic id="114">
+        <name lang="de">Elisabeth Baume-Schneider</name>
         <name lang="en">Elisabeth Baume-Schneider</name>
         <name lang="fr">Elisabeth Baume-Schneider</name>
         <name lang="it">Elisabeth Baume-Schneider</name>
         <name lang="rm">Elisabeth Baume-Schneider</name>
-        <name lang="de">Elisabeth Baume-Schneider</name>
       </topic>
       <topic id="520">
-        <name lang="rm">Egualitad</name>
         <name lang="de">Gleichstellung</name>
         <name lang="en">Equality</name>
         <name lang="fr">Égalité</name>
         <name lang="it">Pari opportunità</name>
+        <name lang="rm">Egualitad</name>
       </topic>
       <topic id="447">
         <name lang="de">Anlässe mit Bundesräten</name>
@@ -95,11 +95,11 @@
         <name lang="en">Digitalisation, Communication &amp; Media</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
       </topic>
       <topic id="31">
         <name lang="de">Bund, Kantone &amp; Gemeinden</name>
@@ -109,11 +109,11 @@
         <name lang="rm">Confederaziun, chantuns e vischnancas</name>
       </topic>
       <topic id="5">
-        <name lang="it">Autorità</name>
-        <name lang="rm">Autoritads</name>
         <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
+        <name lang="it">Autorità</name>
+        <name lang="rm">Autoritads</name>
       </topic>
     </topics>
     <offers/>

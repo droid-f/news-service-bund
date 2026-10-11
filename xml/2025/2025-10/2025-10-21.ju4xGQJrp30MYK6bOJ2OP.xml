@@ -6,16 +6,16 @@
     <pubdate>2025-10-21</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
-      <www lang="fr">https://www.eda.admin.ch/fr</www>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
+      <www lang="fr">https://www.eda.admin.ch/fr</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
@@ -24,22 +24,22 @@
     </originator>
     <keywords>
       <keyword id="6290" org-id="201">
-        <name lang="it">Giordania</name>
         <name lang="de">Jordanien</name>
         <name lang="en">Jordan</name>
         <name lang="fr">Jordanie</name>
+        <name lang="it">Giordania</name>
       </keyword>
       <keyword id="6294" org-id="201">
-        <name lang="fr">Irak</name>
-        <name lang="it">Iraq</name>
         <name lang="de">Irak</name>
         <name lang="en">Iraq</name>
+        <name lang="fr">Irak</name>
+        <name lang="it">Iraq</name>
       </keyword>
       <keyword id="6308" org-id="201">
-        <name lang="de">Kuwait</name>
-        <name lang="en">Kuwait</name>
         <name lang="fr">Koweït</name>
         <name lang="it">Kuwait</name>
+        <name lang="de">Kuwait</name>
+        <name lang="en">Kuwait</name>
       </keyword>
       <keyword id="6290" org-id="201">
         <name lang="de">Jordanien</name>
@@ -60,22 +60,22 @@
         <name lang="it">Kuwait</name>
       </keyword>
       <keyword id="6290" org-id="201">
-        <name lang="fr">Jordanie</name>
-        <name lang="it">Giordania</name>
         <name lang="de">Jordanien</name>
         <name lang="en">Jordan</name>
+        <name lang="fr">Jordanie</name>
+        <name lang="it">Giordania</name>
       </keyword>
       <keyword id="6294" org-id="201">
-        <name lang="de">Irak</name>
         <name lang="en">Iraq</name>
         <name lang="fr">Irak</name>
         <name lang="it">Iraq</name>
+        <name lang="de">Irak</name>
       </keyword>
       <keyword id="6308" org-id="201">
+        <name lang="it">Kuwait</name>
         <name lang="de">Kuwait</name>
         <name lang="en">Kuwait</name>
         <name lang="fr">Koweït</name>
-        <name lang="it">Kuwait</name>
       </keyword>
       <keyword id="6290" org-id="201">
         <name lang="de">Jordanien</name>
@@ -84,10 +84,10 @@
         <name lang="it">Giordania</name>
       </keyword>
       <keyword id="6294" org-id="201">
+        <name lang="fr">Irak</name>
         <name lang="it">Iraq</name>
         <name lang="de">Irak</name>
         <name lang="en">Iraq</name>
-        <name lang="fr">Irak</name>
       </keyword>
       <keyword id="6308" org-id="201">
         <name lang="de">Kuwait</name>
@@ -130,11 +130,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="16">
         <name lang="it">Politica estera</name>

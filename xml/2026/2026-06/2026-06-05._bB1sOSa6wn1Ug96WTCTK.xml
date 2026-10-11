@@ -6,40 +6,40 @@
     <pubdate>2026-06-05</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
+      <www lang="en">https://www.admin.ch/en</www>
     </originator>
     <originator id="508" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="rm">Uffizi federal da sport</name>
       <name lang="de">Bundesamt für Sport BASPO</name>
       <name lang="en">Federal Office of Sport FOSPO</name>
       <name lang="fr">Office fédéral du sport OFSPO</name>
       <name lang="it">Ufficio federale dello sport UFSPO</name>
-      <name lang="rm">Uffizi federal da sport</name>
       <www lang="de">http://www.baspo.admin.ch</www>
       <www lang="en">http://www.baspo.admin.ch/</www>
       <www lang="fr">http://www.baspo.admin.ch/</www>
       <www lang="it">http://www.baspo.admin.ch/</www>
+      <email lang="rm">info@baspo.admin.ch</email>
       <email lang="de">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
       <email lang="fr">info@baspo.admin.ch</email>
       <email lang="it">info@baspo.admin.ch</email>
-      <email lang="rm">info@baspo.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch/</www>
-      <www lang="en">http://www.vbs.admin.ch/</www>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
+      <www lang="de">http://www.vbs.admin.ch/</www>
+      <www lang="en">http://www.vbs.admin.ch/</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
@@ -48,11 +48,11 @@
     </originator>
     <keywords/>
     <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -85,28 +85,28 @@
     </content>
     <topics>
       <topic id="581">
+        <name lang="fr">Politique du sport</name>
+        <name lang="it">Politica dello sport</name>
         <name lang="rm">Politica da sport</name>
         <name lang="de">Sportpolitik</name>
         <name lang="en">Sport policy</name>
-        <name lang="fr">Politique du sport</name>
-        <name lang="it">Politica dello sport</name>
       </topic>
       <topic id="556">
-        <name lang="it">Protezione civile</name>
-        <name lang="rm">Protecziun civila</name>
         <name lang="de">Zivilschutz</name>
         <name lang="en">Civil protection organisation</name>
         <name lang="fr">Protection civile</name>
+        <name lang="it">Protezione civile</name>
+        <name lang="rm">Protecziun civila</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="42">
-        <name lang="it">Sport</name>
-        <name lang="rm">Sport</name>
         <name lang="de">Sport</name>
         <name lang="en">Sport</name>
         <name lang="fr">Sport</name>
+        <name lang="it">Sport</name>
+        <name lang="rm">Sport</name>
       </topic>
       <topic id="10">
         <name lang="en">Federal Council</name>

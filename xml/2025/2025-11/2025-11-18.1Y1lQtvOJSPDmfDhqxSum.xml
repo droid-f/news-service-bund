@@ -11,23 +11,23 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <www lang="de">https://www.eda.admin.ch</www>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="5883" org-id="201">
-        <name lang="de">Ruanda</name>
-        <name lang="en">Rwanda</name>
         <name lang="fr">Rwanda</name>
         <name lang="it">Ruanda</name>
+        <name lang="de">Ruanda</name>
+        <name lang="en">Rwanda</name>
       </keyword>
       <keyword id="6289" org-id="201">
         <name lang="de">Demokratische Republik Kongo</name>
@@ -42,22 +42,10 @@
         <name lang="it">Ruanda</name>
       </keyword>
       <keyword id="6289" org-id="201">
-        <name lang="de">Demokratische Republik Kongo</name>
-        <name lang="en">Democratic Republic of the Congo</name>
         <name lang="fr">République démocratique du Congo</name>
-        <name lang="it">Repubblica democratica del Congo</name>
-      </keyword>
-      <keyword id="5883" org-id="201">
-        <name lang="it">Ruanda</name>
-        <name lang="de">Ruanda</name>
-        <name lang="en">Rwanda</name>
-        <name lang="fr">Rwanda</name>
-      </keyword>
-      <keyword id="6289" org-id="201">
         <name lang="it">Repubblica democratica del Congo</name>
         <name lang="de">Demokratische Republik Kongo</name>
         <name lang="en">Democratic Republic of the Congo</name>
-        <name lang="fr">République démocratique du Congo</name>
       </keyword>
       <keyword id="5883" org-id="201">
         <name lang="de">Ruanda</name>
@@ -66,10 +54,22 @@
         <name lang="it">Ruanda</name>
       </keyword>
       <keyword id="6289" org-id="201">
-        <name lang="fr">République démocratique du Congo</name>
         <name lang="it">Repubblica democratica del Congo</name>
         <name lang="de">Demokratische Republik Kongo</name>
         <name lang="en">Democratic Republic of the Congo</name>
+        <name lang="fr">République démocratique du Congo</name>
+      </keyword>
+      <keyword id="5883" org-id="201">
+        <name lang="de">Ruanda</name>
+        <name lang="en">Rwanda</name>
+        <name lang="fr">Rwanda</name>
+        <name lang="it">Ruanda</name>
+      </keyword>
+      <keyword id="6289" org-id="201">
+        <name lang="de">Demokratische Republik Kongo</name>
+        <name lang="en">Democratic Republic of the Congo</name>
+        <name lang="fr">République démocratique du Congo</name>
+        <name lang="it">Repubblica democratica del Congo</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -106,11 +106,11 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
+        <name lang="fr">Formation, recherche &amp; innovation</name>
       </topic>
       <topic id="39">
         <name lang="de">Ausland</name>
@@ -120,32 +120,32 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="411">
+        <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
-        <name lang="en">International organisations</name>
       </topic>
       <topic id="409">
-        <name lang="de">Entwicklungszusammenarbeit</name>
-        <name lang="en">Development cooperation</name>
         <name lang="fr">Coopération au développement</name>
         <name lang="it">Cooperazione allo sviluppo</name>
         <name lang="rm">Cooperaziun al svilup</name>
+        <name lang="de">Entwicklungszusammenarbeit</name>
+        <name lang="en">Development cooperation</name>
       </topic>
       <topic id="16">
+        <name lang="fr">Politique étrangère</name>
+        <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
-        <name lang="fr">Politique étrangère</name>
-        <name lang="it">Politica estera</name>
       </topic>
       <topic id="40">
-        <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
       </topic>
       <topic id="103">
         <name lang="de">Aussenbeziehungen</name>

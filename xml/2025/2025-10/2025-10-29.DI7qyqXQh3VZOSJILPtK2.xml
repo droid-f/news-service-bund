@@ -6,36 +6,36 @@
     <pubdate>2025-10-29</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="705" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Bundesamt für Landwirtschaft</name>
-      <name lang="en">Federal Office for Agriculture</name>
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="en">Federal Office for Agriculture</name>
+      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
       <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
-      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -86,11 +86,11 @@
     </content>
     <topics>
       <topic id="658">
-        <name lang="rm">Allevament d'animals</name>
         <name lang="de">Tierzucht</name>
         <name lang="en">Animal breeding</name>
         <name lang="fr">Élevage</name>
         <name lang="it">Allevamento</name>
+        <name lang="rm">Allevament d'animals</name>
       </topic>
       <topic id="38">
         <name lang="de">Landwirtschaft</name>
@@ -100,25 +100,25 @@
         <name lang="rm">Agricultura</name>
       </topic>
       <topic id="613">
+        <name lang="it">Flora</name>
+        <name lang="rm">Plantas</name>
         <name lang="de">Pflanzen</name>
         <name lang="en">Plants</name>
         <name lang="fr">Végétaux</name>
-        <name lang="it">Flora</name>
-        <name lang="rm">Plantas</name>
       </topic>
       <topic id="47">
+        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="21">
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

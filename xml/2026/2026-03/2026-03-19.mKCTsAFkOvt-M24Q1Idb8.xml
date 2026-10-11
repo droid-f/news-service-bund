@@ -6,17 +6,17 @@
     <pubdate>2026-03-19</pubdate>
     <originator id="315" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="en">Swiss Federal Archives</name>
       <name lang="fr">Archives fédérales suisses</name>
       <name lang="it">Archivio federale svizzero</name>
       <name lang="rm">Archiv federal svizzer</name>
       <name lang="de">Schweizerisches Bundesarchiv</name>
+      <name lang="en">Swiss Federal Archives</name>
       <www lang="de">https://www.bar.admin.ch/</www>
-      <email lang="de">stab@bar.admin.ch</email>
       <email lang="en">stab@bar.admin.ch</email>
       <email lang="fr">stab@bar.admin.ch</email>
       <email lang="it">stab@bar.admin.ch</email>
       <email lang="rm">stab@bar.admin.ch</email>
+      <email lang="de">stab@bar.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-003" org-id="315">
@@ -26,16 +26,16 @@
         <name lang="it">Archivi</name>
       </keyword>
       <keyword id="SLW-021" org-id="315">
-        <name lang="de">Unterlagen</name>
-        <name lang="en">Records</name>
         <name lang="fr">Documents</name>
         <name lang="it">Documenti</name>
+        <name lang="de">Unterlagen</name>
+        <name lang="en">Records</name>
       </keyword>
       <keyword id="SLW-004" org-id="315">
-        <name lang="fr">Archives</name>
-        <name lang="it">Archivio</name>
         <name lang="de">Archivgut</name>
         <name lang="en">Archives</name>
+        <name lang="fr">Archives</name>
+        <name lang="it">Archivio</name>
       </keyword>
       <keyword id="SLW-003" org-id="315">
         <name lang="en">Archives</name>
@@ -44,16 +44,16 @@
         <name lang="de">Archive</name>
       </keyword>
       <keyword id="SLW-021" org-id="315">
+        <name lang="de">Unterlagen</name>
         <name lang="en">Records</name>
         <name lang="fr">Documents</name>
         <name lang="it">Documenti</name>
-        <name lang="de">Unterlagen</name>
       </keyword>
       <keyword id="SLW-004" org-id="315">
-        <name lang="en">Archives</name>
-        <name lang="fr">Archives</name>
         <name lang="it">Archivio</name>
         <name lang="de">Archivgut</name>
+        <name lang="en">Archives</name>
+        <name lang="fr">Archives</name>
       </keyword>
       <keyword id="SLW-003" org-id="315">
         <name lang="de">Archive</name>
@@ -75,16 +75,16 @@
       </keyword>
     </keywords>
     <department id="301">
-      <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
-      <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -119,11 +119,11 @@
         <name lang="rm">Archiv federal</name>
       </topic>
       <topic id="7">
+        <name lang="fr">Bibliothèques et archives</name>
+        <name lang="it">Biblioteche e archivi</name>
         <name lang="rm">Bibliotecas ed archivs</name>
         <name lang="de">Bibliothek &amp; Archiv</name>
         <name lang="en">Libraries &amp; Archives</name>
-        <name lang="fr">Bibliothèques et archives</name>
-        <name lang="it">Biblioteche e archivi</name>
       </topic>
     </topics>
     <offers/>

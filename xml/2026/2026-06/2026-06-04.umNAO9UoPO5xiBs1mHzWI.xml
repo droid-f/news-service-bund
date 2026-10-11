@@ -6,21 +6,21 @@
     <pubdate>2026-06-04</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <www lang="it">https://www.eda.admin.ch/it</www>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -37,27 +37,27 @@
     </originator>
     <originator id="314" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Kultur</name>
       <name lang="en">Federal Office of Culture</name>
       <name lang="fr">Office fédéral de la culture</name>
       <name lang="it">Ufficio federale della cultura</name>
       <name lang="rm">Uffizi federal da cultura</name>
+      <name lang="de">Bundesamt für Kultur</name>
       <www lang="de">http://www.bak.admin.ch/</www>
       <www lang="en">http://www.bak.admin.ch/</www>
       <www lang="it">http://www.bak.admin.ch/</www>
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -93,18 +93,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="18">
-        <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
+        <name lang="rm">Cultura</name>
       </topic>
     </topics>
     <offers/>

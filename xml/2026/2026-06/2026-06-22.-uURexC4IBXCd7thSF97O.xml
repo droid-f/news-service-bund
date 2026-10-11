@@ -6,10 +6,10 @@
     <pubdate>2026-06-22</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
-      <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
+      <name lang="fr">Contrôle fédéral des finances</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
@@ -31,14 +31,14 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
     </keywords>
     <content lang="fr">
@@ -82,10 +82,10 @@
         <name lang="rm">Tribunals e giustia</name>
       </topic>
       <topic id="104">
-        <name lang="fr">Juridiction</name>
-        <name lang="it">Giurisdizione</name>
         <name lang="de">Gerichtsbarkeit</name>
         <name lang="en">Jurisdiction</name>
+        <name lang="fr">Juridiction</name>
+        <name lang="it">Giurisdizione</name>
       </topic>
     </topics>
     <offers/>

@@ -6,21 +6,21 @@
     <pubdate>2025-11-25</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Ufficio federale di statistica</name>
-      <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="rm">Uffizi federal da statistica</name>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
       <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
+      <email lang="rm">media@bfs.admin.ch</email>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
       <email lang="it">media@bfs.admin.ch</email>
-      <email lang="rm">media@bfs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -69,11 +69,11 @@
     </content>
     <topics>
       <topic id="677">
-        <name lang="rm">Statistica economica</name>
         <name lang="de">Wirtschaftsstatistik</name>
         <name lang="en">Economic statistics</name>
         <name lang="fr">Statistiques économiques</name>
         <name lang="it">Statistiche economiche</name>
+        <name lang="rm">Statistica economica</name>
       </topic>
       <topic id="406">
         <name lang="de">Erwerbstätigkeit</name>
@@ -83,18 +83,18 @@
         <name lang="rm">Activitad da gudogn</name>
       </topic>
       <topic id="43">
+        <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
-        <name lang="en">Knowledge &amp; Statistics</name>
       </topic>
       <topic id="2">
+        <name lang="rm">Lavur</name>
+        <name lang="de">Arbeit</name>
         <name lang="en">Work</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
-        <name lang="rm">Lavur</name>
-        <name lang="de">Arbeit</name>
       </topic>
       <topic id="124">
         <name lang="de">Öffentliche Statistik</name>
@@ -103,16 +103,16 @@
         <name lang="it">Statistica pubblica</name>
       </topic>
       <topic id="114">
+        <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
       </topic>
       <topic id="100">
-        <name lang="de">Arbeit</name>
-        <name lang="en">Labour</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
+        <name lang="de">Arbeit</name>
+        <name lang="en">Labour</name>
       </topic>
     </topics>
     <offers/>

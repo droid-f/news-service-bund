@@ -15,19 +15,19 @@
       <www lang="fr">http://www.baspo.admin.ch/</www>
       <www lang="it">http://www.baspo.admin.ch/</www>
       <www lang="de">http://www.baspo.admin.ch</www>
-      <email lang="it">info@baspo.admin.ch</email>
       <email lang="rm">info@baspo.admin.ch</email>
       <email lang="de">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
       <email lang="fr">info@baspo.admin.ch</email>
+      <email lang="it">info@baspo.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="en">General Secretariat DDPS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <name lang="fr">Secrétariat général du DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
@@ -40,11 +40,11 @@
     </originator>
     <keywords/>
     <department id="501">
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -77,11 +77,11 @@
     </content>
     <topics>
       <topic id="576">
-        <name lang="rm">Giuventetgna &amp; sport</name>
         <name lang="de">Jugend &amp; Sport</name>
         <name lang="en">Youth &amp; Sport</name>
         <name lang="fr">Jeunesse &amp; Sport</name>
         <name lang="it">Gioventù e sport</name>
+        <name lang="rm">Giuventetgna &amp; sport</name>
       </topic>
       <topic id="42">
         <name lang="de">Sport</name>

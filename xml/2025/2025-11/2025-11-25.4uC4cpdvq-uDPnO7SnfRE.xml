@@ -11,16 +11,16 @@
       <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
-      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
-      <email lang="it">media@bfs.admin.ch</email>
-      <email lang="rm">media@bfs.admin.ch</email>
+      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
+      <email lang="it">media@bfs.admin.ch</email>
+      <email lang="rm">media@bfs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -69,11 +69,11 @@
     </content>
     <topics>
       <topic id="15">
+        <name lang="en">Health</name>
+        <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
         <name lang="de">Gesundheit</name>
-        <name lang="en">Health</name>
-        <name lang="fr">Santé</name>
       </topic>
       <topic id="677">
         <name lang="de">Wirtschaftsstatistik</name>
@@ -83,30 +83,30 @@
         <name lang="rm">Statistica economica</name>
       </topic>
       <topic id="43">
+        <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
-        <name lang="de">Wissen &amp; Statistik</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="114">
+        <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
         <name lang="it">Economia</name>
-        <name lang="de">Wirtschaft</name>
       </topic>
       <topic id="113">
-        <name lang="it">Salute</name>
         <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
+        <name lang="it">Salute</name>
       </topic>
     </topics>
     <offers/>

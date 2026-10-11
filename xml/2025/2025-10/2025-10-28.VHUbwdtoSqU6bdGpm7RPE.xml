@@ -6,33 +6,33 @@
     <pubdate>2025-10-28</pubdate>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
-      <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="1084" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Bundesamt für Landestopografie swisstopo</name>
       <name lang="en">Federal Office of Topography swisstopo</name>
       <name lang="fr">Office fédéral de topographie swisstopo</name>
       <name lang="it">Ufficio federale di topografia swisstopo</name>
       <name lang="rm">Uffizi federal da topografia swisstopo</name>
-      <name lang="de">Bundesamt für Landestopografie swisstopo</name>
-      <www lang="it">http://www.swisstopo.admin.ch/</www>
       <www lang="de">http://www.swisstopo.admin.ch/</www>
       <www lang="en">http://www.swisstopo.admin.ch/</www>
       <www lang="fr">http://www.swisstopo.admin.ch/</www>
+      <www lang="it">http://www.swisstopo.admin.ch/</www>
       <email lang="fr">infokmk@swisstopo.ch</email>
       <email lang="it">infokmk@swisstopo.ch</email>
       <email lang="rm">infokmk@swisstopo.ch</email>
@@ -41,11 +41,11 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
@@ -95,25 +95,25 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="34">
-        <name lang="it">Svizzera e Europa</name>
-        <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
+        <name lang="it">Svizzera e Europa</name>
+        <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="40">
+        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
       </topic>
     </topics>
     <offers/>

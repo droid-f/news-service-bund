@@ -6,18 +6,18 @@
     <pubdate>2026-08-17</pubdate>
     <originator id="813" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="it">Ispettorato federale degli impianti a corrente forte</name>
       <name lang="de">Eidgenössisches Starkstrominspektorat</name>
       <name lang="en">Federal Inspectorate for Heavy Current Installations</name>
       <name lang="fr">Inspection fédérale des installations à courant fort</name>
-      <name lang="it">Ispettorato federale degli impianti a corrente forte</name>
+      <www lang="de">http://www.esti.admin.ch/de/</www>
       <www lang="en">http://www.esti.admin.ch/en/</www>
       <www lang="fr">http://www.esti.admin.ch/fr/</www>
       <www lang="it">http://www.esti.admin.ch/it/</www>
-      <www lang="de">http://www.esti.admin.ch/de/</www>
-      <email lang="de">mub.bs.info@esti.ch</email>
-      <email lang="en">mub.bs.info@esti.ch</email>
       <email lang="fr">mub.bs.info@esti.ch</email>
       <email lang="it">mub.bs.info@esti.ch</email>
+      <email lang="de">mub.bs.info@esti.ch</email>
+      <email lang="en">mub.bs.info@esti.ch</email>
     </originator>
     <keywords/>
     <department id="801">
@@ -26,16 +26,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Fehraltorf</city>
@@ -63,11 +63,11 @@
     </content>
     <topics>
       <topic id="330">
-        <name lang="it">Richiami e informazioni relative alla sicurezza</name>
-        <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
         <name lang="de">Rückrufe und Sicherheitsinformationen</name>
         <name lang="en">Recalls and safety information</name>
         <name lang="fr">Rappels et informations sur la sécurité</name>
+        <name lang="it">Richiami e informazioni relative alla sicurezza</name>
+        <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
       </topic>
       <topic id="37">
         <name lang="fr">Consommation</name>

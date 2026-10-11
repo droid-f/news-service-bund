@@ -18,10 +18,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-2908,ORG-1080" org-id="1080">
-        <name lang="de">Bildung</name>
-        <name lang="en">Education</name>
         <name lang="fr">Education</name>
         <name lang="it">Educazione</name>
+        <name lang="de">Bildung</name>
+        <name lang="en">Education</name>
       </keyword>
       <keyword id="SLW-2908,ORG-1080" org-id="1080">
         <name lang="de">Bildung</name>
@@ -36,28 +36,28 @@
         <name lang="it">Educazione</name>
       </keyword>
       <keyword id="SLW-2908,ORG-1080" org-id="1080">
+        <name lang="it">Educazione</name>
         <name lang="de">Bildung</name>
         <name lang="en">Education</name>
         <name lang="fr">Education</name>
-        <name lang="it">Educazione</name>
       </keyword>
     </keywords>
     <department id="701">
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -100,18 +100,18 @@
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="434">
-        <name lang="en">Further education</name>
-        <name lang="fr">Formation continue</name>
         <name lang="it">Formazione continua</name>
         <name lang="rm">Furmaziun supplementara</name>
         <name lang="de">Weiterbildung</name>
+        <name lang="en">Further education</name>
+        <name lang="fr">Formation continue</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -121,10 +121,10 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="103">
-        <name lang="it">Relazioni esterne</name>
-        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
+        <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>

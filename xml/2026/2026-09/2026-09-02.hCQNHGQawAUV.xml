@@ -16,27 +16,27 @@
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
-      <email lang="de">medien@seco.admin.ch</email>
-      <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
       <email lang="rm">medien@seco.admin.ch</email>
+      <email lang="de">medien@seco.admin.ch</email>
+      <email lang="en">medien@seco.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
-      <www lang="fr">https://www.admin.ch/fr</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
@@ -60,21 +60,21 @@
       </keyword>
     </keywords>
     <department id="701">
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="fr">https://www.wbf.admin.ch/fr</www>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
-      <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -102,18 +102,18 @@
     </content>
     <topics>
       <topic id="512">
+        <name lang="fr">Logement</name>
+        <name lang="it">Abitazioni</name>
         <name lang="rm">Fatgs d'abitaziuns</name>
         <name lang="de">Wohnungswesen</name>
         <name lang="en">Housing</name>
-        <name lang="fr">Logement</name>
-        <name lang="it">Abitazioni</name>
       </topic>
       <topic id="440">
-        <name lang="rm">Politica regiunala</name>
         <name lang="de">Regionalpolitik</name>
         <name lang="en">Regional policy</name>
         <name lang="fr">Politique régionale</name>
         <name lang="it">Politica regionale</name>
+        <name lang="rm">Politica regiunala</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -123,25 +123,25 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="25">
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
       </topic>
       <topic id="10">
+        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
       </topic>
       <topic id="31">
-        <name lang="de">Bund, Kantone &amp; Gemeinden</name>
         <name lang="en">Confederation, Cantons &amp; Communes</name>
         <name lang="fr">Confédération, cantons et communes</name>
         <name lang="it">Confederazione, Cantoni e Comuni</name>
         <name lang="rm">Confederaziun, chantuns e vischnancas</name>
+        <name lang="de">Bund, Kantone &amp; Gemeinden</name>
       </topic>
     </topics>
     <offers/>

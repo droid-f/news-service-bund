@@ -23,33 +23,33 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
+      <www lang="it">https://www.vbs.admin.ch/it</www>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -84,25 +84,25 @@
         <name lang="rm">Politica da sport</name>
       </topic>
       <topic id="578">
+        <name lang="rm">Sport d'elita</name>
+        <name lang="de">Spitzensport</name>
         <name lang="en">Performance sport</name>
         <name lang="fr">Sport d’élite</name>
         <name lang="it">Sport di punta</name>
-        <name lang="rm">Sport d'elita</name>
-        <name lang="de">Spitzensport</name>
       </topic>
       <topic id="576">
-        <name lang="rm">Giuventetgna &amp; sport</name>
         <name lang="de">Jugend &amp; Sport</name>
         <name lang="en">Youth &amp; Sport</name>
         <name lang="fr">Jeunesse &amp; Sport</name>
         <name lang="it">Gioventù e sport</name>
+        <name lang="rm">Giuventetgna &amp; sport</name>
       </topic>
       <topic id="42">
+        <name lang="rm">Sport</name>
         <name lang="de">Sport</name>
         <name lang="en">Sport</name>
         <name lang="fr">Sport</name>
         <name lang="it">Sport</name>
-        <name lang="rm">Sport</name>
       </topic>
     </topics>
     <offers/>

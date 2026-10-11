@@ -6,14 +6,14 @@
     <pubdate>2026-04-16</pubdate>
     <originator id="710" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Wettbewerbskommission</name>
       <name lang="en">Competition Commission</name>
       <name lang="fr">Commission de la concurrence</name>
       <name lang="it">Commissione della concorrenza</name>
       <name lang="rm">Cumissiun da concurrenza</name>
-      <name lang="de">Wettbewerbskommission</name>
-      <www lang="de">https://www.weko.admin.ch/weko/de/home.html</www>
       <www lang="fr">https://www.weko.admin.ch/weko/fr/home.html</www>
       <www lang="it">https://www.weko.admin.ch/weko/it/home.html</www>
+      <www lang="de">https://www.weko.admin.ch/weko/de/home.html</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -27,11 +27,11 @@
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -66,11 +66,11 @@
         <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="5">
+        <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
         <name lang="rm">Autoritads</name>
-        <name lang="de">Behörden</name>
       </topic>
     </topics>
     <offers/>

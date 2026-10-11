@@ -6,33 +6,33 @@
     <pubdate>2026-03-05</pubdate>
     <originator id="1004" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Schweizerische Nationalbibliothek</name>
+      <name lang="en">Swiss National Library</name>
       <name lang="fr">Bibliothèque nationale suisse</name>
       <name lang="it">Biblioteca nazionale svizzera</name>
       <name lang="rm">Banca naziunala svizra</name>
-      <name lang="de">Schweizerische Nationalbibliothek</name>
-      <name lang="en">Swiss National Library</name>
-      <www lang="de">https://www.nb.admin.ch</www>
       <www lang="en">https://www.nb.admin.ch/snl/en/home.html</www>
       <www lang="fr">https://www.nb.admin.ch/snl/fr/home.html</www>
       <www lang="it">https://www.nb.admin.ch/snl/it/home.html</www>
-      <email lang="de">marketing@nb.admin.ch </email>
+      <www lang="de">https://www.nb.admin.ch</www>
       <email lang="en">marketing@nb.admin.ch </email>
       <email lang="fr">marketing@nb.admin.ch </email>
       <email lang="it">marketing@nb.admin.ch </email>
       <email lang="rm">marketing@nb.admin.ch </email>
+      <email lang="de">marketing@nb.admin.ch </email>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -60,39 +60,39 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="243">
+        <name lang="it">Paesaggio e biodiversità</name>
+        <name lang="rm">Cuntrada e biodiversitad</name>
         <name lang="de">Landschaft &amp; Biodiversität</name>
         <name lang="en">Landscape &amp; Biodiversity</name>
         <name lang="fr">Paysage et biodiversité</name>
-        <name lang="it">Paesaggio e biodiversità</name>
-        <name lang="rm">Cuntrada e biodiversitad</name>
       </topic>
       <topic id="611">
+        <name lang="en">Nature conservation</name>
         <name lang="fr">Protection de la nature</name>
         <name lang="it">Protezione della natura</name>
         <name lang="rm">Protecziun da la natira</name>
         <name lang="de">Naturschutz</name>
-        <name lang="en">Nature conservation</name>
       </topic>
       <topic id="244">
+        <name lang="rm">Clima</name>
         <name lang="de">Klima</name>
         <name lang="en">Climate</name>
         <name lang="fr">Climat</name>
         <name lang="it">Clima</name>
-        <name lang="rm">Clima</name>
       </topic>
       <topic id="490">
-        <name lang="it">Musei</name>
-        <name lang="rm">Museums</name>
         <name lang="de">Museen</name>
         <name lang="en">Museums</name>
         <name lang="fr">Musées</name>
+        <name lang="it">Musei</name>
+        <name lang="rm">Museums</name>
       </topic>
       <topic id="489">
         <name lang="de">Kulturförderung</name>
@@ -123,37 +123,37 @@
         <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="27">
-        <name lang="en">Travel &amp; Tourism</name>
         <name lang="fr">Voyages et tourisme</name>
         <name lang="it">Viaggi e turismo</name>
         <name lang="rm">Viagiar e turissem</name>
         <name lang="de">Reisen &amp; Tourismus</name>
+        <name lang="en">Travel &amp; Tourism</name>
       </topic>
       <topic id="18">
-        <name lang="it">Cultura</name>
-        <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
+        <name lang="it">Cultura</name>
+        <name lang="rm">Cultura</name>
       </topic>
       <topic id="7">
+        <name lang="en">Libraries &amp; Archives</name>
         <name lang="fr">Bibliothèques et archives</name>
         <name lang="it">Biblioteche e archivi</name>
         <name lang="rm">Bibliotecas ed archivs</name>
         <name lang="de">Bibliothek &amp; Archiv</name>
-        <name lang="en">Libraries &amp; Archives</name>
       </topic>
       <topic id="123">
+        <name lang="de">Energie</name>
         <name lang="en">Energy</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
-        <name lang="de">Energie</name>
       </topic>
       <topic id="114">
-        <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
         <name lang="it">Economia</name>
+        <name lang="de">Wirtschaft</name>
       </topic>
       <topic id="112">
         <name lang="de">Umwelt</name>
@@ -168,10 +168,10 @@
         <name lang="it">Cultura</name>
       </topic>
       <topic id="102">
-        <name lang="fr">Education</name>
-        <name lang="it">Istruzione</name>
         <name lang="de">Bildung</name>
         <name lang="en">Education</name>
+        <name lang="fr">Education</name>
+        <name lang="it">Istruzione</name>
       </topic>
     </topics>
     <offers/>

@@ -6,21 +6,21 @@
     <pubdate>2026-06-26</pubdate>
     <originator id="805" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
-      <name lang="de">Bundesamt für Verkehr</name>
-      <name lang="en">Federal Office of Transport</name>
-      <www lang="de">http://www.bav.admin.ch/</www>
-      <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
-      <email lang="rm">presse@bav.admin.ch</email>
-      <email lang="de">presse@bav.admin.ch</email>
+      <www lang="de">http://www.bav.admin.ch/</www>
+      <www lang="en">http://www.bav.admin.ch/</www>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
+      <email lang="rm">presse@bav.admin.ch</email>
+      <email lang="de">presse@bav.admin.ch</email>
     </originator>
     <originator id="809" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -29,11 +29,11 @@
       <name lang="it">Ufficio federale delle strade</name>
       <name lang="rm">Uffizi federal da vias</name>
       <name lang="de">Bundesamt für Strassen</name>
-      <www lang="de">https://www.astra.admin.ch/de/</www>
       <www lang="en">https://www.astra.admin.ch/en/</www>
       <www lang="fr">https://www.astra.admin.ch/fr/</www>
       <www lang="it">https://www.astra.admin.ch/it/</www>
       <www lang="rm">https://www.astra.admin.ch/de/</www>
+      <www lang="de">https://www.astra.admin.ch/de/</www>
       <email lang="de">media@astra.admin.ch</email>
       <email lang="en">media@astra.admin.ch</email>
       <email lang="fr">media@astra.admin.ch</email>
@@ -52,11 +52,11 @@
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -84,11 +84,11 @@
     </content>
     <topics>
       <topic id="627">
-        <name lang="rm">Traffic sin via</name>
-        <name lang="de">Strassenverkehr</name>
         <name lang="en">Road traffic</name>
         <name lang="fr">Circulation routière</name>
         <name lang="it">Circolazione stradale</name>
+        <name lang="rm">Traffic sin via</name>
+        <name lang="de">Strassenverkehr</name>
       </topic>
       <topic id="620">
         <name lang="de">Güterverkehr</name>
@@ -98,18 +98,18 @@
         <name lang="rm">Transport da rauba</name>
       </topic>
       <topic id="619">
+        <name lang="rm">Viafier</name>
         <name lang="de">Eisenbahn</name>
         <name lang="en">Rail</name>
         <name lang="fr">Chemins de fer</name>
         <name lang="it">Ferrovie</name>
-        <name lang="rm">Viafier</name>
       </topic>
       <topic id="88">
-        <name lang="de">Bilaterale Abkommen</name>
-        <name lang="en">Bilateral agreements</name>
         <name lang="fr">Accords bilatéraux</name>
         <name lang="it">Accordi bilaterali</name>
         <name lang="rm">Cunvegnas bilateralas</name>
+        <name lang="de">Bilaterale Abkommen</name>
+        <name lang="en">Bilateral agreements</name>
       </topic>
       <topic id="46">
         <name lang="de">Verkehr &amp; Mobilität</name>

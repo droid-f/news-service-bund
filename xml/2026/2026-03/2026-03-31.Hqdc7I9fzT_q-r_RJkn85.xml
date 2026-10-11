@@ -16,11 +16,11 @@
       <www lang="fr">https://www.are.admin.ch/fr</www>
       <www lang="it">https://www.are.admin.ch/it</www>
       <www lang="rm">https://www.are.admin.ch/de</www>
+      <email lang="de">media@are.admin.ch</email>
+      <email lang="en">media@are.admin.ch</email>
       <email lang="fr">media@are.admin.ch</email>
       <email lang="it">media@are.admin.ch</email>
       <email lang="rm">media@are.admin.ch</email>
-      <email lang="de">media@are.admin.ch</email>
-      <email lang="en">media@are.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="15922" org-id="812">
@@ -40,21 +40,21 @@
       </keyword>
     </keywords>
     <department id="801">
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Ittigen</city>
@@ -103,17 +103,17 @@
         <name lang="rm">Viagiar e turissem</name>
       </topic>
       <topic id="25">
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
       </topic>
       <topic id="124">
+        <name lang="de">Öffentliche Statistik</name>
         <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
         <name lang="it">Statistica pubblica</name>
-        <name lang="de">Öffentliche Statistik</name>
       </topic>
       <topic id="114">
         <name lang="de">Wirtschaft</name>
@@ -122,10 +122,10 @@
         <name lang="it">Economia</name>
       </topic>
       <topic id="101">
-        <name lang="en">Construction</name>
-        <name lang="fr">Construction</name>
         <name lang="it">Costruzione</name>
         <name lang="de">Bauen</name>
+        <name lang="en">Construction</name>
+        <name lang="fr">Construction</name>
       </topic>
     </topics>
     <offers/>

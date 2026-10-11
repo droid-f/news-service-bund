@@ -15,11 +15,11 @@
       <www lang="en">https://www.nb.admin.ch/snl/en/home.html</www>
       <www lang="fr">https://www.nb.admin.ch/snl/fr/home.html</www>
       <www lang="it">https://www.nb.admin.ch/snl/it/home.html</www>
-      <email lang="it">marketing@nb.admin.ch </email>
-      <email lang="rm">marketing@nb.admin.ch </email>
       <email lang="de">marketing@nb.admin.ch </email>
       <email lang="en">marketing@nb.admin.ch </email>
       <email lang="fr">marketing@nb.admin.ch </email>
+      <email lang="it">marketing@nb.admin.ch </email>
+      <email lang="rm">marketing@nb.admin.ch </email>
     </originator>
     <keywords/>
     <department id="301">
@@ -28,11 +28,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -60,25 +60,25 @@
     </content>
     <topics>
       <topic id="456">
+        <name lang="rm">Pressa</name>
         <name lang="de">Presse</name>
         <name lang="en">Press</name>
         <name lang="fr">Presse</name>
         <name lang="it">Stampa</name>
-        <name lang="rm">Pressa</name>
       </topic>
       <topic id="431">
-        <name lang="rm">Biblioteca naziunala</name>
         <name lang="de">Nationalbibliothek</name>
         <name lang="en">National Library</name>
         <name lang="fr">Bibliothèque nationale</name>
         <name lang="it">Biblioteca nazionale svizzera</name>
+        <name lang="rm">Biblioteca naziunala</name>
       </topic>
       <topic id="18">
+        <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
         <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
-        <name lang="fr">Culture</name>
       </topic>
       <topic id="7">
         <name lang="de">Bibliothek &amp; Archiv</name>

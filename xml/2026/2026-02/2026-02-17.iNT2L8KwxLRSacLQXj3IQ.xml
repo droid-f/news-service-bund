@@ -6,16 +6,16 @@
     <pubdate>2026-02-17</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="de">https://www.eda.admin.ch</www>
-      <www lang="en">https://www.eda.admin.ch/en</www>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
@@ -30,52 +30,28 @@
         <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
       <keyword id="11276" org-id="201">
-        <name lang="en">Switzerland and the OSCE</name>
-        <name lang="fr">La Suisse et l'OSCE</name>
-        <name lang="it">La Svizzera e l'OSCE</name>
-        <name lang="de">Schweiz und OSZE</name>
-      </keyword>
-      <keyword id="11105" org-id="201">
-        <name lang="de">Bosnien und Herzegovina</name>
-        <name lang="en">Bosnia and Herzegovina</name>
-        <name lang="fr">Bosnie et Herzégovine</name>
-        <name lang="it">Bosnia e Erzegovina</name>
-      </keyword>
-      <keyword id="11108" org-id="201">
-        <name lang="de">Slowenien</name>
-        <name lang="en">Slovenia</name>
-        <name lang="fr">Slovénie</name>
-        <name lang="it">Slovenia</name>
-      </keyword>
-      <keyword id="6483" org-id="201">
-        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
-        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
-        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
-        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
-      </keyword>
-      <keyword id="11276" org-id="201">
         <name lang="fr">La Suisse et l'OSCE</name>
         <name lang="it">La Svizzera e l'OSCE</name>
         <name lang="de">Schweiz und OSZE</name>
         <name lang="en">Switzerland and the OSCE</name>
       </keyword>
       <keyword id="11105" org-id="201">
-        <name lang="de">Bosnien und Herzegovina</name>
         <name lang="en">Bosnia and Herzegovina</name>
         <name lang="fr">Bosnie et Herzégovine</name>
         <name lang="it">Bosnia e Erzegovina</name>
+        <name lang="de">Bosnien und Herzegovina</name>
       </keyword>
       <keyword id="11108" org-id="201">
-        <name lang="de">Slowenien</name>
-        <name lang="en">Slovenia</name>
         <name lang="fr">Slovénie</name>
         <name lang="it">Slovenia</name>
+        <name lang="de">Slowenien</name>
+        <name lang="en">Slovenia</name>
       </keyword>
       <keyword id="6483" org-id="201">
-        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
         <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
         <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
         <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
+        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
       <keyword id="11276" org-id="201">
         <name lang="fr">La Suisse et l'OSCE</name>
@@ -102,10 +78,34 @@
         <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
       <keyword id="11276" org-id="201">
+        <name lang="fr">La Suisse et l'OSCE</name>
+        <name lang="it">La Svizzera e l'OSCE</name>
         <name lang="de">Schweiz und OSZE</name>
+        <name lang="en">Switzerland and the OSCE</name>
+      </keyword>
+      <keyword id="11105" org-id="201">
+        <name lang="en">Bosnia and Herzegovina</name>
+        <name lang="fr">Bosnie et Herzégovine</name>
+        <name lang="it">Bosnia e Erzegovina</name>
+        <name lang="de">Bosnien und Herzegovina</name>
+      </keyword>
+      <keyword id="11108" org-id="201">
+        <name lang="de">Slowenien</name>
+        <name lang="en">Slovenia</name>
+        <name lang="fr">Slovénie</name>
+        <name lang="it">Slovenia</name>
+      </keyword>
+      <keyword id="6483" org-id="201">
+        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
+        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
+        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
+        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
+      </keyword>
+      <keyword id="11276" org-id="201">
         <name lang="en">Switzerland and the OSCE</name>
         <name lang="fr">La Suisse et l'OSCE</name>
         <name lang="it">La Svizzera e l'OSCE</name>
+        <name lang="de">Schweiz und OSZE</name>
       </keyword>
       <keyword id="11105" org-id="201">
         <name lang="de">Bosnien und Herzegovina</name>
@@ -114,10 +114,10 @@
         <name lang="it">Bosnia e Erzegovina</name>
       </keyword>
       <keyword id="11108" org-id="201">
-        <name lang="en">Slovenia</name>
-        <name lang="fr">Slovénie</name>
         <name lang="it">Slovenia</name>
         <name lang="de">Slowenien</name>
+        <name lang="en">Slovenia</name>
+        <name lang="fr">Slovénie</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -154,11 +154,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="550">
         <name lang="rm">Politica da segirezza</name>
@@ -168,32 +168,32 @@
         <name lang="it">Politica di sicurezza</name>
       </topic>
       <topic id="34">
-        <name lang="it">Svizzera e Europa</name>
-        <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
+        <name lang="it">Svizzera e Europa</name>
+        <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="411">
+        <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
-        <name lang="de">Internationale Organisationen</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

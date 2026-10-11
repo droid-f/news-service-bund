@@ -6,21 +6,21 @@
     <pubdate>2026-08-11</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <www lang="de">https://www.eda.admin.ch</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="en">
@@ -57,25 +57,25 @@
     </content>
     <topics>
       <topic id="504">
+        <name lang="de">Initiativen</name>
+        <name lang="en">Initiatives</name>
         <name lang="fr">Initiatives</name>
         <name lang="it">Iniziative</name>
         <name lang="rm">Iniziativas</name>
-        <name lang="de">Initiativen</name>
-        <name lang="en">Initiatives</name>
       </topic>
       <topic id="69">
-        <name lang="en">Popular votes</name>
-        <name lang="fr">Votations</name>
         <name lang="it">Votazioni</name>
         <name lang="rm">Votaziuns</name>
         <name lang="de">Abstimmungen</name>
+        <name lang="en">Popular votes</name>
+        <name lang="fr">Votations</name>
       </topic>
       <topic id="23">
+        <name lang="rm">Dretgs politics</name>
+        <name lang="de">Politische Rechte</name>
         <name lang="en">Political rights</name>
         <name lang="fr">Droits politiques</name>
         <name lang="it">Diritti politici</name>
-        <name lang="rm">Dretgs politics</name>
-        <name lang="de">Politische Rechte</name>
       </topic>
     </topics>
     <offers/>

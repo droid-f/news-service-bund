@@ -6,16 +6,16 @@
     <pubdate>2025-10-23</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -36,10 +36,10 @@
         <name lang="fr">Violences et lésions corporelles</name>
       </keyword>
       <keyword id="SLW-48" org-id="401">
-        <name lang="de">Gewalt und Körperverletzung</name>
-        <name lang="en">Violence and assaults</name>
         <name lang="fr">Violences et lésions corporelles</name>
         <name lang="it">Violenza e lesioni corporali</name>
+        <name lang="de">Gewalt und Körperverletzung</name>
+        <name lang="en">Violence and assaults</name>
       </keyword>
     </keywords>
     <content lang="de">
@@ -68,11 +68,11 @@
     </content>
     <topics>
       <topic id="40">
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

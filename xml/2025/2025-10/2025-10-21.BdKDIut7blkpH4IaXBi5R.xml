@@ -16,18 +16,18 @@
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-78" org-id="401">
-        <name lang="fr">Police</name>
-        <name lang="it">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
+        <name lang="fr">Police</name>
+        <name lang="it">Polizia</name>
       </keyword>
       <keyword id="SLW-78" org-id="401">
         <name lang="de">Polizei</name>
@@ -68,11 +68,11 @@
     </content>
     <topics>
       <topic id="40">
-        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
       </topic>
     </topics>
     <offers/>

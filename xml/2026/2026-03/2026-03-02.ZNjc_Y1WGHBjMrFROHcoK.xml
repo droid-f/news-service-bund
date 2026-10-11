@@ -6,16 +6,16 @@
     <pubdate>2026-03-02</pubdate>
     <originator id="808" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Energie</name>
       <name lang="en">Swiss Federal Office of Energy</name>
       <name lang="fr">Office fédéral de l'énergie</name>
       <name lang="it">Ufficio federale dell'energia</name>
       <name lang="rm">Uffizi federal d'energia</name>
+      <name lang="de">Bundesamt für Energie</name>
+      <www lang="rm">https://www.bfe.admin.ch </www>
       <www lang="de">https://www.bfe.admin.ch</www>
       <www lang="en">https://www.bfe.admin.ch/en</www>
       <www lang="fr">https://www.bfe.admin.ch/fr</www>
       <www lang="it">https://www.bfe.admin.ch/it</www>
-      <www lang="rm">https://www.bfe.admin.ch </www>
       <email lang="de">media@bfe.admin.ch</email>
       <email lang="en">media@bfe.admin.ch</email>
       <email lang="fr">media@bfe.admin.ch</email>
@@ -24,16 +24,16 @@
     </originator>
     <originator id="801" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -42,10 +42,28 @@
     </originator>
     <keywords>
       <keyword id="SLW-310" org-id="801">
-        <name lang="de">Energiepolitik</name>
         <name lang="en">Energy policy</name>
         <name lang="fr">Politique énergétique</name>
         <name lang="it">Politica energetica</name>
+        <name lang="de">Energiepolitik</name>
+      </keyword>
+      <keyword id="SLW-1430" org-id="801">
+        <name lang="de">Energieverbrauch</name>
+        <name lang="en">Energy consumption</name>
+        <name lang="fr">Consommation d’énergie</name>
+        <name lang="it">Consumo di energia</name>
+      </keyword>
+      <keyword id="SLW-2085" org-id="801">
+        <name lang="de">Strompreis</name>
+        <name lang="en">Electricity price</name>
+        <name lang="fr">Prix de l'électricité</name>
+        <name lang="it">Prezzo dell'elettricità</name>
+      </keyword>
+      <keyword id="SLW-310" org-id="801">
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="de">Energiepolitik</name>
+        <name lang="en">Energy policy</name>
       </keyword>
       <keyword id="SLW-1430" org-id="801">
         <name lang="de">Energieverbrauch</name>
@@ -64,24 +82,6 @@
         <name lang="en">Energy policy</name>
         <name lang="fr">Politique énergétique</name>
         <name lang="it">Politica energetica</name>
-      </keyword>
-      <keyword id="SLW-1430" org-id="801">
-        <name lang="de">Energieverbrauch</name>
-        <name lang="en">Energy consumption</name>
-        <name lang="fr">Consommation d’énergie</name>
-        <name lang="it">Consumo di energia</name>
-      </keyword>
-      <keyword id="SLW-2085" org-id="801">
-        <name lang="fr">Prix de l'électricité</name>
-        <name lang="it">Prezzo dell'elettricità</name>
-        <name lang="de">Strompreis</name>
-        <name lang="en">Electricity price</name>
-      </keyword>
-      <keyword id="SLW-310" org-id="801">
-        <name lang="it">Politica energetica</name>
-        <name lang="de">Energiepolitik</name>
-        <name lang="en">Energy policy</name>
-        <name lang="fr">Politique énergétique</name>
       </keyword>
       <keyword id="SLW-1430" org-id="801">
         <name lang="de">Energieverbrauch</name>
@@ -97,21 +97,21 @@
       </keyword>
     </keywords>
     <department id="801">
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -139,18 +139,18 @@
     </content>
     <topics>
       <topic id="459">
+        <name lang="it">Elettricità e corrente elettrica</name>
+        <name lang="rm">Electricitad e current electric</name>
         <name lang="de">Elektrizität &amp; Strom</name>
         <name lang="en">Electricity &amp; Power</name>
         <name lang="fr">Électricité et courant</name>
-        <name lang="it">Elettricità e corrente elettrica</name>
-        <name lang="rm">Electricitad e current electric</name>
       </topic>
       <topic id="11">
+        <name lang="it">Energia</name>
+        <name lang="rm">Energia</name>
         <name lang="de">Energie</name>
         <name lang="en">Energy</name>
         <name lang="fr">Énergie</name>
-        <name lang="it">Energia</name>
-        <name lang="rm">Energia</name>
       </topic>
     </topics>
     <offers/>

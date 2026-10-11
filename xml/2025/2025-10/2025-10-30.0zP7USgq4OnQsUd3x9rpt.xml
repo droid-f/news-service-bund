@@ -6,21 +6,21 @@
     <pubdate>2025-10-30</pubdate>
     <originator id="805" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="en">Federal Office of Transport</name>
-      <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
       <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="en">Federal Office of Transport</name>
+      <name lang="fr">Office fédéral des transports</name>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
-      <email lang="de">presse@bav.admin.ch</email>
-      <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="rm">presse@bav.admin.ch</email>
+      <email lang="de">presse@bav.admin.ch</email>
+      <email lang="en">presse@bav.admin.ch</email>
     </originator>
     <originator id="808" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -29,16 +29,16 @@
       <name lang="fr">Office fédéral de l'énergie</name>
       <name lang="it">Ufficio federale dell'energia</name>
       <name lang="rm">Uffizi federal d'energia</name>
+      <www lang="it">https://www.bfe.admin.ch/it</www>
+      <www lang="rm">https://www.bfe.admin.ch </www>
       <www lang="de">https://www.bfe.admin.ch</www>
       <www lang="en">https://www.bfe.admin.ch/en</www>
       <www lang="fr">https://www.bfe.admin.ch/fr</www>
-      <www lang="it">https://www.bfe.admin.ch/it</www>
-      <www lang="rm">https://www.bfe.admin.ch </www>
-      <email lang="rm">media@bfe.admin.ch</email>
       <email lang="de">media@bfe.admin.ch</email>
       <email lang="en">media@bfe.admin.ch</email>
       <email lang="fr">media@bfe.admin.ch</email>
       <email lang="it">media@bfe.admin.ch</email>
+      <email lang="rm">media@bfe.admin.ch</email>
     </originator>
     <originator id="801" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
@@ -52,11 +52,11 @@
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
-      <email lang="de">info@gs-uvek.admin.ch</email>
     </originator>
     <originator id="810" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -65,16 +65,16 @@
       <name lang="fr">Office fédéral de la communication</name>
       <name lang="it">Ufficio federale delle comunicazioni</name>
       <name lang="rm">Uffizi federal da communicaziun</name>
-      <www lang="rm">http://www.bakom.admin.ch/rm</www>
       <www lang="de">http://www.bakom.admin.ch/</www>
       <www lang="en">http://www.bakom.admin.ch/en</www>
       <www lang="fr">http://www.bakom.admin.ch/fr</www>
       <www lang="it">http://www.bakom.admin.ch/it</www>
-      <email lang="rm">media@bakom.admin.ch</email>
+      <www lang="rm">http://www.bakom.admin.ch/rm</www>
       <email lang="de">media@bakom.admin.ch</email>
       <email lang="en">media@bakom.admin.ch</email>
       <email lang="fr">media@bakom.admin.ch</email>
       <email lang="it">media@bakom.admin.ch</email>
+      <email lang="rm">media@bakom.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
@@ -88,11 +88,11 @@
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -127,11 +127,11 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="10">
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

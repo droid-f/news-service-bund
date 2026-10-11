@@ -11,29 +11,23 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
-      <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="4669" org-id="201">
+        <name lang="de">Deutschland</name>
         <name lang="en">Germany</name>
         <name lang="fr">Allemagne</name>
         <name lang="it">Germania</name>
-        <name lang="de">Deutschland</name>
-      </keyword>
-      <keyword id="4669" org-id="201">
-        <name lang="en">Germany</name>
-        <name lang="fr">Allemagne</name>
-        <name lang="it">Germania</name>
-        <name lang="de">Deutschland</name>
       </keyword>
       <keyword id="4669" org-id="201">
         <name lang="de">Deutschland</name>
@@ -42,10 +36,16 @@
         <name lang="it">Germania</name>
       </keyword>
       <keyword id="4669" org-id="201">
-        <name lang="fr">Allemagne</name>
-        <name lang="it">Germania</name>
         <name lang="de">Deutschland</name>
         <name lang="en">Germany</name>
+        <name lang="fr">Allemagne</name>
+        <name lang="it">Germania</name>
+      </keyword>
+      <keyword id="4669" org-id="201">
+        <name lang="de">Deutschland</name>
+        <name lang="en">Germany</name>
+        <name lang="fr">Allemagne</name>
+        <name lang="it">Germania</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,18 +82,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="447">
+        <name lang="en">Events with Federal Council members</name>
+        <name lang="fr">Manifestations avec des conseillers fédéraux</name>
         <name lang="it">Eventi con membri del Consiglio federale</name>
         <name lang="rm">Occurrenzas cun cussegliers federals</name>
         <name lang="de">Anlässe mit Bundesräten</name>
-        <name lang="en">Events with Federal Council members</name>
-        <name lang="fr">Manifestations avec des conseillers fédéraux</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -110,11 +110,11 @@
         <name lang="rm">Cunvegnas bilateralas</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
+        <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
-        <name lang="en">Foreign policy</name>
       </topic>
       <topic id="103">
         <name lang="de">Aussenbeziehungen</name>

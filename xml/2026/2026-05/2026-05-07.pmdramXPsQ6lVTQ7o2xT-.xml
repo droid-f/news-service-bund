@@ -6,20 +6,20 @@
     <pubdate>2026-05-07</pubdate>
     <originator id="1041" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Eidgenössische Elektrizitätskommission</name>
+      <name lang="en">Federal Electricity Commission</name>
       <name lang="fr">Commission fédérale de l'électricité</name>
       <name lang="it">Commissione federale dell'energia elettrica</name>
       <name lang="rm">Cumissiun federala per l'electricitad</name>
-      <name lang="de">Eidgenössische Elektrizitätskommission</name>
-      <name lang="en">Federal Electricity Commission</name>
       <www lang="de">https://www.elcom.admin.ch/elcom/de/home.html</www>
       <www lang="en">https://www.elcom.admin.ch/elcom/en/home.html</www>
       <www lang="fr">https://www.elcom.admin.ch/elcom/fr/home.html</www>
       <www lang="it">https://www.elcom.admin.ch/elcom/it/home.html</www>
+      <email lang="de">info@elcom.admin.ch</email>
+      <email lang="en">info@elcom.admin.ch</email>
       <email lang="fr">info@elcom.admin.ch</email>
       <email lang="it">info@elcom.admin.ch</email>
       <email lang="rm">info@elcom.admin.ch</email>
-      <email lang="de">info@elcom.admin.ch</email>
-      <email lang="en">info@elcom.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="17303" org-id="1041">
@@ -33,27 +33,27 @@
         <name lang="it">Sicurezza dell'approvvigionamento elettrico</name>
       </keyword>
       <keyword id="17303" org-id="1041">
+        <name lang="de">Stromversorgungssicherheit</name>
         <name lang="fr">Sécurité de l’approvisionnement en électricité</name>
         <name lang="it">Sicurezza dell'approvvigionamento elettrico</name>
-        <name lang="de">Stromversorgungssicherheit</name>
       </keyword>
     </keywords>
     <department id="801">
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berne</city>
@@ -81,39 +81,39 @@
     </content>
     <topics>
       <topic id="653">
-        <name lang="rm">Regulaziun</name>
         <name lang="de">Regulierung</name>
         <name lang="en">Regulation</name>
         <name lang="fr">Réglementation</name>
         <name lang="it">Regolamentazione</name>
+        <name lang="rm">Regulaziun</name>
       </topic>
       <topic id="467">
+        <name lang="de">Infrastruktur</name>
         <name lang="en">Infrastructure</name>
         <name lang="fr">Infrastructures</name>
         <name lang="it">Infrastruttura</name>
         <name lang="rm">Infrastructura</name>
-        <name lang="de">Infrastruktur</name>
       </topic>
       <topic id="463">
-        <name lang="en">Energy supply</name>
-        <name lang="fr">Approvisionnement énergétique</name>
         <name lang="it">Approvvigionamento energetico</name>
         <name lang="rm">Provediment d'energia</name>
         <name lang="de">Energieversorgung</name>
+        <name lang="en">Energy supply</name>
+        <name lang="fr">Approvisionnement énergétique</name>
       </topic>
       <topic id="459">
-        <name lang="it">Elettricità e corrente elettrica</name>
         <name lang="rm">Electricitad e current electric</name>
         <name lang="de">Elektrizität &amp; Strom</name>
         <name lang="en">Electricity &amp; Power</name>
         <name lang="fr">Électricité et courant</name>
+        <name lang="it">Elettricità e corrente elettrica</name>
       </topic>
       <topic id="37">
-        <name lang="de">Konsum</name>
-        <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
+        <name lang="de">Konsum</name>
+        <name lang="en">Consumption</name>
       </topic>
       <topic id="11">
         <name lang="de">Energie</name>

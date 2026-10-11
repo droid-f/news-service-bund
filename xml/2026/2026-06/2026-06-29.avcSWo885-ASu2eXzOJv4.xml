@@ -6,14 +6,14 @@
     <pubdate>2026-06-29</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
-      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
@@ -26,19 +26,19 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
+        <name lang="it">Verifica</name>
       </keyword>
     </keywords>
     <content lang="fr">
@@ -82,11 +82,11 @@
         <name lang="rm">Infrastructura dal traffic</name>
       </topic>
       <topic id="627">
+        <name lang="en">Road traffic</name>
         <name lang="fr">Circulation routière</name>
         <name lang="it">Circolazione stradale</name>
         <name lang="rm">Traffic sin via</name>
         <name lang="de">Strassenverkehr</name>
-        <name lang="en">Road traffic</name>
       </topic>
       <topic id="474">
         <name lang="de">Prävention</name>
@@ -96,17 +96,17 @@
         <name lang="rm">Prevenziun</name>
       </topic>
       <topic id="46">
+        <name lang="de">Verkehr &amp; Mobilität</name>
         <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
         <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
-        <name lang="de">Verkehr &amp; Mobilität</name>
       </topic>
       <topic id="115">
-        <name lang="fr">Mobilité</name>
         <name lang="it">Mobilità</name>
         <name lang="de">Mobilität</name>
         <name lang="en">Mobility</name>
+        <name lang="fr">Mobilité</name>
       </topic>
     </topics>
     <offers/>

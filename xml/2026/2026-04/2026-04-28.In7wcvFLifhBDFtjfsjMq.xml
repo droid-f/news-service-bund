@@ -6,21 +6,15 @@
     <pubdate>2026-04-28</pubdate>
     <originator id="1087" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Dienst Überwachung Post- und Fernmeldeverkehr</name>
       <name lang="en">Post and Telecommunications Surveillance Service</name>
       <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
       <name lang="it"> Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
       <name lang="rm">Servetsch Surveglianza da la correspundenza postala e dal traffic da telecommunicaziun</name>
+      <name lang="de">Dienst Überwachung Post- und Fernmeldeverkehr</name>
       <www lang="de">https://www.li.admin.ch/de</www>
     </originator>
     <keywords>
       <keyword id="SLW-3508,ORG-401" org-id="1087">
-        <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
-        <name lang="it">Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
-        <name lang="de">Überwachung des Post- und Fernmeldeverkehrs</name>
-        <name lang="en">Post and telecommunications surveillance</name>
-      </keyword>
-      <keyword id="SLW-3508,ORG-401" org-id="1087">
         <name lang="de">Überwachung des Post- und Fernmeldeverkehrs</name>
         <name lang="en">Post and telecommunications surveillance</name>
         <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
@@ -31,6 +25,12 @@
         <name lang="en">Post and telecommunications surveillance</name>
         <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
         <name lang="it">Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
+      </keyword>
+      <keyword id="SLW-3508,ORG-401" org-id="1087">
+        <name lang="en">Post and telecommunications surveillance</name>
+        <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
+        <name lang="it">Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
+        <name lang="de">Überwachung des Post- und Fernmeldeverkehrs</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -44,11 +44,11 @@
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
