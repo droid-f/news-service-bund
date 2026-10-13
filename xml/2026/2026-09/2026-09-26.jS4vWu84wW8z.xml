@@ -16,48 +16,48 @@
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-8" org-id="401">
-        <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
+        <name lang="fr">Asile</name>
+        <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
-        <name lang="de">Illegale Migration</name>
-        <name lang="en">Illegal migration</name>
         <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
+        <name lang="de">Illegale Migration</name>
+        <name lang="en">Illegal migration</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
+        <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
-        <name lang="de">Zusammenarbeit</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
-        <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
+        <name lang="fr">Asile</name>
+        <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
-        <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
         <name lang="de">Illegale Migration</name>
         <name lang="en">Illegal migration</name>
+        <name lang="fr">Migration illégale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
+        <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="de">Asyl</name>
@@ -110,18 +110,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
       </topic>
       <topic id="547">
-        <name lang="it">Polizia</name>
-        <name lang="rm">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
+        <name lang="it">Polizia</name>
+        <name lang="rm">Polizia</name>
       </topic>
       <topic id="4">
         <name lang="de">Asyl</name>
@@ -131,11 +131,11 @@
         <name lang="rm">Asil</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

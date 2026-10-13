@@ -6,17 +6,17 @@
     <pubdate>2026-10-08</pubdate>
     <originator id="403" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="en">Federal Office of Justice</name>
-      <name lang="fr">Office fédéral de la justice</name>
       <name lang="it">Ufficio federale di giustizia</name>
       <name lang="rm">Uffizi federal da giustia</name>
       <name lang="de">Bundesamt für Justiz</name>
+      <name lang="en">Federal Office of Justice</name>
+      <name lang="fr">Office fédéral de la justice</name>
       <www lang="de">https://www.bj.admin.ch/</www>
+      <email lang="de">media@bj.admin.ch</email>
       <email lang="en">media@bj.admin.ch</email>
       <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
       <email lang="rm">media@bj.admin.ch</email>
-      <email lang="de">media@bj.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-74" org-id="403">
@@ -44,11 +44,11 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -81,18 +81,18 @@
     </content>
     <topics>
       <topic id="26">
+        <name lang="de">Recht</name>
+        <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
-        <name lang="de">Recht</name>
-        <name lang="en">Legislation</name>
       </topic>
       <topic id="414">
+        <name lang="rm">Catastrofas</name>
         <name lang="de">Katastrophen</name>
         <name lang="en">Disasters</name>
         <name lang="fr">Catastrophes</name>
         <name lang="it">Catastrofi</name>
-        <name lang="rm">Catastrofas</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
@@ -102,11 +102,11 @@
         <name lang="rm">Cussegl federal</name>
       </topic>
       <topic id="30">
-        <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
+        <name lang="de">Ausserordentliche Lage, Krise</name>
       </topic>
     </topics>
     <offers/>
