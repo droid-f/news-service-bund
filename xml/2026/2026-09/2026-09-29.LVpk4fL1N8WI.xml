@@ -16,47 +16,47 @@
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
+      <email lang="it">presse@bav.admin.ch</email>
+      <email lang="rm">presse@bav.admin.ch</email>
       <email lang="de">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
-      <email lang="it">presse@bav.admin.ch</email>
-      <email lang="rm">presse@bav.admin.ch</email>
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
+      <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -98,16 +98,16 @@
         <name lang="en">Social affairs, family &amp; society</name>
       </topic>
       <topic id="118">
-        <name lang="de">Behörden</name>
-        <name lang="en">Authorities</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
+        <name lang="de">Behörden</name>
+        <name lang="en">Authorities</name>
       </topic>
       <topic id="115">
-        <name lang="it">Mobilità</name>
-        <name lang="de">Mobilität</name>
         <name lang="en">Mobility</name>
         <name lang="fr">Mobilité</name>
+        <name lang="it">Mobilità</name>
+        <name lang="de">Mobilität</name>
       </topic>
       <topic id="113">
         <name lang="it">Salute</name>
@@ -116,16 +116,16 @@
         <name lang="fr">Santé</name>
       </topic>
       <topic id="109">
-        <name lang="de">Infrastruktur</name>
         <name lang="en">Infrastructure</name>
         <name lang="fr">Infrastructures</name>
         <name lang="it">Infrastruttura</name>
+        <name lang="de">Infrastruktur</name>
       </topic>
       <topic id="105">
-        <name lang="en">Society</name>
         <name lang="fr">Société</name>
         <name lang="it">Società</name>
         <name lang="de">Gesellschaft</name>
+        <name lang="en">Society</name>
       </topic>
     </topics>
     <offers/>

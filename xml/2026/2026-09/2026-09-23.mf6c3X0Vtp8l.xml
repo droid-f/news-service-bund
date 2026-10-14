@@ -11,16 +11,16 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -82,11 +82,11 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="16">
-        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
+        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -96,11 +96,11 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="33">
-        <name lang="rm">Presidi da la Confederaziun</name>
         <name lang="de">Bundespräsidium</name>
         <name lang="en">Federal Presidency</name>
         <name lang="fr">Présidence de la Confédération</name>
         <name lang="it">Presidenza delle Confederazione</name>
+        <name lang="rm">Presidi da la Confederaziun</name>
       </topic>
     </topics>
     <offers/>
