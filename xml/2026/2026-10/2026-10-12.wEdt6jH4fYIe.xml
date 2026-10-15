@@ -6,18 +6,18 @@
     <pubdate>2026-10-12</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
+      <name lang="en">Swiss Federal Audit Office</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
-      <email lang="de">kommunikation@efk.admin.ch</email>
-      <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
+      <email lang="de">kommunikation@efk.admin.ch</email>
+      <email lang="fr">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -31,9 +31,9 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -82,11 +82,11 @@
         <name lang="rm">Segirezza da victualias</name>
       </topic>
       <topic id="21">
+        <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="108">
         <name lang="de">Landwirtschaft</name>

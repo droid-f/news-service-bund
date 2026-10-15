@@ -14,11 +14,11 @@
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
@@ -52,11 +52,11 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="it">Sanità</name>
-        <name lang="rm">Sanadad</name>
         <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
+        <name lang="it">Sanità</name>
+        <name lang="rm">Sanadad</name>
       </topic>
       <topic id="114">
         <name lang="it">Elisabeth Baume-Schneider</name>
@@ -66,18 +66,18 @@
         <name lang="fr">Elisabeth Baume-Schneider</name>
       </topic>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="633">
-        <name lang="rm">Politica agrara</name>
-        <name lang="de">Agrarpolitik</name>
         <name lang="en">Agricultural policy</name>
         <name lang="fr">Politique agricole</name>
         <name lang="it">Politiche agricole</name>
+        <name lang="rm">Politica agrara</name>
+        <name lang="de">Agrarpolitik</name>
       </topic>
       <topic id="615">
         <name lang="de">Tiere</name>
@@ -87,11 +87,11 @@
         <name lang="rm">Animals</name>
       </topic>
       <topic id="410">
+        <name lang="rm">Uniun europeica</name>
+        <name lang="de">Europäische Union</name>
         <name lang="en">European Union</name>
         <name lang="fr">Union européenne</name>
         <name lang="it">Unione europea</name>
-        <name lang="rm">Uniun europeica</name>
-        <name lang="de">Europäische Union</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
