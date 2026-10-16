@@ -11,11 +11,11 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -36,10 +36,10 @@
         <name lang="it">Migrazione illegale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
+        <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="de">Asyl</name>
@@ -60,16 +60,16 @@
         <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
+        <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
-        <name lang="de">Illegale Migration</name>
-        <name lang="en">Illegal migration</name>
         <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
+        <name lang="de">Illegale Migration</name>
+        <name lang="en">Illegal migration</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
         <name lang="de">Zusammenarbeit</name>
@@ -131,11 +131,11 @@
         <name lang="rm">Asil</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

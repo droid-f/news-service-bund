@@ -16,20 +16,14 @@
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="5898" org-id="201">
-        <name lang="it">Turchia</name>
-        <name lang="de">Türkei</name>
-        <name lang="en">Turkey</name>
-        <name lang="fr">Turquie</name>
-      </keyword>
-      <keyword id="5898" org-id="201">
         <name lang="de">Türkei</name>
         <name lang="en">Turkey</name>
         <name lang="fr">Turquie</name>
@@ -40,6 +34,12 @@
         <name lang="en">Turkey</name>
         <name lang="fr">Turquie</name>
         <name lang="it">Turchia</name>
+      </keyword>
+      <keyword id="5898" org-id="201">
+        <name lang="en">Turkey</name>
+        <name lang="fr">Turquie</name>
+        <name lang="it">Turchia</name>
+        <name lang="de">Türkei</name>
       </keyword>
       <keyword id="5898" org-id="201">
         <name lang="de">Türkei</name>
@@ -82,11 +82,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="550">
         <name lang="de">Sicherheitspolitik</name>
@@ -103,18 +103,18 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="88">
+        <name lang="en">Bilateral agreements</name>
+        <name lang="fr">Accords bilatéraux</name>
         <name lang="it">Accordi bilaterali</name>
         <name lang="rm">Cunvegnas bilateralas</name>
         <name lang="de">Bilaterale Abkommen</name>
-        <name lang="en">Bilateral agreements</name>
-        <name lang="fr">Accords bilatéraux</name>
       </topic>
       <topic id="16">
-        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
+        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="40">
         <name lang="fr">Sécurité</name>
@@ -130,10 +130,10 @@
         <name lang="it">Sicurezza</name>
       </topic>
       <topic id="103">
-        <name lang="fr">Relations extérieures</name>
-        <name lang="it">Relazioni esterne</name>
         <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
+        <name lang="fr">Relations extérieures</name>
+        <name lang="it">Relazioni esterne</name>
       </topic>
     </topics>
     <offers/>

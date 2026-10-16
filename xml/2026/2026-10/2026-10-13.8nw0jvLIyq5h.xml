@@ -35,16 +35,16 @@
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -72,18 +72,18 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="en">Health</name>
-        <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
         <name lang="de">Gesundheit</name>
+        <name lang="en">Health</name>
+        <name lang="fr">Santé</name>
       </topic>
       <topic id="114">
-        <name lang="rm">Elisabeth Baume-Schneider</name>
-        <name lang="de">Elisabeth Baume-Schneider</name>
         <name lang="en">Elisabeth Baume-Schneider</name>
         <name lang="fr">Elisabeth Baume-Schneider</name>
         <name lang="it">Elisabeth Baume-Schneider</name>
+        <name lang="rm">Elisabeth Baume-Schneider</name>
+        <name lang="de">Elisabeth Baume-Schneider</name>
       </topic>
       <topic id="479">
         <name lang="de">Lebensmittelsicherheit</name>
@@ -100,32 +100,32 @@
         <name lang="it">Alimentazione</name>
       </topic>
       <topic id="245">
+        <name lang="it">Alimentazione</name>
         <name lang="rm">Nutriment</name>
         <name lang="de">Ernährung</name>
         <name lang="en">Foodstuffs</name>
         <name lang="fr">Alimentation</name>
-        <name lang="it">Alimentazione</name>
       </topic>
       <topic id="427">
-        <name lang="rm">Consultaziuns</name>
         <name lang="de">Vernehmlassungen</name>
         <name lang="en">Consultations</name>
         <name lang="fr">Consultations</name>
         <name lang="it">Consultazioni</name>
+        <name lang="rm">Consultaziuns</name>
       </topic>
       <topic id="37">
+        <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
-        <name lang="de">Konsum</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
       </topic>
     </topics>
     <offers/>

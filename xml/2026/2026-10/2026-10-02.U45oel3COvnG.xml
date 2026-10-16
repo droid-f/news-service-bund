@@ -31,20 +31,20 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="fr">Secrétariat général du DDPS</name>
-      <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
-      <www lang="it">http://www.vbs.admin.ch/it</www>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -85,18 +85,18 @@
     </content>
     <topics>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
       </topic>
       <topic id="10">
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>
