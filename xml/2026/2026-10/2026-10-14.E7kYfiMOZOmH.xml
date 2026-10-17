@@ -28,21 +28,21 @@
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="en">Federal Department of Justice and Police</name>
-      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <name lang="fr">Département fédéral de justice et police</name>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords/>
     <department id="401">
@@ -51,16 +51,16 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -88,11 +88,11 @@
     </content>
     <topics>
       <topic id="448">
-        <name lang="rm">Affars dal Cussegl federal</name>
         <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
         <name lang="it">Affari del Consiglio federale</name>
+        <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="427">
         <name lang="de">Vernehmlassungen</name>
@@ -102,18 +102,18 @@
         <name lang="rm">Consultaziuns</name>
       </topic>
       <topic id="23">
-        <name lang="de">Politische Rechte</name>
         <name lang="en">Political rights</name>
         <name lang="fr">Droits politiques</name>
         <name lang="it">Diritti politici</name>
         <name lang="rm">Dretgs politics</name>
+        <name lang="de">Politische Rechte</name>
       </topic>
       <topic id="10">
+        <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
       </topic>
       <topic id="5">
         <name lang="de">Behörden</name>

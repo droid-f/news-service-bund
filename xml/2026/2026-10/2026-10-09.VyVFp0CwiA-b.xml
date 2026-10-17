@@ -11,11 +11,11 @@
       <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
-      <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
+      <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
@@ -41,20 +41,20 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="fr">http://www.vbs.admin.ch/fr</www>
-      <www lang="it">http://www.vbs.admin.ch/it</www>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <www lang="fr">http://www.vbs.admin.ch/fr</www>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -109,18 +109,18 @@
         <name lang="en">Civil Protection</name>
       </topic>
       <topic id="414">
-        <name lang="en">Disasters</name>
-        <name lang="fr">Catastrophes</name>
         <name lang="it">Catastrofi</name>
         <name lang="rm">Catastrofas</name>
         <name lang="de">Katastrophen</name>
+        <name lang="en">Disasters</name>
+        <name lang="fr">Catastrophes</name>
       </topic>
       <topic id="34">
+        <name lang="rm">La Svizra e l'Europa </name>
+        <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
-        <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
       </topic>
       <topic id="40">
         <name lang="en">Security</name>
@@ -130,11 +130,11 @@
         <name lang="de">Sicherheit</name>
       </topic>
       <topic id="30">
+        <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
-        <name lang="de">Ausserordentliche Lage, Krise</name>
       </topic>
     </topics>
     <offers/>

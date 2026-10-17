@@ -6,52 +6,28 @@
     <pubdate>2026-10-12</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="11276" org-id="201">
-        <name lang="it">La Svizzera e l'OSCE</name>
-        <name lang="de">Schweiz und OSZE</name>
         <name lang="en">Switzerland and the OSCE</name>
         <name lang="fr">La Suisse et l'OSCE</name>
-      </keyword>
-      <keyword id="6483" org-id="201">
-        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
-        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
-        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
-        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
-      </keyword>
-      <keyword id="5903" org-id="201">
-        <name lang="de">Armenien</name>
-        <name lang="en">Armenia</name>
-        <name lang="fr">Arménie</name>
-        <name lang="it">Armenia</name>
-      </keyword>
-      <keyword id="5902" org-id="201">
-        <name lang="it">Georgia</name>
-        <name lang="de">Georgien</name>
-        <name lang="en">Georgia</name>
-        <name lang="fr">Géorgie</name>
-      </keyword>
-      <keyword id="11276" org-id="201">
         <name lang="it">La Svizzera e l'OSCE</name>
         <name lang="de">Schweiz und OSZE</name>
-        <name lang="en">Switzerland and the OSCE</name>
-        <name lang="fr">La Suisse et l'OSCE</name>
       </keyword>
       <keyword id="6483" org-id="201">
         <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
@@ -60,16 +36,16 @@
         <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
       </keyword>
       <keyword id="5903" org-id="201">
-        <name lang="de">Armenien</name>
-        <name lang="en">Armenia</name>
         <name lang="fr">Arménie</name>
         <name lang="it">Armenia</name>
+        <name lang="de">Armenien</name>
+        <name lang="en">Armenia</name>
       </keyword>
       <keyword id="5902" org-id="201">
-        <name lang="de">Georgien</name>
-        <name lang="en">Georgia</name>
         <name lang="fr">Géorgie</name>
         <name lang="it">Georgia</name>
+        <name lang="de">Georgien</name>
+        <name lang="en">Georgia</name>
       </keyword>
       <keyword id="11276" org-id="201">
         <name lang="de">Schweiz und OSZE</name>
@@ -90,16 +66,16 @@
         <name lang="it">Armenia</name>
       </keyword>
       <keyword id="5902" org-id="201">
+        <name lang="de">Georgien</name>
         <name lang="en">Georgia</name>
         <name lang="fr">Géorgie</name>
         <name lang="it">Georgia</name>
-        <name lang="de">Georgien</name>
       </keyword>
       <keyword id="11276" org-id="201">
-        <name lang="de">Schweiz und OSZE</name>
         <name lang="en">Switzerland and the OSCE</name>
         <name lang="fr">La Suisse et l'OSCE</name>
         <name lang="it">La Svizzera e l'OSCE</name>
+        <name lang="de">Schweiz und OSZE</name>
       </keyword>
       <keyword id="6483" org-id="201">
         <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
@@ -114,10 +90,34 @@
         <name lang="it">Armenia</name>
       </keyword>
       <keyword id="5902" org-id="201">
-        <name lang="de">Georgien</name>
         <name lang="en">Georgia</name>
         <name lang="fr">Géorgie</name>
         <name lang="it">Georgia</name>
+        <name lang="de">Georgien</name>
+      </keyword>
+      <keyword id="11276" org-id="201">
+        <name lang="de">Schweiz und OSZE</name>
+        <name lang="en">Switzerland and the OSCE</name>
+        <name lang="fr">La Suisse et l'OSCE</name>
+        <name lang="it">La Svizzera e l'OSCE</name>
+      </keyword>
+      <keyword id="6483" org-id="201">
+        <name lang="de">Mission bei der OSZE, den Vereinten Nationen und anderen internationalen Organisationen in Wien</name>
+        <name lang="en">Mission to the OSCE, the United Nations and other International Organizations in Vienna</name>
+        <name lang="fr">Mission auprès de l'OSCE, des Nations Unies et des autres organisations internationales à Vienne</name>
+        <name lang="it">Missione della Svizzera presso l'OSCE, le Nazioni Unite e le altre organizzazioni internazionali a Vienna</name>
+      </keyword>
+      <keyword id="5903" org-id="201">
+        <name lang="de">Armenien</name>
+        <name lang="en">Armenia</name>
+        <name lang="fr">Arménie</name>
+        <name lang="it">Armenia</name>
+      </keyword>
+      <keyword id="5902" org-id="201">
+        <name lang="it">Georgia</name>
+        <name lang="de">Georgien</name>
+        <name lang="en">Georgia</name>
+        <name lang="fr">Géorgie</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -154,11 +154,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="411">
         <name lang="de">Internationale Organisationen</name>
