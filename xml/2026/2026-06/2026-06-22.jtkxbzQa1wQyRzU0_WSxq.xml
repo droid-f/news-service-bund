@@ -6,15 +6,15 @@
     <pubdate>2026-06-22</pubdate>
     <originator id="606" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
-      <name lang="en">Federal Office for Customs and Border Security</name>
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
       <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
-      <www lang="en">https://www.bazg.admin.ch/en</www>
-      <www lang="fr">https://www.bazg.admin.ch/fr</www>
+      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
+      <name lang="en">Federal Office for Customs and Border Security</name>
       <www lang="it">https://www.bazg.admin.ch/it</www>
       <www lang="de">https://www.bazg.admin.ch/de</www>
+      <www lang="en">https://www.bazg.admin.ch/en</www>
+      <www lang="fr">https://www.bazg.admin.ch/fr</www>
       <email lang="de">medien@bazg.admin.ch</email>
       <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
@@ -23,22 +23,22 @@
     </originator>
     <keywords>
       <keyword id="314" org-id="606">
-        <name lang="de">Einfuhr</name>
-        <name lang="en">import</name>
         <name lang="fr">importation</name>
         <name lang="it">importazione</name>
+        <name lang="de">Einfuhr</name>
+        <name lang="en">import</name>
       </keyword>
       <keyword id="283" org-id="606">
-        <name lang="de">Handelswaren</name>
         <name lang="en">commercial goods</name>
         <name lang="fr">marchandises commerciales</name>
         <name lang="it">merci commerciali</name>
+        <name lang="de">Handelswaren</name>
       </keyword>
       <keyword id="315" org-id="606">
+        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
-        <name lang="de">Firmen</name>
       </keyword>
       <keyword id="293" org-id="606">
         <name lang="it">Passar</name>
@@ -65,10 +65,10 @@
         <name lang="it">ditte</name>
       </keyword>
       <keyword id="293" org-id="606">
+        <name lang="de">Passar</name>
         <name lang="en">Passar</name>
         <name lang="fr">Passar</name>
         <name lang="it">Passar</name>
-        <name lang="de">Passar</name>
       </keyword>
       <keyword id="314" org-id="606">
         <name lang="de">Einfuhr</name>
@@ -96,21 +96,21 @@
       </keyword>
     </keywords>
     <department id="601">
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="rm">Departement federal da finanzas</name>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -145,18 +145,18 @@
         <name lang="rm">Import da rauba</name>
       </topic>
       <topic id="13">
-        <name lang="rm">e-dec Import</name>
-        <name lang="de">e-dec Import</name>
         <name lang="en">e-dec Import</name>
         <name lang="fr">e-dec importation</name>
         <name lang="it">e-dec (importazione)</name>
+        <name lang="rm">e-dec Import</name>
+        <name lang="de">e-dec Import</name>
       </topic>
       <topic id="48">
-        <name lang="rm">Duana</name>
-        <name lang="de">Zoll</name>
         <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
+        <name lang="rm">Duana</name>
+        <name lang="de">Zoll</name>
       </topic>
     </topics>
     <offers/>

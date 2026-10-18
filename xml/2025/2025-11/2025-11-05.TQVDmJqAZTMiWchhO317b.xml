@@ -14,32 +14,32 @@
     </originator>
     <originator id="507" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="it">Ufficio federale della protezione della popolazione UFPP</name>
       <name lang="rm">Uffizi federal da protecziun da la populaziun</name>
       <name lang="de">Bundesamt für Bevölkerungsschutz BABS</name>
       <name lang="en">Federal Office for Civil Protection FOCP</name>
       <name lang="fr">Office fédéral de la protection de la population OFPP</name>
-      <name lang="it">Ufficio federale della protezione della popolazione UFPP</name>
       <www lang="en">http://www.babs.admin.ch/</www>
       <www lang="fr">http://www.babs.admin.ch/</www>
       <www lang="it">http://www.babs.admin.ch/</www>
       <www lang="de">http://www.babs.admin.ch/</www>
+      <email lang="en">media@babs.admin.ch</email>
+      <email lang="fr">media@babs.admin.ch</email>
       <email lang="it">media@babs.admin.ch</email>
       <email lang="rm">media@babs.admin.ch</email>
       <email lang="de">media@babs.admin.ch</email>
-      <email lang="en">media@babs.admin.ch</email>
-      <email lang="fr">media@babs.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <www lang="fr">http://www.vbs.admin.ch/fr</www>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <www lang="it">http://www.vbs.admin.ch/it</www>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
+      <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
@@ -48,16 +48,16 @@
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <www lang="fr">https://www.vbs.admin.ch/fr</www>
-      <www lang="it">https://www.vbs.admin.ch/it</www>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
+      <www lang="fr">https://www.vbs.admin.ch/fr</www>
+      <www lang="it">https://www.vbs.admin.ch/it</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -85,18 +85,18 @@
     </content>
     <topics>
       <topic id="6">
+        <name lang="de">Bevölkerungsschutz</name>
+        <name lang="en">Civil Protection</name>
         <name lang="fr">Protection de la population</name>
         <name lang="it">Protezione della popolazione</name>
         <name lang="rm">Protecziun da la populaziun</name>
-        <name lang="de">Bevölkerungsschutz</name>
-        <name lang="en">Civil Protection</name>
       </topic>
       <topic id="416">
-        <name lang="de">Kulturgüterschutz</name>
-        <name lang="en">Protection of cultural heritage</name>
         <name lang="fr">Protection des biens culturels</name>
         <name lang="it">Protezione dei beni culturali</name>
         <name lang="rm">Protecziun dals bains culturals</name>
+        <name lang="de">Kulturgüterschutz</name>
+        <name lang="en">Protection of cultural heritage</name>
       </topic>
       <topic id="40">
         <name lang="de">Sicherheit</name>
@@ -106,11 +106,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="10">
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

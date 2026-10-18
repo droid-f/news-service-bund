@@ -6,21 +6,21 @@
     <pubdate>2025-12-09</pubdate>
     <originator id="805" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Bundesamt für Verkehr</name>
+      <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
-      <name lang="de">Bundesamt für Verkehr</name>
-      <name lang="en">Federal Office of Transport</name>
       <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
       <www lang="de">http://www.bav.admin.ch/</www>
-      <email lang="rm">presse@bav.admin.ch</email>
       <email lang="de">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
+      <email lang="rm">presse@bav.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-455,ORG-805" org-id="805">
@@ -30,16 +30,16 @@
         <name lang="it">Affari Internazionali</name>
       </keyword>
       <keyword id="SLW-455,ORG-805" org-id="805">
-        <name lang="fr">Affaires internationales</name>
-        <name lang="it">Affari Internazionali</name>
         <name lang="de">Internationale Abkommen</name>
         <name lang="en">International Affairs</name>
+        <name lang="fr">Affaires internationales</name>
+        <name lang="it">Affari Internazionali</name>
       </keyword>
       <keyword id="SLW-455,ORG-805" org-id="805">
+        <name lang="de">Internationale Abkommen</name>
         <name lang="en">International Affairs</name>
         <name lang="fr">Affaires internationales</name>
         <name lang="it">Affari Internazionali</name>
-        <name lang="de">Internationale Abkommen</name>
       </keyword>
     </keywords>
     <department id="801">
@@ -48,16 +48,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
+      <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -85,11 +85,11 @@
     </content>
     <topics>
       <topic id="619">
+        <name lang="de">Eisenbahn</name>
+        <name lang="en">Rail</name>
         <name lang="fr">Chemins de fer</name>
         <name lang="it">Ferrovie</name>
         <name lang="rm">Viafier</name>
-        <name lang="de">Eisenbahn</name>
-        <name lang="en">Rail</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>

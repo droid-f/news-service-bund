@@ -6,16 +6,16 @@
     <pubdate>2026-07-23</pubdate>
     <originator id="1099" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Eidgenössische Qualitätskommission</name>
       <name lang="en">Federal Quality Commission</name>
       <name lang="fr">Commission fédérale pour la qualité</name>
       <name lang="it">Commissione federale per la qualità</name>
       <name lang="rm">Cumissiun federala per la qualitad</name>
-      <name lang="de">Eidgenössische Qualitätskommission</name>
+      <www lang="en">https://www.bag.admin.ch/de/eidgenoessische-qualitaetskommission-eqk</www>
       <www lang="fr">https://www.bag.admin.ch/fr/commission-federale-pour-la-qualite-cfq</www>
       <www lang="it">https://www.bag.admin.ch/it/commissione-federale-per-la-qualita-cfq</www>
       <www lang="rm">https://www.bag.admin.ch/de/eidgenoessische-qualitaetskommission-eqk</www>
       <www lang="de">https://www.bag.admin.ch/de/eidgenoessische-qualitaetskommission-eqk</www>
-      <www lang="en">https://www.bag.admin.ch/de/eidgenoessische-qualitaetskommission-eqk</www>
       <email lang="de">michael.jordi@bluewin.ch</email>
       <email lang="en">michael.jordi@bluewin.ch</email>
       <email lang="fr">michael.jordi@bluewin.ch</email>
@@ -24,30 +24,30 @@
     </originator>
     <originator id="317" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Gesundheit</name>
       <name lang="en">Federal Office of Public Health</name>
       <name lang="fr">Office fédéral de la santé publique</name>
       <name lang="it">Ufficio federale della sanità pubblica</name>
       <name lang="rm">Uffizi federal da sanadad publica</name>
+      <name lang="de">Bundesamt für Gesundheit</name>
       <www lang="de">http://www.bag.admin.ch/</www>
+      <email lang="de">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
       <email lang="fr">media@bag.admin.ch</email>
       <email lang="it">media@bag.admin.ch</email>
       <email lang="rm">media@bag.admin.ch</email>
-      <email lang="de">media@bag.admin.ch</email>
-      <email lang="en">media@bag.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
-      <www lang="it">https://www.edi.admin.ch/it</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -75,11 +75,11 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="en">Health</name>
-        <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
         <name lang="de">Gesundheit</name>
+        <name lang="en">Health</name>
+        <name lang="fr">Santé</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>

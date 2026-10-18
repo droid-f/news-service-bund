@@ -6,11 +6,11 @@
     <pubdate>2026-08-18</pubdate>
     <originator id="508" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="rm">Uffizi federal da sport</name>
       <name lang="de">Bundesamt für Sport BASPO</name>
       <name lang="en">Federal Office of Sport FOSPO</name>
       <name lang="fr">Office fédéral du sport OFSPO</name>
       <name lang="it">Ufficio federale dello sport UFSPO</name>
-      <name lang="rm">Uffizi federal da sport</name>
       <www lang="de">http://www.baspo.admin.ch</www>
       <www lang="en">http://www.baspo.admin.ch/</www>
       <www lang="fr">http://www.baspo.admin.ch/</www>
@@ -28,11 +28,11 @@
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -41,23 +41,23 @@
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <www lang="de">http://www.vbs.admin.ch/</www>
+      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -90,32 +90,32 @@
     </content>
     <topics>
       <topic id="784">
-        <name lang="rm">Martin Pfister</name>
         <name lang="de">Martin Pfister</name>
         <name lang="en">Martin Pfister</name>
         <name lang="fr">Martin Pfister</name>
         <name lang="it">Martin Pfister</name>
+        <name lang="rm">Martin Pfister</name>
       </topic>
       <topic id="575">
+        <name lang="it">Sport popolare</name>
         <name lang="rm">Sport da massa</name>
         <name lang="de">Breitensport</name>
         <name lang="en">Amateur sport</name>
         <name lang="fr">Sport populaire</name>
-        <name lang="it">Sport popolare</name>
       </topic>
       <topic id="42">
-        <name lang="it">Sport</name>
-        <name lang="rm">Sport</name>
         <name lang="de">Sport</name>
         <name lang="en">Sport</name>
         <name lang="fr">Sport</name>
+        <name lang="it">Sport</name>
+        <name lang="rm">Sport</name>
       </topic>
       <topic id="10">
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

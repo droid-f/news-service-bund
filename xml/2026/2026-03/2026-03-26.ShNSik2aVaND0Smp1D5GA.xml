@@ -6,11 +6,11 @@
     <pubdate>2026-03-26</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -24,16 +24,16 @@
     </originator>
     <keywords>
       <keyword id="6300" org-id="201">
-        <name lang="it">Angola</name>
         <name lang="de">Angola</name>
         <name lang="en">Angola</name>
         <name lang="fr">Angola</name>
+        <name lang="it">Angola</name>
       </keyword>
       <keyword id="11099" org-id="201">
+        <name lang="de">Nigeria</name>
         <name lang="en">Nigeria</name>
         <name lang="fr">Nigéria</name>
         <name lang="it">Nigeria</name>
-        <name lang="de">Nigeria</name>
       </keyword>
       <keyword id="6284" org-id="201">
         <name lang="de">Côte d’Ivoire</name>
@@ -41,33 +41,10 @@
         <name lang="fr">Côte d’Ivoire</name>
       </keyword>
       <keyword id="6286" org-id="201">
-        <name lang="fr">Burkina Faso</name>
-        <name lang="it">Burkina Faso</name>
         <name lang="de">Burkina Faso</name>
-        <name lang="en">Burkina Faso</name>
-      </keyword>
-      <keyword id="6300" org-id="201">
-        <name lang="en">Angola</name>
-        <name lang="fr">Angola</name>
-        <name lang="it">Angola</name>
-        <name lang="de">Angola</name>
-      </keyword>
-      <keyword id="11099" org-id="201">
-        <name lang="fr">Nigéria</name>
-        <name lang="it">Nigeria</name>
-        <name lang="de">Nigeria</name>
-        <name lang="en">Nigeria</name>
-      </keyword>
-      <keyword id="6284" org-id="201">
-        <name lang="de">Côte d’Ivoire</name>
-        <name lang="en">The Ivory Coast</name>
-        <name lang="fr">Côte d’Ivoire</name>
-      </keyword>
-      <keyword id="6286" org-id="201">
         <name lang="en">Burkina Faso</name>
         <name lang="fr">Burkina Faso</name>
         <name lang="it">Burkina Faso</name>
-        <name lang="de">Burkina Faso</name>
       </keyword>
       <keyword id="6300" org-id="201">
         <name lang="de">Angola</name>
@@ -76,10 +53,10 @@
         <name lang="it">Angola</name>
       </keyword>
       <keyword id="11099" org-id="201">
+        <name lang="fr">Nigéria</name>
         <name lang="it">Nigeria</name>
         <name lang="de">Nigeria</name>
         <name lang="en">Nigeria</name>
-        <name lang="fr">Nigéria</name>
       </keyword>
       <keyword id="6284" org-id="201">
         <name lang="de">Côte d’Ivoire</name>
@@ -87,10 +64,10 @@
         <name lang="fr">Côte d’Ivoire</name>
       </keyword>
       <keyword id="6286" org-id="201">
-        <name lang="it">Burkina Faso</name>
         <name lang="de">Burkina Faso</name>
         <name lang="en">Burkina Faso</name>
         <name lang="fr">Burkina Faso</name>
+        <name lang="it">Burkina Faso</name>
       </keyword>
       <keyword id="6300" org-id="201">
         <name lang="de">Angola</name>
@@ -114,6 +91,29 @@
         <name lang="de">Burkina Faso</name>
         <name lang="en">Burkina Faso</name>
         <name lang="fr">Burkina Faso</name>
+      </keyword>
+      <keyword id="6300" org-id="201">
+        <name lang="de">Angola</name>
+        <name lang="en">Angola</name>
+        <name lang="fr">Angola</name>
+        <name lang="it">Angola</name>
+      </keyword>
+      <keyword id="11099" org-id="201">
+        <name lang="de">Nigeria</name>
+        <name lang="en">Nigeria</name>
+        <name lang="fr">Nigéria</name>
+        <name lang="it">Nigeria</name>
+      </keyword>
+      <keyword id="6284" org-id="201">
+        <name lang="de">Côte d’Ivoire</name>
+        <name lang="en">The Ivory Coast</name>
+        <name lang="fr">Côte d’Ivoire</name>
+      </keyword>
+      <keyword id="6286" org-id="201">
+        <name lang="de">Burkina Faso</name>
+        <name lang="en">Burkina Faso</name>
+        <name lang="fr">Burkina Faso</name>
+        <name lang="it">Burkina Faso</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -150,18 +150,18 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="409">
-        <name lang="rm">Cooperaziun al svilup</name>
         <name lang="de">Entwicklungszusammenarbeit</name>
         <name lang="en">Development cooperation</name>
         <name lang="fr">Coopération au développement</name>
         <name lang="it">Cooperazione allo sviluppo</name>
+        <name lang="rm">Cooperaziun al svilup</name>
       </topic>
     </topics>
     <offers/>

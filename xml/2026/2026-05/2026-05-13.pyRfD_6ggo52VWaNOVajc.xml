@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
@@ -65,32 +65,32 @@
     </content>
     <topics>
       <topic id="106">
+        <name lang="de">Ignazio Cassis</name>
         <name lang="en">Ignazio Cassis</name>
         <name lang="fr">Ignazio Cassis</name>
         <name lang="it">Ignazio Cassis</name>
         <name lang="rm">Ignazio Cassis</name>
-        <name lang="de">Ignazio Cassis</name>
       </topic>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="40">
+        <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
-        <name lang="fr">Sécurité</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
       </topic>
     </topics>
     <offers/>

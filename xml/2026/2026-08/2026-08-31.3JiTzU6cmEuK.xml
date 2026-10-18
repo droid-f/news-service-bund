@@ -6,16 +6,16 @@
     <pubdate>2026-08-31</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -24,10 +24,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-103" org-id="401">
+        <name lang="fr">Visite d'Etat et visite de travail</name>
         <name lang="it">Visite di Stato e incontri di lavoro</name>
         <name lang="de">Staatsbesuch und Arbeitstreffen</name>
         <name lang="en">State visit and working meeting</name>
-        <name lang="fr">Visite d'Etat et visite de travail</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="de">Asyl</name>
@@ -36,40 +36,40 @@
         <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
-        <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
         <name lang="de">Illegale Migration</name>
         <name lang="en">Illegal migration</name>
+        <name lang="fr">Migration illégale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
+        <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-103" org-id="401">
+        <name lang="it">Visite di Stato e incontri di lavoro</name>
         <name lang="de">Staatsbesuch und Arbeitstreffen</name>
         <name lang="en">State visit and working meeting</name>
         <name lang="fr">Visite d'Etat et visite de travail</name>
-        <name lang="it">Visite di Stato e incontri di lavoro</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
-        <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
+        <name lang="fr">Asile</name>
       </keyword>
       <keyword id="SLW-55" org-id="401">
+        <name lang="de">Illegale Migration</name>
         <name lang="en">Illegal migration</name>
         <name lang="fr">Migration illégale</name>
         <name lang="it">Migrazione illegale</name>
-        <name lang="de">Illegale Migration</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-103" org-id="401">
         <name lang="de">Staatsbesuch und Arbeitstreffen</name>
@@ -84,10 +84,10 @@
         <name lang="it">Migrazione illegale</name>
       </keyword>
       <keyword id="SLW-123" org-id="401">
-        <name lang="de">Zusammenarbeit</name>
-        <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
+        <name lang="de">Zusammenarbeit</name>
+        <name lang="en">Cooperation</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="de">Asyl</name>
@@ -129,11 +129,11 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="547">
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="rm">Polizia</name>
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -143,11 +143,11 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="40">
-        <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
       </topic>
     </topics>
     <offers/>

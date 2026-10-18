@@ -6,11 +6,11 @@
     <pubdate>2026-01-29</pubdate>
     <originator id="601" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
@@ -24,16 +24,16 @@
     </originator>
     <keywords>
       <keyword id="SLW-203" org-id="601">
-        <name lang="it">Dati personali</name>
         <name lang="de">Personalia</name>
         <name lang="en">Personnel matters</name>
         <name lang="fr">Nommément</name>
+        <name lang="it">Dati personali</name>
       </keyword>
       <keyword id="SLW-203" org-id="601">
+        <name lang="de">Personalia</name>
         <name lang="en">Personnel matters</name>
         <name lang="fr">Nommément</name>
         <name lang="it">Dati personali</name>
-        <name lang="de">Personalia</name>
       </keyword>
       <keyword id="SLW-203" org-id="601">
         <name lang="de">Personalia</name>
@@ -68,11 +68,11 @@
     </content>
     <topics>
       <topic id="32">
+        <name lang="rm">Persunal da la Confederaziun</name>
+        <name lang="de">Bundespersonal</name>
         <name lang="en">Federal Personnel</name>
         <name lang="fr">Personnel de la Confédération</name>
         <name lang="it">Personale della Confederazione</name>
-        <name lang="rm">Persunal da la Confederaziun</name>
-        <name lang="de">Bundespersonal</name>
       </topic>
     </topics>
     <offers/>

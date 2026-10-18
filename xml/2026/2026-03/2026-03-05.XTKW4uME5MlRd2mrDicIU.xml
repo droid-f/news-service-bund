@@ -6,58 +6,34 @@
     <pubdate>2026-03-05</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-112" org-id="401">
-        <name lang="it">Terrorismo</name>
         <name lang="de">Terrorismus</name>
         <name lang="en">Terrorism</name>
         <name lang="fr">Terrorisme</name>
-      </keyword>
-      <keyword id="SLW-35" org-id="401">
-        <name lang="en">Europe</name>
-        <name lang="fr">Europe</name>
-        <name lang="it">Europa</name>
-        <name lang="de">Europa</name>
-      </keyword>
-      <keyword id="SLW-69" org-id="401">
-        <name lang="it">Tratta di esseri umani e di migranti</name>
-        <name lang="de">Menschenhandel und -schmuggel</name>
-        <name lang="en">Trafficking and smuggling of human beings</name>
-        <name lang="fr">Traite d'êtres humains et trafic de migrants</name>
-      </keyword>
-      <keyword id="SLW-75" org-id="401">
-        <name lang="de">Organisierte Kriminalität</name>
-        <name lang="en">Organised crime</name>
-        <name lang="fr">Criminalité organisée</name>
-        <name lang="it">Criminalità organizzata</name>
-      </keyword>
-      <keyword id="SLW-112" org-id="401">
         <name lang="it">Terrorismo</name>
-        <name lang="de">Terrorismus</name>
-        <name lang="en">Terrorism</name>
-        <name lang="fr">Terrorisme</name>
       </keyword>
       <keyword id="SLW-35" org-id="401">
-        <name lang="en">Europe</name>
-        <name lang="fr">Europe</name>
         <name lang="it">Europa</name>
         <name lang="de">Europa</name>
+        <name lang="en">Europe</name>
+        <name lang="fr">Europe</name>
       </keyword>
       <keyword id="SLW-69" org-id="401">
         <name lang="de">Menschenhandel und -schmuggel</name>
@@ -72,10 +48,10 @@
         <name lang="en">Organised crime</name>
       </keyword>
       <keyword id="SLW-112" org-id="401">
-        <name lang="en">Terrorism</name>
-        <name lang="fr">Terrorisme</name>
         <name lang="it">Terrorismo</name>
         <name lang="de">Terrorismus</name>
+        <name lang="en">Terrorism</name>
+        <name lang="fr">Terrorisme</name>
       </keyword>
       <keyword id="SLW-35" org-id="401">
         <name lang="en">Europe</name>
@@ -84,16 +60,40 @@
         <name lang="de">Europa</name>
       </keyword>
       <keyword id="SLW-69" org-id="401">
+        <name lang="de">Menschenhandel und -schmuggel</name>
         <name lang="en">Trafficking and smuggling of human beings</name>
         <name lang="fr">Traite d'êtres humains et trafic de migrants</name>
         <name lang="it">Tratta di esseri umani e di migranti</name>
-        <name lang="de">Menschenhandel und -schmuggel</name>
       </keyword>
       <keyword id="SLW-75" org-id="401">
+        <name lang="de">Organisierte Kriminalität</name>
         <name lang="en">Organised crime</name>
         <name lang="fr">Criminalité organisée</name>
         <name lang="it">Criminalità organizzata</name>
+      </keyword>
+      <keyword id="SLW-112" org-id="401">
+        <name lang="de">Terrorismus</name>
+        <name lang="en">Terrorism</name>
+        <name lang="fr">Terrorisme</name>
+        <name lang="it">Terrorismo</name>
+      </keyword>
+      <keyword id="SLW-35" org-id="401">
+        <name lang="de">Europa</name>
+        <name lang="en">Europe</name>
+        <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
+      </keyword>
+      <keyword id="SLW-69" org-id="401">
+        <name lang="de">Menschenhandel und -schmuggel</name>
+        <name lang="en">Trafficking and smuggling of human beings</name>
+        <name lang="fr">Traite d'êtres humains et trafic de migrants</name>
+        <name lang="it">Tratta di esseri umani e di migranti</name>
+      </keyword>
+      <keyword id="SLW-75" org-id="401">
         <name lang="de">Organisierte Kriminalität</name>
+        <name lang="en">Organised crime</name>
+        <name lang="fr">Criminalité organisée</name>
+        <name lang="it">Criminalità organizzata</name>
       </keyword>
     </keywords>
     <content lang="de">
@@ -122,18 +122,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="552">
-        <name lang="it">Terrorismo</name>
-        <name lang="rm">Terrorissem</name>
         <name lang="de">Terrorismus</name>
         <name lang="en">Terrorism</name>
         <name lang="fr">Terrorisme</name>
+        <name lang="it">Terrorismo</name>
+        <name lang="rm">Terrorissem</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -143,18 +143,18 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="40">
+        <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
       <topic id="27">
-        <name lang="en">Travel &amp; Tourism</name>
-        <name lang="fr">Voyages et tourisme</name>
         <name lang="it">Viaggi e turismo</name>
         <name lang="rm">Viagiar e turissem</name>
         <name lang="de">Reisen &amp; Tourismus</name>
+        <name lang="en">Travel &amp; Tourism</name>
+        <name lang="fr">Voyages et tourisme</name>
       </topic>
     </topics>
     <offers/>

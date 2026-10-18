@@ -6,11 +6,11 @@
     <pubdate>2026-07-23</pubdate>
     <originator id="323" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
-      <name lang="rm">Institut federal da controlla da material e da perscrutaziun</name>
       <name lang="de">Eidg. Materialprüfungs- und Forschungsanstalt</name>
       <name lang="en">Federal Laboratory for Materials Testing and Research</name>
       <name lang="fr">Laboratoire fédéral d'essai des matériaux et de recherche</name>
+      <name lang="it">Laboratorio federale di prova dei materiali e di ricerca</name>
+      <name lang="rm">Institut federal da controlla da material e da perscrutaziun</name>
       <www lang="de">https://www.empa.ch</www>
       <www lang="en">https://www.empa.ch</www>
       <www lang="fr">https://www.empa.ch</www>
@@ -18,11 +18,11 @@
     </originator>
     <keywords/>
     <department id="701">
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
@@ -67,25 +67,25 @@
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="604">
-        <name lang="rm">Chemia e tissis</name>
         <name lang="de">Chemie und Gifte</name>
         <name lang="en">Chemicals and poisons</name>
         <name lang="fr">Chimie et produits toxiques</name>
         <name lang="it">Chimica e agenti tossici</name>
+        <name lang="rm">Chemia e tissis</name>
       </topic>
       <topic id="436">
+        <name lang="fr">Promotion de la science</name>
+        <name lang="it">Promozione della scienza</name>
         <name lang="rm">Promoziun da la scienza</name>
         <name lang="de">Wissenschaftsförderung</name>
         <name lang="en">Science promotion</name>
-        <name lang="fr">Promotion de la science</name>
-        <name lang="it">Promozione della scienza</name>
       </topic>
       <topic id="9">
+        <name lang="it">Scienza</name>
         <name lang="rm">Scienza</name>
         <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
-        <name lang="it">Scienza</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -95,11 +95,11 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="410">
+        <name lang="de">Europäische Union</name>
         <name lang="en">European Union</name>
         <name lang="fr">Union européenne</name>
         <name lang="it">Unione europea</name>
         <name lang="rm">Uniun europeica</name>
-        <name lang="de">Europäische Union</name>
       </topic>
     </topics>
     <offers/>

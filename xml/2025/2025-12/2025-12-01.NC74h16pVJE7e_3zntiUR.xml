@@ -6,16 +6,16 @@
     <pubdate>2025-12-01</pubdate>
     <originator id="801" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -24,10 +24,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-310" org-id="801">
-        <name lang="en">Energy policy</name>
-        <name lang="fr">Politique énergétique</name>
         <name lang="it">Politica energetica</name>
         <name lang="de">Energiepolitik</name>
+        <name lang="en">Energy policy</name>
+        <name lang="fr">Politique énergétique</name>
       </keyword>
       <keyword id="SLW-350" org-id="801">
         <name lang="de">Erneuerbare Energien</name>
@@ -48,16 +48,16 @@
         <name lang="it">Politica energetica</name>
       </keyword>
       <keyword id="SLW-350" org-id="801">
+        <name lang="de">Erneuerbare Energien</name>
         <name lang="en">Renewable energy</name>
         <name lang="fr">Energies renouvelables</name>
         <name lang="it">Energie rinnovabili</name>
-        <name lang="de">Erneuerbare Energien</name>
       </keyword>
       <keyword id="SLW-2086" org-id="801">
-        <name lang="de">Stromversorgung</name>
         <name lang="en">Electricity supply</name>
         <name lang="fr">Approvisionnement en électricité</name>
         <name lang="it">Approvvigionamento elettrico</name>
+        <name lang="de">Stromversorgung</name>
       </keyword>
       <keyword id="SLW-310" org-id="801">
         <name lang="de">Energiepolitik</name>
@@ -72,10 +72,10 @@
         <name lang="it">Energie rinnovabili</name>
       </keyword>
       <keyword id="SLW-2086" org-id="801">
+        <name lang="de">Stromversorgung</name>
         <name lang="en">Electricity supply</name>
         <name lang="fr">Approvisionnement en électricité</name>
         <name lang="it">Approvvigionamento elettrico</name>
-        <name lang="de">Stromversorgung</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -104,11 +104,11 @@
     </content>
     <topics>
       <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="en">Energy</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
         <name lang="rm">Energia</name>
-        <name lang="de">Energie</name>
-        <name lang="en">Energy</name>
       </topic>
     </topics>
     <offers/>

@@ -11,23 +11,23 @@
       <name lang="fr">Secrétariat d'État et aux questions financières internationales</name>
       <name lang="it">Segreteria di Stato per le questioni finanziarie internazionali</name>
       <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
+      <www lang="de">https://www.sif.admin.ch/de</www>
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
       <www lang="it">https://www.sif.admin.ch/it</www>
-      <www lang="de">https://www.sif.admin.ch/de</www>
+      <email lang="it">info@sif.admin.ch</email>
+      <email lang="rm">info@sif.admin.ch</email>
       <email lang="de">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
       <email lang="fr">info@sif.admin.ch</email>
-      <email lang="it">info@sif.admin.ch</email>
-      <email lang="rm">info@sif.admin.ch</email>
     </originator>
     <originator id="601" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
@@ -41,21 +41,21 @@
     </originator>
     <keywords/>
     <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -91,11 +91,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="587">
         <name lang="de">Internationale Doppelbesteuerung</name>
@@ -105,11 +105,11 @@
         <name lang="rm">Imposiziun dubla internaziunala</name>
       </topic>
       <topic id="34">
+        <name lang="rm">La Svizra e l'Europa </name>
+        <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
-        <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
       </topic>
       <topic id="44">
         <name lang="de">Steuern</name>

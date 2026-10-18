@@ -6,14 +6,14 @@
     <pubdate>2026-03-17</pubdate>
     <originator id="1006" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Bundesamt für Zivildienst</name>
       <name lang="en">Federal Office for Civilian Service</name>
       <name lang="fr">Office fédéral du service civil</name>
       <name lang="it">Ufficio federale del servizio civile</name>
       <name lang="rm">Uffizi federal dal servetsch civil</name>
-      <name lang="de">Bundesamt für Zivildienst</name>
+      <www lang="de">https://www.zivi.admin.ch/de/</www>
       <www lang="fr">https://www.zivi.admin.ch/fr/</www>
       <www lang="it">https://www.zivi.admin.ch/it/</www>
-      <www lang="de">https://www.zivi.admin.ch/de/</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -27,11 +27,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Thoune</city>
@@ -59,18 +59,18 @@
     </content>
     <topics>
       <topic id="555">
-        <name lang="en">Civilian service</name>
-        <name lang="fr">Service civil</name>
         <name lang="it">Servizio civile</name>
         <name lang="rm">Servetsch civil</name>
         <name lang="de">Zivildienst</name>
+        <name lang="en">Civilian service</name>
+        <name lang="fr">Service civil</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

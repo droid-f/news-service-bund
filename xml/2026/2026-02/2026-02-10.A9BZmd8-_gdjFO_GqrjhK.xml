@@ -11,10 +11,10 @@
       <name lang="fr">Agroscope</name>
       <name lang="it">Agroscope</name>
       <name lang="rm">Agroscope</name>
-      <www lang="de">https://www.agroscope.admin.ch/</www>
       <www lang="en">https://www.agroscope.admin.ch/</www>
       <www lang="fr">https://www.agroscope.admin.ch/</www>
       <www lang="it">https://www.agroscope.admin.ch/</www>
+      <www lang="de">https://www.agroscope.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-9" org-id="1047">
@@ -24,10 +24,10 @@
         <name lang="it">Enologia</name>
       </keyword>
       <keyword id="SLW-10" org-id="1047">
-        <name lang="de">Rebbau</name>
-        <name lang="en">Viticulture</name>
         <name lang="fr">Viticulture</name>
         <name lang="it">Viticoltura</name>
+        <name lang="de">Rebbau</name>
+        <name lang="en">Viticulture</name>
       </keyword>
       <keyword id="SLW-11" org-id="1047">
         <name lang="de">Genressourcen</name>
@@ -36,10 +36,10 @@
         <name lang="it">Risorse genetiche</name>
       </keyword>
       <keyword id="SLW-12" org-id="1047">
-        <name lang="de">Züchtung</name>
-        <name lang="en">Plant breeding</name>
         <name lang="fr">Amélioration des plantes</name>
         <name lang="it">Miglioramento vegetale</name>
+        <name lang="de">Züchtung</name>
+        <name lang="en">Plant breeding</name>
       </keyword>
       <keyword id="SLW-13" org-id="1047">
         <name lang="de">Pflanzenkrankheiten</name>
@@ -72,10 +72,10 @@
         <name lang="de">Analytik</name>
       </keyword>
       <keyword id="SLW-25" org-id="1047">
-        <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
         <name lang="it">Salute</name>
+        <name lang="de">Gesundheit</name>
       </keyword>
       <keyword id="SLW-26" org-id="1047">
         <name lang="en">Plant biotechnology</name>
@@ -96,10 +96,100 @@
         <name lang="it">Protezione delle acque</name>
       </keyword>
       <keyword id="SLW-53" org-id="1047">
+        <name lang="de">Ökologischer Pflanzenschutz</name>
         <name lang="en">Ecological plant protection</name>
         <name lang="fr">Protection phytosanitaire écologique</name>
         <name lang="it">Protezione fitosanitaria ecologica</name>
+      </keyword>
+      <keyword id="SLW-54" org-id="1047">
+        <name lang="de">Sorten</name>
+        <name lang="en">Varieties</name>
+        <name lang="fr">Variétés</name>
+        <name lang="it">Varietà</name>
+      </keyword>
+      <keyword id="SLW-9" org-id="1047">
+        <name lang="it">Enologia</name>
+        <name lang="de">Weinbereitung</name>
+        <name lang="en">Oenology</name>
+        <name lang="fr">Oenologie</name>
+      </keyword>
+      <keyword id="SLW-10" org-id="1047">
+        <name lang="fr">Viticulture</name>
+        <name lang="it">Viticoltura</name>
+        <name lang="de">Rebbau</name>
+        <name lang="en">Viticulture</name>
+      </keyword>
+      <keyword id="SLW-11" org-id="1047">
+        <name lang="de">Genressourcen</name>
+        <name lang="en">Genetic resources</name>
+        <name lang="fr">Ressources génétiques</name>
+        <name lang="it">Risorse genetiche</name>
+      </keyword>
+      <keyword id="SLW-12" org-id="1047">
+        <name lang="de">Züchtung</name>
+        <name lang="en">Plant breeding</name>
+        <name lang="fr">Amélioration des plantes</name>
+        <name lang="it">Miglioramento vegetale</name>
+      </keyword>
+      <keyword id="SLW-13" org-id="1047">
+        <name lang="de">Pflanzenkrankheiten</name>
+        <name lang="en">Plant diseases</name>
+        <name lang="fr">Maladies des plantes</name>
+        <name lang="it">Malattie delle piante</name>
+      </keyword>
+      <keyword id="SLW-16" org-id="1047">
+        <name lang="de">Umweltschutz</name>
+        <name lang="en">Environmental protection</name>
+        <name lang="fr">Protection de l’environnement</name>
+        <name lang="it">Protezione dell’ambiente</name>
+      </keyword>
+      <keyword id="SLW-17" org-id="1047">
+        <name lang="fr">Protection des consommateurs</name>
+        <name lang="it">Protezione dei consumatori</name>
+        <name lang="de">Konsumentensicherheit</name>
+        <name lang="en">Consumer safety</name>
+      </keyword>
+      <keyword id="SLW-22" org-id="1047">
+        <name lang="de">Sensorik</name>
+        <name lang="en">Sensory testing</name>
+        <name lang="fr">Analyses sensorielles</name>
+        <name lang="it">Analisi sensoriale</name>
+      </keyword>
+      <keyword id="SLW-23" org-id="1047">
+        <name lang="de">Analytik</name>
+        <name lang="en">Anatytics</name>
+        <name lang="fr">Analyses chimiques</name>
+        <name lang="it">Analisi chimiche</name>
+      </keyword>
+      <keyword id="SLW-25" org-id="1047">
+        <name lang="it">Salute</name>
+        <name lang="de">Gesundheit</name>
+        <name lang="en">Health</name>
+        <name lang="fr">Santé</name>
+      </keyword>
+      <keyword id="SLW-26" org-id="1047">
+        <name lang="de">Pflanzliche Biotechnologie</name>
+        <name lang="en">Plant biotechnology</name>
+        <name lang="fr">Biotechnologie végétale</name>
+        <name lang="it">Biotecnologia vegetale</name>
+      </keyword>
+      <keyword id="SLW-40" org-id="1047">
+        <name lang="de">Bodenschutz</name>
+        <name lang="en">Soil protection</name>
+        <name lang="fr">Protection des sols</name>
+        <name lang="it">Protezione del suolo</name>
+      </keyword>
+      <keyword id="SLW-42" org-id="1047">
+        <name lang="it">Protezione delle acque</name>
+        <name lang="de">Gewässerschutz</name>
+        <name lang="en">Water protection</name>
+        <name lang="fr">Protection des eaux</name>
+      </keyword>
+      <keyword id="SLW-53" org-id="1047">
         <name lang="de">Ökologischer Pflanzenschutz</name>
+        <name lang="en">Ecological plant protection</name>
+        <name lang="fr">Protection phytosanitaire écologique</name>
+        <name lang="it">Protezione fitosanitaria ecologica</name>
       </keyword>
       <keyword id="SLW-54" org-id="1047">
         <name lang="de">Sorten</name>
@@ -114,106 +204,16 @@
         <name lang="en">Oenology</name>
       </keyword>
       <keyword id="SLW-10" org-id="1047">
-        <name lang="en">Viticulture</name>
-        <name lang="fr">Viticulture</name>
-        <name lang="it">Viticoltura</name>
-        <name lang="de">Rebbau</name>
-      </keyword>
-      <keyword id="SLW-11" org-id="1047">
-        <name lang="de">Genressourcen</name>
-        <name lang="en">Genetic resources</name>
-        <name lang="fr">Ressources génétiques</name>
-        <name lang="it">Risorse genetiche</name>
-      </keyword>
-      <keyword id="SLW-12" org-id="1047">
-        <name lang="de">Züchtung</name>
-        <name lang="en">Plant breeding</name>
-        <name lang="fr">Amélioration des plantes</name>
-        <name lang="it">Miglioramento vegetale</name>
-      </keyword>
-      <keyword id="SLW-13" org-id="1047">
-        <name lang="de">Pflanzenkrankheiten</name>
-        <name lang="en">Plant diseases</name>
-        <name lang="fr">Maladies des plantes</name>
-        <name lang="it">Malattie delle piante</name>
-      </keyword>
-      <keyword id="SLW-16" org-id="1047">
-        <name lang="de">Umweltschutz</name>
-        <name lang="en">Environmental protection</name>
-        <name lang="fr">Protection de l’environnement</name>
-        <name lang="it">Protezione dell’ambiente</name>
-      </keyword>
-      <keyword id="SLW-17" org-id="1047">
-        <name lang="de">Konsumentensicherheit</name>
-        <name lang="en">Consumer safety</name>
-        <name lang="fr">Protection des consommateurs</name>
-        <name lang="it">Protezione dei consumatori</name>
-      </keyword>
-      <keyword id="SLW-22" org-id="1047">
-        <name lang="de">Sensorik</name>
-        <name lang="en">Sensory testing</name>
-        <name lang="fr">Analyses sensorielles</name>
-        <name lang="it">Analisi sensoriale</name>
-      </keyword>
-      <keyword id="SLW-23" org-id="1047">
-        <name lang="de">Analytik</name>
-        <name lang="en">Anatytics</name>
-        <name lang="fr">Analyses chimiques</name>
-        <name lang="it">Analisi chimiche</name>
-      </keyword>
-      <keyword id="SLW-25" org-id="1047">
-        <name lang="fr">Santé</name>
-        <name lang="it">Salute</name>
-        <name lang="de">Gesundheit</name>
-        <name lang="en">Health</name>
-      </keyword>
-      <keyword id="SLW-26" org-id="1047">
-        <name lang="de">Pflanzliche Biotechnologie</name>
-        <name lang="en">Plant biotechnology</name>
-        <name lang="fr">Biotechnologie végétale</name>
-        <name lang="it">Biotecnologia vegetale</name>
-      </keyword>
-      <keyword id="SLW-40" org-id="1047">
-        <name lang="de">Bodenschutz</name>
-        <name lang="en">Soil protection</name>
-        <name lang="fr">Protection des sols</name>
-        <name lang="it">Protezione del suolo</name>
-      </keyword>
-      <keyword id="SLW-42" org-id="1047">
-        <name lang="de">Gewässerschutz</name>
-        <name lang="en">Water protection</name>
-        <name lang="fr">Protection des eaux</name>
-        <name lang="it">Protezione delle acque</name>
-      </keyword>
-      <keyword id="SLW-53" org-id="1047">
-        <name lang="it">Protezione fitosanitaria ecologica</name>
-        <name lang="de">Ökologischer Pflanzenschutz</name>
-        <name lang="en">Ecological plant protection</name>
-        <name lang="fr">Protection phytosanitaire écologique</name>
-      </keyword>
-      <keyword id="SLW-54" org-id="1047">
-        <name lang="en">Varieties</name>
-        <name lang="fr">Variétés</name>
-        <name lang="it">Varietà</name>
-        <name lang="de">Sorten</name>
-      </keyword>
-      <keyword id="SLW-9" org-id="1047">
-        <name lang="de">Weinbereitung</name>
-        <name lang="en">Oenology</name>
-        <name lang="fr">Oenologie</name>
-        <name lang="it">Enologia</name>
-      </keyword>
-      <keyword id="SLW-10" org-id="1047">
         <name lang="de">Rebbau</name>
         <name lang="en">Viticulture</name>
         <name lang="fr">Viticulture</name>
         <name lang="it">Viticoltura</name>
       </keyword>
       <keyword id="SLW-11" org-id="1047">
-        <name lang="de">Genressourcen</name>
         <name lang="en">Genetic resources</name>
         <name lang="fr">Ressources génétiques</name>
         <name lang="it">Risorse genetiche</name>
+        <name lang="de">Genressourcen</name>
       </keyword>
       <keyword id="SLW-12" org-id="1047">
         <name lang="de">Züchtung</name>
@@ -258,28 +258,28 @@
         <name lang="it">Salute</name>
       </keyword>
       <keyword id="SLW-26" org-id="1047">
+        <name lang="it">Biotecnologia vegetale</name>
         <name lang="de">Pflanzliche Biotechnologie</name>
         <name lang="en">Plant biotechnology</name>
         <name lang="fr">Biotechnologie végétale</name>
-        <name lang="it">Biotecnologia vegetale</name>
       </keyword>
       <keyword id="SLW-40" org-id="1047">
+        <name lang="de">Bodenschutz</name>
         <name lang="en">Soil protection</name>
         <name lang="fr">Protection des sols</name>
         <name lang="it">Protezione del suolo</name>
-        <name lang="de">Bodenschutz</name>
       </keyword>
       <keyword id="SLW-42" org-id="1047">
-        <name lang="de">Gewässerschutz</name>
-        <name lang="en">Water protection</name>
         <name lang="fr">Protection des eaux</name>
         <name lang="it">Protezione delle acque</name>
+        <name lang="de">Gewässerschutz</name>
+        <name lang="en">Water protection</name>
       </keyword>
       <keyword id="SLW-53" org-id="1047">
-        <name lang="it">Protezione fitosanitaria ecologica</name>
         <name lang="de">Ökologischer Pflanzenschutz</name>
         <name lang="en">Ecological plant protection</name>
         <name lang="fr">Protection phytosanitaire écologique</name>
+        <name lang="it">Protezione fitosanitaria ecologica</name>
       </keyword>
       <keyword id="SLW-54" org-id="1047">
         <name lang="de">Sorten</name>
@@ -299,11 +299,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -331,18 +331,18 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
+        <name lang="de">Gesundheit</name>
       </topic>
       <topic id="234">
-        <name lang="fr">Production végétale</name>
-        <name lang="it">Produzione vegetale</name>
         <name lang="rm">Planticultura</name>
         <name lang="de">Pflanzenbau</name>
         <name lang="en">Plant production</name>
+        <name lang="fr">Production végétale</name>
+        <name lang="it">Produzione vegetale</name>
       </topic>
       <topic id="659">
         <name lang="de">Weinbau</name>
@@ -352,25 +352,25 @@
         <name lang="rm">Viticultura</name>
       </topic>
       <topic id="655">
-        <name lang="de">Sortenschutz</name>
         <name lang="en">Plant variety protection</name>
         <name lang="fr">Protection des obtentions végétales</name>
         <name lang="it">Protezione delle varietà</name>
         <name lang="rm">Protecziun da las spezias</name>
+        <name lang="de">Sortenschutz</name>
       </topic>
       <topic id="236">
-        <name lang="rm">Protecziun da las plantas</name>
         <name lang="de">Pflanzenschutz</name>
         <name lang="en">Plant protection</name>
         <name lang="fr">Protection phytosanitaire</name>
         <name lang="it">Protezione fitosanitaria</name>
+        <name lang="rm">Protecziun da las plantas</name>
       </topic>
       <topic id="616">
+        <name lang="de">Umweltschutz</name>
+        <name lang="en">Environmental protection</name>
         <name lang="fr">Protection de l’environnement</name>
         <name lang="it">Protezione dell’ambiente</name>
         <name lang="rm">Protecziun da l'ambient</name>
-        <name lang="de">Umweltschutz</name>
-        <name lang="en">Environmental protection</name>
       </topic>
       <topic id="613">
         <name lang="en">Plants</name>
@@ -380,39 +380,39 @@
         <name lang="de">Pflanzen</name>
       </topic>
       <topic id="611">
+        <name lang="it">Protezione della natura</name>
+        <name lang="rm">Protecziun da la natira</name>
         <name lang="de">Naturschutz</name>
         <name lang="en">Nature conservation</name>
         <name lang="fr">Protection de la nature</name>
-        <name lang="it">Protezione della natura</name>
-        <name lang="rm">Protecziun da la natira</name>
       </topic>
       <topic id="46">
-        <name lang="it">Sviluppo sostenibile</name>
-        <name lang="rm">Svilup persistent</name>
         <name lang="de">Nachhaltige Entwicklung</name>
         <name lang="en">Sustainable development</name>
         <name lang="fr">Développement durable</name>
+        <name lang="it">Sviluppo sostenibile</name>
+        <name lang="rm">Svilup persistent</name>
       </topic>
       <topic id="246">
+        <name lang="it">Sicurezza e qualità nella filiera agroalimentare</name>
         <name lang="rm">Segirezza e qualitad en la chadaina da victualias</name>
         <name lang="de">Sicherheit &amp; Qualität in der Lebensmittelkette</name>
         <name lang="en">Safety &amp; quality in the food chain</name>
         <name lang="fr">Sécurité et qualité dans la chaîne alimentaire</name>
-        <name lang="it">Sicurezza e qualità nella filiera agroalimentare</name>
       </topic>
       <topic id="235">
-        <name lang="de">Pflanzliche Lebensmittel</name>
-        <name lang="en">Plant-based foods</name>
         <name lang="fr">Denrées alimentaires végétales</name>
         <name lang="it">Alimenti di origine vegetale </name>
         <name lang="rm">Victualias vegetalas</name>
+        <name lang="de">Pflanzliche Lebensmittel</name>
+        <name lang="en">Plant-based foods</name>
       </topic>
       <topic id="245">
-        <name lang="de">Ernährung</name>
-        <name lang="en">Foodstuffs</name>
         <name lang="fr">Alimentation</name>
         <name lang="it">Alimentazione</name>
         <name lang="rm">Nutriment</name>
+        <name lang="de">Ernährung</name>
+        <name lang="en">Foodstuffs</name>
       </topic>
       <topic id="9">
         <name lang="de">Wissenschaft</name>
@@ -422,11 +422,11 @@
         <name lang="rm">Scienza</name>
       </topic>
       <topic id="21">
+        <name lang="fr">Environnement et nature</name>
+        <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
-        <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
       </topic>
       <topic id="113">
         <name lang="de">Gesundheit</name>
@@ -435,10 +435,10 @@
         <name lang="it">Salute</name>
       </topic>
       <topic id="112">
+        <name lang="it">Ambiente</name>
         <name lang="de">Umwelt</name>
         <name lang="en">Environment</name>
         <name lang="fr">Environnement</name>
-        <name lang="it">Ambiente</name>
       </topic>
       <topic id="108">
         <name lang="de">Landwirtschaft</name>

@@ -6,34 +6,34 @@
     <pubdate>2026-05-22</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
-      <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-6" org-id="401">
+        <name lang="it">Mercato di lavoro</name>
         <name lang="de">Arbeitsmarkt</name>
         <name lang="en">Employment market</name>
         <name lang="fr">Marché du travail</name>
-        <name lang="it">Mercato di lavoro</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
-        <name lang="en">Asylum</name>
-        <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
+        <name lang="en">Asylum</name>
+        <name lang="fr">Asile</name>
       </keyword>
       <keyword id="SLW-6" org-id="401">
         <name lang="de">Arbeitsmarkt</name>
@@ -48,10 +48,10 @@
         <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-6" org-id="401">
+        <name lang="it">Mercato di lavoro</name>
         <name lang="de">Arbeitsmarkt</name>
         <name lang="en">Employment market</name>
         <name lang="fr">Marché du travail</name>
-        <name lang="it">Mercato di lavoro</name>
       </keyword>
       <keyword id="SLW-8" org-id="401">
         <name lang="de">Asyl</name>
@@ -86,18 +86,18 @@
     </content>
     <topics>
       <topic id="20">
+        <name lang="de">Migration &amp; Integration</name>
+        <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
-        <name lang="de">Migration &amp; Integration</name>
-        <name lang="en">Migration &amp; Integration</name>
       </topic>
       <topic id="2">
-        <name lang="de">Arbeit</name>
         <name lang="en">Work</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
         <name lang="rm">Lavur</name>
+        <name lang="de">Arbeit</name>
       </topic>
     </topics>
     <offers/>

@@ -12,11 +12,11 @@
       <name lang="de">Bundesamt für Polizei</name>
       <name lang="en">Federal Office of Police</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
-      <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
       <email lang="rm">media@fedpol.admin.ch</email>
       <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
+      <email lang="fr">media@fedpol.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-58" org-id="404">
@@ -26,10 +26,10 @@
         <name lang="it">Evento internazionale</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
+        <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
-        <name lang="fr">Police</name>
       </keyword>
       <keyword id="SLW-58" org-id="404">
         <name lang="de">Internationaler Anlass</name>
@@ -57,16 +57,16 @@
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
@@ -99,18 +99,18 @@
     </content>
     <topics>
       <topic id="547">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="rm">Polizia</name>
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
       </topic>
       <topic id="40">
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
       </topic>
     </topics>
     <offers/>

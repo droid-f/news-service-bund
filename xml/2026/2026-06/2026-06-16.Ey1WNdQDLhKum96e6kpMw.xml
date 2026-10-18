@@ -6,17 +6,17 @@
     <pubdate>2026-06-16</pubdate>
     <originator id="159" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Commissione federale per le questioni familiari </name>
-      <name lang="rm">Cumissiun federala per dumondas da famiglia</name>
       <name lang="de">Eidgenössische Kommission für Familienfragen</name>
       <name lang="en">Federal Commission for Family Affairs</name>
       <name lang="fr">Commission fédérale pour les questions familiales </name>
+      <name lang="it">Commissione federale per le questioni familiari </name>
+      <name lang="rm">Cumissiun federala per dumondas da famiglia</name>
       <www lang="de">https://ekff.admin.ch/</www>
-      <email lang="de">nadine.hoch@bsv.admin.ch</email>
       <email lang="en">nadine.hoch@bsv.admin.ch</email>
       <email lang="fr">nadine.hoch@bsv.admin.ch</email>
       <email lang="it">nadine.hoch@bsv.admin.ch</email>
       <email lang="rm">nadine.hoch@bsv.admin.ch</email>
+      <email lang="de">nadine.hoch@bsv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -25,11 +25,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -57,18 +57,18 @@
     </content>
     <topics>
       <topic id="37">
+        <name lang="de">Familie, Generationen und Gesellschaft</name>
         <name lang="en">Family, generations and society</name>
         <name lang="fr">Famille, générations et société</name>
         <name lang="it">Famiglia, generazioni e società</name>
         <name lang="rm">Famiglia, generaziuns e societad</name>
-        <name lang="de">Familie, Generationen und Gesellschaft</name>
       </topic>
       <topic id="12">
+        <name lang="en">Family and youth issues</name>
+        <name lang="fr">Famille et jeunesse</name>
         <name lang="it">Famiglia e giovani</name>
         <name lang="rm">Dumondas da famiglias e da giuventetgna</name>
         <name lang="de">Familien- und Jugendfragen</name>
-        <name lang="en">Family and youth issues</name>
-        <name lang="fr">Famille et jeunesse</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
@@ -78,10 +78,10 @@
         <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
       <topic id="125">
+        <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
-        <name lang="de">Soziale Sicherheit</name>
       </topic>
     </topics>
     <offers/>

@@ -6,18 +6,18 @@
     <pubdate>2026-06-04</pubdate>
     <originator id="806" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
+      <name lang="it">Ufficio federale dell'aviazione civile</name>
+      <name lang="rm">Uffizi federal d'aviatica civila</name>
       <name lang="de">Bundesamt für Zivilluftfahrt</name>
       <name lang="en">Federal Office of Civil Aviation</name>
       <name lang="fr">Office fédéral de l'aviation civile</name>
-      <name lang="it">Ufficio federale dell'aviazione civile</name>
-      <name lang="rm">Uffizi federal d'aviatica civila</name>
       <www lang="de">http://www.bazl.admin.ch/</www>
       <www lang="rm">http://www.bazl.admin.ch/</www>
-      <email lang="en">kommunikation@bazl.admin.ch</email>
-      <email lang="fr">kommunikation@bazl.admin.ch</email>
       <email lang="it">kommunikation@bazl.admin.ch</email>
       <email lang="rm">kommunikation@bazl.admin.ch</email>
       <email lang="de">kommunikation@bazl.admin.ch</email>
+      <email lang="en">kommunikation@bazl.admin.ch</email>
+      <email lang="fr">kommunikation@bazl.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
@@ -26,16 +26,16 @@
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
+      <email lang="en">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -63,11 +63,11 @@
     </content>
     <topics>
       <topic id="101">
+        <name lang="rm">Traffic aviatic</name>
         <name lang="de">Luftverkehr</name>
         <name lang="en">Air transport</name>
         <name lang="fr">Transports aériens</name>
         <name lang="it">Trasporto aereo</name>
-        <name lang="rm">Traffic aviatic</name>
       </topic>
       <topic id="46">
         <name lang="it">Trasporti e mobilità</name>

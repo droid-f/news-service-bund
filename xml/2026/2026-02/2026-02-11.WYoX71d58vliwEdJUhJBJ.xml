@@ -6,19 +6,19 @@
     <pubdate>2026-02-11</pubdate>
     <originator id="101" department-msg="no" lead="no" topnews="no">
       <department-id>101</department-id>
-      <www lang="rm">https://www.bk.admin.ch/bk/rm/home.html</www>
-      <www lang="de">https://www.bk.admin.ch</www>
       <www lang="en">https://www.bk.admin.ch/bk/en/home.html</www>
       <www lang="fr">https://www.bk.admin.ch/bk/fr/home.html</www>
       <www lang="it">https://www.bk.admin.ch/bk/it/home.html</www>
+      <www lang="rm">https://www.bk.admin.ch/bk/rm/home.html</www>
+      <www lang="de">https://www.bk.admin.ch</www>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <keywords/>
     <content lang="it">
@@ -47,25 +47,25 @@
     </content>
     <topics>
       <topic id="69">
-        <name lang="de">Abstimmungen</name>
-        <name lang="en">Popular votes</name>
         <name lang="fr">Votations</name>
         <name lang="it">Votazioni</name>
         <name lang="rm">Votaziuns</name>
+        <name lang="de">Abstimmungen</name>
+        <name lang="en">Popular votes</name>
       </topic>
       <topic id="23">
+        <name lang="it">Diritti politici</name>
+        <name lang="rm">Dretgs politics</name>
         <name lang="de">Politische Rechte</name>
         <name lang="en">Political rights</name>
         <name lang="fr">Droits politiques</name>
-        <name lang="it">Diritti politici</name>
-        <name lang="rm">Dretgs politics</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

@@ -6,14 +6,14 @@
     <pubdate>2026-07-16</pubdate>
     <originator id="1079" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <name lang="en">Federal Food Safety and Veterinary Office</name>
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
       <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
-      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
+      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
       <www lang="de">https://www.blv.admin.ch</www>
-      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
@@ -28,16 +28,16 @@
         <name lang="de">Lebensmittel</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="fr">Denrées alimentaires</name>
-        <name lang="it">Derrate alimentari</name>
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
+        <name lang="fr">Denrées alimentaires</name>
+        <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
+        <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
         <name lang="fr">Denrées alimentaires</name>
         <name lang="it">Derrate alimentari</name>
-        <name lang="de">Lebensmittel</name>
       </keyword>
     </keywords>
     <department id="301">
@@ -46,11 +46,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -85,18 +85,18 @@
         <name lang="it">Richiami e informazioni relative alla sicurezza</name>
       </topic>
       <topic id="479">
+        <name lang="fr">Sécurité alimentaire</name>
         <name lang="it">Sicurezza alimentare</name>
         <name lang="rm">Segirezza da victualias</name>
         <name lang="de">Lebensmittelsicherheit</name>
         <name lang="en">Food safety</name>
-        <name lang="fr">Sécurité alimentaire</name>
       </topic>
       <topic id="37">
-        <name lang="en">Consumption</name>
-        <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
         <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
+        <name lang="en">Consumption</name>
+        <name lang="fr">Consommation</name>
       </topic>
     </topics>
     <offers/>

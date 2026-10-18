@@ -6,13 +6,13 @@
     <pubdate>2025-11-27</pubdate>
     <originator id="1008" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="en">Federal Consumer Affairs Bureau</name>
-      <name lang="fr">Bureau fédéral de la consommation</name>
       <name lang="it">Ufficio federale del consumo</name>
       <name lang="rm">Uffizi federal per dumondas dal consum</name>
       <name lang="de">Eidgenössisches Büro für Konsumentenfragen</name>
-      <www lang="de">https://www.konsum.admin.ch/</www>
+      <name lang="en">Federal Consumer Affairs Bureau</name>
+      <name lang="fr">Bureau fédéral de la consommation</name>
       <www lang="en">https://www.konsum.admin.ch/</www>
+      <www lang="de">https://www.konsum.admin.ch/</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -58,11 +58,11 @@
     </content>
     <topics>
       <topic id="37">
-        <name lang="rm">Consum</name>
-        <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
+        <name lang="rm">Consum</name>
+        <name lang="de">Konsum</name>
       </topic>
     </topics>
     <offers/>

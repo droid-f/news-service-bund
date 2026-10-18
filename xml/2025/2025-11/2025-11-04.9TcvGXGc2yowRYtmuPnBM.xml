@@ -6,11 +6,11 @@
     <pubdate>2025-11-04</pubdate>
     <originator id="404" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Bundesamt für Polizei</name>
-      <name lang="en">Federal Office of Police</name>
       <name lang="fr">Office fédéral de la police</name>
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="en">Federal Office of Police</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
       <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
@@ -38,28 +38,28 @@
         <name lang="it">Riciclaggio di denaro</name>
       </keyword>
       <keyword id="SLW-46" org-id="404">
-        <name lang="en">Money laundering</name>
-        <name lang="fr">Blanchiment d'argent</name>
         <name lang="it">Riciclaggio di denaro</name>
         <name lang="de">Geldwäscherei</name>
+        <name lang="en">Money laundering</name>
+        <name lang="fr">Blanchiment d'argent</name>
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="en">Federal Department of Justice and Police</name>
-      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
+      <name lang="fr">Département fédéral de justice et police</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -95,11 +95,11 @@
     </content>
     <topics>
       <topic id="642">
-        <name lang="it">Lotta al riciclaggio di denaro</name>
         <name lang="rm">Cumbat cunter la lavada da daners suspectus</name>
         <name lang="de">Geldwäschereibekämpfung</name>
         <name lang="en">Anti-money-laundering (AML)</name>
         <name lang="fr">Lutte contre le blanchiment d’argent</name>
+        <name lang="it">Lotta al riciclaggio di denaro</name>
       </topic>
       <topic id="47">
         <name lang="fr">Économie et place financière</name>

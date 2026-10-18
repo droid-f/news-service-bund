@@ -6,11 +6,11 @@
     <pubdate>2026-02-10</pubdate>
     <originator id="1080" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
       <name lang="en">State Secretariat for Education, Research and Innovation</name>
+      <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
@@ -18,16 +18,16 @@
     </originator>
     <keywords>
       <keyword id="SLW-2910,ORG-1080" org-id="1080">
-        <name lang="de">Berufliche Grundbildung</name>
         <name lang="en">Vocational Education and Training</name>
         <name lang="fr">Formation professionnelle initiale</name>
         <name lang="it">Formazione professionale di base</name>
+        <name lang="de">Berufliche Grundbildung</name>
       </keyword>
       <keyword id="SLW-2909,ORG-1080" org-id="1080">
-        <name lang="de">Berufsbildung</name>
-        <name lang="en">Vocational and Professional Education and Training</name>
         <name lang="fr">Formation professionnelle</name>
         <name lang="it">Formazione professionale</name>
+        <name lang="de">Berufsbildung</name>
+        <name lang="en">Vocational and Professional Education and Training</name>
       </keyword>
       <keyword id="SLW-2910,ORG-1080" org-id="1080">
         <name lang="de">Berufliche Grundbildung</name>
@@ -42,16 +42,16 @@
         <name lang="it">Formazione professionale</name>
       </keyword>
       <keyword id="SLW-2910,ORG-1080" org-id="1080">
-        <name lang="de">Berufliche Grundbildung</name>
         <name lang="en">Vocational Education and Training</name>
         <name lang="fr">Formation professionnelle initiale</name>
         <name lang="it">Formazione professionale di base</name>
+        <name lang="de">Berufliche Grundbildung</name>
       </keyword>
       <keyword id="SLW-2909,ORG-1080" org-id="1080">
-        <name lang="fr">Formation professionnelle</name>
-        <name lang="it">Formazione professionale</name>
         <name lang="de">Berufsbildung</name>
         <name lang="en">Vocational and Professional Education and Training</name>
+        <name lang="fr">Formation professionnelle</name>
+        <name lang="it">Formazione professionale</name>
       </keyword>
     </keywords>
     <department id="701">
@@ -65,11 +65,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -97,25 +97,25 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="36">
+        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
         <name lang="it">Digitalizzazione, comunicazione e media</name>
-        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
       </topic>
       <topic id="2">
-        <name lang="fr">Travail</name>
-        <name lang="it">Lavoro</name>
         <name lang="rm">Lavur</name>
         <name lang="de">Arbeit</name>
         <name lang="en">Work</name>
+        <name lang="fr">Travail</name>
+        <name lang="it">Lavoro</name>
       </topic>
     </topics>
     <offers/>

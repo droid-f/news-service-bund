@@ -6,24 +6,24 @@
     <pubdate>2026-06-19</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="fr">https://www.admin.ch/fr</www>
+      <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
-      <www lang="fr">https://www.admin.ch/fr</www>
-      <www lang="it">https://www.admin.ch/it</www>
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
@@ -32,39 +32,39 @@
     </originator>
     <originator id="810" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Bundesamt für Kommunikation</name>
       <name lang="en">Federal Office of Communications</name>
       <name lang="fr">Office fédéral de la communication</name>
       <name lang="it">Ufficio federale delle comunicazioni</name>
       <name lang="rm">Uffizi federal da communicaziun</name>
-      <name lang="de">Bundesamt für Kommunikation</name>
+      <www lang="rm">http://www.bakom.admin.ch/rm</www>
       <www lang="de">http://www.bakom.admin.ch/</www>
       <www lang="en">http://www.bakom.admin.ch/en</www>
       <www lang="fr">http://www.bakom.admin.ch/fr</www>
       <www lang="it">http://www.bakom.admin.ch/it</www>
-      <www lang="rm">http://www.bakom.admin.ch/rm</www>
-      <email lang="rm">media@bakom.admin.ch</email>
       <email lang="de">media@bakom.admin.ch</email>
       <email lang="en">media@bakom.admin.ch</email>
       <email lang="fr">media@bakom.admin.ch</email>
       <email lang="it">media@bakom.admin.ch</email>
+      <email lang="rm">media@bakom.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
+      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <www lang="fr">https://www.uvek.admin.ch/fr</www>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
-      <www lang="fr">https://www.uvek.admin.ch/fr</www>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
+      <email lang="de">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -100,18 +100,18 @@
     </content>
     <topics>
       <topic id="66">
-        <name lang="de">Medienpolitik</name>
         <name lang="en">Media policy</name>
         <name lang="fr">Politique des médias</name>
         <name lang="it">Politica dei mezzi di comunicazione</name>
         <name lang="rm">Politica da medias</name>
+        <name lang="de">Medienpolitik</name>
       </topic>
       <topic id="448">
-        <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
         <name lang="it">Affari del Consiglio federale</name>
         <name lang="rm">Affars dal Cussegl federal</name>
+        <name lang="de">Bundesratsgeschäfte</name>
       </topic>
       <topic id="36">
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
@@ -121,11 +121,11 @@
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
       </topic>
     </topics>
     <offers/>

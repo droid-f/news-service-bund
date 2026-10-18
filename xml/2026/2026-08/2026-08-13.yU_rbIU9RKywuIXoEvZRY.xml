@@ -15,22 +15,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-15" org-id="405">
-        <name lang="de">Ausländerstatistik</name>
-        <name lang="en">Foreign population statistics</name>
-        <name lang="fr">Statistique des étrangers</name>
-        <name lang="it">Statistica degli stranieri</name>
-      </keyword>
-      <keyword id="SLW-124" org-id="405">
-        <name lang="fr">Immigration</name>
-        <name lang="it">Immigrazione</name>
-        <name lang="de">Zuwanderung</name>
-        <name lang="en">Immigration</name>
-      </keyword>
-      <keyword id="SLW-15" org-id="405">
-        <name lang="fr">Statistique des étrangers</name>
         <name lang="it">Statistica degli stranieri</name>
         <name lang="de">Ausländerstatistik</name>
         <name lang="en">Foreign population statistics</name>
+        <name lang="fr">Statistique des étrangers</name>
       </keyword>
       <keyword id="SLW-124" org-id="405">
         <name lang="de">Zuwanderung</name>
@@ -39,10 +27,22 @@
         <name lang="it">Immigrazione</name>
       </keyword>
       <keyword id="SLW-15" org-id="405">
-        <name lang="en">Foreign population statistics</name>
         <name lang="fr">Statistique des étrangers</name>
         <name lang="it">Statistica degli stranieri</name>
         <name lang="de">Ausländerstatistik</name>
+        <name lang="en">Foreign population statistics</name>
+      </keyword>
+      <keyword id="SLW-124" org-id="405">
+        <name lang="fr">Immigration</name>
+        <name lang="it">Immigrazione</name>
+        <name lang="de">Zuwanderung</name>
+        <name lang="en">Immigration</name>
+      </keyword>
+      <keyword id="SLW-15" org-id="405">
+        <name lang="de">Ausländerstatistik</name>
+        <name lang="en">Foreign population statistics</name>
+        <name lang="fr">Statistique des étrangers</name>
+        <name lang="it">Statistica degli stranieri</name>
       </keyword>
       <keyword id="SLW-124" org-id="405">
         <name lang="de">Zuwanderung</name>
@@ -57,11 +57,11 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -101,11 +101,11 @@
         <name lang="rm">Immigraziun</name>
       </topic>
       <topic id="20">
-        <name lang="en">Migration &amp; Integration</name>
-        <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
+        <name lang="en">Migration &amp; Integration</name>
+        <name lang="fr">Migration et intégration</name>
       </topic>
     </topics>
     <offers/>

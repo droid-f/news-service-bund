@@ -6,11 +6,11 @@
     <pubdate>2026-10-16</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -24,18 +24,6 @@
     </originator>
     <keywords>
       <keyword id="6048" org-id="201">
-        <name lang="en">Mission to the UN in Geneva</name>
-        <name lang="fr">Mission auprès de l'ONU à Genève</name>
-        <name lang="it">Missione presso l'ONU a Ginevra</name>
-        <name lang="de">Mission bei der UNO in Genf</name>
-      </keyword>
-      <keyword id="6048" org-id="201">
-        <name lang="de">Mission bei der UNO in Genf</name>
-        <name lang="en">Mission to the UN in Geneva</name>
-        <name lang="fr">Mission auprès de l'ONU à Genève</name>
-        <name lang="it">Missione presso l'ONU a Ginevra</name>
-      </keyword>
-      <keyword id="6048" org-id="201">
         <name lang="fr">Mission auprès de l'ONU à Genève</name>
         <name lang="it">Missione presso l'ONU a Ginevra</name>
         <name lang="de">Mission bei der UNO in Genf</name>
@@ -46,6 +34,18 @@
         <name lang="en">Mission to the UN in Geneva</name>
         <name lang="fr">Mission auprès de l'ONU à Genève</name>
         <name lang="it">Missione presso l'ONU a Ginevra</name>
+      </keyword>
+      <keyword id="6048" org-id="201">
+        <name lang="de">Mission bei der UNO in Genf</name>
+        <name lang="en">Mission to the UN in Geneva</name>
+        <name lang="fr">Mission auprès de l'ONU à Genève</name>
+        <name lang="it">Missione presso l'ONU a Ginevra</name>
+      </keyword>
+      <keyword id="6048" org-id="201">
+        <name lang="en">Mission to the UN in Geneva</name>
+        <name lang="fr">Mission auprès de l'ONU à Genève</name>
+        <name lang="it">Missione presso l'ONU a Ginevra</name>
+        <name lang="de">Mission bei der UNO in Genf</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -89,11 +89,11 @@
         <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="436">
-        <name lang="fr">Promotion de la science</name>
-        <name lang="it">Promozione della scienza</name>
         <name lang="rm">Promoziun da la scienza</name>
         <name lang="de">Wissenschaftsförderung</name>
         <name lang="en">Science promotion</name>
+        <name lang="fr">Promotion de la science</name>
+        <name lang="it">Promozione della scienza</name>
       </topic>
       <topic id="9">
         <name lang="fr">Science</name>

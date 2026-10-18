@@ -6,20 +6,20 @@
     <pubdate>2026-09-10</pubdate>
     <originator id="1032" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="it">L'Istituto per la Ricerca sulle Acque nel Settore dei Politecnici Federali</name>
-      <name lang="rm">Institut federal per provediment, serenaziun e protecziun da las auas</name>
       <name lang="de">Wasserforschungsinstitut des ETH-Bereichs</name>
       <name lang="en">Swiss Federal Institute of Aquatic Science and Technology</name>
       <name lang="fr">Institut Fédéral Suisse des Sciences et Technologies de l’Eau</name>
+      <name lang="it">L'Istituto per la Ricerca sulle Acque nel Settore dei Politecnici Federali</name>
+      <name lang="rm">Institut federal per provediment, serenaziun e protecziun da las auas</name>
+      <www lang="it">https://www.eawag.ch/it/</www>
       <www lang="de">https://www.eawag.ch</www>
       <www lang="en">https://www.eawag.ch/en/</www>
       <www lang="fr">https://www.eawag.ch/fr/</www>
-      <www lang="it">https://www.eawag.ch/it/</www>
+      <email lang="it">medien@eawag.ch </email>
       <email lang="rm">medien@eawag.ch </email>
       <email lang="de">medien@eawag.ch </email>
       <email lang="en">medien@eawag.ch </email>
       <email lang="fr">medien@eawag.ch </email>
-      <email lang="it">medien@eawag.ch </email>
     </originator>
     <keywords/>
     <department id="701">
@@ -28,11 +28,11 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -65,11 +65,11 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="616">
         <name lang="it">Protezione dell’ambiente</name>
@@ -79,25 +79,25 @@
         <name lang="fr">Protection de l’environnement</name>
       </topic>
       <topic id="602">
+        <name lang="rm">Rument</name>
         <name lang="de">Abfall</name>
         <name lang="en">Waste disposal</name>
         <name lang="fr">Déchets</name>
         <name lang="it">Rifiuti</name>
-        <name lang="rm">Rument</name>
       </topic>
       <topic id="9">
-        <name lang="it">Scienza</name>
-        <name lang="rm">Scienza</name>
         <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
+        <name lang="it">Scienza</name>
+        <name lang="rm">Scienza</name>
       </topic>
       <topic id="21">
+        <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
-        <name lang="en">Environment &amp; Nature</name>
       </topic>
     </topics>
     <offers/>

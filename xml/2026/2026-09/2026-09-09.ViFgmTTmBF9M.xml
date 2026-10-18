@@ -11,16 +11,16 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="en">https://www.eda.admin.ch/en</www>
-      <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <www lang="en">https://www.eda.admin.ch/en</www>
+      <www lang="fr">https://www.eda.admin.ch/fr</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="6286" org-id="201">
@@ -30,10 +30,58 @@
         <name lang="it">Burkina Faso</name>
       </keyword>
       <keyword id="5893" org-id="201">
+        <name lang="fr">Mali</name>
+        <name lang="it">Mali</name>
         <name lang="de">Mali</name>
+        <name lang="en">Mali</name>
+      </keyword>
+      <keyword id="11100" org-id="201">
+        <name lang="de">Niger</name>
+        <name lang="en">Niger</name>
+        <name lang="fr">Niger</name>
+        <name lang="it">Niger</name>
+      </keyword>
+      <keyword id="5892" org-id="201">
+        <name lang="de">Senegal</name>
+        <name lang="en">Senegal</name>
+        <name lang="fr">Sénégal</name>
+        <name lang="it">Senegal</name>
+      </keyword>
+      <keyword id="6286" org-id="201">
+        <name lang="it">Burkina Faso</name>
+        <name lang="de">Burkina Faso</name>
+        <name lang="en">Burkina Faso</name>
+        <name lang="fr">Burkina Faso</name>
+      </keyword>
+      <keyword id="5893" org-id="201">
+        <name lang="fr">Mali</name>
+        <name lang="it">Mali</name>
+        <name lang="de">Mali</name>
+        <name lang="en">Mali</name>
+      </keyword>
+      <keyword id="11100" org-id="201">
+        <name lang="de">Niger</name>
+        <name lang="en">Niger</name>
+        <name lang="fr">Niger</name>
+        <name lang="it">Niger</name>
+      </keyword>
+      <keyword id="5892" org-id="201">
+        <name lang="de">Senegal</name>
+        <name lang="en">Senegal</name>
+        <name lang="fr">Sénégal</name>
+        <name lang="it">Senegal</name>
+      </keyword>
+      <keyword id="6286" org-id="201">
+        <name lang="de">Burkina Faso</name>
+        <name lang="en">Burkina Faso</name>
+        <name lang="fr">Burkina Faso</name>
+        <name lang="it">Burkina Faso</name>
+      </keyword>
+      <keyword id="5893" org-id="201">
         <name lang="en">Mali</name>
         <name lang="fr">Mali</name>
         <name lang="it">Mali</name>
+        <name lang="de">Mali</name>
       </keyword>
       <keyword id="11100" org-id="201">
         <name lang="de">Niger</name>
@@ -58,54 +106,6 @@
         <name lang="en">Mali</name>
         <name lang="fr">Mali</name>
         <name lang="it">Mali</name>
-      </keyword>
-      <keyword id="11100" org-id="201">
-        <name lang="it">Niger</name>
-        <name lang="de">Niger</name>
-        <name lang="en">Niger</name>
-        <name lang="fr">Niger</name>
-      </keyword>
-      <keyword id="5892" org-id="201">
-        <name lang="de">Senegal</name>
-        <name lang="en">Senegal</name>
-        <name lang="fr">Sénégal</name>
-        <name lang="it">Senegal</name>
-      </keyword>
-      <keyword id="6286" org-id="201">
-        <name lang="de">Burkina Faso</name>
-        <name lang="en">Burkina Faso</name>
-        <name lang="fr">Burkina Faso</name>
-        <name lang="it">Burkina Faso</name>
-      </keyword>
-      <keyword id="5893" org-id="201">
-        <name lang="it">Mali</name>
-        <name lang="de">Mali</name>
-        <name lang="en">Mali</name>
-        <name lang="fr">Mali</name>
-      </keyword>
-      <keyword id="11100" org-id="201">
-        <name lang="fr">Niger</name>
-        <name lang="it">Niger</name>
-        <name lang="de">Niger</name>
-        <name lang="en">Niger</name>
-      </keyword>
-      <keyword id="5892" org-id="201">
-        <name lang="it">Senegal</name>
-        <name lang="de">Senegal</name>
-        <name lang="en">Senegal</name>
-        <name lang="fr">Sénégal</name>
-      </keyword>
-      <keyword id="6286" org-id="201">
-        <name lang="fr">Burkina Faso</name>
-        <name lang="it">Burkina Faso</name>
-        <name lang="de">Burkina Faso</name>
-        <name lang="en">Burkina Faso</name>
-      </keyword>
-      <keyword id="5893" org-id="201">
-        <name lang="fr">Mali</name>
-        <name lang="it">Mali</name>
-        <name lang="de">Mali</name>
-        <name lang="en">Mali</name>
       </keyword>
       <keyword id="11100" org-id="201">
         <name lang="de">Niger</name>
@@ -161,25 +161,25 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="411">
+        <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
-        <name lang="rm">Organisaziuns internaziunalas</name>
       </topic>
       <topic id="16">
-        <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
+        <name lang="en">Foreign policy</name>
       </topic>
       <topic id="42">
-        <name lang="rm">Sport</name>
         <name lang="de">Sport</name>
         <name lang="en">Sport</name>
         <name lang="fr">Sport</name>
         <name lang="it">Sport</name>
+        <name lang="rm">Sport</name>
       </topic>
       <topic id="40">
         <name lang="it">Sicurezza</name>

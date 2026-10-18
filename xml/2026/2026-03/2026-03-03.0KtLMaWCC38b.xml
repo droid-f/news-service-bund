@@ -6,20 +6,20 @@
     <pubdate>2026-03-03</pubdate>
     <originator id="1040" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="rm">Institut federal per la perscrutaziun da guaud, naiv e cuntrada</name>
       <name lang="de">Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft</name>
       <name lang="en">Swiss Federal Institute for Forest, Snow and Landscape Research</name>
       <name lang="fr">Institut fédéral de recherches sur la forêt, la neige et le paysage</name>
       <name lang="it">Istituto federale di ricerca per la foresta, la neve e il paesaggio</name>
-      <name lang="rm">Institut federal per la perscrutaziun da guaud, naiv e cuntrada</name>
-      <www lang="en">https://www.wsl.ch/en</www>
-      <www lang="fr">https://www.wsl.ch/fr</www>
       <www lang="it">https://www.wsl.ch/it</www>
       <www lang="de">https://www.wsl.ch/de</www>
-      <email lang="de">beate.kittl@wsl.ch</email>
+      <www lang="en">https://www.wsl.ch/en</www>
+      <www lang="fr">https://www.wsl.ch/fr</www>
       <email lang="en">beate.kittl@wsl.ch</email>
       <email lang="fr">beate.kittl@wsl.ch</email>
       <email lang="it">beate.kittl@wsl.ch</email>
       <email lang="rm">beate.kittl@wsl.ch</email>
+      <email lang="de">beate.kittl@wsl.ch</email>
     </originator>
     <keywords/>
     <department id="701">
@@ -28,16 +28,16 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
+      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Birmensdorf</city>
@@ -65,18 +65,18 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
+        <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
-        <name lang="de">Bildung, Forschung &amp; Innovation</name>
-        <name lang="en">Education, Research &amp; Innovation</name>
       </topic>
       <topic id="243">
-        <name lang="it">Paesaggio e biodiversità</name>
-        <name lang="rm">Cuntrada e biodiversitad</name>
         <name lang="de">Landschaft &amp; Biodiversität</name>
         <name lang="en">Landscape &amp; Biodiversity</name>
         <name lang="fr">Paysage et biodiversité</name>
+        <name lang="it">Paesaggio e biodiversità</name>
+        <name lang="rm">Cuntrada e biodiversitad</name>
       </topic>
       <topic id="614">
         <name lang="de">Rote Listen</name>
@@ -93,18 +93,18 @@
         <name lang="rm">Plantas</name>
       </topic>
       <topic id="237">
-        <name lang="rm">Ecologia</name>
-        <name lang="de">Ökologie</name>
         <name lang="en">Ecology</name>
         <name lang="fr">Écologie</name>
         <name lang="it">Ecologia</name>
+        <name lang="rm">Ecologia</name>
+        <name lang="de">Ökologie</name>
       </topic>
       <topic id="611">
+        <name lang="de">Naturschutz</name>
+        <name lang="en">Nature conservation</name>
         <name lang="fr">Protection de la nature</name>
         <name lang="it">Protezione della natura</name>
         <name lang="rm">Protecziun da la natira</name>
-        <name lang="de">Naturschutz</name>
-        <name lang="en">Nature conservation</name>
       </topic>
       <topic id="244">
         <name lang="de">Klima</name>

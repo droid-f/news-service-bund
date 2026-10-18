@@ -6,18 +6,18 @@
     <pubdate>2026-06-10</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
+      <name lang="en">Swiss Federal Audit Office</name>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
-      <www lang="en">https://www.efk.admin.ch/en</www>
-      <email lang="fr">kommunikation@efk.admin.ch</email>
-      <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
+      <email lang="fr">kommunikation@efk.admin.ch</email>
+      <email lang="it">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -31,9 +31,9 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -75,18 +75,18 @@
     </content>
     <topics>
       <topic id="489">
-        <name lang="de">Kulturförderung</name>
-        <name lang="en">Promotion of culture</name>
         <name lang="fr">Encouragement de la culture</name>
         <name lang="it">Promozione culturale</name>
         <name lang="rm">Promoziun da la cultura</name>
+        <name lang="de">Kulturförderung</name>
+        <name lang="en">Promotion of culture</name>
       </topic>
       <topic id="18">
+        <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
         <name lang="rm">Cultura</name>
-        <name lang="de">Kultur</name>
       </topic>
     </topics>
     <offers/>
