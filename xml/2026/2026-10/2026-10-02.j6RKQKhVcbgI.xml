@@ -6,16 +6,16 @@
     <pubdate>2026-10-02</pubdate>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="rm">Gruppa da defensiun</name>
-      <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
-      <www lang="fr">http://www.vtg.admin.ch/fr</www>
+      <name lang="rm">Gruppa da defensiun</name>
+      <name lang="de">Gruppe Verteidigung</name>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
+      <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
@@ -41,11 +41,11 @@
       <www lang="en">https://www.sepos.admin.ch/en</www>
       <www lang="fr">https://www.sepos.admin.ch/fr</www>
       <www lang="it">https://www.sepos.admin.ch/it</www>
+      <email lang="rm">kommunikation@sepos.admin.ch</email>
       <email lang="de">kommunikation@sepos.admin.ch</email>
       <email lang="en">kommunikation@sepos.admin.ch</email>
       <email lang="fr">kommunikation@sepos.admin.ch</email>
       <email lang="it">kommunikation@sepos.admin.ch</email>
-      <email lang="rm">kommunikation@sepos.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -58,19 +58,19 @@
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -103,11 +103,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="550">
         <name lang="de">Sicherheitspolitik</name>
@@ -127,11 +127,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
       </topic>
     </topics>
     <offers/>
