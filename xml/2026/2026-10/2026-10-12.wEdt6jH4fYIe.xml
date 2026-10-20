@@ -21,11 +21,6 @@
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
-        <name lang="rm">Repport</name>
-        <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
@@ -36,9 +31,14 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,17 +82,17 @@
         <name lang="rm">Segirezza da victualias</name>
       </topic>
       <topic id="21">
+        <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
-        <name lang="it">Ambiente e natura</name>
-        <name lang="rm">Ambient e natira</name>
       </topic>
       <topic id="108">
-        <name lang="fr">Agriculture</name>
-        <name lang="it">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricultura</name>
       </topic>
     </topics>
     <offers/>
