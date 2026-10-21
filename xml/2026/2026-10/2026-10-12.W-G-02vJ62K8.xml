@@ -6,16 +6,16 @@
     <pubdate>2026-10-12</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
-      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
@@ -29,23 +29,23 @@
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <www lang="fr">https://www.sbfi.admin.ch/fr</www>
-      <www lang="it">https://www.sbfi.admin.ch/it</www>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
+      <www lang="fr">https://www.sbfi.admin.ch/fr</www>
+      <www lang="it">https://www.sbfi.admin.ch/it</www>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
@@ -58,11 +58,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="de">
       <city>Neuchâtel</city>
@@ -98,23 +98,23 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="en">Education, Research &amp; Innovation</name>
-        <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
+        <name lang="en">Education, Research &amp; Innovation</name>
+        <name lang="fr">Formation, recherche &amp; innovation</name>
       </topic>
       <topic id="124">
-        <name lang="de">Öffentliche Statistik</name>
         <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
         <name lang="it">Statistica pubblica</name>
+        <name lang="de">Öffentliche Statistik</name>
       </topic>
       <topic id="102">
-        <name lang="de">Bildung</name>
         <name lang="en">Education</name>
         <name lang="fr">Education</name>
         <name lang="it">Istruzione</name>
+        <name lang="de">Bildung</name>
       </topic>
     </topics>
     <offers/>
