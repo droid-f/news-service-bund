@@ -6,11 +6,11 @@
     <pubdate>2026-10-01</pubdate>
     <originator id="404" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="fr">Office fédéral de la police</name>
+      <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
       <name lang="de">Bundesamt für Polizei</name>
       <name lang="en">Federal Office of Police</name>
-      <name lang="fr">Office fédéral de la police</name>
-      <name lang="it">Ufficio federale di polizia</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
       <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
@@ -20,10 +20,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-75" org-id="404">
-        <name lang="it">Criminalità organizzata</name>
         <name lang="de">Organisierte Kriminalität</name>
         <name lang="en">Organised crime</name>
         <name lang="fr">Criminalité organisée</name>
+        <name lang="it">Criminalità organizzata</name>
       </keyword>
       <keyword id="SLW-123" org-id="404">
         <name lang="de">Zusammenarbeit</name>
@@ -32,16 +32,16 @@
         <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
+        <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
-        <name lang="de">Polizei</name>
       </keyword>
       <keyword id="SLW-75" org-id="404">
+        <name lang="it">Criminalità organizzata</name>
         <name lang="de">Organisierte Kriminalität</name>
         <name lang="en">Organised crime</name>
         <name lang="fr">Criminalité organisée</name>
-        <name lang="it">Criminalità organizzata</name>
       </keyword>
       <keyword id="SLW-123" org-id="404">
         <name lang="de">Zusammenarbeit</name>
@@ -50,10 +50,10 @@
         <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
+        <name lang="it">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
-        <name lang="it">Polizia</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -98,18 +98,18 @@
         <name lang="it">Estero</name>
       </topic>
       <topic id="547">
-        <name lang="it">Polizia</name>
-        <name lang="rm">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
+        <name lang="it">Polizia</name>
+        <name lang="rm">Polizia</name>
       </topic>
       <topic id="17">
+        <name lang="de">Organisierte Kriminalität</name>
         <name lang="en">Organised crime</name>
         <name lang="fr">Criminalité organisée</name>
         <name lang="it">Criminalità organizzata</name>
         <name lang="rm">Criminalitad organisada</name>
-        <name lang="de">Organisierte Kriminalität</name>
       </topic>
       <topic id="34">
         <name lang="fr">Suisse et Europe </name>
@@ -119,18 +119,18 @@
         <name lang="en">Switzerland and Europe </name>
       </topic>
       <topic id="411">
+        <name lang="de">Internationale Organisationen</name>
+        <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
-        <name lang="de">Internationale Organisationen</name>
-        <name lang="en">International organisations</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

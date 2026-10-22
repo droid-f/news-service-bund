@@ -6,24 +6,24 @@
     <pubdate>2026-10-02</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </originator>
     <originator id="319" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -33,19 +33,19 @@
       <name lang="it">Ufficio federale delle assicurazioni sociali</name>
       <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
       <www lang="de">http://www.bsv.admin.ch/</www>
-      <email lang="de">media@bsv.admin.ch</email>
       <email lang="en">media@bsv.admin.ch</email>
       <email lang="fr">media@bsv.admin.ch</email>
       <email lang="it">media@bsv.admin.ch</email>
       <email lang="rm">media@bsv.admin.ch</email>
+      <email lang="de">media@bsv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -78,11 +78,11 @@
     </content>
     <topics>
       <topic id="355">
+        <name lang="de">Überbrückungsleistungen</name>
+        <name lang="en">Bridging payments</name>
         <name lang="fr">Prestations transitoires</name>
         <name lang="it">Prestazioni transitorie</name>
         <name lang="rm">Prestaziuns transitoricas</name>
-        <name lang="de">Überbrückungsleistungen</name>
-        <name lang="en">Bridging payments</name>
       </topic>
       <topic id="36">
         <name lang="de">Erwerbsersatzordnung</name>
@@ -99,11 +99,11 @@
         <name lang="rm">Prestaziuns supplementaras</name>
       </topic>
       <topic id="31">
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
         <name lang="rm">Assicuranzas socialas</name>
         <name lang="de">Sozialversicherungen</name>
         <name lang="en">Social insurance</name>
-        <name lang="fr">Assurances sociales</name>
-        <name lang="it">Assicurazioni sociali</name>
       </topic>
       <topic id="564">
         <name lang="rm">Segirezza sociala</name>
@@ -113,11 +113,11 @@
         <name lang="it">Sicurezza sociale</name>
       </topic>
       <topic id="35">
+        <name lang="de">IV - Invalidenversicherung</name>
+        <name lang="en">II - Invalidity Insurance</name>
         <name lang="fr">AI - Assurance-invalidité</name>
         <name lang="it">AI – Assicurazione per l’invalidità</name>
         <name lang="rm">AI – Assicuranza d'invaliditad</name>
-        <name lang="de">IV - Invalidenversicherung</name>
-        <name lang="en">II - Invalidity Insurance</name>
       </topic>
       <topic id="34">
         <name lang="de">Berufliche Vorsorge</name>
@@ -141,17 +141,17 @@
         <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
       <topic id="10">
+        <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
-        <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
       </topic>
       <topic id="125">
-        <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
         <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
+        <name lang="fr">Sécurité sociale</name>
       </topic>
     </topics>
     <offers/>
