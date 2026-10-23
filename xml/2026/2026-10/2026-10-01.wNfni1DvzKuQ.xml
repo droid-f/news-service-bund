@@ -6,21 +6,21 @@
     <pubdate>2026-10-01</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
-      <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
-      <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
+      <name lang="en">Federal Statistical Office</name>
       <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
-      <email lang="en">media@bfs.admin.ch</email>
-      <email lang="fr">media@bfs.admin.ch</email>
+      <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
+      <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
       <email lang="it">media@bfs.admin.ch</email>
       <email lang="rm">media@bfs.admin.ch</email>
       <email lang="de">media@bfs.admin.ch</email>
+      <email lang="en">media@bfs.admin.ch</email>
+      <email lang="fr">media@bfs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -69,24 +69,24 @@
     </content>
     <topics>
       <topic id="645">
-        <name lang="de">Konjunktur</name>
         <name lang="en">Short Term Economic Analyses</name>
         <name lang="fr">Conjoncture</name>
         <name lang="it">Congiuntura</name>
         <name lang="rm">Conjunctura</name>
+        <name lang="de">Konjunktur</name>
       </topic>
       <topic id="47">
+        <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
-        <name lang="fr">Économie et place financière</name>
-        <name lang="it">Economia e piazza finanziaria</name>
       </topic>
       <topic id="114">
-        <name lang="de">Wirtschaft</name>
-        <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
         <name lang="it">Economia</name>
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economy</name>
       </topic>
     </topics>
     <offers/>
