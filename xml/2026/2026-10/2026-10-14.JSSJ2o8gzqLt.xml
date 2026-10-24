@@ -6,11 +6,11 @@
     <pubdate>2026-10-14</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
-      <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -52,11 +52,11 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
+        <name lang="de">Gesundheit</name>
       </topic>
       <topic id="114">
         <name lang="en">Elisabeth Baume-Schneider</name>
@@ -80,11 +80,11 @@
         <name lang="en">Agricultural policy</name>
       </topic>
       <topic id="615">
+        <name lang="de">Tiere</name>
+        <name lang="en">Animals</name>
         <name lang="fr">Animaux</name>
         <name lang="it">Fauna</name>
         <name lang="rm">Animals</name>
-        <name lang="de">Tiere</name>
-        <name lang="en">Animals</name>
       </topic>
       <topic id="410">
         <name lang="de">Europäische Union</name>
@@ -94,11 +94,11 @@
         <name lang="rm">Uniun europeica</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="21">
         <name lang="de">Umwelt &amp; Natur</name>
