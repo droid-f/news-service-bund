@@ -6,15 +6,15 @@
     <pubdate>2026-09-01</pubdate>
     <originator id="606" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
-      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
       <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <name lang="en">Federal Office for Customs and Border Security</name>
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
-      <www lang="de">https://www.bazg.admin.ch/de</www>
+      <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
+      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
       <www lang="it">https://www.bazg.admin.ch/it</www>
+      <www lang="de">https://www.bazg.admin.ch/de</www>
       <email lang="de">medien@bazg.admin.ch</email>
       <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
@@ -29,16 +29,16 @@
         <name lang="it">importazione</name>
       </keyword>
       <keyword id="313" org-id="606">
-        <name lang="it">transito</name>
         <name lang="de">Durchfuhr</name>
         <name lang="en">transit</name>
         <name lang="fr">transit</name>
+        <name lang="it">transito</name>
       </keyword>
       <keyword id="318" org-id="606">
-        <name lang="it">media</name>
         <name lang="de">Medien</name>
         <name lang="en">media</name>
         <name lang="fr">médias</name>
+        <name lang="it">media</name>
       </keyword>
       <keyword id="SLW-141" org-id="606">
         <name lang="de">LSVA</name>
@@ -65,10 +65,58 @@
         <name lang="it">Passar</name>
       </keyword>
       <keyword id="SLW-184" org-id="606">
-        <name lang="fr">Procédure douanière</name>
         <name lang="it">Operazioni doganali</name>
         <name lang="de">Zollverfahren</name>
         <name lang="en">Customs procedure</name>
+        <name lang="fr">Procédure douanière</name>
+      </keyword>
+      <keyword id="314" org-id="606">
+        <name lang="fr">importation</name>
+        <name lang="it">importazione</name>
+        <name lang="de">Einfuhr</name>
+        <name lang="en">import</name>
+      </keyword>
+      <keyword id="313" org-id="606">
+        <name lang="fr">transit</name>
+        <name lang="it">transito</name>
+        <name lang="de">Durchfuhr</name>
+        <name lang="en">transit</name>
+      </keyword>
+      <keyword id="318" org-id="606">
+        <name lang="de">Medien</name>
+        <name lang="en">media</name>
+        <name lang="fr">médias</name>
+        <name lang="it">media</name>
+      </keyword>
+      <keyword id="SLW-141" org-id="606">
+        <name lang="de">LSVA</name>
+        <name lang="en">Heavy Vehicles Fee</name>
+        <name lang="fr">RPLP</name>
+        <name lang="it">TFTP</name>
+      </keyword>
+      <keyword id="296" org-id="606">
+        <name lang="de">QuickZoll</name>
+        <name lang="en">QuickZoll</name>
+        <name lang="fr">QuickZoll</name>
+        <name lang="it">QuickZoll</name>
+      </keyword>
+      <keyword id="310" org-id="606">
+        <name lang="de">Ausfuhr</name>
+        <name lang="en">export</name>
+        <name lang="fr">exportation</name>
+        <name lang="it">esportazione</name>
+      </keyword>
+      <keyword id="293" org-id="606">
+        <name lang="en">Passar</name>
+        <name lang="fr">Passar</name>
+        <name lang="it">Passar</name>
+        <name lang="de">Passar</name>
+      </keyword>
+      <keyword id="SLW-184" org-id="606">
+        <name lang="de">Zollverfahren</name>
+        <name lang="en">Customs procedure</name>
+        <name lang="fr">Procédure douanière</name>
+        <name lang="it">Operazioni doganali</name>
       </keyword>
       <keyword id="314" org-id="606">
         <name lang="de">Einfuhr</name>
@@ -77,64 +125,16 @@
         <name lang="it">importazione</name>
       </keyword>
       <keyword id="313" org-id="606">
-        <name lang="it">transito</name>
         <name lang="de">Durchfuhr</name>
         <name lang="en">transit</name>
         <name lang="fr">transit</name>
-      </keyword>
-      <keyword id="318" org-id="606">
-        <name lang="fr">médias</name>
-        <name lang="it">media</name>
-        <name lang="de">Medien</name>
-        <name lang="en">media</name>
-      </keyword>
-      <keyword id="SLW-141" org-id="606">
-        <name lang="fr">RPLP</name>
-        <name lang="it">TFTP</name>
-        <name lang="de">LSVA</name>
-        <name lang="en">Heavy Vehicles Fee</name>
-      </keyword>
-      <keyword id="296" org-id="606">
-        <name lang="fr">QuickZoll</name>
-        <name lang="it">QuickZoll</name>
-        <name lang="de">QuickZoll</name>
-        <name lang="en">QuickZoll</name>
-      </keyword>
-      <keyword id="310" org-id="606">
-        <name lang="de">Ausfuhr</name>
-        <name lang="en">export</name>
-        <name lang="fr">exportation</name>
-        <name lang="it">esportazione</name>
-      </keyword>
-      <keyword id="293" org-id="606">
-        <name lang="de">Passar</name>
-        <name lang="en">Passar</name>
-        <name lang="fr">Passar</name>
-        <name lang="it">Passar</name>
-      </keyword>
-      <keyword id="SLW-184" org-id="606">
-        <name lang="de">Zollverfahren</name>
-        <name lang="en">Customs procedure</name>
-        <name lang="fr">Procédure douanière</name>
-        <name lang="it">Operazioni doganali</name>
-      </keyword>
-      <keyword id="314" org-id="606">
-        <name lang="de">Einfuhr</name>
-        <name lang="en">import</name>
-        <name lang="fr">importation</name>
-        <name lang="it">importazione</name>
-      </keyword>
-      <keyword id="313" org-id="606">
         <name lang="it">transito</name>
-        <name lang="de">Durchfuhr</name>
-        <name lang="en">transit</name>
-        <name lang="fr">transit</name>
       </keyword>
       <keyword id="318" org-id="606">
-        <name lang="de">Medien</name>
         <name lang="en">media</name>
         <name lang="fr">médias</name>
         <name lang="it">media</name>
+        <name lang="de">Medien</name>
       </keyword>
       <keyword id="SLW-141" org-id="606">
         <name lang="de">LSVA</name>
@@ -143,52 +143,52 @@
         <name lang="it">TFTP</name>
       </keyword>
       <keyword id="296" org-id="606">
-        <name lang="fr">QuickZoll</name>
-        <name lang="it">QuickZoll</name>
         <name lang="de">QuickZoll</name>
         <name lang="en">QuickZoll</name>
+        <name lang="fr">QuickZoll</name>
+        <name lang="it">QuickZoll</name>
       </keyword>
       <keyword id="310" org-id="606">
+        <name lang="it">esportazione</name>
         <name lang="de">Ausfuhr</name>
         <name lang="en">export</name>
         <name lang="fr">exportation</name>
-        <name lang="it">esportazione</name>
       </keyword>
       <keyword id="293" org-id="606">
+        <name lang="de">Passar</name>
         <name lang="en">Passar</name>
         <name lang="fr">Passar</name>
         <name lang="it">Passar</name>
-        <name lang="de">Passar</name>
       </keyword>
       <keyword id="SLW-184" org-id="606">
-        <name lang="de">Zollverfahren</name>
-        <name lang="en">Customs procedure</name>
         <name lang="fr">Procédure douanière</name>
         <name lang="it">Operazioni doganali</name>
+        <name lang="de">Zollverfahren</name>
+        <name lang="en">Customs procedure</name>
       </keyword>
       <keyword id="315" org-id="606">
+        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
-        <name lang="de">Firmen</name>
       </keyword>
     </keywords>
     <department id="601">
+      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -216,60 +216,60 @@
     </content>
     <topics>
       <topic id="14">
+        <name lang="en">Performance-related heavy vehicle charge (HVC)</name>
         <name lang="fr">Redevance sur le trafic des poids lourds liée aux prestations (RPLP)</name>
         <name lang="it">Tassa sul traffico pesante commisurata alle prestazioni (TTPCP)</name>
         <name lang="rm">Taxa sin il traffic da camiuns pesants dependenta da la prestaziun (TTPDP)</name>
-        <name lang="de">leistungsabhängige Schwerverkehrsabgabe (LSVA)</name>
-        <name lang="en">Performance-related heavy vehicle charge (HVC)</name>
+        <name lang="de">Leistungsabhängige Schwerverkehrsabgabe (LSVA)</name>
       </topic>
       <topic id="166">
-        <name lang="it">Legge sulle dogane</name>
-        <name lang="rm">Lescha da duana</name>
         <name lang="de">Zollgesetz</name>
         <name lang="en">Customs Act</name>
         <name lang="fr">Loi sur les douanes</name>
+        <name lang="it">Legge sulle dogane</name>
+        <name lang="rm">Lescha da duana</name>
       </topic>
       <topic id="200">
+        <name lang="it">e-dec (esportazione)</name>
+        <name lang="rm">e-dec Export</name>
         <name lang="de">e-dec Export</name>
         <name lang="en">e-dec Export</name>
         <name lang="fr">e-dec exportation</name>
-        <name lang="it">e-dec (esportazione)</name>
-        <name lang="rm">e-dec Export</name>
       </topic>
       <topic id="681">
-        <name lang="it">Sdoganamento</name>
-        <name lang="rm">Pajament da dazi</name>
         <name lang="de">Verzollung</name>
         <name lang="en">Customs clearance</name>
         <name lang="fr">Dédouanement</name>
+        <name lang="it">Sdoganamento</name>
+        <name lang="rm">Pajament da dazi</name>
       </topic>
       <topic id="679">
-        <name lang="fr">Importation de marchandises</name>
-        <name lang="it">Importazione di merci</name>
         <name lang="rm">Import da rauba</name>
         <name lang="de">Einfuhr Waren</name>
         <name lang="en">Goods imports</name>
+        <name lang="fr">Importation de marchandises</name>
+        <name lang="it">Importazione di merci</name>
       </topic>
       <topic id="678">
+        <name lang="de">Ausfuhr Waren</name>
         <name lang="en">Goods exports</name>
         <name lang="fr">Exportation de marchandises</name>
         <name lang="it">Esportazione di merci</name>
         <name lang="rm">Export da rauba</name>
-        <name lang="de">Ausfuhr Waren</name>
       </topic>
       <topic id="13">
+        <name lang="fr">e-dec importation</name>
         <name lang="it">e-dec (importazione)</name>
         <name lang="rm">e-dec Import</name>
         <name lang="de">e-dec Import</name>
         <name lang="en">e-dec Import</name>
-        <name lang="fr">e-dec importation</name>
       </topic>
       <topic id="48">
+        <name lang="de">Zoll</name>
         <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
-        <name lang="de">Zoll</name>
       </topic>
     </topics>
     <offers/>

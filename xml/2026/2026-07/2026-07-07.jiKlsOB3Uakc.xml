@@ -6,11 +6,11 @@
     <pubdate>2026-07-07</pubdate>
     <originator id="801" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
@@ -30,34 +30,34 @@
         <name lang="it">Efficienza energetica</name>
       </keyword>
       <keyword id="SLW-310" org-id="801">
+        <name lang="fr">Politique énergétique</name>
+        <name lang="it">Politica energetica</name>
+        <name lang="de">Energiepolitik</name>
+        <name lang="en">Energy policy</name>
+      </keyword>
+      <keyword id="SLW-300" org-id="801">
+        <name lang="it">Efficienza energetica</name>
+        <name lang="de">Energieffizienz</name>
+        <name lang="en">Energy Efficiency</name>
+        <name lang="fr">Efficacité énergétique</name>
+      </keyword>
+      <keyword id="SLW-310" org-id="801">
         <name lang="de">Energiepolitik</name>
         <name lang="en">Energy policy</name>
         <name lang="fr">Politique énergétique</name>
         <name lang="it">Politica energetica</name>
       </keyword>
       <keyword id="SLW-300" org-id="801">
-        <name lang="fr">Efficacité énergétique</name>
-        <name lang="it">Efficienza energetica</name>
         <name lang="de">Energieffizienz</name>
-        <name lang="en">Energy Efficiency</name>
-      </keyword>
-      <keyword id="SLW-310" org-id="801">
-        <name lang="en">Energy policy</name>
-        <name lang="fr">Politique énergétique</name>
-        <name lang="it">Politica energetica</name>
-        <name lang="de">Energiepolitik</name>
-      </keyword>
-      <keyword id="SLW-300" org-id="801">
         <name lang="en">Energy Efficiency</name>
         <name lang="fr">Efficacité énergétique</name>
         <name lang="it">Efficienza energetica</name>
-        <name lang="de">Energieffizienz</name>
       </keyword>
       <keyword id="SLW-310" org-id="801">
+        <name lang="de">Energiepolitik</name>
         <name lang="en">Energy policy</name>
         <name lang="fr">Politique énergétique</name>
         <name lang="it">Politica energetica</name>
-        <name lang="de">Energiepolitik</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -86,18 +86,18 @@
     </content>
     <topics>
       <topic id="461">
+        <name lang="de">Energiesparen</name>
         <name lang="en">Energy saving</name>
         <name lang="fr">Économies d’énergie</name>
         <name lang="it">Risparmio energetico</name>
         <name lang="rm">Spargnar energia</name>
-        <name lang="de">Energiesparen</name>
       </topic>
       <topic id="11">
+        <name lang="de">Energie</name>
+        <name lang="en">Energy</name>
         <name lang="fr">Énergie</name>
         <name lang="it">Energia</name>
         <name lang="rm">Energia</name>
-        <name lang="de">Energie</name>
-        <name lang="en">Energy</name>
       </topic>
       <topic id="123">
         <name lang="de">Energie</name>

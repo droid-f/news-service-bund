@@ -28,11 +28,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
+      <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -67,18 +67,18 @@
         <name lang="rm">Promoziun da la cultura</name>
       </topic>
       <topic id="488">
-        <name lang="en">Cultural institutions</name>
         <name lang="fr">Institutions culturelles</name>
         <name lang="it">Istituzioni culturali</name>
         <name lang="rm">Instituziuns culturalas</name>
         <name lang="de">Kulturelle Einrichtungen</name>
+        <name lang="en">Cultural institutions</name>
       </topic>
       <topic id="431">
+        <name lang="it">Biblioteca nazionale svizzera</name>
+        <name lang="rm">Biblioteca naziunala</name>
         <name lang="de">Nationalbibliothek</name>
         <name lang="en">National Library</name>
         <name lang="fr">Bibliothèque nationale</name>
-        <name lang="it">Biblioteca nazionale svizzera</name>
-        <name lang="rm">Biblioteca naziunala</name>
       </topic>
       <topic id="18">
         <name lang="en">Culture</name>
@@ -88,30 +88,30 @@
         <name lang="de">Kultur</name>
       </topic>
       <topic id="36">
-        <name lang="it">Digitalizzazione, comunicazione e media</name>
-        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
+        <name lang="it">Digitalizzazione, comunicazione e media</name>
+        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
       </topic>
       <topic id="7">
-        <name lang="de">Bibliothek &amp; Archiv</name>
-        <name lang="en">Libraries &amp; Archives</name>
         <name lang="fr">Bibliothèques et archives</name>
         <name lang="it">Biblioteche e archivi</name>
         <name lang="rm">Bibliotecas ed archivs</name>
+        <name lang="de">Bibliothek &amp; Archiv</name>
+        <name lang="en">Libraries &amp; Archives</name>
       </topic>
       <topic id="107">
-        <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
+        <name lang="de">Kultur</name>
       </topic>
       <topic id="105">
-        <name lang="de">Gesellschaft</name>
-        <name lang="en">Society</name>
         <name lang="fr">Société</name>
         <name lang="it">Società</name>
+        <name lang="de">Gesellschaft</name>
+        <name lang="en">Society</name>
       </topic>
     </topics>
     <offers/>

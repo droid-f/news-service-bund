@@ -6,11 +6,11 @@
     <pubdate>2026-06-29</pubdate>
     <originator id="1025" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="en">Federal Postal Services Commission</name>
       <name lang="fr">Commission fédérale de la poste</name>
       <name lang="it">Commissione federale delle poste </name>
       <name lang="rm">Cumissiun federala da la posta </name>
       <name lang="de">Eidgenössische Postkommission</name>
+      <name lang="en">Federal Postal Services Commission</name>
       <www lang="de">http://www.postcom.admin.ch/de/</www>
     </originator>
     <keywords/>
@@ -25,11 +25,11 @@
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -57,18 +57,18 @@
     </content>
     <topics>
       <topic id="652">
-        <name lang="rm">Posta</name>
         <name lang="de">Post</name>
         <name lang="en">Postal services</name>
         <name lang="fr">Poste</name>
         <name lang="it">Posta</name>
+        <name lang="rm">Posta</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
       </topic>
       <topic id="114">
         <name lang="it">Economia</name>

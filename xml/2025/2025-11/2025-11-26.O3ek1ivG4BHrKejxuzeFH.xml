@@ -11,11 +11,11 @@
       <name lang="fr">Office fédéral de l'environnement</name>
       <name lang="it">Ufficio federale dell'ambiente</name>
       <name lang="rm">Uffizi federal d'ambient</name>
-      <www lang="en">https://www.bafu.admin.ch/en</www>
-      <www lang="fr">https://www.bafu.admin.ch/fr</www>
       <www lang="it">https://www.bafu.admin.ch/it</www>
       <www lang="rm">https://www.bafu.admin.ch/rm</www>
       <www lang="de">https://www.bafu.admin.ch/ </www>
+      <www lang="en">https://www.bafu.admin.ch/en</www>
+      <www lang="fr">https://www.bafu.admin.ch/fr</www>
       <email lang="de">medien@bafu.admin.ch</email>
       <email lang="en">medien@bafu.admin.ch</email>
       <email lang="fr">medien@bafu.admin.ch</email>
@@ -24,11 +24,11 @@
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -37,11 +37,11 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
@@ -55,11 +55,11 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
+      <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -106,11 +106,11 @@
         <name lang="rm">Chemia e tissis</name>
       </topic>
       <topic id="10">
+        <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
-        <name lang="it">Consiglio federale</name>
       </topic>
     </topics>
     <offers/>

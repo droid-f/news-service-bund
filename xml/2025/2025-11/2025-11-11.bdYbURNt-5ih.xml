@@ -6,20 +6,20 @@
     <pubdate>2025-11-11</pubdate>
     <originator id="1004" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Schweizerische Nationalbibliothek</name>
       <name lang="en">Swiss National Library</name>
       <name lang="fr">Bibliothèque nationale suisse</name>
       <name lang="it">Biblioteca nazionale svizzera</name>
       <name lang="rm">Banca naziunala svizra</name>
-      <www lang="en">https://www.nb.admin.ch/snl/en/home.html</www>
+      <name lang="de">Schweizerische Nationalbibliothek</name>
       <www lang="fr">https://www.nb.admin.ch/snl/fr/home.html</www>
       <www lang="it">https://www.nb.admin.ch/snl/it/home.html</www>
       <www lang="de">https://www.nb.admin.ch</www>
+      <www lang="en">https://www.nb.admin.ch/snl/en/home.html</www>
+      <email lang="it">marketing@nb.admin.ch </email>
+      <email lang="rm">marketing@nb.admin.ch </email>
       <email lang="de">marketing@nb.admin.ch </email>
       <email lang="en">marketing@nb.admin.ch </email>
       <email lang="fr">marketing@nb.admin.ch </email>
-      <email lang="it">marketing@nb.admin.ch </email>
-      <email lang="rm">marketing@nb.admin.ch </email>
     </originator>
     <keywords/>
     <department id="301">
@@ -60,32 +60,32 @@
     </content>
     <topics>
       <topic id="490">
+        <name lang="rm">Museums</name>
         <name lang="de">Museen</name>
         <name lang="en">Museums</name>
         <name lang="fr">Musées</name>
         <name lang="it">Musei</name>
-        <name lang="rm">Museums</name>
       </topic>
       <topic id="431">
-        <name lang="it">Biblioteca nazionale svizzera</name>
-        <name lang="rm">Biblioteca naziunala</name>
         <name lang="de">Nationalbibliothek</name>
         <name lang="en">National Library</name>
         <name lang="fr">Bibliothèque nationale</name>
+        <name lang="it">Biblioteca nazionale svizzera</name>
+        <name lang="rm">Biblioteca naziunala</name>
       </topic>
       <topic id="18">
+        <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
-        <name lang="rm">Cultura</name>
       </topic>
       <topic id="7">
+        <name lang="rm">Bibliotecas ed archivs</name>
+        <name lang="de">Bibliothek &amp; Archiv</name>
         <name lang="en">Libraries &amp; Archives</name>
         <name lang="fr">Bibliothèques et archives</name>
         <name lang="it">Biblioteche e archivi</name>
-        <name lang="rm">Bibliotecas ed archivs</name>
-        <name lang="de">Bibliothek &amp; Archiv</name>
       </topic>
       <topic id="107">
         <name lang="fr">Culture</name>

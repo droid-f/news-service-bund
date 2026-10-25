@@ -6,15 +6,15 @@
     <pubdate>2026-01-27</pubdate>
     <originator id="151" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Eidgenössische Kommission für Frauenfragen</name>
       <name lang="en">Federal Commission for Women's Issues </name>
       <name lang="fr">Commission fédérale pour les questions féminines </name>
       <name lang="it">Commissione federale per le questioni femminili </name>
       <name lang="rm">Cumissiun federala per dumondas da dunnas</name>
+      <name lang="de">Eidgenössische Kommission für Frauenfragen</name>
+      <www lang="it">https://www.ekf.admin.ch/ekf/it/home.html</www>
       <www lang="de">https://www.ekf.admin.ch</www>
       <www lang="en">https://www.ekf.admin.ch/ekf/en/home.html</www>
       <www lang="fr">https://www.ekf.admin.ch/ekf/fr/home.html</www>
-      <www lang="it">https://www.ekf.admin.ch/ekf/it/home.html</www>
       <email lang="de">ekf@ebg.admin.ch</email>
       <email lang="en">ekf@ebg.admin.ch</email>
       <email lang="fr">ekf@ebg.admin.ch</email>
@@ -23,21 +23,21 @@
     </originator>
     <originator id="302" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="rm">Secretariat general dal DFI</name>
-      <name lang="de">Generalsekretariat EDI</name>
       <name lang="en">General Secretariat FDHA</name>
       <name lang="fr">Secrétariat général DFI</name>
       <name lang="it">Segreteria generale DFI</name>
+      <name lang="rm">Secretariat general dal DFI</name>
+      <name lang="de">Generalsekretariat EDI</name>
+      <www lang="fr">www.dfi.admin.ch</www>
+      <www lang="it">https://www.edi.admin.ch/</www>
       <www lang="rm">https://www.edi.admin.ch/</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/</www>
-      <www lang="fr">www.dfi.admin.ch</www>
-      <www lang="it">https://www.edi.admin.ch/</www>
+      <email lang="en">media@gs-edi.admin.ch</email>
       <email lang="fr">media@gs-edi.admin.ch</email>
       <email lang="it">media@gs-edi.admin.ch</email>
       <email lang="rm">media@gs-edi.admin.ch</email>
       <email lang="de">media@gs-edi.admin.ch</email>
-      <email lang="en">media@gs-edi.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -78,11 +78,11 @@
     </content>
     <topics>
       <topic id="26">
+        <name lang="it">Diritto</name>
+        <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
-        <name lang="it">Diritto</name>
-        <name lang="rm">Dretg</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>

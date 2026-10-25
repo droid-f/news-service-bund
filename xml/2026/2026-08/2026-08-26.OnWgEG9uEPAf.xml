@@ -20,11 +20,11 @@
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
+      <email lang="de">media@fedpol.admin.ch</email>
+      <email lang="en">media@fedpol.admin.ch</email>
       <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
       <email lang="rm">media@fedpol.admin.ch</email>
-      <email lang="de">media@fedpol.admin.ch</email>
-      <email lang="en">media@fedpol.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
@@ -51,11 +51,11 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -88,32 +88,32 @@
     </content>
     <topics>
       <topic id="680">
+        <name lang="de">Grenzschutz</name>
+        <name lang="en">Border protection</name>
         <name lang="fr">Protection douanière</name>
         <name lang="it">Protezione doganale</name>
         <name lang="rm">Protecziun dals cunfins</name>
-        <name lang="de">Grenzschutz</name>
-        <name lang="en">Border protection</name>
       </topic>
       <topic id="547">
-        <name lang="rm">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
+        <name lang="rm">Polizia</name>
       </topic>
       <topic id="541">
+        <name lang="de">Kooperation</name>
+        <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
         <name lang="rm">Cooperaziun</name>
-        <name lang="de">Kooperation</name>
-        <name lang="en">Cooperation</name>
       </topic>
       <topic id="448">
+        <name lang="rm">Affars dal Cussegl federal</name>
         <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
         <name lang="it">Affari del Consiglio federale</name>
-        <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="48">
         <name lang="de">Zoll</name>
@@ -123,18 +123,18 @@
         <name lang="rm">Duana</name>
       </topic>
       <topic id="40">
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
       </topic>
       <topic id="10">
+        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
       </topic>
     </topics>
     <offers/>

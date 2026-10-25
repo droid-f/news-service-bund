@@ -26,11 +26,11 @@
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -58,18 +58,18 @@
     </content>
     <topics>
       <topic id="330">
+        <name lang="de">Rückrufe und Sicherheitsinformationen</name>
+        <name lang="en">Recalls and safety information</name>
         <name lang="fr">Rappels et informations sur la sécurité</name>
         <name lang="it">Richiami e informazioni relative alla sicurezza</name>
         <name lang="rm">Recloms ed infurmaziuns da segirezza</name>
-        <name lang="de">Rückrufe und Sicherheitsinformationen</name>
-        <name lang="en">Recalls and safety information</name>
       </topic>
       <topic id="37">
-        <name lang="rm">Consum</name>
-        <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
+        <name lang="rm">Consum</name>
+        <name lang="de">Konsum</name>
       </topic>
     </topics>
     <offers/>

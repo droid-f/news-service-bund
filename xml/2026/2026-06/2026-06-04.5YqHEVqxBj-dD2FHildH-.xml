@@ -6,21 +6,21 @@
     <pubdate>2026-06-04</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-72" org-id="401">
@@ -42,16 +42,16 @@
         <name lang="it">Europa</name>
       </keyword>
       <keyword id="SLW-72" org-id="401">
-        <name lang="it">Politica migratoria internazionale</name>
         <name lang="de">Migrationspolitik international</name>
         <name lang="en">International politics of migration</name>
         <name lang="fr">Politique migratoire internationale</name>
+        <name lang="it">Politica migratoria internazionale</name>
       </keyword>
       <keyword id="SLW-95" org-id="401">
-        <name lang="it">Schengen/Dublin</name>
-        <name lang="de">Schengen/Dublin</name>
         <name lang="en">Schengen/Dublin</name>
         <name lang="fr">Schengen/Dublin</name>
+        <name lang="it">Schengen/Dublin</name>
+        <name lang="de">Schengen/Dublin</name>
       </keyword>
       <keyword id="SLW-35" org-id="401">
         <name lang="de">Europa</name>
@@ -60,22 +60,22 @@
         <name lang="it">Europa</name>
       </keyword>
       <keyword id="SLW-72" org-id="401">
-        <name lang="de">Migrationspolitik international</name>
         <name lang="en">International politics of migration</name>
         <name lang="fr">Politique migratoire internationale</name>
         <name lang="it">Politica migratoria internazionale</name>
+        <name lang="de">Migrationspolitik international</name>
       </keyword>
       <keyword id="SLW-95" org-id="401">
-        <name lang="de">Schengen/Dublin</name>
-        <name lang="en">Schengen/Dublin</name>
         <name lang="fr">Schengen/Dublin</name>
         <name lang="it">Schengen/Dublin</name>
+        <name lang="de">Schengen/Dublin</name>
+        <name lang="en">Schengen/Dublin</name>
       </keyword>
       <keyword id="SLW-35" org-id="401">
-        <name lang="it">Europa</name>
         <name lang="de">Europa</name>
         <name lang="en">Europe</name>
         <name lang="fr">Europe</name>
+        <name lang="it">Europa</name>
       </keyword>
     </keywords>
     <content lang="de">
@@ -111,11 +111,11 @@
         <name lang="rm">La Svizra e l'Europa </name>
       </topic>
       <topic id="20">
-        <name lang="en">Migration &amp; Integration</name>
-        <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
+        <name lang="en">Migration &amp; Integration</name>
+        <name lang="fr">Migration et intégration</name>
       </topic>
     </topics>
     <offers/>

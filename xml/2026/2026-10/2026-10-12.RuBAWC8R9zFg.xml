@@ -23,42 +23,34 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="de">Generalsekretariat VBS</name>
+      <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
-      <name lang="en">General Secretariat DDPS</name>
-      <www lang="it">http://www.vbs.admin.ch/it</www>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
-      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
       <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="de">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="en">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Internationaler Dialog: Direktor BACS an der EU Cyber Week in Irland und an der Singapore Cyber Week</title>
-      <lead>Im Rahmen der EU Cyber Week trafen sich die europäischen Cybersicherheitsdirektorinnen und -direktoren am 8. Oktober in Dublin zum Austausch über aktuelle Herausforderungen im Cyberraum. Im Zentrum stand dabei der Umgang mit Künstlicher Intelligenz in der Cybersicherheit. Florian Schütz, der Direktor des BACS, nahm an einer Podiumsdiskussion zu digitaler Souveränität und der Resilienz von Lieferketten teil. Seinen internationalen Austausch setzt der BACS-Direktor diese Woche an der Singapore Cyber Week fort und vertieft dort insbesondere Fragen zur Sicherheit autonomer KI-Systeme.</lead>
-      <text link="no">&lt;p&gt;Am Rande der EU Cyber Week in Irland trafen sich die Direktorinnen und Direktoren der europäischen Cybersicherheitsbehörden am 8. Oktober zu ihrem regelmässigen Austausch. Ein Schwerpunkt der Gespräche bildete der Umgang mit fortschrittlichen KI-Modellen in der Cybersicherheit. Diskutiert wurden namentlich die wachsenden Möglichkeiten von KI bei der Schwachstellenerkennung und der grossflächigen Code-Analyse, sowie die damit verbundenen Fragen zu menschlicher Aufsicht und operativem Risiko im Zusammenhang mit autonomen KI-Agenten. Ebenso Thema war der Missbrauch von KI durch kriminelle und staatliche Akteure sowie das Spannungsfeld zwischen Risiken und Nutzen offener KI-Modelle. Die Direktorinnen und Direktoren tauschten sich zudem zum Aktionsplan der Europäischen Kommission zu Cybersicherheit und KI aus, insbesondere zur Frage des strukturierten Zugangs zu fortschrittlichen Modellen und zur Rolle nationaler Behörden bei dessen Umsetzung.&lt;/p&gt; &lt;h2&gt;Podiumsdiskussion in Dublin: Digitale Souveränität und Lieferkettenresilienz&lt;/h2&gt; &lt;p&gt;Die EU Cyber Week bildete den Rahmen für die Ireland EU Presidency Cyber Conference, die als zentrale Cybersicherheitsveranstaltung der irischen EU-Ratspräsidentschaft im Convention Centre Dublin stattfand und über 700 hochrangige Vertreterinnen und Vertreter aus Politik, Behörden und Wirtschaft versammelte. Florian Schütz nahm dabei an der Podiumsdiskussion «Digital Sovereignty and Supply Chain Resilience: From Policy to Practise» teil, gemeinsam mit Vertreterinnen und Vertretern der ENISA, des deutschen BSI, der französischen ANSSI sowie weiterer europäischer Cybersicherheitsbehörden. Im Zentrum der Diskussion standen Fragen der digitalen Souveränität sowie die Widerstandsfähigkeit globaler Lieferketten im Cyberraum.&lt;/p&gt; &lt;h2&gt;Singapore Cyber Week&lt;/h2&gt; &lt;p&gt;Die Themen und Ergebnisse aus dem Cyber Security Directors Meeting in Dublin fliessen auch in den weiteren internationalen Austausch ein: An der Singapore Cyber Week vom 12. bis 15. Oktober wird Florian Schütz die Erkenntnisse aus Dublin und insbesondere Fragen zur Sicherheit autonomer KI-Systeme in die Diskussion einbringen. Florian Schütz wird dabei unter anderem an einem Panel mit dem Titel «Securing Agentic AI in Robotics: Bridging Autonomous Decision-Making with Cyber Physical Safety» teilnehmen.&lt;/p&gt;</text>
-      <contact>Kommunikation BACS +41 58 465 53 56 media@ncsc.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Dialogue international: le directeur de l’OFCS prend part au dialogue international autour de la cybersécurité à l’European Cyber Week en Irlande et à la Singapore International Cyber Week</title>
@@ -75,6 +67,14 @@
       <contact>Comunicazione UFCS +41 58 465 53 56 media@ncsc.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Internationaler Dialog: Direktor BACS an der EU Cyber Week in Irland und an der Singapore Cyber Week</title>
+      <lead>Im Rahmen der EU Cyber Week trafen sich die europäischen Cybersicherheitsdirektorinnen und -direktoren am 8. Oktober in Dublin zum Austausch über aktuelle Herausforderungen im Cyberraum. Im Zentrum stand dabei der Umgang mit Künstlicher Intelligenz in der Cybersicherheit. Florian Schütz, der Direktor des BACS, nahm an einer Podiumsdiskussion zu digitaler Souveränität und der Resilienz von Lieferketten teil. Seinen internationalen Austausch setzt der BACS-Direktor diese Woche an der Singapore Cyber Week fort und vertieft dort insbesondere Fragen zur Sicherheit autonomer KI-Systeme.</lead>
+      <text link="no">&lt;p&gt;Am Rande der EU Cyber Week in Irland trafen sich die Direktorinnen und Direktoren der europäischen Cybersicherheitsbehörden am 8. Oktober zu ihrem regelmässigen Austausch. Ein Schwerpunkt der Gespräche bildete der Umgang mit fortschrittlichen KI-Modellen in der Cybersicherheit. Diskutiert wurden namentlich die wachsenden Möglichkeiten von KI bei der Schwachstellenerkennung und der grossflächigen Code-Analyse, sowie die damit verbundenen Fragen zu menschlicher Aufsicht und operativem Risiko im Zusammenhang mit autonomen KI-Agenten. Ebenso Thema war der Missbrauch von KI durch kriminelle und staatliche Akteure sowie das Spannungsfeld zwischen Risiken und Nutzen offener KI-Modelle. Die Direktorinnen und Direktoren tauschten sich zudem zum Aktionsplan der Europäischen Kommission zu Cybersicherheit und KI aus, insbesondere zur Frage des strukturierten Zugangs zu fortschrittlichen Modellen und zur Rolle nationaler Behörden bei dessen Umsetzung.&lt;/p&gt; &lt;h2&gt;Podiumsdiskussion in Dublin: Digitale Souveränität und Lieferkettenresilienz&lt;/h2&gt; &lt;p&gt;Die EU Cyber Week bildete den Rahmen für die Ireland EU Presidency Cyber Conference, die als zentrale Cybersicherheitsveranstaltung der irischen EU-Ratspräsidentschaft im Convention Centre Dublin stattfand und über 700 hochrangige Vertreterinnen und Vertreter aus Politik, Behörden und Wirtschaft versammelte. Florian Schütz nahm dabei an der Podiumsdiskussion «Digital Sovereignty and Supply Chain Resilience: From Policy to Practise» teil, gemeinsam mit Vertreterinnen und Vertretern der ENISA, des deutschen BSI, der französischen ANSSI sowie weiterer europäischer Cybersicherheitsbehörden. Im Zentrum der Diskussion standen Fragen der digitalen Souveränität sowie die Widerstandsfähigkeit globaler Lieferketten im Cyberraum.&lt;/p&gt; &lt;h2&gt;Singapore Cyber Week&lt;/h2&gt; &lt;p&gt;Die Themen und Ergebnisse aus dem Cyber Security Directors Meeting in Dublin fliessen auch in den weiteren internationalen Austausch ein: An der Singapore Cyber Week vom 12. bis 15. Oktober wird Florian Schütz die Erkenntnisse aus Dublin und insbesondere Fragen zur Sicherheit autonomer KI-Systeme in die Diskussion einbringen. Florian Schütz wird dabei unter anderem an einem Panel mit dem Titel «Securing Agentic AI in Robotics: Bridging Autonomous Decision-Making with Cyber Physical Safety» teilnehmen.&lt;/p&gt;</text>
+      <contact>Kommunikation BACS +41 58 465 53 56 media@ncsc.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="en">
       <city>Bern</city>
       <title>International dialogue: NCSC Director attends EU Cyber Week in Ireland and Singapore International Cyber Week</title>
@@ -85,11 +85,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="345">
         <name lang="de">Cybersicherheit</name>
@@ -99,11 +99,11 @@
         <name lang="rm">Cybersegirezza</name>
       </topic>
       <topic id="40">
-        <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
       </topic>
     </topics>
     <offers/>

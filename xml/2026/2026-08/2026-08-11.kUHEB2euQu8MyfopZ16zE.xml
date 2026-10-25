@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="en">
@@ -57,18 +57,18 @@
     </content>
     <topics>
       <topic id="504">
-        <name lang="rm">Iniziativas</name>
         <name lang="de">Initiativen</name>
         <name lang="en">Initiatives</name>
         <name lang="fr">Initiatives</name>
         <name lang="it">Iniziative</name>
+        <name lang="rm">Iniziativas</name>
       </topic>
       <topic id="69">
+        <name lang="it">Votazioni</name>
         <name lang="rm">Votaziuns</name>
         <name lang="de">Abstimmungen</name>
         <name lang="en">Popular votes</name>
         <name lang="fr">Votations</name>
-        <name lang="it">Votazioni</name>
       </topic>
       <topic id="23">
         <name lang="de">Politische Rechte</name>

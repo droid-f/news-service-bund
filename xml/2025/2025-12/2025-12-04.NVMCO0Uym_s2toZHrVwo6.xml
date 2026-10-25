@@ -12,6 +12,10 @@
       <name lang="it">Ufficio federale delle assicurazioni sociali</name>
       <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
       <www lang="de">http://www.bsv.admin.ch/</www>
+      <www lang="en">https://www.bsv.admin.ch/en</www>
+      <www lang="fr">https://www.bsv.admin.ch/fr</www>
+      <www lang="it">https://www.bsv.admin.ch/it</www>
+      <www lang="rm">http://www.bsv.admin.ch/</www>
       <email lang="de">media@bsv.admin.ch</email>
       <email lang="en">media@bsv.admin.ch</email>
       <email lang="fr">media@bsv.admin.ch</email>
@@ -20,16 +24,16 @@
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -57,11 +61,11 @@
     </content>
     <topics>
       <topic id="147">
+        <name lang="rm">Rapports da retschertga</name>
+        <name lang="de">Forschungsberichte</name>
         <name lang="en">Research reports</name>
         <name lang="fr">Rapports de recherche</name>
         <name lang="it">Rapporti di ricerca</name>
-        <name lang="rm">Rapports da retschertga</name>
-        <name lang="de">Forschungsberichte</name>
       </topic>
       <topic id="33">
         <name lang="it">Prestazioni complementari</name>
@@ -71,46 +75,46 @@
         <name lang="fr">Prestations complémentaires</name>
       </topic>
       <topic id="566">
-        <name lang="de">Sozialwesen</name>
-        <name lang="en">Social welfare</name>
         <name lang="fr">Affaires sociales</name>
         <name lang="it">Affari sociali</name>
         <name lang="rm">Fatgs socials</name>
+        <name lang="de">Sozialwesen</name>
+        <name lang="en">Social welfare</name>
       </topic>
       <topic id="31">
-        <name lang="en">Social insurance</name>
-        <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="rm">Assicuranzas socialas</name>
         <name lang="de">Sozialversicherungen</name>
+        <name lang="en">Social insurance</name>
+        <name lang="fr">Assurances sociales</name>
       </topic>
       <topic id="564">
-        <name lang="rm">Segirezza sociala</name>
         <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
+        <name lang="rm">Segirezza sociala</name>
       </topic>
       <topic id="35">
-        <name lang="it">AI – Assicurazione per l’invalidità</name>
         <name lang="rm">AI – Assicuranza d'invaliditad</name>
         <name lang="de">IV - Invalidenversicherung</name>
         <name lang="en">II - Invalidity Insurance</name>
         <name lang="fr">AI - Assurance-invalidité</name>
+        <name lang="it">AI – Assicurazione per l’invalidità</name>
       </topic>
       <topic id="32">
+        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
+        <name lang="en">Old-age, Survivors’ and Invalidity Insurance</name>
         <name lang="fr">AVS - Assurance-vieillesse et survivants</name>
         <name lang="it">AVS – Assicurazione vecchiaia e superstiti</name>
         <name lang="rm">AVS – Assicuranza per vegls e survivents</name>
-        <name lang="de">AHV - Alters und Hinterbliebenenversicherung</name>
-        <name lang="en">Old-age, Survivors’ and Invalidity Insurance</name>
       </topic>
       <topic id="41">
+        <name lang="fr">Affaires sociales, famille et société</name>
+        <name lang="it">Affari sociali, famiglia e società</name>
         <name lang="rm">Fatgs socials, famiglia e societad</name>
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
         <name lang="en">Social affairs, family &amp; society</name>
-        <name lang="fr">Affaires sociales, famille et société</name>
-        <name lang="it">Affari sociali, famiglia e società</name>
       </topic>
       <topic id="125">
         <name lang="de">Soziale Sicherheit</name>

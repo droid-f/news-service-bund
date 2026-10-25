@@ -17,16 +17,16 @@
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -61,11 +61,11 @@
         <name lang="rm">Assicuranzas socialas</name>
       </topic>
       <topic id="35">
-        <name lang="de">IV - Invalidenversicherung</name>
-        <name lang="en">II - Invalidity Insurance</name>
         <name lang="fr">AI - Assurance-invalidité</name>
         <name lang="it">AI – Assicurazione per l’invalidità</name>
         <name lang="rm">AI – Assicuranza d'invaliditad</name>
+        <name lang="de">IV - Invalidenversicherung</name>
+        <name lang="en">II - Invalidity Insurance</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
@@ -75,10 +75,10 @@
         <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
       <topic id="125">
-        <name lang="it">Sicurezza sociale</name>
         <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
+        <name lang="it">Sicurezza sociale</name>
       </topic>
     </topics>
     <offers/>

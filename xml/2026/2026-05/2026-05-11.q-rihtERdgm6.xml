@@ -6,41 +6,41 @@
     <pubdate>2026-05-11</pubdate>
     <originator id="811" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
+      <name lang="de">Bundesamt für Umwelt</name>
       <name lang="en">Federal Office for the Environment</name>
       <name lang="fr">Office fédéral de l'environnement</name>
       <name lang="it">Ufficio federale dell'ambiente</name>
       <name lang="rm">Uffizi federal d'ambient</name>
-      <name lang="de">Bundesamt für Umwelt</name>
+      <www lang="de">https://www.bafu.admin.ch/ </www>
       <www lang="en">https://www.bafu.admin.ch/en</www>
       <www lang="fr">https://www.bafu.admin.ch/fr</www>
       <www lang="it">https://www.bafu.admin.ch/it</www>
       <www lang="rm">https://www.bafu.admin.ch/rm</www>
-      <www lang="de">https://www.bafu.admin.ch/ </www>
+      <email lang="it">medien@bafu.admin.ch</email>
+      <email lang="rm">medien@bafu.admin.ch</email>
       <email lang="de">medien@bafu.admin.ch</email>
       <email lang="en">medien@bafu.admin.ch</email>
       <email lang="fr">medien@bafu.admin.ch</email>
-      <email lang="it">medien@bafu.admin.ch</email>
-      <email lang="rm">medien@bafu.admin.ch</email>
     </originator>
     <originator id="1047" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Agroscope</name>
       <name lang="de">Agroscope</name>
       <name lang="en">Agroscope</name>
       <name lang="fr">Agroscope</name>
       <name lang="it">Agroscope</name>
-      <www lang="it">https://www.agroscope.admin.ch/</www>
+      <name lang="rm">Agroscope</name>
       <www lang="de">https://www.agroscope.admin.ch/</www>
       <www lang="en">https://www.agroscope.admin.ch/</www>
       <www lang="fr">https://www.agroscope.admin.ch/</www>
+      <www lang="it">https://www.agroscope.admin.ch/</www>
     </originator>
     <originator id="705" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Uffizi federal d'agricultura</name>
       <name lang="de">Bundesamt für Landwirtschaft</name>
       <name lang="en">Federal Office for Agriculture</name>
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
+      <name lang="rm">Uffizi federal d'agricultura</name>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
       <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
@@ -53,11 +53,11 @@
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -107,31 +107,31 @@
     </content>
     <topics>
       <topic id="236">
-        <name lang="rm">Protecziun da las plantas</name>
-        <name lang="de">Pflanzenschutz</name>
         <name lang="en">Plant protection</name>
         <name lang="fr">Protection phytosanitaire</name>
         <name lang="it">Protezione fitosanitaria</name>
+        <name lang="rm">Protecziun da las plantas</name>
+        <name lang="de">Pflanzenschutz</name>
       </topic>
       <topic id="38">
+        <name lang="de">Landwirtschaft</name>
+        <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
         <name lang="rm">Agricultura</name>
-        <name lang="de">Landwirtschaft</name>
-        <name lang="en">Agriculture</name>
       </topic>
       <topic id="47">
+        <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
-        <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="108">
-        <name lang="fr">Agriculture</name>
-        <name lang="it">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
+        <name lang="fr">Agriculture</name>
+        <name lang="it">Agricultura</name>
       </topic>
     </topics>
     <offers/>

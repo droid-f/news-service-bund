@@ -6,11 +6,11 @@
     <pubdate>2026-06-22</pubdate>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
@@ -24,6 +24,44 @@
     </originator>
     <keywords>
       <keyword id="SLW-0005" org-id="701">
+        <name lang="fr">Etranger</name>
+        <name lang="it">Straniero</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign</name>
+      </keyword>
+      <keyword id="SLW-0001" org-id="701">
+        <name lang="it">Economia</name>
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economic Affairs</name>
+        <name lang="fr">Economie</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+      </keyword>
+      <keyword id="SLW-0005" org-id="701">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign</name>
+        <name lang="fr">Etranger</name>
+        <name lang="it">Straniero</name>
+      </keyword>
+      <keyword id="SLW-0001" org-id="701">
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economic Affairs</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+      </keyword>
+      <keyword id="SLW-0005" org-id="701">
         <name lang="de">Ausland</name>
         <name lang="en">Foreign</name>
         <name lang="fr">Etranger</name>
@@ -36,55 +74,17 @@
         <name lang="de">Wirtschaft</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
-      </keyword>
-      <keyword id="SLW-0005" org-id="701">
-        <name lang="en">Foreign</name>
-        <name lang="fr">Etranger</name>
-        <name lang="it">Straniero</name>
-        <name lang="de">Ausland</name>
-      </keyword>
-      <keyword id="SLW-0001" org-id="701">
-        <name lang="de">Wirtschaft</name>
-        <name lang="en">Economic Affairs</name>
-        <name lang="fr">Economie</name>
-        <name lang="it">Economia</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="SLW-0005" org-id="701">
         <name lang="fr">Etranger</name>
         <name lang="it">Straniero</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign</name>
-      </keyword>
-      <keyword id="SLW-0001" org-id="701">
-        <name lang="de">Wirtschaft</name>
-        <name lang="en">Economic Affairs</name>
-        <name lang="fr">Economie</name>
-        <name lang="it">Economia</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-      </keyword>
-      <keyword id="SLW-0005" org-id="701">
-        <name lang="it">Straniero</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign</name>
-        <name lang="fr">Etranger</name>
       </keyword>
       <keyword id="SLW-0001" org-id="701">
         <name lang="de">Wirtschaft</name>
@@ -134,11 +134,11 @@
     </content>
     <topics>
       <topic id="104">
+        <name lang="it">Guy Parmelin</name>
+        <name lang="rm">Guy Parmelin</name>
         <name lang="de">Guy Parmelin</name>
         <name lang="en">Guy Parmelin</name>
         <name lang="fr">Guy Parmelin</name>
-        <name lang="it">Guy Parmelin</name>
-        <name lang="rm">Guy Parmelin</name>
       </topic>
       <topic id="39">
         <name lang="de">Ausland</name>
@@ -148,32 +148,32 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="634">
-        <name lang="de">Aussenwirtschaft</name>
-        <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
         <name lang="it">Economia esterna</name>
         <name lang="rm">Economia da l'exteriur</name>
+        <name lang="de">Aussenwirtschaft</name>
+        <name lang="en">Foreign economic affairs</name>
       </topic>
       <topic id="34">
+        <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
-        <name lang="en">Switzerland and Europe </name>
       </topic>
       <topic id="411">
+        <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
-        <name lang="de">Internationale Organisationen</name>
       </topic>
       <topic id="47">
-        <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
@@ -183,11 +183,11 @@
         <name lang="rm">Cussegl federal</name>
       </topic>
       <topic id="33">
-        <name lang="rm">Presidi da la Confederaziun</name>
         <name lang="de">Bundespräsidium</name>
         <name lang="en">Federal Presidency</name>
         <name lang="fr">Présidence de la Confédération</name>
         <name lang="it">Presidenza delle Confederazione</name>
+        <name lang="rm">Presidi da la Confederaziun</name>
       </topic>
     </topics>
     <offers/>

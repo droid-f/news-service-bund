@@ -6,38 +6,38 @@
     <pubdate>2026-07-01</pubdate>
     <originator id="1060" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
-      <name lang="it">Segreteria di Stato per le questioni finanziarie internazionali</name>
-      <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
       <name lang="de">Staatssekretariat für internationale Finanzfragen</name>
       <name lang="en">State Secretariat for International Finance</name>
       <name lang="fr">Secrétariat d'État et aux questions financières internationales</name>
+      <name lang="it">Segreteria di Stato per le questioni finanziarie internazionali</name>
+      <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
       <www lang="de">https://www.sif.admin.ch/de</www>
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
       <www lang="it">https://www.sif.admin.ch/it</www>
+      <email lang="rm">info@sif.admin.ch</email>
       <email lang="de">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
       <email lang="fr">info@sif.admin.ch</email>
       <email lang="it">info@sif.admin.ch</email>
-      <email lang="rm">info@sif.admin.ch</email>
     </originator>
     <originator id="601" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <email lang="de">media@gs-efd.admin.ch</email>
-      <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
+      <email lang="de">media@gs-efd.admin.ch</email>
+      <email lang="en">media@gs-efd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-112" org-id="601">
@@ -47,10 +47,10 @@
         <name lang="it">Vigilanza finanziaria</name>
       </keyword>
       <keyword id="SLW-118" org-id="601">
-        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
         <name lang="en">Financial market regulation and supervision</name>
         <name lang="fr">Réglementation et surveillance des marchés financiers</name>
         <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
+        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
         <name lang="de">Finanzplatz Schweiz</name>
@@ -59,10 +59,10 @@
         <name lang="it">Piazza finanziaria svizzera</name>
       </keyword>
       <keyword id="SLW-128" org-id="601">
-        <name lang="en">Economic policy and financial markets</name>
         <name lang="fr">Politique économique et marchés financiers</name>
         <name lang="it">Politica economica e mercati finanziari</name>
         <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
+        <name lang="en">Economic policy and financial markets</name>
       </keyword>
       <keyword id="SLW-112" org-id="601">
         <name lang="de">Finanzaufsicht</name>
@@ -71,10 +71,10 @@
         <name lang="it">Vigilanza finanziaria</name>
       </keyword>
       <keyword id="SLW-118" org-id="601">
+        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
         <name lang="en">Financial market regulation and supervision</name>
         <name lang="fr">Réglementation et surveillance des marchés financiers</name>
         <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
-        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
         <name lang="de">Finanzplatz Schweiz</name>
@@ -89,16 +89,16 @@
         <name lang="it">Politica economica e mercati finanziari</name>
       </keyword>
       <keyword id="SLW-112" org-id="601">
+        <name lang="de">Finanzaufsicht</name>
         <name lang="en">Financial supervision</name>
         <name lang="fr">Surveillance financière</name>
         <name lang="it">Vigilanza finanziaria</name>
-        <name lang="de">Finanzaufsicht</name>
       </keyword>
       <keyword id="SLW-118" org-id="601">
+        <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
         <name lang="de">Finanzmarktregulierung und -aufsicht</name>
         <name lang="en">Financial market regulation and supervision</name>
         <name lang="fr">Réglementation et surveillance des marchés financiers</name>
-        <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
         <name lang="de">Finanzplatz Schweiz</name>
@@ -107,10 +107,10 @@
         <name lang="it">Piazza finanziaria svizzera</name>
       </keyword>
       <keyword id="SLW-128" org-id="601">
-        <name lang="it">Politica economica e mercati finanziari</name>
         <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
         <name lang="en">Economic policy and financial markets</name>
         <name lang="fr">Politique économique et marchés financiers</name>
+        <name lang="it">Politica economica e mercati finanziari</name>
       </keyword>
       <keyword id="SLW-112" org-id="601">
         <name lang="it">Vigilanza finanziaria</name>
@@ -119,22 +119,22 @@
         <name lang="fr">Surveillance financière</name>
       </keyword>
       <keyword id="SLW-118" org-id="601">
+        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
         <name lang="en">Financial market regulation and supervision</name>
         <name lang="fr">Réglementation et surveillance des marchés financiers</name>
         <name lang="it">Regolamentazione e vigilanza dei mercati finanziari</name>
-        <name lang="de">Finanzmarktregulierung und -aufsicht</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
-        <name lang="fr">Place financière suisse</name>
         <name lang="it">Piazza finanziaria svizzera</name>
         <name lang="de">Finanzplatz Schweiz</name>
         <name lang="en">Switzerland as a financial centre</name>
+        <name lang="fr">Place financière suisse</name>
       </keyword>
       <keyword id="SLW-128" org-id="601">
-        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
-        <name lang="en">Economic policy and financial markets</name>
         <name lang="fr">Politique économique et marchés financiers</name>
         <name lang="it">Politica economica e mercati finanziari</name>
+        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
+        <name lang="en">Economic policy and financial markets</name>
       </keyword>
     </keywords>
     <department id="601">
@@ -143,16 +143,16 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
-      <www lang="it">https://www.efd.admin.ch/it</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -188,18 +188,18 @@
     </content>
     <topics>
       <topic id="653">
+        <name lang="de">Regulierung</name>
+        <name lang="en">Regulation</name>
         <name lang="fr">Réglementation</name>
         <name lang="it">Regolamentazione</name>
         <name lang="rm">Regulaziun</name>
-        <name lang="de">Regulierung</name>
-        <name lang="en">Regulation</name>
       </topic>
       <topic id="291">
-        <name lang="de">Finanzplatz</name>
         <name lang="en">Financial centre</name>
         <name lang="fr">Place financière</name>
         <name lang="it">Piazza finanziaria</name>
         <name lang="rm">Plazza da finanzas</name>
+        <name lang="de">Finanzplatz</name>
       </topic>
       <topic id="639">
         <name lang="it">Mercato finanziario</name>
@@ -209,11 +209,11 @@
         <name lang="fr">Marché financier</name>
       </topic>
       <topic id="47">
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
     </topics>
     <offers/>

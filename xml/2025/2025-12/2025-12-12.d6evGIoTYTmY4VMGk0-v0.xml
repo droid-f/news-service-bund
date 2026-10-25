@@ -6,16 +6,16 @@
     <pubdate>2025-12-12</pubdate>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="de">https://www.eda.admin.ch</www>
-      <www lang="en">https://www.eda.admin.ch/en</www>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
@@ -24,11 +24,11 @@
     </originator>
     <originator id="101" department-msg="no" lead="no" topnews="no">
       <department-id>101</department-id>
+      <www lang="rm">https://www.bk.admin.ch/bk/rm/home.html</www>
+      <www lang="de">https://www.bk.admin.ch</www>
       <www lang="en">https://www.bk.admin.ch/bk/en/home.html</www>
       <www lang="fr">https://www.bk.admin.ch/bk/fr/home.html</www>
       <www lang="it">https://www.bk.admin.ch/bk/it/home.html</www>
-      <www lang="rm">https://www.bk.admin.ch/bk/rm/home.html</www>
-      <www lang="de">https://www.bk.admin.ch</www>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
@@ -40,11 +40,11 @@
     </originator>
     <originator id="501" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
+      <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -67,21 +67,21 @@
     </originator>
     <keywords/>
     <department id="401">
+      <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
-      <name lang="fr">Département fédéral de justice et police</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
-      <email lang="en">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -117,11 +117,11 @@
     </content>
     <topics>
       <topic id="36">
-        <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
-        <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
         <name lang="it">Digitalizzazione, comunicazione e media</name>
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
+        <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
+        <name lang="en">Digitalisation, Communication &amp; Media</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

@@ -16,24 +16,24 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="6289" org-id="201">
+        <name lang="de">Demokratische Republik Kongo</name>
         <name lang="en">Democratic Republic of the Congo</name>
         <name lang="fr">République démocratique du Congo</name>
         <name lang="it">Repubblica democratica del Congo</name>
-        <name lang="de">Demokratische Republik Kongo</name>
       </keyword>
       <keyword id="6289" org-id="201">
-        <name lang="it">Repubblica democratica del Congo</name>
         <name lang="de">Demokratische Republik Kongo</name>
         <name lang="en">Democratic Republic of the Congo</name>
         <name lang="fr">République démocratique du Congo</name>
+        <name lang="it">Repubblica democratica del Congo</name>
       </keyword>
       <keyword id="6289" org-id="201">
         <name lang="de">Demokratische Republik Kongo</name>
@@ -82,11 +82,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
-        <name lang="fr">Étranger</name>
       </topic>
       <topic id="409">
         <name lang="de">Entwicklungszusammenarbeit</name>
@@ -96,17 +96,17 @@
         <name lang="rm">Cooperaziun al svilup</name>
       </topic>
       <topic id="16">
-        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
+        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="103">
-        <name lang="fr">Relations extérieures</name>
-        <name lang="it">Relazioni esterne</name>
         <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
+        <name lang="fr">Relations extérieures</name>
+        <name lang="it">Relazioni esterne</name>
       </topic>
     </topics>
     <offers/>

@@ -6,11 +6,11 @@
     <pubdate>2025-12-18</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -30,10 +30,10 @@
         <name lang="it">Missione presso l'ONU a Ginevra</name>
       </keyword>
       <keyword id="6048" org-id="201">
-        <name lang="it">Missione presso l'ONU a Ginevra</name>
         <name lang="de">Mission bei der UNO in Genf</name>
         <name lang="en">Mission to the UN in Geneva</name>
         <name lang="fr">Mission auprès de l'ONU à Genève</name>
+        <name lang="it">Missione presso l'ONU a Ginevra</name>
       </keyword>
       <keyword id="6048" org-id="201">
         <name lang="de">Mission bei der UNO in Genf</name>
@@ -82,45 +82,45 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
       </topic>
       <topic id="411">
-        <name lang="it">Organizzazioni internazionali</name>
-        <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
+        <name lang="it">Organizzazioni internazionali</name>
+        <name lang="rm">Organisaziuns internaziunalas</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
+        <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
-        <name lang="en">Foreign policy</name>
       </topic>
       <topic id="40">
-        <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
       <topic id="23">
-        <name lang="it">Diritti politici</name>
-        <name lang="rm">Dretgs politics</name>
         <name lang="de">Politische Rechte</name>
         <name lang="en">Political rights</name>
         <name lang="fr">Droits politiques</name>
+        <name lang="it">Diritti politici</name>
+        <name lang="rm">Dretgs politics</name>
       </topic>
       <topic id="110">
-        <name lang="it">Sicurezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
       </topic>
       <topic id="104">
         <name lang="de">Gerichtsbarkeit</name>
@@ -129,10 +129,10 @@
         <name lang="it">Giurisdizione</name>
       </topic>
       <topic id="103">
+        <name lang="it">Relazioni esterne</name>
         <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
-        <name lang="it">Relazioni esterne</name>
       </topic>
     </topics>
     <offers/>

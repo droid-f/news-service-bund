@@ -6,16 +6,16 @@
     <pubdate>2026-06-08</pubdate>
     <originator id="1082" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
+      <name lang="en">Federal Mint Swissmint</name>
       <name lang="fr">Monnaie fédérale Swissmint</name>
       <name lang="it">Zecca federale Swissmint</name>
       <name lang="rm">Munaidaria federala Swissmint</name>
       <name lang="de">Eidgenössische Münzstätte Swissmint</name>
-      <name lang="en">Federal Mint Swissmint</name>
+      <www lang="de">https://www.swissmint.ch/de</www>
       <www lang="en">https://www.swissmint.ch/en</www>
       <www lang="fr">https://www.swissmint.ch/fr</www>
       <www lang="it">https://www.swissmint.ch/it</www>
       <www lang="rm">https://www.swissmint.ch/de</www>
-      <www lang="de">https://www.swissmint.ch/de</www>
       <email lang="de">info@swissmint.ch</email>
       <email lang="en">info@swissmint.ch</email>
       <email lang="fr">info@swissmint.ch</email>
@@ -24,16 +24,16 @@
     </originator>
     <keywords/>
     <department id="601">
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
-      <www lang="fr">https://www.efd.admin.ch/fr</www>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
@@ -81,10 +81,10 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="114">
-        <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
         <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
       </topic>
     </topics>
     <offers/>

@@ -6,16 +6,16 @@
     <pubdate>2026-01-28</pubdate>
     <originator id="805" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="it">Ufficio federale dei trasporti</name>
-      <name lang="rm">Uffizi federal da traffic</name>
       <name lang="de">Bundesamt für Verkehr</name>
       <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
-      <www lang="fr">http://www.bav.admin.ch/</www>
-      <www lang="it">http://www.bav.admin.ch/</www>
+      <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="rm">Uffizi federal da traffic</name>
       <www lang="rm">http://www.bav.admin.ch/</www>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
+      <www lang="fr">http://www.bav.admin.ch/</www>
+      <www lang="it">http://www.bav.admin.ch/</www>
       <email lang="de">presse@bav.admin.ch</email>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
@@ -24,29 +24,29 @@
     </originator>
     <originator id="809" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="rm">Uffizi federal da vias</name>
       <name lang="de">Bundesamt für Strassen</name>
       <name lang="en">Federal Roads Office</name>
       <name lang="fr">Office fédéral des routes</name>
       <name lang="it">Ufficio federale delle strade</name>
+      <name lang="rm">Uffizi federal da vias</name>
       <www lang="de">https://www.astra.admin.ch/de/</www>
       <www lang="en">https://www.astra.admin.ch/en/</www>
       <www lang="fr">https://www.astra.admin.ch/fr/</www>
       <www lang="it">https://www.astra.admin.ch/it/</www>
       <www lang="rm">https://www.astra.admin.ch/de/</www>
-      <email lang="de">media@astra.admin.ch</email>
       <email lang="en">media@astra.admin.ch</email>
       <email lang="fr">media@astra.admin.ch</email>
       <email lang="it">media@astra.admin.ch</email>
       <email lang="rm">media@astra.admin.ch</email>
+      <email lang="de">media@astra.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
     </originator>
     <originator id="801" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
@@ -55,52 +55,52 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </originator>
     <originator id="812" department-msg="no" lead="no" topnews="no">
       <department-id>801</department-id>
-      <name lang="en">Federal Office for Spatial Development</name>
       <name lang="fr">Office fédéral du développement territorial</name>
       <name lang="it">Ufficio federale dello sviluppo territoriale</name>
       <name lang="rm">Uffizi federal da svilup dal territori</name>
       <name lang="de">Bundesamt für Raumentwicklung</name>
+      <name lang="en">Federal Office for Spatial Development</name>
+      <www lang="rm">https://www.are.admin.ch/de</www>
       <www lang="de">https://www.are.admin.ch/de</www>
       <www lang="en">https://www.are.admin.ch/en</www>
       <www lang="fr">https://www.are.admin.ch/fr</www>
       <www lang="it">https://www.are.admin.ch/it</www>
-      <www lang="rm">https://www.are.admin.ch/de</www>
-      <email lang="de">media@are.admin.ch</email>
       <email lang="en">media@are.admin.ch</email>
       <email lang="fr">media@are.admin.ch</email>
       <email lang="it">media@are.admin.ch</email>
       <email lang="rm">media@are.admin.ch</email>
+      <email lang="de">media@are.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -128,25 +128,25 @@
     </content>
     <topics>
       <topic id="628">
-        <name lang="it">Infrastruttura per i trasporti</name>
-        <name lang="rm">Infrastructura dal traffic</name>
         <name lang="de">Verkehrsinfrastruktur</name>
         <name lang="en">Transport infrastructure</name>
         <name lang="fr">Infrastructures de transport</name>
+        <name lang="it">Infrastruttura per i trasporti</name>
+        <name lang="rm">Infrastructura dal traffic</name>
       </topic>
       <topic id="627">
-        <name lang="rm">Traffic sin via</name>
         <name lang="de">Strassenverkehr</name>
         <name lang="en">Road traffic</name>
         <name lang="fr">Circulation routière</name>
         <name lang="it">Circolazione stradale</name>
+        <name lang="rm">Traffic sin via</name>
       </topic>
       <topic id="622">
+        <name lang="it">Mobilità lenta</name>
+        <name lang="rm">Traffic betg motorisà</name>
         <name lang="de">Langsamverkehr</name>
         <name lang="en">Non-motorised transport</name>
         <name lang="fr">Mobilité douce</name>
-        <name lang="it">Mobilità lenta</name>
-        <name lang="rm">Traffic betg motorisà</name>
       </topic>
       <topic id="621">
         <name lang="de">Öffentlicher Verkehr</name>
@@ -156,18 +156,18 @@
         <name lang="rm">Traffic public</name>
       </topic>
       <topic id="620">
+        <name lang="it">Trasporto di merci</name>
+        <name lang="rm">Transport da rauba</name>
         <name lang="de">Güterverkehr</name>
         <name lang="en">Freight services</name>
         <name lang="fr">Transport de marchandises</name>
-        <name lang="it">Trasporto di merci</name>
-        <name lang="rm">Transport da rauba</name>
       </topic>
       <topic id="508">
-        <name lang="rm">Aglomeraziuns</name>
         <name lang="de">Agglomerationen</name>
         <name lang="en">Agglomerations</name>
         <name lang="fr">Agglomérations</name>
         <name lang="it">Agglomerati</name>
+        <name lang="rm">Aglomeraziuns</name>
       </topic>
       <topic id="46">
         <name lang="de">Verkehr &amp; Mobilität</name>
@@ -177,18 +177,18 @@
         <name lang="rm">Traffic e mobilitad</name>
       </topic>
       <topic id="25">
-        <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
         <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
+        <name lang="fr">Aménagement du territoire et développement territorial</name>
       </topic>
       <topic id="10">
-        <name lang="it">Consiglio federale</name>
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

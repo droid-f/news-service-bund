@@ -16,11 +16,11 @@
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="5885" org-id="201">
@@ -36,16 +36,16 @@
         <name lang="it">Sudan</name>
       </keyword>
       <keyword id="5885" org-id="201">
-        <name lang="fr">Soudan</name>
-        <name lang="it">Sudan</name>
         <name lang="de">Sudan</name>
         <name lang="en">Sudan</name>
+        <name lang="fr">Soudan</name>
+        <name lang="it">Sudan</name>
       </keyword>
       <keyword id="5885" org-id="201">
-        <name lang="de">Sudan</name>
-        <name lang="en">Sudan</name>
         <name lang="fr">Soudan</name>
         <name lang="it">Sudan</name>
+        <name lang="de">Sudan</name>
+        <name lang="en">Sudan</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,18 +82,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
-        <name lang="fr">Étranger</name>
       </topic>
       <topic id="110">
-        <name lang="de">Krisen</name>
         <name lang="en">Crises</name>
         <name lang="fr">Crises</name>
         <name lang="it">Crisi</name>
         <name lang="rm">Crisas</name>
+        <name lang="de">Krisen</name>
       </topic>
       <topic id="409">
         <name lang="it">Cooperazione allo sviluppo</name>
@@ -110,17 +110,17 @@
         <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="30">
+        <name lang="it">Situazioni straordinarie, crisi</name>
+        <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
-        <name lang="it">Situazioni straordinarie, crisi</name>
-        <name lang="rm">Situaziuns extraordinarias, crisas</name>
       </topic>
       <topic id="103">
-        <name lang="it">Relazioni esterne</name>
         <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
+        <name lang="it">Relazioni esterne</name>
       </topic>
     </topics>
     <offers/>

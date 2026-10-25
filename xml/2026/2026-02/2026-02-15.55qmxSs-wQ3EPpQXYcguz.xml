@@ -6,28 +6,46 @@
     <pubdate>2026-02-15</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-100" org-id="401">
+        <name lang="it">Politica di sicurezza</name>
         <name lang="de">Sicherheitspolitik</name>
         <name lang="en">Security policy</name>
         <name lang="fr">Politique de sécurité</name>
+      </keyword>
+      <keyword id="SLW-78" org-id="401">
+        <name lang="it">Polizia</name>
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
+        <name lang="fr">Police</name>
+      </keyword>
+      <keyword id="SLW-123" org-id="401">
+        <name lang="de">Zusammenarbeit</name>
+        <name lang="en">Cooperation</name>
+        <name lang="fr">Coopération</name>
+        <name lang="it">Cooperazione</name>
+      </keyword>
+      <keyword id="SLW-100" org-id="401">
+        <name lang="en">Security policy</name>
+        <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
+        <name lang="de">Sicherheitspolitik</name>
       </keyword>
       <keyword id="SLW-78" org-id="401">
         <name lang="de">Polizei</name>
@@ -58,24 +76,6 @@
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
-      </keyword>
-      <keyword id="SLW-100" org-id="401">
-        <name lang="de">Sicherheitspolitik</name>
-        <name lang="en">Security policy</name>
-        <name lang="fr">Politique de sécurité</name>
-        <name lang="it">Politica di sicurezza</name>
-      </keyword>
-      <keyword id="SLW-78" org-id="401">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
-        <name lang="fr">Police</name>
-        <name lang="it">Polizia</name>
-      </keyword>
-      <keyword id="SLW-123" org-id="401">
-        <name lang="en">Cooperation</name>
-        <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
-        <name lang="de">Zusammenarbeit</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -104,11 +104,11 @@
     </content>
     <topics>
       <topic id="40">
+        <name lang="it">Sicurezza</name>
+        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
       </topic>
     </topics>
     <offers/>

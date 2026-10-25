@@ -6,31 +6,31 @@
     <pubdate>2026-01-12</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
       <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
-      <name lang="it">Segreteria di Stato della migrazione</name>
-      <name lang="rm">Secretariat da stadi per migraziun</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-10" org-id="405">
+        <name lang="de">Asylunterkunft</name>
         <name lang="en">Accommodation for asylum seekers</name>
         <name lang="fr">Hébergement pour requérants d’asile</name>
         <name lang="it">Alloggio per richiedenti l’asilo</name>
-        <name lang="de">Asylunterkunft</name>
       </keyword>
       <keyword id="SLW-10" org-id="405">
+        <name lang="de">Asylunterkunft</name>
         <name lang="en">Accommodation for asylum seekers</name>
         <name lang="fr">Hébergement pour requérants d’asile</name>
         <name lang="it">Alloggio per richiedenti l’asilo</name>
-        <name lang="de">Asylunterkunft</name>
       </keyword>
       <keyword id="SLW-10" org-id="405">
-        <name lang="en">Accommodation for asylum seekers</name>
         <name lang="fr">Hébergement pour requérants d’asile</name>
         <name lang="it">Alloggio per richiedenti l’asilo</name>
         <name lang="de">Asylunterkunft</name>
+        <name lang="en">Accommodation for asylum seekers</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -76,25 +76,25 @@
     </content>
     <topics>
       <topic id="4">
-        <name lang="en">Asylum</name>
-        <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="rm">Asil</name>
         <name lang="de">Asyl</name>
+        <name lang="en">Asylum</name>
+        <name lang="fr">Asile</name>
       </topic>
       <topic id="24">
+        <name lang="rm">Acquisiziuns publicas</name>
         <name lang="de">Öffentliche Beschaffung</name>
         <name lang="en">Public procurement</name>
         <name lang="fr">Marchés publics</name>
         <name lang="it">Acquisti pubblici</name>
-        <name lang="rm">Acquisiziuns publicas</name>
       </topic>
       <topic id="20">
-        <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
         <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
+        <name lang="rm">Migraziun ed integraziun</name>
       </topic>
     </topics>
     <offers/>

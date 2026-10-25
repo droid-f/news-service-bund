@@ -16,24 +16,24 @@
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
+      <email lang="it">medien@seco.admin.ch</email>
+      <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
-      <email lang="it">medien@seco.admin.ch</email>
-      <email lang="rm">medien@seco.admin.ch</email>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
@@ -42,21 +42,21 @@
     </originator>
     <keywords/>
     <department id="701">
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -84,25 +84,25 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
       </topic>
       <topic id="104">
+        <name lang="rm">Guy Parmelin</name>
         <name lang="de">Guy Parmelin</name>
         <name lang="en">Guy Parmelin</name>
         <name lang="fr">Guy Parmelin</name>
         <name lang="it">Guy Parmelin</name>
-        <name lang="rm">Guy Parmelin</name>
       </topic>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="634">
         <name lang="de">Aussenwirtschaft</name>
@@ -112,18 +112,18 @@
         <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="88">
+        <name lang="de">Bilaterale Abkommen</name>
         <name lang="en">Bilateral agreements</name>
         <name lang="fr">Accords bilatéraux</name>
         <name lang="it">Accordi bilaterali</name>
         <name lang="rm">Cunvegnas bilateralas</name>
-        <name lang="de">Bilaterale Abkommen</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
+        <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
-        <name lang="en">Foreign policy</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>

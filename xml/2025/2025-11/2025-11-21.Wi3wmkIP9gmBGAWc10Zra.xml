@@ -6,11 +6,11 @@
     <pubdate>2025-11-21</pubdate>
     <originator id="606" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <name lang="en">Federal Office for Customs and Border Security</name>
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
       <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
+      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
@@ -35,10 +35,10 @@
         <name lang="it">veicolo</name>
       </keyword>
       <keyword id="315" org-id="606">
+        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
-        <name lang="de">Firmen</name>
       </keyword>
       <keyword id="317" org-id="606">
         <name lang="de">Inland</name>
@@ -47,16 +47,16 @@
         <name lang="it">sul territorio svizzero</name>
       </keyword>
       <keyword id="279" org-id="606">
-        <name lang="fr">véhicule</name>
-        <name lang="it">veicolo</name>
         <name lang="de">Fahrzeug</name>
         <name lang="en">vehicle</name>
+        <name lang="fr">véhicule</name>
+        <name lang="it">veicolo</name>
       </keyword>
       <keyword id="315" org-id="606">
-        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
+        <name lang="de">Firmen</name>
       </keyword>
       <keyword id="317" org-id="606">
         <name lang="de">Inland</name>
@@ -65,10 +65,10 @@
         <name lang="it">sul territorio svizzero</name>
       </keyword>
       <keyword id="279" org-id="606">
+        <name lang="fr">véhicule</name>
         <name lang="it">veicolo</name>
         <name lang="de">Fahrzeug</name>
         <name lang="en">vehicle</name>
-        <name lang="fr">véhicule</name>
       </keyword>
       <keyword id="315" org-id="606">
         <name lang="de">Firmen</name>
@@ -78,21 +78,21 @@
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="en">media@gs-efd.admin.ch</email>
+      <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
-      <email lang="en">media@gs-efd.admin.ch</email>
-      <email lang="fr">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -120,11 +120,11 @@
     </content>
     <topics>
       <topic id="48">
+        <name lang="it">Dogane</name>
+        <name lang="rm">Duana</name>
         <name lang="de">Zoll</name>
         <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
-        <name lang="it">Dogane</name>
-        <name lang="rm">Duana</name>
       </topic>
     </topics>
     <offers/>

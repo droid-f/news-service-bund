@@ -25,11 +25,11 @@
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
+      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
-      <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -38,10 +38,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-64" org-id="401">
+        <name lang="en">Credit and debt</name>
         <name lang="fr">Crédit et dettes</name>
         <name lang="it">Credito e debiti</name>
         <name lang="de">Kredit und Schulden</name>
-        <name lang="en">Credit and debt</name>
       </keyword>
       <keyword id="SLW-64" org-id="401">
         <name lang="de">Kredit und Schulden</name>
@@ -50,28 +50,28 @@
         <name lang="it">Credito e debiti</name>
       </keyword>
       <keyword id="SLW-64" org-id="401">
-        <name lang="de">Kredit und Schulden</name>
-        <name lang="en">Credit and debt</name>
         <name lang="fr">Crédit et dettes</name>
         <name lang="it">Credito e debiti</name>
+        <name lang="de">Kredit und Schulden</name>
+        <name lang="en">Credit and debt</name>
       </keyword>
     </keywords>
     <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -99,11 +99,11 @@
     </content>
     <topics>
       <topic id="26">
-        <name lang="rm">Dretg</name>
-        <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
+        <name lang="rm">Dretg</name>
+        <name lang="de">Recht</name>
       </topic>
     </topics>
     <offers/>

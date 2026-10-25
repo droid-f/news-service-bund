@@ -24,9 +24,9 @@
         <name lang="it">Politica dell'alloggio</name>
       </keyword>
       <keyword id="SLW-0001" org-id="708">
-        <name lang="de">Mietrecht</name>
         <name lang="fr">Droit du bail</name>
         <name lang="it">Diritto di locazione</name>
+        <name lang="de">Mietrecht</name>
       </keyword>
       <keyword id="SLW-0003" org-id="708">
         <name lang="de">Wohnungspolitik</name>
@@ -34,9 +34,9 @@
         <name lang="it">Politica dell'alloggio</name>
       </keyword>
       <keyword id="SLW-0001" org-id="708">
-        <name lang="de">Mietrecht</name>
         <name lang="fr">Droit du bail</name>
         <name lang="it">Diritto di locazione</name>
+        <name lang="de">Mietrecht</name>
       </keyword>
       <keyword id="SLW-0003" org-id="708">
         <name lang="de">Wohnungspolitik</name>
@@ -44,27 +44,27 @@
         <name lang="it">Politica dell'alloggio</name>
       </keyword>
       <keyword id="SLW-0001" org-id="708">
+        <name lang="it">Diritto di locazione</name>
         <name lang="de">Mietrecht</name>
         <name lang="fr">Droit du bail</name>
-        <name lang="it">Diritto di locazione</name>
       </keyword>
     </keywords>
     <department id="701">
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
-      <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -92,25 +92,25 @@
     </content>
     <topics>
       <topic id="512">
-        <name lang="rm">Fatgs d'abitaziuns</name>
         <name lang="de">Wohnungswesen</name>
         <name lang="en">Housing</name>
         <name lang="fr">Logement</name>
         <name lang="it">Abitazioni</name>
+        <name lang="rm">Fatgs d'abitaziuns</name>
       </topic>
       <topic id="481">
+        <name lang="rm">Abitar</name>
         <name lang="de">Wohnen</name>
         <name lang="en">Housing</name>
         <name lang="fr">Logement</name>
         <name lang="it">Abitazione</name>
-        <name lang="rm">Abitar</name>
       </topic>
       <topic id="25">
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
       </topic>
     </topics>
     <offers/>

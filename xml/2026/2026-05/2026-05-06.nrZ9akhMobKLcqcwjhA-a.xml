@@ -6,11 +6,11 @@
     <pubdate>2026-05-06</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="605" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
@@ -19,11 +19,11 @@
       <name lang="fr">Administration fédérale des contributions</name>
       <name lang="it">Amministrazione federale delle contribuzioni</name>
       <name lang="rm">Administraziun federala da taglia</name>
+      <www lang="rm">https://www.estv.admin.ch/de</www>
       <www lang="de">https://www.estv.admin.ch/de</www>
       <www lang="en">https://www.estv.admin.ch/en</www>
       <www lang="fr">https://www.estv.admin.ch/fr</www>
       <www lang="it">https://www.estv.admin.ch/it</www>
-      <www lang="rm">https://www.estv.admin.ch/de</www>
       <email lang="rm">media@estv.admin.ch</email>
       <email lang="de">media@estv.admin.ch</email>
       <email lang="en">media@estv.admin.ch</email>
@@ -41,11 +41,11 @@
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
       <www lang="it">https://www.sif.admin.ch/it</www>
+      <email lang="de">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
       <email lang="fr">info@sif.admin.ch</email>
       <email lang="it">info@sif.admin.ch</email>
       <email lang="rm">info@sif.admin.ch</email>
-      <email lang="de">info@sif.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
@@ -59,11 +59,11 @@
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -91,18 +91,18 @@
     </content>
     <topics>
       <topic id="291">
+        <name lang="en">Financial centre</name>
         <name lang="fr">Place financière</name>
         <name lang="it">Piazza finanziaria</name>
         <name lang="rm">Plazza da finanzas</name>
         <name lang="de">Finanzplatz</name>
-        <name lang="en">Financial centre</name>
       </topic>
       <topic id="47">
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="44">
         <name lang="de">Steuern</name>
@@ -112,11 +112,11 @@
         <name lang="rm">Taglias</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
       </topic>
     </topics>
     <offers/>

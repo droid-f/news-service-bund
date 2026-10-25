@@ -6,11 +6,11 @@
     <pubdate>2026-06-11</pubdate>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="rm">Gruppa da defensiun</name>
+      <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
-      <name lang="rm">Gruppa da defensiun</name>
-      <name lang="de">Gruppe Verteidigung</name>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
@@ -29,11 +29,11 @@
       <name lang="fr">Office fédéral du développement territorial</name>
       <name lang="it">Ufficio federale dello sviluppo territoriale</name>
       <name lang="rm">Uffizi federal da svilup dal territori</name>
+      <www lang="fr">https://www.are.admin.ch/fr</www>
       <www lang="it">https://www.are.admin.ch/it</www>
       <www lang="rm">https://www.are.admin.ch/de</www>
       <www lang="de">https://www.are.admin.ch/de</www>
       <www lang="en">https://www.are.admin.ch/en</www>
-      <www lang="fr">https://www.are.admin.ch/fr</www>
       <email lang="de">media@are.admin.ch</email>
       <email lang="en">media@are.admin.ch</email>
       <email lang="fr">media@are.admin.ch</email>
@@ -55,15 +55,15 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
-      <www lang="de">http://www.vbs.admin.ch/</www>
+      <name lang="fr">Secrétariat général du DDPS</name>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
@@ -72,16 +72,16 @@
     </originator>
     <keywords/>
     <department id="801">
-      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
-      <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
@@ -94,11 +94,11 @@
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -129,25 +129,25 @@
         <name lang="de">Armee</name>
       </topic>
       <topic id="346">
-        <name lang="it">Piani settoriali della Confederazione</name>
         <name lang="rm">Plans sectorials da la Confederaziun</name>
         <name lang="de">Sachpläne des Bundes</name>
         <name lang="en">Federal sectoral plans</name>
         <name lang="fr">Plans sectoriels de la Confédération</name>
+        <name lang="it">Piani settoriali della Confederazione</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
       <topic id="25">
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
         <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
       </topic>
     </topics>
     <offers/>

@@ -6,28 +6,28 @@
     <pubdate>2026-06-30</pubdate>
     <originator id="1040" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="fr">Institut fédéral de recherches sur la forêt, la neige et le paysage</name>
-      <name lang="it">Istituto federale di ricerca per la foresta, la neve e il paesaggio</name>
       <name lang="rm">Institut federal per la perscrutaziun da guaud, naiv e cuntrada</name>
       <name lang="de">Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft</name>
       <name lang="en">Swiss Federal Institute for Forest, Snow and Landscape Research</name>
+      <name lang="fr">Institut fédéral de recherches sur la forêt, la neige et le paysage</name>
+      <name lang="it">Istituto federale di ricerca per la foresta, la neve e il paesaggio</name>
       <www lang="it">https://www.wsl.ch/it</www>
       <www lang="de">https://www.wsl.ch/de</www>
       <www lang="en">https://www.wsl.ch/en</www>
       <www lang="fr">https://www.wsl.ch/fr</www>
+      <email lang="en">beate.kittl@wsl.ch</email>
+      <email lang="fr">beate.kittl@wsl.ch</email>
       <email lang="it">beate.kittl@wsl.ch</email>
       <email lang="rm">beate.kittl@wsl.ch</email>
       <email lang="de">beate.kittl@wsl.ch</email>
-      <email lang="en">beate.kittl@wsl.ch</email>
-      <email lang="fr">beate.kittl@wsl.ch</email>
     </originator>
     <keywords/>
     <department id="701">
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
@@ -65,25 +65,25 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="243">
+        <name lang="de">Landschaft &amp; Biodiversität</name>
+        <name lang="en">Landscape &amp; Biodiversity</name>
         <name lang="fr">Paysage et biodiversité</name>
         <name lang="it">Paesaggio e biodiversità</name>
         <name lang="rm">Cuntrada e biodiversitad</name>
-        <name lang="de">Landschaft &amp; Biodiversität</name>
-        <name lang="en">Landscape &amp; Biodiversity</name>
       </topic>
       <topic id="607">
-        <name lang="rm">Protecziun da la cuntrada</name>
         <name lang="de">Landschaftsschutz</name>
         <name lang="en">Landscape conservation</name>
         <name lang="fr">Protection du paysage</name>
         <name lang="it">Protezione del paesaggio</name>
+        <name lang="rm">Protecziun da la cuntrada</name>
       </topic>
       <topic id="135">
         <name lang="de">Raumkonzept Schweiz</name>
@@ -93,18 +93,18 @@
         <name lang="rm">Concept dal territori Svizra</name>
       </topic>
       <topic id="9">
-        <name lang="it">Scienza</name>
-        <name lang="rm">Scienza</name>
         <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
+        <name lang="it">Scienza</name>
+        <name lang="rm">Scienza</name>
       </topic>
       <topic id="25">
-        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
-        <name lang="en">Spatial planning &amp; spatial development</name>
         <name lang="fr">Aménagement du territoire et développement territorial</name>
         <name lang="it">Pianificazione e sviluppo del territorio</name>
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
+        <name lang="de">Raumplanung &amp; Raumentwicklung</name>
+        <name lang="en">Spatial planning &amp; spatial development</name>
       </topic>
     </topics>
     <offers/>

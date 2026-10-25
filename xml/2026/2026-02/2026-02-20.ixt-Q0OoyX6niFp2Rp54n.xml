@@ -6,31 +6,31 @@
     <pubdate>2026-02-20</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="it">Segreteria di Stato della migrazione</name>
+      <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
       <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
-      <name lang="it">Segreteria di Stato della migrazione</name>
-      <name lang="rm">Secretariat da stadi per migraziun</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-15" org-id="405">
-        <name lang="it">Statistica degli stranieri</name>
         <name lang="de">Ausländerstatistik</name>
         <name lang="en">Foreign population statistics</name>
         <name lang="fr">Statistique des étrangers</name>
-      </keyword>
-      <keyword id="SLW-15" org-id="405">
-        <name lang="fr">Statistique des étrangers</name>
         <name lang="it">Statistica degli stranieri</name>
-        <name lang="de">Ausländerstatistik</name>
-        <name lang="en">Foreign population statistics</name>
       </keyword>
       <keyword id="SLW-15" org-id="405">
         <name lang="de">Ausländerstatistik</name>
         <name lang="en">Foreign population statistics</name>
         <name lang="fr">Statistique des étrangers</name>
         <name lang="it">Statistica degli stranieri</name>
+      </keyword>
+      <keyword id="SLW-15" org-id="405">
+        <name lang="it">Statistica degli stranieri</name>
+        <name lang="de">Ausländerstatistik</name>
+        <name lang="en">Foreign population statistics</name>
+        <name lang="fr">Statistique des étrangers</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -44,11 +44,11 @@
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna-Wabern</city>
@@ -76,11 +76,11 @@
     </content>
     <topics>
       <topic id="102">
-        <name lang="de">Einwanderung</name>
-        <name lang="en">Immigration</name>
         <name lang="fr">Immigration</name>
         <name lang="it">Immigrazione</name>
         <name lang="rm">Immigraziun</name>
+        <name lang="de">Einwanderung</name>
+        <name lang="en">Immigration</name>
       </topic>
       <topic id="20">
         <name lang="de">Migration &amp; Integration</name>

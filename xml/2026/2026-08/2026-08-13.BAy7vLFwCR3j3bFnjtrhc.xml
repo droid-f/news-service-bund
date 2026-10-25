@@ -6,21 +6,21 @@
     <pubdate>2026-08-13</pubdate>
     <originator id="810" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Kommunikation</name>
-      <name lang="en">Federal Office of Communications</name>
       <name lang="fr">Office fédéral de la communication</name>
       <name lang="it">Ufficio federale delle comunicazioni</name>
       <name lang="rm">Uffizi federal da communicaziun</name>
-      <www lang="it">http://www.bakom.admin.ch/it</www>
-      <www lang="rm">http://www.bakom.admin.ch/rm</www>
+      <name lang="de">Bundesamt für Kommunikation</name>
+      <name lang="en">Federal Office of Communications</name>
       <www lang="de">http://www.bakom.admin.ch/</www>
       <www lang="en">http://www.bakom.admin.ch/en</www>
       <www lang="fr">http://www.bakom.admin.ch/fr</www>
-      <email lang="rm">media@bakom.admin.ch</email>
+      <www lang="it">http://www.bakom.admin.ch/it</www>
+      <www lang="rm">http://www.bakom.admin.ch/rm</www>
       <email lang="de">media@bakom.admin.ch</email>
       <email lang="en">media@bakom.admin.ch</email>
       <email lang="fr">media@bakom.admin.ch</email>
       <email lang="it">media@bakom.admin.ch</email>
+      <email lang="rm">media@bakom.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
@@ -34,11 +34,11 @@
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Biel/Bienne</city>
@@ -66,11 +66,11 @@
     </content>
     <topics>
       <topic id="28">
-        <name lang="en">Telecommunications</name>
-        <name lang="fr">Télécommunications</name>
         <name lang="it">Telecomunicazione</name>
         <name lang="rm">Telecommunicaziun</name>
         <name lang="de">Telekommunikation</name>
+        <name lang="en">Telecommunications</name>
+        <name lang="fr">Télécommunications</name>
       </topic>
       <topic id="66">
         <name lang="it">Politica dei mezzi di comunicazione</name>
@@ -80,18 +80,18 @@
         <name lang="fr">Politique des médias</name>
       </topic>
       <topic id="453">
+        <name lang="fr">Technologies de l’information et de la communication (TIC)</name>
+        <name lang="it">Tecnologie dell’informazione e della comunicazione (TIC)</name>
         <name lang="rm">Tecnologia d'infurmaziun e da communicaziun (ICT)</name>
         <name lang="de">Informations- und Kommunikationstechnologie (IKT)</name>
         <name lang="en">Information and Communication Technologies (ICT).</name>
-        <name lang="fr">Technologies de l’information et de la communication (TIC)</name>
-        <name lang="it">Tecnologie dell’informazione e della comunicazione (TIC)</name>
       </topic>
       <topic id="451">
-        <name lang="de">Frequenzen</name>
-        <name lang="en">Frequencies</name>
         <name lang="fr">Fréquences</name>
         <name lang="it">Frequenze</name>
         <name lang="rm">Frequenzas</name>
+        <name lang="de">Frequenzen</name>
+        <name lang="en">Frequencies</name>
       </topic>
       <topic id="36">
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>

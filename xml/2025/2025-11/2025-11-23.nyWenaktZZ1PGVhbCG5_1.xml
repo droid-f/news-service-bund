@@ -6,49 +6,49 @@
     <pubdate>2025-11-23</pubdate>
     <originator id="1097" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="en">Institute of Virology and Immunology</name>
       <name lang="fr">Institut de virologie et d'immunologie</name>
       <name lang="it">Istituto di virologia e immunologia</name>
       <name lang="rm">Institut da virologia e d'immunologia</name>
       <name lang="de">Institut für Virologie und Immunologie</name>
+      <name lang="en">Institute of Virology and Immunology</name>
       <www lang="it">https://www.ivi.admin.ch/it</www>
       <www lang="de">https://www.ivi.admin.ch</www>
       <www lang="en">https://www.ivi.admin.ch/en</www>
       <www lang="fr">https://www.ivi.admin.ch/fr</www>
+      <email lang="de">communication@ivi.admin.ch</email>
       <email lang="en">communication@ivi.admin.ch</email>
       <email lang="fr">communication@ivi.admin.ch</email>
       <email lang="it">communication@ivi.admin.ch</email>
       <email lang="rm">communication@ivi.admin.ch</email>
-      <email lang="de">communication@ivi.admin.ch</email>
     </originator>
     <originator id="1079" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <name lang="en">Federal Food Safety and Veterinary Office</name>
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
       <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
       <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
+      <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <www lang="de">https://www.blv.admin.ch</www>
       <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
+      <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
-      <email lang="de">media@blv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -76,46 +76,46 @@
     </content>
     <topics>
       <topic id="671">
+        <name lang="de">Tiergesundheit</name>
         <name lang="en">Animal health</name>
         <name lang="fr">Santé animale</name>
         <name lang="it">Salute degli animali</name>
         <name lang="rm">Sanadad d'animals</name>
-        <name lang="de">Tiergesundheit</name>
       </topic>
       <topic id="238">
-        <name lang="de">Tierhaltung</name>
         <name lang="en">Animal husbandry</name>
         <name lang="fr">Détention d’animaux</name>
         <name lang="it">Detenzione di animali</name>
         <name lang="rm">Tegnida d'animals</name>
+        <name lang="de">Tierhaltung</name>
       </topic>
       <topic id="38">
-        <name lang="de">Landwirtschaft</name>
-        <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
         <name lang="rm">Agricultura</name>
+        <name lang="de">Landwirtschaft</name>
+        <name lang="en">Agriculture</name>
       </topic>
       <topic id="615">
-        <name lang="it">Fauna</name>
         <name lang="rm">Animals</name>
         <name lang="de">Tiere</name>
         <name lang="en">Animals</name>
         <name lang="fr">Animaux</name>
+        <name lang="it">Fauna</name>
       </topic>
       <topic id="47">
-        <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
+        <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="21">
+        <name lang="de">Umwelt &amp; Natur</name>
+        <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
-        <name lang="de">Umwelt &amp; Natur</name>
-        <name lang="en">Environment &amp; Nature</name>
       </topic>
     </topics>
     <offers/>

@@ -11,25 +11,65 @@
       <name lang="it">Ufficio federale delle assicurazioni sociali</name>
       <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
       <name lang="de">Bundesamt für Sozialversicherungen</name>
+      <www lang="rm">http://www.bsv.admin.ch/</www>
       <www lang="de">http://www.bsv.admin.ch/</www>
-      <email lang="fr">media@bsv.admin.ch</email>
-      <email lang="it">media@bsv.admin.ch</email>
+      <www lang="en">https://www.bsv.admin.ch/en</www>
+      <www lang="fr">https://www.bsv.admin.ch/fr</www>
+      <www lang="it">https://www.bsv.admin.ch/it</www>
       <email lang="rm">media@bsv.admin.ch</email>
       <email lang="de">media@bsv.admin.ch</email>
       <email lang="en">media@bsv.admin.ch</email>
+      <email lang="fr">media@bsv.admin.ch</email>
+      <email lang="it">media@bsv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-318.2" org-id="319">
+        <name lang="it">AVS</name>
+        <name lang="de">AHV</name>
+        <name lang="en">Old Age Insurance</name>
+        <name lang="fr">AVS</name>
+      </keyword>
+      <keyword id="SLW-318.4" org-id="319">
+        <name lang="de">Berufliche Vorsorge</name>
+        <name lang="en">Occupational Benefit Plan</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+        <name lang="it">Previdenza professionale</name>
+      </keyword>
+      <keyword id="SLW-318.3" org-id="319">
+        <name lang="it">Prestazioni complementari</name>
+        <name lang="de">Ergänzungsleistungen</name>
+        <name lang="en">Supplementary Benefits</name>
+        <name lang="fr">Prestations complémentaires</name>
+      </keyword>
+      <keyword id="SLW-318.6" org-id="319">
+        <name lang="fr">Régime des allocations pour perte de gain</name>
+        <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
+        <name lang="en">Income Compensation</name>
+      </keyword>
+      <keyword id="SLW-318.5" org-id="319">
+        <name lang="de">Invalidenversicherung</name>
+        <name lang="en">Invalidity Insurance</name>
+        <name lang="fr">Assurance-invalidité</name>
+        <name lang="it">Assicurazione invalidità</name>
+      </keyword>
+      <keyword id="SLW-318.1" org-id="319">
+        <name lang="it">Assicurazioni sociali</name>
+        <name lang="de">Sozialversicherung</name>
+        <name lang="en">Social Insurances</name>
+        <name lang="fr">Assurances sociales</name>
+      </keyword>
+      <keyword id="SLW-318.2" org-id="319">
         <name lang="de">AHV</name>
         <name lang="en">Old Age Insurance</name>
         <name lang="fr">AVS</name>
         <name lang="it">AVS</name>
       </keyword>
       <keyword id="SLW-318.4" org-id="319">
-        <name lang="fr">Prévoyance professionnelle</name>
-        <name lang="it">Previdenza professionale</name>
         <name lang="de">Berufliche Vorsorge</name>
         <name lang="en">Occupational Benefit Plan</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+        <name lang="it">Previdenza professionale</name>
       </keyword>
       <keyword id="SLW-318.3" org-id="319">
         <name lang="de">Ergänzungsleistungen</name>
@@ -38,10 +78,10 @@
         <name lang="it">Prestazioni complementari</name>
       </keyword>
       <keyword id="SLW-318.6" org-id="319">
-        <name lang="de">Erwerbsersatzordnung</name>
         <name lang="en">Income Compensation</name>
         <name lang="fr">Régime des allocations pour perte de gain</name>
         <name lang="it">Indennità per perdita di guadagno</name>
+        <name lang="de">Erwerbsersatzordnung</name>
       </keyword>
       <keyword id="SLW-318.5" org-id="319">
         <name lang="en">Invalidity Insurance</name>
@@ -62,52 +102,16 @@
         <name lang="it">AVS</name>
       </keyword>
       <keyword id="SLW-318.4" org-id="319">
-        <name lang="fr">Prévoyance professionnelle</name>
-        <name lang="it">Previdenza professionale</name>
-        <name lang="de">Berufliche Vorsorge</name>
-        <name lang="en">Occupational Benefit Plan</name>
-      </keyword>
-      <keyword id="SLW-318.3" org-id="319">
-        <name lang="de">Ergänzungsleistungen</name>
-        <name lang="en">Supplementary Benefits</name>
-        <name lang="fr">Prestations complémentaires</name>
-        <name lang="it">Prestazioni complementari</name>
-      </keyword>
-      <keyword id="SLW-318.6" org-id="319">
-        <name lang="de">Erwerbsersatzordnung</name>
-        <name lang="en">Income Compensation</name>
-        <name lang="fr">Régime des allocations pour perte de gain</name>
-        <name lang="it">Indennità per perdita di guadagno</name>
-      </keyword>
-      <keyword id="SLW-318.5" org-id="319">
-        <name lang="fr">Assurance-invalidité</name>
-        <name lang="it">Assicurazione invalidità</name>
-        <name lang="de">Invalidenversicherung</name>
-        <name lang="en">Invalidity Insurance</name>
-      </keyword>
-      <keyword id="SLW-318.1" org-id="319">
-        <name lang="de">Sozialversicherung</name>
-        <name lang="en">Social Insurances</name>
-        <name lang="fr">Assurances sociales</name>
-        <name lang="it">Assicurazioni sociali</name>
-      </keyword>
-      <keyword id="SLW-318.2" org-id="319">
-        <name lang="de">AHV</name>
-        <name lang="en">Old Age Insurance</name>
-        <name lang="fr">AVS</name>
-        <name lang="it">AVS</name>
-      </keyword>
-      <keyword id="SLW-318.4" org-id="319">
         <name lang="de">Berufliche Vorsorge</name>
         <name lang="en">Occupational Benefit Plan</name>
         <name lang="fr">Prévoyance professionnelle</name>
         <name lang="it">Previdenza professionale</name>
       </keyword>
       <keyword id="SLW-318.3" org-id="319">
+        <name lang="en">Supplementary Benefits</name>
         <name lang="fr">Prestations complémentaires</name>
         <name lang="it">Prestazioni complementari</name>
         <name lang="de">Ergänzungsleistungen</name>
-        <name lang="en">Supplementary Benefits</name>
       </keyword>
       <keyword id="SLW-318.6" org-id="319">
         <name lang="de">Erwerbsersatzordnung</name>
@@ -122,18 +126,18 @@
         <name lang="it">Assicurazione invalidità</name>
       </keyword>
       <keyword id="SLW-318.1" org-id="319">
-        <name lang="en">Social Insurances</name>
         <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="de">Sozialversicherung</name>
+        <name lang="en">Social Insurances</name>
       </keyword>
     </keywords>
     <department id="301">
-      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -173,11 +177,11 @@
         <name lang="rm">Segirezza sociala</name>
       </topic>
       <topic id="41">
-        <name lang="it">Affari sociali, famiglia e società</name>
-        <name lang="rm">Fatgs socials, famiglia e societad</name>
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
         <name lang="en">Social affairs, family &amp; society</name>
         <name lang="fr">Affaires sociales, famille et société</name>
+        <name lang="it">Affari sociali, famiglia e società</name>
+        <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
     </topics>
     <offers/>

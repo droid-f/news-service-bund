@@ -16,11 +16,11 @@
       <www lang="de">https://www.epa.admin.ch/epa/de/home.html</www>
       <www lang="en">https://www.epa.admin.ch/epa/de/home.html</www>
       <www lang="fr">https://www.epa.admin.ch/epa/fr/home.html</www>
+      <email lang="de">media@epa.admin.ch</email>
       <email lang="en">media@epa.admin.ch</email>
       <email lang="fr">media@epa.admin.ch</email>
       <email lang="it">media@epa.admin.ch</email>
       <email lang="rm">media@epa.admin.ch</email>
-      <email lang="de">media@epa.admin.ch</email>
     </originator>
     <originator id="601" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
@@ -29,29 +29,29 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <www lang="de">https://www.efd.admin.ch</www>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-162" org-id="601">
-        <name lang="de">Löhne, Zulagen, Personalkosten</name>
         <name lang="en">Salaries, allowances, personnel costs</name>
         <name lang="fr">Salaires, allocations, frais de personnel</name>
         <name lang="it">Stipendi, assegni, costi del personale</name>
+        <name lang="de">Löhne, Zulagen, Personalkosten</name>
       </keyword>
       <keyword id="SLW-162" org-id="601">
-        <name lang="en">Salaries, allowances, personnel costs</name>
         <name lang="fr">Salaires, allocations, frais de personnel</name>
         <name lang="it">Stipendi, assegni, costi del personale</name>
         <name lang="de">Löhne, Zulagen, Personalkosten</name>
+        <name lang="en">Salaries, allowances, personnel costs</name>
       </keyword>
       <keyword id="SLW-162" org-id="601">
         <name lang="de">Löhne, Zulagen, Personalkosten</name>
@@ -61,21 +61,21 @@
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="de">media@gs-efd.admin.ch</email>
+      <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
-      <email lang="de">media@gs-efd.admin.ch</email>
-      <email lang="en">media@gs-efd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -103,18 +103,18 @@
     </content>
     <topics>
       <topic id="442">
+        <name lang="it">Interlocutori sociali</name>
+        <name lang="rm">Partenadi social</name>
         <name lang="de">Sozialpartnerschaft</name>
         <name lang="en">Social partnership</name>
         <name lang="fr">Partenariat social</name>
-        <name lang="it">Interlocutori sociali</name>
-        <name lang="rm">Partenadi social</name>
       </topic>
       <topic id="32">
+        <name lang="rm">Persunal da la Confederaziun</name>
         <name lang="de">Bundespersonal</name>
         <name lang="en">Federal Personnel</name>
         <name lang="fr">Personnel de la Confédération</name>
         <name lang="it">Personale della Confederazione</name>
-        <name lang="rm">Persunal da la Confederaziun</name>
       </topic>
     </topics>
     <offers/>

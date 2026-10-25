@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="11075" org-id="201">
@@ -30,22 +30,22 @@
         <name lang="it">Nepal</name>
       </keyword>
       <keyword id="11075" org-id="201">
-        <name lang="en">Nepal</name>
-        <name lang="fr">Népal</name>
-        <name lang="it">Nepal</name>
-        <name lang="de">Nepal</name>
-      </keyword>
-      <keyword id="11075" org-id="201">
         <name lang="de">Nepal</name>
         <name lang="en">Nepal</name>
         <name lang="fr">Népal</name>
         <name lang="it">Nepal</name>
       </keyword>
       <keyword id="11075" org-id="201">
-        <name lang="it">Nepal</name>
         <name lang="de">Nepal</name>
         <name lang="en">Nepal</name>
         <name lang="fr">Népal</name>
+        <name lang="it">Nepal</name>
+      </keyword>
+      <keyword id="11075" org-id="201">
+        <name lang="en">Nepal</name>
+        <name lang="fr">Népal</name>
+        <name lang="it">Nepal</name>
+        <name lang="de">Nepal</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,11 +82,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="6">
         <name lang="fr">Protection de la population</name>
@@ -96,32 +96,32 @@
         <name lang="en">Civil Protection</name>
       </topic>
       <topic id="414">
+        <name lang="de">Katastrophen</name>
         <name lang="en">Disasters</name>
         <name lang="fr">Catastrophes</name>
         <name lang="it">Catastrofi</name>
         <name lang="rm">Catastrofas</name>
-        <name lang="de">Katastrophen</name>
       </topic>
       <topic id="16">
+        <name lang="fr">Politique étrangère</name>
+        <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
-        <name lang="fr">Politique étrangère</name>
-        <name lang="it">Politica estera</name>
       </topic>
       <topic id="40">
+        <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
       </topic>
       <topic id="30">
+        <name lang="en">Extraordinary situations, crises</name>
+        <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
-        <name lang="en">Extraordinary situations, crises</name>
-        <name lang="fr">Situations extraordinaires et crises</name>
       </topic>
       <topic id="110">
         <name lang="de">Sicherheit</name>

@@ -6,11 +6,11 @@
     <pubdate>2026-05-27</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -19,11 +19,11 @@
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
-      <www lang="fr">https://www.edi.admin.ch/fr</www>
     </originator>
     <originator id="1079" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -35,11 +35,11 @@
       <www lang="de">https://www.blv.admin.ch</www>
       <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
       <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
-      <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
+      <email lang="de">media@blv.admin.ch</email>
     </originator>
     <originator id="302" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -48,11 +48,11 @@
       <name lang="fr">Secrétariat général DFI</name>
       <name lang="it">Segreteria generale DFI</name>
       <name lang="rm">Secretariat general dal DFI</name>
+      <www lang="rm">https://www.edi.admin.ch/</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/</www>
       <www lang="fr">www.dfi.admin.ch</www>
       <www lang="it">https://www.edi.admin.ch/</www>
-      <www lang="rm">https://www.edi.admin.ch/</www>
       <email lang="de">media@gs-edi.admin.ch</email>
       <email lang="en">media@gs-edi.admin.ch</email>
       <email lang="fr">media@gs-edi.admin.ch</email>
@@ -61,11 +61,11 @@
     </originator>
     <originator id="705" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
+      <name lang="en">Federal Office for Agriculture</name>
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
-      <name lang="de">Bundesamt für Landwirtschaft</name>
-      <name lang="en">Federal Office for Agriculture</name>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
       <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
@@ -73,11 +73,11 @@
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
@@ -85,21 +85,21 @@
       <www lang="fr">https://www.edi.admin.ch/fr</www>
     </department>
     <department id="701">
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>

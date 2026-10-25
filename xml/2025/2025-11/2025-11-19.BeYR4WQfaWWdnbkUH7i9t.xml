@@ -11,16 +11,16 @@
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
-      <www lang="de">http://www.bav.admin.ch/</www>
-      <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
       <www lang="it">http://www.bav.admin.ch/</www>
       <www lang="rm">http://www.bav.admin.ch/</www>
-      <email lang="de">presse@bav.admin.ch</email>
+      <www lang="de">http://www.bav.admin.ch/</www>
+      <www lang="en">http://www.bav.admin.ch/</www>
       <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="rm">presse@bav.admin.ch</email>
+      <email lang="de">presse@bav.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
@@ -37,16 +37,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </originator>
     <keywords/>
     <department id="801">
@@ -55,16 +55,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="fr">https://www.uvek.admin.ch/fr</www>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
+      <www lang="fr">https://www.uvek.admin.ch/fr</www>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -92,18 +92,18 @@
     </content>
     <topics>
       <topic id="628">
-        <name lang="de">Verkehrsinfrastruktur</name>
-        <name lang="en">Transport infrastructure</name>
         <name lang="fr">Infrastructures de transport</name>
         <name lang="it">Infrastruttura per i trasporti</name>
         <name lang="rm">Infrastructura dal traffic</name>
+        <name lang="de">Verkehrsinfrastruktur</name>
+        <name lang="en">Transport infrastructure</name>
       </topic>
       <topic id="629">
+        <name lang="fr">Transfert du trafic</name>
         <name lang="it">Trasferimento del traffico</name>
         <name lang="rm">Spustament dal traffic</name>
         <name lang="de">Verkehrsverlagerung</name>
         <name lang="en">Road-to-rail modal shift</name>
-        <name lang="fr">Transfert du trafic</name>
       </topic>
       <topic id="620">
         <name lang="de">Güterverkehr</name>
@@ -113,11 +113,11 @@
         <name lang="rm">Transport da rauba</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
       </topic>
     </topics>
     <offers/>

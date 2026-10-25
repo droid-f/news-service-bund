@@ -6,16 +6,16 @@
     <pubdate>2026-05-12</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="fr">Office fédéral de la statistique</name>
-      <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
-      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
+      <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
+      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
@@ -29,11 +29,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="it">
       <city>Neuchâtel</city>
@@ -69,25 +69,25 @@
     </content>
     <topics>
       <topic id="677">
+        <name lang="it">Statistiche economiche</name>
+        <name lang="rm">Statistica economica</name>
         <name lang="de">Wirtschaftsstatistik</name>
         <name lang="en">Economic statistics</name>
         <name lang="fr">Statistiques économiques</name>
-        <name lang="it">Statistiche economiche</name>
-        <name lang="rm">Statistica economica</name>
       </topic>
       <topic id="38">
-        <name lang="it">Agricoltura</name>
-        <name lang="rm">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="rm">Agricultura</name>
       </topic>
       <topic id="43">
-        <name lang="it">Conoscenze e statistiche</name>
-        <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
+        <name lang="it">Conoscenze e statistiche</name>
+        <name lang="rm">Savida e statistica</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -97,10 +97,10 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="124">
-        <name lang="de">Öffentliche Statistik</name>
-        <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
         <name lang="it">Statistica pubblica</name>
+        <name lang="de">Öffentliche Statistik</name>
+        <name lang="en">Official statistics</name>
       </topic>
     </topics>
     <offers/>

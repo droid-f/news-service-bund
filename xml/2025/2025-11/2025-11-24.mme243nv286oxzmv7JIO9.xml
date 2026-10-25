@@ -11,16 +11,16 @@
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
+      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
-      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
+      <email lang="de">media@bfs.admin.ch</email>
+      <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
       <email lang="it">media@bfs.admin.ch</email>
       <email lang="rm">media@bfs.admin.ch</email>
-      <email lang="de">media@bfs.admin.ch</email>
-      <email lang="en">media@bfs.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-317.7" org-id="318">
@@ -42,10 +42,10 @@
         <name lang="it">Industria e servizi</name>
       </keyword>
       <keyword id="SLW-317.7" org-id="318">
+        <name lang="fr">Industrie et services</name>
         <name lang="it">Industria e servizi</name>
         <name lang="de">Industrie und Dienstleistungen</name>
         <name lang="en">Industry and services</name>
-        <name lang="fr">Industrie et services</name>
       </keyword>
     </keywords>
     <department id="301">
@@ -94,11 +94,11 @@
     </content>
     <topics>
       <topic id="43">
+        <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
-        <name lang="rm">Savida e statistica</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -108,11 +108,11 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="2">
-        <name lang="en">Work</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
         <name lang="rm">Lavur</name>
         <name lang="de">Arbeit</name>
+        <name lang="en">Work</name>
       </topic>
     </topics>
     <offers/>
