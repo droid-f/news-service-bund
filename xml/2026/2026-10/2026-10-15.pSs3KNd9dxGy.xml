@@ -16,11 +16,11 @@
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
       <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
+      <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
       <email lang="it">media@bfs.admin.ch</email>
       <email lang="rm">media@bfs.admin.ch</email>
-      <email lang="de">media@bfs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -29,11 +29,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <content lang="fr">
       <city>Neuchâtel</city>
@@ -69,18 +69,18 @@
     </content>
     <topics>
       <topic id="645">
+        <name lang="rm">Conjunctura</name>
+        <name lang="de">Konjunktur</name>
         <name lang="en">Short Term Economic Analyses</name>
         <name lang="fr">Conjoncture</name>
         <name lang="it">Congiuntura</name>
-        <name lang="rm">Conjunctura</name>
-        <name lang="de">Konjunktur</name>
       </topic>
       <topic id="43">
+        <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
-        <name lang="rm">Savida e statistica</name>
       </topic>
     </topics>
     <offers/>
