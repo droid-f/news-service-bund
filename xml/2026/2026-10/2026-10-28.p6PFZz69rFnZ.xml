@@ -6,11 +6,11 @@
     <pubdate>2026-10-28</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
+      <www lang="en">https://www.admin.ch/en</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -19,11 +19,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
     </originator>
     <keywords/>
     <content lang="de">
@@ -52,11 +52,11 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
         <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
+        <name lang="it">Sanità</name>
       </topic>
       <topic id="114">
         <name lang="de">Elisabeth Baume-Schneider</name>
@@ -66,32 +66,32 @@
         <name lang="rm">Elisabeth Baume-Schneider</name>
       </topic>
       <topic id="35">
-        <name lang="it">AI – Assicurazione per l’invalidità</name>
-        <name lang="rm">AI – Assicuranza d'invaliditad</name>
         <name lang="de">IV - Invalidenversicherung</name>
         <name lang="en">II - Invalidity Insurance</name>
         <name lang="fr">AI - Assurance-invalidité</name>
+        <name lang="it">AI – Assicurazione per l’invalidità</name>
+        <name lang="rm">AI – Assicuranza d'invaliditad</name>
       </topic>
       <topic id="43">
-        <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
+        <name lang="de">Wissen &amp; Statistik</name>
       </topic>
       <topic id="41">
-        <name lang="en">Social affairs, family &amp; society</name>
         <name lang="fr">Affaires sociales, famille et société</name>
         <name lang="it">Affari sociali, famiglia e società</name>
         <name lang="rm">Fatgs socials, famiglia e societad</name>
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
+        <name lang="en">Social affairs, family &amp; society</name>
       </topic>
       <topic id="10">
-        <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
       </topic>
       <topic id="31">
         <name lang="de">Bund, Kantone &amp; Gemeinden</name>

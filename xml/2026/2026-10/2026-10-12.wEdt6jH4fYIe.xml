@@ -6,49 +6,41 @@
     <pubdate>2026-10-12</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
-      <www lang="de">https://www.efk.admin.ch</www>
-      <www lang="fr">https://www.efk.admin.ch/fr</www>
+      <name lang="en">Swiss Federal Audit Office</name>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
-      <email lang="it">kommunikation@efk.admin.ch</email>
-      <email lang="en">kommunikation@efk.admin.ch</email>
+      <www lang="de">https://www.efk.admin.ch</www>
+      <www lang="fr">https://www.efk.admin.ch/fr</www>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
+      <email lang="it">kommunikation@efk.admin.ch</email>
+      <email lang="en">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
-        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
-        <name lang="fr">Rapport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
+        <name lang="it">Verifica</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
+        <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
     </keywords>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Audit of the efficiency of plant protection product authorisation</title>
-      <lead>A plant protection product (PPP) must be authorised before it can be used in Switzerland. Five federal units from three departments are responsible for the authorisation procedure. The Federal Office for Agriculture, Agroscope, the Federal Office for the Environment, the State Secretariat for Economic Affairs and the Federal Food Safety and Veterinary Office (FSVO), led by the FSVO Authorisation Office, assess various aspects of PPP efficacy and risk. At the end of 2025, the Swiss authorisation procedure was further aligned with that of the European Union.The Swiss Federal Audit Office (SFAO) examined whether the authorisation procedures are conducted efficiently and whether the fees sufficiently cover the costs incurred. The audit identified areas for improvement: structures and processes are too complex, the resulting backlog is too high and fees are too low.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/efficiency-of-plant-protection-product-authorisation/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Audit de l’efficacité dans l’homologation de produits phytosanitaires</title>
@@ -73,20 +65,28 @@
       <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Audit of the efficiency of plant protection product authorisation</title>
+      <lead>A plant protection product (PPP) must be authorised before it can be used in Switzerland. Five federal units from three departments are responsible for the authorisation procedure. The Federal Office for Agriculture, Agroscope, the Federal Office for the Environment, the State Secretariat for Economic Affairs and the Federal Food Safety and Veterinary Office (FSVO), led by the FSVO Authorisation Office, assess various aspects of PPP efficacy and risk. At the end of 2025, the Swiss authorisation procedure was further aligned with that of the European Union.The Swiss Federal Audit Office (SFAO) examined whether the authorisation procedures are conducted efficiently and whether the fees sufficiently cover the costs incurred. The audit identified areas for improvement: structures and processes are too complex, the resulting backlog is too high and fees are too low.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/efficiency-of-plant-protection-product-authorisation/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="479">
-        <name lang="it">Sicurezza alimentare</name>
-        <name lang="rm">Segirezza da victualias</name>
         <name lang="de">Lebensmittelsicherheit</name>
         <name lang="en">Food safety</name>
         <name lang="fr">Sécurité alimentaire</name>
+        <name lang="it">Sicurezza alimentare</name>
+        <name lang="rm">Segirezza da victualias</name>
       </topic>
       <topic id="21">
-        <name lang="rm">Ambient e natira</name>
-        <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
+        <name lang="de">Umwelt &amp; Natur</name>
       </topic>
       <topic id="108">
         <name lang="de">Landwirtschaft</name>

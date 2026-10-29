@@ -11,11 +11,11 @@
       <name lang="fr">Office fédéral des assurances sociales</name>
       <name lang="it">Ufficio federale delle assicurazioni sociali</name>
       <name lang="rm">Uffizi federal d'assicuranzas socialas</name>
+      <www lang="fr">https://www.bsv.admin.ch/fr</www>
+      <www lang="it">https://www.bsv.admin.ch/it</www>
       <www lang="rm">http://www.bsv.admin.ch/</www>
       <www lang="de">http://www.bsv.admin.ch/</www>
       <www lang="en">https://www.bsv.admin.ch/en</www>
-      <www lang="fr">https://www.bsv.admin.ch/fr</www>
-      <www lang="it">https://www.bsv.admin.ch/it</www>
       <email lang="it">media@bsv.admin.ch</email>
       <email lang="rm">media@bsv.admin.ch</email>
       <email lang="de">media@bsv.admin.ch</email>
@@ -24,22 +24,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-318.4" org-id="319">
-        <name lang="fr">Prévoyance professionnelle</name>
-        <name lang="it">Previdenza professionale</name>
         <name lang="de">Berufliche Vorsorge</name>
-        <name lang="en">Occupational Benefit Plan</name>
-      </keyword>
-      <keyword id="SLW-318.1" org-id="319">
-        <name lang="de">Sozialversicherung</name>
-        <name lang="en">Social Insurances</name>
-        <name lang="fr">Assurances sociales</name>
-        <name lang="it">Assicurazioni sociali</name>
-      </keyword>
-      <keyword id="SLW-318.4" org-id="319">
         <name lang="en">Occupational Benefit Plan</name>
         <name lang="fr">Prévoyance professionnelle</name>
         <name lang="it">Previdenza professionale</name>
-        <name lang="de">Berufliche Vorsorge</name>
       </keyword>
       <keyword id="SLW-318.1" org-id="319">
         <name lang="de">Sozialversicherung</name>
@@ -54,18 +42,30 @@
         <name lang="it">Previdenza professionale</name>
       </keyword>
       <keyword id="SLW-318.1" org-id="319">
+        <name lang="de">Sozialversicherung</name>
+        <name lang="en">Social Insurances</name>
+        <name lang="fr">Assurances sociales</name>
+        <name lang="it">Assicurazioni sociali</name>
+      </keyword>
+      <keyword id="SLW-318.4" org-id="319">
+        <name lang="en">Occupational Benefit Plan</name>
+        <name lang="fr">Prévoyance professionnelle</name>
+        <name lang="it">Previdenza professionale</name>
+        <name lang="de">Berufliche Vorsorge</name>
+      </keyword>
+      <keyword id="SLW-318.1" org-id="319">
+        <name lang="en">Social Insurances</name>
         <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="de">Sozialversicherung</name>
-        <name lang="en">Social Insurances</name>
       </keyword>
     </keywords>
     <department id="301">
+      <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
-      <name lang="it">Dipartimento federale dell'interno</name>
       <www lang="de">https://www.edi.admin.ch</www>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
@@ -98,25 +98,25 @@
     </content>
     <topics>
       <topic id="31">
+        <name lang="de">Sozialversicherungen</name>
+        <name lang="en">Social insurance</name>
         <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="rm">Assicuranzas socialas</name>
-        <name lang="de">Sozialversicherungen</name>
-        <name lang="en">Social insurance</name>
       </topic>
       <topic id="564">
-        <name lang="de">Soziale Sicherheit</name>
-        <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
         <name lang="it">Sicurezza sociale</name>
         <name lang="rm">Segirezza sociala</name>
+        <name lang="de">Soziale Sicherheit</name>
+        <name lang="en">Social security</name>
       </topic>
       <topic id="34">
+        <name lang="de">Berufliche Vorsorge</name>
         <name lang="en">Occupational pensions</name>
         <name lang="fr">Prévoyance professionnelle</name>
         <name lang="it">Previdenza professionale</name>
         <name lang="rm">Prevenziun professiunala</name>
-        <name lang="de">Berufliche Vorsorge</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
@@ -126,10 +126,10 @@
         <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
       <topic id="125">
-        <name lang="it">Sicurezza sociale</name>
-        <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
+        <name lang="it">Sicurezza sociale</name>
+        <name lang="de">Soziale Sicherheit</name>
       </topic>
     </topics>
     <offers/>
