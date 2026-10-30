@@ -28,21 +28,21 @@
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords/>
     <department id="401">
@@ -88,18 +88,18 @@
     </content>
     <topics>
       <topic id="26">
-        <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
       </topic>
       <topic id="524">
-        <name lang="fr">État civil</name>
-        <name lang="it">Stato civile</name>
         <name lang="rm">Stadi civil</name>
         <name lang="de">Zivilstand</name>
         <name lang="en">Civil status</name>
+        <name lang="fr">État civil</name>
+        <name lang="it">Stato civile</name>
       </topic>
       <topic id="448">
         <name lang="de">Bundesratsgeschäfte</name>
@@ -109,11 +109,11 @@
         <name lang="rm">Affars dal Cussegl federal</name>
       </topic>
       <topic id="10">
-        <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
+        <name lang="rm">Cussegl federal</name>
       </topic>
     </topics>
     <offers/>

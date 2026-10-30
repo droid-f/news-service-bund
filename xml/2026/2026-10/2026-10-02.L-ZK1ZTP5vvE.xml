@@ -23,29 +23,29 @@
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
       <www lang="it">https://www.sif.admin.ch/it</www>
-      <email lang="it">info@sif.admin.ch</email>
-      <email lang="rm">info@sif.admin.ch</email>
       <email lang="de">info@sif.admin.ch</email>
       <email lang="en">info@sif.admin.ch</email>
       <email lang="fr">info@sif.admin.ch</email>
+      <email lang="it">info@sif.admin.ch</email>
+      <email lang="rm">info@sif.admin.ch</email>
     </originator>
     <keywords/>
     <department id="601">
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
+      <www lang="fr">https://www.efd.admin.ch/fr</www>
+      <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
-      <www lang="fr">https://www.efd.admin.ch/fr</www>
-      <www lang="it">https://www.efd.admin.ch/it</www>
-      <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
+      <email lang="it">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -81,39 +81,39 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="269">
+        <name lang="it">Fondo monetario internazionale (FMI)</name>
+        <name lang="rm">Fond monetar internaziunal FMI</name>
         <name lang="de">Internationaler Währungsfonds IWF</name>
         <name lang="en">International Monetary Fund IMF</name>
         <name lang="fr">Fonds monétaire international (FMI)</name>
-        <name lang="it">Fondo monetario internazionale (FMI)</name>
-        <name lang="rm">Fond monetar internaziunal FMI</name>
       </topic>
       <topic id="411">
+        <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
-        <name lang="en">International organisations</name>
       </topic>
       <topic id="47">
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="10">
-        <name lang="en">Federal Council</name>
-        <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
+        <name lang="fr">Conseil fédéral</name>
       </topic>
     </topics>
     <offers/>

@@ -16,11 +16,11 @@
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="5896" org-id="201">
@@ -42,10 +42,10 @@
         <name lang="it">Yemen</name>
       </keyword>
       <keyword id="5896" org-id="201">
+        <name lang="de">Jemen</name>
         <name lang="en">Yemen</name>
         <name lang="fr">Yémen</name>
         <name lang="it">Yemen</name>
-        <name lang="de">Jemen</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,18 +82,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
       </topic>
       <topic id="550">
+        <name lang="rm">Politica da segirezza</name>
+        <name lang="de">Sicherheitspolitik</name>
         <name lang="en">Security policy</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
-        <name lang="rm">Politica da segirezza</name>
-        <name lang="de">Sicherheitspolitik</name>
       </topic>
       <topic id="420">
         <name lang="de">Schutzinfrastruktur</name>
@@ -103,11 +103,11 @@
         <name lang="rm">Infrastructura da protecziun</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="30">
         <name lang="de">Ausserordentliche Lage, Krise</name>
@@ -117,10 +117,10 @@
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
       </topic>
       <topic id="103">
-        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>

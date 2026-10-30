@@ -6,16 +6,16 @@
     <pubdate>2026-10-20</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <www lang="de">https://www.eda.admin.ch</www>
-      <www lang="en">https://www.eda.admin.ch/en</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
@@ -24,16 +24,16 @@
     </originator>
     <keywords>
       <keyword id="11078" org-id="201">
+        <name lang="it">Cina</name>
         <name lang="de">China</name>
         <name lang="en">China</name>
         <name lang="fr">Chine</name>
-        <name lang="it">Cina</name>
       </keyword>
       <keyword id="11078" org-id="201">
-        <name lang="fr">Chine</name>
         <name lang="it">Cina</name>
         <name lang="de">China</name>
         <name lang="en">China</name>
+        <name lang="fr">Chine</name>
       </keyword>
       <keyword id="11078" org-id="201">
         <name lang="de">China</name>
@@ -89,17 +89,17 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="16">
+        <name lang="en">Foreign policy</name>
+        <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
-        <name lang="en">Foreign policy</name>
-        <name lang="fr">Politique étrangère</name>
       </topic>
       <topic id="103">
-        <name lang="de">Aussenbeziehungen</name>
-        <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
+        <name lang="en">External relations</name>
       </topic>
     </topics>
     <offers/>
