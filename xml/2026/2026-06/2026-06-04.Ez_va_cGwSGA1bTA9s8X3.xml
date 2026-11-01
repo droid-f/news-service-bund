@@ -11,16 +11,16 @@
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
       <name lang="rm">Uffizi federal da traffic</name>
+      <www lang="it">http://www.bav.admin.ch/</www>
+      <www lang="rm">http://www.bav.admin.ch/</www>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
-      <www lang="it">http://www.bav.admin.ch/</www>
-      <www lang="rm">http://www.bav.admin.ch/</www>
-      <email lang="de">presse@bav.admin.ch</email>
-      <email lang="en">presse@bav.admin.ch</email>
       <email lang="fr">presse@bav.admin.ch</email>
       <email lang="it">presse@bav.admin.ch</email>
       <email lang="rm">presse@bav.admin.ch</email>
+      <email lang="de">presse@bav.admin.ch</email>
+      <email lang="en">presse@bav.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-2620,ORG-805" org-id="805">
@@ -30,17 +30,6 @@
         <name lang="it">Trasporti pubblici</name>
       </keyword>
       <keyword id="18391" org-id="805">
-        <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
-        <name lang="de">Sicherheit</name>
-      </keyword>
-      <keyword id="SLW-2620,ORG-805" org-id="805">
-        <name lang="de">öffentlicher Verkehr</name>
-        <name lang="en">Public transport</name>
-        <name lang="fr">Transports publics</name>
-        <name lang="it">Trasporti pubblici</name>
-      </keyword>
-      <keyword id="18391" org-id="805">
         <name lang="de">Sicherheit</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
@@ -52,9 +41,20 @@
         <name lang="it">Trasporti pubblici</name>
       </keyword>
       <keyword id="18391" org-id="805">
-        <name lang="it">Sicurezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
+      </keyword>
+      <keyword id="SLW-2620,ORG-805" org-id="805">
+        <name lang="de">öffentlicher Verkehr</name>
+        <name lang="en">Public transport</name>
+        <name lang="fr">Transports publics</name>
+        <name lang="it">Trasporti pubblici</name>
+      </keyword>
+      <keyword id="18391" org-id="805">
+        <name lang="de">Sicherheit</name>
+        <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
       </keyword>
     </keywords>
     <department id="801">
@@ -63,16 +63,16 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
+      <www lang="it">https://www.uvek.admin.ch/it</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -100,11 +100,11 @@
     </content>
     <topics>
       <topic id="621">
-        <name lang="de">Öffentlicher Verkehr</name>
         <name lang="en">Public transport</name>
         <name lang="fr">Transports publics</name>
         <name lang="it">Trasporto pubblico</name>
         <name lang="rm">Traffic public</name>
+        <name lang="de">Öffentlicher Verkehr</name>
       </topic>
       <topic id="46">
         <name lang="de">Verkehr &amp; Mobilität</name>

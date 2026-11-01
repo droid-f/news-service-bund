@@ -11,23 +11,59 @@
       <name lang="fr">Agroscope</name>
       <name lang="it">Agroscope</name>
       <name lang="rm">Agroscope</name>
-      <www lang="de">https://www.agroscope.admin.ch/</www>
-      <www lang="en">https://www.agroscope.admin.ch/</www>
       <www lang="fr">https://www.agroscope.admin.ch/</www>
       <www lang="it">https://www.agroscope.admin.ch/</www>
+      <www lang="de">https://www.agroscope.admin.ch/</www>
+      <www lang="en">https://www.agroscope.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-2108,ORG-1047" org-id="1047">
+        <name lang="de">Ackerbau</name>
         <name lang="en">Field crops</name>
         <name lang="fr">Grandes cultures</name>
         <name lang="it">Campicoltura</name>
-        <name lang="de">Ackerbau</name>
       </keyword>
       <keyword id="SLW-16" org-id="1047">
         <name lang="de">Umweltschutz</name>
         <name lang="en">Environmental protection</name>
         <name lang="fr">Protection de l’environnement</name>
         <name lang="it">Protezione dell’ambiente</name>
+      </keyword>
+      <keyword id="SLW-28" org-id="1047">
+        <name lang="en">Biodiversity</name>
+        <name lang="fr">Biodiversité</name>
+        <name lang="it">Biodiversità</name>
+        <name lang="de">Biodiversität</name>
+      </keyword>
+      <keyword id="SLW-31" org-id="1047">
+        <name lang="de">Agrartechnische Systeme</name>
+        <name lang="en">Agricultural engineering systems</name>
+        <name lang="fr">Systèmes de technique agricole</name>
+        <name lang="it">Sistemi di tecnica agricola</name>
+      </keyword>
+      <keyword id="SLW-39" org-id="1047">
+        <name lang="fr">Fertilité</name>
+        <name lang="it">Fertilità</name>
+        <name lang="de">Bodenfruchtbarkeit</name>
+        <name lang="en">Soil fertility</name>
+      </keyword>
+      <keyword id="SLW-40" org-id="1047">
+        <name lang="en">Soil protection</name>
+        <name lang="fr">Protection des sols</name>
+        <name lang="it">Protezione del suolo</name>
+        <name lang="de">Bodenschutz</name>
+      </keyword>
+      <keyword id="SLW-2108,ORG-1047" org-id="1047">
+        <name lang="en">Field crops</name>
+        <name lang="fr">Grandes cultures</name>
+        <name lang="it">Campicoltura</name>
+        <name lang="de">Ackerbau</name>
+      </keyword>
+      <keyword id="SLW-16" org-id="1047">
+        <name lang="fr">Protection de l’environnement</name>
+        <name lang="it">Protezione dell’ambiente</name>
+        <name lang="de">Umweltschutz</name>
+        <name lang="en">Environmental protection</name>
       </keyword>
       <keyword id="SLW-28" org-id="1047">
         <name lang="de">Biodiversität</name>
@@ -54,10 +90,10 @@
         <name lang="it">Protezione del suolo</name>
       </keyword>
       <keyword id="SLW-2108,ORG-1047" org-id="1047">
-        <name lang="de">Ackerbau</name>
         <name lang="en">Field crops</name>
         <name lang="fr">Grandes cultures</name>
         <name lang="it">Campicoltura</name>
+        <name lang="de">Ackerbau</name>
       </keyword>
       <keyword id="SLW-16" org-id="1047">
         <name lang="de">Umweltschutz</name>
@@ -70,42 +106,6 @@
         <name lang="en">Biodiversity</name>
         <name lang="fr">Biodiversité</name>
         <name lang="it">Biodiversità</name>
-      </keyword>
-      <keyword id="SLW-31" org-id="1047">
-        <name lang="de">Agrartechnische Systeme</name>
-        <name lang="en">Agricultural engineering systems</name>
-        <name lang="fr">Systèmes de technique agricole</name>
-        <name lang="it">Sistemi di tecnica agricola</name>
-      </keyword>
-      <keyword id="SLW-39" org-id="1047">
-        <name lang="de">Bodenfruchtbarkeit</name>
-        <name lang="en">Soil fertility</name>
-        <name lang="fr">Fertilité</name>
-        <name lang="it">Fertilità</name>
-      </keyword>
-      <keyword id="SLW-40" org-id="1047">
-        <name lang="de">Bodenschutz</name>
-        <name lang="en">Soil protection</name>
-        <name lang="fr">Protection des sols</name>
-        <name lang="it">Protezione del suolo</name>
-      </keyword>
-      <keyword id="SLW-2108,ORG-1047" org-id="1047">
-        <name lang="de">Ackerbau</name>
-        <name lang="en">Field crops</name>
-        <name lang="fr">Grandes cultures</name>
-        <name lang="it">Campicoltura</name>
-      </keyword>
-      <keyword id="SLW-16" org-id="1047">
-        <name lang="de">Umweltschutz</name>
-        <name lang="en">Environmental protection</name>
-        <name lang="fr">Protection de l’environnement</name>
-        <name lang="it">Protezione dell’ambiente</name>
-      </keyword>
-      <keyword id="SLW-28" org-id="1047">
-        <name lang="it">Biodiversità</name>
-        <name lang="de">Biodiversität</name>
-        <name lang="en">Biodiversity</name>
-        <name lang="fr">Biodiversité</name>
       </keyword>
       <keyword id="SLW-31" org-id="1047">
         <name lang="de">Agrartechnische Systeme</name>
@@ -127,21 +127,21 @@
       </keyword>
     </keywords>
     <department id="701">
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
-      <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -197,11 +197,11 @@
         <name lang="rm">Plantas</name>
       </topic>
       <topic id="611">
+        <name lang="fr">Protection de la nature</name>
+        <name lang="it">Protezione della natura</name>
         <name lang="rm">Protecziun da la natira</name>
         <name lang="de">Naturschutz</name>
         <name lang="en">Nature conservation</name>
-        <name lang="fr">Protection de la nature</name>
-        <name lang="it">Protezione della natura</name>
       </topic>
       <topic id="46">
         <name lang="en">Sustainable development</name>
@@ -218,25 +218,25 @@
         <name lang="rm">Victualias vegetalas</name>
       </topic>
       <topic id="9">
-        <name lang="de">Wissenschaft</name>
-        <name lang="en">Science</name>
         <name lang="fr">Science</name>
         <name lang="it">Scienza</name>
         <name lang="rm">Scienza</name>
+        <name lang="de">Wissenschaft</name>
+        <name lang="en">Science</name>
       </topic>
       <topic id="47">
-        <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="21">
-        <name lang="rm">Ambient e natira</name>
-        <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
+        <name lang="de">Umwelt &amp; Natur</name>
       </topic>
       <topic id="114">
         <name lang="de">Wirtschaft</name>
@@ -245,16 +245,16 @@
         <name lang="it">Economia</name>
       </topic>
       <topic id="112">
-        <name lang="it">Ambiente</name>
         <name lang="de">Umwelt</name>
         <name lang="en">Environment</name>
         <name lang="fr">Environnement</name>
+        <name lang="it">Ambiente</name>
       </topic>
       <topic id="108">
-        <name lang="fr">Agriculture</name>
         <name lang="it">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
+        <name lang="fr">Agriculture</name>
       </topic>
     </topics>
     <offers/>

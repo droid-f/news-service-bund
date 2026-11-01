@@ -16,11 +16,11 @@
       <www lang="fr">https://www.are.admin.ch/fr</www>
       <www lang="it">https://www.are.admin.ch/it</www>
       <www lang="rm">https://www.are.admin.ch/de</www>
+      <email lang="en">media@are.admin.ch</email>
       <email lang="fr">media@are.admin.ch</email>
       <email lang="it">media@are.admin.ch</email>
       <email lang="rm">media@are.admin.ch</email>
       <email lang="de">media@are.admin.ch</email>
-      <email lang="en">media@are.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="15922" org-id="812">
@@ -34,9 +34,9 @@
         <name lang="it">Abitazioni secondarie</name>
       </keyword>
       <keyword id="15922" org-id="812">
+        <name lang="de">Zweitwohnungen</name>
         <name lang="fr">Résidences secondaires</name>
         <name lang="it">Abitazioni secondarie</name>
-        <name lang="de">Zweitwohnungen</name>
       </keyword>
     </keywords>
     <department id="801">
@@ -50,11 +50,11 @@
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
       <www lang="en">https://www.uvek.admin.ch/en</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="it">
       <city>Ittigen</city>
@@ -82,11 +82,11 @@
     </content>
     <topics>
       <topic id="26">
-        <name lang="it">Diritto</name>
-        <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="rm">Dretg</name>
       </topic>
       <topic id="47">
         <name lang="fr">Économie et place financière</name>
@@ -96,11 +96,11 @@
         <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="27">
+        <name lang="it">Viaggi e turismo</name>
         <name lang="rm">Viagiar e turissem</name>
         <name lang="de">Reisen &amp; Tourismus</name>
         <name lang="en">Travel &amp; Tourism</name>
         <name lang="fr">Voyages et tourisme</name>
-        <name lang="it">Viaggi e turismo</name>
       </topic>
       <topic id="25">
         <name lang="de">Raumplanung &amp; Raumentwicklung</name>
@@ -110,10 +110,10 @@
         <name lang="rm">Planisaziun dal territori e svilup dal territori</name>
       </topic>
       <topic id="124">
+        <name lang="de">Öffentliche Statistik</name>
         <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
         <name lang="it">Statistica pubblica</name>
-        <name lang="de">Öffentliche Statistik</name>
       </topic>
       <topic id="114">
         <name lang="de">Wirtschaft</name>

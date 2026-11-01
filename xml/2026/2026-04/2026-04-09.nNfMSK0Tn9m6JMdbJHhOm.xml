@@ -11,10 +11,10 @@
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
       <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
-      <www lang="it">https://www.bazg.admin.ch/it</www>
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
+      <www lang="it">https://www.bazg.admin.ch/it</www>
       <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
       <email lang="it">medien@bazg.admin.ch</email>
@@ -29,10 +29,10 @@
         <name lang="it">TFTP</name>
       </keyword>
       <keyword id="SLW-141" org-id="606">
+        <name lang="it">TFTP</name>
         <name lang="de">LSVA</name>
         <name lang="en">Heavy Vehicles Fee</name>
         <name lang="fr">RPLP</name>
-        <name lang="it">TFTP</name>
       </keyword>
       <keyword id="314" org-id="606">
         <name lang="de">Einfuhr</name>
@@ -41,28 +41,28 @@
         <name lang="it">importazione</name>
       </keyword>
       <keyword id="SLW-141" org-id="606">
-        <name lang="it">TFTP</name>
         <name lang="de">LSVA</name>
         <name lang="en">Heavy Vehicles Fee</name>
         <name lang="fr">RPLP</name>
+        <name lang="it">TFTP</name>
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="it">Dipartimento federale delle finanze</name>
-      <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
+      <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
+      <email lang="it">media@gs-efd.admin.ch</email>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
-      <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -90,18 +90,18 @@
     </content>
     <topics>
       <topic id="48">
+        <name lang="it">Dogane</name>
+        <name lang="rm">Duana</name>
         <name lang="de">Zoll</name>
         <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
-        <name lang="it">Dogane</name>
-        <name lang="rm">Duana</name>
       </topic>
       <topic id="46">
+        <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
         <name lang="de">Verkehr &amp; Mobilität</name>
         <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
-        <name lang="it">Trasporti e mobilità</name>
       </topic>
     </topics>
     <offers/>

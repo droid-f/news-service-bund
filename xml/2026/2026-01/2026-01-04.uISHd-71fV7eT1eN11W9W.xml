@@ -15,11 +15,11 @@
       <www lang="it">http://www.babs.admin.ch/</www>
       <www lang="de">http://www.babs.admin.ch/</www>
       <www lang="en">http://www.babs.admin.ch/</www>
+      <email lang="rm">media@babs.admin.ch</email>
       <email lang="de">media@babs.admin.ch</email>
       <email lang="en">media@babs.admin.ch</email>
       <email lang="fr">media@babs.admin.ch</email>
       <email lang="it">media@babs.admin.ch</email>
-      <email lang="rm">media@babs.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -32,11 +32,11 @@
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -77,11 +77,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="556">
         <name lang="de">Zivilschutz</name>
@@ -105,25 +105,25 @@
         <name lang="it">Protezione della popolazione</name>
       </topic>
       <topic id="422">
-        <name lang="de">Zivilschutz</name>
-        <name lang="en">Civil protection structures</name>
         <name lang="fr">Protection civile</name>
         <name lang="it">Protezione civile</name>
         <name lang="rm">Protecziun civila</name>
+        <name lang="de">Zivilschutz</name>
+        <name lang="en">Civil protection structures</name>
       </topic>
       <topic id="414">
-        <name lang="de">Katastrophen</name>
-        <name lang="en">Disasters</name>
         <name lang="fr">Catastrophes</name>
         <name lang="it">Catastrofi</name>
         <name lang="rm">Catastrofas</name>
+        <name lang="de">Katastrophen</name>
+        <name lang="en">Disasters</name>
       </topic>
       <topic id="34">
-        <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
+        <name lang="de">Schweiz und Europa</name>
       </topic>
       <topic id="40">
         <name lang="de">Sicherheit</name>
@@ -133,11 +133,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="30">
-        <name lang="de">Ausserordentliche Lage, Krise</name>
-        <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
+        <name lang="de">Ausserordentliche Lage, Krise</name>
+        <name lang="en">Extraordinary situations, crises</name>
       </topic>
     </topics>
     <offers/>

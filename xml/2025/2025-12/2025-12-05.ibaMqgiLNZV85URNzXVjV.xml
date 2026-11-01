@@ -23,19 +23,19 @@
       <www lang="de">http://www.baspo.admin.ch</www>
       <www lang="en">http://www.baspo.admin.ch/</www>
       <www lang="fr">http://www.baspo.admin.ch/</www>
-      <email lang="de">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
       <email lang="fr">info@baspo.admin.ch</email>
       <email lang="it">info@baspo.admin.ch</email>
       <email lang="rm">info@baspo.admin.ch</email>
+      <email lang="de">info@baspo.admin.ch</email>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="rm">Secretariat general dal DDPS</name>
-      <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="rm">Secretariat general dal DDPS</name>
+      <name lang="de">Generalsekretariat VBS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
@@ -85,18 +85,18 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="de">Bildung, Forschung &amp; Innovation</name>
-        <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
+        <name lang="en">Education, Research &amp; Innovation</name>
       </topic>
       <topic id="581">
+        <name lang="fr">Politique du sport</name>
         <name lang="it">Politica dello sport</name>
         <name lang="rm">Politica da sport</name>
         <name lang="de">Sportpolitik</name>
         <name lang="en">Sport policy</name>
-        <name lang="fr">Politique du sport</name>
       </topic>
       <topic id="578">
         <name lang="de">Spitzensport</name>
@@ -113,11 +113,11 @@
         <name lang="rm">Sport</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
       </topic>
     </topics>
     <offers/>

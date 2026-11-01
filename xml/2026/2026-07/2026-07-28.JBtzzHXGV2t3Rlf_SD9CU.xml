@@ -23,18 +23,6 @@
     </originator>
     <keywords>
       <keyword id="314" org-id="606">
-        <name lang="de">Einfuhr</name>
-        <name lang="en">import</name>
-        <name lang="fr">importation</name>
-        <name lang="it">importazione</name>
-      </keyword>
-      <keyword id="SLW-187" org-id="606">
-        <name lang="de">Private</name>
-        <name lang="en">individuals</name>
-        <name lang="fr">particuliers</name>
-        <name lang="it">privati</name>
-      </keyword>
-      <keyword id="314" org-id="606">
         <name lang="en">import</name>
         <name lang="fr">importation</name>
         <name lang="it">importazione</name>
@@ -53,23 +41,35 @@
         <name lang="it">importazione</name>
       </keyword>
       <keyword id="SLW-187" org-id="606">
+        <name lang="en">individuals</name>
         <name lang="fr">particuliers</name>
         <name lang="it">privati</name>
         <name lang="de">Private</name>
+      </keyword>
+      <keyword id="314" org-id="606">
+        <name lang="de">Einfuhr</name>
+        <name lang="en">import</name>
+        <name lang="fr">importation</name>
+        <name lang="it">importazione</name>
+      </keyword>
+      <keyword id="SLW-187" org-id="606">
+        <name lang="de">Private</name>
         <name lang="en">individuals</name>
+        <name lang="fr">particuliers</name>
+        <name lang="it">privati</name>
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="rm">Departement federal da finanzas</name>
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
+      <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
@@ -102,25 +102,25 @@
     </content>
     <topics>
       <topic id="338">
+        <name lang="fr">Interdictions, restrictions et conditions</name>
+        <name lang="it">Divieti, limitazioni e condizioni</name>
         <name lang="rm">Scumonds restricziuns e cundiziuns</name>
         <name lang="de">Verbote Beschränkungen und Auflagen</name>
         <name lang="en">Prohibitions Restrictions and requirements</name>
-        <name lang="fr">Interdictions, restrictions et conditions</name>
-        <name lang="it">Divieti, limitazioni e condizioni</name>
       </topic>
       <topic id="679">
+        <name lang="de">Einfuhr Waren</name>
         <name lang="en">Goods imports</name>
         <name lang="fr">Importation de marchandises</name>
         <name lang="it">Importazione di merci</name>
         <name lang="rm">Import da rauba</name>
-        <name lang="de">Einfuhr Waren</name>
       </topic>
       <topic id="48">
+        <name lang="de">Zoll</name>
         <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
-        <name lang="de">Zoll</name>
       </topic>
     </topics>
     <offers/>

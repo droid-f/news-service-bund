@@ -24,16 +24,16 @@
     </originator>
     <keywords>
       <keyword id="6305" org-id="201">
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
         <name lang="fr">Liban</name>
         <name lang="it">Libano</name>
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
       </keyword>
       <keyword id="6306" org-id="201">
+        <name lang="de">Syrien</name>
         <name lang="en">Syria</name>
         <name lang="fr">Syrie</name>
         <name lang="it">Siria</name>
-        <name lang="de">Syrien</name>
       </keyword>
       <keyword id="6305" org-id="201">
         <name lang="de">Libanon</name>
@@ -42,22 +42,10 @@
         <name lang="it">Libano</name>
       </keyword>
       <keyword id="6306" org-id="201">
-        <name lang="it">Siria</name>
         <name lang="de">Syrien</name>
         <name lang="en">Syria</name>
         <name lang="fr">Syrie</name>
-      </keyword>
-      <keyword id="6305" org-id="201">
-        <name lang="it">Libano</name>
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
-        <name lang="fr">Liban</name>
-      </keyword>
-      <keyword id="6306" org-id="201">
         <name lang="it">Siria</name>
-        <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
-        <name lang="fr">Syrie</name>
       </keyword>
       <keyword id="6305" org-id="201">
         <name lang="de">Libanon</name>
@@ -70,6 +58,18 @@
         <name lang="fr">Syrie</name>
         <name lang="it">Siria</name>
         <name lang="de">Syrien</name>
+      </keyword>
+      <keyword id="6305" org-id="201">
+        <name lang="fr">Liban</name>
+        <name lang="it">Libano</name>
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
+      </keyword>
+      <keyword id="6306" org-id="201">
+        <name lang="fr">Syrie</name>
+        <name lang="it">Siria</name>
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -106,25 +106,25 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="110">
+        <name lang="de">Krisen</name>
+        <name lang="en">Crises</name>
         <name lang="fr">Crises</name>
         <name lang="it">Crisi</name>
         <name lang="rm">Crisas</name>
-        <name lang="de">Krisen</name>
-        <name lang="en">Crises</name>
       </topic>
       <topic id="411">
-        <name lang="rm">Organisaziuns internaziunalas</name>
-        <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
+        <name lang="rm">Organisaziuns internaziunalas</name>
+        <name lang="de">Internationale Organisationen</name>
       </topic>
       <topic id="409">
         <name lang="it">Cooperazione allo sviluppo</name>
@@ -134,11 +134,11 @@
         <name lang="fr">Coopération au développement</name>
       </topic>
       <topic id="16">
-        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
+        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="30">
         <name lang="de">Ausserordentliche Lage, Krise</name>

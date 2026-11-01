@@ -6,15 +6,21 @@
     <pubdate>2026-10-15</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
       <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="en">State Secretariat for Migration</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-9" org-id="405">
+        <name lang="en">Asylum statistics</name>
+        <name lang="fr">Statistiques en matière d’asile</name>
+        <name lang="it">Statistiche sull’asilo</name>
+        <name lang="de">Asylstatistik</name>
+      </keyword>
+      <keyword id="SLW-9" org-id="405">
         <name lang="fr">Statistiques en matière d’asile</name>
         <name lang="it">Statistiche sull’asilo</name>
         <name lang="de">Asylstatistik</name>
@@ -25,12 +31,6 @@
         <name lang="en">Asylum statistics</name>
         <name lang="fr">Statistiques en matière d’asile</name>
         <name lang="it">Statistiche sull’asilo</name>
-      </keyword>
-      <keyword id="SLW-9" org-id="405">
-        <name lang="fr">Statistiques en matière d’asile</name>
-        <name lang="it">Statistiche sull’asilo</name>
-        <name lang="de">Asylstatistik</name>
-        <name lang="en">Asylum statistics</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -83,11 +83,11 @@
         <name lang="rm">Asil</name>
       </topic>
       <topic id="43">
-        <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
+        <name lang="de">Wissen &amp; Statistik</name>
       </topic>
       <topic id="20">
         <name lang="de">Migration &amp; Integration</name>
