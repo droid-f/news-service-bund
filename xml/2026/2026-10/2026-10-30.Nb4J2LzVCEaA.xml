@@ -6,51 +6,51 @@
     <pubdate>2026-10-30</pubdate>
     <originator id="703" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
       <name lang="en">State Secretariat for Economic Affairs</name>
       <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
       <name lang="rm">Secretariat da stadi per l'economia</name>
-      <www lang="fr">https://www.seco.admin.ch/fr</www>
-      <www lang="it">https://www.seco.admin.ch/it</www>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
       <www lang="rm">https://www.seco.admin.ch</www>
       <www lang="de">https://www.seco.admin.ch</www>
       <www lang="en">https://www.seco.admin.ch/en</www>
+      <www lang="fr">https://www.seco.admin.ch/fr</www>
+      <www lang="it">https://www.seco.admin.ch/it</www>
+      <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
-      <email lang="rm">medien@seco.admin.ch</email>
     </originator>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <www lang="it">https://www.eda.admin.ch/it</www>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="1080" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
-      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
       <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
-      <www lang="de">https://www.sbfi.admin.ch</www>
-      <www lang="en">https://www.sbfi.admin.ch/en</www>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
       <www lang="it">https://www.sbfi.admin.ch/it</www>
+      <www lang="de">https://www.sbfi.admin.ch</www>
+      <www lang="en">https://www.sbfi.admin.ch/en</www>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -59,11 +59,11 @@
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
-      <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
@@ -72,13 +72,6 @@
     </originator>
     <keywords>
       <keyword id="12708" org-id="701">
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
@@ -86,6 +79,13 @@
         <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
         <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
@@ -93,35 +93,35 @@
         <name lang="rm">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
       </keyword>
     </keywords>
     <department id="701">
-      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
-      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
+      <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
+      <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <www lang="it">https://www.wbf.admin.ch/it</www>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
-      <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="en">
       <city>Berna</city>
       <title>Switzerland and China strengthen cooperation in trade and science</title>
       <lead>On 30 October, President Guy Parmelin met with Chinese President Xi Jinping to discuss bilateral relations and current international issues. Switzerland and China are deepening their cooperation particularly in trade and science. Several agreements were signed during the visit, including the optimised bilateral free trade agreement, the associated agreement on cooperation in labour and employment matters, and an agreement governing cooperation in research and development.</lead>
-      <text link="no">&lt;p&gt;During their talks, the two presidents highlighted key milestones in bilateral relations, in particular the establishment of diplomatic relations in 1950, China's first free trade agreement with a European country in 2014, and the establishment of an Innovative Strategic Partnership in 2016. The swift conclusion of negotiations on the optimised free trade agreement was welcomed as a sign of support for the rules-based multilateral trading system centred on the WTO. The optimised agreement will provide companies in both countries with a modern, comprehensive framework for trade and investment.&lt;/p&gt; &lt;p&gt;The two presidents also noted that Switzerland and China hold bilateral talks on around 30 policy areas. The latest round of the human rights dialogue took place in Bern on 19 and 20 October. An exchange on the penal system was held at technical level in January. Global and regional security were also discussed. Mr Parmelin also stressed how closely linked security and stability in Europe and East Asia are, both for their populations and their economies.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Optimised free trade agreement will make trade with China easier&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The signing ceremony took place following the talks, in the presence of both presidents. The optimisation of the free trade agreement between Switzerland and China, which was first established in 2014, will improve access to the Chinese market for Swiss goods and investments. The agreement also strengthens environmental and labour protection provisions – setting these out for the first time in a legally binding chapter on trade and sustainable development in a Chinese free trade agreement.&lt;/p&gt; &lt;p&gt;An agreement on cooperation in labour and employment matters linked to the free trade agreement also signed on Friday.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Greater legal certainty in bilateral research cooperation&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Both countries also agree that they want to establish rules for managing scientific data across borders. This will enable Swiss researchers to exchange research data with their Chinese counterparts within a secure legal framework. To this end, Switzerland and China have signed an agreement.&lt;/p&gt; &lt;p&gt;Mr Parmelin's programme through Saturday also includes talks with other members of the Chinese government. He will meet with Minister of Commerce Wang Wentao, Minister of Human Resources and Social Security Wang Xiaoping, Minister of Education Huai Jinpeng, and Minister of Science and Technology Yin Hejun. Meetings with leading business representatives from both countries and the opening of the 9th Sino-Swiss Economic Forum are also planned. A business and scientific delegation is accompanying the president on this trip.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Further information:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.eda.admin.ch/en/bilateral-relations-switzerland-vietnam"&gt;Bilateral relations Switzerland–China&lt;/a&gt;&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;During their talks, the two presidents highlighted key milestones in bilateral relations, in particular the establishment of diplomatic relations in 1950, China's first free trade agreement with a European country in 2014, and the establishment of an Innovative Strategic Partnership in 2016. The swift conclusion of negotiations on the optimised free trade agreement was welcomed as a sign of support for the rules-based multilateral trading system centred on the WTO. The optimised agreement will provide companies in both countries with a modern, comprehensive framework for trade and investment.&lt;/p&gt; &lt;p&gt;The two presidents also noted that Switzerland and China hold bilateral talks on around 30 policy areas. The latest round of the human rights dialogue took place in Bern on 19 and 20 October. An exchange on the penal system was held at technical level in January. Global and regional security were also discussed. Mr Parmelin also stressed how closely linked security and stability in Europe and East Asia are, both for their populations and their economies.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Optimised free trade agreement will make trade with China easier&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The signing ceremony took place following the talks, in the presence of both presidents. The optimisation of the free trade agreement between Switzerland and China, which was first established in 2014, will improve access to the Chinese market for Swiss goods and investments. The agreement also strengthens environmental and labour protection provisions – setting these out for the first time in a legally binding chapter on trade and sustainable development in a Chinese free trade agreement.&lt;/p&gt; &lt;p&gt;An agreement on cooperation in labour and employment matters linked to the free trade agreement also signed on Friday.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Greater legal certainty in bilateral research cooperation&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Both countries also agree that they want to establish rules for managing scientific data across borders. This will enable Swiss researchers to exchange research data with their Chinese counterparts within a secure legal framework. To this end, Switzerland and China have signed an agreement.&lt;/p&gt; &lt;p&gt;Mr Parmelin's programme through Saturday also includes talks with other members of the Chinese government. He will meet with Minister of Commerce Wang Wentao, Minister of Human Resources and Social Security Wang Xiaoping, Minister of Education Huai Jinpeng, and Minister of Science and Technology Yin Hejun. Meetings with leading business representatives from both countries and the opening of the 9th Sino-Swiss Economic Forum are also planned. A business and scientific delegation is accompanying the president on this trip.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Further information:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.eda.admin.ch/en/bilateral-relations-switzerland-china"&gt;Bilateral relations Switzerland–China&lt;/a&gt;&lt;/p&gt;</text>
       <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
@@ -151,18 +151,18 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="39">
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="634">
         <name lang="de">Aussenwirtschaft</name>
@@ -179,25 +179,25 @@
         <name lang="rm">Scienza</name>
       </topic>
       <topic id="88">
-        <name lang="it">Accordi bilaterali</name>
-        <name lang="rm">Cunvegnas bilateralas</name>
         <name lang="de">Bilaterale Abkommen</name>
         <name lang="en">Bilateral agreements</name>
         <name lang="fr">Accords bilatéraux</name>
+        <name lang="it">Accordi bilaterali</name>
+        <name lang="rm">Cunvegnas bilateralas</name>
       </topic>
       <topic id="47">
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="23">
+        <name lang="de">Politische Rechte</name>
         <name lang="en">Political rights</name>
         <name lang="fr">Droits politiques</name>
         <name lang="it">Diritti politici</name>
         <name lang="rm">Dretgs politics</name>
-        <name lang="de">Politische Rechte</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

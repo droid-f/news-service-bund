@@ -6,15 +6,15 @@
     <pubdate>2026-10-15</pubdate>
     <originator id="707" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
       <name lang="en">Federal Office for National Economic Supply</name>
       <name lang="fr">Office fédéral pour l'approvisionnement économique du pays</name>
       <name lang="it">Ufficio federale per l'approvvigionamento economico del Paese</name>
       <name lang="rm">Uffizi federal per il provediment economic dal pajais</name>
-      <www lang="fr">https://www.bwl.admin.ch/fr</www>
-      <www lang="it">https://www.bwl.admin.ch/it</www>
+      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
       <www lang="de">https://www.bwl.admin.ch/de</www>
       <www lang="en">https://www.bwl.admin.ch/en</www>
+      <www lang="fr">https://www.bwl.admin.ch/fr</www>
+      <www lang="it">https://www.bwl.admin.ch/it</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -60,11 +60,11 @@
     </content>
     <topics>
       <topic id="463">
-        <name lang="de">Energieversorgung</name>
-        <name lang="en">Energy supply</name>
         <name lang="fr">Approvisionnement énergétique</name>
         <name lang="it">Approvvigionamento energetico</name>
         <name lang="rm">Provediment d'energia</name>
+        <name lang="de">Energieversorgung</name>
+        <name lang="en">Energy supply</name>
       </topic>
       <topic id="47">
         <name lang="it">Economia e piazza finanziaria</name>
@@ -81,11 +81,11 @@
         <name lang="rm">Traffic e mobilitad</name>
       </topic>
       <topic id="30">
-        <name lang="fr">Situations extraordinaires et crises</name>
-        <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
+        <name lang="fr">Situations extraordinaires et crises</name>
+        <name lang="it">Situazioni straordinarie, crisi</name>
       </topic>
     </topics>
     <offers/>
