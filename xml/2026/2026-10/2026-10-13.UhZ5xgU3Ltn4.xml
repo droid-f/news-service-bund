@@ -19,24 +19,24 @@
     </originator>
     <originator id="317" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Bundesamt für Gesundheit</name>
       <name lang="en">Federal Office of Public Health</name>
       <name lang="fr">Office fédéral de la santé publique</name>
       <name lang="it">Ufficio federale della sanità pubblica</name>
       <name lang="rm">Uffizi federal da sanadad publica</name>
-      <name lang="de">Bundesamt für Gesundheit</name>
       <www lang="de">http://www.bag.admin.ch/</www>
-      <email lang="en">media@bag.admin.ch</email>
       <email lang="fr">media@bag.admin.ch</email>
       <email lang="it">media@bag.admin.ch</email>
       <email lang="rm">media@bag.admin.ch</email>
       <email lang="de">media@bag.admin.ch</email>
+      <email lang="en">media@bag.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-89" org-id="317">
+        <name lang="it">Impfungen-IT</name>
         <name lang="de">Impfungen-DE</name>
         <name lang="en">Impfungen-EN</name>
         <name lang="fr">Impfungen-FR</name>
-        <name lang="it">Impfungen-IT</name>
       </keyword>
       <keyword id="SLW-89" org-id="317">
         <name lang="de">Impfungen-DE</name>
@@ -45,10 +45,10 @@
         <name lang="it">Impfungen-IT</name>
       </keyword>
       <keyword id="SLW-89" org-id="317">
+        <name lang="en">Impfungen-EN</name>
         <name lang="fr">Impfungen-FR</name>
         <name lang="it">Impfungen-IT</name>
         <name lang="de">Impfungen-DE</name>
-        <name lang="en">Impfungen-EN</name>
       </keyword>
     </keywords>
     <department id="301">
@@ -89,18 +89,18 @@
     </content>
     <topics>
       <topic id="15">
-        <name lang="de">Gesundheit</name>
         <name lang="en">Health</name>
         <name lang="fr">Santé</name>
         <name lang="it">Sanità</name>
         <name lang="rm">Sanadad</name>
+        <name lang="de">Gesundheit</name>
       </topic>
       <topic id="41">
+        <name lang="it">Affari sociali, famiglia e società</name>
+        <name lang="rm">Fatgs socials, famiglia e societad</name>
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
         <name lang="en">Social affairs, family &amp; society</name>
         <name lang="fr">Affaires sociales, famille et société</name>
-        <name lang="it">Affari sociali, famiglia e società</name>
-        <name lang="rm">Fatgs socials, famiglia e societad</name>
       </topic>
     </topics>
     <offers/>
