@@ -6,10 +6,10 @@
     <pubdate>2026-11-02</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
@@ -36,9 +36,9 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
     </keywords>
     <content lang="fr">
@@ -75,28 +75,28 @@
     </content>
     <topics>
       <topic id="345">
-        <name lang="de">Cybersicherheit</name>
         <name lang="en">Cybersecurity</name>
         <name lang="fr">Cybersécurité</name>
         <name lang="it">Cibersicurezza</name>
         <name lang="rm">Cybersegirezza</name>
+        <name lang="de">Cybersicherheit</name>
       </topic>
       <topic id="543">
+        <name lang="it">Difesa nazionale</name>
         <name lang="rm">Defensiun naziunala</name>
         <name lang="de">Landesverteidigung</name>
         <name lang="en">National defence</name>
         <name lang="fr">Défense nationale</name>
-        <name lang="it">Difesa nazionale</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
+        <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
-        <name lang="fr">Sécurité</name>
       </topic>
     </topics>
     <offers/>

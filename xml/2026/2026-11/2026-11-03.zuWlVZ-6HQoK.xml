@@ -6,21 +6,21 @@
     <pubdate>2026-11-03</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="it">https://www.eda.admin.ch/it</www>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <name lang="en">Federal Department of Foreign Affairs</name>
       <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+      <www lang="it">https://www.eda.admin.ch/it</www>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords/>
     <content lang="en">
@@ -64,11 +64,11 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="541">
-        <name lang="de">Kooperation</name>
-        <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
         <name lang="rm">Cooperaziun</name>
+        <name lang="de">Kooperation</name>
+        <name lang="en">Cooperation</name>
       </topic>
       <topic id="411">
         <name lang="de">Internationale Organisationen</name>
@@ -85,11 +85,11 @@
         <name lang="fr">Politique étrangère</name>
       </topic>
       <topic id="40">
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

@@ -6,16 +6,16 @@
     <pubdate>2026-10-06</pubdate>
     <originator id="703" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Wirtschaft</name>
       <name lang="en">State Secretariat for Economic Affairs</name>
       <name lang="fr">Secrétariat d'État à l'économie</name>
       <name lang="it">Segreteria di Stato dell'economia</name>
       <name lang="rm">Secretariat da stadi per l'economia</name>
-      <www lang="fr">https://www.seco.admin.ch/fr</www>
+      <name lang="de">Staatssekretariat für Wirtschaft</name>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
       <www lang="de">https://www.seco.admin.ch</www>
       <www lang="en">https://www.seco.admin.ch/en</www>
+      <www lang="fr">https://www.seco.admin.ch/fr</www>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
@@ -66,24 +66,24 @@
     </content>
     <topics>
       <topic id="404">
+        <name lang="de">Arbeitslosigkeit</name>
+        <name lang="en">Unemployment</name>
         <name lang="fr">Chômage</name>
         <name lang="it">Disoccupazione</name>
         <name lang="rm">Dischoccupaziun</name>
-        <name lang="de">Arbeitslosigkeit</name>
-        <name lang="en">Unemployment</name>
       </topic>
       <topic id="47">
+        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="114">
-        <name lang="en">Economy</name>
-        <name lang="fr">Économie</name>
         <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
+        <name lang="en">Economy</name>
+        <name lang="fr">Économie</name>
       </topic>
     </topics>
     <offers/>
