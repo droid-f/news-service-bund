@@ -12,24 +12,24 @@
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
+      <email lang="en">media@fedpol.admin.ch</email>
+      <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
       <email lang="rm">media@fedpol.admin.ch</email>
       <email lang="de">media@fedpol.admin.ch</email>
-      <email lang="en">media@fedpol.admin.ch</email>
-      <email lang="fr">media@fedpol.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-16" org-id="404">
-        <name lang="de">Ausweise</name>
         <name lang="en">Identity documents</name>
         <name lang="fr">Papiers d'identité</name>
         <name lang="it">Documenti d'identità</name>
+        <name lang="de">Ausweise</name>
       </keyword>
       <keyword id="SLW-89" org-id="404">
-        <name lang="de">Reisen und Tourismus</name>
         <name lang="en">Travel and tourism</name>
         <name lang="fr">Voyage et tourisme</name>
         <name lang="it">Viaggi e turismo</name>
+        <name lang="de">Reisen und Tourismus</name>
       </keyword>
       <keyword id="SLW-16" org-id="404">
         <name lang="de">Ausweise</name>
@@ -44,10 +44,10 @@
         <name lang="it">Viaggi e turismo</name>
       </keyword>
       <keyword id="SLW-16" org-id="404">
-        <name lang="it">Documenti d'identità</name>
         <name lang="de">Ausweise</name>
         <name lang="en">Identity documents</name>
         <name lang="fr">Papiers d'identité</name>
+        <name lang="it">Documenti d'identità</name>
       </keyword>
       <keyword id="SLW-89" org-id="404">
         <name lang="de">Reisen und Tourismus</name>
@@ -57,11 +57,11 @@
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
@@ -99,11 +99,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
