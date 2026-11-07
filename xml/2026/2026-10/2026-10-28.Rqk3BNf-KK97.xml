@@ -6,21 +6,21 @@
     <pubdate>2026-10-28</pubdate>
     <originator id="201" department-msg="no" lead="no" topnews="no">
       <department-id>201</department-id>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
       <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
       <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
@@ -37,10 +37,10 @@
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <www lang="it">https://www.sbfi.admin.ch/it</www>
-      <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
+      <www lang="it">https://www.sbfi.admin.ch/it</www>
+      <www lang="de">https://www.sbfi.admin.ch</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -49,34 +49,34 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords/>
     <department id="701">
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -94,14 +94,6 @@
       <contact>Communication DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Der Bundesrat genehmigt das Abkommen zur Regelung der Datenverwaltung in Forschungsprojekten mit der Volksrepublik China</title>
-      <lead>Der Bundesrat hat am 28. Oktober 2026 das «Abkommen über die grenzüberschreitende Verwaltung wissenschaftlicher Daten im Rahmen gemeinsamer Forschungs- und Entwicklungsaktivitäten zwischen der Schweiz und China» genehmigt. Es wird Ende Oktober im Rahmen der Mission des Bundespräsidenten Guy Parmelin in China unterzeichnet.</lead>
-      <text link="no">&lt;p&gt;In den letzten Jahren hat China eine Reihe von Gesetzen und Vorschriften erlassen, die Auswirkungen auf die grenzüberschreitende Forschung haben. Auf Basis der Gesetze zur Cybersicherheit, zur Datensicherheit und zum Schutz personenbezogener Daten sowie von Massnahmen zur Verwaltung wissenschaftlicher Daten werden diese Daten nach ihrer Bedeutung für China eingestuft. Ihr Export ins Ausland kann verhindert oder bestimmten Bedingungen unterstellt werden.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Eckwerte für den grenzüberschreitenden Austausch wissenschaftlicher Daten&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Das Staatsekretariat für Bildung, Forschung und Innovation SBFI hat mit Unterstützung des Schweizerischen Nationalfonds (SNF) mit dem chinesischen Wissenschafts- und Technologieministerium einen Mechanismus ausgehandelt, der es Schweizer Forscherinnen und Forschern ermöglichen soll, mit ihren chinesischen Partnerinnen und Partnern in einem sichereren rechtlichen Rahmen zusammenzuarbeiten. Beide Seiten haben sich auf ein völkerrechtlich verbindliches Abkommen geeinigt, das die Eckwerte des grenzüberschreitenden Austauschs von wissenschaftlichen Daten festlegt.&lt;/p&gt; &lt;p&gt;Gemäss dem Abkommen obliegt es den chinesischen Projektpartnern, vor und während der Forschungszusammenarbeit - das heisst, nicht erst nach deren Abschluss - abzuklären, ob die generierten Daten gemäss chinesischem Recht als «wichtig» eingestuft werden, was deren Export in die Schweiz in Frage stellen könnte. Die Schweizer Forscherinnen und Forscher haben in diesem Fall die Möglichkeit, sich aus dem Projekt zurückzuziehen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bedeutende Zusammenarbeit mit China in den Bereichen Bildung und Forschung&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die Zusammenarbeit zwischen der Schweiz und China im Wissenschaftsbereich gründet in einem bilateralen Abkommen, das die beiden Länder 1989 geschlossen haben. Auf dessen Basis haben sie ihre Kooperation in Bildung und Forschung schrittweise ausgeweitet. Aufgrund der Unsicherheiten, die durch die neuen chinesischen Datenschutzgesetze entstanden sind, hat der SNF seine bilateralen Projektausschreibungen im Jahr 2021 sistiert. Es ist geplant, diese nach der Unterzeichnung des Abkommens wieder aufzunehmen.&lt;/p&gt;</text>
-      <contact>Kommunikation WBF +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="en">
       <city>Berne</city>
       <title>Federal Council approves agreement on management of research data with the People’s Republic of China</title>
@@ -110,48 +102,56 @@
       <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Der Bundesrat genehmigt das Abkommen zur Regelung der Datenverwaltung in Forschungsprojekten mit der Volksrepublik China</title>
+      <lead>Der Bundesrat hat am 28. Oktober 2026 das «Abkommen über die grenzüberschreitende Verwaltung wissenschaftlicher Daten im Rahmen gemeinsamer Forschungs- und Entwicklungsaktivitäten zwischen der Schweiz und China» genehmigt. Es wird Ende Oktober im Rahmen der Mission des Bundespräsidenten Guy Parmelin in China unterzeichnet.</lead>
+      <text link="no">&lt;p&gt;In den letzten Jahren hat China eine Reihe von Gesetzen und Vorschriften erlassen, die Auswirkungen auf die grenzüberschreitende Forschung haben. Auf Basis der Gesetze zur Cybersicherheit, zur Datensicherheit und zum Schutz personenbezogener Daten sowie von Massnahmen zur Verwaltung wissenschaftlicher Daten werden diese Daten nach ihrer Bedeutung für China eingestuft. Ihr Export ins Ausland kann verhindert oder bestimmten Bedingungen unterstellt werden.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Eckwerte für den grenzüberschreitenden Austausch wissenschaftlicher Daten&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Das Staatsekretariat für Bildung, Forschung und Innovation SBFI hat mit Unterstützung des Schweizerischen Nationalfonds (SNF) mit dem chinesischen Wissenschafts- und Technologieministerium einen Mechanismus ausgehandelt, der es Schweizer Forscherinnen und Forschern ermöglichen soll, mit ihren chinesischen Partnerinnen und Partnern in einem sichereren rechtlichen Rahmen zusammenzuarbeiten. Beide Seiten haben sich auf ein völkerrechtlich verbindliches Abkommen geeinigt, das die Eckwerte des grenzüberschreitenden Austauschs von wissenschaftlichen Daten festlegt.&lt;/p&gt; &lt;p&gt;Gemäss dem Abkommen obliegt es den chinesischen Projektpartnern, vor und während der Forschungszusammenarbeit - das heisst, nicht erst nach deren Abschluss - abzuklären, ob die generierten Daten gemäss chinesischem Recht als «wichtig» eingestuft werden, was deren Export in die Schweiz in Frage stellen könnte. Die Schweizer Forscherinnen und Forscher haben in diesem Fall die Möglichkeit, sich aus dem Projekt zurückzuziehen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bedeutende Zusammenarbeit mit China in den Bereichen Bildung und Forschung&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die Zusammenarbeit zwischen der Schweiz und China im Wissenschaftsbereich gründet in einem bilateralen Abkommen, das die beiden Länder 1989 geschlossen haben. Auf dessen Basis haben sie ihre Kooperation in Bildung und Forschung schrittweise ausgeweitet. Aufgrund der Unsicherheiten, die durch die neuen chinesischen Datenschutzgesetze entstanden sind, hat der SNF seine bilateralen Projektausschreibungen im Jahr 2021 sistiert. Es ist geplant, diese nach der Unterzeichnung des Abkommens wieder aufzunehmen.&lt;/p&gt;</text>
+      <contact>Kommunikation WBF +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="39">
-        <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
       </topic>
       <topic id="634">
-        <name lang="it">Economia esterna</name>
-        <name lang="rm">Economia da l'exteriur</name>
         <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
+        <name lang="it">Economia esterna</name>
+        <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="9">
+        <name lang="it">Scienza</name>
         <name lang="rm">Scienza</name>
         <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
-        <name lang="it">Scienza</name>
       </topic>
       <topic id="88">
+        <name lang="de">Bilaterale Abkommen</name>
+        <name lang="en">Bilateral agreements</name>
         <name lang="fr">Accords bilatéraux</name>
         <name lang="it">Accordi bilaterali</name>
         <name lang="rm">Cunvegnas bilateralas</name>
-        <name lang="de">Bilaterale Abkommen</name>
-        <name lang="en">Bilateral agreements</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>
