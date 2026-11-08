@@ -24,12 +24,6 @@
     </originator>
     <keywords>
       <keyword id="5898" org-id="201">
-        <name lang="fr">Turquie</name>
-        <name lang="it">Turchia</name>
-        <name lang="de">Türkei</name>
-        <name lang="en">Turkey</name>
-      </keyword>
-      <keyword id="5898" org-id="201">
         <name lang="de">Türkei</name>
         <name lang="en">Turkey</name>
         <name lang="fr">Turquie</name>
@@ -42,10 +36,16 @@
         <name lang="en">Turkey</name>
       </keyword>
       <keyword id="5898" org-id="201">
-        <name lang="it">Turchia</name>
         <name lang="de">Türkei</name>
         <name lang="en">Turkey</name>
         <name lang="fr">Turquie</name>
+        <name lang="it">Turchia</name>
+      </keyword>
+      <keyword id="5898" org-id="201">
+        <name lang="de">Türkei</name>
+        <name lang="en">Turkey</name>
+        <name lang="fr">Turquie</name>
+        <name lang="it">Turchia</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -82,11 +82,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="550">
         <name lang="de">Sicherheitspolitik</name>
@@ -117,23 +117,23 @@
         <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="40">
-        <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
+        <name lang="it">Sicurezza</name>
       </topic>
       <topic id="110">
+        <name lang="it">Sicurezza</name>
         <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
-        <name lang="it">Sicurezza</name>
       </topic>
       <topic id="103">
-        <name lang="de">Aussenbeziehungen</name>
-        <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
+        <name lang="en">External relations</name>
       </topic>
     </topics>
     <offers/>

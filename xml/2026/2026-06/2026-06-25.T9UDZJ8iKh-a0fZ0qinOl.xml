@@ -15,22 +15,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-8" org-id="405">
+        <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
-        <name lang="fr">Asile</name>
-      </keyword>
-      <keyword id="SLW-28" org-id="405">
-        <name lang="fr">Délinquance</name>
-        <name lang="it">Delinquenza</name>
-        <name lang="de">Delinquenz</name>
-        <name lang="en">Crime</name>
-      </keyword>
-      <keyword id="SLW-8" org-id="405">
-        <name lang="de">Asyl</name>
-        <name lang="en">Asylum</name>
-        <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
       </keyword>
       <keyword id="SLW-28" org-id="405">
         <name lang="de">Delinquenz</name>
@@ -39,10 +27,22 @@
         <name lang="it">Delinquenza</name>
       </keyword>
       <keyword id="SLW-8" org-id="405">
-        <name lang="de">Asyl</name>
-        <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
+        <name lang="de">Asyl</name>
+        <name lang="en">Asylum</name>
+      </keyword>
+      <keyword id="SLW-28" org-id="405">
+        <name lang="de">Delinquenz</name>
+        <name lang="en">Crime</name>
+        <name lang="fr">Délinquance</name>
+        <name lang="it">Delinquenza</name>
+      </keyword>
+      <keyword id="SLW-8" org-id="405">
+        <name lang="fr">Asile</name>
+        <name lang="it">Asilo</name>
+        <name lang="de">Asyl</name>
+        <name lang="en">Asylum</name>
       </keyword>
       <keyword id="SLW-28" org-id="405">
         <name lang="de">Delinquenz</name>
@@ -52,16 +52,16 @@
       </keyword>
     </keywords>
     <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -94,18 +94,18 @@
     </content>
     <topics>
       <topic id="4">
-        <name lang="de">Asyl</name>
-        <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="rm">Asil</name>
+        <name lang="de">Asyl</name>
+        <name lang="en">Asylum</name>
       </topic>
       <topic id="20">
-        <name lang="de">Migration &amp; Integration</name>
-        <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
+        <name lang="de">Migration &amp; Integration</name>
+        <name lang="en">Migration &amp; Integration</name>
       </topic>
     </topics>
     <offers/>

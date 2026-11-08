@@ -6,11 +6,11 @@
     <pubdate>2025-11-13</pubdate>
     <originator id="1080" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
-      <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
@@ -18,10 +18,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-2879,ORG-1080" org-id="1080">
-        <name lang="it">Panorama universitario</name>
         <name lang="de">Hochschullandschaft</name>
         <name lang="en">University landscape</name>
         <name lang="fr">Paysage des hautes écoles</name>
+        <name lang="it">Panorama universitario</name>
       </keyword>
       <keyword id="SLW-2895,ORG-1080 " org-id="1080">
         <name lang="fr">Science</name>
@@ -30,10 +30,10 @@
         <name lang="en">Science</name>
       </keyword>
       <keyword id="SLW-2896,ORG-1080" org-id="1080">
-        <name lang="fr">Politique scientifique extérieure</name>
-        <name lang="it">Politica scientifica dell'esterno</name>
         <name lang="de">Wissenschaftsaussenpolitik</name>
         <name lang="en">Foreign scientific policy</name>
+        <name lang="fr">Politique scientifique extérieure</name>
+        <name lang="it">Politica scientifica dell'esterno</name>
       </keyword>
       <keyword id="SLW-2879,ORG-1080" org-id="1080">
         <name lang="de">Hochschullandschaft</name>
@@ -48,22 +48,22 @@
         <name lang="it">Scienza</name>
       </keyword>
       <keyword id="SLW-2896,ORG-1080" org-id="1080">
+        <name lang="de">Wissenschaftsaussenpolitik</name>
         <name lang="en">Foreign scientific policy</name>
         <name lang="fr">Politique scientifique extérieure</name>
         <name lang="it">Politica scientifica dell'esterno</name>
-        <name lang="de">Wissenschaftsaussenpolitik</name>
       </keyword>
       <keyword id="SLW-2879,ORG-1080" org-id="1080">
-        <name lang="de">Hochschullandschaft</name>
         <name lang="en">University landscape</name>
         <name lang="fr">Paysage des hautes écoles</name>
         <name lang="it">Panorama universitario</name>
+        <name lang="de">Hochschullandschaft</name>
       </keyword>
       <keyword id="SLW-2895,ORG-1080 " org-id="1080">
+        <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
         <name lang="it">Scienza</name>
-        <name lang="de">Wissenschaft</name>
       </keyword>
       <keyword id="SLW-2896,ORG-1080" org-id="1080">
         <name lang="de">Wissenschaftsaussenpolitik</name>
@@ -83,11 +83,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -115,11 +115,11 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="39">
         <name lang="de">Ausland</name>
@@ -129,18 +129,18 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="9">
-        <name lang="it">Scienza</name>
-        <name lang="rm">Scienza</name>
         <name lang="de">Wissenschaft</name>
         <name lang="en">Science</name>
         <name lang="fr">Science</name>
+        <name lang="it">Scienza</name>
+        <name lang="rm">Scienza</name>
       </topic>
       <topic id="34">
-        <name lang="de">Schweiz und Europa</name>
-        <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
+        <name lang="de">Schweiz und Europa</name>
+        <name lang="en">Switzerland and Europe </name>
       </topic>
     </topics>
     <offers/>

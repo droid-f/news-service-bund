@@ -34,11 +34,11 @@
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Bern</city>
@@ -66,11 +66,11 @@
     </content>
     <topics>
       <topic id="621">
+        <name lang="en">Public transport</name>
+        <name lang="fr">Transports publics</name>
         <name lang="it">Trasporto pubblico</name>
         <name lang="rm">Traffic public</name>
         <name lang="de">Öffentlicher Verkehr</name>
-        <name lang="en">Public transport</name>
-        <name lang="fr">Transports publics</name>
       </topic>
       <topic id="46">
         <name lang="de">Verkehr &amp; Mobilität</name>
@@ -80,10 +80,10 @@
         <name lang="rm">Traffic e mobilitad</name>
       </topic>
       <topic id="115">
+        <name lang="de">Mobilität</name>
         <name lang="en">Mobility</name>
         <name lang="fr">Mobilité</name>
         <name lang="it">Mobilità</name>
-        <name lang="de">Mobilität</name>
       </topic>
     </topics>
     <offers/>

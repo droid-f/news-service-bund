@@ -15,11 +15,11 @@
     </originator>
     <originator id="404" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="de">Bundesamt für Polizei</name>
-      <name lang="en">Federal Office of Police</name>
       <name lang="fr">Office fédéral de la police</name>
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
+      <name lang="de">Bundesamt für Polizei</name>
+      <name lang="en">Federal Office of Police</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
       <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
@@ -29,16 +29,16 @@
     </originator>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
@@ -47,30 +47,30 @@
     </originator>
     <keywords>
       <keyword id="SLW-100" org-id="401">
+        <name lang="it">Politica di sicurezza</name>
+        <name lang="de">Sicherheitspolitik</name>
+        <name lang="en">Security policy</name>
+        <name lang="fr">Politique de sécurité</name>
+      </keyword>
+      <keyword id="SLW-100" org-id="401">
         <name lang="de">Sicherheitspolitik</name>
         <name lang="en">Security policy</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
       </keyword>
       <keyword id="SLW-100" org-id="401">
-        <name lang="fr">Politique de sécurité</name>
-        <name lang="it">Politica di sicurezza</name>
-        <name lang="de">Sicherheitspolitik</name>
-        <name lang="en">Security policy</name>
-      </keyword>
-      <keyword id="SLW-100" org-id="401">
-        <name lang="it">Politica di sicurezza</name>
         <name lang="de">Sicherheitspolitik</name>
         <name lang="en">Security policy</name>
         <name lang="fr">Politique de sécurité</name>
+        <name lang="it">Politica di sicurezza</name>
       </keyword>
     </keywords>
     <department id="501">
+      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
-      <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
@@ -83,16 +83,16 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Bern</city>
@@ -120,18 +120,18 @@
     </content>
     <topics>
       <topic id="550">
-        <name lang="rm">Politica da segirezza</name>
         <name lang="de">Sicherheitspolitik</name>
         <name lang="en">Security policy</name>
         <name lang="fr">Politique de sécurité</name>
         <name lang="it">Politica di sicurezza</name>
+        <name lang="rm">Politica da segirezza</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

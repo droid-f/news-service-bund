@@ -14,11 +14,11 @@
     </originator>
     <originator id="604" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
+      <name lang="de">Eidgenössisches Personalamt</name>
+      <name lang="en">Federal Personnel Office</name>
       <name lang="fr">Office fédéral du personnel</name>
       <name lang="it">Ufficio federale del personale</name>
       <name lang="rm">Uffizi federal da persunal</name>
-      <name lang="de">Eidgenössisches Personalamt</name>
-      <name lang="en">Federal Personnel Office</name>
       <www lang="de">https://www.epa.admin.ch/epa/de/home.html</www>
       <www lang="en">https://www.epa.admin.ch/epa/de/home.html</www>
       <www lang="fr">https://www.epa.admin.ch/epa/fr/home.html</www>
@@ -32,21 +32,21 @@
     </originator>
     <keywords/>
     <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <www lang="it">https://www.efd.admin.ch/it</www>
-      <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
-      <email lang="de">media@gs-efd.admin.ch</email>
-      <email lang="en">media@gs-efd.admin.ch</email>
+      <www lang="it">https://www.efd.admin.ch/it</www>
+      <www lang="rm">https://www.efd.admin.ch/rm</www>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
+      <email lang="de">media@gs-efd.admin.ch</email>
+      <email lang="en">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -74,11 +74,11 @@
     </content>
     <topics>
       <topic id="426">
-        <name lang="en">Press releases concerning the authorities</name>
-        <name lang="fr">Communiqués concernant les autorités</name>
         <name lang="it">Comunicazioni riguardanti le autorità</name>
         <name lang="rm">Communicaziuns d'autoritads</name>
         <name lang="de">Mitteilungen über Behörden</name>
+        <name lang="en">Press releases concerning the authorities</name>
+        <name lang="fr">Communiqués concernant les autorités</name>
       </topic>
       <topic id="10">
         <name lang="fr">Conseil fédéral</name>
@@ -88,11 +88,11 @@
         <name lang="en">Federal Council</name>
       </topic>
       <topic id="5">
+        <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
         <name lang="rm">Autoritads</name>
         <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
-        <name lang="fr">Autorités</name>
       </topic>
     </topics>
     <offers/>

@@ -6,11 +6,11 @@
     <pubdate>2025-12-08</pubdate>
     <originator id="401" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
@@ -24,6 +24,18 @@
     </originator>
     <keywords>
       <keyword id="SLW-95" org-id="401">
+        <name lang="it">Schengen/Dublin</name>
+        <name lang="de">Schengen/Dublin</name>
+        <name lang="en">Schengen/Dublin</name>
+        <name lang="fr">Schengen/Dublin</name>
+      </keyword>
+      <keyword id="SLW-72" org-id="401">
+        <name lang="de">Migrationspolitik international</name>
+        <name lang="en">International politics of migration</name>
+        <name lang="fr">Politique migratoire internationale</name>
+        <name lang="it">Politica migratoria internazionale</name>
+      </keyword>
+      <keyword id="SLW-95" org-id="401">
         <name lang="de">Schengen/Dublin</name>
         <name lang="en">Schengen/Dublin</name>
         <name lang="fr">Schengen/Dublin</name>
@@ -36,22 +48,10 @@
         <name lang="it">Politica migratoria internazionale</name>
       </keyword>
       <keyword id="SLW-95" org-id="401">
+        <name lang="de">Schengen/Dublin</name>
         <name lang="en">Schengen/Dublin</name>
         <name lang="fr">Schengen/Dublin</name>
         <name lang="it">Schengen/Dublin</name>
-        <name lang="de">Schengen/Dublin</name>
-      </keyword>
-      <keyword id="SLW-72" org-id="401">
-        <name lang="de">Migrationspolitik international</name>
-        <name lang="en">International politics of migration</name>
-        <name lang="fr">Politique migratoire internationale</name>
-        <name lang="it">Politica migratoria internazionale</name>
-      </keyword>
-      <keyword id="SLW-95" org-id="401">
-        <name lang="en">Schengen/Dublin</name>
-        <name lang="fr">Schengen/Dublin</name>
-        <name lang="it">Schengen/Dublin</name>
-        <name lang="de">Schengen/Dublin</name>
       </keyword>
       <keyword id="SLW-72" org-id="401">
         <name lang="de">Migrationspolitik international</name>
@@ -86,18 +86,18 @@
     </content>
     <topics>
       <topic id="34">
+        <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
         <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
-        <name lang="fr">Suisse et Europe </name>
       </topic>
       <topic id="20">
+        <name lang="en">Migration &amp; Integration</name>
+        <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
-        <name lang="en">Migration &amp; Integration</name>
-        <name lang="fr">Migration et intégration</name>
       </topic>
     </topics>
     <offers/>

@@ -15,11 +15,11 @@
       <www lang="en">https://www.oak-bv.admin.ch/en</www>
       <www lang="fr">https://www.oak-bv.admin.ch/fr</www>
       <www lang="it">https://www.oak-bv.admin.ch/it</www>
-      <email lang="it">nina.lerch@oak-bv.admin.ch</email>
-      <email lang="rm">nina.lerch@oak-bv.admin.ch</email>
       <email lang="de">nina.lerch@oak-bv.admin.ch</email>
       <email lang="en">nina.lerch@oak-bv.admin.ch</email>
       <email lang="fr">nina.lerch@oak-bv.admin.ch</email>
+      <email lang="it">nina.lerch@oak-bv.admin.ch</email>
+      <email lang="rm">nina.lerch@oak-bv.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -28,11 +28,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
     </department>
     <content lang="fr">
       <city>Bern</city>
@@ -59,18 +59,18 @@
         <name lang="rm">Martgà da finanzas</name>
       </topic>
       <topic id="31">
+        <name lang="en">Social insurance</name>
         <name lang="fr">Assurances sociales</name>
         <name lang="it">Assicurazioni sociali</name>
         <name lang="rm">Assicuranzas socialas</name>
         <name lang="de">Sozialversicherungen</name>
-        <name lang="en">Social insurance</name>
       </topic>
       <topic id="564">
+        <name lang="it">Sicurezza sociale</name>
+        <name lang="rm">Segirezza sociala</name>
         <name lang="de">Soziale Sicherheit</name>
         <name lang="en">Social security</name>
         <name lang="fr">Sécurité sociale</name>
-        <name lang="it">Sicurezza sociale</name>
-        <name lang="rm">Segirezza sociala</name>
       </topic>
       <topic id="34">
         <name lang="en">Occupational pensions</name>
@@ -80,25 +80,25 @@
         <name lang="de">Berufliche Vorsorge</name>
       </topic>
       <topic id="426">
-        <name lang="de">Mitteilungen über Behörden</name>
-        <name lang="en">Press releases concerning the authorities</name>
         <name lang="fr">Communiqués concernant les autorités</name>
         <name lang="it">Comunicazioni riguardanti le autorità</name>
         <name lang="rm">Communicaziuns d'autoritads</name>
+        <name lang="de">Mitteilungen über Behörden</name>
+        <name lang="en">Press releases concerning the authorities</name>
       </topic>
       <topic id="406">
+        <name lang="en">Gainful employment</name>
+        <name lang="fr">Activité lucrative</name>
         <name lang="it">Attività lucrativa</name>
         <name lang="rm">Activitad da gudogn</name>
         <name lang="de">Erwerbstätigkeit</name>
-        <name lang="en">Gainful employment</name>
-        <name lang="fr">Activité lucrative</name>
       </topic>
       <topic id="47">
-        <name lang="en">Economic &amp; Financial Centre</name>
-        <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
+        <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="41">
         <name lang="de">Soziales, Familie &amp; Gesellschaft</name>
@@ -115,11 +115,11 @@
         <name lang="fr">Autorités</name>
       </topic>
       <topic id="2">
+        <name lang="it">Lavoro</name>
+        <name lang="rm">Lavur</name>
         <name lang="de">Arbeit</name>
         <name lang="en">Work</name>
         <name lang="fr">Travail</name>
-        <name lang="it">Lavoro</name>
-        <name lang="rm">Lavur</name>
       </topic>
     </topics>
     <offers/>

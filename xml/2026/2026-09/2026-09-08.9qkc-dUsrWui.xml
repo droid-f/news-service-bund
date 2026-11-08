@@ -11,16 +11,16 @@
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
       <name lang="rm">Gruppa da defensiun</name>
-      <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
+      <www lang="rm">http://www.vtg.admin.ch/</www>
+      <email lang="en"> </email>
+      <email lang="fr"> </email>
       <email lang="it"> </email>
       <email lang="rm"> </email>
       <email lang="de"> </email>
-      <email lang="en"> </email>
-      <email lang="fr"> </email>
     </originator>
     <originator id="1100" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
@@ -29,16 +29,16 @@
       <name lang="rm">Scola auta federala da sport a Magglingen</name>
       <name lang="de">Eidgenössische Hochschule für Sport Magglingen</name>
       <name lang="en">Swiss Federal Institute of Sport Magglingen</name>
+      <www lang="it">https://www.ehsm.admin.ch/it</www>
+      <www lang="rm">https://www.ehsm.admin.ch/de</www>
       <www lang="de">https://www.ehsm.admin.ch</www>
       <www lang="en">https://www.ehsm.admin.ch/en</www>
       <www lang="fr">https://www.ehsm.admin.ch/fr</www>
-      <www lang="it">https://www.ehsm.admin.ch/it</www>
-      <www lang="rm">https://www.ehsm.admin.ch/de</www>
-      <email lang="de">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
       <email lang="fr">info@baspo.admin.ch</email>
       <email lang="it">info@baspo.admin.ch</email>
       <email lang="rm">info@baspo.admin.ch</email>
+      <email lang="de">info@baspo.admin.ch</email>
     </originator>
     <originator id="508" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
@@ -47,10 +47,10 @@
       <name lang="fr">Office fédéral du sport OFSPO</name>
       <name lang="it">Ufficio federale dello sport UFSPO</name>
       <name lang="rm">Uffizi federal da sport</name>
+      <www lang="it">http://www.baspo.admin.ch/</www>
       <www lang="de">http://www.baspo.admin.ch</www>
       <www lang="en">http://www.baspo.admin.ch/</www>
       <www lang="fr">http://www.baspo.admin.ch/</www>
-      <www lang="it">http://www.baspo.admin.ch/</www>
       <email lang="de">info@baspo.admin.ch</email>
       <email lang="en">info@baspo.admin.ch</email>
       <email lang="fr">info@baspo.admin.ch</email>
@@ -64,15 +64,15 @@
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
-      <www lang="it">http://www.vbs.admin.ch/it</www>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
-      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -116,11 +116,11 @@
         <name lang="de">Armee</name>
       </topic>
       <topic id="42">
+        <name lang="en">Sport</name>
         <name lang="fr">Sport</name>
         <name lang="it">Sport</name>
         <name lang="rm">Sport</name>
         <name lang="de">Sport</name>
-        <name lang="en">Sport</name>
       </topic>
     </topics>
     <offers/>

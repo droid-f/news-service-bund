@@ -16,18 +16,18 @@
       <www lang="fr">https://www.bafu.admin.ch/fr</www>
       <www lang="it">https://www.bafu.admin.ch/it</www>
       <www lang="rm">https://www.bafu.admin.ch/rm</www>
+      <email lang="rm">medien@bafu.admin.ch</email>
       <email lang="de">medien@bafu.admin.ch</email>
       <email lang="en">medien@bafu.admin.ch</email>
       <email lang="fr">medien@bafu.admin.ch</email>
       <email lang="it">medien@bafu.admin.ch</email>
-      <email lang="rm">medien@bafu.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-1390" org-id="811">
-        <name lang="de">Wasser</name>
         <name lang="en">Water</name>
         <name lang="fr">Eaux</name>
         <name lang="it">Acque</name>
+        <name lang="de">Wasser</name>
       </keyword>
       <keyword id="SLW-173" org-id="811">
         <name lang="de">Startseite BAFU</name>
@@ -42,10 +42,10 @@
         <name lang="de">Biodiversität</name>
       </keyword>
       <keyword id="SLW-1390" org-id="811">
+        <name lang="de">Wasser</name>
         <name lang="en">Water</name>
         <name lang="fr">Eaux</name>
         <name lang="it">Acque</name>
-        <name lang="de">Wasser</name>
       </keyword>
       <keyword id="SLW-173" org-id="811">
         <name lang="de">Startseite BAFU</name>
@@ -54,22 +54,22 @@
         <name lang="it">Pagina iniziale UFAM</name>
       </keyword>
       <keyword id="SLW-50" org-id="811">
-        <name lang="de">Biodiversität</name>
         <name lang="en">Biodiversity</name>
         <name lang="fr">Biodiversité</name>
         <name lang="it">Biodiversità</name>
+        <name lang="de">Biodiversität</name>
       </keyword>
       <keyword id="SLW-50" org-id="811">
+        <name lang="it">Biodiversità</name>
         <name lang="de">Biodiversität</name>
         <name lang="en">Biodiversity</name>
         <name lang="fr">Biodiversité</name>
-        <name lang="it">Biodiversità</name>
       </keyword>
       <keyword id="SLW-173" org-id="811">
-        <name lang="fr">Page d'accueil OFEV</name>
-        <name lang="it">Pagina iniziale UFAM</name>
         <name lang="de">Startseite BAFU</name>
         <name lang="en">Homepage FOEN</name>
+        <name lang="fr">Page d'accueil OFEV</name>
+        <name lang="it">Pagina iniziale UFAM</name>
       </keyword>
       <keyword id="SLW-1390" org-id="811">
         <name lang="de">Wasser</name>
@@ -89,11 +89,11 @@
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -128,17 +128,17 @@
         <name lang="rm">Ecologia</name>
       </topic>
       <topic id="21">
-        <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
+        <name lang="de">Umwelt &amp; Natur</name>
       </topic>
       <topic id="112">
-        <name lang="de">Umwelt</name>
         <name lang="en">Environment</name>
         <name lang="fr">Environnement</name>
         <name lang="it">Ambiente</name>
+        <name lang="de">Umwelt</name>
       </topic>
     </topics>
     <offers/>

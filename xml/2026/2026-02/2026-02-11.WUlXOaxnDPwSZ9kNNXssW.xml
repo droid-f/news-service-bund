@@ -6,11 +6,11 @@
     <pubdate>2026-02-11</pubdate>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
+      <www lang="rm">https://www.admin.ch/rm</www>
       <www lang="de">https://www.admin.ch</www>
       <www lang="en">https://www.admin.ch/en</www>
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="301" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
@@ -38,11 +38,11 @@
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
@@ -75,11 +75,11 @@
     </content>
     <topics>
       <topic id="18">
-        <name lang="en">Culture</name>
-        <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
         <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
+        <name lang="en">Culture</name>
+        <name lang="fr">Culture</name>
       </topic>
     </topics>
     <offers/>

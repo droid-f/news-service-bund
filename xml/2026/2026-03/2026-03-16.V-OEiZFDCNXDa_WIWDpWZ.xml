@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="6305" org-id="201">
@@ -30,16 +30,28 @@
         <name lang="en">Lebanon</name>
       </keyword>
       <keyword id="6306" org-id="201">
-        <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
         <name lang="fr">Syrie</name>
         <name lang="it">Siria</name>
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
       </keyword>
       <keyword id="6305" org-id="201">
+        <name lang="it">Libano</name>
         <name lang="de">Libanon</name>
         <name lang="en">Lebanon</name>
         <name lang="fr">Liban</name>
+      </keyword>
+      <keyword id="6306" org-id="201">
+        <name lang="it">Siria</name>
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
+        <name lang="fr">Syrie</name>
+      </keyword>
+      <keyword id="6305" org-id="201">
         <name lang="it">Libano</name>
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
+        <name lang="fr">Liban</name>
       </keyword>
       <keyword id="6306" org-id="201">
         <name lang="de">Syrien</name>
@@ -48,28 +60,16 @@
         <name lang="it">Siria</name>
       </keyword>
       <keyword id="6305" org-id="201">
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
-        <name lang="fr">Liban</name>
-        <name lang="it">Libano</name>
-      </keyword>
-      <keyword id="6306" org-id="201">
-        <name lang="en">Syria</name>
-        <name lang="fr">Syrie</name>
-        <name lang="it">Siria</name>
-        <name lang="de">Syrien</name>
-      </keyword>
-      <keyword id="6305" org-id="201">
         <name lang="fr">Liban</name>
         <name lang="it">Libano</name>
         <name lang="de">Libanon</name>
         <name lang="en">Lebanon</name>
       </keyword>
       <keyword id="6306" org-id="201">
+        <name lang="en">Syria</name>
         <name lang="fr">Syrie</name>
         <name lang="it">Siria</name>
         <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -106,11 +106,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="110">
         <name lang="de">Krisen</name>
@@ -120,18 +120,18 @@
         <name lang="rm">Crisas</name>
       </topic>
       <topic id="411">
-        <name lang="en">International organisations</name>
         <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
+        <name lang="en">International organisations</name>
       </topic>
       <topic id="409">
-        <name lang="it">Cooperazione allo sviluppo</name>
-        <name lang="rm">Cooperaziun al svilup</name>
         <name lang="de">Entwicklungszusammenarbeit</name>
         <name lang="en">Development cooperation</name>
         <name lang="fr">Coopération au développement</name>
+        <name lang="it">Cooperazione allo sviluppo</name>
+        <name lang="rm">Cooperaziun al svilup</name>
       </topic>
       <topic id="16">
         <name lang="de">Aussenpolitik</name>
@@ -141,11 +141,11 @@
         <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="30">
-        <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
         <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
+        <name lang="de">Ausserordentliche Lage, Krise</name>
       </topic>
     </topics>
     <offers/>

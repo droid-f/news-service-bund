@@ -14,16 +14,16 @@
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
+      <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
-      <email lang="fr">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -75,11 +75,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="602">
         <name lang="de">Abfall</name>
@@ -89,11 +89,11 @@
         <name lang="rm">Rument</name>
       </topic>
       <topic id="34">
+        <name lang="de">Schweiz und Europa</name>
+        <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
-        <name lang="en">Switzerland and Europe </name>
       </topic>
       <topic id="21">
         <name lang="en">Environment &amp; Nature</name>
@@ -103,16 +103,16 @@
         <name lang="de">Umwelt &amp; Natur</name>
       </topic>
       <topic id="112">
-        <name lang="de">Umwelt</name>
-        <name lang="en">Environment</name>
         <name lang="fr">Environnement</name>
         <name lang="it">Ambiente</name>
+        <name lang="de">Umwelt</name>
+        <name lang="en">Environment</name>
       </topic>
       <topic id="103">
+        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
-        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>

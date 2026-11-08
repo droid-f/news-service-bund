@@ -16,11 +16,11 @@
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
+      <email lang="rm">medien@seco.admin.ch</email>
       <email lang="de">medien@seco.admin.ch</email>
       <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
-      <email lang="rm">medien@seco.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-703001" org-id="703">
@@ -36,16 +36,16 @@
         <name lang="it">SECO Cooperation</name>
       </keyword>
       <keyword id="SLW-703001" org-id="703">
+        <name lang="de">SECO Cooperation</name>
         <name lang="en">SECO Cooperation</name>
         <name lang="fr">SECO Cooperation</name>
         <name lang="it">SECO Cooperation</name>
-        <name lang="de">SECO Cooperation</name>
       </keyword>
       <keyword id="SLW-703001" org-id="703">
-        <name lang="it">SECO Cooperation</name>
         <name lang="de">SECO Cooperation</name>
         <name lang="en">SECO Cooperation</name>
         <name lang="fr">SECO Cooperation</name>
+        <name lang="it">SECO Cooperation</name>
       </keyword>
     </keywords>
     <department id="701">
@@ -59,11 +59,11 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="fr">
       <city>Berne</city>
@@ -106,11 +106,11 @@
         <name lang="rm">Collavuraziun e svilup economic</name>
       </topic>
       <topic id="634">
-        <name lang="rm">Economia da l'exteriur</name>
         <name lang="de">Aussenwirtschaft</name>
         <name lang="en">Foreign economic affairs</name>
         <name lang="fr">Économie extérieure</name>
         <name lang="it">Economia esterna</name>
+        <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="47">
         <name lang="it">Economia e piazza finanziaria</name>
@@ -120,10 +120,10 @@
         <name lang="fr">Économie et place financière</name>
       </topic>
       <topic id="114">
-        <name lang="fr">Économie</name>
-        <name lang="it">Economia</name>
         <name lang="de">Wirtschaft</name>
         <name lang="en">Economy</name>
+        <name lang="fr">Économie</name>
+        <name lang="it">Economia</name>
       </topic>
     </topics>
     <offers/>
