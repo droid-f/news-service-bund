@@ -6,11 +6,11 @@
     <pubdate>2026-10-23</pubdate>
     <originator id="101" department-msg="no" lead="yes" topnews="no">
       <department-id>101</department-id>
+      <www lang="it">https://www.bk.admin.ch/it</www>
+      <www lang="rm">https://www.bk.admin.ch/rm</www>
       <www lang="de">https://www.bk.admin.ch/de</www>
-      <www lang="en">https://www.bk.admin.ch/en/</www>
-      <www lang="fr">https://www.bk.admin.ch/fr/</www>
-      <www lang="it">https://www.bk.admin.ch/it/</www>
-      <www lang="rm">https://www.bk.admin.ch/rm/</www>
+      <www lang="en">https://www.bk.admin.ch/en</www>
+      <www lang="fr">https://www.bk.admin.ch/fr</www>
     </originator>
     <keywords/>
     <content lang="it">
@@ -39,18 +39,18 @@
     </content>
     <topics>
       <topic id="506">
-        <name lang="it">Referendum</name>
-        <name lang="rm">Referendums</name>
         <name lang="de">Referenden</name>
         <name lang="en">Referendums</name>
         <name lang="fr">Référendums</name>
+        <name lang="it">Referendum</name>
+        <name lang="rm">Referendums</name>
       </topic>
       <topic id="23">
+        <name lang="en">Political rights</name>
+        <name lang="fr">Droits politiques</name>
         <name lang="it">Diritti politici</name>
         <name lang="rm">Dretgs politics</name>
         <name lang="de">Politische Rechte</name>
-        <name lang="en">Political rights</name>
-        <name lang="fr">Droits politiques</name>
       </topic>
     </topics>
     <offers/>

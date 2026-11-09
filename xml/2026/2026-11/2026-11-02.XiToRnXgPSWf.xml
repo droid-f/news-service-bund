@@ -14,13 +14,18 @@
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
+      <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
-      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
+        <name lang="fr">Rapport</name>
+        <name lang="it">Verifica</name>
+        <name lang="rm">Repport</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
@@ -29,11 +34,6 @@
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
-        <name lang="rm">Repport</name>
-        <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -41,6 +41,14 @@
         <name lang="rm">Repport</name>
       </keyword>
     </keywords>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Audit of the steering of the real estate portfolio</title>
+      <lead>The Swiss Armed Forces need real estate to fulfil their training and operational mission. This includes barracks, military airfields and military training areas, for example. These properties are recorded in the real estate portfolio of armasuisse Real Estate (ar Immo), which had a value as new of CHF 28.4 billion at the end of 2025. Of this, CHF 23.9 billion is in the core portfolio and is therefore in longer-term use. The current geopolitical situation is leading to a realignment of the Armed Forces, which is also changing their real estate portfolio. The stationing concept originally envisaged reducing the core portfolio to CHF 20 billion. In 2022, however, this was reversed in favour of an expansion to up to CHF 30 billion. The Swiss Federal Audit Office (SFAO) examined whether ar Immo steers its portfolio with suitable instruments and, on the basis of adequate requirements, ensures that projects are carried out economically. The audit identified several areas requiring action, some of them already known: unclear user requirements, a missing strategy, insufficient steering, a backlog of repairs and a lack of standardisation. As a result, ar Immo can perform its tasks only to a limited extent. The Real Estate Board must therefore take fundamental decisions on the direction to be taken.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/steering-of-the-real-estate-portfolio/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Audit du pilotage du portefeuille immobilier</title>
@@ -65,31 +73,23 @@
       <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Audit of the steering of the real estate portfolio</title>
-      <lead>The Swiss Armed Forces need real estate to fulfil their training and operational mission. This includes barracks, military airfields and military training areas, for example. These properties are recorded in the real estate portfolio of armasuisse Real Estate (ar Immo), which had a value as new of CHF 28.4 billion at the end of 2025. Of this, CHF 23.9 billion is in the core portfolio and is therefore in longer-term use. The current geopolitical situation is leading to a realignment of the Armed Forces, which is also changing their real estate portfolio. The stationing concept originally envisaged reducing the core portfolio to CHF 20 billion. In 2022, however, this was reversed in favour of an expansion to up to CHF 30 billion. The Swiss Federal Audit Office (SFAO) examined whether ar Immo steers its portfolio with suitable instruments and, on the basis of adequate requirements, ensures that projects are carried out economically. The audit identified several areas requiring action, some of them already known: unclear user requirements, a missing strategy, insufficient steering, a backlog of repairs and a lack of standardisation. As a result, ar Immo can perform its tasks only to a limited extent. The Real Estate Board must therefore take fundamental decisions on the direction to be taken.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/steering-of-the-real-estate-portfolio/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="530">
-        <name lang="it">Istruzione</name>
-        <name lang="rm">Scolaziun</name>
         <name lang="de">Ausbildung</name>
         <name lang="en">Training</name>
         <name lang="fr">Instruction</name>
+        <name lang="it">Istruzione</name>
+        <name lang="rm">Scolaziun</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>
