@@ -15,11 +15,11 @@
       <www lang="it">https://www.bazg.admin.ch/it</www>
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
-      <email lang="it">medien@bazg.admin.ch</email>
       <email lang="rm">medien@bazg.admin.ch</email>
       <email lang="de">medien@bazg.admin.ch</email>
       <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
+      <email lang="it">medien@bazg.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="278" org-id="606">
@@ -29,16 +29,16 @@
         <name lang="it">specialista dogana e sicurezza dei confini</name>
       </keyword>
       <keyword id="318" org-id="606">
+        <name lang="de">Medien</name>
         <name lang="en">media</name>
         <name lang="fr">médias</name>
         <name lang="it">media</name>
-        <name lang="de">Medien</name>
       </keyword>
       <keyword id="278" org-id="606">
-        <name lang="it">specialista dogana e sicurezza dei confini</name>
         <name lang="de">FachspezialistIn Zoll und Grenzsicherheit FAZG</name>
         <name lang="en">customs and border security specialist</name>
         <name lang="fr">spécialiste en douane et sécurité des frontières</name>
+        <name lang="it">specialista dogana e sicurezza dei confini</name>
       </keyword>
       <keyword id="318" org-id="606">
         <name lang="de">Medien</name>
@@ -60,16 +60,16 @@
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
-      <www lang="de">https://www.efd.admin.ch</www>
-      <www lang="en">https://www.efd.admin.ch/en</www>
+      <name lang="it">Dipartimento federale delle finanze</name>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
+      <www lang="en">https://www.efd.admin.ch/en</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -102,11 +102,11 @@
     </content>
     <topics>
       <topic id="48">
+        <name lang="de">Zoll</name>
+        <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
-        <name lang="de">Zoll</name>
-        <name lang="en">Customs</name>
       </topic>
     </topics>
     <offers/>

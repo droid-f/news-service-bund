@@ -6,15 +6,15 @@
     <pubdate>2026-10-15</pubdate>
     <originator id="707" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
-      <name lang="en">Federal Office for National Economic Supply</name>
       <name lang="fr">Office fédéral pour l'approvisionnement économique du pays</name>
       <name lang="it">Ufficio federale per l'approvvigionamento economico del Paese</name>
       <name lang="rm">Uffizi federal per il provediment economic dal pajais</name>
+      <name lang="de">Bundesamt für wirtschaftliche Landesversorgung</name>
+      <name lang="en">Federal Office for National Economic Supply</name>
+      <www lang="de">https://www.bwl.admin.ch/de</www>
       <www lang="en">https://www.bwl.admin.ch/en</www>
       <www lang="fr">https://www.bwl.admin.ch/fr</www>
       <www lang="it">https://www.bwl.admin.ch/it</www>
-      <www lang="de">https://www.bwl.admin.ch/de</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -67,25 +67,25 @@
         <name lang="rm">Provediment d'energia</name>
       </topic>
       <topic id="47">
-        <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="46">
+        <name lang="it">Trasporti e mobilità</name>
         <name lang="rm">Traffic e mobilitad</name>
         <name lang="de">Verkehr &amp; Mobilität</name>
         <name lang="en">Transport &amp; Mobility</name>
         <name lang="fr">Transports et mobilité</name>
-        <name lang="it">Trasporti e mobilità</name>
       </topic>
       <topic id="30">
-        <name lang="it">Situazioni straordinarie, crisi</name>
         <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
+        <name lang="it">Situazioni straordinarie, crisi</name>
       </topic>
     </topics>
     <offers/>
