@@ -6,18 +6,18 @@
     <pubdate>2026-11-04</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
+      <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
-      <name lang="fr">Contrôle fédéral des finances</name>
-      <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
+      <www lang="de">https://www.efk.admin.ch</www>
+      <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
-      <email lang="en">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -36,17 +36,17 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
     </keywords>
-    <content lang="fr">
-      <city>Berne</city>
-      <title>Vérification de l’infrastructure et des ressources prévues pour le traitement des signalements</title>
-      <lead>Depuis le 1er avril 2025, les exploitants d’infrastructures critiques sont tenus de signaler les cyberattaques à l’Office fédéral de la cybersécurité (OFCS) dans un délai de 24 heures. À cette fin, l’OFCS met à leur disposition la plateforme en ligne Cyber Security Hub (CSH), qui permet d’échanger des informations sur les incidents qui doivent être signalés et sur les menaces et vulnérabilités actuelles. Le Contrôle fédéral des finances (CDF) a vérifié si la plateforme mise en place par l’OFCS pour le signalement des cyberattaques était solide sur les plans technique et organisationnel. Il a également contrôlé si l’office disposait d’assez de ressources en personnel pour remplir ses tâches liées à l’obligation de signalement. Le CDF conclut que la plateforme CSH permet un traitement efficace des signalements et que les ressources en personnel de l’équipe de gestion des incidents sont suffisantes.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/infrastructure-et-ressources-prevues-pour-le-traitement-des-signalements/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Audit of infrastructure and resources for reporting operations</title>
+      <lead>Effective since 1 April 2025, critical infrastructure operators must report cyberattacks to the National Cyber Security Centre (NCSC) within 24 hours. For this purpose, the NCSC uses the Cyber Security Hub (CSH) online platform, via which reportable incidents and up-to-date threat and vulnerability data can be exchanged. The Swiss Federal Audit Office (SFAO) conducted an audit to determine whether the NCSC has a robust cyber reporting platform, both technically and organisationally, and sufficient staffing to perform its statutory tasks in connection with the reporting obligation. It concluded that CSH enables efficient report processing and that the staffing of the incident management team is sufficient.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/infrastructure-and-resources-for-reporting-operations/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="it">
@@ -57,20 +57,20 @@
       <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Vérification de l’infrastructure et des ressources prévues pour le traitement des signalements</title>
+      <lead>Depuis le 1er avril 2025, les exploitants d’infrastructures critiques sont tenus de signaler les cyberattaques à l’Office fédéral de la cybersécurité (OFCS) dans un délai de 24 heures. À cette fin, l’OFCS met à leur disposition la plateforme en ligne Cyber Security Hub (CSH), qui permet d’échanger des informations sur les incidents qui doivent être signalés et sur les menaces et vulnérabilités actuelles. Le Contrôle fédéral des finances (CDF) a vérifié si la plateforme mise en place par l’OFCS pour le signalement des cyberattaques était solide sur les plans technique et organisationnel. Il a également contrôlé si l’office disposait d’assez de ressources en personnel pour remplir ses tâches liées à l’obligation de signalement. Le CDF conclut que la plateforme CSH permet un traitement efficace des signalements et que les ressources en personnel de l’équipe de gestion des incidents sont suffisantes.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/infrastructure-et-ressources-prevues-pour-le-traitement-des-signalements/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="de">
       <city>Bern</city>
       <title>Prüfung der Infrastruktur und Ressourcen für den Meldebetrieb</title>
       <lead>Seit dem 1. April 2025 müssen Betreiber kritischer Infrastrukturen Cyberangriffe innerhalb von 24 Stunden an das Bundesamt für Cybersicherheit (BACS) melden. Hierfür nutzt das BACS die Online‑Plattform Cyber Security Hub (CSH), über die meldepflichtigen Vorfälle sowie aktuelle Bedrohungs‑ und Schwachstellendaten ausgetauscht werden können. Die Eidgenössische Finanzkontrolle (EFK) prüfte, ob das BACS über eine technisch‑ und organisatorisch robuste Cyber‑Meldeplattform sowie über ausreichend personelle Ressourcen verfügt, um ihre gesetzlichen Aufgaben im Zusammenhang mit der Meldepflicht zu erfüllen. Sie kommt zum Schluss, dass CSH eine effiziente Bearbeitung der Meldungen ermöglicht und dass die personellen Ressourcen des Vorfallbewältigungsteams ausreichen.</lead>
       <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/prufung/infrastruktur-und-ressourcen-fuer-den-meldebetrieb/"&gt;Weitere Details und gesamter Bericht&lt;/a&gt;&lt;/p&gt;</text>
       <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Audit of infrastructure and resources for reporting operations</title>
-      <lead>Effective since 1 April 2025, critical infrastructure operators must report cyberattacks to the National Cyber Security Centre (NCSC) within 24 hours. For this purpose, the NCSC uses the Cyber Security Hub (CSH) online platform, via which reportable incidents and up-to-date threat and vulnerability data can be exchanged. The Swiss Federal Audit Office (SFAO) conducted an audit to determine whether the NCSC has a robust cyber reporting platform, both technically and organisationally, and sufficient staffing to perform its statutory tasks in connection with the reporting obligation. It concluded that CSH enables efficient report processing and that the staffing of the incident management team is sufficient.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/infrastructure-and-resources-for-reporting-operations/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
     <topics>
@@ -89,11 +89,11 @@
         <name lang="rm">Segirezza</name>
       </topic>
       <topic id="5">
-        <name lang="en">Government offices</name>
-        <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
         <name lang="rm">Autoritads</name>
         <name lang="de">Behörden</name>
+        <name lang="en">Government offices</name>
+        <name lang="fr">Autorités</name>
       </topic>
     </topics>
     <offers/>

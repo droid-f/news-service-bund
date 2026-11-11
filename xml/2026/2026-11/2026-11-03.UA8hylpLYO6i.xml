@@ -6,11 +6,11 @@
     <pubdate>2026-11-03</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
-      <name lang="de">Bundesamt für Statistik</name>
       <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
@@ -29,18 +29,18 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
     </department>
-    <content lang="fr">
+    <content lang="en">
       <city>Neuchâtel</city>
-      <title>Les prix à la consommation ont augmenté de 0,2% en octobre</title>
-      <lead>En octobre 2026, l’indice des prix à la consommation (IPC) a augmenté de 0,2% par rapport au mois précédent, pour s’établir à 101,7 points (décembre 2025 = 100). Par rapport au mois correspondant de l’année précédente, le renchérissement s’est chiffré à +1,5%. Ces chiffres ont été établis par l’Office fédéral de la statistique (OFS).</lead>
-      <text link="no">&lt;p&gt;La hausse de l’IPC de 0,2% par rapport au mois précédent s’explique par plusieurs facteurs, dont l’augmentation des prix pour le mazout, l’essence et le diesel. Des hausses de prix ont été enregistrées également pour les chaussures pour femmes et pour hommes, tout comme pour les prestations médicales ambulatoires des hôpitaux. En revanche, les prix des prestations médicales des cabinets médicaux et des voyages à forfait internationaux ont diminué, de même que ceux de l’hôtellerie.&lt;/p&gt; &lt;p&gt;Vous trouverez ce communiqué de presse et d'autres informations sur ce thème sur le &lt;a href="https://statistique.admin.ch/fr/news/2026-0059"&gt;site web de l'OFS&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>OFS, Section Prix Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
+      <title>Consumer prices increased by 0.2% in October</title>
+      <lead>The Consumer Price Index (CPI) increased by 0.2% in October 2026 compared with the previous month, reaching 101.7 points (December 2025 = 100). Inflation was +1.5% compared with the same month of the previous year. These are the results of the Federal Statistical Office (FSO).</lead>
+      <text link="no">&lt;p&gt;The 0.2% increase compared with the previous month is due to several factors including rising prices for heating oil, petrol and diesel. Prices for women’s and men’s footwear also recorded a price increase, as did outpatient medical services in hospitals. In contrast, prices for medical services at local surgeries and international package holidays decreased, as did those for hotels.&lt;/p&gt; &lt;p&gt;This press release and further information on the topic can be found on the &lt;a href="https://statistics.admin.ch/en/news/2026-0059"&gt;FSO&lt;/a&gt; website.&lt;/p&gt;</text>
+      <contact>FSO, Prices section Info CPI +41 58 463 69 00 LIK@bfs.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="it">
@@ -51,6 +51,14 @@
       <contact>UST, sezione Prezzi Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="fr">
+      <city>Neuchâtel</city>
+      <title>Les prix à la consommation ont augmenté de 0,2% en octobre</title>
+      <lead>En octobre 2026, l’indice des prix à la consommation (IPC) a augmenté de 0,2% par rapport au mois précédent, pour s’établir à 101,7 points (décembre 2025 = 100). Par rapport au mois correspondant de l’année précédente, le renchérissement s’est chiffré à +1,5%. Ces chiffres ont été établis par l’Office fédéral de la statistique (OFS).</lead>
+      <text link="no">&lt;p&gt;La hausse de l’IPC de 0,2% par rapport au mois précédent s’explique par plusieurs facteurs, dont l’augmentation des prix pour le mazout, l’essence et le diesel. Des hausses de prix ont été enregistrées également pour les chaussures pour femmes et pour hommes, tout comme pour les prestations médicales ambulatoires des hôpitaux. En revanche, les prix des prestations médicales des cabinets médicaux et des voyages à forfait internationaux ont diminué, de même que ceux de l’hôtellerie.&lt;/p&gt; &lt;p&gt;Vous trouverez ce communiqué de presse et d'autres informations sur ce thème sur le &lt;a href="https://statistique.admin.ch/fr/news/2026-0059"&gt;site web de l'OFS&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>OFS, Section Prix Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="de">
       <city>Neuchâtel</city>
       <title>Die Konsumentenpreise sind im Oktober um 0,2% gestiegen</title>
@@ -59,21 +67,13 @@
       <contact>BFS, Sektion Preise Info LIK +41 58 463 69 00 LIK@bfs.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Neuchâtel</city>
-      <title>Consumer prices increased by 0.2% in October</title>
-      <lead>The Consumer Price Index (CPI) increased by 0.2% in October 2026 compared with the previous month, reaching 101.7 points (December 2025 = 100). Inflation was +1.5% compared with the same month of the previous year. These are the results of the Federal Statistical Office (FSO).</lead>
-      <text link="no">&lt;p&gt;The 0.2% increase compared with the previous month is due to several factors including rising prices for heating oil, petrol and diesel. Prices for women’s and men’s footwear also recorded a price increase, as did outpatient medical services in hospitals. In contrast, prices for medical services at local surgeries and international package holidays decreased, as did those for hotels.&lt;/p&gt; &lt;p&gt;This press release and further information on the topic can be found on the &lt;a href="https://statistics.admin.ch/en/news/2026-0059"&gt;FSO&lt;/a&gt; website.&lt;/p&gt;</text>
-      <contact>FSO, Prices section Info CPI +41 58 463 69 00 LIK@bfs.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="645">
-        <name lang="rm">Conjunctura</name>
         <name lang="de">Konjunktur</name>
         <name lang="en">Short Term Economic Analyses</name>
         <name lang="fr">Conjoncture</name>
         <name lang="it">Congiuntura</name>
+        <name lang="rm">Conjunctura</name>
       </topic>
       <topic id="43">
         <name lang="de">Wissen &amp; Statistik</name>

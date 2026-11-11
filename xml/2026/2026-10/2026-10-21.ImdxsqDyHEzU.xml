@@ -10,10 +10,10 @@
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
-      <www lang="en">https://www.efk.admin.ch/en</www>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
@@ -41,14 +41,6 @@
         <name lang="rm">Repport</name>
       </keyword>
     </keywords>
-    <content lang="fr">
-      <city>Berne</city>
-      <title>Audit de la sécurité et de l’aptitude à l’usage de Microsoft 365</title>
-      <lead>Le secteur Transformation numérique et gouvernance de l’informatique (TNI) de la Chancellerie fédérale (ChF) a mis en place jusqu’à fin 2025 la plateforme de travail numérique Microsoft 365 (M365) dans toute l’administration fédérale. M365 vise à offrir un environnement de travail plus efficace axé sur le nuage, mais entraîne également des défis en matière de sécurité de l’information, de protection des données, de gouvernance et surtout de souveraineté des données. Le Contrôle fédéral des finances (CDF) a vérifié si le secteur TNI de la ChF garantissait la sécurité des données et des informations lors de l’utilisation de M365, et s’il était réellement possible de tirer parti des fonctionnalités supplémentaires. L’Office fédéral de l’informatique et de la télécommunication (OFIT) a mis en place la plateforme dans les règles de l’art et pris des mesures de sécurité adaptées à son utilisation actuellement restreinte, des développements clés étant encore à réaliser. M365 offre des fonctionnalités supplémentaires au personnel de l’administration fédérale.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/securite-et-aptitude-a-lusage-de-microsoft-365/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="it">
       <city>Berna</city>
       <title>Verifica della sicurezza e dell’utilizzabilità di Microsoft 365</title>
@@ -73,6 +65,14 @@
       <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Audit de la sécurité et de l’aptitude à l’usage de Microsoft 365</title>
+      <lead>Le secteur Transformation numérique et gouvernance de l’informatique (TNI) de la Chancellerie fédérale (ChF) a mis en place jusqu’à fin 2025 la plateforme de travail numérique Microsoft 365 (M365) dans toute l’administration fédérale. M365 vise à offrir un environnement de travail plus efficace axé sur le nuage, mais entraîne également des défis en matière de sécurité de l’information, de protection des données, de gouvernance et surtout de souveraineté des données. Le Contrôle fédéral des finances (CDF) a vérifié si le secteur TNI de la ChF garantissait la sécurité des données et des informations lors de l’utilisation de M365, et s’il était réellement possible de tirer parti des fonctionnalités supplémentaires. L’Office fédéral de l’informatique et de la télécommunication (OFIT) a mis en place la plateforme dans les règles de l’art et pris des mesures de sécurité adaptées à son utilisation actuellement restreinte, des développements clés étant encore à réaliser. M365 offre des fonctionnalités supplémentaires au personnel de l’administration fédérale.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/securite-et-aptitude-a-lusage-de-microsoft-365/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="453">
         <name lang="de">Informations- und Kommunikationstechnologie (IKT)</name>
@@ -82,11 +82,11 @@
         <name lang="rm">Tecnologia d'infurmaziun e da communicaziun (ICT)</name>
       </topic>
       <topic id="36">
+        <name lang="it">Digitalizzazione, comunicazione e media</name>
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
-        <name lang="it">Digitalizzazione, comunicazione e media</name>
       </topic>
     </topics>
     <offers/>

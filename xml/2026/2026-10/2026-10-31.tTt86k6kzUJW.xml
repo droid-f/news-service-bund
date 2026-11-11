@@ -24,10 +24,22 @@
     </originator>
     <keywords>
       <keyword id="6288" org-id="201">
+        <name lang="en">Republic of Korea (South)</name>
+        <name lang="fr">République Corée (Sud)</name>
         <name lang="it">Repubblica di Corea (Sud)</name>
+        <name lang="de">Republik Korea (Süd-)</name>
+      </keyword>
+      <keyword id="11079" org-id="201">
+        <name lang="fr">République populaire démocratique de Corée (Nord)</name>
+        <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
+        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
+        <name lang="en">Democratic People's Republic of Korea (Nord)</name>
+      </keyword>
+      <keyword id="6288" org-id="201">
         <name lang="de">Republik Korea (Süd-)</name>
         <name lang="en">Republic of Korea (South)</name>
         <name lang="fr">République Corée (Sud)</name>
+        <name lang="it">Repubblica di Corea (Sud)</name>
       </keyword>
       <keyword id="11079" org-id="201">
         <name lang="en">Democratic People's Republic of Korea (Nord)</name>
@@ -42,28 +54,16 @@
         <name lang="it">Repubblica di Corea (Sud)</name>
       </keyword>
       <keyword id="11079" org-id="201">
-        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
-        <name lang="en">Democratic People's Republic of Korea (Nord)</name>
         <name lang="fr">République populaire démocratique de Corée (Nord)</name>
         <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
+        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
+        <name lang="en">Democratic People's Republic of Korea (Nord)</name>
       </keyword>
       <keyword id="6288" org-id="201">
-        <name lang="it">Repubblica di Corea (Sud)</name>
         <name lang="de">Republik Korea (Süd-)</name>
         <name lang="en">Republic of Korea (South)</name>
         <name lang="fr">République Corée (Sud)</name>
-      </keyword>
-      <keyword id="11079" org-id="201">
-        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
-        <name lang="en">Democratic People's Republic of Korea (Nord)</name>
-        <name lang="fr">République populaire démocratique de Corée (Nord)</name>
-        <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
-      </keyword>
-      <keyword id="6288" org-id="201">
         <name lang="it">Repubblica di Corea (Sud)</name>
-        <name lang="de">Republik Korea (Süd-)</name>
-        <name lang="en">Republic of Korea (South)</name>
-        <name lang="fr">République Corée (Sud)</name>
       </keyword>
       <keyword id="11079" org-id="201">
         <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
@@ -113,17 +113,17 @@
         <name lang="rm">Exteriur</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
+        <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
-        <name lang="en">Foreign policy</name>
       </topic>
       <topic id="103">
-        <name lang="fr">Relations extérieures</name>
-        <name lang="it">Relazioni esterne</name>
         <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
+        <name lang="fr">Relations extérieures</name>
+        <name lang="it">Relazioni esterne</name>
       </topic>
     </topics>
     <offers/>

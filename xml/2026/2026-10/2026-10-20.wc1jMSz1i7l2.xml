@@ -33,11 +33,11 @@
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
-      <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
+      <email lang="de">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -65,18 +65,18 @@
     </content>
     <topics>
       <topic id="12">
+        <name lang="de">Aussenhandelsstatistik</name>
+        <name lang="en">Foreign trade statistics</name>
         <name lang="fr">Statistique du commerce extérieur</name>
         <name lang="it">Statistica del commercio estero</name>
         <name lang="rm">Statistica dal commerzi cun l'exteriur</name>
-        <name lang="de">Aussenhandelsstatistik</name>
-        <name lang="en">Foreign trade statistics</name>
       </topic>
       <topic id="48">
-        <name lang="de">Zoll</name>
-        <name lang="en">Customs</name>
         <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
+        <name lang="de">Zoll</name>
+        <name lang="en">Customs</name>
       </topic>
     </topics>
     <offers/>

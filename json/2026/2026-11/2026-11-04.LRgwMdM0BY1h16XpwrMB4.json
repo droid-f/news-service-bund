@@ -102,7 +102,29 @@
     },
     "en": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "14",
+          "topics": [
+            "395",
+            "529"
+          ]
+        },
+        {
+          "copublisherID": "11",
+          "topics": [
+            "395",
+            "529"
+          ]
+        },
+        {
+          "copublisherID": "19",
+          "topics": [
+            "395",
+            "529"
+          ]
+        }
+      ],
       "coPublishers": [
         "11",
         "14",
@@ -149,7 +171,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:7:7",
-            "version": "26.0.0"
+            "version": "27.0.0"
           },
           "documentId": 23577,
           "documentType": "page",
@@ -161,7 +183,7 @@
           "significantPublicationDate": "2026-11-04T12:43:53.883Z",
           "title": "Drones, Counter-Drone Systems and Robotics: DDPS Sets Strategic Priority to Strengthen Defence Capabilities",
           "updatedAt": "2026-11-04T12:43:53.883Z",
-          "version": 20,
+          "version": 21,
           "visiblePublicationDate": "2026-11-04T12:43:53.883Z"
         }
       },

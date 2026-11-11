@@ -11,16 +11,16 @@
       <name lang="fr">Administration fédérale des finances</name>
       <name lang="it">Amministrazione federale delle finanze</name>
       <name lang="rm">Administraziun federala da finanzas</name>
+      <www lang="de">https://www.efv.admin.ch</www>
+      <www lang="en">https://www.efv.admin.ch/en</www>
       <www lang="fr">https://www.efv.admin.ch/fr</www>
       <www lang="it">https://www.efv.admin.ch/it</www>
       <www lang="rm">https://www.efv.admin.ch</www>
-      <www lang="de">https://www.efv.admin.ch</www>
-      <www lang="en">https://www.efv.admin.ch/en</www>
-      <email lang="en">kommunikation@efv.admin.ch</email>
-      <email lang="fr">kommunikation@efv.admin.ch</email>
       <email lang="it">kommunikation@efv.admin.ch</email>
       <email lang="rm">kommunikation@efv.admin.ch</email>
       <email lang="de">kommunikation@efv.admin.ch</email>
+      <email lang="en">kommunikation@efv.admin.ch</email>
+      <email lang="fr">kommunikation@efv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-119" org-id="603">
@@ -54,25 +54,17 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <www lang="de">https://www.efd.admin.ch</www>
       <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
     </department>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Nuovi prestiti federali</title>
-      <lead>La Confederazione Svizzera offre due prestiti in sottoscrizione pubblica mediante procedura d&amp;#39;aggiudicazione il 11.11.2026: 0.50%, durata 27.05.2030 (aumento) e 0.50%, durata 28.05.2040 (aumento).</lead>
-      <text link="no">&lt;p&gt;Reuters: SWIW, Bloomberg: SWIT&lt;/p&gt; &lt;p&gt;Le offerte possono essere presentate anche senza indicazione di prezzo; in questo caso sono prese in considerazione al prezzo d'emissione. La quota di aumento emessa sarà fungibile con il corrispondente prestito dalla data di liberazione.&lt;/p&gt; &lt;p&gt;Le obbligazioni della Confederazione Svizzera sono soggette a importanti restrizioni legali, incluse restrizioni alla vendita, consultabili tramite il seguente link:&lt;a href="https://www.efv.admin.ch/fr/restrictions-de-vente-pour-les-emprunts-federaux-et-les-creances-comptables-a-court-terme"&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="https://www.efv.admin.ch/it/restrizioni-vendita-prestiti-della-confederazione-crediti-contabili-breve-termine"&gt;https://www.efv.admin.ch/it/restrizioni-vendita&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Amministrazione federale delle finanze Michael Girod + 41 58 465 41 41 media@efv.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Nouveaux emprunts de la Confédération</title>
@@ -89,6 +81,14 @@
       <contact>Eidgenössische Finanzverwaltung Michael Girod + 41 58 465 41 41 media@efv.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Nuovi prestiti federali</title>
+      <lead>La Confederazione Svizzera offre due prestiti in sottoscrizione pubblica mediante procedura d&amp;#39;aggiudicazione il 11.11.2026: 0.50%, durata 27.05.2030 (aumento) e 0.50%, durata 28.05.2040 (aumento).</lead>
+      <text link="no">&lt;p&gt;Reuters: SWIW, Bloomberg: SWIT&lt;/p&gt; &lt;p&gt;Le offerte possono essere presentate anche senza indicazione di prezzo; in questo caso sono prese in considerazione al prezzo d'emissione. La quota di aumento emessa sarà fungibile con il corrispondente prestito dalla data di liberazione.&lt;/p&gt; &lt;p&gt;Le obbligazioni della Confederazione Svizzera sono soggette a importanti restrizioni legali, incluse restrizioni alla vendita, consultabili tramite il seguente link:&lt;a href="https://www.efv.admin.ch/fr/restrictions-de-vente-pour-les-emprunts-federaux-et-les-creances-comptables-a-court-terme"&gt;&lt;/a&gt;&amp;nbsp;&lt;a href="https://www.efv.admin.ch/it/restrizioni-vendita-prestiti-della-confederazione-crediti-contabili-breve-termine"&gt;https://www.efv.admin.ch/it/restrizioni-vendita&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Amministrazione federale delle finanze Michael Girod + 41 58 465 41 41 media@efv.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="en">
       <city>Bern</city>
       <title>New Confederation bonds</title>
@@ -99,11 +99,11 @@
     </content>
     <topics>
       <topic id="229">
+        <name lang="rm">Emprests da la Confederaziun</name>
         <name lang="de">Bundesanleihen</name>
         <name lang="en">Federal bonds</name>
         <name lang="fr">Emprunts fédéraux</name>
         <name lang="it">Prestiti della Confederazione</name>
-        <name lang="rm">Emprests da la Confederaziun</name>
       </topic>
       <topic id="13">
         <name lang="de">Öffentliche Finanzen</name>
