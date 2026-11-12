@@ -6,18 +6,18 @@
     <pubdate>2026-11-02</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
-      <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
+      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -31,32 +31,16 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
+        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
+        <name lang="it">Verifica</name>
       </keyword>
     </keywords>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Audit of the steering of the real estate portfolio</title>
-      <lead>The Swiss Armed Forces need real estate to fulfil their training and operational mission. This includes barracks, military airfields and military training areas, for example. These properties are recorded in the real estate portfolio of armasuisse Real Estate (ar Immo), which had a value as new of CHF 28.4 billion at the end of 2025. Of this, CHF 23.9 billion is in the core portfolio and is therefore in longer-term use. The current geopolitical situation is leading to a realignment of the Armed Forces, which is also changing their real estate portfolio. The stationing concept originally envisaged reducing the core portfolio to CHF 20 billion. In 2022, however, this was reversed in favour of an expansion to up to CHF 30 billion. The Swiss Federal Audit Office (SFAO) examined whether ar Immo steers its portfolio with suitable instruments and, on the basis of adequate requirements, ensures that projects are carried out economically. The audit identified several areas requiring action, some of them already known: unclear user requirements, a missing strategy, insufficient steering, a backlog of repairs and a lack of standardisation. As a result, ar Immo can perform its tasks only to a limited extent. The Real Estate Board must therefore take fundamental decisions on the direction to be taken.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/steering-of-the-real-estate-portfolio/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Verifica della gestione del portafoglio immobiliare</title>
-      <lead>L’esercito svizzero ha bisogno di immobili per adempiere al proprio compito di istruzione e impiego. Si tratta di immobili quali caserme, aerodromi e piazze d’armi. Questi sono inclusi nel portafoglio immobiliare di armasuisse Immobili (ar Immo). Alla fine del 2025, il loro valore a nuovo ammontava a 28,4 miliardi di franchi. Di questi, 23,9 miliardi di franchi riguardano il nucleo del patrimonio immobiliare e vengono quindi utilizzati a lungo termine. L’attuale contesto geopolitico induce l’esercito a darsi un nuovo orientamento. Di conseguenza cambia anche il suo portafoglio immobiliare. Inizialmente, il Concetto relativo agli stazionamenti prevedeva di ridurre il nucleo del patrimonio immobiliare a 20 miliardi di franchi. Poi, nel 2022, il cambio di rotta verso un ampliamento fino a 30 miliardi di franchi. Il Controllo federale delle finanze ha verificato se ar Immo disponga di strumenti adeguati per la gestione del portafoglio e se, sulla base di direttive appropriate, assicuri lo svolgimento del progetto secondo i criteri della redditività. La verifica ha evidenziato diversi campi d’intervento, alcuni dei quali già noti: fabbisogno degli utenti non definito, strategia mancante, gestione insufficiente, arretrati nella manutenzione e standardizzazione inesistente. Ne consegue che ar Immo è in grado di svolgere i propri compiti solo in misura limitata. Per questo motivo, il Consiglio immobiliare deve prendere decisioni di principio d’importanza sostanziale.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/gestione-del-portafoglio-immobiliare/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Bern</city>
       <title>Prüfung der Steuerung des Immobilienportfolios</title>
@@ -73,23 +57,39 @@
       <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Audit of the steering of the real estate portfolio</title>
+      <lead>The Swiss Armed Forces need real estate to fulfil their training and operational mission. This includes barracks, military airfields and military training areas, for example. These properties are recorded in the real estate portfolio of armasuisse Real Estate (ar Immo), which had a value as new of CHF 28.4 billion at the end of 2025. Of this, CHF 23.9 billion is in the core portfolio and is therefore in longer-term use. The current geopolitical situation is leading to a realignment of the Armed Forces, which is also changing their real estate portfolio. The stationing concept originally envisaged reducing the core portfolio to CHF 20 billion. In 2022, however, this was reversed in favour of an expansion to up to CHF 30 billion. The Swiss Federal Audit Office (SFAO) examined whether ar Immo steers its portfolio with suitable instruments and, on the basis of adequate requirements, ensures that projects are carried out economically. The audit identified several areas requiring action, some of them already known: unclear user requirements, a missing strategy, insufficient steering, a backlog of repairs and a lack of standardisation. As a result, ar Immo can perform its tasks only to a limited extent. The Real Estate Board must therefore take fundamental decisions on the direction to be taken.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/steering-of-the-real-estate-portfolio/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Verifica della gestione del portafoglio immobiliare</title>
+      <lead>L’esercito svizzero ha bisogno di immobili per adempiere al proprio compito di istruzione e impiego. Si tratta di immobili quali caserme, aerodromi e piazze d’armi. Questi sono inclusi nel portafoglio immobiliare di armasuisse Immobili (ar Immo). Alla fine del 2025, il loro valore a nuovo ammontava a 28,4 miliardi di franchi. Di questi, 23,9 miliardi di franchi riguardano il nucleo del patrimonio immobiliare e vengono quindi utilizzati a lungo termine. L’attuale contesto geopolitico induce l’esercito a darsi un nuovo orientamento. Di conseguenza cambia anche il suo portafoglio immobiliare. Inizialmente, il Concetto relativo agli stazionamenti prevedeva di ridurre il nucleo del patrimonio immobiliare a 20 miliardi di franchi. Poi, nel 2022, il cambio di rotta verso un ampliamento fino a 30 miliardi di franchi. Il Controllo federale delle finanze ha verificato se ar Immo disponga di strumenti adeguati per la gestione del portafoglio e se, sulla base di direttive appropriate, assicuri lo svolgimento del progetto secondo i criteri della redditività. La verifica ha evidenziato diversi campi d’intervento, alcuni dei quali già noti: fabbisogno degli utenti non definito, strategia mancante, gestione insufficiente, arretrati nella manutenzione e standardizzazione inesistente. Ne consegue che ar Immo è in grado di svolgere i propri compiti solo in misura limitata. Per questo motivo, il Consiglio immobiliare deve prendere decisioni di principio d’importanza sostanziale.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/gestione-del-portafoglio-immobiliare/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="530">
-        <name lang="en">Training</name>
-        <name lang="fr">Instruction</name>
         <name lang="it">Istruzione</name>
         <name lang="rm">Scolaziun</name>
         <name lang="de">Ausbildung</name>
+        <name lang="en">Training</name>
+        <name lang="fr">Instruction</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

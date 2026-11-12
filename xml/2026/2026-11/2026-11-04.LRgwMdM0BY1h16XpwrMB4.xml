@@ -6,33 +6,33 @@
     <pubdate>2026-11-04</pubdate>
     <originator id="505" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
+      <name lang="en">Defence group</name>
+      <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
       <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
-      <name lang="en">Defence group</name>
-      <name lang="fr">Groupement Défense</name>
+      <www lang="de">http://www.vtg.admin.ch/</www>
+      <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
-      <www lang="de">http://www.vtg.admin.ch/</www>
-      <www lang="en">http://www.vtg.admin.ch/</www>
-      <email lang="rm"> </email>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
       <email lang="it"> </email>
+      <email lang="rm"> </email>
     </originator>
     <originator id="506" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="it">Ufficio federale dell'armamento armasuisse</name>
-      <name lang="rm">Uffizi federal da l’armament armasuisse</name>
       <name lang="de">Bundesamt für Rüstung armasuisse</name>
       <name lang="en">Federal Office for Defence Procurement armasuisse</name>
       <name lang="fr">Office fédéral de l'armement armasuisse</name>
-      <www lang="de">http://www.ar.admin.ch/de</www>
-      <www lang="en">http://www.ar.admin.ch/</www>
+      <name lang="it">Ufficio federale dell'armamento armasuisse</name>
+      <name lang="rm">Uffizi federal da l’armament armasuisse</name>
       <www lang="fr">http://www.ar.admin.ch/</www>
       <www lang="it">http://www.ar.admin.ch/</www>
+      <www lang="de">http://www.ar.admin.ch/de</www>
+      <www lang="en">http://www.ar.admin.ch/</www>
     </originator>
     <originator id="501" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
@@ -41,23 +41,23 @@
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
-      <www lang="de">https://www.vbs.admin.ch/de</www>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
-      <www lang="fr">http://www.vbs.admin.ch/fr</www>
-      <www lang="it">http://www.vbs.admin.ch/it</www>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="rm">Secretariat general dal DDPS</name>
       <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
+      <www lang="fr">http://www.vbs.admin.ch/fr</www>
+      <www lang="it">http://www.vbs.admin.ch/it</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
@@ -71,11 +71,11 @@
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
       <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
+      <www lang="it">https://www.vbs.admin.ch/it</www>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
     <content lang="en">
       <city>Bern</city>
@@ -83,6 +83,14 @@
       <lead>In light of the current threat landscape, the Federal Department of Defense, Civil Protection, and Sports (DDPS) is placing a strategic focus on drones, drone defense, and robotics. Through the Center for Unmanned Systems, the DDPS aims to work with the scientific community and industry to develop, test, and integrate new technologies into the armed forces more quickly. A new drone battalion and a dedicated drone recruit school will strengthen military capabilities and training. At the same time, the DDPS is investing in drones and systems to counter them, and is aligning its procurement strategy with rapid technological developments. In addition, the legal framework and areas of responsibility are being adapted to the threat landscape.</lead>
       <text link="no">&lt;p&gt;Drones and robotics—enhanced by artificial intelligence—have fundamentally changed the nature of warfare. At the same time, drones are becoming increasingly important as a tool for hybrid conflict. In Switzerland, too, there has been an increase in drone flights over military and critical infrastructure. With its &lt;a href="https://www.admin.ch/de/newnsb/tdstfuPjcYB_OvU_XRhVv"&gt;Guidelines for Defense&lt;/a&gt;, published in June 2026, and its defense planning, the Federal Council has therefore mandated rapid capability development in the field of drones and robotics, as well as their comprehensive integration into the armed forces.&lt;/p&gt; &lt;h2&gt;DDPS Center for Unmanned Systems&lt;/h2&gt; &lt;p&gt;With the Center for Unmanned Systems, the DDPS is establishing a civil-military center for drones and robotics. It consists of a Tech Hub and a military command.&lt;/p&gt; &lt;p&gt;The Tech Hub will link the needs of the troops, the technological expertise of armasuisse, and the knowledge of universities, startups, and industry. New solutions are to be jointly developed, tested, and rapidly made available for military use. The military command comprises a testing organization and a training organization. It tests new systems under conditions as close to reality as possible and is responsible for training the drone battalion. Findings from the troops are to be rapidly fed back to academia and industry via the Tech Hub.&lt;/p&gt; &lt;p&gt;The center of excellence will also be open to other departments, cantons, and emergency services. Seamless cooperation among all levels of government and organizations is essential given the current threat landscape.&lt;/p&gt; &lt;h2&gt;Drone Battalion and Drone Recruit School&lt;/h2&gt; &lt;p&gt;Starting in 2028, the Army will deploy its own drone battalion. Its responsibilities are likely to include reconnaissance and surveillance, support to military operations, the use of drones to generate effects, contributions to counter-drone operations and support for the protection of critical infrastructure. At the same time, training in this area will be strengthened. A dedicated drone recruit school will systematically build the necessary skills and supply personnel to the drone battalion.&lt;/p&gt; &lt;p&gt;In addition, the DDPS will broadly integrate drone capabilities throughout the Army. In doing so, the Army can draw on the knowledge and experience of its militia members from the fields of business, science, and technology.&lt;/p&gt; &lt;h2&gt;Investments in Drone Capabilities and Drone Defense&lt;/h2&gt; &lt;p&gt;The DDPS is investing in both the deployment of drones and their defense. The first drone defense systems have already been introduced. With the 2026 Armed Forces Dispatch, the Federal Council has initiated further capability development. The 2027 Armament Program allocates additional funds to protect infrastructure and units and to equip the new drone battalion.&lt;/p&gt; &lt;p&gt;Since technologies are changing constantly and rapidly, the Army intends to procure systems in a more targeted manner, in smaller quantities, and in shorter cycles. Systems that prove effective will be rapidly deployed to the troops and further developed based on the experience gained there.&lt;/p&gt; &lt;h2&gt;Clear Responsibilities for Drone Defense&lt;/h2&gt; &lt;p&gt;Various authorities, agencies, and private infrastructure operators are currently responsible for drone defense. An interdepartmental working group led by the DDPS is therefore reviewing the existing responsibilities and legal frameworks and determining which adjustments are necessary in light of the changed threat landscape. This work is also being conducted in response to a parliamentary mandate (&lt;a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20254410"&gt;Motion 25.4410&lt;/a&gt;).&lt;/p&gt;</text>
       <contact>DDPS Communication +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Drohnen, Drohnenabwehr und Robotik: VBS setzt strategischen Schwerpunkt zur Stärkung der Verteidigungsfähigkeit</title>
+      <lead>Angesichts der Bedrohungslage setzt das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport VBS einen strategischen Schwerpunkt auf Drohnen, Drohnenabwehr und Robotik. Mit dem Zentrum Unbemannte Systeme will das VBS neue Technologien gemeinsam mit Wissenschaft und Wirtschaft schneller entwickeln, erproben und in die Truppe integrieren. Ein neues Drohnenbataillon und eine eigene Drohnen-Rekrutenschule stärken die militärischen Fähigkeiten und die Ausbildung. Gleichzeitig investiert das VBS in Drohnen und Systeme zu deren Abwehr und richtet die Beschaffung auf die rasche technologische Entwicklung aus. Zudem werden die rechtlichen Grundlagen und die Zuständigkeiten an die Bedrohungslage angepasst.</lead>
+      <text link="no">&lt;p&gt;Drohnen und Robotik haben – verstärkt durch künstliche Intelligenz – die Kriegsführung grundlegend verändert. Zugleich gewinnen Drohnen als Instrument der hybriden Konfliktführung zunehmend an Bedeutung. Auch in der Schweiz ist eine Zunahme von Drohnenflügen über militärischen und kritischen Infrastrukturen festzustellen. Mit den &lt;a href="https://www.admin.ch/de/newnsb/tdstfuPjcYB_OvU_XRhVv"&gt;Leitlinien für die Verteidigung&lt;/a&gt; vom 19. Juni 2026 und der Rüstungsplanung hat der Bundesrat deshalb einen raschen Fähigkeitsaufbau im Bereich Drohnen und Robotik sowie deren umfassende Integration in die Armee vorgegeben.&lt;/p&gt; &lt;h2&gt;Zentrum Unbemannte Systeme VBS&lt;/h2&gt; &lt;p&gt;Mit dem Zentrum Unbemannte Systeme schafft das VBS ein zivil-militärisches Zentrum für Drohnen und Robotik. Es besteht aus einem Tech Hub und einem militärischen Kommando.&lt;/p&gt; &lt;p&gt;Im Tech Hub werden die Bedürfnisse der Truppe, die technologische Kompetenz der armasuisse sowie das Wissen von Hochschulen, Start-ups und Industrie gebündelt. Neue Lösungen sollen gemeinsam entwickelt, erprobt und rasch für den militärischen Einsatz nutzbar gemacht werden. Das militärische Kommando umfasst eine Versuchs- und eine Ausbildungsorganisation. Es erprobt neue Systeme unter möglichst realen Bedingungen und verantwortet die Ausbildung für das Drohnenbataillon. Erkenntnisse aus der Truppe sollen über den Tech Hub rasch an Wissenschaft und Wirtschaft zurückfliessen.&lt;/p&gt; &lt;p&gt;Das Kompetenzzentrum soll auch anderen Departementen, Kantonen und Blaulichtorganisationen offenstehen. Die reibungslose Zusammenarbeit aller Staatsebenen und Organisationen ist zentral angesichts der Bedrohungslage.&lt;/p&gt; &lt;h2&gt;Drohnenbataillon und Drohnen-Rekrutenschule&lt;/h2&gt; &lt;p&gt;Ab 2028 setzt die Armee ein eigenes Drohnenbataillon zur Aufklärung, Wirkung und Abwehr ein. Gleichzeitig wird die Ausbildung in diesem Bereich gestärkt. Eine eigene Drohnen-Rekrutenschule wird die erforderlichen Kompetenzen systematisch aufbauen und das Drohnenbataillon alimentieren.&lt;/p&gt; &lt;p&gt;Darüber hinaus wird das VBS die Drohnenkompetenzen breit in der Armee verankern. Dabei kann die Armee auf das Wissen und die Erfahrung ihrer Milizangehörigen aus Wirtschaft, Wissenschaft und Technologie zurückgreifen.&lt;/p&gt; &lt;h2&gt;Investitionen in Drohnenfähigkeiten und Drohnenabwehr&lt;/h2&gt; &lt;p&gt;Das VBS investiert sowohl in den Einsatz von Drohnen als auch in deren Abwehr. Erste Systeme zur Drohnenabwehr sind bereits eingeführt. Mit der Armeebotschaft 2026 hat der Bundesrat den weiteren Fähigkeitszuwachs eingeleitet. Mit dem Rüstungsprogramm 2027 sind weitere Mittel vorgesehen, um zusätzliche Infrastrukturen und Verbände zu schützen und das neue Drohnenbataillon auszurüsten.&lt;/p&gt; &lt;p&gt;Da sich die Technologien laufend und rasch ändern, will die Armee die Systeme gezielter, in kleineren Stückzahlen und in kürzeren Zyklen beschaffen. Was sich bewährt, soll rasch in der Truppe eingesetzt und aufgrund der dort gewonnenen Erfahrungen weiterentwickelt werden.&lt;/p&gt; &lt;h2&gt;Klare Zuständigkeiten bei der Drohnenabwehr&lt;/h2&gt; &lt;p&gt;Für die Drohnenabwehr sind heute verschiedene Behörden und Stellen sowie private Betreiber von Infrastrukturen zuständig. Eine interdepartementale Arbeitsgruppe unter Leitung des VBS überprüft deshalb die bestehenden Zuständigkeiten und rechtlichen Grundlagen und klärt, welche Anpassungen angesichts der veränderten Bedrohungslage erforderlich sind. Die Arbeiten laufen auch vor dem Hintergrund eines parlamentarischen Auftrags (&lt;a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20254410"&gt;Motion 25.4410&lt;/a&gt;).&lt;/p&gt;</text>
+      <contact>Kommunikation VBS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="fr">
@@ -101,24 +109,16 @@
       <contact>Comunicazione DDPS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Drohnen, Drohnenabwehr und Robotik: VBS setzt strategischen Schwerpunkt zur Stärkung der Verteidigungsfähigkeit</title>
-      <lead>Angesichts der Bedrohungslage setzt das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport VBS einen strategischen Schwerpunkt auf Drohnen, Drohnenabwehr und Robotik. Mit dem Zentrum Unbemannte Systeme will das VBS neue Technologien gemeinsam mit Wissenschaft und Wirtschaft schneller entwickeln, erproben und in die Truppe integrieren. Ein neues Drohnenbataillon und eine eigene Drohnen-Rekrutenschule stärken die militärischen Fähigkeiten und die Ausbildung. Gleichzeitig investiert das VBS in Drohnen und Systeme zu deren Abwehr und richtet die Beschaffung auf die rasche technologische Entwicklung aus. Zudem werden die rechtlichen Grundlagen und die Zuständigkeiten an die Bedrohungslage angepasst.</lead>
-      <text link="no">&lt;p&gt;Drohnen und Robotik haben – verstärkt durch künstliche Intelligenz – die Kriegsführung grundlegend verändert. Zugleich gewinnen Drohnen als Instrument der hybriden Konfliktführung zunehmend an Bedeutung. Auch in der Schweiz ist eine Zunahme von Drohnenflügen über militärischen und kritischen Infrastrukturen festzustellen. Mit den &lt;a href="https://www.admin.ch/de/newnsb/tdstfuPjcYB_OvU_XRhVv"&gt;Leitlinien für die Verteidigung&lt;/a&gt; vom 19. Juni 2026 und der Rüstungsplanung hat der Bundesrat deshalb einen raschen Fähigkeitsaufbau im Bereich Drohnen und Robotik sowie deren umfassende Integration in die Armee vorgegeben.&lt;/p&gt; &lt;h2&gt;Zentrum Unbemannte Systeme VBS&lt;/h2&gt; &lt;p&gt;Mit dem Zentrum Unbemannte Systeme schafft das VBS ein zivil-militärisches Zentrum für Drohnen und Robotik. Es besteht aus einem Tech Hub und einem militärischen Kommando.&lt;/p&gt; &lt;p&gt;Im Tech Hub werden die Bedürfnisse der Truppe, die technologische Kompetenz der armasuisse sowie das Wissen von Hochschulen, Start-ups und Industrie gebündelt. Neue Lösungen sollen gemeinsam entwickelt, erprobt und rasch für den militärischen Einsatz nutzbar gemacht werden. Das militärische Kommando umfasst eine Versuchs- und eine Ausbildungsorganisation. Es erprobt neue Systeme unter möglichst realen Bedingungen und verantwortet die Ausbildung für das Drohnenbataillon. Erkenntnisse aus der Truppe sollen über den Tech Hub rasch an Wissenschaft und Wirtschaft zurückfliessen.&lt;/p&gt; &lt;p&gt;Das Kompetenzzentrum soll auch anderen Departementen, Kantonen und Blaulichtorganisationen offenstehen. Die reibungslose Zusammenarbeit aller Staatsebenen und Organisationen ist zentral angesichts der Bedrohungslage.&lt;/p&gt; &lt;h2&gt;Drohnenbataillon und Drohnen-Rekrutenschule&lt;/h2&gt; &lt;p&gt;Ab 2028 setzt die Armee ein eigenes Drohnenbataillon zur Aufklärung, Wirkung und Abwehr ein. Gleichzeitig wird die Ausbildung in diesem Bereich gestärkt. Eine eigene Drohnen-Rekrutenschule wird die erforderlichen Kompetenzen systematisch aufbauen und das Drohnenbataillon alimentieren.&lt;/p&gt; &lt;p&gt;Darüber hinaus wird das VBS die Drohnenkompetenzen breit in der Armee verankern. Dabei kann die Armee auf das Wissen und die Erfahrung ihrer Milizangehörigen aus Wirtschaft, Wissenschaft und Technologie zurückgreifen.&lt;/p&gt; &lt;h2&gt;Investitionen in Drohnenfähigkeiten und Drohnenabwehr&lt;/h2&gt; &lt;p&gt;Das VBS investiert sowohl in den Einsatz von Drohnen als auch in deren Abwehr. Erste Systeme zur Drohnenabwehr sind bereits eingeführt. Mit der Armeebotschaft 2026 hat der Bundesrat den weiteren Fähigkeitszuwachs eingeleitet. Mit dem Rüstungsprogramm 2027 sind weitere Mittel vorgesehen, um zusätzliche Infrastrukturen und Verbände zu schützen und das neue Drohnenbataillon auszurüsten.&lt;/p&gt; &lt;p&gt;Da sich die Technologien laufend und rasch ändern, will die Armee die Systeme gezielter, in kleineren Stückzahlen und in kürzeren Zyklen beschaffen. Was sich bewährt, soll rasch in der Truppe eingesetzt und aufgrund der dort gewonnenen Erfahrungen weiterentwickelt werden.&lt;/p&gt; &lt;h2&gt;Klare Zuständigkeiten bei der Drohnenabwehr&lt;/h2&gt; &lt;p&gt;Für die Drohnenabwehr sind heute verschiedene Behörden und Stellen sowie private Betreiber von Infrastrukturen zuständig. Eine interdepartementale Arbeitsgruppe unter Leitung des VBS überprüft deshalb die bestehenden Zuständigkeiten und rechtlichen Grundlagen und klärt, welche Anpassungen angesichts der veränderten Bedrohungslage erforderlich sind. Die Arbeiten laufen auch vor dem Hintergrund eines parlamentarischen Auftrags (&lt;a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20254410"&gt;Motion 25.4410&lt;/a&gt;).&lt;/p&gt;</text>
-      <contact>Kommunikation VBS +41 58 464 50 58 kommunikation@gs-vbs.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

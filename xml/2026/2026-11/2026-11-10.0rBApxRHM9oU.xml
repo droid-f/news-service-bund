@@ -6,33 +6,33 @@
     <pubdate>2026-11-10</pubdate>
     <originator id="1074" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Eidgenössische Hochschule für Berufsbildung EHB</name>
+      <name lang="en">Swiss Federal University for Vocational Education and Training SFUVET</name>
       <name lang="fr">Haute école fédérale en formation professionnelle HEFP</name>
       <name lang="it">Scuola universitaria federale per la formazione professionale SUFFP</name>
       <name lang="rm">Scola auta federala per la furmaziun professiunala SAFFP</name>
-      <name lang="de">Eidgenössische Hochschule für Berufsbildung EHB</name>
-      <name lang="en">Swiss Federal University for Vocational Education and Training SFUVET</name>
-      <www lang="fr">www.hefp.swiss</www>
-      <www lang="it">www.suffp.swiss</www>
       <www lang="rm">https://www.ehb.swiss</www>
       <www lang="de">https://www.ehb.swiss</www>
       <www lang="en">www.sfuvet.swiss</www>
-      <email lang="de">jacques.andres@ehb.swiss</email>
-      <email lang="en">jacques.andres@ehb.swiss</email>
+      <www lang="fr">www.hefp.swiss</www>
+      <www lang="it">www.suffp.swiss</www>
       <email lang="fr">jacques.andres@ehb.swiss</email>
       <email lang="it">jacques.andres@ehb.swiss</email>
       <email lang="rm">jacques.andres@ehb.swiss</email>
+      <email lang="de">jacques.andres@ehb.swiss</email>
+      <email lang="en">jacques.andres@ehb.swiss</email>
     </originator>
     <originator id="1080" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
-      <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
-      <www lang="de">https://www.sbfi.admin.ch</www>
+      <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
+      <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
       <www lang="it">https://www.sbfi.admin.ch/it</www>
+      <www lang="de">https://www.sbfi.admin.ch</www>
     </originator>
     <keywords/>
     <department id="701">
@@ -41,16 +41,16 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
     <content lang="it">
       <city>Lugano</city>
@@ -86,25 +86,25 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="406">
+        <name lang="de">Erwerbstätigkeit</name>
         <name lang="en">Gainful employment</name>
         <name lang="fr">Activité lucrative</name>
         <name lang="it">Attività lucrativa</name>
         <name lang="rm">Activitad da gudogn</name>
-        <name lang="de">Erwerbstätigkeit</name>
       </topic>
       <topic id="405">
-        <name lang="fr">Emploi</name>
         <name lang="it">Occupazione</name>
         <name lang="rm">Occupaziun</name>
         <name lang="de">Beschäftigung</name>
         <name lang="en">Employment</name>
+        <name lang="fr">Emploi</name>
       </topic>
       <topic id="2">
         <name lang="de">Arbeit</name>
@@ -120,10 +120,10 @@
         <name lang="it">Istruzione</name>
       </topic>
       <topic id="100">
-        <name lang="de">Arbeit</name>
-        <name lang="en">Labour</name>
         <name lang="fr">Travail</name>
         <name lang="it">Lavoro</name>
+        <name lang="de">Arbeit</name>
+        <name lang="en">Labour</name>
       </topic>
     </topics>
     <offers/>
