@@ -11,16 +11,16 @@
       <name lang="fr">Ministère public de la Confédération</name>
       <name lang="it">Ministero pubblico della Confederazione</name>
       <name lang="rm">Procura publica federala</name>
-      <www lang="rm">https://www.bundesanwaltschaft.ch</www>
       <www lang="de">https://www.bundesanwaltschaft.ch</www>
       <www lang="en">https://www.bundesanwaltschaft.ch/en</www>
       <www lang="fr">https://www.bundesanwaltschaft.ch/fr</www>
       <www lang="it">https://www.bundesanwaltschaft.ch/it</www>
+      <www lang="rm">https://www.bundesanwaltschaft.ch</www>
+      <email lang="de">info@ba.admin.ch</email>
       <email lang="en">info@ba.admin.ch</email>
       <email lang="fr">info@ba.admin.ch</email>
       <email lang="it">info@ba.admin.ch</email>
       <email lang="rm">info@ba.admin.ch</email>
-      <email lang="de">info@ba.admin.ch</email>
     </originator>
     <originator id="404" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
@@ -30,11 +30,11 @@
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
-      <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
       <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
       <email lang="rm">media@fedpol.admin.ch</email>
+      <email lang="de">media@fedpol.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-29" org-id="404">
@@ -44,52 +44,34 @@
         <name lang="fr">Drogues</name>
       </keyword>
       <keyword id="SLW-123" org-id="404">
+        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
-        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
       </keyword>
       <keyword id="SLW-29" org-id="404">
-        <name lang="it">Droga</name>
-        <name lang="de">Drogen</name>
         <name lang="en">Drugs</name>
         <name lang="fr">Drogues</name>
+        <name lang="it">Droga</name>
+        <name lang="de">Drogen</name>
       </keyword>
       <keyword id="SLW-123" org-id="404">
-        <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
-      </keyword>
-      <keyword id="SLW-78" org-id="404">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
-        <name lang="fr">Police</name>
-        <name lang="it">Polizia</name>
-      </keyword>
-      <keyword id="SLW-29" org-id="404">
-        <name lang="it">Droga</name>
-        <name lang="de">Drogen</name>
-        <name lang="en">Drugs</name>
-        <name lang="fr">Drogues</name>
-      </keyword>
-      <keyword id="SLW-123" org-id="404">
         <name lang="de">Zusammenarbeit</name>
-        <name lang="en">Cooperation</name>
-        <name lang="fr">Coopération</name>
-        <name lang="it">Cooperazione</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
       </keyword>
       <keyword id="SLW-29" org-id="404">
         <name lang="de">Drogen</name>
@@ -98,10 +80,28 @@
         <name lang="it">Droga</name>
       </keyword>
       <keyword id="SLW-123" org-id="404">
+        <name lang="it">Cooperazione</name>
         <name lang="de">Zusammenarbeit</name>
         <name lang="en">Cooperation</name>
         <name lang="fr">Coopération</name>
+      </keyword>
+      <keyword id="SLW-78" org-id="404">
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
+        <name lang="fr">Police</name>
+        <name lang="it">Polizia</name>
+      </keyword>
+      <keyword id="SLW-29" org-id="404">
+        <name lang="fr">Drogues</name>
+        <name lang="it">Droga</name>
+        <name lang="de">Drogen</name>
+        <name lang="en">Drugs</name>
+      </keyword>
+      <keyword id="SLW-123" org-id="404">
+        <name lang="fr">Coopération</name>
         <name lang="it">Cooperazione</name>
+        <name lang="de">Zusammenarbeit</name>
+        <name lang="en">Cooperation</name>
       </keyword>
       <keyword id="SLW-78" org-id="404">
         <name lang="de">Polizei</name>
@@ -111,61 +111,61 @@
       </keyword>
     </keywords>
     <department id="401">
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
     <content lang="de">
       <city>Bern</city>
       <title>Internationale Operation gegen kriminelle Organisation: Mehrere Festnahmen und dutzende Hausdurchsuchungen in der Schweiz und im Ausland</title>
       <lead>Die Bundesanwaltschaft (BA) und das Bundesamt für Polizei fedpol sind in einer grossangelegten, international koordinierten Aktion gegen eine mutmassliche kriminelle Organisation vorgegangen. Die Operation richtete sich gegen Personen, die im Verdacht stehen, an einer kriminellen Organisation beteiligt zu sein, Verstösse gegen das Betäubungsmittelgesetz begangen sowie Geldwäscherei in qualifizierter Form betrieben zu haben.</lead>
-      <text link="no">&lt;p&gt;Die intensiven Ermittlungen dauern bereits seit 2022 an und konzentrieren sich auf ein mutmassliches Netzwerk, das seit mindestens Anfang 2019 aktiv gewesen sein soll. Die Ermittlungen von fedpol im 2023 eröffneten Strafverfahren der Bundesanwaltschaft erfolgten in enger Zusammenarbeit mit Ermittlerinnen und Ermittlern der Kantonspolizei Thurgau.&lt;/p&gt; &lt;h2&gt;Hintergrund und Tatverdacht&lt;/h2&gt; &lt;p&gt;Im Strafverfahren wird dem Verdacht nachgegangen, wonach mindestens seit Anfang 2019 bis heute eine oder mehrere kriminelle Organisationen in Lateinamerika grosse Mengen Kokain in Schiffscontainern versteckt und nach Europa transportiert haben. Das Kokain wurde dabei mutmasslich in Lieferungen legaler Güter verborgen, wobei als Empfängeradressen unter anderem Gesellschaften in der Schweiz und den Niederlanden angegeben wurden. Diese im Handelsregister als Warenhandelsunternehmen eingetragenen Gesellschaften sollen eigens für die Ermöglichung der Kokaintransporte gegründet worden sein. So soll durch diesen Aufbau eines Firmengeflechts in Europa der Firmenplatz Schweiz für kriminelle Zwecke missbraucht worden sein. Zudem besteht der Verdacht, dass Gelder aus verbrecherischer Herkunft durch das Einschleusen in diverse Gesellschaften gewaschen wurden, wofür auch Meldungen seitens Meldestelle für Geldwäscherei (MROS) von fedpol vorliegen.&lt;/p&gt; &lt;p&gt;Diverse seit 2019 erfolgte Kokainsicherstellungen mehrerer Tonnen, insbesondere an europäischen Häfen, dürften gemäss bestehender Verdachtslage auf dieses Netzwerk zurückzuführen sein, wobei zahlreiche weitere Kokaintransporte stattgefunden haben dürften. Gestützt auf Massnahmen der Bundesanwaltschaft sowie von fedpol konnte zuletzt im August 2026 in Kooperation mit internationalen Partnerbehörden in Antwerpen eine Frachtlieferung abgefangen werden, wobei mehr als 750 Kilogramm Kokain sichergestellt und aus dem Verkehr gezogen worden sind.&lt;/p&gt; &lt;h2&gt;Durchführung der Operation&lt;/h2&gt; &lt;p&gt;Die jüngste Intervention erfolgte zwischen dem 10. und 11. November 2026 und umfasste koordinierte Massnahmen in 12 Schweizer Kantonen sowie in sieben weiteren Ländern. Im Rahmen dieser Operation kam es zu folgenden Massnahmen:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hausdurchsuchungen&lt;/strong&gt;: Insgesamt wurden an 84 Standorten Hausdurchsuchungen durchgeführt, davon 55 in der Schweiz und 29 im Ausland.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anhaltungen&lt;/strong&gt;: 41 Personen wurden in der Schweiz vorläufig angehalten. Für fünf von ihnen wurde Untersuchungshaft beantragt. Zudem befinden sich drei im Ausland festgenommene Personen derzeit in Auslieferungshaft.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sicherstellungen&lt;/strong&gt;: Bislang wurden in den beteiligten Ländern insgesamt über 2,3 Millionen Franken sowie Kryptowährungen im Wert von 50’000 Franken und 15 Waffen sichergestellt.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Unschuldsvermutung und weitere Schritte&lt;/h2&gt; &lt;p&gt;Für alle beschuldigten Personen gilt die Unschuldsvermutung. Die Ermittlungen von fedpol unter der Leitung der Bundesanwaltschaft werden aktiv weitergeführt. Weitere Informationen können aufgrund des laufenden Strafverfahrens nicht bekannt gegeben werden.&lt;/p&gt; &lt;p&gt;Die Bundesanwaltschaft und fedpol danken den an der Operation beteiligten Polizeikorps Thurgau, Zürich (Stadt und Kanton), Appenzell Ausserrhoden, St. Gallen, Schwyz, Bern, Luzern, Zug, Basel-Stadt, Basel-Landschaft, Solothurn und Schaffhausen sowie den internationalen Partnerbehörden (Deutschland, Tschechien, den Niederlanden, Spanien, Belgien, Griechenland, Polen, Eurojust und Europol) für die ausgezeichnete Zusammenarbeit.&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Die intensiven Ermittlungen dauern bereits seit 2022 an und konzentrieren sich auf ein mutmassliches Netzwerk, das seit mindestens Anfang 2019 aktiv gewesen sein soll. Die Ermittlungen von fedpol im 2023 eröffneten Strafverfahren der Bundesanwaltschaft erfolgten in enger Zusammenarbeit mit Ermittlerinnen und Ermittlern der Kantonspolizei Thurgau.&lt;/p&gt; &lt;h2&gt;Hintergrund und Tatverdacht&lt;/h2&gt; &lt;p&gt;Im Strafverfahren wird dem Verdacht nachgegangen, wonach mindestens seit Anfang 2019 bis heute eine oder mehrere kriminelle Organisationen in Lateinamerika grosse Mengen Kokain in Schiffscontainern versteckt und nach Europa transportiert haben. Das Kokain wurde dabei mutmasslich in Lieferungen legaler Güter verborgen, wobei als Empfängeradressen unter anderem Gesellschaften in der Schweiz und den Niederlanden angegeben wurden. Diese im Handelsregister als Warenhandelsunternehmen eingetragenen Gesellschaften sollen eigens für die Ermöglichung der Kokaintransporte gegründet worden sein. So soll durch diesen Aufbau eines Firmengeflechts in Europa der Firmenplatz Schweiz für kriminelle Zwecke missbraucht worden sein. Zudem besteht der Verdacht, dass Gelder aus verbrecherischer Herkunft durch das Einschleusen in diverse Gesellschaften gewaschen wurden, wofür auch Meldungen seitens Meldestelle für Geldwäscherei (MROS) von fedpol vorliegen.&lt;/p&gt; &lt;p&gt;Diverse seit 2019 erfolgte Kokainsicherstellungen mehrerer Tonnen, insbesondere an europäischen Häfen, dürften gemäss bestehender Verdachtslage auf dieses Netzwerk zurückzuführen sein, wobei zahlreiche weitere Kokaintransporte stattgefunden haben dürften. Gestützt auf Massnahmen der Bundesanwaltschaft sowie von fedpol konnte zuletzt im August 2026 in Kooperation mit internationalen Partnerbehörden in Antwerpen eine Frachtlieferung abgefangen werden, wobei mehr als 750 Kilogramm Kokain sichergestellt und aus dem Verkehr gezogen worden sind.&lt;/p&gt; &lt;h2&gt;Durchführung der Operation&lt;/h2&gt; &lt;p&gt;Die jüngste Intervention erfolgte zwischen dem 10. und 11. November 2026 und umfasste koordinierte Massnahmen in 12 Schweizer Kantonen sowie in sieben weiteren Ländern. Im Rahmen dieser Operation kam es zu folgenden Massnahmen:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hausdurchsuchungen&lt;/strong&gt;: Insgesamt wurden an 84 Standorten Hausdurchsuchungen durchgeführt, davon 55 in der Schweiz und 29 im Ausland.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anhaltungen&lt;/strong&gt;: 41 Personen wurden in der Schweiz vorläufig angehalten. Für fünf von ihnen wurde Untersuchungshaft beantragt. Zudem befinden sich drei im Ausland festgenommene Personen derzeit in Auslieferungshaft.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sicherstellungen&lt;/strong&gt;: Bislang wurden in den beteiligten Ländern insgesamt über 2,3 Millionen Franken sowie Kryptowährungen im Wert von 50’000 Franken und 15 Waffen sichergestellt.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Unschuldsvermutung und weitere Schritte&lt;/h2&gt; &lt;p&gt;Für alle beschuldigten Personen gilt die Unschuldsvermutung. Die Ermittlungen von fedpol unter der Leitung der Bundesanwaltschaft werden aktiv weitergeführt. Weitere Informationen können aufgrund des laufenden Strafverfahrens nicht bekannt gegeben werden.&lt;/p&gt; &lt;p&gt;Die Bundesanwaltschaft und fedpol danken den an der Operation beteiligten Polizeikorps Thurgau, Zürich (Stadt und Kanton), Appenzell Ausserrhoden, St. Gallen, Schwyz, Bern, Luzern, Zug, Basel-Stadt, Basel-Landschaft, Solothurn und Schaffhausen sowie den internationalen Partnerbehörden (Deutschland, Tschechien, den Niederlanden, Spanien, Belgien, Griechenland, Polen, Italien, Eurojust und Europol) für die ausgezeichnete Zusammenarbeit.&lt;/p&gt;</text>
       <contact>Kommunikation fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Operazione internazionale contro un’organizzazione criminale: diversi arresti e decine di perquisizioni domiciliari in Svizzera e all’estero</title>
-      <lead>Il Ministero pubblico della Confederazione (MPC) e l’Ufficio federale di polizia fedpol hanno condotto un’operazione su larga scala, coordinata a livello internazionale, contro una presunta organizzazione criminale. L’operazione era diretta contro persone sospettate di far parte di un’organizzazione criminale, di aver commesso violazioni della legge sugli stupefacenti e di aver svolto attività di riciclaggio di denaro aggravato.</lead>
-      <text link="no">&lt;p&gt;Indagini approfondite sono in corso già dal 2022 e si concentrano su una presunta rete che sarebbe attiva almeno dall’inizio del 2019. Le indagini condotte da fedpol nell’ambito del procedimento penale avviato dal MPC nel 2023 sono state svolte in stretta collaborazione con gli investigatori della Polizia cantonale di Turgovia.&lt;/p&gt; &lt;h2&gt;Contesto e reati punibili&lt;/h2&gt; &lt;p&gt;Il procedimento penale verte sui sospetti secondo cui, almeno dall’inizio del 2019 ad oggi, una o più organizzazioni criminali in America Latina avrebbero nascosto ingenti quantitativi di cocaina in container marittimi e li avrebbero trasportati in Europa. La cocaina sarebbe stata presumibilmente nascosta in spedizioni di merci legali, per le quali erano state indicate come destinatarie, in particolare, società con sede in Svizzera e nei Paesi Bassi. Tali società, iscritte nel registro di commercio come imprese di commercio di merci, sarebbero state costituite appositamente per consentire il trasporto di cocaina. Si ritiene quindi che, attraverso la creazione di questa rete di società in Europa, la piazza finanziaria svizzera sia stata utilizzata a fini criminali. Sussiste inoltre il sospetto che fondi di provenienza illecita siano stati riciclati mediante il loro convogliamento in diverse società, come attestato anche dalle segnalazioni pervenute da parte dell’Ufficio di comunicazione in materia di riciclaggio di denaro (MROS) di fedpol.&lt;/p&gt; &lt;p&gt;Diversi sequestri di cocaina, per un totale di numerose tonnellate, effettuati a partire dal 2019, in particolare nei porti europei, sarebbero riconducibili, in base agli indizi disponibili, a questa rete, sebbene si ritenga che abbiano avuto luogo numerosi altri trasporti di cocaina. Grazie alle misure adottate dal MPC e da fedpol, nell’agosto 2026 è stato possibile intercettare ad Anversa, in collaborazione con le autorità partner internazionali, un carico, dal quale sono stati sequestrati e ritirati dalla circolazione oltre 750 chilogrammi di cocaina.&lt;/p&gt; &lt;h2&gt;Svolgimento dell’intervento&lt;/h2&gt; &lt;p&gt;L'ultimo intervento si è svolto tra il 10 e l’11 novembre 2026 e ha comportato misure coordinate in 12 cantoni svizzeri e in altri sette paesi. Nell'ambito di questa operazione sono state adottate le seguenti misure:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Perquisizioni domiciliari:&lt;/strong&gt; complessivamente sono state effettuate perquisizioni domiciliari in 84 sedi, di cui 55 in Svizzera e 29 all’estero.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fermi:&lt;/strong&gt; in Svizzera sono state fermate in via provvisoria 41 persone. Per cinque di esse è stata richiesta la carcerazione preventiva. Inoltre, tre persone arrestate all’estero si trovano attualmente in custodia in attesa di estradizione.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sequestri: &lt;/strong&gt;finora, nei Paesi coinvolti sono stati sequestrati complessivamente oltre 2,3 milioni di franchi, oltre a criptovalute per un valore di 50’000 franchi e 15 armi.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Presunzione di innocenza e passi successivi&lt;/h2&gt; &lt;p&gt;A tutte le persone indagate si applica la presunzione di innocenza. Le indagini condotte da fedpol sotto la direzione del MPC proseguono attivamente. Non è possibile fornire ulteriori informazioni in ragione del procedimento penale in corso.&lt;/p&gt; &lt;p&gt;Il MPC e fedpol ringraziano i corpi di polizia coinvolti nell’operazione: Turgovia, Zurigo (città e cantone), Appenzello Esterno, San Gallo, Svitto, Berna, Lucerna, Zugo, Basilea Città, Basilea Campagna, Soletta e Sciaffusa, nonché le autorità partner internazionali (Germania, Repubblica Ceca, Paesi Bassi, Spagna, Belgio, Grecia, Polonia, Eurojust ed Europol) per l’eccellente collaborazione.&lt;/p&gt;</text>
-      <contact>Comunicazione di fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Opération internationale contre une organisation criminelle : plusieurs arrestations et des dizaines de perquisitions en Suisse et à l&amp;#39;étranger</title>
       <lead>Le Ministère public de la Confédération (MPC) et l’Office fédéral de la police (fedpol) ont mené une opération de grande envergure, coordonnée au niveau international, contre une organisation criminelle présumée. Cette opération visait des personnes soupçonnées d’être impliqués dans une organisation criminelle, d’avoir enfreint la loi fédérale sur les stupéfiants et d’avoir commis des actes de blanchiment d’argent aggravé.</lead>
-      <text link="no">&lt;p&gt;Les enquêtes approfondies sont en cours depuis 2022 et se concentrent sur un réseau présumé qui serait actif depuis au moins début 2019. Les investigations menées par fedpol dans le cadre de la procédure pénale ouverte en 2023 par le MPC se sont déroulées en étroite collaboration avec les enquêtrices et enquêteurs de la police cantonale de Thurgovie.&lt;/p&gt; &lt;h2&gt;Contexte et actes punissables&lt;/h2&gt; &lt;p&gt;La procédure pénale porte sur les soupçons selon lesquels, au moins depuis début 2019 et jusqu’à aujourd’hui, une ou plusieurs organisations criminelles en Amérique latine auraient dissimulé de grandes quantités de cocaïne dans des conteneurs maritimes et les auraient transportées vers l’Europe. La cocaïne aurait été dissimulée dans des livraisons de marchandises légales, les adresses des destinataires indiquées étant notamment celles de sociétés situées en Suisse et aux Pays-Bas. Ces sociétés, inscrites au registre du commerce en tant qu’entreprises de commerce de marchandises, auraient été créées uniquement dans le but de faciliter les transports de cocaïne. La mise en place de ce réseau de sociétés en Europe aurait ainsi permis d’utiliser abusivement la place économique suisse à des fins criminelles. On soupçonne en outre que des fonds d’origine criminelle aient été blanchis en les injectant dans diverses sociétés, ce qui fait également l’objet de signalements de la part du Bureau de communication en matière de blanchiment d’argent (MROS) de fedpol.&lt;/p&gt; &lt;p&gt;Diverses saisies de cocaïne, portant sur plusieurs tonnes et effectuées depuis 2019, notamment dans des ports européens, seraient imputables à ce réseau. De nombreux autres transports de cocaïne auraient également été organisés par celui-ci. Grâce aux mesures prises par le MPC et par fedpol, un chargement a pu être intercepté en août 2026 à Anvers, en coopération avec des autorités partenaires internationales, ce qui a permis de saisir et de retirer de la circulation plus de 750 kilogrammes de cocaïne.&lt;/p&gt; &lt;h2&gt;Déroulement de l’opération&lt;/h2&gt; &lt;p&gt;La dernière intervention a eu lieu entre le 10 et le 11 novembre 2026 et a donné lieu à des mesures coordonnées dans 12 cantons suisses ainsi que dans sept autres pays. Dans le cadre de cette opération, les mesures suivantes ont été prises :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Perquisitions&lt;/strong&gt; : au total, des perquisitions ont été menées sur 84 sites, dont 55 en Suisse et 29 à l’étranger.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Interpellations&lt;/strong&gt; : 41 personnes ont été interpellées en Suisse. Une détention préventive a été demandée pour cinq d’entre elles. Par ailleurs, trois personnes arrêtées à l’étranger se trouvent actuellement en détention en vue de leur extradition.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Saisies&lt;/strong&gt; : à ce jour, plus de 2,3 millions de francs ainsi que des cryptomonnaies d’une valeur de 50’000 francs et 15 armes ont été saisis dans les pays participants.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Présomption d’innocence et prochaines étapes&lt;/h2&gt; &lt;p&gt;La présomption d’innocence s’applique à toutes les personnes mises en cause. L’enquête de fedpol, menée sous la direction du Ministère public de la Confédération, se poursuit activement. Aucune autre information ne peut être communiquée à ce stade, en raison de la procédure pénale en cours.&lt;/p&gt; &lt;p&gt;Le MPC et fedpol remercient les corps de police ayant participé à l’opération : Thurgovie, Zurich (ville et canton), d’Appenzell Rhodes-Extérieures, de Saint-Gall, de Schwyz, de Berne, de Lucerne, de Zoug, de Bâle-Ville, de Bâle-Campagne, de Soleure et de Schaffhouse, ainsi qu’aux autorités partenaires internationales (Allemagne, République tchèque, Pays-Bas, Espagne, Belgique, Grèce, Pologne, Eurojust et Europol) pour leur excellente collaboration.&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Les enquêtes approfondies sont en cours depuis 2022 et se concentrent sur un réseau présumé qui serait actif depuis au moins début 2019. Les investigations menées par fedpol dans le cadre de la procédure pénale ouverte en 2023 par le MPC se sont déroulées en étroite collaboration avec les enquêtrices et enquêteurs de la police cantonale de Thurgovie.&lt;/p&gt; &lt;h2&gt;Contexte et actes punissables&lt;/h2&gt; &lt;p&gt;La procédure pénale porte sur les soupçons selon lesquels, au moins depuis début 2019 et jusqu’à aujourd’hui, une ou plusieurs organisations criminelles en Amérique latine auraient dissimulé de grandes quantités de cocaïne dans des conteneurs maritimes et les auraient transportées vers l’Europe. La cocaïne aurait été dissimulée dans des livraisons de marchandises légales, les adresses des destinataires indiquées étant notamment celles de sociétés situées en Suisse et aux Pays-Bas. Ces sociétés, inscrites au registre du commerce en tant qu’entreprises de commerce de marchandises, auraient été créées uniquement dans le but de faciliter les transports de cocaïne. La mise en place de ce réseau de sociétés en Europe aurait ainsi permis d’utiliser abusivement la place économique suisse à des fins criminelles. On soupçonne en outre que des fonds d’origine criminelle aient été blanchis en les injectant dans diverses sociétés, ce qui fait également l’objet de signalements de la part du Bureau de communication en matière de blanchiment d’argent (MROS) de fedpol.&lt;/p&gt; &lt;p&gt;Diverses saisies de cocaïne, portant sur plusieurs tonnes et effectuées depuis 2019, notamment dans des ports européens, seraient imputables à ce réseau. De nombreux autres transports de cocaïne auraient également été organisés par celui-ci. Grâce aux mesures prises par le MPC et par fedpol, un chargement a pu être intercepté en août 2026 à Anvers, en coopération avec des autorités partenaires internationales, ce qui a permis de saisir et de retirer de la circulation plus de 750 kilogrammes de cocaïne.&lt;/p&gt; &lt;h2&gt;Déroulement de l’opération&lt;/h2&gt; &lt;p&gt;La dernière intervention a eu lieu entre le 10 et le 11 novembre 2026 et a donné lieu à des mesures coordonnées dans 12 cantons suisses ainsi que dans sept autres pays. Dans le cadre de cette opération, les mesures suivantes ont été prises :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Perquisitions&lt;/strong&gt; : au total, des perquisitions ont été menées sur 84 sites, dont 55 en Suisse et 29 à l’étranger.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Interpellations&lt;/strong&gt; : 41 personnes ont été interpellées en Suisse. Une détention préventive a été demandée pour cinq d’entre elles. Par ailleurs, trois personnes arrêtées à l’étranger se trouvent actuellement en détention en vue de leur extradition.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Saisies&lt;/strong&gt; : à ce jour, plus de 2,3 millions de francs ainsi que des cryptomonnaies d’une valeur de 50’000 francs et 15 armes ont été saisis dans les pays participants.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Présomption d’innocence et prochaines étapes&lt;/h2&gt; &lt;p&gt;La présomption d’innocence s’applique à toutes les personnes mises en cause. L’enquête de fedpol, menée sous la direction du Ministère public de la Confédération, se poursuit activement. Aucune autre information ne peut être communiquée à ce stade, en raison de la procédure pénale en cours.&lt;/p&gt; &lt;p&gt;Le MPC et fedpol remercient les corps de police ayant participé à l’opération : Thurgovie, Zurich (ville et canton), d’Appenzell Rhodes-Extérieures, de Saint-Gall, de Schwyz, de Berne, de Lucerne, de Zoug, de Bâle-Ville, de Bâle-Campagne, de Soleure et de Schaffhouse, ainsi qu’aux autorités partenaires internationales (Allemagne, République tchèque, Pays-Bas, Espagne, Belgique, Grèce, Pologne, Italie, Eurojust et Europol) pour leur excellente collaboration.&lt;/p&gt;</text>
       <contact>Communication fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Operazione internazionale contro un’organizzazione criminale: diversi arresti e decine di perquisizioni domiciliari in Svizzera e all’estero</title>
+      <lead>Il Ministero pubblico della Confederazione (MPC) e l’Ufficio federale di polizia fedpol hanno condotto un’operazione su larga scala, coordinata a livello internazionale, contro una presunta organizzazione criminale. L’operazione era diretta contro persone sospettate di far parte di un’organizzazione criminale, di aver commesso violazioni della legge sugli stupefacenti e di aver svolto attività di riciclaggio di denaro aggravato.</lead>
+      <text link="no">&lt;p&gt;Indagini approfondite sono in corso già dal 2022 e si concentrano su una presunta rete che sarebbe attiva almeno dall’inizio del 2019. Le indagini condotte da fedpol nell’ambito del procedimento penale avviato dal MPC nel 2023 sono state svolte in stretta collaborazione con gli investigatori della Polizia cantonale di Turgovia.&lt;/p&gt; &lt;h2&gt;Contesto e reati punibili&lt;/h2&gt; &lt;p&gt;Il procedimento penale verte sui sospetti secondo cui, almeno dall’inizio del 2019 ad oggi, una o più organizzazioni criminali in America Latina avrebbero nascosto ingenti quantitativi di cocaina in container marittimi e li avrebbero trasportati in Europa. La cocaina sarebbe stata presumibilmente nascosta in spedizioni di merci legali, per le quali erano state indicate come destinatarie, in particolare, società con sede in Svizzera e nei Paesi Bassi. Tali società, iscritte nel registro di commercio come imprese di commercio di merci, sarebbero state costituite appositamente per consentire il trasporto di cocaina. Si ritiene quindi che, attraverso la creazione di questa rete di società in Europa, la piazza finanziaria svizzera sia stata utilizzata a fini criminali. Sussiste inoltre il sospetto che fondi di provenienza illecita siano stati riciclati mediante il loro convogliamento in diverse società, come attestato anche dalle segnalazioni pervenute da parte dell’Ufficio di comunicazione in materia di riciclaggio di denaro (MROS) di fedpol.&lt;/p&gt; &lt;p&gt;Diversi sequestri di cocaina, per un totale di numerose tonnellate, effettuati a partire dal 2019, in particolare nei porti europei, sarebbero riconducibili, in base agli indizi disponibili, a questa rete, sebbene si ritenga che abbiano avuto luogo numerosi altri trasporti di cocaina. Grazie alle misure adottate dal MPC e da fedpol, nell’agosto 2026 è stato possibile intercettare ad Anversa, in collaborazione con le autorità partner internazionali, un carico, dal quale sono stati sequestrati e ritirati dalla circolazione oltre 750 chilogrammi di cocaina.&lt;/p&gt; &lt;h2&gt;Svolgimento dell’intervento&lt;/h2&gt; &lt;p&gt;L'ultimo intervento si è svolto tra il 10 e l’11 novembre 2026 e ha comportato misure coordinate in 12 cantoni svizzeri e in altri sette paesi. Nell'ambito di questa operazione sono state adottate le seguenti misure:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Perquisizioni domiciliari:&lt;/strong&gt; complessivamente sono state effettuate perquisizioni domiciliari in 84 sedi, di cui 55 in Svizzera e 29 all’estero.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fermi:&lt;/strong&gt; in Svizzera sono state fermate in via provvisoria 41 persone. Per cinque di esse è stata richiesta la carcerazione preventiva. Inoltre, tre persone arrestate all’estero si trovano attualmente in custodia in attesa di estradizione.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sequestri: &lt;/strong&gt;finora, nei Paesi coinvolti sono stati sequestrati complessivamente oltre 2,3 milioni di franchi, oltre a criptovalute per un valore di 50’000 franchi e 15 armi.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Presunzione di innocenza e passi successivi&lt;/h2&gt; &lt;p&gt;A tutte le persone indagate si applica la presunzione di innocenza. Le indagini condotte da fedpol sotto la direzione del MPC proseguono attivamente. Non è possibile fornire ulteriori informazioni in ragione del procedimento penale in corso.&lt;/p&gt; &lt;p&gt;Il MPC e fedpol ringraziano i corpi di polizia coinvolti nell’operazione: Turgovia, Zurigo (città e cantone), Appenzello Esterno, San Gallo, Svitto, Berna, Lucerna, Zugo, Basilea Città, Basilea Campagna, Soletta e Sciaffusa, nonché le autorità partner internazionali (Germania, Repubblica Ceca, Paesi Bassi, Spagna, Belgio, Grecia, Polonia, Italia, Eurojust ed Europol) per l’eccellente collaborazione.&lt;/p&gt;</text>
+      <contact>Comunicazione di fedpol +41 58 463 13 10 media@fedpol.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="en">
       <city>Bern</city>
       <title>International operation against a criminal organisation: Several arrests and dozens of house searches in Switzerland and abroad</title>
       <lead>The Office of the Attorney General of Switzerland (OAG) and the Federal Office of Police (fedpol) have carried out a large-scale, internationally coordinated operation against a suspected criminal organisation. The operation targeted individuals suspected of involvement in a criminal organisation, of committing offences under the Narcotics Act, and of engaging in aggravated money laundering.</lead>
-      <text link="no">&lt;p&gt;Investigations have been ongoing since 2022, focusing on a network believed to have been active since at least early 2019. fedpol’s investigations in the criminal proceedings initiated by the OAG in 2023 were carried out in close cooperation with investigators from the Thurgau Cantonal Police.&lt;/p&gt; &lt;h2&gt;Background and suspected offences&lt;/h2&gt; &lt;p&gt;The OAG and fedpol are investigating allegations that, at least from the beginning of 2019, one or more criminal organisations in Latin America have been transporting large quantities of cocaine to Europe concealed in shipping containers. The cocaine was hidden in consignments of legal goods, with the recipient addresses including companies in Switzerland and the Netherlands. These companies, which are registered as trading firms, are believed to have been set up solely for the purpose of facilitating the transport of cocaine. This network of European companies has also been exploiting Switzerland’s business environment for the benefit of their criminal activities. Furthermore, the suspects are also believed to have laundered illegal funds through various companies. Reports to this effect have also been received by the Money Laundering Reporting Office Switzerland (MROS) at fedpol.&lt;/p&gt; &lt;p&gt;Based on the evidence currently available, it is likely that several tonnes of cocaine seized since 2019, particularly at European ports, are attributable to this network. However, it is likely that numerous other cocaine shipments have also taken place. Following action by the OAG and fedpol in cooperation with international partners, a consignment was intercepted in Antwerp in August 2026. This resulted in the seizure and removal from circulation of more than 750 kilograms of cocaine.&lt;/p&gt; &lt;h2&gt;The latest operation&lt;/h2&gt; &lt;p&gt;The latest operation took place between 10 and 11 November and involved coordinated measures in twelve Swiss cantons and seven other countries. The measures included:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;House searches&lt;/strong&gt;: A total of 84 locations were searched, 55 of which were in Switzerland and 29 abroad.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Arrests&lt;/strong&gt;: Forty-one people were taken into custody in Switzerland. A request has been made for five of them to be detained pending further investigations. A further three people who were arrested abroad are currently in custody pending extradition.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Seizures&lt;/strong&gt;: To date, more than CHF 2.3 million, as well as cryptocurrencies worth CHF 50,000 and 15 weapons have been seized in the countries involved.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Next steps&lt;/h2&gt; &lt;p&gt;The presumption of innocence applies to all of the suspects. Fedpol’s investigations, led by the OAG, are continuing. No further information can be provided at present due to the ongoing criminal proceedings.&lt;/p&gt; &lt;p&gt;The OAG and fedpol would like to thank the following for their excellent cooperation: the police forces of Thurgau, Zurich (city and canton), Appenzell Ausserrhoden, St Gallen, Schwyz, Bern, Lucerne, Zug, Basel-Stadt, Basel-Landschaft, Solothurn and Schaffhausen; Switzerland's international partners in Germany, the Czech Republic, the Netherlands, Spain, Belgium, Greece and Poland; and Eurojust and Europol.&lt;/p&gt;</text>
+      <text link="no">&lt;p&gt;Investigations have been ongoing since 2022, focusing on a network believed to have been active since at least early 2019. fedpol’s investigations in the criminal proceedings initiated by the OAG in 2023 were carried out in close cooperation with investigators from the Thurgau Cantonal Police.&lt;/p&gt; &lt;h2&gt;Background and suspected offences&lt;/h2&gt; &lt;p&gt;The OAG and fedpol are investigating allegations that, at least from the beginning of 2019, one or more criminal organisations in Latin America have been transporting large quantities of cocaine to Europe concealed in shipping containers. The cocaine was hidden in consignments of legal goods, with the recipient addresses including companies in Switzerland and the Netherlands. These companies, which are registered as trading firms, are believed to have been set up solely for the purpose of facilitating the transport of cocaine. This network of European companies has also been exploiting Switzerland’s business environment for the benefit of their criminal activities. Furthermore, the suspects are also believed to have laundered illegal funds through various companies. Reports to this effect have also been received by the Money Laundering Reporting Office Switzerland (MROS) at fedpol.&lt;/p&gt; &lt;p&gt;Based on the evidence currently available, it is likely that several tonnes of cocaine seized since 2019, particularly at European ports, are attributable to this network. However, it is likely that numerous other cocaine shipments have also taken place. Following action by the OAG and fedpol in cooperation with international partners, a consignment was intercepted in Antwerp in August 2026. This resulted in the seizure and removal from circulation of more than 750 kilograms of cocaine.&lt;/p&gt; &lt;h2&gt;The latest operation&lt;/h2&gt; &lt;p&gt;The latest operation took place between 10 and 11 November and involved coordinated measures in twelve Swiss cantons and seven other countries. The measures included:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;House searches&lt;/strong&gt;: A total of 84 locations were searched, 55 of which were in Switzerland and 29 abroad.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Arrests&lt;/strong&gt;: Forty-one people were taken into custody in Switzerland. A request has been made for five of them to be detained pending further investigations. A further three people who were arrested abroad are currently in custody pending extradition.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Seizures&lt;/strong&gt;: To date, more than CHF 2.3 million, as well as cryptocurrencies worth CHF 50,000 and 15 weapons have been seized in the countries involved.&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Next steps&lt;/h2&gt; &lt;p&gt;The presumption of innocence applies to all of the suspects. Fedpol’s investigations, led by the OAG, are continuing. No further information can be provided at present due to the ongoing criminal proceedings.&lt;/p&gt; &lt;p&gt;The OAG and fedpol would like to thank the following for their excellent cooperation: the police forces of Thurgau, Zurich (city and canton), Appenzell Ausserrhoden, St Gallen, Schwyz, Bern, Lucerne, Zug, Basel-Stadt, Basel-Landschaft, Solothurn and Schaffhausen; Switzerland's international partners in Germany, the Czech Republic, the Netherlands, Spain, Belgium, Greece, Poland and Italy; and Eurojust and Europol.&lt;/p&gt;</text>
       <contact>Federal Office of Police fedpol, Communication +41 58 463 13 10 media@fedpol.admin.ch</contact>
       <revisions/>
     </content>
     <topics>
       <topic id="547">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="rm">Polizia</name>
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
       </topic>
       <topic id="17">
         <name lang="de">Organisierte Kriminalität</name>
@@ -175,11 +175,11 @@
         <name lang="rm">Criminalitad organisada</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

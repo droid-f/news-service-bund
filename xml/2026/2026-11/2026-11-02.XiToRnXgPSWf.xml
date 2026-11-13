@@ -6,18 +6,18 @@
     <pubdate>2026-11-02</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
+      <name lang="de">Eidgenössische Finanzkontrolle</name>
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
-      <name lang="de">Eidgenössische Finanzkontrolle</name>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
-      <www lang="en">https://www.efk.admin.ch/en</www>
+      <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
-      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -36,27 +36,11 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
+        <name lang="rm">Repport</name>
       </keyword>
     </keywords>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Prüfung der Steuerung des Immobilienportfolios</title>
-      <lead>Die Schweizer Armee braucht Immobilien, um ihren Auftrag in Ausbildung und Einsatz zu erfüllen. Dazu zählen beispielsweise Kasernen, Militärflugplätze und Waffenplätze. Diese werden im Immobilienportfolio von armasuisse Immobilien (ar Immo) erfasst. Dieses wies Ende 2025 einen Neuwert von 28.4 Milliarden Franken aus. 23,9 Milliarden Franken davon befinden sich im Kernbestand und werden dementsprechend längerfristig genutzt. Die aktuelle geopolitische Lage führt zu einer Neuausrichtung der Armee. Dadurch verändert sich auch ihr Immobilienportfolio. Ursprünglich sah das Stationierungskonzept vor, den Kernbestand auf 20 Milliarden Franken zu senken. 2022 erfolgte jedoch eine Kehrtwende hin zu einem Ausbau auf bis zu 30 Milliarden Franken. Die Eidgenössische Finanzkontrolle (EFK) prüfte, ob ar Immo ihr Portfolio mit geeigneten Instrumenten steuert und auf Basis adäquater Vorgaben eine wirtschaftliche Projektabwicklung sicherstellt. Die Prüfung zeigte mehrere, teilweise bereits erkannte Handlungsfelder: unklarer Nutzerbedarf, fehlende Strategie, ungenügende Steuerung, aufgestauter Instandsetzungsbedarf und fehlende Standardisierung. Diese führen dazu, dass ar Immo ihre Aufgaben nur eingeschränkt wahrnehmen kann. Deshalb muss der Immobilienrat grundlegende Richtungsentscheide treffen.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/prufung/steuerung-des-immobilienportfolios/"&gt;Weitere Details und gesamter Bericht&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="fr">
-      <city>Berne</city>
-      <title>Audit du pilotage du portefeuille immobilier</title>
-      <lead>L’Armée suisse a besoin de biens immobiliers pour accomplir ses tâches en matière d’instruction et d’engagement. Il s’agit par exemple de casernes, d’aérodromes militaires et de places d’armes. Ces biens sont recensés dans le portefeuille immobilier d’armasuisse Immobilier (ar Immo). À fin 2025, ce portefeuille affichait une valeur à neuf de 28,4 milliards de francs, dont 23,9 milliards correspondaient au parc immobilier de base, destiné à être utilisé à long terme. La situation géopolitique actuelle entraîne une réorientation de l’armée et, partant, une transformation de son portefeuille immobilier. À l’origine, le concept de stationnement prévoyait de ramener la valeur du parc immobilier de base à 20 milliards de francs. Un changement de cap est toutefois intervenu en 2022 : il est désormais prévu de porter cette valeur jusqu’à 30 milliards de francs. Le Contrôle fédéral des finances (CDF) a examiné si ar Immo pilotait son portefeuille avec des instruments adéquats et garantissait une réalisation efficiente des projets sur la base de directives appropriées. L’audit a mis en évidence plusieurs domaines dans lesquels des mesures s’imposent, dont certains étaient déjà identifiés : besoins des utilisateurs mal définis, absence de stratégie, pilotage insuffisant, besoins accumulés en matière de remise en état et absence de standardisation. Ces lacunes empêchent ar Immo de s’acquitter pleinement de ses tâches. Le conseil immobilier doit donc prendre des décisions fondamentales sur l’orientation à suivre.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/pilotage-du-portefeuille-immobilier/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="en">
       <city>Bern</city>
       <title>Audit of the steering of the real estate portfolio</title>
@@ -73,23 +57,39 @@
       <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Prüfung der Steuerung des Immobilienportfolios</title>
+      <lead>Die Schweizer Armee braucht Immobilien, um ihren Auftrag in Ausbildung und Einsatz zu erfüllen. Dazu zählen beispielsweise Kasernen, Militärflugplätze und Waffenplätze. Diese werden im Immobilienportfolio von armasuisse Immobilien (ar Immo) erfasst. Dieses wies Ende 2025 einen Neuwert von 28.4 Milliarden Franken aus. 23,9 Milliarden Franken davon befinden sich im Kernbestand und werden dementsprechend längerfristig genutzt. Die aktuelle geopolitische Lage führt zu einer Neuausrichtung der Armee. Dadurch verändert sich auch ihr Immobilienportfolio. Ursprünglich sah das Stationierungskonzept vor, den Kernbestand auf 20 Milliarden Franken zu senken. 2022 erfolgte jedoch eine Kehrtwende hin zu einem Ausbau auf bis zu 30 Milliarden Franken. Die Eidgenössische Finanzkontrolle (EFK) prüfte, ob ar Immo ihr Portfolio mit geeigneten Instrumenten steuert und auf Basis adäquater Vorgaben eine wirtschaftliche Projektabwicklung sicherstellt. Die Prüfung zeigte mehrere, teilweise bereits erkannte Handlungsfelder: unklarer Nutzerbedarf, fehlende Strategie, ungenügende Steuerung, aufgestauter Instandsetzungsbedarf und fehlende Standardisierung. Diese führen dazu, dass ar Immo ihre Aufgaben nur eingeschränkt wahrnehmen kann. Deshalb muss der Immobilienrat grundlegende Richtungsentscheide treffen.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/prufung/steuerung-des-immobilienportfolios/"&gt;Weitere Details und gesamter Bericht&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Audit du pilotage du portefeuille immobilier</title>
+      <lead>L’Armée suisse a besoin de biens immobiliers pour accomplir ses tâches en matière d’instruction et d’engagement. Il s’agit par exemple de casernes, d’aérodromes militaires et de places d’armes. Ces biens sont recensés dans le portefeuille immobilier d’armasuisse Immobilier (ar Immo). À fin 2025, ce portefeuille affichait une valeur à neuf de 28,4 milliards de francs, dont 23,9 milliards correspondaient au parc immobilier de base, destiné à être utilisé à long terme. La situation géopolitique actuelle entraîne une réorientation de l’armée et, partant, une transformation de son portefeuille immobilier. À l’origine, le concept de stationnement prévoyait de ramener la valeur du parc immobilier de base à 20 milliards de francs. Un changement de cap est toutefois intervenu en 2022 : il est désormais prévu de porter cette valeur jusqu’à 30 milliards de francs. Le Contrôle fédéral des finances (CDF) a examiné si ar Immo pilotait son portefeuille avec des instruments adéquats et garantissait une réalisation efficiente des projets sur la base de directives appropriées. L’audit a mis en évidence plusieurs domaines dans lesquels des mesures s’imposent, dont certains étaient déjà identifiés : besoins des utilisateurs mal définis, absence de stratégie, pilotage insuffisant, besoins accumulés en matière de remise en état et absence de standardisation. Ces lacunes empêchent ar Immo de s’acquitter pleinement de ses tâches. Le conseil immobilier doit donc prendre des décisions fondamentales sur l’orientation à suivre.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/pilotage-du-portefeuille-immobilier/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="530">
-        <name lang="it">Istruzione</name>
         <name lang="rm">Scolaziun</name>
         <name lang="de">Ausbildung</name>
         <name lang="en">Training</name>
         <name lang="fr">Instruction</name>
+        <name lang="it">Istruzione</name>
       </topic>
       <topic id="40">
-        <name lang="en">Security</name>
-        <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
         <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
+        <name lang="fr">Sécurité</name>
       </topic>
     </topics>
     <offers/>

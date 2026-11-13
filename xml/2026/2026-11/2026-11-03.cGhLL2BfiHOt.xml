@@ -6,11 +6,11 @@
     <pubdate>2026-11-03</pubdate>
     <originator id="201" department-msg="no" lead="yes" topnews="no">
       <department-id>201</department-id>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <name lang="en">Federal Department of Foreign Affairs</name>
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
@@ -24,10 +24,10 @@
     </originator>
     <keywords>
       <keyword id="11098" org-id="201">
-        <name lang="it">Macedonia del Nord</name>
-        <name lang="de">Nordmazedonien</name>
         <name lang="en">North Macedonia</name>
         <name lang="fr">Macédoine du Nord</name>
+        <name lang="it">Macedonia del Nord</name>
+        <name lang="de">Nordmazedonien</name>
       </keyword>
       <keyword id="11113" org-id="201">
         <name lang="de">Serbien</name>
@@ -48,30 +48,6 @@
         <name lang="it">La Svizzera e l'OSCE</name>
       </keyword>
       <keyword id="11098" org-id="201">
-        <name lang="fr">Macédoine du Nord</name>
-        <name lang="it">Macedonia del Nord</name>
-        <name lang="de">Nordmazedonien</name>
-        <name lang="en">North Macedonia</name>
-      </keyword>
-      <keyword id="11113" org-id="201">
-        <name lang="en">Serbia</name>
-        <name lang="fr">Serbie</name>
-        <name lang="it">Serbie</name>
-        <name lang="de">Serbien</name>
-      </keyword>
-      <keyword id="11096" org-id="201">
-        <name lang="en">Kosovo</name>
-        <name lang="fr">Kosovo</name>
-        <name lang="it">Kosovo</name>
-        <name lang="de">Kosovo</name>
-      </keyword>
-      <keyword id="11276" org-id="201">
-        <name lang="it">La Svizzera e l'OSCE</name>
-        <name lang="de">Schweiz und OSZE</name>
-        <name lang="en">Switzerland and the OSCE</name>
-        <name lang="fr">La Suisse et l'OSCE</name>
-      </keyword>
-      <keyword id="11098" org-id="201">
         <name lang="de">Nordmazedonien</name>
         <name lang="en">North Macedonia</name>
         <name lang="fr">Macédoine du Nord</name>
@@ -84,10 +60,10 @@
         <name lang="it">Serbie</name>
       </keyword>
       <keyword id="11096" org-id="201">
-        <name lang="en">Kosovo</name>
-        <name lang="fr">Kosovo</name>
         <name lang="it">Kosovo</name>
         <name lang="de">Kosovo</name>
+        <name lang="en">Kosovo</name>
+        <name lang="fr">Kosovo</name>
       </keyword>
       <keyword id="11276" org-id="201">
         <name lang="de">Schweiz und OSZE</name>
@@ -102,10 +78,10 @@
         <name lang="it">Macedonia del Nord</name>
       </keyword>
       <keyword id="11113" org-id="201">
-        <name lang="it">Serbie</name>
         <name lang="de">Serbien</name>
         <name lang="en">Serbia</name>
         <name lang="fr">Serbie</name>
+        <name lang="it">Serbie</name>
       </keyword>
       <keyword id="11096" org-id="201">
         <name lang="de">Kosovo</name>
@@ -114,10 +90,34 @@
         <name lang="it">Kosovo</name>
       </keyword>
       <keyword id="11276" org-id="201">
+        <name lang="de">Schweiz und OSZE</name>
         <name lang="en">Switzerland and the OSCE</name>
         <name lang="fr">La Suisse et l'OSCE</name>
         <name lang="it">La Svizzera e l'OSCE</name>
+      </keyword>
+      <keyword id="11098" org-id="201">
+        <name lang="de">Nordmazedonien</name>
+        <name lang="en">North Macedonia</name>
+        <name lang="fr">Macédoine du Nord</name>
+        <name lang="it">Macedonia del Nord</name>
+      </keyword>
+      <keyword id="11113" org-id="201">
+        <name lang="de">Serbien</name>
+        <name lang="en">Serbia</name>
+        <name lang="fr">Serbie</name>
+        <name lang="it">Serbie</name>
+      </keyword>
+      <keyword id="11096" org-id="201">
+        <name lang="de">Kosovo</name>
+        <name lang="en">Kosovo</name>
+        <name lang="fr">Kosovo</name>
+        <name lang="it">Kosovo</name>
+      </keyword>
+      <keyword id="11276" org-id="201">
         <name lang="de">Schweiz und OSZE</name>
+        <name lang="en">Switzerland and the OSCE</name>
+        <name lang="fr">La Suisse et l'OSCE</name>
+        <name lang="it">La Svizzera e l'OSCE</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -154,11 +154,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="541">
         <name lang="de">Kooperation</name>
@@ -182,11 +182,11 @@
         <name lang="rm">Organisaziuns internaziunalas</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
       </topic>
     </topics>
     <offers/>

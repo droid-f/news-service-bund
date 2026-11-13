@@ -10,10 +10,10 @@
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
-      <www lang="it">https://www.efk.admin.ch/it</www>
-      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
+      <www lang="it">https://www.efk.admin.ch/it</www>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
@@ -21,9 +21,9 @@
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -36,19 +36,11 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
     </keywords>
-    <content lang="fr">
-      <city>Berne</city>
-      <title>Audit de la cohérence des mesures de communication internationale</title>
-      <lead>La Confédération mène des activités de communication internationale afin de promouvoir l’image de la Suisse à l’étranger et de prévenir les crises d’image. L’unité « Présence Suisse » du Département fédéral des affaires étrangères (DFAE) met en œuvre des mesures de communication internationale : participation de la Suisse à de grands événements internationaux, encouragement de projets, élaboration de contenus de communication, organisation de voyages de délégations et monitoring de la perception de la Suisse à l’étranger. Présence Suisse fonde son action sur la stratégie de communication internationale du Conseil fédéral et coordonne ses activités avec les nombreux services fédéraux qui communiquent à l’étranger au nom de la Suisse. Le Contrôle fédéral des finances (CDF) a examiné si Présence Suisse employait les fonds alloués à la communication internationale avec cohérence et efficacité. Il conclut que Présence Suisse doit mieux hiérarchiser ses activités et les axer sur les effets recherchés auprès des groupes cibles concernés.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/coherence-des-mesures-de-communication-internationale/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="it">
       <city>Berna</city>
       <title>Verifica della coerenza delle misure relative alla comunicazione internazionale</title>
@@ -65,6 +57,14 @@
       <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Audit de la cohérence des mesures de communication internationale</title>
+      <lead>La Confédération mène des activités de communication internationale afin de promouvoir l’image de la Suisse à l’étranger et de prévenir les crises d’image. L’unité « Présence Suisse » du Département fédéral des affaires étrangères (DFAE) met en œuvre des mesures de communication internationale : participation de la Suisse à de grands événements internationaux, encouragement de projets, élaboration de contenus de communication, organisation de voyages de délégations et monitoring de la perception de la Suisse à l’étranger. Présence Suisse fonde son action sur la stratégie de communication internationale du Conseil fédéral et coordonne ses activités avec les nombreux services fédéraux qui communiquent à l’étranger au nom de la Suisse. Le Contrôle fédéral des finances (CDF) a examiné si Présence Suisse employait les fonds alloués à la communication internationale avec cohérence et efficacité. Il conclut que Présence Suisse doit mieux hiérarchiser ses activités et les axer sur les effets recherchés auprès des groupes cibles concernés.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/coherence-des-mesures-de-communication-internationale/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="en">
       <city>Bern</city>
       <title>Audit of the coherence of measures relating to communication abroad</title>
@@ -75,18 +75,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="36">
+        <name lang="it">Digitalizzazione, comunicazione e media</name>
+        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
         <name lang="fr">Transformation numérique, communication et médias</name>
-        <name lang="it">Digitalizzazione, comunicazione e media</name>
-        <name lang="rm">Digitalisaziun, communicaziun e medias</name>
       </topic>
     </topics>
     <offers/>
