@@ -14,10 +14,10 @@
       <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
-      <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
+      <email lang="en">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -26,19 +26,19 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
-      </keyword>
-      <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
+      </keyword>
+      <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
+        <name lang="it">Verifica</name>
       </keyword>
     </keywords>
     <content lang="it">
@@ -75,11 +75,11 @@
     </content>
     <topics>
       <topic id="8">
+        <name lang="de">Bildung, Forschung &amp; Innovation</name>
+        <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
         <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
-        <name lang="de">Bildung, Forschung &amp; Innovation</name>
-        <name lang="en">Education, Research &amp; Innovation</name>
       </topic>
     </topics>
     <offers/>
