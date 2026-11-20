@@ -6,11 +6,11 @@
     <pubdate>2026-01-29</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
       <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
+      <name lang="it">Segreteria di Stato della migrazione</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
@@ -21,10 +21,10 @@
         <name lang="it">Politica migratoria internazionale</name>
       </keyword>
       <keyword id="SLW-72" org-id="405">
-        <name lang="de">Migrationspolitik international</name>
         <name lang="en">International politics of migration</name>
         <name lang="fr">Politique migratoire internationale</name>
         <name lang="it">Politica migratoria internazionale</name>
+        <name lang="de">Migrationspolitik international</name>
       </keyword>
       <keyword id="SLW-72" org-id="405">
         <name lang="de">Migrationspolitik international</name>
@@ -45,17 +45,25 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
+      <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </department>
+    <content lang="en">
+      <city>Bern-Wabern</city>
+      <title>Switzerland to take over chairmanship of the Rabat Process in 2026</title>
+      <lead>Switzerland is to take over the chairmanship of the Euro–African Dialogue on Migration and Development (Rabat Process) this year. It will succeed Nigeria in leading this forum, which brings together almost 60 countries from Europe, North, West and Central Africa. This year, the forum is celebrating its 20th anniversary.</lead>
+      <text link="no">&lt;p&gt;The Swiss chairmanship will focus on protection and asylum, as well as issues related to return, readmission and reintegration. These strategic priorities reflect Switzerland's commitment to a balanced migration policy and are in line with its national and international priorities.&lt;/p&gt; &lt;p&gt;During its chairmanship, Switzerland will organise several thematic meetings as well as the next Senior Officials Meeting in early 2027. Celebrations to mark the 20th anniversary of the Rabat Process will take place throughout the year. A member since the forum's establishment in 2006, Switzerland has always played an active role, including as a permanent member of the Steering Committee since 2022. This commitment forms a key part of its foreign migration policy, supporting enhanced dialogue on migration with both the EU and African states.&lt;/p&gt; &lt;p&gt;The Rabat Process brings together 28 African countries, 29 European countries and other key stakeholders, such as the EU and the Economic Community of West African States (ECOWAS). It offers a framework for consultation between countries of origin, transit, and destination with the aim of finding a coordinated and balanced responses to migration issues.&lt;/p&gt;</text>
+      <contact>Information and Communication SEM medien@sem.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="it">
       <city>Berna-Wabern</city>
       <title>Nel 2026 la Svizzera presiede il Processo di Rabat</title>
@@ -72,14 +80,6 @@
       <contact>Information et communication SEM medien@sem.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Bern-Wabern</city>
-      <title>Switzerland to take over chairmanship of the Rabat Process in 2026</title>
-      <lead>Switzerland is to take over the chairmanship of the Euro–African Dialogue on Migration and Development (Rabat Process) this year. It will succeed Nigeria in leading this forum, which brings together almost 60 countries from Europe, North, West and Central Africa. This year, the forum is celebrating its 20th anniversary.</lead>
-      <text link="no">&lt;p&gt;The Swiss chairmanship will focus on protection and asylum, as well as issues related to return, readmission and reintegration. These strategic priorities reflect Switzerland's commitment to a balanced migration policy and are in line with its national and international priorities.&lt;/p&gt; &lt;p&gt;During its chairmanship, Switzerland will organise several thematic meetings as well as the next Senior Officials Meeting in early 2027. Celebrations to mark the 20th anniversary of the Rabat Process will take place throughout the year. A member since the forum's establishment in 2006, Switzerland has always played an active role, including as a permanent member of the Steering Committee since 2022. This commitment forms a key part of its foreign migration policy, supporting enhanced dialogue on migration with both the EU and African states.&lt;/p&gt; &lt;p&gt;The Rabat Process brings together 28 African countries, 29 European countries and other key stakeholders, such as the EU and the Economic Community of West African States (ECOWAS). It offers a framework for consultation between countries of origin, transit, and destination with the aim of finding a coordinated and balanced responses to migration issues.&lt;/p&gt;</text>
-      <contact>Information and Communication SEM medien@sem.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Bern-Wabern</city>
       <title>Die Schweiz übernimmt 2026 den Vorsitz des Rabat-Prozesses</title>
@@ -90,18 +90,18 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
-        <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
       </topic>
       <topic id="20">
-        <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
         <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
+        <name lang="it">Migrazione e integrazione</name>
       </topic>
     </topics>
     <offers/>

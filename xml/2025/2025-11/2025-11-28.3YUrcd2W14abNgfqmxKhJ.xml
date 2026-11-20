@@ -4,76 +4,78 @@
     <type>Memorandum</type>
     <version>1</version>
     <pubdate>2025-11-28</pubdate>
-    <originator id="1097" department-msg="no" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Institut für Virologie und Immunologie</name>
-      <name lang="en">Institute of Virology and Immunology</name>
-      <name lang="fr">Institut de virologie et d'immunologie</name>
-      <name lang="it">Istituto di virologia e immunologia</name>
-      <name lang="rm">Institut da virologia e d'immunologia</name>
-      <www lang="de">https://www.ivi.admin.ch</www>
-      <www lang="en">https://www.ivi.admin.ch/en</www>
-      <www lang="fr">https://www.ivi.admin.ch/fr</www>
-      <www lang="it">https://www.ivi.admin.ch/it</www>
-      <email lang="de">communication@ivi.admin.ch</email>
-      <email lang="en">communication@ivi.admin.ch</email>
-      <email lang="fr">communication@ivi.admin.ch</email>
-      <email lang="it">communication@ivi.admin.ch</email>
-      <email lang="rm">communication@ivi.admin.ch</email>
-    </originator>
-    <originator id="610" department-msg="no" lead="yes" topnews="no">
-      <department-id>601</department-id>
-      <name lang="rm">Uffizi federal per edifizis e logistica</name>
-      <name lang="de">Bundesamt für Bauten und Logistik</name>
-      <name lang="en">Federal Office for Buildings and Logistics</name>
-      <name lang="fr">Office fédéral des constructions et de la logistique</name>
-      <name lang="it">Ufficio federale delle costruzioni e della logistica</name>
-      <www lang="rm">https://www.bbl.admin.ch</www>
-      <www lang="de">https://www.bbl.admin.ch</www>
-      <www lang="en">https://www.bbl.admin.ch</www>
-      <www lang="fr">https://www.bbl.admin.ch/fr</www>
-      <www lang="it">https://www.bbl.admin.ch/it</www>
-      <email lang="it">media@bbl.admin.ch</email>
-      <email lang="rm">media@bbl.admin.ch</email>
-      <email lang="de">media@bbl.admin.ch</email>
-      <email lang="en">media@bbl.admin.ch</email>
-      <email lang="fr">media@bbl.admin.ch</email>
-    </originator>
     <originator id="1079" department-msg="no" lead="no" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
-      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <name lang="en">Federal Food Safety and Veterinary Office</name>
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <www lang="de">https://www.blv.admin.ch</www>
-      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
-      <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
+      <www lang="en">https://www.blv.admin.ch/en</www>
+      <www lang="fr">https://www.blv.admin.ch/fr</www>
+      <www lang="it">https://www.blv.admin.ch/it</www>
+      <www lang="rm">https://www.blv.admin.ch</www>
       <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
     </originator>
+    <originator id="1097" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="rm">Institut da virologia e d'immunologia</name>
+      <name lang="de">Institut für Virologie und Immunologie</name>
+      <name lang="en">Institute of Virology and Immunology</name>
+      <name lang="fr">Institut de virologie et d'immunologie</name>
+      <name lang="it">Istituto di virologia e immunologia</name>
+      <www lang="de">https://www.ivi.admin.ch</www>
+      <www lang="en">https://www.ivi.admin.ch/en</www>
+      <www lang="fr">https://www.ivi.admin.ch/fr</www>
+      <www lang="it">https://www.ivi.admin.ch/it</www>
+      <email lang="it">communication@ivi.admin.ch</email>
+      <email lang="rm">communication@ivi.admin.ch</email>
+      <email lang="de">communication@ivi.admin.ch</email>
+      <email lang="en">communication@ivi.admin.ch</email>
+      <email lang="fr">communication@ivi.admin.ch</email>
+    </originator>
+    <originator id="610" department-msg="no" lead="yes" topnews="no">
+      <department-id>601</department-id>
+      <name lang="de">Bundesamt für Bauten und Logistik</name>
+      <name lang="en">Federal Office for Buildings and Logistics</name>
+      <name lang="fr">Office fédéral des constructions et de la logistique</name>
+      <name lang="it">Ufficio federale delle costruzioni e della logistica</name>
+      <name lang="rm">Uffizi federal per edifizis e logistica</name>
+      <www lang="fr">https://www.bbl.admin.ch/fr</www>
+      <www lang="it">https://www.bbl.admin.ch/it</www>
+      <www lang="rm">https://www.bbl.admin.ch</www>
+      <www lang="de">https://www.bbl.admin.ch</www>
+      <www lang="en">https://www.bbl.admin.ch</www>
+      <email lang="de">media@bbl.admin.ch</email>
+      <email lang="en">media@bbl.admin.ch</email>
+      <email lang="fr">media@bbl.admin.ch</email>
+      <email lang="it">media@bbl.admin.ch</email>
+      <email lang="rm">media@bbl.admin.ch</email>
+    </originator>
     <keywords/>
     <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
-      <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
+      <www lang="fr">https://www.edi.admin.ch/fr</www>
     </department>
     <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
-      <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
+      <name lang="en">Federal Department of Finance</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
@@ -85,6 +87,14 @@
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
+    <content lang="de">
+      <city>Mittelhäusern (BE) </city>
+      <title>Institut für Virologie und Immunologie: Projekt für Arealentwicklung ausgewählt</title>
+      <lead>Das Bundesamt für Bauten und Logistik hat das zweistufige Studienauftragsverfahren zur langfristigen Entwicklung des Instituts für Virologie und Immunologie in Mittelhäusern (BE) abgeschlossen. Das Beurteilungsgremium hat das Projekt des Generalplanerteams um das Architekturbüro Kunz und Mösch GmbH aus Basel zur Weiterbearbeitung ausgewählt.</lead>
+      <text link="no">&lt;p&gt;Das Institut für Virologie und Immunologie (IVI) ist dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) angegliedert. Es ist das Schweizer Referenzlabor für die Diagnostik, Kontrolle und Erforschung hochansteckender viraler Tierseuchen, einschliesslich viraler Zoonosen (zwischen Tier und Mensch übertragbarer Infektions-krankheiten). Es betreibt in Mittelhäusern (Gemeinde Köniz BE) eine Anlage mit Hochsicherheitslaboratorien und ist die einzige Forschungseinrichtung dieser Art in der Schweiz.&lt;br&gt;Um die hohen Anforderungen an eine solche Anlage auch künftig zu erfüllen, sollen die Laborräume und Arbeitsplätze neu strukturiert werden. Ziel ist es, eine moderne und funktionale Laborumgebung mit zeitgemässer Tierhaltung zu schaffen und gleichzeitig einen nahtlosen Nutzungsübergang von der bestehenden auf die neue Infrastruktur sicherzustellen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Wichtige Investition für die Zukunft&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Für die Auswahl eines Planungsteam führte das Bundesamt für Bauten und Logistik (BBL) im Herbst 2024 ein selektives, zweistufiges Studienauftragsverfahren durch. Insgesamt bewarben sich 29 Planungsteams. Das aus Fachleuten des Bundes, der Gemeinde Köniz sowie externen Spezialistinnen und Spezialisten zusammengesetzte Beurteilungsgremium selektionierte fünf Teams für die erste Stufe des Studienauftrags. Der Fokus lag auf der ortsbaulichen Einbindung der Neubauten und der Weiterentwicklung des Gesamtareals. Drei Teams wurden zur zweiten Stufe zugelassen und konnten ihre Projektvorschläge vertiefen und architektonisch ausarbeiten. Das Beurteilungsgremium empfiehlt das Projekt vom Architekturbüro Kunz &amp;amp; Mösch Basel zur Weiterbearbeitung.&lt;br&gt;Das Resultat des Studienauftrags dient als Grundlage zur Ausarbeitung einer neuen baurechtlichen Grundordnung. Der planungsrechtliche Prozess wird von der Gemeinde Köniz geleistet und bringt eine Volksabstimmung auf Gemeindeebene mit sich. Die vorliegende Grobkostenschätzung geht von einem Investitionsvolumen von 240 Millionen Franken aus, die dem Bundesparlament voraussichtlich im Rahmen der Immobilienbotschaft 2029 vorgelegt wird. Der Baustart ist für 2031 vorgesehen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Öffentliche Ausstellung der Projektbeiträge&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br&gt;Eine öffentliche Ausstellung gewährt Einblicke in die unterschiedlichen Ansätze der teilnehmenden Teams und zeigt zukunftsweisende Entwürfe für die Neugestaltung der Flächen sowie den sensiblen Umgang mit dem Bestand des Instituts.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Lichthof, Gemeindehaus Köniz, Landorfstrasse 1, 3098 Köniz&lt;br&gt; &lt;strong&gt;Öffentlicher Anlass zur Ausstellung:&lt;/strong&gt; Dienstag, 9. Dezember 2025&lt;br&gt; &lt;strong&gt;Dauer der Ausstellung:&lt;/strong&gt; Mittwoch, 10. Dezember bis Dienstag, 23. Dezember 2025&lt;br&gt; &lt;strong&gt;Öffnungszeiten:&lt;/strong&gt; Montag bis Freitag, 8:30–12 Uhr und 14–17 Uhr&lt;/p&gt;</text>
+      <contact>Bundesamt für Bauten und Logistik BBL Kommunikation BBL +41 (0)58 465 50 03 media@bbl.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="fr">
       <city>Mittelhäusern (BE) </city>
       <title>Institut de virologie et d’immunologie : projet retenu pour l’aménagement du site</title>
@@ -101,28 +111,20 @@
       <contact>Ufficio federale delle costruzioni e della logistica UFCL Communicazione UFCL +41 (0)58 465 50 03 media@bbl.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Mittelhäusern (BE) </city>
-      <title>Institut für Virologie und Immunologie: Projekt für Arealentwicklung ausgewählt</title>
-      <lead>Das Bundesamt für Bauten und Logistik hat das zweistufige Studienauftragsverfahren zur langfristigen Entwicklung des Instituts für Virologie und Immunologie in Mittelhäusern (BE) abgeschlossen. Das Beurteilungsgremium hat das Projekt des Generalplanerteams um das Architekturbüro Kunz und Mösch GmbH aus Basel zur Weiterbearbeitung ausgewählt.</lead>
-      <text link="no">&lt;p&gt;Das Institut für Virologie und Immunologie (IVI) ist dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) angegliedert. Es ist das Schweizer Referenzlabor für die Diagnostik, Kontrolle und Erforschung hochansteckender viraler Tierseuchen, einschliesslich viraler Zoonosen (zwischen Tier und Mensch übertragbarer Infektions-krankheiten). Es betreibt in Mittelhäusern (Gemeinde Köniz BE) eine Anlage mit Hochsicherheitslaboratorien und ist die einzige Forschungseinrichtung dieser Art in der Schweiz.&lt;br&gt;Um die hohen Anforderungen an eine solche Anlage auch künftig zu erfüllen, sollen die Laborräume und Arbeitsplätze neu strukturiert werden. Ziel ist es, eine moderne und funktionale Laborumgebung mit zeitgemässer Tierhaltung zu schaffen und gleichzeitig einen nahtlosen Nutzungsübergang von der bestehenden auf die neue Infrastruktur sicherzustellen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Wichtige Investition für die Zukunft&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Für die Auswahl eines Planungsteam führte das Bundesamt für Bauten und Logistik (BBL) im Herbst 2024 ein selektives, zweistufiges Studienauftragsverfahren durch. Insgesamt bewarben sich 29 Planungsteams. Das aus Fachleuten des Bundes, der Gemeinde Köniz sowie externen Spezialistinnen und Spezialisten zusammengesetzte Beurteilungsgremium selektionierte fünf Teams für die erste Stufe des Studienauftrags. Der Fokus lag auf der ortsbaulichen Einbindung der Neubauten und der Weiterentwicklung des Gesamtareals. Drei Teams wurden zur zweiten Stufe zugelassen und konnten ihre Projektvorschläge vertiefen und architektonisch ausarbeiten. Das Beurteilungsgremium empfiehlt das Projekt vom Architekturbüro Kunz &amp;amp; Mösch Basel zur Weiterbearbeitung.&lt;br&gt;Das Resultat des Studienauftrags dient als Grundlage zur Ausarbeitung einer neuen baurechtlichen Grundordnung. Der planungsrechtliche Prozess wird von der Gemeinde Köniz geleistet und bringt eine Volksabstimmung auf Gemeindeebene mit sich. Die vorliegende Grobkostenschätzung geht von einem Investitionsvolumen von 240 Millionen Franken aus, die dem Bundesparlament voraussichtlich im Rahmen der Immobilienbotschaft 2029 vorgelegt wird. Der Baustart ist für 2031 vorgesehen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Öffentliche Ausstellung der Projektbeiträge&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br&gt;Eine öffentliche Ausstellung gewährt Einblicke in die unterschiedlichen Ansätze der teilnehmenden Teams und zeigt zukunftsweisende Entwürfe für die Neugestaltung der Flächen sowie den sensiblen Umgang mit dem Bestand des Instituts.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ort:&lt;/strong&gt; Lichthof, Gemeindehaus Köniz, Landorfstrasse 1, 3098 Köniz&lt;br&gt; &lt;strong&gt;Öffentlicher Anlass zur Ausstellung:&lt;/strong&gt; Dienstag, 9. Dezember 2025&lt;br&gt; &lt;strong&gt;Dauer der Ausstellung:&lt;/strong&gt; Mittwoch, 10. Dezember bis Dienstag, 23. Dezember 2025&lt;br&gt; &lt;strong&gt;Öffnungszeiten:&lt;/strong&gt; Montag bis Freitag, 8:30–12 Uhr und 14–17 Uhr&lt;/p&gt;</text>
-      <contact>Bundesamt für Bauten und Logistik BBL Kommunikation BBL +41 (0)58 465 50 03 media@bbl.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="8">
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
+        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
         <name lang="fr">Formation, recherche &amp; innovation</name>
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
-        <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="496">
-        <name lang="fr">Construction</name>
-        <name lang="it">Costruzioni</name>
         <name lang="rm">Fatgs da construcziun</name>
         <name lang="de">Bauwesen</name>
         <name lang="en">Construction industry</name>
+        <name lang="fr">Construction</name>
+        <name lang="it">Costruzioni</name>
       </topic>
       <topic id="24">
         <name lang="de">Öffentliche Beschaffung</name>

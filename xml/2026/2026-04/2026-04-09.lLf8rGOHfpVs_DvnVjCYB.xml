@@ -6,16 +6,16 @@
     <pubdate>2026-04-09</pubdate>
     <originator id="505" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
-      <name lang="rm">Gruppa da defensiun</name>
       <name lang="de">Gruppe Verteidigung</name>
       <name lang="en">Defence group</name>
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
-      <www lang="de">http://www.vtg.admin.ch/</www>
+      <name lang="rm">Gruppa da defensiun</name>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
+      <www lang="de">http://www.vtg.admin.ch/</www>
       <email lang="rm"> </email>
       <email lang="de"> </email>
       <email lang="en"> </email>
@@ -24,20 +24,20 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
-      <www lang="en">http://www.vbs.admin.ch/</www>
+      <name lang="rm">Secretariat general dal DDPS</name>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
       <www lang="de">http://www.vbs.admin.ch/</www>
-      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
+      <www lang="en">http://www.vbs.admin.ch/</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -46,12 +46,20 @@
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <www lang="rm">https://www.vbs.admin.ch/rm</www>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
-      <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il capo Comando Operazioni visita le forze armate francesi</title>
+      <lead>Dall’8 al 9 aprile 2026 il capo Comando Operazioni, comandante di corpo Laurent Michaud, visita lo stato maggiore interforze del territorio nazionale metropolitano e il Comando del combattimento futuro delle forze armate francesi. Questa visita di lavoro ha lo scopo di rafforzare i rapporti di lunga data tra la Svizzera e la Francia a livello operativo.</lead>
+      <text link="no">&lt;p&gt;Nell’ambito di questa visita bilaterale il comandante di corpo Laurent Michaud, capo Comando Operazioni, terrà colloqui con diversi alti ufficiali superiori francesi. Incontrerà il generale di divisione Eric Chasboeuf, comandante dello stato maggiore interforze del territorio nazionale metropolitano e responsabile della preparazione e della condotta delle operazioni nell’ambito della sicurezza interna e della difesa militare del territorio nazionale. Si intratterrà inoltre con il generale di corpo d’armata Bruno Baratz, comandante del Comando del combattimento futuro, il cui compito consiste nel sviluppare e testare le capacità operative del futuro. Infine si confronterà con il suo omologo, il generale di corpo d’armata Jean-Michel Meunier, sottocapo di stato maggiore Operazioni presso lo stato maggiore delle forze armate francesi.&lt;/p&gt; &lt;p&gt;Nel corso dei vari colloqui, gli alti ufficiali superiori discuteranno in particolare della situazione in materia di sicurezza in Europa e nel mondo, dell’evoluzione delle rispettive forze armate e degli ambiti di cooperazione attuali e futuri tra le forze armate svizzere e francesi.&lt;/p&gt; &lt;h2&gt;Intensificazione dei rapporti con i partner internazionali&lt;/h2&gt; &lt;p&gt;La visita rappresenta un’occasione per rafforzare i rapporti di lunga data tra la Svizzera e la Francia a livello operativo. Essa si inserisce nel quadro della generale intensificazione delle relazioni dell’Esercito svizzero con i propri partner internazionali.&lt;/p&gt;</text>
+      <contact>Portavoce dell&amp;#39;esercito Comunicazione Difesa Stefan Hofer +41 58 463 37 41</contact>
+      <revisions/>
+    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Le chef du commandement des Opérations visite les armées françaises</title>
@@ -68,21 +76,13 @@
       <contact>Armeesprecher Kommunikation Verteidigung Stefan Hofer +41 58 463 37 41</contact>
       <revisions/>
     </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Il capo Comando Operazioni visita le forze armate francesi</title>
-      <lead>Dall’8 al 9 aprile 2026 il capo Comando Operazioni, comandante di corpo Laurent Michaud, visita lo stato maggiore interforze del territorio nazionale metropolitano e il Comando del combattimento futuro delle forze armate francesi. Questa visita di lavoro ha lo scopo di rafforzare i rapporti di lunga data tra la Svizzera e la Francia a livello operativo.</lead>
-      <text link="no">&lt;p&gt;Nell’ambito di questa visita bilaterale il comandante di corpo Laurent Michaud, capo Comando Operazioni, terrà colloqui con diversi alti ufficiali superiori francesi. Incontrerà il generale di divisione Eric Chasboeuf, comandante dello stato maggiore interforze del territorio nazionale metropolitano e responsabile della preparazione e della condotta delle operazioni nell’ambito della sicurezza interna e della difesa militare del territorio nazionale. Si intratterrà inoltre con il generale di corpo d’armata Bruno Baratz, comandante del Comando del combattimento futuro, il cui compito consiste nel sviluppare e testare le capacità operative del futuro. Infine si confronterà con il suo omologo, il generale di corpo d’armata Jean-Michel Meunier, sottocapo di stato maggiore Operazioni presso lo stato maggiore delle forze armate francesi.&lt;/p&gt; &lt;p&gt;Nel corso dei vari colloqui, gli alti ufficiali superiori discuteranno in particolare della situazione in materia di sicurezza in Europa e nel mondo, dell’evoluzione delle rispettive forze armate e degli ambiti di cooperazione attuali e futuri tra le forze armate svizzere e francesi.&lt;/p&gt; &lt;h2&gt;Intensificazione dei rapporti con i partner internazionali&lt;/h2&gt; &lt;p&gt;La visita rappresenta un’occasione per rafforzare i rapporti di lunga data tra la Svizzera e la Francia a livello operativo. Essa si inserisce nel quadro della generale intensificazione delle relazioni dell’Esercito svizzero con i propri partner internazionali.&lt;/p&gt;</text>
-      <contact>Portavoce dell&amp;#39;esercito Comunicazione Difesa Stefan Hofer +41 58 463 37 41</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="39">
-        <name lang="fr">Étranger</name>
-        <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
+        <name lang="it">Estero</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
@@ -95,11 +95,11 @@
         <name lang="de">Schweiz und Europa</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

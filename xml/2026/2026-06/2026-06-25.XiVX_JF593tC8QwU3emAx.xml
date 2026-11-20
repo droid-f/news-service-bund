@@ -11,10 +11,10 @@
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
       <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
-      <www lang="fr">https://www.sbfi.admin.ch/fr</www>
-      <www lang="it">https://www.sbfi.admin.ch/it</www>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
+      <www lang="fr">https://www.sbfi.admin.ch/fr</www>
+      <www lang="it">https://www.sbfi.admin.ch/it</www>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -36,29 +36,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-0005" org-id="701">
-        <name lang="it">Straniero</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign</name>
         <name lang="fr">Etranger</name>
-      </keyword>
-      <keyword id="SLW-0001" org-id="701">
-        <name lang="en">Economic Affairs</name>
-        <name lang="fr">Economie</name>
-        <name lang="it">Economia</name>
-        <name lang="de">Wirtschaft</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-      </keyword>
-      <keyword id="SLW-0005" org-id="701">
-        <name lang="fr">Etranger</name>
         <name lang="it">Straniero</name>
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign</name>
       </keyword>
       <keyword id="SLW-0001" org-id="701">
         <name lang="de">Wirtschaft</name>
@@ -67,11 +48,11 @@
         <name lang="it">Economia</name>
       </keyword>
       <keyword id="12708" org-id="701">
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="SLW-0005" org-id="701">
         <name lang="de">Ausland</name>
@@ -86,17 +67,36 @@
         <name lang="it">Economia</name>
       </keyword>
       <keyword id="12708" org-id="701">
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
         <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
       </keyword>
       <keyword id="SLW-0005" org-id="701">
         <name lang="de">Ausland</name>
         <name lang="en">Foreign</name>
         <name lang="fr">Etranger</name>
         <name lang="it">Straniero</name>
+      </keyword>
+      <keyword id="SLW-0001" org-id="701">
+        <name lang="de">Wirtschaft</name>
+        <name lang="en">Economic Affairs</name>
+        <name lang="fr">Economie</name>
+        <name lang="it">Economia</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
+        <name lang="rm">presidence2026</name>
+      </keyword>
+      <keyword id="SLW-0005" org-id="701">
+        <name lang="it">Straniero</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign</name>
+        <name lang="fr">Etranger</name>
       </keyword>
       <keyword id="SLW-0001" org-id="701">
         <name lang="en">Economic Affairs</name>
@@ -113,28 +113,28 @@
       </keyword>
     </keywords>
     <department id="701">
+      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
+      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
       <name lang="en">Federal Department of Economic Affairs, Education and Research</name>
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
-      <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
-      <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
-      <email lang="de">info@gs-wbf.admin.ch</email>
     </department>
-    <content lang="fr">
+    <content lang="en">
       <city>Berne</city>
-      <title>Le président de la Confédération Guy Parmelin conduit une mission économique et scientifique en Amérique du Nord</title>
-      <lead>Le président de la Confédération Guy Parmelin se rendra du 29 juin au 9 juillet 2026 aux États-Unis et au Canada pour une mission économique et scientifique, et au Mexique pour une mission économique. Au Mexique, il rencontrera son homologue Claudia Sheinbaum. L’objectif de ce voyage est de renforcer et de développer les relations économiques et scientifiques de la Suisse en Amérique du Nord. Le 2 juillet, le président de la Confédération assistera au match de l’équipe nationale suisse en seizièmes de finale de la Coupe du monde de football à Vancouver.</lead>
-      <text link="no">&lt;p&gt;Les relations économiques entre la Suisse et les États-Unis connaissent actuellement des difficultés, en raison notamment de la politique douanière américaine introduite en 2025. Dans ce contexte, des discussions sont prévues avec le représentant américain au commerce (USTR). Le président de la Confédération saisira par ailleurs l’occasion de cette mission pour souligner les avantages mutuels des relations économiques étroites entre la Suisse et les États-Unis.&lt;/p&gt; &lt;p&gt;Aux États-Unis, Guy Parmelin rendra également visite à des entreprises suisses qui œuvrent en faveur de la formation professionnelle ou sont actives dans des branches innovantes du domaine de la recherche. Des entretiens avec des acteurs des secteurs de l’intelligence artificielle, de l’aérospatiale et de la mobilité sont en outre prévus.&lt;/p&gt; &lt;p&gt;Au Canada, Guy Parmelin se rendra notamment à Vancouver, où des rencontres bilatérales et des visites auprès d’instituts de recherche travaillant en étroite collaboration avec des partenaires suisses sont prévues. Dans ce cadre, il explorera les possibilités de renforcer la coopération scientifique entre la Suisse et le Canada. À Vancouver, le président de la Confédération assistera aussi au match de l’équipe nationale suisse en seizièmes de finale de la Coupe du monde de football.&lt;/p&gt; &lt;p&gt;La dernière étape de la mission conduira le président de la Confédération au Mexique, pays étroitement intégré à l’espace économique nord-américain et disposant de chaînes d’approvisionnement et de valeur imbriquées avec celles des États-Unis. Des entretiens politiques sont prévus avec la présidente Claudia Sheinbaum et plusieurs ministres. L’actualisation de l’accord de libre-échange entre l’AELE et le Mexique, qui est en vigueur depuis environ 25 ans, reste un objectif à moyen terme. Guy Parmelin profitera de ce voyage pour mieux cerner les progrès susceptibles d’être réalisés en la matière. Des visites d’entreprises et des rencontres avec des représentants de nombreuses entreprises suisses implantées sur place figurent également au programme.&lt;/p&gt;</text>
-      <contact>Communication DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
+      <title>President Guy Parmelin leads economic and scientific mission to North America</title>
+      <lead>From 29 June to 9 July, President Guy Parmelin will visit the US and Canada on an economic and scientific mission. He will then continue to Mexico, where he will meet President Claudia Sheinbaum. The purpose of the trip is to strengthen and extend Switzerland’s economic and scientific ties with North America. On 2 July, Mr Parmelin will attend the Swiss national team’s round of 32 match in the football World Cup in Vancouver.</lead>
+      <text link="no">&lt;p&gt;Economic relations between Switzerland and the US are currently facing challenges, particularly with regard to the tariff policy introduced by the US in 2025. This is the backdrop to the planned talks with the United States Trade Representative (USTR). Mr Parmelin will also use the visit to highlight the mutual benefits of the close economic ties between Switzerland and the US.&lt;/p&gt; &lt;p&gt;Whilst in the US, Mr Parmelin will also visit Swiss companies involved in vocational education and training or that operate in innovative, research-intensive sectors. In addition, talks are planned with players from the fields of artificial intelligence, space and mobility.&lt;/p&gt; &lt;p&gt;Mr Parmelin’s trip to Canada will include a visit to Vancouver, where the schedule involves bilateral meetings and visits to research institutions that work closely with Swiss partners. Mr Parmelin will hold talks on possible ways of strengthening scientific cooperation between Switzerland and Canada. In Vancouver he will also attend the Swiss national team’s round of 32 match in the World Cup.&lt;/p&gt; &lt;p&gt;The final part of the mission takes Mr Parmelin to Mexico. The country is closely integrated into the North American economic area and its supply and value chains are closely intertwined with those of the US. Political talks are planned with Mexican president Claudia Sheinbaum and various ministers. One medium-term objective is to modernise the free trade agreement between EFTA and Mexico, which has been in force for around 25 years. Mr Parmelin will use the trip to gauge the extent to which progress can be made in updating this agreement. The itinerary also includes visits to companies and meetings with representatives of some of the numerous Swiss companies operating in Mexico.&lt;/p&gt;</text>
+      <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="it">
@@ -153,12 +153,12 @@
       <contact>Kommunikation WBF +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
+    <content lang="fr">
       <city>Berne</city>
-      <title>President Guy Parmelin leads economic and scientific mission to North America</title>
-      <lead>From 29 June to 9 July, President Guy Parmelin will visit the US and Canada on an economic and scientific mission. He will then continue to Mexico, where he will meet President Claudia Sheinbaum. The purpose of the trip is to strengthen and extend Switzerland’s economic and scientific ties with North America. On 2 July, Mr Parmelin will attend the Swiss national team’s round of 32 match in the football World Cup in Vancouver.</lead>
-      <text link="no">&lt;p&gt;Economic relations between Switzerland and the US are currently facing challenges, particularly with regard to the tariff policy introduced by the US in 2025. This is the backdrop to the planned talks with the United States Trade Representative (USTR). Mr Parmelin will also use the visit to highlight the mutual benefits of the close economic ties between Switzerland and the US.&lt;/p&gt; &lt;p&gt;Whilst in the US, Mr Parmelin will also visit Swiss companies involved in vocational education and training or that operate in innovative, research-intensive sectors. In addition, talks are planned with players from the fields of artificial intelligence, space and mobility.&lt;/p&gt; &lt;p&gt;Mr Parmelin’s trip to Canada will include a visit to Vancouver, where the schedule involves bilateral meetings and visits to research institutions that work closely with Swiss partners. Mr Parmelin will hold talks on possible ways of strengthening scientific cooperation between Switzerland and Canada. In Vancouver he will also attend the Swiss national team’s round of 32 match in the World Cup.&lt;/p&gt; &lt;p&gt;The final part of the mission takes Mr Parmelin to Mexico. The country is closely integrated into the North American economic area and its supply and value chains are closely intertwined with those of the US. Political talks are planned with Mexican president Claudia Sheinbaum and various ministers. One medium-term objective is to modernise the free trade agreement between EFTA and Mexico, which has been in force for around 25 years. Mr Parmelin will use the trip to gauge the extent to which progress can be made in updating this agreement. The itinerary also includes visits to companies and meetings with representatives of some of the numerous Swiss companies operating in Mexico.&lt;/p&gt;</text>
-      <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
+      <title>Le président de la Confédération Guy Parmelin conduit une mission économique et scientifique en Amérique du Nord</title>
+      <lead>Le président de la Confédération Guy Parmelin se rendra du 29 juin au 9 juillet 2026 aux États-Unis et au Canada pour une mission économique et scientifique, et au Mexique pour une mission économique. Au Mexique, il rencontrera son homologue Claudia Sheinbaum. L’objectif de ce voyage est de renforcer et de développer les relations économiques et scientifiques de la Suisse en Amérique du Nord. Le 2 juillet, le président de la Confédération assistera au match de l’équipe nationale suisse en seizièmes de finale de la Coupe du monde de football à Vancouver.</lead>
+      <text link="no">&lt;p&gt;Les relations économiques entre la Suisse et les États-Unis connaissent actuellement des difficultés, en raison notamment de la politique douanière américaine introduite en 2025. Dans ce contexte, des discussions sont prévues avec le représentant américain au commerce (USTR). Le président de la Confédération saisira par ailleurs l’occasion de cette mission pour souligner les avantages mutuels des relations économiques étroites entre la Suisse et les États-Unis.&lt;/p&gt; &lt;p&gt;Aux États-Unis, Guy Parmelin rendra également visite à des entreprises suisses qui œuvrent en faveur de la formation professionnelle ou sont actives dans des branches innovantes du domaine de la recherche. Des entretiens avec des acteurs des secteurs de l’intelligence artificielle, de l’aérospatiale et de la mobilité sont en outre prévus.&lt;/p&gt; &lt;p&gt;Au Canada, Guy Parmelin se rendra notamment à Vancouver, où des rencontres bilatérales et des visites auprès d’instituts de recherche travaillant en étroite collaboration avec des partenaires suisses sont prévues. Dans ce cadre, il explorera les possibilités de renforcer la coopération scientifique entre la Suisse et le Canada. À Vancouver, le président de la Confédération assistera aussi au match de l’équipe nationale suisse en seizièmes de finale de la Coupe du monde de football.&lt;/p&gt; &lt;p&gt;La dernière étape de la mission conduira le président de la Confédération au Mexique, pays étroitement intégré à l’espace économique nord-américain et disposant de chaînes d’approvisionnement et de valeur imbriquées avec celles des États-Unis. Des entretiens politiques sont prévus avec la présidente Claudia Sheinbaum et plusieurs ministres. L’actualisation de l’accord de libre-échange entre l’AELE et le Mexique, qui est en vigueur depuis environ 25 ans, reste un objectif à moyen terme. Guy Parmelin profitera de ce voyage pour mieux cerner les progrès susceptibles d’être réalisés en la matière. Des visites d’entreprises et des rencontres avec des représentants de nombreuses entreprises suisses implantées sur place figurent également au programme.&lt;/p&gt;</text>
+      <contact>Communication DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
     <topics>
@@ -170,11 +170,11 @@
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
       </topic>
       <topic id="104">
+        <name lang="de">Guy Parmelin</name>
+        <name lang="en">Guy Parmelin</name>
         <name lang="fr">Guy Parmelin</name>
         <name lang="it">Guy Parmelin</name>
         <name lang="rm">Guy Parmelin</name>
-        <name lang="de">Guy Parmelin</name>
-        <name lang="en">Guy Parmelin</name>
       </topic>
       <topic id="39">
         <name lang="de">Ausland</name>
@@ -191,39 +191,39 @@
         <name lang="rm">Economia da l'exteriur</name>
       </topic>
       <topic id="444">
-        <name lang="en">Public appearances</name>
-        <name lang="fr">Apparitions</name>
         <name lang="it">Apparizioni in pubblico</name>
         <name lang="rm">Preschentaziuns</name>
         <name lang="de">Auftritte</name>
+        <name lang="en">Public appearances</name>
+        <name lang="fr">Apparitions</name>
       </topic>
       <topic id="436">
+        <name lang="en">Science promotion</name>
         <name lang="fr">Promotion de la science</name>
         <name lang="it">Promozione della scienza</name>
         <name lang="rm">Promoziun da la scienza</name>
         <name lang="de">Wissenschaftsförderung</name>
-        <name lang="en">Science promotion</name>
       </topic>
       <topic id="16">
+        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
-        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="10">
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
       </topic>
       <topic id="33">
         <name lang="de">Bundespräsidium</name>

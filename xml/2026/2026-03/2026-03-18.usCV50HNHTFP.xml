@@ -6,19 +6,19 @@
     <pubdate>2026-03-18</pubdate>
     <originator id="405" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
-      <name lang="en">State Secretariat for Migration</name>
       <name lang="fr">Secrétariat d’Etat aux migrations</name>
       <name lang="it">Segreteria di Stato della migrazione</name>
       <name lang="rm">Secretariat da stadi per migraziun</name>
       <name lang="de">Staatssekretariat für Migration</name>
+      <name lang="en">State Secretariat for Migration</name>
       <www lang="de">https://www.sem.admin.ch/</www>
     </originator>
     <keywords>
       <keyword id="SLW-9" org-id="405">
+        <name lang="it">Statistiche sull’asilo</name>
         <name lang="de">Asylstatistik</name>
         <name lang="en">Asylum statistics</name>
         <name lang="fr">Statistiques en matière d’asile</name>
-        <name lang="it">Statistiche sull’asilo</name>
       </keyword>
       <keyword id="SLW-9" org-id="405">
         <name lang="de">Asylstatistik</name>
@@ -34,22 +34,30 @@
       </keyword>
     </keywords>
     <department id="401">
+      <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
-      <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
+    <content lang="de">
+      <city>Bern-Wabern</city>
+      <title>Asylstatistik Februar 2026</title>
+      <lead>Im Februar war die Zahl der Asylgesuche gegenüber dem Vormonat wie auch gegenüber dem Vorjahreszeitraum weiter rückläufig. Das Staatssekretariat für Migration (SEM) verzeichnete 1556 neue Asylgesuche, 8,1 Prozent weniger als im Januar 2026 und 11,8 Prozent weniger als im Februar 2025.</lead>
+      <text link="no">&lt;p&gt;Afghanistan bleibt das wichtigste Herkunftsland (399 Asylgesuche), gefolgt von Eritrea (164), der Türkei (162), Algerien (148) und Somalia (101). Im Berichtsmonat sind beim SEM 1138 Primär- und 418 Sekundärgesuche eingegangen, wobei es sich bei Letzteren um Geburten, Familiennachzüge oder Mehrfachgesuche handelt. Die Anzahl Primärgesuche hat gegenüber dem Vormonat um 14,7 Prozent (–196) und gegenüber Februar 2025 um 14,2 Prozent (–189) abgenommen.&lt;/p&gt; &lt;p&gt;Im Februar 2026 hat das SEM über 2350 Asylgesuche entschieden. 538 Personen wurde Asyl gewährt. Insgesamt haben 810 Personen ohne Aufenthaltsrecht die Schweiz kontrolliert verlassen, davon 497 selbstständig, während 313 Personen polizeilich in ihren Herkunftsstaat, den zuständigen Dublin-Staat oder einen Drittstaat begleitet wurden.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.sem.admin.ch/sem/de/home/publiservice/statistik/asylstatistik/archiv/2026/02.html"&gt;Asylstatistik Februar 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Dokumente&lt;/h2&gt;</text>
+      <contact>Information und Kommunikation SEM medien@sem.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="it">
       <city>Berna-Wabern</city>
       <title>Asilo: statistica del mese di febbraio 2026</title>
@@ -66,21 +74,13 @@
       <contact>Information et communication SEM medien@sem.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Bern-Wabern</city>
-      <title>Asylstatistik Februar 2026</title>
-      <lead>Im Februar war die Zahl der Asylgesuche gegenüber dem Vormonat wie auch gegenüber dem Vorjahreszeitraum weiter rückläufig. Das Staatssekretariat für Migration (SEM) verzeichnete 1556 neue Asylgesuche, 8,1 Prozent weniger als im Januar 2026 und 11,8 Prozent weniger als im Februar 2025.</lead>
-      <text link="no">&lt;p&gt;Afghanistan bleibt das wichtigste Herkunftsland (399 Asylgesuche), gefolgt von Eritrea (164), der Türkei (162), Algerien (148) und Somalia (101). Im Berichtsmonat sind beim SEM 1138 Primär- und 418 Sekundärgesuche eingegangen, wobei es sich bei Letzteren um Geburten, Familiennachzüge oder Mehrfachgesuche handelt. Die Anzahl Primärgesuche hat gegenüber dem Vormonat um 14,7 Prozent (–196) und gegenüber Februar 2025 um 14,2 Prozent (–189) abgenommen.&lt;/p&gt; &lt;p&gt;Im Februar 2026 hat das SEM über 2350 Asylgesuche entschieden. 538 Personen wurde Asyl gewährt. Insgesamt haben 810 Personen ohne Aufenthaltsrecht die Schweiz kontrolliert verlassen, davon 497 selbstständig, während 313 Personen polizeilich in ihren Herkunftsstaat, den zuständigen Dublin-Staat oder einen Drittstaat begleitet wurden.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.sem.admin.ch/sem/de/home/publiservice/statistik/asylstatistik/archiv/2026/02.html"&gt;Asylstatistik Februar 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Dokumente&lt;/h2&gt;</text>
-      <contact>Information und Kommunikation SEM medien@sem.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="4">
-        <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
         <name lang="it">Asilo</name>
         <name lang="rm">Asil</name>
+        <name lang="de">Asyl</name>
       </topic>
       <topic id="43">
         <name lang="de">Wissen &amp; Statistik</name>
@@ -90,11 +90,11 @@
         <name lang="rm">Savida e statistica</name>
       </topic>
       <topic id="20">
+        <name lang="fr">Migration et intégration</name>
+        <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
         <name lang="de">Migration &amp; Integration</name>
         <name lang="en">Migration &amp; Integration</name>
-        <name lang="fr">Migration et intégration</name>
-        <name lang="it">Migrazione e integrazione</name>
       </topic>
     </topics>
     <offers/>

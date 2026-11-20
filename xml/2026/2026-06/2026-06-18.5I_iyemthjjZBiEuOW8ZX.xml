@@ -29,20 +29,12 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
     </department>
-    <content lang="it">
-      <city>Neuchâtel</city>
-      <title>Aumento dei prezzi dello 0,6% nel settore delle costruzioni nell’aprile 2026</title>
-      <lead>Tra i mesi di ottobre 2025 e aprile 2026 l’indice dei prezzi delle costruzioni ha registrato un aumento dello 0,6%, attestandosi a 100,6 punti (ottobre 2025 = 100). Questo risultato rispecchia l’aumento dei prezzi dell’edilizia e del genio civile. Su base annua, i prezzi delle costruzioni sono rincarati dell’1,0%. È quanto emerge dai risultati dell’Ufficio federale di statistica (UST).</lead>
-      <text link="no">&lt;p&gt;Nell’&lt;strong&gt;edilizia&lt;/strong&gt; l’aumento dell’indice dei prezzi rispetto al semestre precedente è principalmente dovuto a un rincaro dei prezzi di «Costruzione grezza 1» (opere murarie), «Costruzione grezza 2» (finestre di legno/metallo) e «Finiture 1» (porte interne di metallo). I prezzi sono saliti in tutte le Grandi Regioni. Il Ticino ha registrato l’aumento maggiore (+1,4%), davanti alla Svizzera centrale (+1,3%).&lt;/p&gt; &lt;p&gt;Nel &lt;strong&gt;genio civile&lt;/strong&gt;, rispetto al semestre precedente, si osserva un aumento dei prezzi per i «Tracciati» (opere di soprastruttura) e per gli «Onorari», che hanno contribuito fortemente all’incremento dell’indice, nonché una progressione dei prezzi delle «Condotte di allacciamento all’interno del fondo» (movimenti di terra).&lt;/p&gt; &lt;p&gt;Anche in questo caso gli aumenti di prezzi hanno riguardato tutte le regioni. Gli incrementi maggiori sono stati osservati in Svizzera nordoccidentale (+1,8%) e in Ticino (+1,5%).&lt;/p&gt; &lt;p&gt;Il presente comunicato stampa e ulteriori informazioni sul tema sono reperibili sulla &lt;a href="https://www.bfs.admin.ch/news/it/2026-0302"&gt;pagina Internet dell'UST&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>sezione Prezzi Info PCO Info BAP +41 58 463 63 06 bap@bfs.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Neuchâtel</city>
       <title>Hausse des prix de 0,6% dans la construction en avril 2026</title>
@@ -57,6 +49,14 @@
       <lead>The Construction Price Index recorded a rise of 0.6% between October 2025 and April 2026, reaching 100.6 points (October 2025 = 100). This result reflects an increase in building and civil engineering prices. Year on year, construction prices rose by 1.0%. These are some of the findings from the Federal Statistical Office (FSO).</lead>
       <text link="no">&lt;p&gt;This press release and further information on the topic can be found on the &lt;a href="https://www.bfs.admin.ch/news/en/2026-0302"&gt;FSO website&lt;/a&gt;.&lt;/p&gt;</text>
       <contact>Sektion Preise Info BAP The Prices section +41 58 463 63 06 bap@bfs.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Neuchâtel</city>
+      <title>Aumento dei prezzi dello 0,6% nel settore delle costruzioni nell’aprile 2026</title>
+      <lead>Tra i mesi di ottobre 2025 e aprile 2026 l’indice dei prezzi delle costruzioni ha registrato un aumento dello 0,6%, attestandosi a 100,6 punti (ottobre 2025 = 100). Questo risultato rispecchia l’aumento dei prezzi dell’edilizia e del genio civile. Su base annua, i prezzi delle costruzioni sono rincarati dell’1,0%. È quanto emerge dai risultati dell’Ufficio federale di statistica (UST).</lead>
+      <text link="no">&lt;p&gt;Nell’&lt;strong&gt;edilizia&lt;/strong&gt; l’aumento dell’indice dei prezzi rispetto al semestre precedente è principalmente dovuto a un rincaro dei prezzi di «Costruzione grezza 1» (opere murarie), «Costruzione grezza 2» (finestre di legno/metallo) e «Finiture 1» (porte interne di metallo). I prezzi sono saliti in tutte le Grandi Regioni. Il Ticino ha registrato l’aumento maggiore (+1,4%), davanti alla Svizzera centrale (+1,3%).&lt;/p&gt; &lt;p&gt;Nel &lt;strong&gt;genio civile&lt;/strong&gt;, rispetto al semestre precedente, si osserva un aumento dei prezzi per i «Tracciati» (opere di soprastruttura) e per gli «Onorari», che hanno contribuito fortemente all’incremento dell’indice, nonché una progressione dei prezzi delle «Condotte di allacciamento all’interno del fondo» (movimenti di terra).&lt;/p&gt; &lt;p&gt;Anche in questo caso gli aumenti di prezzi hanno riguardato tutte le regioni. Gli incrementi maggiori sono stati osservati in Svizzera nordoccidentale (+1,8%) e in Ticino (+1,5%).&lt;/p&gt; &lt;p&gt;Il presente comunicato stampa e ulteriori informazioni sul tema sono reperibili sulla &lt;a href="https://www.bfs.admin.ch/news/it/2026-0302"&gt;pagina Internet dell'UST&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>sezione Prezzi Info PCO Info BAP +41 58 463 63 06 bap@bfs.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="de">
@@ -76,11 +76,11 @@
         <name lang="rm">Conjunctura</name>
       </topic>
       <topic id="43">
-        <name lang="de">Wissen &amp; Statistik</name>
-        <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
+        <name lang="de">Wissen &amp; Statistik</name>
+        <name lang="en">Knowledge &amp; Statistics</name>
       </topic>
     </topics>
     <offers/>

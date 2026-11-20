@@ -11,31 +11,25 @@
       <name lang="fr">Office fédéral de la culture</name>
       <name lang="it">Ufficio federale della cultura</name>
       <name lang="rm">Uffizi federal da cultura</name>
-      <www lang="it">http://www.bak.admin.ch/</www>
-      <www lang="de">http://www.bak.admin.ch/</www>
-      <www lang="en">http://www.bak.admin.ch/</www>
+      <www lang="rm">https://www.bak.admin.ch/rm</www>
+      <www lang="de">http://www.bak.admin.ch</www>
+      <www lang="en">https://www.bak.admin.ch/en</www>
+      <www lang="fr">https://www.bak.admin.ch/fr</www>
+      <www lang="it">https://www.bak.admin.ch/it</www>
     </originator>
     <keywords/>
     <department id="301">
-      <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <name lang="it">Dipartimento federale dell'interno</name>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
     </department>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Die Schweizerische Nationalbibliothek und das Bundesamt für Kultur ziehen vorübergehend an die Monbijoustrasse</title>
-      <lead>Wegen der Gesamtsanierung des historischen Gebäudes an der Hallwylstrasse verlegen die Schweizerische Nationalbibliothek und das Bundesamt für Kultur ihre Tätigkeiten vorübergehend an einen provisorischen Standort an der Monbijoustrasse 72–74 in Bern.</lead>
-      <text link="no">&lt;p&gt;Das historische Gebäude der Schweizerischen Nationalbibliothek (NB) an der Hallwylstrasse 15 in Bern, das gleichzeitig als Sitz des Bundesamts für Kultur (BAK) dient, wird von 2027 bis 2034 umfassend saniert. In dieser Zeit bleibt die Nationalbibliothek am provisorischen Standort an der Monbijoustrasse für das Publikum geöffnet. Die Mitarbeitenden von BAK und NB verlegen ihre Arbeitsplätze an diesen Standort.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Zugang für die Öffentlichkeit und Dienstleistungen &lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die NB wird am 30. Oktober 2026 um 18 Uhr für die Öffentlichkeit geschlossen und öffnet wieder am 30. November 2026 um 9 Uhr an der Monbijoustrasse 72–74. Die Publikumsdienstleistungen werden dort laufend wieder aufgenommen.&lt;/p&gt; &lt;p&gt;Während der gesamten Sanierung bleiben die Sammlungen in zwei Tiefmagazinen an der Hallwylstrasse 15. Ein Logistik-Dispositiv sorgt für den Transport bestellter Dokumente zwischen den beiden Standorten und stellt so den Zugang zu den Beständen sicher.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Verlegung der Arbeitsplätze&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die Verlegung der Arbeitsplätze erfolgt in zwei Etappen. Die Mitarbeitenden des BAK werden ihre Arbeitsplätze in der zweiten Hälfte August 2026 verlegen, das Personal der NB folgt im November 2026.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Dauer des Provisoriums &lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die Dauer der Tätigkeit am provisorischen Standort hängt von den Fortschritten der Sanierung ab. Gemäss dem aktuellen Zeitplan werden die Arbeiten frühestens 2034 abgeschlossen. Die NB und das BAK werden ihre provisorischen Räume also während mindestens sieben Jahren nutzen.&lt;/p&gt;</text>
-      <contact>Stabsstelle Marketing und Kommunikation Schweizerische Nationalbibliothek (NB) Joanna Bravo +41 58 463 96 53 joanna.bravo@nb.admin.ch </contact>
-      <revisions/>
-    </content>
     <content lang="it">
       <city>Berna</city>
       <title>La Biblioteca nazionale svizzera e l’Ufficio federale della cultura si trasferiscono provvisoriamente in Monbijoustrasse</title>
@@ -52,13 +46,21 @@
       <contact> Etat-major Marketing et Communication Bibliothèque nationale suisse (BN) Joanna Bravo +41 58 463 96 53 joanna.bravo@nb.admin.ch </contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Die Schweizerische Nationalbibliothek und das Bundesamt für Kultur ziehen vorübergehend an die Monbijoustrasse</title>
+      <lead>Wegen der Gesamtsanierung des historischen Gebäudes an der Hallwylstrasse verlegen die Schweizerische Nationalbibliothek und das Bundesamt für Kultur ihre Tätigkeiten vorübergehend an einen provisorischen Standort an der Monbijoustrasse 72–74 in Bern.</lead>
+      <text link="no">&lt;p&gt;Das historische Gebäude der Schweizerischen Nationalbibliothek (NB) an der Hallwylstrasse 15 in Bern, das gleichzeitig als Sitz des Bundesamts für Kultur (BAK) dient, wird von 2027 bis 2034 umfassend saniert. In dieser Zeit bleibt die Nationalbibliothek am provisorischen Standort an der Monbijoustrasse für das Publikum geöffnet. Die Mitarbeitenden von BAK und NB verlegen ihre Arbeitsplätze an diesen Standort.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Zugang für die Öffentlichkeit und Dienstleistungen &lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die NB wird am 30. Oktober 2026 um 18 Uhr für die Öffentlichkeit geschlossen und öffnet wieder am 30. November 2026 um 9 Uhr an der Monbijoustrasse 72–74. Die Publikumsdienstleistungen werden dort laufend wieder aufgenommen.&lt;/p&gt; &lt;p&gt;Während der gesamten Sanierung bleiben die Sammlungen in zwei Tiefmagazinen an der Hallwylstrasse 15. Ein Logistik-Dispositiv sorgt für den Transport bestellter Dokumente zwischen den beiden Standorten und stellt so den Zugang zu den Beständen sicher.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Verlegung der Arbeitsplätze&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die Verlegung der Arbeitsplätze erfolgt in zwei Etappen. Die Mitarbeitenden des BAK werden ihre Arbeitsplätze in der zweiten Hälfte August 2026 verlegen, das Personal der NB folgt im November 2026.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Dauer des Provisoriums &lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Die Dauer der Tätigkeit am provisorischen Standort hängt von den Fortschritten der Sanierung ab. Gemäss dem aktuellen Zeitplan werden die Arbeiten frühestens 2034 abgeschlossen. Die NB und das BAK werden ihre provisorischen Räume also während mindestens sieben Jahren nutzen.&lt;/p&gt;</text>
+      <contact>Stabsstelle Marketing und Kommunikation Schweizerische Nationalbibliothek (NB) Joanna Bravo +41 58 463 96 53 joanna.bravo@nb.admin.ch </contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="18">
-        <name lang="it">Cultura</name>
-        <name lang="rm">Cultura</name>
         <name lang="de">Kultur</name>
         <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
+        <name lang="it">Cultura</name>
+        <name lang="rm">Cultura</name>
       </topic>
     </topics>
     <offers/>

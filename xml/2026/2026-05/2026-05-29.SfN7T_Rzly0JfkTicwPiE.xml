@@ -11,11 +11,11 @@
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
       <name lang="rm">Gruppa da defensiun</name>
-      <www lang="it">http://www.vtg.admin.ch/it</www>
-      <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
       <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
+      <www lang="it">http://www.vtg.admin.ch/it</www>
+      <www lang="rm">http://www.vtg.admin.ch/</www>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
@@ -24,27 +24,27 @@
     </originator>
     <originator id="506" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Bundesamt für Rüstung armasuisse</name>
       <name lang="en">Federal Office for Defence Procurement armasuisse</name>
       <name lang="fr">Office fédéral de l'armement armasuisse</name>
       <name lang="it">Ufficio federale dell'armamento armasuisse</name>
       <name lang="rm">Uffizi federal da l’armament armasuisse</name>
+      <name lang="de">Bundesamt für Rüstung armasuisse</name>
+      <www lang="it">http://www.ar.admin.ch/</www>
       <www lang="de">http://www.ar.admin.ch/de</www>
       <www lang="en">http://www.ar.admin.ch/</www>
       <www lang="fr">http://www.ar.admin.ch/</www>
-      <www lang="it">http://www.ar.admin.ch/</www>
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="fr">Secrétariat général du DDPS</name>
       <name lang="it">Segreteria generale del DDPS</name>
       <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
+      <name lang="fr">Secrétariat général du DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <www lang="de">http://www.vbs.admin.ch/</www>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
@@ -53,11 +53,6 @@
     </originator>
     <keywords>
       <keyword id="SLW-5015" org-id="506">
-        <name lang="it">Air2030</name>
-        <name lang="de">Air2030</name>
-        <name lang="fr">Air2030</name>
-      </keyword>
-      <keyword id="SLW-5015" org-id="506">
         <name lang="de">Air2030</name>
         <name lang="fr">Air2030</name>
         <name lang="it">Air2030</name>
@@ -68,28 +63,33 @@
         <name lang="it">Air2030</name>
       </keyword>
       <keyword id="SLW-5015" org-id="506">
-        <name lang="fr">Air2030</name>
         <name lang="it">Air2030</name>
         <name lang="de">Air2030</name>
+        <name lang="fr">Air2030</name>
+      </keyword>
+      <keyword id="SLW-5015" org-id="506">
+        <name lang="de">Air2030</name>
+        <name lang="fr">Air2030</name>
+        <name lang="it">Air2030</name>
       </keyword>
     </keywords>
     <department id="501">
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <www lang="de">https://www.vbs.admin.ch/de</www>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
     </department>
-    <content lang="de">
+    <content lang="en">
       <city>Bern</city>
-      <title>Bodengestützte Luftverteidigung grösserer Reichweite: Informationen der angefragten Anbieter eingetroffen</title>
-      <lead>Das Bundesamt für Rüstung armasuisse hat heute die letzten Unterlagen der angefragten Hersteller aus vier Ländern für ein zusätzliches System zur bodengestützten Luftverteidigung grösserer Reichweite erhalten. Die eingegangenen Informationen werden nun analysiert und dienen als Grundlage, damit der Bundesrat noch im Sommer über das weitere Vorgehen befinden kann.</lead>
-      <text link="no">&lt;p&gt;Angesichts der angespannten geopolitischen Lage und der zunehmenden Bedrohung durch Distanzwaffen will der Bundesrat die Luftverteidigung gezielt stärken. Aufgrund der mehrjährigen Verzögerung bei der Auslieferung des US-Patriot-Systems hat der Bundesrat an seiner Sitzung vom 6. März 2026 das VBS beauftragt, die Beschaffung eines zusätzlichen Systems zu prüfen, das vorzugsweise in Europa produziert wird.&lt;/p&gt; &lt;h2&gt;Vier Nationen angefragt&lt;/h2&gt; &lt;p&gt;In der Folge hat das Bundesamt für Rüstung armasuisse bei vier Nationen mittels eines „Request for Information” (RFI) zusätzliche Informationen zu Systemen zur bodengestützten Luftverteidigung grösserer Reichweite eingeholt. Die angefragten Hersteller aus Deutschland, Frankreich, Israel und Südkorea haben bis heute die Unterlagen fristgerecht eingereicht.&lt;/p&gt; &lt;p&gt;Die Rückmeldungen werden nun aus militärischer, technischer und kommerzieller Sicht ausgewertet. Auf Basis dieser Informationen und weiteren Abklärungen im Zusammenhang mit dem System Patriot wird der Bundesrat voraussichtlich noch im Sommer über das weitere Vorgehen befinden.&lt;/p&gt; &lt;p&gt;Ein allfälliges zusätzliches System soll vorzugsweise in Europa produziert werden. Dabei kann es sich entweder um ein europäisches System oder um ein aussereuropäisches System handeln, das in Europa hergestellt wird. Damit sollen einerseits Abhängigkeiten von einzelnen Lieferketten beziehungsweise einzelnen Staaten reduziert und andererseits die Verfügbarkeit besser abgesichert werden.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://www.ar.admin.ch/de/air2030" target="_blank"&gt;Dossier Air2030 - Schutz des Luftraums&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+      <title>Long-range ground-based air defence: Information received from contacted providers</title>
+      <lead>The Federal Office for Defence Procurement armasuisse today received the last documents from the contacted manufacturers in four countries regarding an additional system for long-range ground-based air defence. The information received is now being analysed and will serve as a basis, so that the Federal Council will be able to decide on the next steps over the summer.</lead>
+      <text link="no">&lt;p&gt;In view of the tense geopolitical situation and the increasing threat through ranged weapons, the Federal Council wants to specifically strengthen air defence. Due to the delay of several years in the delivery of the US Patriot system, the Federal Council instructed the DDPS in its meeting of 6 March 2026 to examine the procurement of an additional system which will preferably be produced in Europe.&lt;/p&gt; &lt;h2&gt;Four nations contacted&lt;/h2&gt; &lt;p&gt;As a result, the Federal Office for Defence Procurement armasuisse obtained additional information on systems for long-range ground-based air defence from four nations by means of a “Request for Information” (RFI). The manufacturers contacted in Germany, France, Israel and South Korea have submitted the documents on time as of today.&lt;/p&gt; &lt;p&gt;The feedback is now being evaluated from a military, technical and commercial perspective. Based on this information and further clarifications in connection with the Patriot system, the Federal Council is expected to decide on the next steps during the summer.&lt;/p&gt; &lt;p&gt;A potential additional system should preferably be produced in Europe. This may be either a European system or a non-European system that is manufactured in Europe. This should, on the one hand, reduce dependencies on individual supply chains or individual states, while on the other hand, better secure availability.&lt;/p&gt;</text>
       <contact>Leiter Kommunikation armasuisse Kommunikation armasuisse Kaj-Gunnar Sievert +41 58 464 62 47</contact>
       <revisions/>
     </content>
@@ -101,14 +101,6 @@
       <contact>Responsabile comunicazione armasuisse Comunicazione armasuisse Kaj-Gunnar Sievert +41 58 464 62 47</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Long-range ground-based air defence: Information received from contacted providers</title>
-      <lead>The Federal Office for Defence Procurement armasuisse today received the last documents from the contacted manufacturers in four countries regarding an additional system for long-range ground-based air defence. The information received is now being analysed and will serve as a basis, so that the Federal Council will be able to decide on the next steps over the summer.</lead>
-      <text link="no">&lt;p&gt;In view of the tense geopolitical situation and the increasing threat through ranged weapons, the Federal Council wants to specifically strengthen air defence. Due to the delay of several years in the delivery of the US Patriot system, the Federal Council instructed the DDPS in its meeting of 6 March 2026 to examine the procurement of an additional system which will preferably be produced in Europe.&lt;/p&gt; &lt;h2&gt;Four nations contacted&lt;/h2&gt; &lt;p&gt;As a result, the Federal Office for Defence Procurement armasuisse obtained additional information on systems for long-range ground-based air defence from four nations by means of a “Request for Information” (RFI). The manufacturers contacted in Germany, France, Israel and South Korea have submitted the documents on time as of today.&lt;/p&gt; &lt;p&gt;The feedback is now being evaluated from a military, technical and commercial perspective. Based on this information and further clarifications in connection with the Patriot system, the Federal Council is expected to decide on the next steps during the summer.&lt;/p&gt; &lt;p&gt;A potential additional system should preferably be produced in Europe. This may be either a European system or a non-European system that is manufactured in Europe. This should, on the one hand, reduce dependencies on individual supply chains or individual states, while on the other hand, better secure availability.&lt;/p&gt;</text>
-      <contact>Leiter Kommunikation armasuisse Kommunikation armasuisse Kaj-Gunnar Sievert +41 58 464 62 47</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Défense aérienne sol-air à longue portée: réception des informations fournies par les soumissionnaires sollicités</title>
@@ -117,30 +109,38 @@
       <contact>Chef de la communication d&amp;#39;armasuisse Communication armasuisse Kaj-Gunnar Sievert +41 58 464 62 47</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Bodengestützte Luftverteidigung grösserer Reichweite: Informationen der angefragten Anbieter eingetroffen</title>
+      <lead>Das Bundesamt für Rüstung armasuisse hat heute die letzten Unterlagen der angefragten Hersteller aus vier Ländern für ein zusätzliches System zur bodengestützten Luftverteidigung grösserer Reichweite erhalten. Die eingegangenen Informationen werden nun analysiert und dienen als Grundlage, damit der Bundesrat noch im Sommer über das weitere Vorgehen befinden kann.</lead>
+      <text link="no">&lt;p&gt;Angesichts der angespannten geopolitischen Lage und der zunehmenden Bedrohung durch Distanzwaffen will der Bundesrat die Luftverteidigung gezielt stärken. Aufgrund der mehrjährigen Verzögerung bei der Auslieferung des US-Patriot-Systems hat der Bundesrat an seiner Sitzung vom 6. März 2026 das VBS beauftragt, die Beschaffung eines zusätzlichen Systems zu prüfen, das vorzugsweise in Europa produziert wird.&lt;/p&gt; &lt;h2&gt;Vier Nationen angefragt&lt;/h2&gt; &lt;p&gt;In der Folge hat das Bundesamt für Rüstung armasuisse bei vier Nationen mittels eines „Request for Information” (RFI) zusätzliche Informationen zu Systemen zur bodengestützten Luftverteidigung grösserer Reichweite eingeholt. Die angefragten Hersteller aus Deutschland, Frankreich, Israel und Südkorea haben bis heute die Unterlagen fristgerecht eingereicht.&lt;/p&gt; &lt;p&gt;Die Rückmeldungen werden nun aus militärischer, technischer und kommerzieller Sicht ausgewertet. Auf Basis dieser Informationen und weiteren Abklärungen im Zusammenhang mit dem System Patriot wird der Bundesrat voraussichtlich noch im Sommer über das weitere Vorgehen befinden.&lt;/p&gt; &lt;p&gt;Ein allfälliges zusätzliches System soll vorzugsweise in Europa produziert werden. Dabei kann es sich entweder um ein europäisches System oder um ein aussereuropäisches System handeln, das in Europa hergestellt wird. Damit sollen einerseits Abhängigkeiten von einzelnen Lieferketten beziehungsweise einzelnen Staaten reduziert und andererseits die Verfügbarkeit besser abgesichert werden.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://www.ar.admin.ch/de/air2030" target="_blank"&gt;Dossier Air2030 - Schutz des Luftraums&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Leiter Kommunikation armasuisse Kommunikation armasuisse Kaj-Gunnar Sievert +41 58 464 62 47</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="39">
-        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
+        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="548">
-        <name lang="de">Rüstungspolitik</name>
-        <name lang="en">Arms procurement policy</name>
         <name lang="fr">Politique d’armement</name>
         <name lang="it">Politica d’armamento</name>
         <name lang="rm">Politica d'armament</name>
+        <name lang="de">Rüstungspolitik</name>
+        <name lang="en">Arms procurement policy</name>
       </topic>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

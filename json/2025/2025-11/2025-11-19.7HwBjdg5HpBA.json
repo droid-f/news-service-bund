@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-04",
+  "date": "2025-11-19",
   "id": "7HwBjdg5HpBA",
   "languages": {
     "de": {
@@ -99,7 +99,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "16.0.0"
+            "version": "27.0.0"
           },
           "documentId": 10948,
           "documentType": "page",
@@ -111,7 +111,7 @@
           "significantPublicationDate": "2025-11-19T09:00:46.911Z",
           "title": "Bundesrat legt unveränderte Drittstaatenkontingente für 2026 fest",
           "updatedAt": "2025-11-19T10:52:55.017Z",
-          "version": 41,
+          "version": 42,
           "visiblePublicationDate": "2025-11-19T09:00:46.911Z"
         }
       },
@@ -148,8 +148,46 @@
       ]
     },
     "en": {
-      "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTags": [
+        {
+          "copublisherID": "31",
+          "tags": [
+            "sem_1115",
+            "sem_1059"
+          ]
+        },
+        {
+          "copublisherID": "4",
+          "tags": [
+            "ejpd_1180",
+            "ejpd_811"
+          ]
+        }
+      ],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "31",
+          "topics": [
+            "371",
+            "380",
+            "387",
+            "405",
+            "448",
+            "494"
+          ]
+        },
+        {
+          "copublisherID": "4",
+          "topics": [
+            "371",
+            "380",
+            "387",
+            "405",
+            "448",
+            "494"
+          ]
+        }
+      ],
       "coPublishers": [
         "31",
         "4"
@@ -206,7 +244,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "18.0.0"
+            "version": "27.0.0"
           },
           "documentId": 12130,
           "documentType": "page",
@@ -218,8 +256,8 @@
           "significantPublicationDate": "2025-12-05T10:19:41.244Z",
           "title": "Federal Council leaves third-country quotas for 2026 unchanged",
           "updatedAt": "2025-12-05T10:21:17.145Z",
-          "version": 16,
-          "visiblePublicationDate": "2025-12-04T10:19:00.000Z"
+          "version": 20,
+          "visiblePublicationDate": "2025-11-19T10:19:00.000Z"
         }
       },
       "description": "The Swiss economy must be able to recruit the skilled workers it requires. At its meeting on 19 November, the Federal Council therefore decided to leave unchanged the quotas for third-country nationals in gainful employment, service providers from the EU/EFTA and UK nationals in 2026. The Ordinance on Admission, Period of Stay and Employment (ASEO) will be amended accordingly and enter into force on 1 January 2026.",
@@ -229,7 +267,7 @@
       "langGroupId": "7HwBjdg5HpBA",
       "location": "Bern",
       "newsCategory": "medienmitteilung",
-      "publishDate": "2025-12-04T10:19:00Z",
+      "publishDate": "2025-11-19T10:19:00Z",
       "publishers": [
         "89"
       ],
@@ -351,7 +389,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "16.0.0"
+            "version": "27.0.0"
           },
           "documentId": 10950,
           "documentType": "page",
@@ -363,7 +401,7 @@
           "significantPublicationDate": "2025-11-19T09:00:56.109Z",
           "title": "Ressortissants d’États tiers : le Conseil fédéral maintient les mêmes contingents pour 2026",
           "updatedAt": "2025-11-19T10:53:40.945Z",
-          "version": 17,
+          "version": 18,
           "visiblePublicationDate": "2025-11-19T09:00:56.109Z"
         }
       },
@@ -496,7 +534,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "16.0.0"
+            "version": "27.0.0"
           },
           "documentId": 10951,
           "documentType": "page",
@@ -508,7 +546,7 @@
           "significantPublicationDate": "2025-11-19T09:01:08.891Z",
           "title": "Il Consiglio federale non modifica i contingenti per i cittadini di Stati terzi per il 2026",
           "updatedAt": "2025-11-19T10:55:49.649Z",
-          "version": 19,
+          "version": 20,
           "visiblePublicationDate": "2025-11-19T09:01:08.891Z"
         }
       },

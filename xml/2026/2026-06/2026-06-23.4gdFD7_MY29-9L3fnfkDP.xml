@@ -6,14 +6,14 @@
     <pubdate>2026-06-23</pubdate>
     <originator id="1013" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Kommission für historisch belastetes Kulturerbe</name>
       <name lang="fr">Commission pour le patrimoine culturel au passé problématique</name>
       <name lang="it">Commissione per il patrimonio culturale storicamente problematico</name>
       <name lang="en">Commission for Historically Problematic Cultural Heritage</name>
+      <name lang="de">Kommission für historisch belastetes Kulturerbe</name>
+      <www lang="en">https://www.khbk.admin.ch/en</www>
       <www lang="de">https://www.khbk.admin.ch</www>
       <www lang="fr">https://www.khbk.admin.ch/fr</www>
       <www lang="it">https://www.khbk.admin.ch/it</www>
-      <www lang="en">https://www.khbk.admin.ch/en</www>
       <email lang="en">info@khbk.admin.ch</email>
       <email lang="de">info@khbk.admin.ch</email>
       <email lang="fr">info@khbk.admin.ch</email>
@@ -21,16 +21,16 @@
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
-      <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
     </department>
     <content lang="it">
       <city>Berna</city>
@@ -48,14 +48,6 @@
       <contact>Leitung Sekretariat KHBK Vijitha Fernandes +41 58 461 02 78 vijitha.fernandes@bak.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="fr">
-      <city>Berne</city>
-      <title>Deuxième séance de la Commission pour le patrimoine culturel au passé problématique – 12 juin 2026</title>
-      <lead>La Commission pour le patrimoine culturel au passé problématique s’est réunie le 12 juin 2026 pour sa deuxième séance. À l’ordre du jour figuraient l’audition de l’Office fédéral de la culture concernant la gestion des biens culturels au passé problématique en possession de la Confédération, ainsi que les travaux préparatoires pour le traitement de cas particuliers.</lead>
-      <text link="no">&lt;p&gt;La Commission pour le patrimoine culturel au passé problématique est chargée de conseiller le Conseil fédéral et l’administration fédérale sur la gestion des biens culturels au passé problématique en possession de la Confédération. Pour remplir ce mandat, elle doit disposer de connaissances concrètes et approfondies sur les travaux de l’administration fédérale, afin de pouvoir formuler, le cas échéant, des recommandations fondées. Lors de sa deuxième séance, la commission a entendu l’Office fédéral de la culture (OFC) et pu se faire une première idée de la situation. Les échanges avec l’OFC se poursuivront. La commission continuera à recueillir des informations et à approfondir ses analyses.&lt;/p&gt; &lt;p&gt;La commission a par ailleurs fait avancer les travaux préparatoires pour le traitement de cas particuliers. Ses membres ont examiné les règles de procédure élaborées par un groupe de travail et les ont approuvées sur le principe. Les points en suspens seront réglés lors d’une prochaine séance.&lt;/p&gt; &lt;p&gt;La commission s’est également penchée sur ses autres axes de travail. Au-delà de son mandat spécifique portant sur les biens en possession de la Confédération, son mandat de conseil s’étend plus largement aux questions relatives au patrimoine culturel au passé problématique. La notion de patrimoine culturel désigne l’ensemble des témoignages revêtant une importance culturelle, indépendamment des œuvres ou des demandes individuelles. Le mandat de conseil englobe ainsi des questions d’ordre général sur la gestion du patrimoine culturel au passé problématique. À l’issue de ce premier échange d’idées, la commission approfondira la réflexion en interne et passera à la mise en œuvre de travaux concrets..&lt;/p&gt; &lt;p&gt;Enfin, la commission a discuté des différentes demandes reçues ces dernières semaines en lien avec un tableau de l’exposition consacrée à Cézanne par la Fondation Beyeler. Consciente du mandat légal qui lui a été confié et de la responsabilité qui en découle, elle veille à agir dans le respect du cadre prévu par la loi. Elle se tient toutefois à disposition, à la demande des parties concernées, pour offrir son soutien et son expertise dans le cadre d’une conciliation et de la recherche de solutions justes et équitables&lt;/p&gt;</text>
-      <contact>Responsable du secrétariat CPCP Vijitha Fernandes +41 58 461 02 78 vijitha.fernandes@bak.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Bern</city>
       <title>2. Sitzung der Kommission für historisch belastetes Kulturerbe – 12. Juni 2026</title>
@@ -64,13 +56,21 @@
       <contact>Leitung Sekretariat KHBK Vijitha Fernandes +41 58 461 02 78 vijitha.fernandes@bak.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="fr">
+      <city>Berne</city>
+      <title>Deuxième séance de la Commission pour le patrimoine culturel au passé problématique – 12 juin 2026</title>
+      <lead>La Commission pour le patrimoine culturel au passé problématique s’est réunie le 12 juin 2026 pour sa deuxième séance. À l’ordre du jour figuraient l’audition de l’Office fédéral de la culture concernant la gestion des biens culturels au passé problématique en possession de la Confédération, ainsi que les travaux préparatoires pour le traitement de cas particuliers.</lead>
+      <text link="no">&lt;p&gt;La Commission pour le patrimoine culturel au passé problématique est chargée de conseiller le Conseil fédéral et l’administration fédérale sur la gestion des biens culturels au passé problématique en possession de la Confédération. Pour remplir ce mandat, elle doit disposer de connaissances concrètes et approfondies sur les travaux de l’administration fédérale, afin de pouvoir formuler, le cas échéant, des recommandations fondées. Lors de sa deuxième séance, la commission a entendu l’Office fédéral de la culture (OFC) et pu se faire une première idée de la situation. Les échanges avec l’OFC se poursuivront. La commission continuera à recueillir des informations et à approfondir ses analyses.&lt;/p&gt; &lt;p&gt;La commission a par ailleurs fait avancer les travaux préparatoires pour le traitement de cas particuliers. Ses membres ont examiné les règles de procédure élaborées par un groupe de travail et les ont approuvées sur le principe. Les points en suspens seront réglés lors d’une prochaine séance.&lt;/p&gt; &lt;p&gt;La commission s’est également penchée sur ses autres axes de travail. Au-delà de son mandat spécifique portant sur les biens en possession de la Confédération, son mandat de conseil s’étend plus largement aux questions relatives au patrimoine culturel au passé problématique. La notion de patrimoine culturel désigne l’ensemble des témoignages revêtant une importance culturelle, indépendamment des œuvres ou des demandes individuelles. Le mandat de conseil englobe ainsi des questions d’ordre général sur la gestion du patrimoine culturel au passé problématique. À l’issue de ce premier échange d’idées, la commission approfondira la réflexion en interne et passera à la mise en œuvre de travaux concrets..&lt;/p&gt; &lt;p&gt;Enfin, la commission a discuté des différentes demandes reçues ces dernières semaines en lien avec un tableau de l’exposition consacrée à Cézanne par la Fondation Beyeler. Consciente du mandat légal qui lui a été confié et de la responsabilité qui en découle, elle veille à agir dans le respect du cadre prévu par la loi. Elle se tient toutefois à disposition, à la demande des parties concernées, pour offrir son soutien et son expertise dans le cadre d’une conciliation et de la recherche de solutions justes et équitables&lt;/p&gt;</text>
+      <contact>Responsable du secrétariat CPCP Vijitha Fernandes +41 58 461 02 78 vijitha.fernandes@bak.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="18">
+        <name lang="de">Kultur</name>
+        <name lang="en">Culture</name>
         <name lang="fr">Culture</name>
         <name lang="it">Cultura</name>
         <name lang="rm">Cultura</name>
-        <name lang="de">Kultur</name>
-        <name lang="en">Culture</name>
       </topic>
     </topics>
     <offers/>

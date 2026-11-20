@@ -6,11 +6,11 @@
     <pubdate>2026-05-18</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
+      <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
-      <name lang="rm">Uffizi federal da statistica</name>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
@@ -24,17 +24,25 @@
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
     </department>
+    <content lang="de">
+      <city>Neuchâtel</city>
+      <title>Die Erwerbstätigenzahl stieg im 1. Quartal 2026 um 0,2%, die Erwerbslosenquote (ILO) erhöhte sich auf 5,2%</title>
+      <lead>Im 1. Quartal 2026 erhöhte sich die Erwerbstätigenzahl in der Schweiz gegenüber dem entsprechenden Vorjahresquartal um 0,2%. Im gleichen Zeitraum stieg die Erwerbslosenquote gemäss Definition des Internationalen Arbeitsamtes (ILO) in der Schweiz von 4,7% auf 5,2%, während sie in der EU von 6,2% auf 6,1% sank. Dies geht aus der Schweizerischen Arbeitskräfteerhebung (SAKE) des Bundesamtes für Statistik (BFS) hervor.</lead>
+      <text link="no">&lt;p&gt;Im 1. Quartal 2026 waren in der Schweiz 5,351 Millionen Personen erwerbstätig, 0,2% mehr als im entsprechenden Vorjahresquartal. In Vollzeitäquivalenten (VZÄ) stieg die Zahl der Erwerbstätigen um 0,3%. Bei den 15- bis 64-Jährigen verringerte sich die Erwerbstätigenquote von 79,8% auf 79,3%. Umgerechnet in VZÄ ging sie von 67,5% auf 67,2% zurück.&lt;/p&gt; &lt;h2&gt;Erwerbslosigkeit gemäss ILO&lt;/h2&gt; &lt;p&gt;Im 1. Quartal 2026 waren in der Schweiz gemäss Definition des ILO 266 000 Personen erwerbslos. Das sind 26 000 mehr als ein Jahr zuvor. Die Erwerbslosenquote gemäss ILO erhöhte sich von 4,7% auf 5,2%. In der EU ging sie von 6,2% auf 6,1% zurück. Ein Blick in die Nachbarländer zeigt unterschiedliche Entwicklungen: In Deutschland erhöhte sich die Erwerbslosenquote von 3,7% auf 4,2%, in Frankreich von 7,5% auf 7,8% und in Österreich von 6,1% auf 6,2%. In Italien verringerte sie sich hingegen von 6,8% auf 5,3%.&lt;/p&gt; &lt;h2&gt;Entwicklungen im letzten Quartal&lt;/h2&gt; &lt;p&gt;Saisonbereinigt erhöhten sich die Erwerbstätigenzahl und die Anzahl VZÄ zwischen dem 4. Quartal 2025 und dem 1. Quartal 2026 um 0,2% bzw. 0,4%. Die Erwerbslosenquote gemäss ILO sank von 5,1% auf 5,0%.&lt;/p&gt; &lt;p&gt;Diese Medienmitteilung und weitere Informationen zum Thema finden Sie auf der &lt;a href="https://www.bfs.admin.ch/news/de/2026-0524"&gt;Website des BFS.&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>BFS, Sektion Arbeit und Erwerbsleben Nicole Schöbi nicole.schoebi@bfs.admin.ch +41 58 463 67 73</contact>
+      <revisions/>
+    </content>
     <content lang="it">
       <city>Neuchâtel</city>
       <title>Nel primo trimestre 2026, popolazione occupata in aumento dello 0,2% e disoccupazione ai sensi dell’ILO al 5,2%</title>
@@ -51,14 +59,6 @@
       <contact>OFS, Section Travail et vie active Nicole Schöbi nicole.schoebi@bfs.admin.ch +41 58 463 67 73</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Neuchâtel</city>
-      <title>Die Erwerbstätigenzahl stieg im 1. Quartal 2026 um 0,2%, die Erwerbslosenquote (ILO) erhöhte sich auf 5,2%</title>
-      <lead>Im 1. Quartal 2026 erhöhte sich die Erwerbstätigenzahl in der Schweiz gegenüber dem entsprechenden Vorjahresquartal um 0,2%. Im gleichen Zeitraum stieg die Erwerbslosenquote gemäss Definition des Internationalen Arbeitsamtes (ILO) in der Schweiz von 4,7% auf 5,2%, während sie in der EU von 6,2% auf 6,1% sank. Dies geht aus der Schweizerischen Arbeitskräfteerhebung (SAKE) des Bundesamtes für Statistik (BFS) hervor.</lead>
-      <text link="no">&lt;p&gt;Im 1. Quartal 2026 waren in der Schweiz 5,351 Millionen Personen erwerbstätig, 0,2% mehr als im entsprechenden Vorjahresquartal. In Vollzeitäquivalenten (VZÄ) stieg die Zahl der Erwerbstätigen um 0,3%. Bei den 15- bis 64-Jährigen verringerte sich die Erwerbstätigenquote von 79,8% auf 79,3%. Umgerechnet in VZÄ ging sie von 67,5% auf 67,2% zurück.&lt;/p&gt; &lt;h2&gt;Erwerbslosigkeit gemäss ILO&lt;/h2&gt; &lt;p&gt;Im 1. Quartal 2026 waren in der Schweiz gemäss Definition des ILO 266 000 Personen erwerbslos. Das sind 26 000 mehr als ein Jahr zuvor. Die Erwerbslosenquote gemäss ILO erhöhte sich von 4,7% auf 5,2%. In der EU ging sie von 6,2% auf 6,1% zurück. Ein Blick in die Nachbarländer zeigt unterschiedliche Entwicklungen: In Deutschland erhöhte sich die Erwerbslosenquote von 3,7% auf 4,2%, in Frankreich von 7,5% auf 7,8% und in Österreich von 6,1% auf 6,2%. In Italien verringerte sie sich hingegen von 6,8% auf 5,3%.&lt;/p&gt; &lt;h2&gt;Entwicklungen im letzten Quartal&lt;/h2&gt; &lt;p&gt;Saisonbereinigt erhöhten sich die Erwerbstätigenzahl und die Anzahl VZÄ zwischen dem 4. Quartal 2025 und dem 1. Quartal 2026 um 0,2% bzw. 0,4%. Die Erwerbslosenquote gemäss ILO sank von 5,1% auf 5,0%.&lt;/p&gt; &lt;p&gt;Diese Medienmitteilung und weitere Informationen zum Thema finden Sie auf der &lt;a href="https://www.bfs.admin.ch/news/de/2026-0524"&gt;Website des BFS.&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>BFS, Sektion Arbeit und Erwerbsleben Nicole Schöbi nicole.schoebi@bfs.admin.ch +41 58 463 67 73</contact>
-      <revisions/>
-    </content>
     <content lang="en">
       <city>Neuchâtel</city>
       <title>In the 1st quarter 2026, the employed population grew by 0.2% and ILO unemployment stood at 5.2%</title>
@@ -69,18 +69,18 @@
     </content>
     <topics>
       <topic id="406">
+        <name lang="rm">Activitad da gudogn</name>
         <name lang="de">Erwerbstätigkeit</name>
         <name lang="en">Gainful employment</name>
         <name lang="fr">Activité lucrative</name>
         <name lang="it">Attività lucrativa</name>
-        <name lang="rm">Activitad da gudogn</name>
       </topic>
       <topic id="43">
+        <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
-        <name lang="it">Conoscenze e statistiche</name>
       </topic>
       <topic id="2">
         <name lang="de">Arbeit</name>
@@ -90,10 +90,10 @@
         <name lang="rm">Lavur</name>
       </topic>
       <topic id="124">
-        <name lang="it">Statistica pubblica</name>
         <name lang="de">Öffentliche Statistik</name>
         <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
+        <name lang="it">Statistica pubblica</name>
       </topic>
       <topic id="100">
         <name lang="de">Arbeit</name>

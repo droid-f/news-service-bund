@@ -100,7 +100,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:7:7",
-            "version": "18.0.0"
+            "version": "27.0.0"
           },
           "documentId": 11786,
           "documentType": "page",
@@ -112,7 +112,7 @@
           "significantPublicationDate": "2025-12-01T06:58:57.378Z",
           "title": "Bundesrat Pfister besucht den Militärflugplatz Florennes in Belgien",
           "updatedAt": "2025-12-01T09:22:55.166Z",
-          "version": 27,
+          "version": 28,
           "visiblePublicationDate": "2025-12-01T06:58:57.378Z"
         }
       },
@@ -151,8 +151,52 @@
       ]
     },
     "en": {
-      "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTags": [
+        {
+          "copublisherID": "19",
+          "tags": [
+            "gs-vbs_1148"
+          ]
+        }
+      ],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "14",
+          "topics": [
+            "372",
+            "395",
+            "380",
+            "412",
+            "529",
+            "548",
+            "784"
+          ]
+        },
+        {
+          "copublisherID": "11",
+          "topics": [
+            "372",
+            "395",
+            "380",
+            "784",
+            "529",
+            "548",
+            "412"
+          ]
+        },
+        {
+          "copublisherID": "19",
+          "topics": [
+            "372",
+            "395",
+            "380",
+            "412",
+            "784",
+            "529",
+            "548"
+          ]
+        }
+      ],
       "coPublishers": [
         "11",
         "14",
@@ -204,7 +248,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:7:7",
-            "version": "18.0.0"
+            "version": "27.0.0"
           },
           "documentId": 11814,
           "documentType": "page",
@@ -216,7 +260,7 @@
           "significantPublicationDate": "2025-12-01T09:31:19.924Z",
           "title": "Federal Councillor Martin Pfister visits Florennes Air Base in Belgium",
           "updatedAt": "2025-12-01T09:31:19.924Z",
-          "version": 12,
+          "version": 13,
           "visiblePublicationDate": "2025-12-01T09:31:19.924Z"
         }
       },
@@ -352,7 +396,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:7:7",
-            "version": "18.0.0"
+            "version": "27.0.0"
           },
           "documentId": 11787,
           "documentType": "page",
@@ -364,7 +408,7 @@
           "significantPublicationDate": "2025-12-01T06:59:03.578Z",
           "title": "Le conseiller fédéral Martin Pfister en Belgique pour une visite de la base aérienne de Florennes",
           "updatedAt": "2025-12-01T09:28:35.923Z",
-          "version": 21,
+          "version": 22,
           "visiblePublicationDate": "2025-12-01T06:59:03.578Z"
         }
       },
@@ -500,7 +544,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:7:7",
-            "version": "18.0.0"
+            "version": "27.0.0"
           },
           "documentId": 11788,
           "documentType": "page",
@@ -512,7 +556,7 @@
           "significantPublicationDate": "2025-12-01T06:59:11.336Z",
           "title": "Il consigliere federale Martin Pfister in Belgio per una visita alla base aerea di Florennes",
           "updatedAt": "2025-12-01T09:29:13.361Z",
-          "version": 18,
+          "version": 19,
           "visiblePublicationDate": "2025-12-01T06:59:11.336Z"
         }
       },

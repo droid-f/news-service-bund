@@ -68,7 +68,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "25.0.0"
+            "version": "27.0.0"
           },
           "documentId": 21999,
           "documentType": "page",
@@ -80,7 +80,7 @@
           "significantPublicationDate": "2026-09-25T08:36:36.470Z",
           "title": "Bundesrat will neues Cybersicherheitsgesetz schaffen",
           "updatedAt": "2026-09-28T07:46:10.376Z",
-          "version": 17,
+          "version": 18,
           "visiblePublicationDate": "2026-09-25T08:36:36.470Z"
         }
       },
@@ -115,7 +115,24 @@
     },
     "en": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "49",
+          "topics": [
+            "395",
+            "380",
+            "558"
+          ]
+        },
+        {
+          "copublisherID": "19",
+          "topics": [
+            "395",
+            "380",
+            "558"
+          ]
+        }
+      ],
       "coPublishers": [
         "49",
         "19"
@@ -162,7 +179,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "25.0.0"
+            "version": "27.0.0"
           },
           "documentId": 22002,
           "documentType": "page",
@@ -174,7 +191,7 @@
           "significantPublicationDate": "2026-09-28T07:47:00.881Z",
           "title": "Federal Council plans to introduce new Cybersecurity Act",
           "updatedAt": "2026-09-28T07:47:00.881Z",
-          "version": 12,
+          "version": 13,
           "visiblePublicationDate": "2026-09-28T07:47:00.881Z"
         }
       },
@@ -273,7 +290,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "25.0.0"
+            "version": "27.0.0"
           },
           "documentId": 22000,
           "documentType": "page",
@@ -285,7 +302,7 @@
           "significantPublicationDate": "2026-09-25T08:36:59.512Z",
           "title": "Le Conseil fédéral veut créer une loi sur la cybersécurité",
           "updatedAt": "2026-09-28T07:46:27.307Z",
-          "version": 14,
+          "version": 15,
           "visiblePublicationDate": "2026-09-25T08:36:59.512Z"
         }
       },
@@ -384,7 +401,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "25.0.0"
+            "version": "27.0.0"
           },
           "documentId": 22001,
           "documentType": "page",
@@ -396,7 +413,7 @@
           "significantPublicationDate": "2026-09-25T08:37:10.063Z",
           "title": "Il Consiglio federale intende creare una nuova legge sulla cibersicurezza",
           "updatedAt": "2026-09-28T07:46:44.462Z",
-          "version": 13,
+          "version": 14,
           "visiblePublicationDate": "2026-09-25T08:37:10.063Z"
         }
       },

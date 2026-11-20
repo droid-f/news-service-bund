@@ -6,11 +6,11 @@
     <pubdate>2026-05-19</pubdate>
     <originator id="1060" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
+      <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
       <name lang="de">Staatssekretariat für internationale Finanzfragen</name>
       <name lang="en">State Secretariat for International Finance</name>
       <name lang="fr">Secrétariat d'État et aux questions financières internationales</name>
       <name lang="it">Segreteria di Stato per le questioni finanziarie internazionali</name>
-      <name lang="rm">Secretariat da stadi per dumondas finanzialas internaziunalas</name>
       <www lang="de">https://www.sif.admin.ch/de</www>
       <www lang="en">https://www.sif.admin.ch/en</www>
       <www lang="fr">https://www.sif.admin.ch/fr</www>
@@ -28,11 +28,11 @@
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
-      <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <www lang="de">https://www.efd.admin.ch</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -41,10 +41,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-126" org-id="601">
+        <name lang="de">Finanzplatz Schweiz</name>
         <name lang="en">Switzerland as a financial centre</name>
         <name lang="fr">Place financière suisse</name>
         <name lang="it">Piazza finanziaria svizzera</name>
-        <name lang="de">Finanzplatz Schweiz</name>
       </keyword>
       <keyword id="SLW-128" org-id="601">
         <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
@@ -53,16 +53,16 @@
         <name lang="it">Politica economica e mercati finanziari</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
+        <name lang="de">Finanzplatz Schweiz</name>
         <name lang="en">Switzerland as a financial centre</name>
         <name lang="fr">Place financière suisse</name>
         <name lang="it">Piazza finanziaria svizzera</name>
-        <name lang="de">Finanzplatz Schweiz</name>
       </keyword>
       <keyword id="SLW-128" org-id="601">
+        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
         <name lang="en">Economic policy and financial markets</name>
         <name lang="fr">Politique économique et marchés financiers</name>
         <name lang="it">Politica economica e mercati finanziari</name>
-        <name lang="de">Wirtschaftspolitik und Finanzmärkte</name>
       </keyword>
       <keyword id="SLW-126" org-id="601">
         <name lang="de">Finanzplatz Schweiz</name>
@@ -78,16 +78,16 @@
       </keyword>
     </keywords>
     <department id="601">
+      <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
+      <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
-      <www lang="de">https://www.efd.admin.ch</www>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
@@ -120,11 +120,11 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
       </topic>
       <topic id="291">
         <name lang="de">Finanzplatz</name>
@@ -141,18 +141,18 @@
         <name lang="rm">Martgà da finanzas</name>
       </topic>
       <topic id="34">
+        <name lang="de">Schweiz und Europa</name>
         <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
       </topic>
     </topics>
     <offers/>

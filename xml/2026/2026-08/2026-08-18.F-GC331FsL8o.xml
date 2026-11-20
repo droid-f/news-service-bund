@@ -15,10 +15,10 @@
     </originator>
     <keywords>
       <keyword id="SLW-9" org-id="405">
-        <name lang="de">Asylstatistik</name>
-        <name lang="en">Asylum statistics</name>
         <name lang="fr">Statistiques en matière d’asile</name>
         <name lang="it">Statistiche sull’asilo</name>
+        <name lang="de">Asylstatistik</name>
+        <name lang="en">Asylum statistics</name>
       </keyword>
       <keyword id="SLW-9" org-id="405">
         <name lang="de">Asylstatistik</name>
@@ -27,37 +27,29 @@
         <name lang="it">Statistiche sull’asilo</name>
       </keyword>
       <keyword id="SLW-9" org-id="405">
-        <name lang="de">Asylstatistik</name>
         <name lang="en">Asylum statistics</name>
         <name lang="fr">Statistiques en matière d’asile</name>
         <name lang="it">Statistiche sull’asilo</name>
+        <name lang="de">Asylstatistik</name>
       </keyword>
     </keywords>
     <department id="401">
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
+      <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
-      <name lang="en">Federal Department of Justice and Police</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
-      <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
+      <email lang="de">info@gs-ejpd.admin.ch</email>
     </department>
-    <content lang="de">
-      <city>Bern-Wabern</city>
-      <title>Asylstatistik Juli 2026</title>
-      <lead>Beim Staatssekretariat für Migration (SEM) gingen im Juli 2026 fast ein Viertel weniger Asylgesuche ein als im Jahr zuvor: 1915 Gesuche entsprechen einem Rückgang von 22,8 Prozent. Verglichen mit Juni 2026 hat die Zahl der Gesuche leicht zugenommen (+7,8 %). Im Sommer und Herbst steigt die Zahl der Gesuche regelmässig an.</lead>
-      <text link="no">&lt;p&gt;Die Asylgesuchszahlen entwickeln sich Monat für Monat weiterhin rückläufig im Vergleich zu den Vorjahreswerten. Insgesamt hat das SEM in diesem Jahr 18 Prozent weniger Gesuche (–2473) verzeichnet als in den ersten sieben Monaten des letzten Jahres.&lt;/p&gt; &lt;p&gt;Das wichtigste Herkunftsland bleibt Afghanistan mit 351 Gesuchen. Darauf folgen Eritrea (268), Algerien (255), Türkei (179) und Äthiopien (149).&lt;/p&gt; &lt;p&gt;Von den 1915 im Juli gestellten Gesuchen entfielen 1528 auf Primär- und 387 auf Sekundärgesuche. Bei Letzteren handelt es sich um Geburten, Familiennachzüge oder Mehrfachgesuche. Im Vergleich zum Juli 2025 ist die Zahl der Primärgesuche um 22,8 % und jene der Sekundärgesuche um 22,9 % zurückgegangen.&lt;/p&gt; &lt;p&gt;Im Juli 2026 entschied das SEM erstinstanzlich über 2372 Asylgesuche. In 28 Prozent der Fälle gewährte es Asyl. Insgesamt verliessen 939 Personen kontrolliert die Schweiz, wovon 569 selbständig ausgereist sind. Die übrigen 370 Personen wurden unter polizeilicher Begleitung in ihren Heimatstaat oder einen zuständigen Dritt- oder Dublin-Staat zurückgeführt.&lt;/p&gt; &lt;p&gt;Seit dem 12. Juni 2026 ist der EU-Migrations- und Asylpakt in Kraft. Die Schweiz ist im Rahmen der Dublin- und Schengen-Assoziierungsabkommen an zentralen Teilen des neuen Paktes beteiligt. Die Auswirkung der neuen Regeln auf die Asylgesuche in der Schweiz und in Europa, kann zu diesem Zeitpunkt noch nicht abgeschätzt werden.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.sem.admin.ch/sem/de/home/publiservice/statistik/asylstatistik/archiv/2026/07.html"&gt;Asylstatistik Juli 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Dokumente&lt;/h2&gt;</text>
-      <contact>Information und Kommunikation SEM medien@sem.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne-Wabern</city>
       <title>Asile : statistiques de juillet 2026</title>
@@ -74,13 +66,21 @@
       <contact>Informazione e comunicazione SEM medien@sem.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Bern-Wabern</city>
+      <title>Asylstatistik Juli 2026</title>
+      <lead>Beim Staatssekretariat für Migration (SEM) gingen im Juli 2026 fast ein Viertel weniger Asylgesuche ein als im Jahr zuvor: 1915 Gesuche entsprechen einem Rückgang von 22,8 Prozent. Verglichen mit Juni 2026 hat die Zahl der Gesuche leicht zugenommen (+7,8 %). Im Sommer und Herbst steigt die Zahl der Gesuche regelmässig an.</lead>
+      <text link="no">&lt;p&gt;Die Asylgesuchszahlen entwickeln sich Monat für Monat weiterhin rückläufig im Vergleich zu den Vorjahreswerten. Insgesamt hat das SEM in diesem Jahr 18 Prozent weniger Gesuche (–2473) verzeichnet als in den ersten sieben Monaten des letzten Jahres.&lt;/p&gt; &lt;p&gt;Das wichtigste Herkunftsland bleibt Afghanistan mit 351 Gesuchen. Darauf folgen Eritrea (268), Algerien (255), Türkei (179) und Äthiopien (149).&lt;/p&gt; &lt;p&gt;Von den 1915 im Juli gestellten Gesuchen entfielen 1528 auf Primär- und 387 auf Sekundärgesuche. Bei Letzteren handelt es sich um Geburten, Familiennachzüge oder Mehrfachgesuche. Im Vergleich zum Juli 2025 ist die Zahl der Primärgesuche um 22,8 % und jene der Sekundärgesuche um 22,9 % zurückgegangen.&lt;/p&gt; &lt;p&gt;Im Juli 2026 entschied das SEM erstinstanzlich über 2372 Asylgesuche. In 28 Prozent der Fälle gewährte es Asyl. Insgesamt verliessen 939 Personen kontrolliert die Schweiz, wovon 569 selbständig ausgereist sind. Die übrigen 370 Personen wurden unter polizeilicher Begleitung in ihren Heimatstaat oder einen zuständigen Dritt- oder Dublin-Staat zurückgeführt.&lt;/p&gt; &lt;p&gt;Seit dem 12. Juni 2026 ist der EU-Migrations- und Asylpakt in Kraft. Die Schweiz ist im Rahmen der Dublin- und Schengen-Assoziierungsabkommen an zentralen Teilen des neuen Paktes beteiligt. Die Auswirkung der neuen Regeln auf die Asylgesuche in der Schweiz und in Europa, kann zu diesem Zeitpunkt noch nicht abgeschätzt werden.&lt;/p&gt; &lt;h2&gt;Links&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.sem.admin.ch/sem/de/home/publiservice/statistik/asylstatistik/archiv/2026/07.html"&gt;Asylstatistik Juli 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;h2&gt;Dokumente&lt;/h2&gt;</text>
+      <contact>Information und Kommunikation SEM medien@sem.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="4">
+        <name lang="it">Asilo</name>
+        <name lang="rm">Asil</name>
         <name lang="de">Asyl</name>
         <name lang="en">Asylum</name>
         <name lang="fr">Asile</name>
-        <name lang="it">Asilo</name>
-        <name lang="rm">Asil</name>
       </topic>
       <topic id="43">
         <name lang="de">Wissen &amp; Statistik</name>
@@ -90,11 +90,11 @@
         <name lang="rm">Savida e statistica</name>
       </topic>
       <topic id="20">
-        <name lang="de">Migration &amp; Integration</name>
-        <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
+        <name lang="de">Migration &amp; Integration</name>
+        <name lang="en">Migration &amp; Integration</name>
       </topic>
     </topics>
     <offers/>

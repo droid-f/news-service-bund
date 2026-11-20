@@ -73,7 +73,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:4:4",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 16150,
           "documentType": "page",
@@ -85,7 +85,7 @@
           "significantPublicationDate": "2026-04-02T14:31:59.501Z",
           "title": "Die Bundesräte Ignazio Cassis und Beat Jans treffen sich mit dem algerischen Aussenminister Ahmed Attaf",
           "updatedAt": "2026-04-02T14:31:59.501Z",
-          "version": 22,
+          "version": 23,
           "visiblePublicationDate": "2026-04-02T14:31:59.501Z"
         }
       },
@@ -195,7 +195,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:4:4",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 16152,
           "documentType": "page",
@@ -207,7 +207,7 @@
           "significantPublicationDate": "2026-04-02T14:36:31.900Z",
           "title": "Ignazio Cassis and Beat Jans meet with Algerian foreign minister, Ahmed Attaf",
           "updatedAt": "2026-04-02T14:36:31.900Z",
-          "version": 25,
+          "version": 26,
           "visiblePublicationDate": "2026-04-02T14:36:31.900Z"
         }
       },
@@ -316,7 +316,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:4:4",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 16148,
           "documentType": "page",
@@ -328,7 +328,7 @@
           "significantPublicationDate": "2026-04-02T14:27:38.512Z",
           "title": "Les conseillers fédéraux Ignazio Cassis et Beat Jans rencontrent le ministre algérien des affaires étrangères Ahmed Attaf",
           "updatedAt": "2026-04-02T14:27:38.512Z",
-          "version": 44,
+          "version": 45,
           "visiblePublicationDate": "2026-04-02T14:27:38.512Z"
         }
       },
@@ -369,7 +369,14 @@
     },
     "it": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "4",
+          "topics": [
+            "372"
+          ]
+        }
+      ],
       "coPublishers": [
         "4"
       ],
@@ -431,7 +438,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:4:4",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 16151,
           "documentType": "page",
@@ -443,7 +450,7 @@
           "significantPublicationDate": "2026-04-02T14:41:21.461Z",
           "title": "I consiglieri federali Ignazio Cassis e Beat Jans incontrano il ministro degli affari esteri algerino Ahmed Attaf",
           "updatedAt": "2026-04-02T14:41:21.461Z",
-          "version": 24,
+          "version": 25,
           "visiblePublicationDate": "2026-04-02T14:41:21.461Z"
         }
       },

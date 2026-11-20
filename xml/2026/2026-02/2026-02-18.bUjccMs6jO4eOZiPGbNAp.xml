@@ -4,6 +4,14 @@
     <type>Memorandum</type>
     <version>1</version>
     <pubdate>2026-02-18</pubdate>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <www lang="de">https://www.admin.ch</www>
+      <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
+      <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
+    </originator>
     <originator id="703" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
       <name lang="de">Staatssekretariat für Wirtschaft</name>
@@ -16,31 +24,23 @@
       <www lang="fr">https://www.seco.admin.ch/fr</www>
       <www lang="it">https://www.seco.admin.ch/it</www>
       <www lang="rm">https://www.seco.admin.ch</www>
+      <email lang="de">medien@seco.admin.ch</email>
+      <email lang="en">medien@seco.admin.ch</email>
       <email lang="fr">medien@seco.admin.ch</email>
       <email lang="it">medien@seco.admin.ch</email>
       <email lang="rm">medien@seco.admin.ch</email>
-      <email lang="de">medien@seco.admin.ch</email>
-      <email lang="en">medien@seco.admin.ch</email>
-    </originator>
-    <originator id="1070" department-msg="no" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
-      <www lang="fr">https://www.admin.ch/fr</www>
-      <www lang="it">https://www.admin.ch/it</www>
-      <www lang="rm">https://www.admin.ch/rm</www>
     </originator>
     <originator id="705" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="de">Bundesamt für Landwirtschaft</name>
       <name lang="en">Federal Office for Agriculture</name>
       <name lang="fr">Office fédéral de l'agriculture</name>
       <name lang="it">Ufficio federale dell'agricoltura</name>
       <name lang="rm">Uffizi federal d'agricultura</name>
-      <name lang="de">Bundesamt für Landwirtschaft</name>
-      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
       <www lang="de">https://www.blw.admin.ch/blw/de/home.html</www>
       <www lang="en">https://www.blw.admin.ch/blw/en/home.html</www>
       <www lang="fr">https://www.blw.admin.ch/blw/fr/home.html</www>
+      <www lang="it">https://www.blw.admin.ch/blw/it/home.html</www>
     </originator>
     <originator id="701" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
@@ -49,11 +49,11 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
-      <www lang="en">https://www.wbf.admin.ch/en</www>
-      <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
+      <www lang="en">https://www.wbf.admin.ch/en</www>
+      <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
@@ -78,20 +78,20 @@
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Il Consiglio federale intende rafforzare l’osservazione del mercato</title>
-      <lead>Nella seduta dell’18 febbraio 2026 il Consiglio federale ha approvato un rapporto in adempimento di tre postulati incentrati sulla trasparenza dei prezzi sul mercato agroalimentare. Tale rapporto sottolinea l’importanza dell’osservazione del mercato per accrescere la trasparenza dei prezzi nel settore agricolo e propone quindi di potenziarla. L’attuazione è prevista nell’ambito della Politica agricola 2030+ (PA30+).</lead>
-      <text link="no">&lt;p&gt;La trasparenza dei prezzi sul mercato agroalimentare è di grande attualità e riguarda i produttori, gli addetti alla trasformazione e alla distribuzione nonché i consumatori. In questo contesto erano stati depositati tre postulati, 22.4252 Commissione dell'economia e dei tributi (CET-S), 21.3831 Schneider Meret e 24.3673 Haab, che incaricavano il Consiglio federale di esaminare come rendere i prezzi più trasparenti lungo l’intera catena del valore (22.4252) e rafforzare la trasparenza dei prezzi per contrastare pratiche commerciali sleali nella filiera agroalimentare (21.3831), nonché di svolgere un’analisi volta a stabilire in che misura i prezzi indicativi corrispondono a quelli effettivamente spuntati dagli agricoltori (24.3673).&lt;/p&gt; &lt;p&gt;Nel rapporto in adempimento dei suddetti postulati il Consiglio federale illustra e conferma che il mercato è dominato da poche grandi imprese, il che può rappresentare un rischio per il suo buon funzionamento. Sottolinea la necessità di accrescere la trasparenza nella formazione del prezzo. Prospetta di rafforzare l’osservazione del mercato per ridurre l'asimmetria delle informazioni e aumentare la trasparenza dei prezzi. Prevede di estendere l’osservazione del mercato al comparto dei mezzi di produzione (p.es. alimenti per animali, concimi, sementi) e di colmare determinate lacune aumentando la trasparenza nel livello della trasformazione nonché nei comparti della carne e della verdura. Auspica infine di monitorare e comunicare i dati relativi al valore aggiunto lordo di determinati gruppi di prodotti nonché di migliorare la comunicazione sui dati e di adeguare la base legale per la loro rilevazione.&lt;/p&gt; &lt;p&gt;Queste misure supportano la PA30+ favorendo il buon funzionamento dei mercati senza intervento diretto dello Stato su di essi. Gli adeguamenti necessari a livello della legge sull'agricoltura saranno sottoposti al Parlamento nel quadro del messaggio sulla PA30+, tenendo conto dei risultati della consultazione pubblica prevista nel secondo semestre 2026.&lt;/p&gt;</text>
-      <contact>Comunicazione DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Le Conseil fédéral souhaite renforcer l’observation des marchés</title>
       <lead>Lors de sa séance du 11 février 2026, le Conseil fédéral a adopté la réponse aux trois postulats concernant la transparence des prix sur le marché alimentaire. Le rapport souligne l’importance de l’observation du marché pour accroître la transparence des prix dans les secteurs agricoles. Il propose donc de renforcer cette d’observation. La mise en œuvre est prévue dans le cadre de la PA30+.</lead>
       <text link="no">&lt;p&gt;La transparence des prix sur les machés agroalimentaires est au cœur de l’actualité. Producteurs, transformateurs, distributeurs mais aussi consommateurs sont concernés. De ce fait, trois postulats : 22.4252 Commission de l'économie et des redevances (CE), 21.3831 Schneider Meret et 24.3673 Haab, ont chargé le Conseil fédéral d’examiner les points suivants. Le premier, souhaite savoir comment rendre les prix plus transparents tout au long de la chaîne de valeur (22.4252 CE). Le deuxième, vise à comprendre comment la transparence des prix pourrait être renforcée pour combattre des pratiques commerciales déloyales dans l’agriculture et l’industrie alimentaire (21.3831). Le troisième demande une analyse sur la manière dont les prix indicatifs correspondent aux prix payés aux agriculteurs (Postulat 24.3673).&lt;/p&gt; &lt;p&gt;Dans son rapport répondant aux ces trois postulats, le Conseil fédéral montre et confirme que le marché est dominé par quelques grandes entreprises, ce qui peut représenter un risque pour le bon fonctionnement des marchés. Il met en avant la nécessité de rendre les prix encore plus transparents. Le Conseil fédéral souhaite renforcer l’observation du marché pour réduire les asymétries d’information et accroître la transparence des prix. Il prévoit de développer l’observation des moyens de production (par ex. fourrages, engrais, semences), combler les lacunes telles que : la transparence au niveau de la transformation, sur le marché de la viande et des légumes. En outre, il s’agit d’observer et de communiquer, pour certains groupes de produits, les chiffres de la valeur ajoutée brute. Enfin il souhaite renforcer la communication des données ainsi que la base légale pour la collecte de ces dernières.&lt;/p&gt; &lt;p&gt;Ces mesures soutiennent la Politique agricole 2030+ en favorisant le bon fonctionnement des marchés sans intervention directe de l’État dans les marchés. Les adaptations nécessaires de la loi sur l'agriculture seront soumises au Parlement dans le cadre du message sur la PA30+, en tenant compte des résultats de la consultation publique qui est prévu pour le deuxième semestre 2026.&lt;/p&gt;</text>
       <contact>Communication DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale intende rafforzare l’osservazione del mercato</title>
+      <lead>Nella seduta dell’18 febbraio 2026 il Consiglio federale ha approvato un rapporto in adempimento di tre postulati incentrati sulla trasparenza dei prezzi sul mercato agroalimentare. Tale rapporto sottolinea l’importanza dell’osservazione del mercato per accrescere la trasparenza dei prezzi nel settore agricolo e propone quindi di potenziarla. L’attuazione è prevista nell’ambito della Politica agricola 2030+ (PA30+).</lead>
+      <text link="no">&lt;p&gt;La trasparenza dei prezzi sul mercato agroalimentare è di grande attualità e riguarda i produttori, gli addetti alla trasformazione e alla distribuzione nonché i consumatori. In questo contesto erano stati depositati tre postulati, 22.4252 Commissione dell'economia e dei tributi (CET-S), 21.3831 Schneider Meret e 24.3673 Haab, che incaricavano il Consiglio federale di esaminare come rendere i prezzi più trasparenti lungo l’intera catena del valore (22.4252) e rafforzare la trasparenza dei prezzi per contrastare pratiche commerciali sleali nella filiera agroalimentare (21.3831), nonché di svolgere un’analisi volta a stabilire in che misura i prezzi indicativi corrispondono a quelli effettivamente spuntati dagli agricoltori (24.3673).&lt;/p&gt; &lt;p&gt;Nel rapporto in adempimento dei suddetti postulati il Consiglio federale illustra e conferma che il mercato è dominato da poche grandi imprese, il che può rappresentare un rischio per il suo buon funzionamento. Sottolinea la necessità di accrescere la trasparenza nella formazione del prezzo. Prospetta di rafforzare l’osservazione del mercato per ridurre l'asimmetria delle informazioni e aumentare la trasparenza dei prezzi. Prevede di estendere l’osservazione del mercato al comparto dei mezzi di produzione (p.es. alimenti per animali, concimi, sementi) e di colmare determinate lacune aumentando la trasparenza nel livello della trasformazione nonché nei comparti della carne e della verdura. Auspica infine di monitorare e comunicare i dati relativi al valore aggiunto lordo di determinati gruppi di prodotti nonché di migliorare la comunicazione sui dati e di adeguare la base legale per la loro rilevazione.&lt;/p&gt; &lt;p&gt;Queste misure supportano la PA30+ favorendo il buon funzionamento dei mercati senza intervento diretto dello Stato su di essi. Gli adeguamenti necessari a livello della legge sull'agricoltura saranno sottoposti al Parlamento nel quadro del messaggio sulla PA30+, tenendo conto dei risultati della consultazione pubblica prevista nel secondo semestre 2026.&lt;/p&gt;</text>
+      <contact>Comunicazione DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="de">
@@ -104,46 +104,46 @@
     </content>
     <topics>
       <topic id="648">
+        <name lang="rm">Surveglianza dal martgà</name>
+        <name lang="de">Marktaufsicht</name>
         <name lang="en">Market supervision</name>
         <name lang="fr">Surveillance du marché</name>
         <name lang="it">Sorveglianza del mercato</name>
-        <name lang="rm">Surveglianza dal martgà</name>
-        <name lang="de">Marktaufsicht</name>
       </topic>
       <topic id="38">
-        <name lang="it">Agricoltura</name>
-        <name lang="rm">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
+        <name lang="it">Agricoltura</name>
+        <name lang="rm">Agricultura</name>
       </topic>
       <topic id="633">
+        <name lang="it">Politiche agricole</name>
+        <name lang="rm">Politica agrara</name>
         <name lang="de">Agrarpolitik</name>
         <name lang="en">Agricultural policy</name>
         <name lang="fr">Politique agricole</name>
-        <name lang="it">Politiche agricole</name>
-        <name lang="rm">Politica agrara</name>
       </topic>
       <topic id="47">
+        <name lang="it">Economia e piazza finanziaria</name>
+        <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
-        <name lang="it">Economia e piazza finanziaria</name>
-        <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="37">
-        <name lang="rm">Consum</name>
         <name lang="de">Konsum</name>
         <name lang="en">Consumption</name>
         <name lang="fr">Consommation</name>
         <name lang="it">Consumo</name>
+        <name lang="rm">Consum</name>
       </topic>
       <topic id="10">
-        <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
+        <name lang="de">Bundesrat</name>
+        <name lang="en">Federal Council</name>
       </topic>
     </topics>
     <offers/>

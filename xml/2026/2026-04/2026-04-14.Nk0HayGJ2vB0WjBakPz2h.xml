@@ -11,24 +11,24 @@
       <name lang="fr">Groupement Défense</name>
       <name lang="it">Aggruppamento Difesa</name>
       <name lang="rm">Gruppa da defensiun</name>
-      <www lang="en">http://www.vtg.admin.ch/</www>
       <www lang="fr">http://www.vtg.admin.ch/fr</www>
       <www lang="it">http://www.vtg.admin.ch/it</www>
       <www lang="rm">http://www.vtg.admin.ch/</www>
       <www lang="de">http://www.vtg.admin.ch/</www>
+      <www lang="en">http://www.vtg.admin.ch/</www>
+      <email lang="it"> </email>
+      <email lang="rm"> </email>
       <email lang="de"> </email>
       <email lang="en"> </email>
       <email lang="fr"> </email>
-      <email lang="it"> </email>
-      <email lang="rm"> </email>
     </originator>
     <originator id="1084" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="de">Bundesamt für Landestopografie swisstopo</name>
       <name lang="en">Federal Office of Topography swisstopo</name>
       <name lang="fr">Office fédéral de topographie swisstopo</name>
       <name lang="it">Ufficio federale di topografia swisstopo</name>
       <name lang="rm">Uffizi federal da topografia swisstopo</name>
+      <name lang="de">Bundesamt für Landestopografie swisstopo</name>
       <www lang="de">http://www.swisstopo.admin.ch/</www>
       <www lang="en">http://www.swisstopo.admin.ch/</www>
       <www lang="fr">http://www.swisstopo.admin.ch/</www>
@@ -41,11 +41,11 @@
     </originator>
     <originator id="501" department-msg="no" lead="yes" topnews="no">
       <department-id>501</department-id>
-      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
+      <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
       <www lang="en">https://www.vbs.admin.ch/en</www>
       <www lang="fr">https://www.vbs.admin.ch/fr</www>
       <www lang="it">https://www.vbs.admin.ch/it</www>
@@ -54,20 +54,20 @@
     </originator>
     <originator id="502" department-msg="no" lead="no" topnews="no">
       <department-id>501</department-id>
-      <name lang="it">Segreteria generale del DDPS</name>
-      <name lang="rm">Secretariat general dal DDPS</name>
       <name lang="de">Generalsekretariat VBS</name>
       <name lang="en">General Secretariat DDPS</name>
       <name lang="fr">Secrétariat général du DDPS</name>
+      <name lang="it">Segreteria generale del DDPS</name>
+      <name lang="rm">Secretariat general dal DDPS</name>
+      <www lang="de">http://www.vbs.admin.ch/</www>
       <www lang="en">http://www.vbs.admin.ch/</www>
       <www lang="fr">http://www.vbs.admin.ch/fr</www>
       <www lang="it">http://www.vbs.admin.ch/it</www>
-      <www lang="de">http://www.vbs.admin.ch/</www>
-      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
       <email lang="de">kommunikation@gs-vbs.admin.ch</email>
       <email lang="en">kommunikation@gs-vbs.admin.ch</email>
       <email lang="fr">kommunikation@gs-vbs.admin.ch</email>
       <email lang="it">kommunikation@gs-vbs.admin.ch</email>
+      <email lang="rm">kommunikation@gs-vbs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="501">
@@ -90,14 +90,6 @@
       <contact>Ressort Kommunikation und Web Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
       <revisions/>
     </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Compiuti notevoli progressi nei progetti principali TC Es e NEPRO</title>
-      <lead>I progetti «TC Es» e «NEPRO» stanno registrando un’evoluzione positiva. Con il progetto TC Es l’esercito sta ammodernando le proprie capacità di trasmissione e connessione durante gli impieghi. Per quanto riguarda il progetto parziale «Sostituzione della comunicazione mobile» di TC Es, i test tecnici di maturità hanno dato esito positivo ed è stata approvata una nuova pianificazione. Nel quadro di una «change request» il progetto NEPRO verrà riorganizzato e servirà ad ammodernare i sistemi di produzione di swisstopo. Pertanto lo stato di questi progetti principali potrà essere sottoposto a una nuova valutazione nel prossimo periodo di rendicontazione.</lead>
-      <text link="no">&lt;p&gt;Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) conduce diverse centinaia di progetti. In tale contesto i progetti più complessi, che comportano i maggiori rischi, che hanno una notevole rilevanza finanziaria e che sono di importanza fondamentale per le capacità in materia di politica di sicurezza della Svizzera sono considerati progetti principali. Data la loro elevata rilevanza strategica questi progetti vengono gestiti da vicino, sottoposti a verifiche periodiche e monitorati per quanto riguarda i costi, le scadenze e i rischi.&lt;/p&gt; &lt;p&gt;A intervalli regolari il DDPS informa in merito allo stato dei progetti principali.&lt;/p&gt; &lt;h2&gt;Telecomunicazioni dell’esercito: il buon esito dei test crea le condizioni per l’introduzione presso la truppa&lt;/h2&gt; &lt;p&gt;Il progetto complessivo «Telecomunicazione dell’esercito» (TC Es) comprende diversi progetti parziali che forniscono un contributo significativo alla trasformazione digitale del campo di battaglia. In questo ambito viene garantita l’interconnessione continua degli elementi della rete integrata di sensori, informazioni, condotta ed efficacia. In tale contesto i mezzi di comunicazione esistenti dell’esercito vengono gradualmente sostituiti. La sostituzione della comunicazione mobile è uno di questi progetti parziali e comprende i mezzi radio vincolati ai veicoli.&lt;/p&gt; &lt;p&gt;A causa delle sfide sorte all’interno del progetto parziale «Sostituzione della comunicazione mobile», dall’estate 2024 il progetto complessivo TC Es è stato classificato o valutato come «non in linea con le previsioni». Finora diverse nuove pianificazioni non sono andate a buon fine in quanto i sistemi in questione non erano maturi sotto il profilo tecnico. Per questa ragione è stato stabilito che nel quadro dell’attuale nuova pianificazione occorre svolgere test in parallelo. Le attività di test si sono concentrate su scenari rilevanti ai fini dell’impiego e sono state svolte in diverse fasi strutturate in modo progressivo. Tutti i componenti del progetto parziale «Sostituzione della comunicazione mobile» sono stati sottoposti ai test di maturità: gli apparecchi radio tattici vincolati ai veicoli, il router tattico, gli impianti di intercomunicazione di bordo e le cuffie di conversazione. Questi componenti sono stati integrati in diverse piattaforme (veicoli ruotati leggeri e pesanti) e sono stati testati insieme ai sistemi correlati come sistema complessivo allo scopo di riprodurre condizioni il più possibile simili a quelle d’impiego.&lt;/p&gt; &lt;p&gt;I test di maturità sono stati portati a termine con successo nel marzo 2026. Rispetto alle versioni precedenti è stata migliorata sensibilmente la qualità dei sistemi, in particolare per quanto concerne la stabilità, la facilità d’uso e l’efficacia operativa. L’attuale versione 7.5 soddisfa i requisiti per le imminenti attività di introduzione e di utilizzo presso la truppa sull’arco dei prossimi due anni.&lt;/p&gt; &lt;p&gt;La prossima tappa consisterà nell’ulteriore sviluppo e nella verifica della versione 8.0 nonché in una prova di ampia portata presso la truppa nel 2027.&lt;/p&gt; &lt;h2&gt;NEPRO: riorganizzazione decisa da swisstopo&lt;/h2&gt; &lt;p&gt;Nel quadro del programma «Nuovi sistemi di produzione» (NEPRO) swisstopo ammoderna e ottimizza la propria piattaforma di produzione di geodati allo scopo di rispondere ai requisiti sempre più elevati posti in termini di qualità, attualità ed efficienza. Il programma durerà fino al 2029 e comprende numerosi progetti volti a rinnovare l’infrastruttura tecnica e a ottimizzare i relativi processi. Tali progetti sono indispensabili per garantire l’ampia gamma di prodotti e servizi di swisstopo. La gamma di prodotti spazia dalla realizzazione di immagini aeree della Svizzera alle carte nazionali stampate e alle carte digitali, ai modelli paesaggistici e altimetrici.&lt;/p&gt; &lt;p&gt;Le sfide di carattere finanziario che swisstopo si trova ad affrontare in seguito alle misure di risparmio disposte dalla Confederazione nonché all’aumento dei costi d’esercizio comportano la necessità di adeguare l’entità del programma. Per questa ragione il programma NEPRO viene riorganizzato e concentrato sui suoi elementi fondamentali. Questi comprendono in particolare la sostituzione di tecnologie SIG obsolete e l’ammodernamento dei sistemi di base per la realizzazione del modello topografico del paesaggio (MTP) nonché delle carte topografiche nazionali. Si rinuncerà ai progetti trasversali che prevedevano un ammodernamento di ampia portata del sistema complessivo al di là dei sistemi di base nonché a progetti di ricerca e sviluppo.&lt;/p&gt; &lt;p&gt;L’adeguamento dei requisiti e il ridimensionamento del portafoglio di progetti impone una riduzione dei costi complessivi del programma. L’adeguamento della portata del programma permette di garantire che NEPRO crei le condizioni per il rinnovamento completo dell’infrastruttura di produzione negli ambiti della misurazione, della topografia (compreso il servizio di volo) nonché della cartografia tenendo conto delle risorse finanziarie disponibili.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://www.swisstopo.admin.ch/it/adattamento-degli-obiettivi-del-programma-nepro"&gt;Comunicato stampa dell’11 agosto 2025: Adattamento degli obiettivi del programma NEPRO&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetto-nepro-nuovi-sistemi-produzione-swisstopo"&gt;Progetto NEPRO – Nuovi sistemi di produzione swisstopo&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetto-telecomunicazione-esercito"&gt;Progetto TC Es – Telecomunicazione dell’esercito&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetti-principali"&gt;Progetti principali del DDPS – Panoramica dei progetti in corso&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
-      <contact>Reparto Comunicazione e Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Nettes avancées des projets TC A et NEPRO</title>
@@ -106,16 +98,24 @@
       <contact>Ressort Communication et Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Compiuti notevoli progressi nei progetti principali TC Es e NEPRO</title>
+      <lead>I progetti «TC Es» e «NEPRO» stanno registrando un’evoluzione positiva. Con il progetto TC Es l’esercito sta ammodernando le proprie capacità di trasmissione e connessione durante gli impieghi. Per quanto riguarda il progetto parziale «Sostituzione della comunicazione mobile» di TC Es, i test tecnici di maturità hanno dato esito positivo ed è stata approvata una nuova pianificazione. Nel quadro di una «change request» il progetto NEPRO verrà riorganizzato e servirà ad ammodernare i sistemi di produzione di swisstopo. Pertanto lo stato di questi progetti principali potrà essere sottoposto a una nuova valutazione nel prossimo periodo di rendicontazione.</lead>
+      <text link="no">&lt;p&gt;Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) conduce diverse centinaia di progetti. In tale contesto i progetti più complessi, che comportano i maggiori rischi, che hanno una notevole rilevanza finanziaria e che sono di importanza fondamentale per le capacità in materia di politica di sicurezza della Svizzera sono considerati progetti principali. Data la loro elevata rilevanza strategica questi progetti vengono gestiti da vicino, sottoposti a verifiche periodiche e monitorati per quanto riguarda i costi, le scadenze e i rischi.&lt;/p&gt; &lt;p&gt;A intervalli regolari il DDPS informa in merito allo stato dei progetti principali.&lt;/p&gt; &lt;h2&gt;Telecomunicazioni dell’esercito: il buon esito dei test crea le condizioni per l’introduzione presso la truppa&lt;/h2&gt; &lt;p&gt;Il progetto complessivo «Telecomunicazione dell’esercito» (TC Es) comprende diversi progetti parziali che forniscono un contributo significativo alla trasformazione digitale del campo di battaglia. In questo ambito viene garantita l’interconnessione continua degli elementi della rete integrata di sensori, informazioni, condotta ed efficacia. In tale contesto i mezzi di comunicazione esistenti dell’esercito vengono gradualmente sostituiti. La sostituzione della comunicazione mobile è uno di questi progetti parziali e comprende i mezzi radio vincolati ai veicoli.&lt;/p&gt; &lt;p&gt;A causa delle sfide sorte all’interno del progetto parziale «Sostituzione della comunicazione mobile», dall’estate 2024 il progetto complessivo TC Es è stato classificato o valutato come «non in linea con le previsioni». Finora diverse nuove pianificazioni non sono andate a buon fine in quanto i sistemi in questione non erano maturi sotto il profilo tecnico. Per questa ragione è stato stabilito che nel quadro dell’attuale nuova pianificazione occorre svolgere test in parallelo. Le attività di test si sono concentrate su scenari rilevanti ai fini dell’impiego e sono state svolte in diverse fasi strutturate in modo progressivo. Tutti i componenti del progetto parziale «Sostituzione della comunicazione mobile» sono stati sottoposti ai test di maturità: gli apparecchi radio tattici vincolati ai veicoli, il router tattico, gli impianti di intercomunicazione di bordo e le cuffie di conversazione. Questi componenti sono stati integrati in diverse piattaforme (veicoli ruotati leggeri e pesanti) e sono stati testati insieme ai sistemi correlati come sistema complessivo allo scopo di riprodurre condizioni il più possibile simili a quelle d’impiego.&lt;/p&gt; &lt;p&gt;I test di maturità sono stati portati a termine con successo nel marzo 2026. Rispetto alle versioni precedenti è stata migliorata sensibilmente la qualità dei sistemi, in particolare per quanto concerne la stabilità, la facilità d’uso e l’efficacia operativa. L’attuale versione 7.5 soddisfa i requisiti per le imminenti attività di introduzione e di utilizzo presso la truppa sull’arco dei prossimi due anni.&lt;/p&gt; &lt;p&gt;La prossima tappa consisterà nell’ulteriore sviluppo e nella verifica della versione 8.0 nonché in una prova di ampia portata presso la truppa nel 2027.&lt;/p&gt; &lt;h2&gt;NEPRO: riorganizzazione decisa da swisstopo&lt;/h2&gt; &lt;p&gt;Nel quadro del programma «Nuovi sistemi di produzione» (NEPRO) swisstopo ammoderna e ottimizza la propria piattaforma di produzione di geodati allo scopo di rispondere ai requisiti sempre più elevati posti in termini di qualità, attualità ed efficienza. Il programma durerà fino al 2029 e comprende numerosi progetti volti a rinnovare l’infrastruttura tecnica e a ottimizzare i relativi processi. Tali progetti sono indispensabili per garantire l’ampia gamma di prodotti e servizi di swisstopo. La gamma di prodotti spazia dalla realizzazione di immagini aeree della Svizzera alle carte nazionali stampate e alle carte digitali, ai modelli paesaggistici e altimetrici.&lt;/p&gt; &lt;p&gt;Le sfide di carattere finanziario che swisstopo si trova ad affrontare in seguito alle misure di risparmio disposte dalla Confederazione nonché all’aumento dei costi d’esercizio comportano la necessità di adeguare l’entità del programma. Per questa ragione il programma NEPRO viene riorganizzato e concentrato sui suoi elementi fondamentali. Questi comprendono in particolare la sostituzione di tecnologie SIG obsolete e l’ammodernamento dei sistemi di base per la realizzazione del modello topografico del paesaggio (MTP) nonché delle carte topografiche nazionali. Si rinuncerà ai progetti trasversali che prevedevano un ammodernamento di ampia portata del sistema complessivo al di là dei sistemi di base nonché a progetti di ricerca e sviluppo.&lt;/p&gt; &lt;p&gt;L’adeguamento dei requisiti e il ridimensionamento del portafoglio di progetti impone una riduzione dei costi complessivi del programma. L’adeguamento della portata del programma permette di garantire che NEPRO crei le condizioni per il rinnovamento completo dell’infrastruttura di produzione negli ambiti della misurazione, della topografia (compreso il servizio di volo) nonché della cartografia tenendo conto delle risorse finanziarie disponibili.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://www.swisstopo.admin.ch/it/adattamento-degli-obiettivi-del-programma-nepro"&gt;Comunicato stampa dell’11 agosto 2025: Adattamento degli obiettivi del programma NEPRO&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetto-nepro-nuovi-sistemi-produzione-swisstopo"&gt;Progetto NEPRO – Nuovi sistemi di produzione swisstopo&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetto-telecomunicazione-esercito"&gt;Progetto TC Es – Telecomunicazione dell’esercito&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.vbs.admin.ch/it/progetti-principali"&gt;Progetti principali del DDPS – Panoramica dei progetti in corso&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Reparto Comunicazione e Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="3">
         <name lang="de">Armee</name>
       </topic>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

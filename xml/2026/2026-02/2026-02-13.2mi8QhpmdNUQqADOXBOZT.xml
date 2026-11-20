@@ -6,11 +6,11 @@
     <pubdate>2026-02-13</pubdate>
     <originator id="1080" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
-      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
       <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
       <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
@@ -23,16 +23,16 @@
       <name lang="en">Federal Office of Communications</name>
       <name lang="fr">Office fédéral de la communication</name>
       <name lang="it">Ufficio federale delle comunicazioni</name>
+      <www lang="de">http://www.bakom.admin.ch/</www>
+      <www lang="en">http://www.bakom.admin.ch/en</www>
       <www lang="fr">http://www.bakom.admin.ch/fr</www>
       <www lang="it">http://www.bakom.admin.ch/it</www>
       <www lang="rm">http://www.bakom.admin.ch/rm</www>
-      <www lang="de">http://www.bakom.admin.ch/</www>
-      <www lang="en">http://www.bakom.admin.ch/en</www>
+      <email lang="en">media@bakom.admin.ch</email>
       <email lang="fr">media@bakom.admin.ch</email>
       <email lang="it">media@bakom.admin.ch</email>
       <email lang="rm">media@bakom.admin.ch</email>
       <email lang="de">media@bakom.admin.ch</email>
-      <email lang="en">media@bakom.admin.ch</email>
     </originator>
     <originator id="701" department-msg="no" lead="yes" topnews="no">
       <department-id>701</department-id>
@@ -41,24 +41,31 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="rm">https://www.wbf.admin.ch/rm</www>
       <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
-      <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
-      <email lang="en">info@gs-wbf.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="12708" org-id="701">
-        <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+      </keyword>
+      <keyword id="12708" org-id="701">
+        <name lang="rm">presidence2026</name>
+        <name lang="fr">presidence2026</name>
+        <name lang="de">presidence2026</name>
+        <name lang="en">presidence2026</name>
+        <name lang="it">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
         <name lang="de">presidence2026</name>
@@ -68,36 +75,29 @@
         <name lang="fr">presidence2026</name>
       </keyword>
       <keyword id="12708" org-id="701">
+        <name lang="de">presidence2026</name>
         <name lang="en">presidence2026</name>
         <name lang="it">presidence2026</name>
         <name lang="rm">presidence2026</name>
         <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
-      </keyword>
-      <keyword id="12708" org-id="701">
-        <name lang="it">presidence2026</name>
-        <name lang="rm">presidence2026</name>
-        <name lang="fr">presidence2026</name>
-        <name lang="de">presidence2026</name>
-        <name lang="en">presidence2026</name>
       </keyword>
     </keywords>
     <department id="801">
+      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
       <name lang="de">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation</name>
-      <name lang="en">Federal Department of the Environment, Transport, Energy and Communications</name>
       <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
       <www lang="de">https://www.uvek.admin.ch/de</www>
-      <email lang="it">info@gs-uvek.admin.ch</email>
-      <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
+      <email lang="it">info@gs-uvek.admin.ch</email>
+      <email lang="rm">info@gs-uvek.admin.ch</email>
     </department>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
@@ -105,11 +105,11 @@
       <name lang="fr">Département fédéral de l'économie, de la formation et de la recherche</name>
       <name lang="it">Dipartimento federale dell'economia, della formazione e della ricerca</name>
       <name lang="rm">Departament federal d’economia, furmaziun e retschertga</name>
+      <www lang="de">https://www.wbf.admin.ch/de</www>
       <www lang="en">https://www.wbf.admin.ch/en</www>
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
-      <www lang="de">https://www.wbf.admin.ch/de</www>
       <email lang="fr">info@gs-wbf.admin.ch</email>
       <email lang="it">info@gs-wbf.admin.ch</email>
       <email lang="rm">info@gs-wbf.admin.ch</email>
@@ -122,6 +122,14 @@
       <lead>Il presidente della Confederazione Guy Parmelin rappresenterà la Svizzera al vertice sugli effetti dell’intelligenza artificiale (Artificial Intelligence Impact Summit) che si terrà la prossima settimana nella capitale dell’India Nuova Delhi. Il vertice offrirà in particolare l’occasione per uno scambio di vedute sull’implementazione e l’utilizzo dell’IA. Nel corso della visita, giovedì 19 febbraio 2026 il presidente della Confederazione incontrerà alcuni capi di Stato e di Governo e avrà un colloquio bilaterale con il primo ministro indiano Narendra Modi.</lead>
       <text link="no">&lt;p&gt;All’inizio del suo programma, il presidente della Confederazione Guy Parmelin parteciperà all’inaugurazione dell’esposizione allestita in occasione del vertice e visiterà il padiglione svizzero. Nella giornata di giovedì è poi previsto un incontro con il primo ministro indiano Narendra Modi. Il presidente della Confederazione approfitterà dell’occasione fornita dal vertice sull’intelligenza artificiale (IA) per condurre ulteriori colloqui con alcuni capi di Stato e di Governo e per uno scambio di opinioni con rappresentanti della politica, dell’economia, della scienza e della società civile. L’appuntamento di Nuova Delhi fa seguito ai vertici sull’IA che si sono tenuti a Bletchley Park (Regno Unito) nel 2023, a Seoul nel 2024 e a Parigi nel 2025. Si tratta dell’incontro di alto livello più importante finora mai organizzato sul tema dell’IA.&lt;/p&gt; &lt;p&gt;Questo viaggio si svolgerà anche in prospettiva del vertice sull’IA che la Svizzera ha intenzione di organizzare a Ginevra nel 2027, nell’intento di contribuire ad alimentare il dibattito attuale sull’uso dell’IA e sulla sua governance e regolamentazione a livello internazionale. In India verrà anche posto in risalto il ruolo del nostro Paese quale centro di ricerca e d’innovazione. La Svizzera intende in particolare sottolineare l’importanza che il diritto internazionale e i diritti fondamentali hanno nello sviluppo e nell’uso dell’IA.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Link:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.eda.admin.ch/countries/india/it/home/la-svizzera-e/relazioni-bilaterali.html"&gt;Relazioni bilaterali Svizzera–India&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://impact.indiaai.gov.in/"&gt;India AI Impact Summit 2026&lt;/a&gt;&lt;/p&gt;</text>
       <contact>Comunicazione DEFR +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Berna</city>
+      <title>President Parmelin to attend summit on artificial intelligence in India</title>
+      <lead>President Guy Parmelin will represent Switzerland at the AI Impact Summit in New Delhi next week. The summit serves as a forum for discussions on the implementation and use of AI. During his visit to the event on Thursday, 19 February, Mr Parmelin will meet with heads of state and government and hold bilateral talks with Indian Prime Minister Narendra Modi.</lead>
+      <text link="no">&lt;p&gt;As a prelude to the main programme, Mr Parmelin will attend the opening of the AI Impact Expo and visit the Swiss pavilion. A meeting with Prime Minister Modi is planned for Thursday. Mr Parmelin will use the AI Impact Summit as an opportunity to hold further discussions with heads of state and government, and will exchange views with representatives from politics, business, academia and civil society. The New Delhi summit follows on from the AI summits held at Bletchley Park (UK) in 2023, Seoul in 2024 and Paris in 2025. It is currently the most important high-level meeting on the topic of AI.&lt;/p&gt; &lt;p&gt;This trip is also taking place with a view to Switzerland's intention to host the AI Summit in Geneva in 2027 and to contribute to the ongoing discussion on the use of AI and its international governance and regulation. In India, Switzerland's role as a centre for research and innovation will also be highlighted. In particular, Switzerland wishes to emphasise the importance of international law and fundamental rights in the development and use of AI.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Further information:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.eda.admin.ch/countries/india/en/home/switzerland-and/bilateral-relations.html"&gt;Bilateral relations Switzerland–India&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://impact.indiaai.gov.in/"&gt;India AI Impact Summit 2026&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="fr">
@@ -140,14 +148,6 @@
       <contact>Kommunikation WBF +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Berna</city>
-      <title>President Parmelin to attend summit on artificial intelligence in India</title>
-      <lead>President Guy Parmelin will represent Switzerland at the AI Impact Summit in New Delhi next week. The summit serves as a forum for discussions on the implementation and use of AI. During his visit to the event on Thursday, 19 February, Mr Parmelin will meet with heads of state and government and hold bilateral talks with Indian Prime Minister Narendra Modi.</lead>
-      <text link="no">&lt;p&gt;As a prelude to the main programme, Mr Parmelin will attend the opening of the AI Impact Expo and visit the Swiss pavilion. A meeting with Prime Minister Modi is planned for Thursday. Mr Parmelin will use the AI Impact Summit as an opportunity to hold further discussions with heads of state and government, and will exchange views with representatives from politics, business, academia and civil society. The New Delhi summit follows on from the AI summits held at Bletchley Park (UK) in 2023, Seoul in 2024 and Paris in 2025. It is currently the most important high-level meeting on the topic of AI.&lt;/p&gt; &lt;p&gt;This trip is also taking place with a view to Switzerland's intention to host the AI Summit in Geneva in 2027 and to contribute to the ongoing discussion on the use of AI and its international governance and regulation. In India, Switzerland's role as a centre for research and innovation will also be highlighted. In particular, Switzerland wishes to emphasise the importance of international law and fundamental rights in the development and use of AI.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Further information:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.eda.admin.ch/countries/india/en/home/switzerland-and/bilateral-relations.html"&gt;Bilateral relations Switzerland–India&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://impact.indiaai.gov.in/"&gt;India AI Impact Summit 2026&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>EAER Communications +41 58 462 20 07 info@gs-wbf.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="28">
         <name lang="de">Telekommunikation</name>
@@ -157,25 +157,25 @@
         <name lang="rm">Telecommunicaziun</name>
       </topic>
       <topic id="104">
-        <name lang="rm">Guy Parmelin</name>
         <name lang="de">Guy Parmelin</name>
         <name lang="en">Guy Parmelin</name>
         <name lang="fr">Guy Parmelin</name>
         <name lang="it">Guy Parmelin</name>
+        <name lang="rm">Guy Parmelin</name>
       </topic>
       <topic id="39">
+        <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
-        <name lang="de">Ausland</name>
       </topic>
       <topic id="336">
-        <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
-        <name lang="en">Economic Cooperation and Development</name>
         <name lang="fr">Coopération et développement économiques</name>
         <name lang="it">Cooperazione e sviluppo economici</name>
         <name lang="rm">Collavuraziun e svilup economic</name>
+        <name lang="de">Wirtschaftliche Zusammenarbeit und Entwicklung</name>
+        <name lang="en">Economic Cooperation and Development</name>
       </topic>
       <topic id="634">
         <name lang="de">Aussenwirtschaft</name>
@@ -192,25 +192,25 @@
         <name lang="rm">Preschentaziuns</name>
       </topic>
       <topic id="436">
-        <name lang="it">Promozione della scienza</name>
         <name lang="rm">Promoziun da la scienza</name>
         <name lang="de">Wissenschaftsförderung</name>
         <name lang="en">Science promotion</name>
         <name lang="fr">Promotion de la science</name>
+        <name lang="it">Promozione della scienza</name>
       </topic>
       <topic id="16">
-        <name lang="it">Politica estera</name>
-        <name lang="rm">Politica exteriura</name>
         <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
+        <name lang="it">Politica estera</name>
+        <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="43">
-        <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
         <name lang="rm">Savida e statistica</name>
+        <name lang="de">Wissen &amp; Statistik</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -220,25 +220,25 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="36">
-        <name lang="fr">Transformation numérique, communication et médias</name>
         <name lang="it">Digitalizzazione, comunicazione e media</name>
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
+        <name lang="fr">Transformation numérique, communication et médias</name>
       </topic>
       <topic id="10">
-        <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
         <name lang="en">Federal Council</name>
         <name lang="fr">Conseil fédéral</name>
+        <name lang="it">Consiglio federale</name>
       </topic>
       <topic id="33">
+        <name lang="de">Bundespräsidium</name>
         <name lang="en">Federal Presidency</name>
         <name lang="fr">Présidence de la Confédération</name>
         <name lang="it">Presidenza delle Confederazione</name>
         <name lang="rm">Presidi da la Confederaziun</name>
-        <name lang="de">Bundespräsidium</name>
       </topic>
     </topics>
     <offers/>

@@ -55,7 +55,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:16:16",
-            "version": "23.0.0"
+            "version": "27.0.0"
           },
           "documentId": 19641,
           "documentType": "page",
@@ -67,7 +67,7 @@
           "significantPublicationDate": "2026-06-29T15:27:51.665Z",
           "title": "Schweizweite Panne bei den Geräten zur Sirenenfernsteuerung",
           "updatedAt": "2026-06-29T15:27:51.665Z",
-          "version": 14,
+          "version": 15,
           "visiblePublicationDate": "2026-06-29T15:27:51.665Z"
         }
       },
@@ -95,7 +95,15 @@
     },
     "fr": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "19",
+          "topics": [
+            "395",
+            "532"
+          ]
+        }
+      ],
       "coPublishers": [
         "19"
       ],
@@ -138,7 +146,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:16:16",
-            "version": "23.0.0"
+            "version": "27.0.0"
           },
           "documentId": 19674,
           "documentType": "page",
@@ -150,7 +158,7 @@
           "significantPublicationDate": "2026-06-29T16:37:17.922Z",
           "title": "Panne à l’échelle nationale des dispositifs de commande à distance des sirènes",
           "updatedAt": "2026-06-29T16:37:17.922Z",
-          "version": 7,
+          "version": 8,
           "visiblePublicationDate": "2026-06-29T16:37:17.922Z"
         }
       },
@@ -178,7 +186,15 @@
     },
     "it": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "19",
+          "topics": [
+            "395",
+            "532"
+          ]
+        }
+      ],
       "coPublishers": [
         "19"
       ],
@@ -221,7 +237,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:16:16",
-            "version": "23.0.0"
+            "version": "27.0.0"
           },
           "documentId": 19675,
           "documentType": "page",
@@ -233,7 +249,7 @@
           "significantPublicationDate": "2026-06-29T16:37:12.444Z",
           "title": "Panne a livello nazionale dei dispositivi di telecomando delle sirene",
           "updatedAt": "2026-06-29T16:37:12.444Z",
-          "version": 8,
+          "version": 9,
           "visiblePublicationDate": "2026-06-29T16:37:12.444Z"
         }
       },

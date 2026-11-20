@@ -11,49 +11,53 @@
       <name lang="en">Swiss Federal Archives</name>
       <name lang="fr">Archives fédérales suisses</name>
       <name lang="it">Archivio federale svizzero</name>
-      <www lang="de">https://www.bar.admin.ch/</www>
-      <email lang="rm">stab@bar.admin.ch</email>
-      <email lang="de">stab@bar.admin.ch</email>
+      <www lang="it">https://www.bar.admin.ch/it</www>
+      <www lang="rm">https://www.bar.admin.ch</www>
+      <www lang="de">https://www.bar.admin.ch</www>
+      <www lang="en">https://www.bar.admin.ch/en</www>
+      <www lang="fr">https://www.bar.admin.ch/fr</www>
       <email lang="en">stab@bar.admin.ch</email>
       <email lang="fr">stab@bar.admin.ch</email>
       <email lang="it">stab@bar.admin.ch</email>
+      <email lang="rm">stab@bar.admin.ch</email>
+      <email lang="de">stab@bar.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-003" org-id="315">
-        <name lang="de">Archive</name>
         <name lang="en">Archives</name>
         <name lang="fr">Archives</name>
         <name lang="it">Archivi</name>
+        <name lang="de">Archive</name>
       </keyword>
       <keyword id="SLW-008" org-id="315">
+        <name lang="it">Archiviazione digitale</name>
         <name lang="de">Digitale Archivierung</name>
         <name lang="en">Digital archiving</name>
         <name lang="fr">Archivage numérique</name>
-        <name lang="it">Archiviazione digitale</name>
       </keyword>
       <keyword id="SLW-013" org-id="315">
-        <name lang="de">Informationsmanagement</name>
         <name lang="en">Information management</name>
         <name lang="fr">Gestion de l’information</name>
         <name lang="it">Gestione delle informazioni</name>
+        <name lang="de">Informationsmanagement</name>
       </keyword>
       <keyword id="SLW-020" org-id="315">
+        <name lang="de">Records Management</name>
         <name lang="en">Records Management</name>
         <name lang="fr">Records Management</name>
         <name lang="it">Records Management</name>
-        <name lang="de">Records Management</name>
       </keyword>
       <keyword id="SLW-003" org-id="315">
-        <name lang="de">Archive</name>
         <name lang="en">Archives</name>
         <name lang="fr">Archives</name>
         <name lang="it">Archivi</name>
+        <name lang="de">Archive</name>
       </keyword>
       <keyword id="SLW-008" org-id="315">
+        <name lang="it">Archiviazione digitale</name>
         <name lang="de">Digitale Archivierung</name>
         <name lang="en">Digital archiving</name>
         <name lang="fr">Archivage numérique</name>
-        <name lang="it">Archiviazione digitale</name>
       </keyword>
       <keyword id="SLW-013" org-id="315">
         <name lang="de">Informationsmanagement</name>
@@ -93,15 +97,15 @@
       </keyword>
     </keywords>
     <department id="301">
-      <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
+      <name lang="rm">Departament federal da l’intern</name>
+      <name lang="de">Eidgenössisches Departement des Innern</name>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
       <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
     </department>
     <content lang="it">
@@ -130,11 +134,11 @@
     </content>
     <topics>
       <topic id="430">
+        <name lang="de">Bundesarchiv</name>
         <name lang="en">Federal Archives</name>
         <name lang="fr">Archives fédérales</name>
         <name lang="it">Archivio federale svizzero</name>
         <name lang="rm">Archiv federal</name>
-        <name lang="de">Bundesarchiv</name>
       </topic>
       <topic id="7">
         <name lang="de">Bibliothek &amp; Archiv</name>

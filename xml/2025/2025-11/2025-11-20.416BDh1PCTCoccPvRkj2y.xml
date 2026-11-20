@@ -6,29 +6,29 @@
     <pubdate>2025-11-20</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
+      <name lang="de">Bundesamt für Statistik</name>
+      <www lang="de">https://www.bfs.admin.ch/</www>
+      <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
       <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
       <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
-      <www lang="de">https://www.bfs.admin.ch/</www>
-      <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
+      <email lang="de">media@bfs.admin.ch</email>
+      <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
       <email lang="it">media@bfs.admin.ch</email>
       <email lang="rm">media@bfs.admin.ch</email>
-      <email lang="de">media@bfs.admin.ch</email>
-      <email lang="en">media@bfs.admin.ch</email>
     </originator>
     <originator id="1080" department-msg="no" lead="no" topnews="no">
       <department-id>701</department-id>
+      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
+      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <name lang="de">Staatssekretariat für Bildung, Forschung und Innovation</name>
       <name lang="en">State Secretariat for Education, Research and Innovation</name>
       <name lang="fr">Secrétariat d'État à la formation, à la recherche et à l'innovation</name>
-      <name lang="it">Segreteria di Stato per la formazione, la ricerca e l'innovazione</name>
-      <name lang="rm">Secretariat da stadi per furmaziun, retschertga ed innovaziun</name>
       <www lang="de">https://www.sbfi.admin.ch</www>
       <www lang="en">https://www.sbfi.admin.ch/en</www>
       <www lang="fr">https://www.sbfi.admin.ch/fr</www>
@@ -36,12 +36,6 @@
     </originator>
     <keywords>
       <keyword id="SLW-317.16" org-id="318">
-        <name lang="en">Education and science</name>
-        <name lang="fr">Education et science</name>
-        <name lang="it">Formazione e scienza</name>
-        <name lang="de">Bildung und Wissenschaft</name>
-      </keyword>
-      <keyword id="SLW-317.16" org-id="318">
         <name lang="de">Bildung und Wissenschaft</name>
         <name lang="en">Education and science</name>
         <name lang="fr">Education et science</name>
@@ -52,6 +46,12 @@
         <name lang="de">Bildung und Wissenschaft</name>
         <name lang="en">Education and science</name>
         <name lang="fr">Education et science</name>
+      </keyword>
+      <keyword id="SLW-317.16" org-id="318">
+        <name lang="fr">Education et science</name>
+        <name lang="it">Formazione e scienza</name>
+        <name lang="de">Bildung und Wissenschaft</name>
+        <name lang="en">Education and science</name>
       </keyword>
       <keyword id="SLW-317.16" org-id="318">
         <name lang="de">Bildung und Wissenschaft</name>
@@ -61,16 +61,16 @@
       </keyword>
     </keywords>
     <department id="301">
+      <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
       <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
-      <name lang="rm">Departament federal da l’intern</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
+      <www lang="de">https://www.edi.admin.ch</www>
     </department>
     <department id="701">
       <name lang="de">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</name>
@@ -83,12 +83,20 @@
       <www lang="fr">https://www.wbf.admin.ch/fr</www>
       <www lang="it">https://www.wbf.admin.ch/it</www>
       <www lang="rm">https://www.wbf.admin.ch/rm</www>
+      <email lang="it">info@gs-wbf.admin.ch</email>
+      <email lang="rm">info@gs-wbf.admin.ch</email>
       <email lang="de">info@gs-wbf.admin.ch</email>
       <email lang="en">info@gs-wbf.admin.ch</email>
       <email lang="fr">info@gs-wbf.admin.ch</email>
-      <email lang="it">info@gs-wbf.admin.ch</email>
-      <email lang="rm">info@gs-wbf.admin.ch</email>
     </department>
+    <content lang="en">
+      <city>Neuchâtel</city>
+      <title>In 2024, fewer students had experienced international mobility</title>
+      <lead>In 2024, 19% of students in higher education in Switzerland had undertaken a temporary study period, work placement or other mobility experience in another country since starting their studies, seven percentage points lower than in 2020 (26%). When surveyed for the first time about their experiences of discrimination, 25% of students said they felt discriminated against in their studies on various grounds such as gender, nationality or language. Many more findings are presented in the main report of the 2024 Survey on the Social and Economic Situation of Students, conducted by the Federal Statistical Office (FSO).</lead>
+      <text link="no">&lt;p&gt;This press release and further information on this topic can be found on the &lt;a href="https://www.bfs.admin.ch/news/en/2025-0184"&gt;FSO website&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>FSO, Education System section Philipp Fischer +41 58 463 69 59 soziale.lage@bfs.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="fr">
       <city>Neuchâtel</city>
       <title>Moins d’étudiants avec une expérience de mobilité internationale en 2024</title>
@@ -105,14 +113,6 @@
       <contact>UST, Sistema di formazione Philipp Fischer +41 58 463 69 59 soziale.lage@bfs.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="en">
-      <city>Neuchâtel</city>
-      <title>In 2024, fewer students had experienced international mobility</title>
-      <lead>In 2024, 19% of students in higher education in Switzerland had undertaken a temporary study period, work placement or other mobility experience in another country since starting their studies, seven percentage points lower than in 2020 (26%). When surveyed for the first time about their experiences of discrimination, 25% of students said they felt discriminated against in their studies on various grounds such as gender, nationality or language. Many more findings are presented in the main report of the 2024 Survey on the Social and Economic Situation of Students, conducted by the Federal Statistical Office (FSO).</lead>
-      <text link="no">&lt;p&gt;This press release and further information on this topic can be found on the &lt;a href="https://www.bfs.admin.ch/news/en/2025-0184"&gt;FSO website&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>FSO, Education System section Philipp Fischer +41 58 463 69 59 soziale.lage@bfs.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Neuchâtel</city>
       <title>Weniger Studierende mit internationaler Mobilitätserfahrung im Jahr 2024</title>
@@ -123,11 +123,11 @@
     </content>
     <topics>
       <topic id="8">
-        <name lang="fr">Formation, recherche &amp; innovation</name>
-        <name lang="it">Formazione, ricerca &amp; innovazione</name>
         <name lang="rm">Furmaziun, retschertga &amp; innovaziun</name>
         <name lang="de">Bildung, Forschung &amp; Innovation</name>
         <name lang="en">Education, Research &amp; Innovation</name>
+        <name lang="fr">Formation, recherche &amp; innovation</name>
+        <name lang="it">Formazione, ricerca &amp; innovazione</name>
       </topic>
       <topic id="43">
         <name lang="de">Wissen &amp; Statistik</name>

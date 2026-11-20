@@ -6,39 +6,31 @@
     <pubdate>2026-06-30</pubdate>
     <originator id="1087" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Dienst Überwachung Post- und Fernmeldeverkehr</name>
+      <name lang="en">Post and Telecommunications Surveillance Service</name>
       <name lang="fr">Surveillance de la correspondance par poste et télécommunication</name>
       <name lang="it"> Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni</name>
       <name lang="rm">Servetsch Surveglianza da la correspundenza postala e dal traffic da telecommunicaziun</name>
-      <name lang="de">Dienst Überwachung Post- und Fernmeldeverkehr</name>
-      <name lang="en">Post and Telecommunications Surveillance Service</name>
       <www lang="de">https://www.li.admin.ch/de</www>
     </originator>
     <keywords/>
     <department id="401">
+      <name lang="rm">Departament federal de giustia e polizia</name>
       <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
-      <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
-      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
+      <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
+      <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
       <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Rapporto annuale 2025 del Servizio SCPT</title>
-      <lead>È ora disponibile il rapporto annuale 2025 del Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (Servizio SCPT).</lead>
-      <text link="no">&lt;p&gt;Il rapporto fornisce una retrospettiva dell'anno passato, illustra la collaborazione del Servizio SCPT con i fornitori di servizi di telecomunicazione e le autorità di perseguimento penale e documenta la sua attività con cifre e fatti.&lt;/p&gt; &lt;p&gt;Il rapporto annuale è pubblicato in diverse lingue e può essere consultato in Internet all'indirizzo &lt;a target="_blank" href="https://www.li.admin.ch/it"&gt;www.li.admin.ch&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>capo supplente del Servizio SCPT, caposettore Diritto e Controlling Jean-Louis Biberstein Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni jean-louis.biberstein@isc-ejpd.admin.ch +41 58 462 26 27</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Rapport annuel 2025 du Service SCPT</title>
@@ -55,13 +47,21 @@
       <contact>Stv. Leiter Dienst ÜPF, Leiter Recht &amp;amp; Controlling Jean-Louis Biberstein Dienst Überwachung Post- und Fernmeldeverkehr jean-louis.biberstein@isc-ejpd.admin.ch +41 58 462 26 27</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Rapporto annuale 2025 del Servizio SCPT</title>
+      <lead>È ora disponibile il rapporto annuale 2025 del Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (Servizio SCPT).</lead>
+      <text link="no">&lt;p&gt;Il rapporto fornisce una retrospettiva dell'anno passato, illustra la collaborazione del Servizio SCPT con i fornitori di servizi di telecomunicazione e le autorità di perseguimento penale e documenta la sua attività con cifre e fatti.&lt;/p&gt; &lt;p&gt;Il rapporto annuale è pubblicato in diverse lingue e può essere consultato in Internet all'indirizzo &lt;a target="_blank" href="https://www.li.admin.ch/it"&gt;www.li.admin.ch&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>capo supplente del Servizio SCPT, caposettore Diritto e Controlling Jean-Louis Biberstein Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni jean-louis.biberstein@isc-ejpd.admin.ch +41 58 462 26 27</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="26">
-        <name lang="it">Diritto</name>
-        <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
+        <name lang="it">Diritto</name>
+        <name lang="rm">Dretg</name>
       </topic>
     </topics>
     <offers/>

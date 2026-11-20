@@ -6,11 +6,11 @@
     <pubdate>2026-04-30</pubdate>
     <originator id="805" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="rm">Uffizi federal da traffic</name>
-      <name lang="de">Bundesamt für Verkehr</name>
       <name lang="en">Federal Office of Transport</name>
       <name lang="fr">Office fédéral des transports</name>
       <name lang="it">Ufficio federale dei trasporti</name>
+      <name lang="rm">Uffizi federal da traffic</name>
+      <name lang="de">Bundesamt für Verkehr</name>
       <www lang="de">http://www.bav.admin.ch/</www>
       <www lang="en">http://www.bav.admin.ch/</www>
       <www lang="fr">http://www.bav.admin.ch/</www>
@@ -66,18 +66,18 @@
     </content>
     <topics>
       <topic id="628">
+        <name lang="de">Verkehrsinfrastruktur</name>
         <name lang="en">Transport infrastructure</name>
         <name lang="fr">Infrastructures de transport</name>
         <name lang="it">Infrastruttura per i trasporti</name>
         <name lang="rm">Infrastructura dal traffic</name>
-        <name lang="de">Verkehrsinfrastruktur</name>
       </topic>
       <topic id="621">
-        <name lang="de">Öffentlicher Verkehr</name>
         <name lang="en">Public transport</name>
         <name lang="fr">Transports publics</name>
         <name lang="it">Trasporto pubblico</name>
         <name lang="rm">Traffic public</name>
+        <name lang="de">Öffentlicher Verkehr</name>
       </topic>
       <topic id="619">
         <name lang="de">Eisenbahn</name>
@@ -100,10 +100,10 @@
         <name lang="it">Mobilità</name>
       </topic>
       <topic id="109">
-        <name lang="it">Infrastruttura</name>
         <name lang="de">Infrastruktur</name>
         <name lang="en">Infrastructure</name>
         <name lang="fr">Infrastructures</name>
+        <name lang="it">Infrastruttura</name>
       </topic>
     </topics>
     <offers/>

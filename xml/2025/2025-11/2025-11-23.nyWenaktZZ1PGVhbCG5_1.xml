@@ -4,23 +4,6 @@
     <type>Memorandum</type>
     <version>1</version>
     <pubdate>2025-11-23</pubdate>
-    <originator id="1097" department-msg="no" lead="no" topnews="no">
-      <department-id>301</department-id>
-      <name lang="de">Institut für Virologie und Immunologie</name>
-      <name lang="en">Institute of Virology and Immunology</name>
-      <name lang="fr">Institut de virologie et d'immunologie</name>
-      <name lang="it">Istituto di virologia e immunologia</name>
-      <name lang="rm">Institut da virologia e d'immunologia</name>
-      <www lang="de">https://www.ivi.admin.ch</www>
-      <www lang="en">https://www.ivi.admin.ch/en</www>
-      <www lang="fr">https://www.ivi.admin.ch/fr</www>
-      <www lang="it">https://www.ivi.admin.ch/it</www>
-      <email lang="de">communication@ivi.admin.ch</email>
-      <email lang="en">communication@ivi.admin.ch</email>
-      <email lang="fr">communication@ivi.admin.ch</email>
-      <email lang="it">communication@ivi.admin.ch</email>
-      <email lang="rm">communication@ivi.admin.ch</email>
-    </originator>
     <originator id="1079" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
@@ -28,28 +11,55 @@
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
       <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
       <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
+      <www lang="fr">https://www.blv.admin.ch/fr</www>
+      <www lang="it">https://www.blv.admin.ch/it</www>
+      <www lang="rm">https://www.blv.admin.ch</www>
       <www lang="de">https://www.blv.admin.ch</www>
-      <www lang="fr">https://www.blv.admin.ch/blv/fr/home.html</www>
-      <www lang="it">https://www.blv.admin.ch/blv/it/home.html</www>
+      <www lang="en">https://www.blv.admin.ch/en</www>
+      <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
       <email lang="de">media@blv.admin.ch</email>
-      <email lang="en">media@blv.admin.ch</email>
+    </originator>
+    <originator id="1097" department-msg="no" lead="no" topnews="no">
+      <department-id>301</department-id>
+      <name lang="rm">Institut da virologia e d'immunologia</name>
+      <name lang="de">Institut für Virologie und Immunologie</name>
+      <name lang="en">Institute of Virology and Immunology</name>
+      <name lang="fr">Institut de virologie et d'immunologie</name>
+      <name lang="it">Istituto di virologia e immunologia</name>
+      <www lang="en">https://www.ivi.admin.ch/en</www>
+      <www lang="fr">https://www.ivi.admin.ch/fr</www>
+      <www lang="it">https://www.ivi.admin.ch/it</www>
+      <www lang="de">https://www.ivi.admin.ch</www>
+      <email lang="it">communication@ivi.admin.ch</email>
+      <email lang="rm">communication@ivi.admin.ch</email>
+      <email lang="de">communication@ivi.admin.ch</email>
+      <email lang="en">communication@ivi.admin.ch</email>
+      <email lang="fr">communication@ivi.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="de">Eidgenössisches Departement des Innern</name>
+      <name lang="en">Federal Department of Home Affairs</name>
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
-      <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
+      <www lang="de">https://www.edi.admin.ch</www>
     </department>
+    <content lang="de">
+      <city>Bern</city>
+      <title>Vogelgrippe: Ausweitung der Präventionsmassnahmen auf die ganze Schweiz</title>
+      <lead>Nach dem Nachweis des Vogelgrippevirus bei Enten und einem Schwan auf dem Stadtweiher in Wil (SG) am 21. November 2025 und angesichts der starken Zirkulation des Virus in Europa verstärkt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) die Prävention. In Absprache mit den Kantonen ordnet das BLV schweizweit geltende präventive Bekämpfungsmassnahmen an. Diese haben zum Ziel, die Ausbreitung der Krankheit zu verhindern und die Geflügelbestände zu schützen. Das BLV ruft alle Geflügelhalterinnen und -halter dazu auf, die vorgegebenen Präventions- und Biosicherheitsmassnahmen konsequent umzusetzen. Die angepasste Verordnung tritt am 25. November 2025 in Kraft und gilt bis zum 31. März 2026.</lead>
+      <text link="no">&lt;p&gt;Seit Anfang November 2025 wurden mehrere Wildvögel in der Schweiz positiv auf das hochpathogene Vogelgrippevirus getestet. Die am 21. November 2025 nachgewiesenen Fälle im Stadtweiher von Wil (SG) weisen jedoch eine wichtige Besonderheit auf: Die betroffenen Enten und der betroffene Schwan sind nicht Zugvögel, sondern leben ständig auf diesem Weiher. Diese Situation, die sich von den bisher beobachteten Fällen unterscheidet, tritt zudem zu einem Zeitpunkt auf, in dem das Virus in Europa stark zirkuliert, insbesondere bei den wandernden Arten, die sich derzeit in der Schweiz aufhalten. Vor diesem ungünstigen epidemiologischen Hintergrund verstärkt das BLV die Prävention, indem es seine Verordnung vom 6. November 2025 anpasst. Diese tritt am Dienstag, 25. November 2025, in Kraft. Das Beobachtungsgebiet wird auf die ganze Schweiz ausgeweitet und künftig gelten für alle Geflügelhalterinnen und -halter in der Schweiz einheitliche Schutzmassnahmen. Diese haben zum Ziel, jeglichen Kontakt zwischen Wildvögeln und Hausgeflügel zu vermeiden, um die Gefahr einer Einschleppung des Virus in die Geflügelbestände zu reduzieren.&lt;/p&gt; &lt;h2&gt;Von Geflügelhalterinnen und -haltern umzusetzende Schutzmassnahmen&lt;/h2&gt; &lt;p&gt;Ab dem Inkrafttreten der angepassten Verordnung müssen Geflügelhalterinnen und -halter mit 50 oder mehr Vögeln, folgende Massnahmen umsetzen. Für jene mit weniger als 50 empfiehlt das BLV, diese ebenfalls einzuhalten.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Der Auslauf des Hausgeflügels ist auf einen vor Wildvögeln geschützten Bereich zu beschränken. Ist dies nicht möglich, muss sichergestellt werden, dass die Futter- und Wasserstellen so geschützt sind, dass sie für Wildvögel nicht zugänglich sind (z. B. mit Netzen oder Überdachungen).&lt;/li&gt;&lt;li&gt;Vermeidung von Kontakten zwischen den Arten: Hühner, Enten, Gänse und Laufvögel sind getrennt zu halten.&lt;/li&gt;&lt;li&gt;Umsetzung strenger Biosicherheitsmassnahmen: Beschränkung des Zutritts zu den Ställen, Tragen von Schuhen und Kleider, die nur im Stallbereich verwendet werden, Hände vor dem Betreten der Ställe waschen und desinfizieren, wenn möglich Einrichtung von Hygieneschleusen.&lt;/li&gt;&lt;li&gt;Unnötige Besuche und Verschiebungen in den Geflügelbeständen sind auf ein Minimum zu beschränken.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Für Geflügelmärkte und -ausstellungen sowie andere Ansammlungen von Geflügel gelten während der Geltungsdauer der Verordnung Einschränkungen. Diese Bestimmungen gelten für alle Geflügelhaltungen in der ganzen Schweiz, unabhängig von der Anzahl der Tiere. Die Beiträge für die Programme «Besonders tierfreundliche Haltung» und «Regelmässiger Auslauf im Freien» werden weiterhin gewährt, sofern alle geltenden Vorschriften eingehalten werden. Die Kennzeichnung «Freilandhaltung» darf weiterhin verwendet werden.&lt;br&gt;&lt;br&gt;Die Pflicht, die Geflügelhaltungen bei den kantonalen Veterinärbehörden zu registrieren, bleibt in Kraft und gilt für alle Halterinnen und Halter, auch für Hobbyhaltungen.&lt;/p&gt; &lt;h2&gt;Erhöhte Wachsamkeit und Früherkennung im ganzen Land&lt;/h2&gt; &lt;p&gt;Die Geflügelhalterinnen und -halter spielen eine zentrale Rolle für die Früherkennung der Krankheit. Sie müssen ihre Tiere aufmerksam beobachten und bei verdächtigen Symptomen unverzüglich eine Tierärztin oder einen Tierarzt informieren. Atembeschwerden, Schwellungen im Kopfbereich, ein deutlicher Rückgang der Legeleistung, dünne oder fehlende Eischalen, ausgeprägte Apathie oder erhöhte Sterblichkeit können Hinweise auf eine Infektion sein. Bei den Wasservögeln können die Symptome unauffälliger sein oder ganz fehlen, weshalb Wachsamkeit besonders wichtig ist. &lt;br&gt;&lt;br&gt;Die Vogelgrippe ist eine hochansteckende Tierseuche, die meldepflichtig ist. Bei einem begründeten Verdacht oder einer Bestätigung ergreifen die zuständigen Behörden strenge Bekämpfungsmassnahmen gemäss der Tierseuchenverordnung, um die Ausbreitung der Krankheit zu verhindern.&lt;/p&gt; &lt;h2&gt;Tot aufgefundene Wildvögel nicht berühren&lt;/h2&gt; &lt;p&gt;Die Bevölkerung wird gebeten, tote oder kranke Wildvögel nicht zu berühren. Tot aufgefundene Vögel müssen der Wildhut, der Polizei oder dem kantonalen Veterinärdienst gemeldet werden, die die Vögel einsammeln und gegebenenfalls die nötigen Analysen durchführen. Diese Überwachung der Wildvögel ermöglicht, eine allfällige Viruszirkulation in der Schweiz rasch zu erkennen und die Massnahmen nötigenfalls anzupassen.&lt;br&gt;&lt;br&gt;Eine Übertragung des Vogelgrippevirus auf den Menschen ist äusserst selten und wurde bis jetzt nur in Einzelfällen nach engem, ungeschütztem Kontakt mit infizierten Vögeln beobachtet. Geflügelprodukte, wie Pouletfleisch und Eier, können weiterhin ohne Bedenken konsumiert werden.&lt;br&gt;&lt;br&gt;Mit einer koordinierten Verstärkung der Biosicherheitsmassnahmen in der ganzen Schweiz und erhöhter Wachsamkeit tragen die Geflügelhalterinnen und -halter, die kantonalen Behörden und das BLV gemeinsam dazu bei, die Gesundheit der Tiere zu schützen und die Auswirkungen der Vogelgrippe in der Schweiz dauerhaft zu begrenzen.&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai.html"&gt;Vogelgrippe&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/huehner/krankheiten-huehner.html"&gt;Geflügelkrankheiten&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.fedlex.admin.ch/eli/cc/2025/683/de"&gt;Verordnung&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Medienstelle Bundesamt für Lebensmittelsicherheit und Veterinärwesen +41 58 463 78 98 media@blv.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Grippe aviaire : mesures de prévention étendues à toute la Suisse</title>
@@ -66,14 +76,6 @@
       <contact>Servizio stampa Ufficio federale della sicurezza alimentare e di veterinaria +41 58 463 78 98 media@blv.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="de">
-      <city>Bern</city>
-      <title>Vogelgrippe: Ausweitung der Präventionsmassnahmen auf die ganze Schweiz</title>
-      <lead>Nach dem Nachweis des Vogelgrippevirus bei Enten und einem Schwan auf dem Stadtweiher in Wil (SG) am 21. November 2025 und angesichts der starken Zirkulation des Virus in Europa verstärkt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) die Prävention. In Absprache mit den Kantonen ordnet das BLV schweizweit geltende präventive Bekämpfungsmassnahmen an. Diese haben zum Ziel, die Ausbreitung der Krankheit zu verhindern und die Geflügelbestände zu schützen. Das BLV ruft alle Geflügelhalterinnen und -halter dazu auf, die vorgegebenen Präventions- und Biosicherheitsmassnahmen konsequent umzusetzen. Die angepasste Verordnung tritt am 25. November 2025 in Kraft und gilt bis zum 31. März 2026.</lead>
-      <text link="no">&lt;p&gt;Seit Anfang November 2025 wurden mehrere Wildvögel in der Schweiz positiv auf das hochpathogene Vogelgrippevirus getestet. Die am 21. November 2025 nachgewiesenen Fälle im Stadtweiher von Wil (SG) weisen jedoch eine wichtige Besonderheit auf: Die betroffenen Enten und der betroffene Schwan sind nicht Zugvögel, sondern leben ständig auf diesem Weiher. Diese Situation, die sich von den bisher beobachteten Fällen unterscheidet, tritt zudem zu einem Zeitpunkt auf, in dem das Virus in Europa stark zirkuliert, insbesondere bei den wandernden Arten, die sich derzeit in der Schweiz aufhalten. Vor diesem ungünstigen epidemiologischen Hintergrund verstärkt das BLV die Prävention, indem es seine Verordnung vom 6. November 2025 anpasst. Diese tritt am Dienstag, 25. November 2025, in Kraft. Das Beobachtungsgebiet wird auf die ganze Schweiz ausgeweitet und künftig gelten für alle Geflügelhalterinnen und -halter in der Schweiz einheitliche Schutzmassnahmen. Diese haben zum Ziel, jeglichen Kontakt zwischen Wildvögeln und Hausgeflügel zu vermeiden, um die Gefahr einer Einschleppung des Virus in die Geflügelbestände zu reduzieren.&lt;/p&gt; &lt;h2&gt;Von Geflügelhalterinnen und -haltern umzusetzende Schutzmassnahmen&lt;/h2&gt; &lt;p&gt;Ab dem Inkrafttreten der angepassten Verordnung müssen Geflügelhalterinnen und -halter mit 50 oder mehr Vögeln, folgende Massnahmen umsetzen. Für jene mit weniger als 50 empfiehlt das BLV, diese ebenfalls einzuhalten.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;Der Auslauf des Hausgeflügels ist auf einen vor Wildvögeln geschützten Bereich zu beschränken. Ist dies nicht möglich, muss sichergestellt werden, dass die Futter- und Wasserstellen so geschützt sind, dass sie für Wildvögel nicht zugänglich sind (z. B. mit Netzen oder Überdachungen).&lt;/li&gt;&lt;li&gt;Vermeidung von Kontakten zwischen den Arten: Hühner, Enten, Gänse und Laufvögel sind getrennt zu halten.&lt;/li&gt;&lt;li&gt;Umsetzung strenger Biosicherheitsmassnahmen: Beschränkung des Zutritts zu den Ställen, Tragen von Schuhen und Kleider, die nur im Stallbereich verwendet werden, Hände vor dem Betreten der Ställe waschen und desinfizieren, wenn möglich Einrichtung von Hygieneschleusen.&lt;/li&gt;&lt;li&gt;Unnötige Besuche und Verschiebungen in den Geflügelbeständen sind auf ein Minimum zu beschränken.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Für Geflügelmärkte und -ausstellungen sowie andere Ansammlungen von Geflügel gelten während der Geltungsdauer der Verordnung Einschränkungen. Diese Bestimmungen gelten für alle Geflügelhaltungen in der ganzen Schweiz, unabhängig von der Anzahl der Tiere. Die Beiträge für die Programme «Besonders tierfreundliche Haltung» und «Regelmässiger Auslauf im Freien» werden weiterhin gewährt, sofern alle geltenden Vorschriften eingehalten werden. Die Kennzeichnung «Freilandhaltung» darf weiterhin verwendet werden.&lt;br&gt;&lt;br&gt;Die Pflicht, die Geflügelhaltungen bei den kantonalen Veterinärbehörden zu registrieren, bleibt in Kraft und gilt für alle Halterinnen und Halter, auch für Hobbyhaltungen.&lt;/p&gt; &lt;h2&gt;Erhöhte Wachsamkeit und Früherkennung im ganzen Land&lt;/h2&gt; &lt;p&gt;Die Geflügelhalterinnen und -halter spielen eine zentrale Rolle für die Früherkennung der Krankheit. Sie müssen ihre Tiere aufmerksam beobachten und bei verdächtigen Symptomen unverzüglich eine Tierärztin oder einen Tierarzt informieren. Atembeschwerden, Schwellungen im Kopfbereich, ein deutlicher Rückgang der Legeleistung, dünne oder fehlende Eischalen, ausgeprägte Apathie oder erhöhte Sterblichkeit können Hinweise auf eine Infektion sein. Bei den Wasservögeln können die Symptome unauffälliger sein oder ganz fehlen, weshalb Wachsamkeit besonders wichtig ist. &lt;br&gt;&lt;br&gt;Die Vogelgrippe ist eine hochansteckende Tierseuche, die meldepflichtig ist. Bei einem begründeten Verdacht oder einer Bestätigung ergreifen die zuständigen Behörden strenge Bekämpfungsmassnahmen gemäss der Tierseuchenverordnung, um die Ausbreitung der Krankheit zu verhindern.&lt;/p&gt; &lt;h2&gt;Tot aufgefundene Wildvögel nicht berühren&lt;/h2&gt; &lt;p&gt;Die Bevölkerung wird gebeten, tote oder kranke Wildvögel nicht zu berühren. Tot aufgefundene Vögel müssen der Wildhut, der Polizei oder dem kantonalen Veterinärdienst gemeldet werden, die die Vögel einsammeln und gegebenenfalls die nötigen Analysen durchführen. Diese Überwachung der Wildvögel ermöglicht, eine allfällige Viruszirkulation in der Schweiz rasch zu erkennen und die Massnahmen nötigenfalls anzupassen.&lt;br&gt;&lt;br&gt;Eine Übertragung des Vogelgrippevirus auf den Menschen ist äusserst selten und wurde bis jetzt nur in Einzelfällen nach engem, ungeschütztem Kontakt mit infizierten Vögeln beobachtet. Geflügelprodukte, wie Pouletfleisch und Eier, können weiterhin ohne Bedenken konsumiert werden.&lt;br&gt;&lt;br&gt;Mit einer koordinierten Verstärkung der Biosicherheitsmassnahmen in der ganzen Schweiz und erhöhter Wachsamkeit tragen die Geflügelhalterinnen und -halter, die kantonalen Behörden und das BLV gemeinsam dazu bei, die Gesundheit der Tiere zu schützen und die Auswirkungen der Vogelgrippe in der Schweiz dauerhaft zu begrenzen.&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai.html"&gt;Vogelgrippe&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/huehner/krankheiten-huehner.html"&gt;Geflügelkrankheiten&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.fedlex.admin.ch/eli/cc/2025/683/de"&gt;Verordnung&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Medienstelle Bundesamt für Lebensmittelsicherheit und Veterinärwesen +41 58 463 78 98 media@blv.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="671">
         <name lang="de">Tiergesundheit</name>
@@ -83,25 +85,25 @@
         <name lang="rm">Sanadad d'animals</name>
       </topic>
       <topic id="238">
+        <name lang="rm">Tegnida d'animals</name>
         <name lang="de">Tierhaltung</name>
         <name lang="en">Animal husbandry</name>
         <name lang="fr">Détention d’animaux</name>
         <name lang="it">Detenzione di animali</name>
-        <name lang="rm">Tegnida d'animals</name>
       </topic>
       <topic id="38">
-        <name lang="rm">Agricultura</name>
         <name lang="de">Landwirtschaft</name>
         <name lang="en">Agriculture</name>
         <name lang="fr">Agriculture</name>
         <name lang="it">Agricoltura</name>
+        <name lang="rm">Agricultura</name>
       </topic>
       <topic id="615">
+        <name lang="rm">Animals</name>
+        <name lang="de">Tiere</name>
         <name lang="en">Animals</name>
         <name lang="fr">Animaux</name>
         <name lang="it">Fauna</name>
-        <name lang="rm">Animals</name>
-        <name lang="de">Tiere</name>
       </topic>
       <topic id="47">
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
@@ -111,11 +113,11 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="21">
-        <name lang="rm">Ambient e natira</name>
-        <name lang="de">Umwelt &amp; Natur</name>
         <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
+        <name lang="rm">Ambient e natira</name>
+        <name lang="de">Umwelt &amp; Natur</name>
       </topic>
     </topics>
     <offers/>

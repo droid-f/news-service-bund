@@ -4,24 +4,6 @@
     <type>Memorandum</type>
     <version>1</version>
     <pubdate>2026-08-13</pubdate>
-    <originator id="201" department-msg="no" lead="no" topnews="no">
-      <department-id>201</department-id>
-      <name lang="rm">Departament federal d’affars exteriurs</name>
-      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
-      <name lang="en">Federal Department of Foreign Affairs</name>
-      <name lang="fr">Département fédéral des affaires étrangères</name>
-      <name lang="it">Dipartimento federale degli affari esteri</name>
-      <www lang="fr">https://www.eda.admin.ch/fr</www>
-      <www lang="it">https://www.eda.admin.ch/it</www>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
-      <www lang="de">https://www.eda.admin.ch</www>
-      <www lang="en">https://www.eda.admin.ch/en</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
-      <email lang="fr">kommunikation@eda.admin.ch</email>
-      <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
-    </originator>
     <originator id="1070" department-msg="no" lead="yes" topnews="no">
       <department-id>1070</department-id>
       <www lang="de">https://www.admin.ch</www>
@@ -29,6 +11,24 @@
       <www lang="fr">https://www.admin.ch/fr</www>
       <www lang="it">https://www.admin.ch/it</www>
       <www lang="rm">https://www.admin.ch/rm</www>
+    </originator>
+    <originator id="201" department-msg="no" lead="no" topnews="no">
+      <department-id>201</department-id>
+      <name lang="en">Federal Department of Foreign Affairs</name>
+      <name lang="fr">Département fédéral des affaires étrangères</name>
+      <name lang="it">Dipartimento federale degli affari esteri</name>
+      <name lang="rm">Departament federal d’affars exteriurs</name>
+      <name lang="de">Eidgenössisches Departement für auswärtige Angelegenheiten</name>
+      <www lang="de">https://www.eda.admin.ch</www>
+      <www lang="en">https://www.eda.admin.ch/en</www>
+      <www lang="fr">https://www.eda.admin.ch/fr</www>
+      <www lang="it">https://www.eda.admin.ch/it</www>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
+      <email lang="fr">kommunikation@eda.admin.ch</email>
+      <email lang="it">kommunikation@eda.admin.ch</email>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
     </originator>
     <originator id="403" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
@@ -38,29 +38,29 @@
       <name lang="rm">Uffizi federal da giustia</name>
       <name lang="de">Bundesamt für Justiz</name>
       <www lang="de">https://www.bj.admin.ch/</www>
+      <email lang="de">media@bj.admin.ch</email>
+      <email lang="en">media@bj.admin.ch</email>
       <email lang="fr">media@bj.admin.ch</email>
       <email lang="it">media@bj.admin.ch</email>
       <email lang="rm">media@bj.admin.ch</email>
-      <email lang="de">media@bj.admin.ch</email>
-      <email lang="en">media@bj.admin.ch</email>
     </originator>
     <originator id="401" department-msg="no" lead="no" topnews="no">
       <department-id>401</department-id>
-      <name lang="rm">Departament federal de giustia e polizia</name>
-      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <name lang="en">Federal Department of Justice and Police</name>
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
+      <name lang="rm">Departament federal de giustia e polizia</name>
+      <name lang="de">Eidgenössisches Justiz- und Polizeidepartement</name>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
       <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords/>
     <department id="401">
@@ -69,17 +69,25 @@
       <name lang="fr">Département fédéral de justice et police</name>
       <name lang="it">Dipartimento federale di giustizia e polizia</name>
       <name lang="rm">Departament federal de giustia e polizia</name>
-      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
       <www lang="de">https://www.ejpd.admin.ch/ejpd/de/home.html</www>
       <www lang="en">https://www.ejpd.admin.ch/ejpd/en/home.html</www>
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
+      <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </department>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Il Consiglio federale ritiene inadeguata l’«Iniziativa Bussola»</title>
+      <lead>L’«Iniziativa Bussola» è formulata in modo poco chiaro e legata a un caso specifico. Non è pertanto adeguata a rispondere in maniera sufficiente alla richiesta di estendere in linea di principio il referendum obbligatorio in materia di trattati internazionali. Inoltre, l’iniziativa intende modificare a posteriori le modalità di voto relative al Pacchetto Svizzera-UE (Bilaterali III). Una procedura di questo tipo si discosta dal sistema democratico consolidato della Svizzera. Nella seduta del 12 agosto 2026, il Consiglio federale raccomanda pertanto al Parlamento di respingere l’iniziativa popolare senza presentare un controprogetto diretto o indiretto.</lead>
+      <text link="no">&lt;p&gt;L’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)» chiede di sottoporre al voto del Popolo e dei Cantoni i trattati internazionali che prevedono il recepimento di disposizioni importanti contenenti norme di diritto. Intende così estendere il referendum obbligatorio in materia di trattati internazionali.&lt;/p&gt; &lt;p&gt;Per il Consiglio federale è molto importante garantire la democrazia diretta e la competitività della Svizzera. Le misure proposte dall’iniziativa, tuttavia, non contribuiscono al raggiungimento dell’obiettivo. Pertanto, in una decisione di principio del 26 novembre 2025 il Consiglio federale aveva già stabilito di respingere l’«Iniziativa Bussola» e di raccomandarne il rifiuto al Parlamento senza presentare un controprogetto diretto o indiretto. Nella seduta del 12 agosto 2026 l’Esecutivo ha ribadito la sua decisione e ha adottato il relativo messaggio.&lt;/p&gt; &lt;h2&gt;L’iniziativa è legata a un caso specifico ed è formulata in modo poco chiaro&lt;/h2&gt; &lt;p&gt;Oltre a estendere il referendum obbligatorio in materia di trattati internazionali, l’«Iniziativa Bussola» stabilisce un collegamento diretto con il pacchetto «stabilizzazione e sviluppo delle relazioni Svizzera-UE (Bilaterali III)». Di conseguenza, i Bilaterali III verrebbero sottoposti al referendum obbligatorio e dovrebbero essere approvati sia dal Popolo che dai Cantoni.&lt;/p&gt; &lt;p&gt;Il Consiglio federale rifiuta di legare la questione di fondo di estendere il referendum obbligatorio in materia di trattati internazionali al caso specifico dei Bilaterali III. Il referendum obbligatorio è un pilastro della democrazia svizzera e pertanto non dovrebbe essere modificato sulla base di riflessioni politiche a breve termine e senza un dibattito approfondito. Inoltre, le prescrizioni dell’iniziativa concernenti il recepimento del diritto nel quadro dei trattati internazionali sono formulate in modo talmente vago da creare una considerevole incertezza giuridica. Per gli aventi diritto di voto non è chiaro quali conseguenze avrà l’«Iniziativa Bussola» sui loro diritti politici.&lt;/p&gt; &lt;h2&gt;L’iniziativa contiene una disposizione transitoria problematica&lt;/h2&gt; &lt;p&gt;L’iniziativa contiene una disposizione transitoria che interviene nel processo politico in corso e modifica a posteriori le modalità di voto relative ai Bilaterali III. Il Consiglio federale ritiene inadeguato un simile approccio, poiché si discosterebbe dal sistema democratico consolidato della Svizzera. Per garantire la certezza del diritto, le regole della democrazia dovrebbero essere modificate indipendentemente da un caso specifico e le nuove norme dovrebbero applicarsi solo a votazioni future.&lt;/p&gt; &lt;p&gt;La disposizione transitoria è inoltre formulata in modo poco chiaro e non disciplina in maniera sufficiente gli effetti giuridici. Resta pertanto da precisare come il Consiglio federale e il Parlamento debbano attuare la disposizione e come Popolo e Cantoni debbano eventualmente pronunciarsi nuovamente sui Bilaterali III. Ciò compromette la certezza del diritto, la credibilità della Svizzera e la piazza economica del nostro Paese.&lt;/p&gt; &lt;h2&gt;L’iniziativa non è una buona base per una nuova discussione di fondo&lt;/h2&gt; &lt;p&gt;In passato vari tentativi di estendere il referendum obbligatorio in materia di trattati internazionali sono stati bocciati dal Parlamento o da Popolo e Cantoni. Il Consiglio federale ritiene che l’«Iniziativa Bussola» non sia adeguata a rispondere in maniera sufficiente alla richiesta di estendere in linea di principio il referendum obbligatorio in materia di trattati internazionali. L’iniziativa crea uno squilibrio, in quanto prevede la doppia maggioranza per i trattati internazionali con recepimento dinamico del diritto e non per altri trattati di carattere costituzionale o comprendenti disposizioni importanti che contengono norme di diritto. Un’eventuale estensione del referendum obbligatorio andrebbe valutata in maniera dettagliata.&lt;/p&gt; &lt;h2&gt;Link&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.fedlex.admin.ch/eli/fga/2026/2358/it"&gt;Messaggio concernente l’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)»&lt;/a&gt;&lt;br&gt;(FF 2026 2358)&lt;/li&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.fedlex.admin.ch/eli/fga/2026/2359/it"&gt;Decreto federale concernente l’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)». Disegno&lt;/a&gt;&lt;br&gt;(FF 2026 2359)&lt;/li&gt;&lt;/ul&gt;</text>
+      <contact>Ufficio federale di giustizia +41 58 462 48 48 media@bj.admin.ch</contact>
+      <revisions/>
+    </content>
     <content lang="de">
       <city>Bern</city>
       <title>Bundesrat erachtet «Kompass-Initiative» als nicht zielführend</title>
@@ -96,49 +104,41 @@
       <contact>Office fédéral de la justice +41 58 462 48 48 media@bj.admin.ch</contact>
       <revisions/>
     </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Il Consiglio federale ritiene inadeguata l’«Iniziativa Bussola»</title>
-      <lead>L’«Iniziativa Bussola» è formulata in modo poco chiaro e legata a un caso specifico. Non è pertanto adeguata a rispondere in maniera sufficiente alla richiesta di estendere in linea di principio il referendum obbligatorio in materia di trattati internazionali. Inoltre, l’iniziativa intende modificare a posteriori le modalità di voto relative al Pacchetto Svizzera-UE (Bilaterali III). Una procedura di questo tipo si discosta dal sistema democratico consolidato della Svizzera. Nella seduta del 12 agosto 2026, il Consiglio federale raccomanda pertanto al Parlamento di respingere l’iniziativa popolare senza presentare un controprogetto diretto o indiretto.</lead>
-      <text link="no">&lt;p&gt;L’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)» chiede di sottoporre al voto del Popolo e dei Cantoni i trattati internazionali che prevedono il recepimento di disposizioni importanti contenenti norme di diritto. Intende così estendere il referendum obbligatorio in materia di trattati internazionali.&lt;/p&gt; &lt;p&gt;Per il Consiglio federale è molto importante garantire la democrazia diretta e la competitività della Svizzera. Le misure proposte dall’iniziativa, tuttavia, non contribuiscono al raggiungimento dell’obiettivo. Pertanto, in una decisione di principio del 26 novembre 2025 il Consiglio federale aveva già stabilito di respingere l’«Iniziativa Bussola» e di raccomandarne il rifiuto al Parlamento senza presentare un controprogetto diretto o indiretto. Nella seduta del 12 agosto 2026 l’Esecutivo ha ribadito la sua decisione e ha adottato il relativo messaggio.&lt;/p&gt; &lt;h2&gt;L’iniziativa è legata a un caso specifico ed è formulata in modo poco chiaro&lt;/h2&gt; &lt;p&gt;Oltre a estendere il referendum obbligatorio in materia di trattati internazionali, l’«Iniziativa Bussola» stabilisce un collegamento diretto con il pacchetto «stabilizzazione e sviluppo delle relazioni Svizzera-UE (Bilaterali III)». Di conseguenza, i Bilaterali III verrebbero sottoposti al referendum obbligatorio e dovrebbero essere approvati sia dal Popolo che dai Cantoni.&lt;/p&gt; &lt;p&gt;Il Consiglio federale rifiuta di legare la questione di fondo di estendere il referendum obbligatorio in materia di trattati internazionali al caso specifico dei Bilaterali III. Il referendum obbligatorio è un pilastro della democrazia svizzera e pertanto non dovrebbe essere modificato sulla base di riflessioni politiche a breve termine e senza un dibattito approfondito. Inoltre, le prescrizioni dell’iniziativa concernenti il recepimento del diritto nel quadro dei trattati internazionali sono formulate in modo talmente vago da creare una considerevole incertezza giuridica. Per gli aventi diritto di voto non è chiaro quali conseguenze avrà l’«Iniziativa Bussola» sui loro diritti politici.&lt;/p&gt; &lt;h2&gt;L’iniziativa contiene una disposizione transitoria problematica&lt;/h2&gt; &lt;p&gt;L’iniziativa contiene una disposizione transitoria che interviene nel processo politico in corso e modifica a posteriori le modalità di voto relative ai Bilaterali III. Il Consiglio federale ritiene inadeguato un simile approccio, poiché si discosterebbe dal sistema democratico consolidato della Svizzera. Per garantire la certezza del diritto, le regole della democrazia dovrebbero essere modificate indipendentemente da un caso specifico e le nuove norme dovrebbero applicarsi solo a votazioni future.&lt;/p&gt; &lt;p&gt;La disposizione transitoria è inoltre formulata in modo poco chiaro e non disciplina in maniera sufficiente gli effetti giuridici. Resta pertanto da precisare come il Consiglio federale e il Parlamento debbano attuare la disposizione e come Popolo e Cantoni debbano eventualmente pronunciarsi nuovamente sui Bilaterali III. Ciò compromette la certezza del diritto, la credibilità della Svizzera e la piazza economica del nostro Paese.&lt;/p&gt; &lt;h2&gt;L’iniziativa non è una buona base per una nuova discussione di fondo&lt;/h2&gt; &lt;p&gt;In passato vari tentativi di estendere il referendum obbligatorio in materia di trattati internazionali sono stati bocciati dal Parlamento o da Popolo e Cantoni. Il Consiglio federale ritiene che l’«Iniziativa Bussola» non sia adeguata a rispondere in maniera sufficiente alla richiesta di estendere in linea di principio il referendum obbligatorio in materia di trattati internazionali. L’iniziativa crea uno squilibrio, in quanto prevede la doppia maggioranza per i trattati internazionali con recepimento dinamico del diritto e non per altri trattati di carattere costituzionale o comprendenti disposizioni importanti che contengono norme di diritto. Un’eventuale estensione del referendum obbligatorio andrebbe valutata in maniera dettagliata.&lt;/p&gt; &lt;h2&gt;Link&lt;/h2&gt; &lt;ul&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.fedlex.admin.ch/eli/fga/2026/2358/it"&gt;Messaggio concernente l’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)»&lt;/a&gt;&lt;br&gt;(FF 2026 2358)&lt;/li&gt;&lt;li&gt;&lt;a target="_blank" href="https://www.fedlex.admin.ch/eli/fga/2026/2359/it"&gt;Decreto federale concernente l’iniziativa popolare «Per la democrazia diretta e la competitività del nostro Paese – No a una Svizzera membro passivo dell’UE (Iniziativa Bussola)». Disegno&lt;/a&gt;&lt;br&gt;(FF 2026 2359)&lt;/li&gt;&lt;/ul&gt;</text>
-      <contact>Ufficio federale di giustizia +41 58 462 48 48 media@bj.admin.ch</contact>
-      <revisions/>
-    </content>
     <topics>
       <topic id="26">
-        <name lang="de">Recht</name>
         <name lang="en">Legislation</name>
         <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
+        <name lang="de">Recht</name>
       </topic>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="523">
+        <name lang="en">Legal system</name>
         <name lang="fr">Affaires juridiques</name>
         <name lang="it">Questioni giuridiche</name>
         <name lang="rm">Dretg</name>
         <name lang="de">Rechtswesen</name>
-        <name lang="en">Legal system</name>
       </topic>
       <topic id="448">
+        <name lang="de">Bundesratsgeschäfte</name>
         <name lang="en">Federal Council business</name>
         <name lang="fr">Affaires du Conseil fédéral</name>
         <name lang="it">Affari del Consiglio federale</name>
         <name lang="rm">Affars dal Cussegl federal</name>
-        <name lang="de">Bundesratsgeschäfte</name>
       </topic>
       <topic id="34">
+        <name lang="de">Schweiz und Europa</name>
+        <name lang="en">Switzerland and Europe </name>
         <name lang="fr">Suisse et Europe </name>
         <name lang="it">Svizzera e Europa</name>
         <name lang="rm">La Svizra e l'Europa </name>
-        <name lang="de">Schweiz und Europa</name>
-        <name lang="en">Switzerland and Europe </name>
       </topic>
       <topic id="10">
         <name lang="de">Bundesrat</name>

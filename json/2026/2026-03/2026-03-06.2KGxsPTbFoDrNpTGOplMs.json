@@ -62,7 +62,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "19.0.0"
+            "version": "27.0.0"
           },
           "documentId": 15100,
           "documentType": "page",
@@ -74,7 +74,7 @@
           "significantPublicationDate": "2026-03-06T12:45:10.178Z",
           "title": "Aussenpolitischer Bericht 2025:  Bundesrat setzt auf fokussierten und wirksamen Multilateralismus",
           "updatedAt": "2026-03-06T12:55:55.250Z",
-          "version": 23,
+          "version": 24,
           "visiblePublicationDate": "2026-03-06T12:45:10.178Z"
         }
       },
@@ -174,7 +174,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 15097,
           "documentType": "page",
@@ -186,7 +186,7 @@
           "significantPublicationDate": "2026-03-06T12:45:49.466Z",
           "title": "Foreign Policy Report 2025:  Federal Council reaffirms its commitment to focused and effective multilateralism",
           "updatedAt": "2026-04-14T13:09:23.645Z",
-          "version": 40,
+          "version": 41,
           "visiblePublicationDate": "2026-03-06T12:45:49.466Z"
         }
       },
@@ -229,7 +229,15 @@
     },
     "fr": {
       "coPublisherTags": [],
-      "coPublisherTopics": [],
+      "coPublisherTopics": [
+        {
+          "copublisherID": "2",
+          "topics": [
+            "372",
+            "407"
+          ]
+        }
+      ],
       "coPublishers": [
         "2"
       ],
@@ -279,7 +287,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "21.0.0"
+            "version": "27.0.0"
           },
           "documentId": 15117,
           "documentType": "page",
@@ -291,7 +299,7 @@
           "significantPublicationDate": "2026-03-06T13:16:29.702Z",
           "title": "Rapport sur la politique extérieure 2025 :  le Conseil fédéral mise sur un multilatéralisme ciblé et efficace",
           "updatedAt": "2026-04-14T13:10:52.287Z",
-          "version": 25,
+          "version": 26,
           "visiblePublicationDate": "2026-03-06T13:16:29.702Z"
         }
       },
@@ -390,7 +398,7 @@
           "contentType": "nsb-complex-news-page",
           "design": {
             "name": "p:3:3",
-            "version": "19.0.0"
+            "version": "27.0.0"
           },
           "documentId": 15101,
           "documentType": "page",
@@ -402,7 +410,7 @@
           "significantPublicationDate": "2026-03-06T12:53:18.873Z",
           "title": "Rapporto sulla politica estera 2025:  il Consiglio federale propende per un multilateralismo mirato ed efficace",
           "updatedAt": "2026-03-06T12:53:18.873Z",
-          "version": 22,
+          "version": 23,
           "visiblePublicationDate": "2026-03-06T12:53:18.873Z"
         }
       },

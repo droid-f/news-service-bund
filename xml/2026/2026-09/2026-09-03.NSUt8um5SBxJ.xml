@@ -6,16 +6,16 @@
     <pubdate>2026-09-03</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Ufficio federale di statistica</name>
-      <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
       <name lang="fr">Office fédéral de la statistique</name>
+      <name lang="it">Ufficio federale di statistica</name>
+      <name lang="rm">Uffizi federal da statistica</name>
+      <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
+      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <www lang="de">https://www.bfs.admin.ch/</www>
       <www lang="en">https://www.bfs.admin.ch/bfs/en/home.html</www>
       <www lang="fr">https://www.bfs.admin.ch/bfs/fr/home.html</www>
-      <www lang="it">https://www.bfs.admin.ch/bfs/it/home.html</www>
-      <www lang="rm">https://www.bfs.admin.ch/bfs/rm/home.html</www>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
@@ -24,33 +24,17 @@
     </originator>
     <keywords/>
     <department id="301">
+      <name lang="en">Federal Department of Home Affairs</name>
+      <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
       <name lang="de">Eidgenössisches Departement des Innern</name>
-      <name lang="en">Federal Department of Home Affairs</name>
-      <name lang="fr">Département fédéral de l'intérieur</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
-      <www lang="rm">https://www.edi.admin.ch/edi/rm/home.html</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/edi/en/home.html</www>
+      <www lang="rm">https://www.edi.admin.ch</www>
     </department>
-    <content lang="fr">
-      <city>Neuchâtel</city>
-      <title>Les prix à la consommation ont augmenté de 0,4% en août</title>
-      <lead>En août 2026, l’indice des prix à la consommation (IPC) a augmenté de 0,4% par rapport au mois précédent, pour s’établir à 101,5 points (décembre 2025 = 100). Par rapport au mois correspondant de l’année précédente, le renchérissement s’est chiffré à +0,8%. Ces chiffres ont été établis par l’Office fédéral de la statistique (OFS).</lead>
-      <text link="no">&lt;p&gt;La hausse de l’IPC de 0,4% par rapport au mois précédent s’explique par plusieurs facteurs, dont l’augmentation des loyers du logement. Des hausses de prix ont été enregistrées également pour l’essence, le diesel, le mazout et les services hospitaliers stationnaires. En revanche, les prix des voyages à forfait internationaux et de la location de voitures et l’autopartage ont diminué, de même que ceux de la parahôtellerie.&lt;/p&gt; &lt;p&gt;Vous trouverez ce communiqué de presse et d'autres informations sur ce thème sur le &lt;a href="https://www.bfs.admin.ch/news/fr/2026-0057"&gt;site web de l'OFS&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>OFS, Section Prix Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="de">
-      <city>Neuchâtel</city>
-      <title>Die Konsumentenpreise sind im August um 0,4% gestiegen</title>
-      <lead>Der Landesindex der Konsumentenpreise (LIK) stieg im August 2026 im Vergleich zum Vormonat um 0,4% und erreichte den Stand von 101,5 Punkten (Dezember 2025 = 100). Gegenüber dem entsprechenden Vorjahresmonat betrug die Teuerung +0,8%. Dies geht aus den Zahlen des Bundesamtes für Statistik (BFS) hervor.</lead>
-      <text link="no">&lt;p&gt;Der Anstieg um 0,4% im Vergleich zum Vormonat ist auf verschiedene Faktoren zurückzuführen, unter anderem auf die höheren Wohnungsmieten. Ebenfalls gestiegen sind die Preise für Benzin, Diesel, Heizöl und stationäre Spitalleistungen. Die Preise für Pauschalreisen ins Ausland sowie für Automiete und Carsharing sind hingegen gesunken, ebenso wie die Preise in der Parahotellerie.&lt;/p&gt; &lt;p&gt;Diese Medienmitteilung und weitere Informationen zum Thema finden Sie auf der &lt;a href="https://www.bfs.admin.ch/news/de/2026-0057"&gt;Website des BFS&lt;/a&gt;.&lt;/p&gt;</text>
-      <contact>BFS, Sektion Preise Info LIK +41 58 463 69 00 LIK@bfs.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="en">
       <city>Neuchâtel</city>
       <title>Consumer prices increased by 0.4% in August</title>
@@ -67,13 +51,29 @@
       <contact>UST, sezione Prezzi Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="de">
+      <city>Neuchâtel</city>
+      <title>Die Konsumentenpreise sind im August um 0,4% gestiegen</title>
+      <lead>Der Landesindex der Konsumentenpreise (LIK) stieg im August 2026 im Vergleich zum Vormonat um 0,4% und erreichte den Stand von 101,5 Punkten (Dezember 2025 = 100). Gegenüber dem entsprechenden Vorjahresmonat betrug die Teuerung +0,8%. Dies geht aus den Zahlen des Bundesamtes für Statistik (BFS) hervor.</lead>
+      <text link="no">&lt;p&gt;Der Anstieg um 0,4% im Vergleich zum Vormonat ist auf verschiedene Faktoren zurückzuführen, unter anderem auf die höheren Wohnungsmieten. Ebenfalls gestiegen sind die Preise für Benzin, Diesel, Heizöl und stationäre Spitalleistungen. Die Preise für Pauschalreisen ins Ausland sowie für Automiete und Carsharing sind hingegen gesunken, ebenso wie die Preise in der Parahotellerie.&lt;/p&gt; &lt;p&gt;Diese Medienmitteilung und weitere Informationen zum Thema finden Sie auf der &lt;a href="https://www.bfs.admin.ch/news/de/2026-0057"&gt;Website des BFS&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>BFS, Sektion Preise Info LIK +41 58 463 69 00 LIK@bfs.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="fr">
+      <city>Neuchâtel</city>
+      <title>Les prix à la consommation ont augmenté de 0,4% en août</title>
+      <lead>En août 2026, l’indice des prix à la consommation (IPC) a augmenté de 0,4% par rapport au mois précédent, pour s’établir à 101,5 points (décembre 2025 = 100). Par rapport au mois correspondant de l’année précédente, le renchérissement s’est chiffré à +0,8%. Ces chiffres ont été établis par l’Office fédéral de la statistique (OFS).</lead>
+      <text link="no">&lt;p&gt;La hausse de l’IPC de 0,4% par rapport au mois précédent s’explique par plusieurs facteurs, dont l’augmentation des loyers du logement. Des hausses de prix ont été enregistrées également pour l’essence, le diesel, le mazout et les services hospitaliers stationnaires. En revanche, les prix des voyages à forfait internationaux et de la location de voitures et l’autopartage ont diminué, de même que ceux de la parahôtellerie.&lt;/p&gt; &lt;p&gt;Vous trouverez ce communiqué de presse et d'autres informations sur ce thème sur le &lt;a href="https://www.bfs.admin.ch/news/fr/2026-0057"&gt;site web de l'OFS&lt;/a&gt;.&lt;/p&gt;</text>
+      <contact>OFS, Section Prix Info IPC +41 58 463 69 00 LIK@bfs.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="645">
-        <name lang="rm">Conjunctura</name>
         <name lang="de">Konjunktur</name>
         <name lang="en">Short Term Economic Analyses</name>
         <name lang="fr">Conjoncture</name>
         <name lang="it">Congiuntura</name>
+        <name lang="rm">Conjunctura</name>
       </topic>
       <topic id="43">
         <name lang="de">Wissen &amp; Statistik</name>
