@@ -6,21 +6,21 @@
     <pubdate>2026-10-27</pubdate>
     <originator id="318" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="fr">Office fédéral de la statistique</name>
       <name lang="it">Ufficio federale di statistica</name>
       <name lang="rm">Uffizi federal da statistica</name>
       <name lang="de">Bundesamt für Statistik</name>
       <name lang="en">Federal Statistical Office</name>
-      <www lang="de">https://www.bfs.admin.ch</www>
+      <name lang="fr">Office fédéral de la statistique</name>
       <www lang="en">https://www.bfs.admin.ch/en</www>
       <www lang="fr">https://www.bfs.admin.ch/fr</www>
       <www lang="it">https://www.bfs.admin.ch/it</www>
       <www lang="rm">https://www.bfs.admin.ch/rm</www>
+      <www lang="de">https://www.bfs.admin.ch</www>
+      <email lang="it">media@bfs.admin.ch</email>
+      <email lang="rm">media@bfs.admin.ch</email>
       <email lang="de">media@bfs.admin.ch</email>
       <email lang="en">media@bfs.admin.ch</email>
       <email lang="fr">media@bfs.admin.ch</email>
-      <email lang="it">media@bfs.admin.ch</email>
-      <email lang="rm">media@bfs.admin.ch</email>
     </originator>
     <keywords/>
     <department id="301">
@@ -83,23 +83,23 @@
         <name lang="rm">Cunvegnas bilateralas</name>
       </topic>
       <topic id="43">
-        <name lang="rm">Savida e statistica</name>
         <name lang="de">Wissen &amp; Statistik</name>
         <name lang="en">Knowledge &amp; Statistics</name>
         <name lang="fr">Connaissances et statistiques</name>
         <name lang="it">Conoscenze e statistiche</name>
+        <name lang="rm">Savida e statistica</name>
       </topic>
       <topic id="124">
+        <name lang="it">Statistica pubblica</name>
         <name lang="de">Öffentliche Statistik</name>
         <name lang="en">Official statistics</name>
         <name lang="fr">Statistique publique</name>
-        <name lang="it">Statistica pubblica</name>
       </topic>
       <topic id="103">
+        <name lang="de">Aussenbeziehungen</name>
         <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
-        <name lang="de">Aussenbeziehungen</name>
       </topic>
     </topics>
     <offers/>
