@@ -6,24 +6,24 @@
     <pubdate>2026-04-24</pubdate>
     <originator id="404" department-msg="no" lead="yes" topnews="no">
       <department-id>401</department-id>
+      <name lang="de">Bundesamt für Polizei</name>
       <name lang="en">Federal Office of Police</name>
       <name lang="fr">Office fédéral de la police</name>
       <name lang="it">Ufficio federale di polizia</name>
       <name lang="rm">Uffizi federal da polizia</name>
-      <name lang="de">Bundesamt für Polizei</name>
       <www lang="de">https://www.fedpol.admin.ch/</www>
-      <email lang="rm">media@fedpol.admin.ch</email>
-      <email lang="de">media@fedpol.admin.ch</email>
       <email lang="en">media@fedpol.admin.ch</email>
       <email lang="fr">media@fedpol.admin.ch</email>
       <email lang="it">media@fedpol.admin.ch</email>
+      <email lang="rm">media@fedpol.admin.ch</email>
+      <email lang="de">media@fedpol.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-78" org-id="404">
-        <name lang="it">Polizia</name>
         <name lang="de">Polizei</name>
         <name lang="en">Police</name>
         <name lang="fr">Police</name>
+        <name lang="it">Polizia</name>
       </keyword>
     </keywords>
     <department id="401">
@@ -77,18 +77,18 @@
     </content>
     <topics>
       <topic id="547">
-        <name lang="de">Polizei</name>
-        <name lang="en">Police</name>
         <name lang="fr">Police</name>
         <name lang="it">Polizia</name>
         <name lang="rm">Polizia</name>
+        <name lang="de">Polizei</name>
+        <name lang="en">Police</name>
       </topic>
       <topic id="40">
+        <name lang="rm">Segirezza</name>
+        <name lang="de">Sicherheit</name>
         <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
-        <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
       </topic>
     </topics>
     <offers/>

@@ -11,43 +11,19 @@
       <name lang="fr">Département fédéral des affaires étrangères</name>
       <name lang="it">Dipartimento federale degli affari esteri</name>
       <name lang="rm">Departament federal d’affars exteriurs</name>
-      <www lang="rm">https://www.eda.admin.ch/de</www>
       <www lang="de">https://www.eda.admin.ch</www>
       <www lang="en">https://www.eda.admin.ch/en</www>
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
-      <email lang="de">kommunikation@eda.admin.ch</email>
-      <email lang="en">kommunikation@eda.admin.ch</email>
+      <www lang="rm">https://www.eda.admin.ch/de</www>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
       <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
+      <email lang="en">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="6305" org-id="201">
-        <name lang="it">Libano</name>
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
-        <name lang="fr">Liban</name>
-      </keyword>
-      <keyword id="6306" org-id="201">
-        <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
-        <name lang="fr">Syrie</name>
-        <name lang="it">Siria</name>
-      </keyword>
-      <keyword id="6305" org-id="201">
-        <name lang="de">Libanon</name>
-        <name lang="en">Lebanon</name>
-        <name lang="fr">Liban</name>
-        <name lang="it">Libano</name>
-      </keyword>
-      <keyword id="6306" org-id="201">
-        <name lang="it">Siria</name>
-        <name lang="de">Syrien</name>
-        <name lang="en">Syria</name>
-        <name lang="fr">Syrie</name>
-      </keyword>
-      <keyword id="6305" org-id="201">
         <name lang="de">Libanon</name>
         <name lang="en">Lebanon</name>
         <name lang="fr">Liban</name>
@@ -70,6 +46,30 @@
         <name lang="en">Syria</name>
         <name lang="fr">Syrie</name>
         <name lang="it">Siria</name>
+      </keyword>
+      <keyword id="6305" org-id="201">
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
+        <name lang="fr">Liban</name>
+        <name lang="it">Libano</name>
+      </keyword>
+      <keyword id="6306" org-id="201">
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
+        <name lang="fr">Syrie</name>
+        <name lang="it">Siria</name>
+      </keyword>
+      <keyword id="6305" org-id="201">
+        <name lang="fr">Liban</name>
+        <name lang="it">Libano</name>
+        <name lang="de">Libanon</name>
+        <name lang="en">Lebanon</name>
+      </keyword>
+      <keyword id="6306" org-id="201">
+        <name lang="it">Siria</name>
+        <name lang="de">Syrien</name>
+        <name lang="en">Syria</name>
+        <name lang="fr">Syrie</name>
       </keyword>
     </keywords>
     <content lang="en">
@@ -106,25 +106,25 @@
     </content>
     <topics>
       <topic id="39">
-        <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
+        <name lang="de">Ausland</name>
+        <name lang="en">Foreign affairs</name>
       </topic>
       <topic id="110">
+        <name lang="fr">Crises</name>
+        <name lang="it">Crisi</name>
         <name lang="rm">Crisas</name>
         <name lang="de">Krisen</name>
         <name lang="en">Crises</name>
-        <name lang="fr">Crises</name>
-        <name lang="it">Crisi</name>
       </topic>
       <topic id="411">
+        <name lang="fr">Organisations internationales</name>
         <name lang="it">Organizzazioni internazionali</name>
         <name lang="rm">Organisaziuns internaziunalas</name>
         <name lang="de">Internationale Organisationen</name>
         <name lang="en">International organisations</name>
-        <name lang="fr">Organisations internationales</name>
       </topic>
       <topic id="409">
         <name lang="de">Entwicklungszusammenarbeit</name>
@@ -134,18 +134,18 @@
         <name lang="rm">Cooperaziun al svilup</name>
       </topic>
       <topic id="16">
-        <name lang="de">Aussenpolitik</name>
         <name lang="en">Foreign policy</name>
         <name lang="fr">Politique étrangère</name>
         <name lang="it">Politica estera</name>
         <name lang="rm">Politica exteriura</name>
+        <name lang="de">Aussenpolitik</name>
       </topic>
       <topic id="30">
+        <name lang="it">Situazioni straordinarie, crisi</name>
+        <name lang="rm">Situaziuns extraordinarias, crisas</name>
         <name lang="de">Ausserordentliche Lage, Krise</name>
         <name lang="en">Extraordinary situations, crises</name>
         <name lang="fr">Situations extraordinaires et crises</name>
-        <name lang="it">Situazioni straordinarie, crisi</name>
-        <name lang="rm">Situaziuns extraordinarias, crisas</name>
       </topic>
     </topics>
     <offers/>

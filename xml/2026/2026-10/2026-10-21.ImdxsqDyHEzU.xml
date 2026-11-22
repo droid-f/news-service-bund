@@ -6,29 +6,29 @@
     <pubdate>2026-10-21</pubdate>
     <originator id="1011" department-msg="no" lead="yes" topnews="no">
       <department-id>1011</department-id>
-      <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
       <name lang="de">Eidgenössische Finanzkontrolle</name>
+      <name lang="fr">Contrôle fédéral des finances</name>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
       <www lang="en">https://www.efk.admin.ch/en</www>
+      <email lang="en">kommunikation@efk.admin.ch</email>
       <email lang="de">kommunikation@efk.admin.ch</email>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
-      <email lang="en">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
-        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
+        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
-        <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
         <name lang="fr">Rapport</name>
@@ -41,14 +41,6 @@
         <name lang="rm">Repport</name>
       </keyword>
     </keywords>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Verifica della sicurezza e dell’utilizzabilità di Microsoft 365</title>
-      <lead>Il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (CaF-TDT) ha introdotto in modo capillare la piattaforma di lavoro digitale Microsoft 365 (M365) nell’Amministrazione federale. Questo processo è durato fino alla fine del 2025. M365 dovrebbe garantire un ambiente di lavoro più efficiente e basato sul cloud, ma comporta anche sfide in materia di sicurezza delle informazioni, protezione dei dati, governance e, non da ultimo, sovranità dei dati. Il CDF ha verificato se il settore TDT della CaF garantisca la sicurezza dei dati e delle informazioni nell’utilizzo della piattaforma e se le funzionalità aggiuntive possano essere effettivamente sfruttate. L’Ufficio federale dell’informatica e della telecomunicazione (UFIT) ha implementato correttamente la piattaforma e ha adottato misure di sicurezza adeguate all’attuale utilizzo limitato, sebbene alcuni sviluppi fondamentali siano ancora in sospeso. M365 mette inoltre a disposizione dei collaboratori dell’Amministrazione federale funzionalità aggiuntive.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/sicurezza-e-utilizzabilita-di-microsoft-365/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Bern</city>
       <title>Prüfung der Sicherheit und Nutzbarkeit von Microsoft 365</title>
@@ -73,20 +65,28 @@
       <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Verifica della sicurezza e dell’utilizzabilità di Microsoft 365</title>
+      <lead>Il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (CaF-TDT) ha introdotto in modo capillare la piattaforma di lavoro digitale Microsoft 365 (M365) nell’Amministrazione federale. Questo processo è durato fino alla fine del 2025. M365 dovrebbe garantire un ambiente di lavoro più efficiente e basato sul cloud, ma comporta anche sfide in materia di sicurezza delle informazioni, protezione dei dati, governance e, non da ultimo, sovranità dei dati. Il CDF ha verificato se il settore TDT della CaF garantisca la sicurezza dei dati e delle informazioni nell’utilizzo della piattaforma e se le funzionalità aggiuntive possano essere effettivamente sfruttate. L’Ufficio federale dell’informatica e della telecomunicazione (UFIT) ha implementato correttamente la piattaforma e ha adottato misure di sicurezza adeguate all’attuale utilizzo limitato, sebbene alcuni sviluppi fondamentali siano ancora in sospeso. M365 mette inoltre a disposizione dei collaboratori dell’Amministrazione federale funzionalità aggiuntive.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/sicurezza-e-utilizzabilita-di-microsoft-365/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="453">
-        <name lang="de">Informations- und Kommunikationstechnologie (IKT)</name>
         <name lang="en">Information and Communication Technologies (ICT).</name>
         <name lang="fr">Technologies de l’information et de la communication (TIC)</name>
         <name lang="it">Tecnologie dell’informazione e della comunicazione (TIC)</name>
         <name lang="rm">Tecnologia d'infurmaziun e da communicaziun (ICT)</name>
+        <name lang="de">Informations- und Kommunikationstechnologie (IKT)</name>
       </topic>
       <topic id="36">
+        <name lang="fr">Transformation numérique, communication et médias</name>
+        <name lang="it">Digitalizzazione, comunicazione e media</name>
         <name lang="rm">Digitalisaziun, communicaziun e medias</name>
         <name lang="de">Digitalisierung, Kommunikation &amp; Medien</name>
         <name lang="en">Digitalisation, Communication &amp; Media</name>
-        <name lang="fr">Transformation numérique, communication et médias</name>
-        <name lang="it">Digitalizzazione, comunicazione e media</name>
       </topic>
     </topics>
     <offers/>

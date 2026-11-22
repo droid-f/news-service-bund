@@ -11,16 +11,16 @@
       <name lang="fr">Office fédéral du développement territorial</name>
       <name lang="it">Ufficio federale dello sviluppo territoriale</name>
       <name lang="rm">Uffizi federal da svilup dal territori</name>
-      <www lang="it">https://www.are.admin.ch/it</www>
       <www lang="rm">https://www.are.admin.ch/de</www>
       <www lang="de">https://www.are.admin.ch/de</www>
       <www lang="en">https://www.are.admin.ch/en</www>
       <www lang="fr">https://www.are.admin.ch/fr</www>
-      <email lang="en">media@are.admin.ch</email>
-      <email lang="fr">media@are.admin.ch</email>
+      <www lang="it">https://www.are.admin.ch/it</www>
       <email lang="it">media@are.admin.ch</email>
       <email lang="rm">media@are.admin.ch</email>
       <email lang="de">media@are.admin.ch</email>
+      <email lang="en">media@are.admin.ch</email>
+      <email lang="fr">media@are.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="15922" org-id="812">
@@ -34,9 +34,9 @@
         <name lang="it">Abitazioni secondarie</name>
       </keyword>
       <keyword id="15922" org-id="812">
+        <name lang="it">Abitazioni secondarie</name>
         <name lang="de">Zweitwohnungen</name>
         <name lang="fr">Résidences secondaires</name>
-        <name lang="it">Abitazioni secondarie</name>
       </keyword>
     </keywords>
     <department id="801">
@@ -45,11 +45,11 @@
       <name lang="fr">Département fédéral de l'environnement, des transports, de l'énergie et de la communication</name>
       <name lang="it">Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni</name>
       <name lang="rm">Departament federal per ambient, traffic, energia e communicaziun</name>
-      <www lang="de">https://www.uvek.admin.ch/de</www>
-      <www lang="en">https://www.uvek.admin.ch/en</www>
       <www lang="fr">https://www.uvek.admin.ch/fr</www>
       <www lang="it">https://www.uvek.admin.ch/it</www>
       <www lang="rm">https://www.uvek.admin.ch/rm</www>
+      <www lang="de">https://www.uvek.admin.ch/de</www>
+      <www lang="en">https://www.uvek.admin.ch/en</www>
       <email lang="de">info@gs-uvek.admin.ch</email>
       <email lang="en">info@gs-uvek.admin.ch</email>
       <email lang="fr">info@gs-uvek.admin.ch</email>
@@ -82,25 +82,25 @@
     </content>
     <topics>
       <topic id="26">
+        <name lang="en">Legislation</name>
+        <name lang="fr">Droit</name>
         <name lang="it">Diritto</name>
         <name lang="rm">Dretg</name>
         <name lang="de">Recht</name>
-        <name lang="en">Legislation</name>
-        <name lang="fr">Droit</name>
       </topic>
       <topic id="47">
-        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
-        <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
         <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
+        <name lang="de">Wirtschaft &amp; Finanzplatz</name>
+        <name lang="en">Economic &amp; Financial Centre</name>
       </topic>
       <topic id="27">
+        <name lang="rm">Viagiar e turissem</name>
         <name lang="de">Reisen &amp; Tourismus</name>
         <name lang="en">Travel &amp; Tourism</name>
         <name lang="fr">Voyages et tourisme</name>
         <name lang="it">Viaggi e turismo</name>
-        <name lang="rm">Viagiar e turissem</name>
       </topic>
       <topic id="25">
         <name lang="de">Raumplanung &amp; Raumentwicklung</name>

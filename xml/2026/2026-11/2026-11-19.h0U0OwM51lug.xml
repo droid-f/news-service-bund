@@ -6,20 +6,20 @@
     <pubdate>2026-11-19</pubdate>
     <originator id="606" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
-      <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
       <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
       <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <name lang="en">Federal Office for Customs and Border Security</name>
+      <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <www lang="de">https://www.bazg.admin.ch/de</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
       <www lang="it">https://www.bazg.admin.ch/it</www>
-      <email lang="de">medien@bazg.admin.ch</email>
       <email lang="en">medien@bazg.admin.ch</email>
       <email lang="fr">medien@bazg.admin.ch</email>
       <email lang="it">medien@bazg.admin.ch</email>
       <email lang="rm">medien@bazg.admin.ch</email>
+      <email lang="de">medien@bazg.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="311" org-id="606">
@@ -41,16 +41,16 @@
         <name lang="it">media</name>
       </keyword>
       <keyword id="SLW-209" org-id="606">
+        <name lang="it">contrassegno autostradale</name>
         <name lang="de">Vignette</name>
         <name lang="en">motorway sticker</name>
         <name lang="fr">vignette</name>
-        <name lang="it">contrassegno autostradale</name>
       </keyword>
       <keyword id="311" org-id="606">
-        <name lang="de">Auto</name>
-        <name lang="en">car</name>
         <name lang="fr">voiture</name>
         <name lang="it">automobile</name>
+        <name lang="de">Auto</name>
+        <name lang="en">car</name>
       </keyword>
       <keyword id="279" org-id="606">
         <name lang="it">veicolo</name>
@@ -77,30 +77,30 @@
         <name lang="it">automobile</name>
       </keyword>
       <keyword id="279" org-id="606">
-        <name lang="de">Fahrzeug</name>
         <name lang="en">vehicle</name>
         <name lang="fr">véhicule</name>
         <name lang="it">veicolo</name>
+        <name lang="de">Fahrzeug</name>
       </keyword>
       <keyword id="318" org-id="606">
-        <name lang="de">Medien</name>
-        <name lang="en">media</name>
         <name lang="fr">médias</name>
         <name lang="it">media</name>
+        <name lang="de">Medien</name>
+        <name lang="en">media</name>
       </keyword>
       <keyword id="SLW-209" org-id="606">
+        <name lang="it">contrassegno autostradale</name>
         <name lang="de">Vignette</name>
         <name lang="en">motorway sticker</name>
         <name lang="fr">vignette</name>
-        <name lang="it">contrassegno autostradale</name>
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
       <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
+      <name lang="de">Eidgenössisches Finanzdepartement</name>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
@@ -138,18 +138,18 @@
     </content>
     <topics>
       <topic id="583">
-        <name lang="de">Autobahnvignette</name>
         <name lang="en">Motorway sticker</name>
         <name lang="fr">Vignette autoroutière</name>
         <name lang="it">Contrassegno autostradale</name>
         <name lang="rm">Vignetta d'autostrada</name>
+        <name lang="de">Autobahnvignette</name>
       </topic>
       <topic id="48">
-        <name lang="en">Customs</name>
-        <name lang="fr">Douanes</name>
         <name lang="it">Dogane</name>
         <name lang="rm">Duana</name>
         <name lang="de">Zoll</name>
+        <name lang="en">Customs</name>
+        <name lang="fr">Douanes</name>
       </topic>
     </topics>
     <offers/>

@@ -24,22 +24,22 @@
     </originator>
     <keywords>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="en">Food</name>
-        <name lang="fr">Denrées alimentaires</name>
-        <name lang="it">Derrate alimentari</name>
-        <name lang="de">Lebensmittel</name>
-      </keyword>
-      <keyword id="SLW-0006" org-id="1079">
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
         <name lang="fr">Denrées alimentaires</name>
         <name lang="it">Derrate alimentari</name>
       </keyword>
       <keyword id="SLW-0006" org-id="1079">
-        <name lang="fr">Denrées alimentaires</name>
-        <name lang="it">Derrate alimentari</name>
         <name lang="de">Lebensmittel</name>
         <name lang="en">Food</name>
+        <name lang="fr">Denrées alimentaires</name>
+        <name lang="it">Derrate alimentari</name>
+      </keyword>
+      <keyword id="SLW-0006" org-id="1079">
+        <name lang="de">Lebensmittel</name>
+        <name lang="en">Food</name>
+        <name lang="fr">Denrées alimentaires</name>
+        <name lang="it">Derrate alimentari</name>
       </keyword>
     </keywords>
     <department id="301">
@@ -48,11 +48,11 @@
       <name lang="fr">Département fédéral de l'intérieur</name>
       <name lang="it">Dipartimento federale dell'interno</name>
       <name lang="rm">Departament federal da l’intern</name>
+      <www lang="de">https://www.edi.admin.ch</www>
+      <www lang="en">https://www.edi.admin.ch/en</www>
       <www lang="fr">https://www.edi.admin.ch/fr</www>
       <www lang="it">https://www.edi.admin.ch/it</www>
       <www lang="rm">https://www.edi.admin.ch</www>
-      <www lang="de">https://www.edi.admin.ch</www>
-      <www lang="en">https://www.edi.admin.ch/en</www>
     </department>
     <content lang="de">
       <city>Bern</city>
@@ -80,18 +80,18 @@
     </content>
     <topics>
       <topic id="235">
-        <name lang="rm">Victualias vegetalas</name>
         <name lang="de">Pflanzliche Lebensmittel</name>
         <name lang="en">Plant-based foods</name>
         <name lang="fr">Denrées alimentaires végétales</name>
         <name lang="it">Alimenti di origine vegetale </name>
+        <name lang="rm">Victualias vegetalas</name>
       </topic>
       <topic id="479">
-        <name lang="de">Lebensmittelsicherheit</name>
-        <name lang="en">Food safety</name>
         <name lang="fr">Sécurité alimentaire</name>
         <name lang="it">Sicurezza alimentare</name>
         <name lang="rm">Segirezza da victualias</name>
+        <name lang="de">Lebensmittelsicherheit</name>
+        <name lang="en">Food safety</name>
       </topic>
       <topic id="245">
         <name lang="de">Ernährung</name>
