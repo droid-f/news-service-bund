@@ -4,29 +4,13 @@
     <type>Memorandum</type>
     <version>1</version>
     <pubdate>2026-11-11</pubdate>
-    <originator id="1070" department-msg="no" lead="yes" topnews="no">
-      <department-id>1070</department-id>
-      <www lang="rm">https://www.admin.ch/rm</www>
-      <www lang="de">https://www.admin.ch</www>
-      <www lang="en">https://www.admin.ch/en</www>
-      <www lang="fr">https://www.admin.ch/fr</www>
-      <www lang="it">https://www.admin.ch/it</www>
-    </originator>
-    <originator id="101" department-msg="no" lead="no" topnews="no">
-      <department-id>101</department-id>
-      <www lang="rm">https://www.bk.admin.ch/rm</www>
-      <www lang="de">https://www.bk.admin.ch/de</www>
-      <www lang="en">https://www.bk.admin.ch/en</www>
-      <www lang="fr">https://www.bk.admin.ch/fr</www>
-      <www lang="it">https://www.bk.admin.ch/it</www>
-    </originator>
     <originator id="601" department-msg="no" lead="no" topnews="no">
       <department-id>601</department-id>
+      <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
-      <name lang="fr">Département fédéral des finances</name>
-      <name lang="it">Dipartimento federale delle finanze</name>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
@@ -37,6 +21,22 @@
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
       <email lang="rm">media@gs-efd.admin.ch</email>
+    </originator>
+    <originator id="1070" department-msg="no" lead="yes" topnews="no">
+      <department-id>1070</department-id>
+      <www lang="it">https://www.admin.ch/it</www>
+      <www lang="rm">https://www.admin.ch/rm</www>
+      <www lang="de">https://www.admin.ch</www>
+      <www lang="en">https://www.admin.ch/en</www>
+      <www lang="fr">https://www.admin.ch/fr</www>
+    </originator>
+    <originator id="101" department-msg="no" lead="no" topnews="no">
+      <department-id>101</department-id>
+      <www lang="fr">https://www.bk.admin.ch/fr</www>
+      <www lang="it">https://www.bk.admin.ch/it</www>
+      <www lang="rm">https://www.bk.admin.ch/rm</www>
+      <www lang="de">https://www.bk.admin.ch/de</www>
+      <www lang="en">https://www.bk.admin.ch/en</www>
     </originator>
     <keywords/>
     <content lang="it">
@@ -72,11 +72,11 @@
         <name lang="rm">Economia e plazza da finanzas</name>
       </topic>
       <topic id="10">
+        <name lang="en">Federal Council</name>
+        <name lang="fr">Conseil fédéral</name>
         <name lang="it">Consiglio federale</name>
         <name lang="rm">Cussegl federal</name>
         <name lang="de">Bundesrat</name>
-        <name lang="en">Federal Council</name>
-        <name lang="fr">Conseil fédéral</name>
       </topic>
     </topics>
     <offers/>
