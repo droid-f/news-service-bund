@@ -6,11 +6,11 @@
     <pubdate>2026-11-22</pubdate>
     <originator id="811" department-msg="no" lead="yes" topnews="no">
       <department-id>801</department-id>
-      <name lang="de">Bundesamt für Umwelt</name>
       <name lang="en">Federal Office for the Environment</name>
       <name lang="fr">Office fédéral de l'environnement</name>
       <name lang="it">Ufficio federale dell'ambiente</name>
       <name lang="rm">Uffizi federal d'ambient</name>
+      <name lang="de">Bundesamt für Umwelt</name>
       <www lang="de">https://www.bafu.admin.ch/ </www>
       <www lang="en">https://www.bafu.admin.ch/en</www>
       <www lang="fr">https://www.bafu.admin.ch/fr</www>
@@ -34,11 +34,11 @@
       <www lang="fr">https://www.uvek.admin.ch</www>
       <www lang="it">https://www.uvek.admin.ch</www>
       <www lang="rm">https://www.uvek.admin.ch</www>
+      <email lang="en">info@gs-uvek.admin.ch</email>
+      <email lang="fr">info@gs-uvek.admin.ch</email>
       <email lang="it">info@gs-uvek.admin.ch</email>
       <email lang="rm">info@gs-uvek.admin.ch</email>
       <email lang="de">info@gs-uvek.admin.ch</email>
-      <email lang="en">info@gs-uvek.admin.ch</email>
-      <email lang="fr">info@gs-uvek.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-620" org-id="811">
@@ -48,10 +48,10 @@
         <name lang="it">Clima</name>
       </keyword>
       <keyword id="SLW-560" org-id="811">
+        <name lang="it">Affari internazionali</name>
         <name lang="de">Internationales</name>
         <name lang="en">International affairs</name>
         <name lang="fr">Affaires internationales</name>
-        <name lang="it">Affari internazionali</name>
       </keyword>
       <keyword id="SLW-620" org-id="811">
         <name lang="de">Klima</name>
@@ -60,16 +60,16 @@
         <name lang="it">Clima</name>
       </keyword>
       <keyword id="SLW-560" org-id="811">
+        <name lang="de">Internationales</name>
         <name lang="en">International affairs</name>
         <name lang="fr">Affaires internationales</name>
         <name lang="it">Affari internazionali</name>
-        <name lang="de">Internationales</name>
       </keyword>
       <keyword id="SLW-620" org-id="811">
-        <name lang="it">Clima</name>
-        <name lang="de">Klima</name>
         <name lang="en">Climate</name>
         <name lang="fr">Climat</name>
+        <name lang="it">Clima</name>
+        <name lang="de">Klima</name>
       </keyword>
       <keyword id="SLW-560" org-id="811">
         <name lang="de">Internationales</name>
@@ -128,11 +128,11 @@
         <name lang="fr">Climat</name>
       </topic>
       <topic id="21">
-        <name lang="en">Environment &amp; Nature</name>
         <name lang="fr">Environnement et nature</name>
         <name lang="it">Ambiente e natura</name>
         <name lang="rm">Ambient e natira</name>
         <name lang="de">Umwelt &amp; Natur</name>
+        <name lang="en">Environment &amp; Nature</name>
       </topic>
       <topic id="112">
         <name lang="de">Umwelt</name>

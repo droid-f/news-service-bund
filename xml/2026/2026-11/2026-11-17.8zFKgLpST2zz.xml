@@ -11,10 +11,10 @@
       <name lang="it">Ufficio federale di topografia swisstopo</name>
       <name lang="rm">Uffizi federal da topografia swisstopo</name>
       <name lang="de">Bundesamt für Landestopografie swisstopo</name>
-      <www lang="fr">http://www.swisstopo.admin.ch/</www>
-      <www lang="it">http://www.swisstopo.admin.ch/</www>
       <www lang="de">http://www.swisstopo.admin.ch/</www>
       <www lang="en">http://www.swisstopo.admin.ch/</www>
+      <www lang="fr">http://www.swisstopo.admin.ch/</www>
+      <www lang="it">http://www.swisstopo.admin.ch/</www>
       <email lang="de">infokmk@swisstopo.ch</email>
       <email lang="en">infokmk@swisstopo.ch</email>
       <email lang="fr">infokmk@swisstopo.ch</email>
@@ -23,11 +23,11 @@
     </originator>
     <keywords/>
     <department id="501">
-      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
-      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <name lang="en">Federal Department of Defence, Civil Protection and Sport</name>
       <name lang="fr">Département fédéral de la défense, de la protection de la population et des sports</name>
       <name lang="it">Dipartimento federale della difesa, della protezione della popolazione e dello sport</name>
+      <name lang="rm">Departament federal da defensiun, protecziun da la populaziun e sport</name>
+      <name lang="de">Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport</name>
       <www lang="it">https://www.vbs.admin.ch/it</www>
       <www lang="rm">https://www.vbs.admin.ch/rm</www>
       <www lang="de">https://www.vbs.admin.ch/de</www>
@@ -42,14 +42,6 @@
       <contact>Ressort Communication et Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
       <revisions/>
     </content>
-    <content lang="it">
-      <city>Berna</city>
-      <title>SWISSGEO semplifica l’accesso alle geoinformazioni ufficiali della Svizzera</title>
-      <lead>La Confederazione e i Cantoni lanciano SWISSGEO, una nuova piattaforma comune per l’accesso alle geoinformazioni ufficiali della Svizzera. Questa piattaforma consente di cercare, consultare e utilizzare più facilmente informazioni finora distribuite tra diversi portali federali e cantonali.</lead>
-      <text link="no">&lt;p&gt;I geodati sono diventati indispensabili in numerosi ambiti della vita pubblica, economica e quotidiana. Servono in particolare per la pianificazione delle infrastrutture e dei trasporti, la gestione del territorio, la tutela dell’ambiente, la gestione delle risorse naturali, la prevenzione dei pericoli e il sostegno all’operato delle autorità in situazioni di crisi.&lt;/p&gt; &lt;h2&gt;Piattaforma comune per le geoinformazioni ufficiali&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Questa prima versione di SWISSGEO, accessibile all’indirizzo &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt;, è incentrata sulla ricerca, l’individuazione, la visualizzazione e l’interconnessione delle geoinformazioni provenienti dalla Confederazione e dai Cantoni. Comprende in particolare i geodati federali (&lt;a href="www.geo.admin.ch"&gt;geo.admin.ch&lt;/a&gt;) e i geodati cantonali armonizzati (&lt;a href="www.geodienste.ch"&gt;geodienste.ch&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;Questa nuova piattaforma offre agli utenti un accesso semplificato alle geoinformazioni ufficiali della Svizzera. È possibile cercare tali informazioni e accedervi senza dover prima identificare l’autorità che le produce o le mette a disposizione.&lt;/p&gt; &lt;h2&gt;Una collaborazione di lungo corso&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;SWISSGEO si inserisce in una collaborazione di lunga data tra la Confederazione e i Cantoni volta a sviluppare l’Infrastruttura nazionale di dati geografici (INDG). Anche le città, i Comuni e numerosi enti pubblici contribuiscono a tale sforzo producendo, pubblicando o utilizzando geoinformazioni.&lt;/p&gt; &lt;p&gt;La geopiattaforma deve riunire e interconnettere progressivamente i dati, i servizi e gli strumenti dell’INDG in un ambiente comune, coerente e facilmente accessibile. L’INDG collega gli attori, i geodati, i geoservizi, i metadati e gli standard necessari per un utilizzo coordinato delle geoinformazioni in Svizzera. SWISSGEO le conferisce un’identità pubblica comune e costituisce un punto di accesso nazionale.&lt;/p&gt; &lt;p&gt;La geopiattaforma è sviluppata e gestita da swisstopo e dalla Conferenza dei servizi cantonali di geoinformazione e catasto (CGC), in stretta collaborazione con i partner dell’INDG. Ciascun produttore di dati rimane responsabile del contenuto, dell’aggiornamento e della qualità dei propri dati.&lt;/p&gt; &lt;h2&gt;Lancio graduale di swissgeo.ch&lt;/h2&gt; &lt;p&gt;Il lancio di &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt; costituisce la prima tappa visibile di un’evoluzione più ampia dell’INDG. I dati, i servizi e le infrastrutture dei partner saranno progressivamente interconnessi sotto la nuova identità comune SWISSGEO.&lt;/p&gt; &lt;p&gt;Le funzionalità attualmente offerte su &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt; rimangono limitate. La piattaforma sarà tuttavia sviluppata in modo continuo, in base alle esigenze e alle priorità definite con i partner. Durante la fase di transizione, &lt;a href="http://www.geo.admin.ch"&gt;www.geo.admin.ch&lt;/a&gt;, &lt;a href="http://www.geodienste.ch"&gt;www.geodienste.ch&lt;/a&gt; e &lt;a href="http://www.geocat.ch"&gt;www.geocat.ch&lt;/a&gt; rimarranno disponibili per garantire l’accesso ai servizi esistenti. I relativi servizi saranno progressivamente integrati e altri sistemi saranno interconnessi sotto l’identità SWISSGEO.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://swissgeo.ch"&gt;&lt;em&gt;swissgeo.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://map.geo.admin.ch/"&gt;&lt;em&gt;map.geo.admin.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://geodienste.ch/"&gt;&lt;em&gt;geodienste.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.geocat.ch"&gt;&lt;em&gt;geocat.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;Contatti CGC&lt;/strong&gt;&lt;br&gt;Conferenza dei servizi cantonali per la Geoinformazione e del Catasto&lt;a href="mailto:info@kgk-cgc.ch"&gt;&lt;/a&gt;&lt;br&gt;Casa dei cantoni&lt;br&gt; Speichergasse 6&lt;br&gt; Casella postale&lt;br&gt; 3001 Berna&lt;br&gt; &lt;a href="tel:0041313000920"&gt;+41 31 300 09 20&lt;/a&gt;&lt;br&gt; &lt;a href="mailto:info@kgk-cgc.ch"&gt;info@kgk-cgc.ch&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Reparto Comunicazione e Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
-      <revisions/>
-    </content>
     <content lang="de">
       <city>Bern</city>
       <title>SWISSGEO vereinfacht den Zugang zu offiziellen Geoinformationen der Schweiz</title>
@@ -58,13 +50,21 @@
       <contact>Ressort Kommunikation und Web Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>SWISSGEO semplifica l’accesso alle geoinformazioni ufficiali della Svizzera</title>
+      <lead>La Confederazione e i Cantoni lanciano SWISSGEO, una nuova piattaforma comune per l’accesso alle geoinformazioni ufficiali della Svizzera. Questa piattaforma consente di cercare, consultare e utilizzare più facilmente informazioni finora distribuite tra diversi portali federali e cantonali.</lead>
+      <text link="no">&lt;p&gt;I geodati sono diventati indispensabili in numerosi ambiti della vita pubblica, economica e quotidiana. Servono in particolare per la pianificazione delle infrastrutture e dei trasporti, la gestione del territorio, la tutela dell’ambiente, la gestione delle risorse naturali, la prevenzione dei pericoli e il sostegno all’operato delle autorità in situazioni di crisi.&lt;/p&gt; &lt;h2&gt;Piattaforma comune per le geoinformazioni ufficiali&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Questa prima versione di SWISSGEO, accessibile all’indirizzo &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt;, è incentrata sulla ricerca, l’individuazione, la visualizzazione e l’interconnessione delle geoinformazioni provenienti dalla Confederazione e dai Cantoni. Comprende in particolare i geodati federali (&lt;a href="www.geo.admin.ch"&gt;geo.admin.ch&lt;/a&gt;) e i geodati cantonali armonizzati (&lt;a href="www.geodienste.ch"&gt;geodienste.ch&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;Questa nuova piattaforma offre agli utenti un accesso semplificato alle geoinformazioni ufficiali della Svizzera. È possibile cercare tali informazioni e accedervi senza dover prima identificare l’autorità che le produce o le mette a disposizione.&lt;/p&gt; &lt;h2&gt;Una collaborazione di lungo corso&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;SWISSGEO si inserisce in una collaborazione di lunga data tra la Confederazione e i Cantoni volta a sviluppare l’Infrastruttura nazionale di dati geografici (INDG). Anche le città, i Comuni e numerosi enti pubblici contribuiscono a tale sforzo producendo, pubblicando o utilizzando geoinformazioni.&lt;/p&gt; &lt;p&gt;La geopiattaforma deve riunire e interconnettere progressivamente i dati, i servizi e gli strumenti dell’INDG in un ambiente comune, coerente e facilmente accessibile. L’INDG collega gli attori, i geodati, i geoservizi, i metadati e gli standard necessari per un utilizzo coordinato delle geoinformazioni in Svizzera. SWISSGEO le conferisce un’identità pubblica comune e costituisce un punto di accesso nazionale.&lt;/p&gt; &lt;p&gt;La geopiattaforma è sviluppata e gestita da swisstopo e dalla Conferenza dei servizi cantonali di geoinformazione e catasto (CGC), in stretta collaborazione con i partner dell’INDG. Ciascun produttore di dati rimane responsabile del contenuto, dell’aggiornamento e della qualità dei propri dati.&lt;/p&gt; &lt;h2&gt;Lancio graduale di swissgeo.ch&lt;/h2&gt; &lt;p&gt;Il lancio di &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt; costituisce la prima tappa visibile di un’evoluzione più ampia dell’INDG. I dati, i servizi e le infrastrutture dei partner saranno progressivamente interconnessi sotto la nuova identità comune SWISSGEO.&lt;/p&gt; &lt;p&gt;Le funzionalità attualmente offerte su &lt;a href="www.swissgeo.ch"&gt;swissgeo.ch&lt;/a&gt; rimangono limitate. La piattaforma sarà tuttavia sviluppata in modo continuo, in base alle esigenze e alle priorità definite con i partner. Durante la fase di transizione, &lt;a href="http://www.geo.admin.ch"&gt;www.geo.admin.ch&lt;/a&gt;, &lt;a href="http://www.geodienste.ch"&gt;www.geodienste.ch&lt;/a&gt; e &lt;a href="http://www.geocat.ch"&gt;www.geocat.ch&lt;/a&gt; rimarranno disponibili per garantire l’accesso ai servizi esistenti. I relativi servizi saranno progressivamente integrati e altri sistemi saranno interconnessi sotto l’identità SWISSGEO.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href="https://swissgeo.ch"&gt;&lt;em&gt;swissgeo.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://map.geo.admin.ch/"&gt;&lt;em&gt;map.geo.admin.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://geodienste.ch/"&gt;&lt;em&gt;geodienste.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.geocat.ch"&gt;&lt;em&gt;geocat.ch&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;Contatti CGC&lt;/strong&gt;&lt;br&gt;Conferenza dei servizi cantonali per la Geoinformazione e del Catasto&lt;a href="mailto:info@kgk-cgc.ch"&gt;&lt;/a&gt;&lt;br&gt;Casa dei cantoni&lt;br&gt; Speichergasse 6&lt;br&gt; Casella postale&lt;br&gt; 3001 Berna&lt;br&gt; &lt;a href="tel:0041313000920"&gt;+41 31 300 09 20&lt;/a&gt;&lt;br&gt; &lt;a href="mailto:info@kgk-cgc.ch"&gt;info@kgk-cgc.ch&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Reparto Comunicazione e Web swisstopo Seftigenstrasse 264 3084 Wabern +41 58 465 62 85 infokmk@swisstopo.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="40">
+        <name lang="de">Sicherheit</name>
+        <name lang="en">Security</name>
         <name lang="fr">Sécurité</name>
         <name lang="it">Sicurezza</name>
         <name lang="rm">Segirezza</name>
-        <name lang="de">Sicherheit</name>
-        <name lang="en">Security</name>
       </topic>
     </topics>
     <offers/>

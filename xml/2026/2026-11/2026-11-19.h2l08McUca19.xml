@@ -6,30 +6,24 @@
     <pubdate>2026-11-19</pubdate>
     <originator id="1079" department-msg="no" lead="yes" topnews="no">
       <department-id>301</department-id>
-      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
-      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <name lang="de">Bundesamt für Lebensmittelsicherheit und Veterinärwesen</name>
       <name lang="en">Federal Food Safety and Veterinary Office</name>
       <name lang="fr">Office fédéral de la sécurité alimentaire et des affaires vétérinaires</name>
+      <name lang="it">Ufficio federale della sicurezza alimentare e di veterinaria</name>
+      <name lang="rm">Uffizi federal da segirezza alimentara e fatgs veterinars</name>
       <www lang="de">https://www.blv.admin.ch</www>
       <www lang="en">https://www.blv.admin.ch/en</www>
       <www lang="fr">https://www.blv.admin.ch/fr</www>
       <www lang="it">https://www.blv.admin.ch/it</www>
       <www lang="rm">https://www.blv.admin.ch</www>
-      <email lang="de">media@blv.admin.ch</email>
       <email lang="en">media@blv.admin.ch</email>
       <email lang="fr">media@blv.admin.ch</email>
       <email lang="it">media@blv.admin.ch</email>
       <email lang="rm">media@blv.admin.ch</email>
+      <email lang="de">media@blv.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-0009" org-id="1079">
-        <name lang="fr">Maladies animales</name>
-        <name lang="it">Epizoozie</name>
-        <name lang="de">Tierseuchen</name>
-        <name lang="en">Animal diseases</name>
-      </keyword>
-      <keyword id="SLW-0009" org-id="1079">
         <name lang="de">Tierseuchen</name>
         <name lang="en">Animal diseases</name>
         <name lang="fr">Maladies animales</name>
@@ -40,6 +34,12 @@
         <name lang="en">Animal diseases</name>
         <name lang="fr">Maladies animales</name>
         <name lang="it">Epizoozie</name>
+      </keyword>
+      <keyword id="SLW-0009" org-id="1079">
+        <name lang="it">Epizoozie</name>
+        <name lang="de">Tierseuchen</name>
+        <name lang="en">Animal diseases</name>
+        <name lang="fr">Maladies animales</name>
       </keyword>
     </keywords>
     <department id="301">
@@ -87,11 +87,11 @@
         <name lang="rm">Sanadad d'animals</name>
       </topic>
       <topic id="47">
-        <name lang="it">Economia e piazza finanziaria</name>
         <name lang="rm">Economia e plazza da finanzas</name>
         <name lang="de">Wirtschaft &amp; Finanzplatz</name>
         <name lang="en">Economic &amp; Financial Centre</name>
         <name lang="fr">Économie et place financière</name>
+        <name lang="it">Economia e piazza finanziaria</name>
       </topic>
     </topics>
     <offers/>
