@@ -10,14 +10,14 @@
       <name lang="fr">Contrôle fédéral des finances</name>
       <name lang="it">Controllo federale delle finanze</name>
       <name lang="en">Swiss Federal Audit Office</name>
-      <www lang="en">https://www.efk.admin.ch/en</www>
       <www lang="de">https://www.efk.admin.ch</www>
       <www lang="fr">https://www.efk.admin.ch/fr</www>
       <www lang="it">https://www.efk.admin.ch/it</www>
-      <email lang="de">kommunikation@efk.admin.ch</email>
+      <www lang="en">https://www.efk.admin.ch/en</www>
       <email lang="fr">kommunikation@efk.admin.ch</email>
       <email lang="it">kommunikation@efk.admin.ch</email>
       <email lang="en">kommunikation@efk.admin.ch</email>
+      <email lang="de">kommunikation@efk.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="18243" org-id="1011">
@@ -31,38 +31,22 @@
         <name lang="rm">Repport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
-        <name lang="fr">Rapport</name>
         <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
+        <name lang="fr">Rapport</name>
       </keyword>
       <keyword id="18243" org-id="1011">
+        <name lang="it">Verifica</name>
         <name lang="rm">Repport</name>
         <name lang="fr">Rapport</name>
-        <name lang="it">Verifica</name>
       </keyword>
     </keywords>
-    <content lang="it">
-      <city>Berna</city>
-      <title>Verifica della vigilanza e dell’alta vigilanza della metrologia</title>
-      <lead>L’Istituto federale di metrologia (METAS) è un ente di diritto pubblico della Confederazione avente il compito di garantire la precisione e la tracciabilità delle misure riconosciute a livello internazionale, assicurare la conformità alle prescrizioni legali e svolgere attività di ricerca. Per garantire la conformità degli strumenti di misura impiegati nei diversi settori (commercio, sanità, sicurezza e ambiente), il METAS vigila sull’esecuzione delle verifiche condotte dai propri laboratori, dai laboratori autorizzati e dagli uffici di verificazione cantonali. Nei confronti delle autorità cantonali di vigilanza agisce in qualità di organo di alta vigilanza. Il Controllo federale delle finanze (CDF) ha valutato l’efficacia e l’efficienza del dispositivo di vigilanza e di alta vigilanza istituito dal METAS, nonché la sua applicazione presso tutti gli attori coinvolti. Il CDF conclude che il sistema è efficace, ma non è né economico né efficiente. Questa constatazione è dovuta principalmente alla forte decentralizzazione dei compiti di verifica derivante dal sistema federale, il quale non è mai stato messo in discussione.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/vigilanza-e-lalta-vigilanza-della-metrologia/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
     <content lang="fr">
       <city>Berne</city>
       <title>Audit de la surveillance et de la haute surveillance de la métrologie</title>
       <lead>L’Institut fédéral de métrologie (METAS) est un établissement de droit public de la Confédération qui a comme mission de garantir la précision et la traçabilité des mesures reconnues à l’échelle internationale, assurer la conformité aux prescriptions légales et conduire des activités de recherche. Pour garantir la conformité des instruments de mesure employés dans divers secteurs (commerce, santé, sécurité et environnement), METAS surveille l’exécution des vérifications réalisées par ses propres laboratoires, par les laboratoires habilités et par les offices de vérification cantonaux. Vis‑à‑vis des autorités cantonales de surveillance, il intervient en tant qu’organe de haute surveillance. Le Contrôle fédéral des finances (CDF) a évalué l’efficacité et l’efficience du dispositif de surveillance et de haute surveillance mis en place par METAS, ainsi que son application auprès de l’ensemble des acteurs. Le CDF conclut que le système de surveillance est efficace, mais qu’il n’est ni économique, ni efficient. Ce constat s’explique principalement par la forte décentralisation des tâches de vérification, due au système fédéral, qui n’a jamais été remise en cause.</lead>
       <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/fr/audit/surveillance-et-haute-surveillance-de-la-metrologie/"&gt;Détails et rapport complet&lt;/a&gt;&lt;/p&gt;</text>
       <contact>Contrôle fédéral des finances Communication Monbijoustrasse 45 CH-3003 Berne +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
-      <revisions/>
-    </content>
-    <content lang="en">
-      <city>Bern</city>
-      <title>Audit of the supervision supreme and supervision of metrology</title>
-      <lead>The Federal Institute of Metrology (METAS) is a public-law institution of the Swiss Confederation whose mission is to guarantee the accuracy and traceability of internationally recognised measurements, ensure compliance with legal requirements and carry out research activities. To ensure the conformity of measuring instruments used in various sectors (trade, health, safety and the environment), METAS monitors the performance of verifications carried out by its own laboratories, by authorised laboratories and by cantonal verification offices. It acts as a supreme supervisory body for the cantonal supervisory authorities. The Swiss Federal Audit Office (SFAO) assessed the effectiveness and efficiency of the supervision and supreme supervision systems established by METAS, as well as its implementation across all stakeholders. The SFAO concluded that the supervision system is effective, but that it is neither economical nor efficient. This finding is mainly due to the fact verification tasks are highly decentralised as a result of the federal system, a situation that has never been called into question.</lead>
-      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/supervision-supreme-and-supervision-of-metrology/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
-      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
     <content lang="de">
@@ -73,13 +57,29 @@
       <contact>Eidgenössische Finanzkontrolle Kommunikation Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
       <revisions/>
     </content>
+    <content lang="it">
+      <city>Berna</city>
+      <title>Verifica della vigilanza e dell’alta vigilanza della metrologia</title>
+      <lead>L’Istituto federale di metrologia (METAS) è un ente di diritto pubblico della Confederazione avente il compito di garantire la precisione e la tracciabilità delle misure riconosciute a livello internazionale, assicurare la conformità alle prescrizioni legali e svolgere attività di ricerca. Per garantire la conformità degli strumenti di misura impiegati nei diversi settori (commercio, sanità, sicurezza e ambiente), il METAS vigila sull’esecuzione delle verifiche condotte dai propri laboratori, dai laboratori autorizzati e dagli uffici di verificazione cantonali. Nei confronti delle autorità cantonali di vigilanza agisce in qualità di organo di alta vigilanza. Il Controllo federale delle finanze (CDF) ha valutato l’efficacia e l’efficienza del dispositivo di vigilanza e di alta vigilanza istituito dal METAS, nonché la sua applicazione presso tutti gli attori coinvolti. Il CDF conclude che il sistema è efficace, ma non è né economico né efficiente. Questa constatazione è dovuta principalmente alla forte decentralizzazione dei compiti di verifica derivante dal sistema federale, il quale non è mai stato messo in discussione.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/it/verifica/vigilanza-e-lalta-vigilanza-della-metrologia/"&gt;Ulteriori dettagli e rapporto completo&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Controllo federale delle finanze Comunicazione Monbijoustrasse 45 CH-3003 Berna +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
+    <content lang="en">
+      <city>Bern</city>
+      <title>Audit of the supervision supreme and supervision of metrology</title>
+      <lead>The Federal Institute of Metrology (METAS) is a public-law institution of the Swiss Confederation whose mission is to guarantee the accuracy and traceability of internationally recognised measurements, ensure compliance with legal requirements and carry out research activities. To ensure the conformity of measuring instruments used in various sectors (trade, health, safety and the environment), METAS monitors the performance of verifications carried out by its own laboratories, by authorised laboratories and by cantonal verification offices. It acts as a supreme supervisory body for the cantonal supervisory authorities. The Swiss Federal Audit Office (SFAO) assessed the effectiveness and efficiency of the supervision and supreme supervision systems established by METAS, as well as its implementation across all stakeholders. The SFAO concluded that the supervision system is effective, but that it is neither economical nor efficient. This finding is mainly due to the fact verification tasks are highly decentralised as a result of the federal system, a situation that has never been called into question.</lead>
+      <text link="no">&lt;p&gt;&lt;a href="https://www.efk.admin.ch/en/audit/supervision-supreme-and-supervision-of-metrology/"&gt;Further details and full report&lt;/a&gt;&lt;/p&gt;</text>
+      <contact>Swiss Federal Audit Office Communication Monbijoustrasse 45 CH-3003 Bern +41 58 463 11 11 kommunikation@efk.admin.ch</contact>
+      <revisions/>
+    </content>
     <topics>
       <topic id="5">
-        <name lang="de">Behörden</name>
         <name lang="en">Government offices</name>
         <name lang="fr">Autorités</name>
         <name lang="it">Autorità</name>
         <name lang="rm">Autoritads</name>
+        <name lang="de">Behörden</name>
       </topic>
     </topics>
     <offers/>
