@@ -16,11 +16,11 @@
       <www lang="fr">https://www.eda.admin.ch/fr</www>
       <www lang="it">https://www.eda.admin.ch/it</www>
       <www lang="rm">https://www.eda.admin.ch/de</www>
+      <email lang="rm">kommunikation@eda.admin.ch</email>
+      <email lang="de">kommunikation@eda.admin.ch</email>
       <email lang="en">kommunikation@eda.admin.ch</email>
       <email lang="fr">kommunikation@eda.admin.ch</email>
       <email lang="it">kommunikation@eda.admin.ch</email>
-      <email lang="rm">kommunikation@eda.admin.ch</email>
-      <email lang="de">kommunikation@eda.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="6288" org-id="201">
@@ -30,16 +30,16 @@
         <name lang="it">Repubblica di Corea (Sud)</name>
       </keyword>
       <keyword id="11079" org-id="201">
-        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
         <name lang="en">Democratic People's Republic of Korea (Nord)</name>
         <name lang="fr">République populaire démocratique de Corée (Nord)</name>
         <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
+        <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
       </keyword>
       <keyword id="6288" org-id="201">
-        <name lang="de">Republik Korea (Süd-)</name>
         <name lang="en">Republic of Korea (South)</name>
         <name lang="fr">République Corée (Sud)</name>
         <name lang="it">Repubblica di Corea (Sud)</name>
+        <name lang="de">Republik Korea (Süd-)</name>
       </keyword>
       <keyword id="11079" org-id="201">
         <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
@@ -60,16 +60,16 @@
         <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
       </keyword>
       <keyword id="6288" org-id="201">
-        <name lang="de">Republik Korea (Süd-)</name>
-        <name lang="en">Republic of Korea (South)</name>
         <name lang="fr">République Corée (Sud)</name>
         <name lang="it">Repubblica di Corea (Sud)</name>
+        <name lang="de">Republik Korea (Süd-)</name>
+        <name lang="en">Republic of Korea (South)</name>
       </keyword>
       <keyword id="11079" org-id="201">
+        <name lang="fr">République populaire démocratique de Corée (Nord)</name>
         <name lang="it">Repubblica popolare democratica di Corea (Nord)</name>
         <name lang="de">Demokratische Volksrepublik Korea (Nord-)</name>
         <name lang="en">Democratic People's Republic of Korea (Nord)</name>
-        <name lang="fr">République populaire démocratique de Corée (Nord)</name>
       </keyword>
     </keywords>
     <content lang="de">
@@ -106,11 +106,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="en">Foreign affairs</name>
+        <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
         <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
-        <name lang="en">Foreign affairs</name>
-        <name lang="fr">Étranger</name>
       </topic>
       <topic id="16">
         <name lang="de">Aussenpolitik</name>
@@ -120,10 +120,10 @@
         <name lang="rm">Politica exteriura</name>
       </topic>
       <topic id="103">
-        <name lang="de">Aussenbeziehungen</name>
-        <name lang="en">External relations</name>
         <name lang="fr">Relations extérieures</name>
         <name lang="it">Relazioni esterne</name>
+        <name lang="de">Aussenbeziehungen</name>
+        <name lang="en">External relations</name>
       </topic>
     </topics>
     <offers/>

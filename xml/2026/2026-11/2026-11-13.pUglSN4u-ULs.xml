@@ -16,11 +16,11 @@
       <www lang="fr">https://www.ejpd.admin.ch/ejpd/fr/home.html</www>
       <www lang="it">https://www.ejpd.admin.ch/ejpd/it/home.html</www>
       <www lang="rm">https://www.ejpd.admin.ch/ejpd/rm/home.html</www>
+      <email lang="it">info@gs-ejpd.admin.ch</email>
+      <email lang="rm">info@gs-ejpd.admin.ch</email>
       <email lang="de">info@gs-ejpd.admin.ch</email>
       <email lang="en">info@gs-ejpd.admin.ch</email>
       <email lang="fr">info@gs-ejpd.admin.ch</email>
-      <email lang="it">info@gs-ejpd.admin.ch</email>
-      <email lang="rm">info@gs-ejpd.admin.ch</email>
     </originator>
     <keywords>
       <keyword id="SLW-95" org-id="401">
@@ -30,10 +30,10 @@
         <name lang="it">Schengen/Dublin</name>
       </keyword>
       <keyword id="SLW-95" org-id="401">
-        <name lang="it">Schengen/Dublin</name>
         <name lang="de">Schengen/Dublin</name>
         <name lang="en">Schengen/Dublin</name>
         <name lang="fr">Schengen/Dublin</name>
+        <name lang="it">Schengen/Dublin</name>
       </keyword>
       <keyword id="SLW-95" org-id="401">
         <name lang="de">Schengen/Dublin</name>
@@ -68,11 +68,11 @@
     </content>
     <topics>
       <topic id="39">
+        <name lang="rm">Exteriur</name>
         <name lang="de">Ausland</name>
         <name lang="en">Foreign affairs</name>
         <name lang="fr">Étranger</name>
         <name lang="it">Estero</name>
-        <name lang="rm">Exteriur</name>
       </topic>
       <topic id="34">
         <name lang="de">Schweiz und Europa</name>
@@ -89,11 +89,11 @@
         <name lang="rm">Duana</name>
       </topic>
       <topic id="20">
-        <name lang="de">Migration &amp; Integration</name>
         <name lang="en">Migration &amp; Integration</name>
         <name lang="fr">Migration et intégration</name>
         <name lang="it">Migrazione e integrazione</name>
         <name lang="rm">Migraziun ed integraziun</name>
+        <name lang="de">Migration &amp; Integration</name>
       </topic>
     </topics>
     <offers/>

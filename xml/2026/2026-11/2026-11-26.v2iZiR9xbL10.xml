@@ -6,11 +6,11 @@
     <pubdate>2026-11-26</pubdate>
     <originator id="606" department-msg="no" lead="yes" topnews="no">
       <department-id>601</department-id>
+      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
+      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <name lang="en">Federal Office for Customs and Border Security</name>
       <name lang="fr">Office fédéral de la douane et de la sécurité des frontières</name>
       <name lang="it">Ufficio federale della dogana e della sicurezza dei confini</name>
-      <name lang="rm">Uffizi federal da la duana e da la segirezza dals cunfins</name>
-      <name lang="de">Bundesamt für Zoll und Grenzsicherheit</name>
       <www lang="de">https://www.bazg.admin.ch</www>
       <www lang="en">https://www.bazg.admin.ch/en</www>
       <www lang="fr">https://www.bazg.admin.ch/fr</www>
@@ -30,10 +30,10 @@
         <name lang="it">esportazione</name>
       </keyword>
       <keyword id="315" org-id="606">
-        <name lang="it">ditte</name>
         <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
+        <name lang="it">ditte</name>
       </keyword>
       <keyword id="280" org-id="606">
         <name lang="de">Freihandelsabkommen</name>
@@ -48,46 +48,46 @@
         <name lang="de">Handelswaren</name>
       </keyword>
       <keyword id="310" org-id="606">
-        <name lang="de">Ausfuhr</name>
         <name lang="en">export</name>
         <name lang="fr">exportation</name>
         <name lang="it">esportazione</name>
+        <name lang="de">Ausfuhr</name>
       </keyword>
       <keyword id="315" org-id="606">
+        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
-        <name lang="de">Firmen</name>
       </keyword>
       <keyword id="280" org-id="606">
-        <name lang="fr">accords de libre-échange</name>
-        <name lang="it">accordi di libero scambio</name>
         <name lang="de">Freihandelsabkommen</name>
         <name lang="en">free trade agreements</name>
+        <name lang="fr">accords de libre-échange</name>
+        <name lang="it">accordi di libero scambio</name>
       </keyword>
       <keyword id="283" org-id="606">
+        <name lang="it">merci commerciali</name>
         <name lang="de">Handelswaren</name>
         <name lang="en">commercial goods</name>
         <name lang="fr">marchandises commerciales</name>
-        <name lang="it">merci commerciali</name>
       </keyword>
       <keyword id="310" org-id="606">
+        <name lang="fr">exportation</name>
         <name lang="it">esportazione</name>
         <name lang="de">Ausfuhr</name>
         <name lang="en">export</name>
-        <name lang="fr">exportation</name>
       </keyword>
       <keyword id="315" org-id="606">
-        <name lang="de">Firmen</name>
         <name lang="en">companies</name>
         <name lang="fr">entreprises</name>
         <name lang="it">ditte</name>
+        <name lang="de">Firmen</name>
       </keyword>
       <keyword id="280" org-id="606">
-        <name lang="de">Freihandelsabkommen</name>
         <name lang="en">free trade agreements</name>
         <name lang="fr">accords de libre-échange</name>
         <name lang="it">accordi di libero scambio</name>
+        <name lang="de">Freihandelsabkommen</name>
       </keyword>
       <keyword id="283" org-id="606">
         <name lang="de">Handelswaren</name>
@@ -97,21 +97,21 @@
       </keyword>
     </keywords>
     <department id="601">
-      <name lang="it">Dipartimento federale delle finanze</name>
       <name lang="rm">Departement federal da finanzas</name>
       <name lang="de">Eidgenössisches Finanzdepartement</name>
       <name lang="en">Federal Department of Finance</name>
       <name lang="fr">Département fédéral des finances</name>
+      <name lang="it">Dipartimento federale delle finanze</name>
       <www lang="de">https://www.efd.admin.ch</www>
       <www lang="en">https://www.efd.admin.ch/en</www>
       <www lang="fr">https://www.efd.admin.ch/fr</www>
       <www lang="it">https://www.efd.admin.ch/it</www>
       <www lang="rm">https://www.efd.admin.ch/rm</www>
+      <email lang="rm">media@gs-efd.admin.ch</email>
       <email lang="de">media@gs-efd.admin.ch</email>
       <email lang="en">media@gs-efd.admin.ch</email>
       <email lang="fr">media@gs-efd.admin.ch</email>
       <email lang="it">media@gs-efd.admin.ch</email>
-      <email lang="rm">media@gs-efd.admin.ch</email>
     </department>
     <content lang="it">
       <city>Berna</city>
